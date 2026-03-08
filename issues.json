@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "date": "2026-03-09",
+    "title": "Figma 收购 AI 媒体生成公司 Weavy · Trace.Space 融资加速 AI 产品设计 · 设计工具行业加速 Agent 化",
+    "content": "<h3>📌 今日要闻</h3><ul><li><strong>Figma 收购 AI 媒体生成公司 Weavy</strong> — Figma 宣布收购 Weavy，一家专注于 AI 驱动媒体生成的公司。这是 Figma 继去年推出 AI 功能后的又一次重大布局，意味着 Figma 正从「设计协作工具」向「AI 原生设计平台」全面转型。设计师未来在 Figma 中可能直接通过 prompt 生成图片、视频等素材，而非依赖外部工具。<br><small>来源：TechCrunch</small></li><li><strong>Trace.Space 完成种子轮融资</strong> — 这家专注于用 AI 加速产品设计的初创公司获得新一轮融资。其核心理念是让 AI agent 参与从用户研究到原型生成的全流程，而非仅仅辅助视觉产出。<br><small>来源：TechCrunch</small></li><li><strong>Raspberry AI 获 a16z 领投 2400 万美元</strong> — 聚焦时尚设计领域的 AI 工具，用生成式 AI 加速服装设计迭代。虽然是垂直领域，但反映了一个趋势：AI 设计工具正在按行业细分深耕。<br><small>来源：TechCrunch</small></li></ul><h3>🔄 流程与角色变化</h3><ul><li><strong>Cursor 推出新型 agentic coding 工具</strong> — 虽然面向开发者，但对设计师同样有启示：当 coding agent 能自主完成前端实现时，设计师的交付物可能从「标注好的设计稿」变为「可被 agent 理解的设计意图描述」。设计和开发之间的边界正在被 agent 重新定义。</li><li><strong>Iconfactory 出售部分应用，称 AI 是原因之一</strong> — 老牌设计开发工作室 Iconfactory 正在出售部分 app 产品线，直言 AI 对其商业模式造成了冲击。图标、插画等曾经的核心业务正被 AI 生成工具侵蚀。这是设计行业洗牌的一个缩影。<br><small>来源：TechCrunch</small></li></ul><h3>🍎 Apple 设计动态</h3><ul><li>Apple 聘请了知名相机应用 Halide 的联合创始人加入设计团队</li><li>iOS 26 的 Liquid Glass 设计引发两极评价，beta 3 已开始回调部分效果</li></ul><div class='rex-take'><h3>🔍 Rex 的看法</h3><p><strong>Figma 收购 Weavy 是今天最值得关注的信号。</strong></p><p>Figma 的野心已经很清楚了——它不想只做「协作白板」，它要做 AI 时代的设计操作系统。收购 Weavy 意味着素材生成能力将内置到设计流程中，设计师的工作重心会进一步从「制作」转向「决策」：你不再需要花时间找图、修图、做素材，而是专注于判断 AI 生成的哪个方案最好、如何调整方向。</p><p>但我想提醒一点：<strong>当工具把制作门槛降到零，「品味」就成了唯一的护城河。</strong>那些靠执行力吃饭的设计师会很难受，而有审美判断力和系统思维的设计师反而会更值钱。这不是未来——Iconfactory 的故事说明这已经在发生了。</p></div>"
+  }
+]
