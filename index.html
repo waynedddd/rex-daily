@@ -130,6 +130,11 @@
       transition: filter 1.5s ease;
     }
 
+    .card:hover .card-title {
+      -webkit-line-clamp: unset;
+      max-height: none;
+    }
+
     .card:hover .card-bg {
       filter: brightness(0.55) saturate(0.85);
     }
