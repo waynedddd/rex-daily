@@ -169,7 +169,7 @@
       aspect-ratio: 16/9;
       object-fit: cover;
       border-radius: 0.5rem;
-      margin-top: 0.75rem;
+      margin-bottom: 1rem;
     }
 
     .issue-preview {
@@ -465,12 +465,12 @@
 
         return `<article class="issue" data-section="${sec}">
           <div class="issue-header" onclick="this.parentElement.classList.toggle('open')">
+            ${coverHtml}
             <div class="issue-meta">
               <span class="issue-date">${issue.date}</span>
               <span class="issue-tag ${sec}">${i18n[currentLang][tagKey]}</span>
             </div>
             <h2 class="issue-title">${getField(issue.title)}</h2>
-            ${coverHtml}
             <p class="issue-preview">${i18n[currentLang].expand}</p>
           </div>
           <div class="issue-summary">
