@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rex Daily — AI × Design Industry Intelligence</title>
+  <title>Rex Daily — AI Industry Intelligence</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Noto+Serif+SC:wght@400;700&family=Inter:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
@@ -16,7 +16,10 @@
       --text-muted: #888;
       --text-dim: #555;
       --accent: #e8c547;
+      --accent-design: #e8c547;
+      --accent-tech: #47b8e8;
       --accent-dim: rgba(232, 197, 71, 0.15);
+      --accent-tech-dim: rgba(71, 184, 232, 0.15);
       --border: #222;
       --font-display: 'Playfair Display', 'Noto Serif SC', serif;
       --font-body: 'Inter', 'Noto Sans SC', system-ui, sans-serif;
@@ -33,7 +36,6 @@
       -webkit-font-smoothing: antialiased;
     }
 
-    /* Header */
     .header {
       border-bottom: 1px solid var(--border);
       padding: 2rem 0;
@@ -48,9 +50,7 @@
       justify-content: space-between;
     }
 
-    .header-left {
-      text-align: left;
-    }
+    .header-left { text-align: left; }
 
     .masthead {
       font-family: var(--font-display);
@@ -60,9 +60,7 @@
       color: var(--text);
     }
 
-    .masthead span {
-      color: var(--accent);
-    }
+    .masthead span { color: var(--accent); }
 
     .tagline {
       font-size: 0.875rem;
@@ -72,18 +70,23 @@
       text-transform: uppercase;
     }
 
-    /* Language Toggle */
-    .lang-toggle {
+    .header-controls {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-shrink: 0;
+    }
+
+    .toggle-group {
       display: flex;
       align-items: center;
       gap: 0;
       background: var(--border);
       border-radius: 2rem;
       padding: 3px;
-      flex-shrink: 0;
     }
 
-    .lang-btn {
+    .toggle-btn {
       background: none;
       border: none;
       color: var(--text-dim);
@@ -97,24 +100,24 @@
       letter-spacing: 0.03em;
     }
 
-    .lang-btn.active {
+    .toggle-btn.active {
       background: var(--accent);
       color: #0a0a0a;
       font-weight: 600;
     }
 
-    .lang-btn:hover:not(.active) {
-      color: var(--text-muted);
+    .toggle-btn.active[data-section="tech"] {
+      background: var(--accent-tech);
     }
 
-    /* Main */
+    .toggle-btn:hover:not(.active) { color: var(--text-muted); }
+
     .main {
       max-width: 800px;
       margin: 0 auto;
       padding: 2rem 1.5rem 4rem;
     }
 
-    /* Issue Card */
     .issue {
       border-bottom: 1px solid var(--border);
       padding: 2.5rem 0;
@@ -122,8 +125,13 @@
       transition: all 0.2s ease;
     }
 
-    .issue:first-child {
-      padding-top: 0;
+    .issue:first-child { padding-top: 0; }
+
+    .issue-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
     }
 
     .issue-date {
@@ -132,7 +140,26 @@
       color: var(--accent);
       letter-spacing: 0.1em;
       text-transform: uppercase;
-      margin-bottom: 0.75rem;
+    }
+
+    .issue-tag {
+      font-family: var(--font-mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.15rem 0.5rem;
+      border-radius: 1rem;
+      font-weight: 600;
+    }
+
+    .issue-tag.design {
+      background: var(--accent-dim);
+      color: var(--accent-design);
+    }
+
+    .issue-tag.tech {
+      background: var(--accent-tech-dim);
+      color: var(--accent-tech);
     }
 
     .issue-title {
@@ -164,22 +191,10 @@
       font-weight: 700;
     }
 
-    .issue-summary h3:first-child {
-      margin-top: 0.5rem;
-    }
-
-    .issue-summary p {
-      margin-bottom: 0.75rem;
-    }
-
-    .issue-summary ul {
-      padding-left: 1.25rem;
-      margin-bottom: 0.75rem;
-    }
-
-    .issue-summary li {
-      margin-bottom: 0.4rem;
-    }
+    .issue-summary h3:first-child { margin-top: 0.5rem; }
+    .issue-summary p { margin-bottom: 0.75rem; }
+    .issue-summary ul { padding-left: 1.25rem; margin-bottom: 0.75rem; }
+    .issue-summary li { margin-bottom: 0.4rem; }
 
     .issue-summary a {
       color: var(--accent);
@@ -188,9 +203,7 @@
       transition: border-color 0.2s;
     }
 
-    .issue-summary a:hover {
-      border-bottom-color: var(--accent);
-    }
+    .issue-summary a:hover { border-bottom-color: var(--accent); }
 
     .issue-summary .rex-take {
       background: var(--accent-dim);
@@ -205,29 +218,31 @@
       margin-top: 0;
     }
 
+    .issue[data-section="tech"] .issue-date { color: var(--accent-tech); }
+    .issue[data-section="tech"] .issue-summary a { color: var(--accent-tech); }
+    .issue[data-section="tech"] .issue-summary a:hover { border-bottom-color: var(--accent-tech); }
+    .issue[data-section="tech"] .issue-summary .rex-take {
+      background: var(--accent-tech-dim);
+      border-left-color: var(--accent-tech);
+    }
+    .issue[data-section="tech"] .issue-summary .rex-take h3 { color: var(--accent-tech); }
+
     .issue-preview {
       color: var(--text-dim);
       font-size: 0.875rem;
       margin-top: 0.5rem;
     }
 
-    .issue.open .issue-preview {
-      display: none;
-    }
+    .issue.open .issue-preview { display: none; }
 
-    /* Empty state */
     .empty {
       text-align: center;
       padding: 4rem 0;
       color: var(--text-dim);
     }
 
-    .empty-icon {
-      font-size: 3rem;
-      margin-bottom: 1rem;
-    }
+    .empty-icon { font-size: 3rem; margin-bottom: 1rem; }
 
-    /* Footer */
     .footer {
       border-top: 1px solid var(--border);
       padding: 2rem 0;
@@ -246,6 +261,7 @@
       .main { padding: 1.5rem 1rem 3rem; }
       .header-inner { flex-direction: column; text-align: center; gap: 1rem; }
       .header-left { text-align: center; }
+      .header-controls { flex-wrap: wrap; justify-content: center; }
     }
   </style>
 </head>
@@ -254,11 +270,18 @@
     <div class="header-inner">
       <div class="header-left">
         <h1 class="masthead">Rex <span>Daily</span></h1>
-        <p class="tagline" id="tagline">AI × 设计行业情报</p>
+        <p class="tagline" id="tagline">AI 行业情报</p>
       </div>
-      <div class="lang-toggle">
-        <button class="lang-btn active" data-lang="zh" onclick="setLang('zh')">中文</button>
-        <button class="lang-btn" data-lang="en" onclick="setLang('en')">EN</button>
+      <div class="header-controls">
+        <div class="toggle-group" id="section-toggle">
+          <button class="toggle-btn active" data-section="all" onclick="setSection('all')">ALL</button>
+          <button class="toggle-btn" data-section="design" onclick="setSection('design')">🎨 Design</button>
+          <button class="toggle-btn" data-section="tech" onclick="setSection('tech')">⚡ Tech</button>
+        </div>
+        <div class="toggle-group">
+          <button class="toggle-btn active" data-lang="zh" onclick="setLang('zh')">中文</button>
+          <button class="toggle-btn" data-lang="en" onclick="setLang('en')">EN</button>
+        </div>
       </div>
     </div>
   </header>
@@ -266,35 +289,49 @@
   <main class="main" id="issues">
     <div class="empty">
       <div class="empty-icon">🔍</div>
-      <p>第一期日报即将上线<br>每天早上 9:00 更新</p>
+      <p>加载中...</p>
     </div>
   </main>
 
   <footer class="footer">
-    <p id="footer-text">Rex Daily — Wayne 的 AI 设计行业研究助手</p>
+    <p id="footer-text">Rex Daily — Wayne 的 AI 行业研究助手</p>
   </footer>
 
   <script>
     let currentLang = localStorage.getItem('rex-lang') || 'zh';
+    let currentSection = localStorage.getItem('rex-section') || 'all';
     let issuesData = [];
 
     const i18n = {
       zh: {
-        tagline: 'AI × 设计行业情报',
-        footer: 'Rex Daily — Wayne 的 AI 设计行业研究助手',
-        expand: '点击展开阅读 →'
+        tagline: 'AI 行业情报',
+        footer: 'Rex Daily — Wayne 的 AI 行业研究助手',
+        expand: '点击展开阅读 →',
+        tagDesign: 'DESIGN',
+        tagTech: 'TECH'
       },
       en: {
-        tagline: 'AI × Design Industry Intelligence',
-        footer: 'Rex Daily — AI Design Industry Research by Rex',
-        expand: 'Click to expand →'
+        tagline: 'AI Industry Intelligence',
+        footer: 'Rex Daily — AI Industry Research by Rex',
+        expand: 'Click to expand →',
+        tagDesign: 'DESIGN',
+        tagTech: 'TECH'
       }
     };
+
+    function setSection(section) {
+      currentSection = section;
+      localStorage.setItem('rex-section', section);
+      document.querySelectorAll('#section-toggle .toggle-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.section === section);
+      });
+      renderIssues();
+    }
 
     function setLang(lang) {
       currentLang = lang;
       localStorage.setItem('rex-lang', lang);
-      document.querySelectorAll('.lang-btn').forEach(btn => {
+      document.querySelectorAll('[data-lang]').forEach(btn => {
         btn.classList.toggle('active', btn.dataset.lang === lang);
       });
       document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
@@ -310,10 +347,22 @@
 
     function renderIssues() {
       const container = document.getElementById('issues');
-      if (!issuesData.length) return;
-      container.innerHTML = issuesData.map((issue, i) => `
-        <article class="issue" onclick="this.classList.toggle('open')">
-          <div class="issue-date">${issue.date}</div>
+      const filtered = currentSection === 'all'
+        ? issuesData
+        : issuesData.filter(i => i.section === currentSection);
+
+      if (!filtered.length) {
+        container.innerHTML = '<div class="empty"><div class="empty-icon">🔍</div><p>' +
+          (currentLang === 'zh' ? '暂无此分类的日报' : 'No issues in this category yet') + '</p></div>';
+        return;
+      }
+
+      container.innerHTML = filtered.map((issue, i) => `
+        <article class="issue" data-section="${issue.section || 'design'}" onclick="this.classList.toggle('open')">
+          <div class="issue-meta">
+            <span class="issue-date">${issue.date}</span>
+            <span class="issue-tag ${issue.section || 'design'}">${i18n[currentLang]['tag' + (issue.section || 'design').charAt(0).toUpperCase() + (issue.section || 'design').slice(1)]}</span>
+          </div>
           <h2 class="issue-title">${getField(issue.title)}</h2>
           <p class="issue-preview">${i18n[currentLang].expand}</p>
           <div class="issue-summary">${getField(issue.content)}</div>
@@ -326,13 +375,16 @@
         const res = await fetch('issues.json');
         if (!res.ok) return;
         issuesData = await res.json();
+        setSection(currentSection);
         setLang(currentLang);
       } catch (e) {}
     }
 
-    // Init
-    document.querySelectorAll('.lang-btn').forEach(btn => {
+    document.querySelectorAll('[data-lang]').forEach(btn => {
       btn.classList.toggle('active', btn.dataset.lang === currentLang);
+    });
+    document.querySelectorAll('#section-toggle .toggle-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.section === currentSection);
     });
     loadIssues();
   </script>
