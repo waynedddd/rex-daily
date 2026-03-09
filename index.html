@@ -530,7 +530,7 @@
       .deck { width: calc(100vw - 48px); height: 440px; }
       .card { width: calc(100vw - 48px); height: 440px; }
       .card-inner { padding: 20px; }
-      .card-title { font-size: clamp(18px, 4.5vw, 22px); }
+      .card-title { font-size: clamp(22px, 6vw, 28px); }
 
       .topbar {
         padding: 10px 16px;
@@ -573,7 +573,7 @@
     @media (max-width: 380px) {
       .deck { width: calc(100vw - 32px); height: 400px; }
       .card { width: calc(100vw - 32px); height: 400px; }
-      .card-title { font-size: 17px; }
+      .card-title { font-size: 20px; }
       .ctrl-btn { padding: 4px 8px; font-size: 9px; }
     }
   </style>
@@ -797,10 +797,10 @@
       if (isMobile) {
         // Mobile: vertical swipe (up = next, down = prev)
         if (Math.abs(dy) < 40 || Math.abs(dx) > Math.abs(dy)) return;
-        if (dy < 0 && currentIndex < filtered.length - 1) {
+        if (dy > 0 && currentIndex < filtered.length - 1) {
           currentIndex++;
           layoutCards();
-        } else if (dy > 0 && currentIndex > 0) {
+        } else if (dy < 0 && currentIndex > 0) {
           currentIndex--;
           layoutCards();
         }
