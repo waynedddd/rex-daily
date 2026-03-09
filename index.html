@@ -188,7 +188,9 @@
       -webkit-box-orient: vertical;
     }
 
-    .card-hint {
+    .card-title, .card-meta, .card-hint, .card-overlay {
+      transition: opacity 0.5s ease;
+    }
       position: relative;
       z-index: 1;
       font-size: 11px;
@@ -570,7 +572,6 @@
             <div class="card-overlay"></div>
             <div class="card-spine">${issue.date}</div>
             <div class="card-meta">
-              <span class="card-date">${issue.date}</span>
               <span class="card-tag ${sec}">${sec}</span>
             </div>
             <div class="card-title">${getField(issue.title)}</div>
@@ -624,6 +625,14 @@
         card.style.boxShadow = offset === 0
           ? '0 30px 80px rgba(0,0,0,0.7)'
           : `0 10px 30px rgba(0,0,0,${0.3 + Math.abs(offset) * 0.1})`;
+
+        // Fade text on non-front cards
+        const inner = card.querySelector('.card-inner');
+        if (inner) {
+          const textEls = inner.querySelectorAll('.card-title, .card-meta, .card-hint, .card-overlay');
+          const textOpacity = offset === 0 ? '1' : '0';
+          textEls.forEach(el => el.style.opacity = textOpacity);
+        }
       });
 
       // Update dots
