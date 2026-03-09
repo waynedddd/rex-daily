@@ -35,6 +35,7 @@
       font-weight: 400;
       line-height: 1.7;
       -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
     }
 
     /* Noise texture overlay */
@@ -581,17 +582,63 @@
 
     /* Responsive */
     @media (max-width: 640px) {
-      .hero { padding: 80px 1.5rem 60px; }
+      /* Header */
+      .header { height: auto; padding: 0.75rem 0; }
+      .header-inner {
+        flex-wrap: wrap;
+        padding: 0 1rem;
+        gap: 0.5rem;
+      }
+      .header-left {
+        width: 100%;
+        justify-content: space-between;
+      }
+      .masthead { font-size: 1.25rem; }
+      .nav-links { gap: 0.75rem; }
+      .nav-btn { font-size: 9px; letter-spacing: 0.15em; }
+      .header-right {
+        width: 100%;
+        justify-content: flex-end;
+        gap: 0.5rem;
+      }
+      .lang-btn { font-size: 9px; padding: 0.35rem 0.85rem; }
+
+      /* Hero */
+      .hero { padding: 60px 1rem 40px; }
+      .hero-title { font-size: 42px; line-height: 1; }
+      .hero-sub { font-size: 15px; }
       .hero-annotation { display: none; }
-      .main { padding: 0 1.5rem 80px; }
-      .issue { margin-bottom: 60px; }
-      .issue-cover-wrap { border-radius: 24px; }
-      .issue-summary .rex-take { padding: 1.5rem; border-radius: 16px; }
-      .source-card { border-radius: 16px; }
-      .source-card-img { width: 64px; height: 44px; border-radius: 12px; }
-      .header-inner { padding: 0 1.5rem; }
-      .nav-links { gap: 1rem; }
-      .footer-inner { padding: 0 1.5rem; }
+
+      /* Main */
+      .main { padding: 0 1rem 80px; }
+
+      /* Issues */
+      .issue { margin-bottom: 48px; }
+      .issue-cover-wrap { border-radius: 20px; }
+      .issue-cover { aspect-ratio: 3/2; }
+      .issue-title { font-size: 24px; }
+      .issue-preview { font-size: 12px; }
+
+      /* Content */
+      .issue-summary { font-size: 14px; margin-top: 1.25rem; }
+      .issue-summary h3 { font-size: 18px; margin: 1.5rem 0 0.75rem; }
+      .issue-summary .rex-take { padding: 1.25rem; border-radius: 16px; }
+
+      /* Source cards */
+      .source-card { border-radius: 16px; padding: 0.625rem; }
+      .source-card-img { width: 60px; height: 42px; border-radius: 12px; }
+      .source-card-title { font-size: 13px; }
+
+      /* Collapse */
+      .issue-collapse { padding: 0.6rem 1.5rem; }
+
+      /* Separator */
+      .issue-separator { margin-top: 48px; }
+
+      /* Footer */
+      .footer { padding: 48px 0 32px; }
+      .footer-inner { padding: 0 1rem; }
+      .footer-logo { font-size: 24px; }
     }
   </style>
 </head>
