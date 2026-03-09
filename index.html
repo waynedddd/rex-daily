@@ -218,6 +218,20 @@
     }
 
     .issue-summary h3:first-child { margin-top: 0.5rem; }
+
+    .issue-cover {
+      width: 100%;
+      max-height: 320px;
+      object-fit: cover;
+      border-radius: 0.5rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .issue-summary img.inline-img {
+      max-width: 100%;
+      border-radius: 0.375rem;
+      margin: 0.75rem 0;
+    }
     .issue-summary p { margin-bottom: 0.75rem; }
     .issue-summary ul { padding-left: 1.25rem; margin-bottom: 0.75rem; }
     .issue-summary li { margin-bottom: 0.4rem; }
@@ -395,7 +409,7 @@
             <h2 class="issue-title">${getField(issue.title)}</h2>
             <p class="issue-preview">${i18n[currentLang].expand}</p>
           </div>
-          <div class="issue-summary">${getField(issue.content)}</div>
+          <div class="issue-summary">${issue.cover ? '<img class="issue-cover" src="' + issue.cover + '" alt="">' : ''}${getField(issue.content)}</div>
           <button class="issue-collapse" onclick="this.parentElement.classList.remove('open')">${i18n[currentLang].collapse}</button>
         </article>
       `).join('');
