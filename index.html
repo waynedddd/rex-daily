@@ -621,8 +621,8 @@
           card.style.zIndex = 50 - offset;
           card.style.boxShadow = `0 ${15 - offset * 2}px ${40 - offset * 5}px rgba(0,0,0,0.5)`;
         } else {
-          // Swiped away
-          card.style.transform = 'translateX(-120%) translateY(-40px) rotate(-8deg)';
+          // Swiped away — follow the fan trajectory (up-left)
+          card.style.transform = 'translateX(-60%) translateY(-280px) rotate(-15deg) scale(0.8)';
           card.style.opacity = '0';
           card.style.zIndex = 0;
           card.style.boxShadow = 'none';
