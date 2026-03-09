@@ -2,28 +2,22 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rex Daily — AI Industry Intelligence</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <title>Rex Daily</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500&family=Reenie+Beanie&family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:wght@300;400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500&family=Noto+Sans+SC:wght@300;400;500&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #F7F5EB;
-      --bg-secondary: #F0EDE1;
-      --text: #202A2D;
-      --text-muted: #5a6264;
-      --text-dim: #8a9092;
-      --accent: #CBD0B5;
-      --accent-hover: #b8bda0;
-      --accent-design: #c4a84e;
-      --accent-tech: #4a8a9e;
-      --accent-design-dim: rgba(196, 168, 78, 0.12);
-      --accent-tech-dim: rgba(74, 138, 158, 0.12);
-      --border: rgba(32, 42, 45, 0.08);
+      --bg: #ffffff;
+      --text: #1a1a1a;
+      --text-muted: #666;
+      --text-dim: #999;
+      --border: #e5e5e5;
+      --red: #e33;
       --font-display: 'DM Serif Display', 'Noto Serif SC', serif;
       --font-body: 'Inter', 'Noto Sans SC', system-ui, sans-serif;
-      --font-hand: 'Reenie Beanie', cursive;
+      --label: 0.82rem;
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -33,433 +27,401 @@
       color: var(--text);
       font-family: var(--font-body);
       font-weight: 400;
-      line-height: 1.7;
+      line-height: 1.6;
       -webkit-font-smoothing: antialiased;
       overflow-x: hidden;
     }
 
-    /* Noise texture overlay */
-    body::after {
-      content: '';
-      position: fixed;
-      top: 0; left: 0; right: 0; bottom: 0;
-      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.4'/%3E%3C/svg%3E");
-      background-size: 256px 256px;
-      pointer-events: none;
-      z-index: 9999;
-      opacity: 0.03;
-    }
+    a { color: inherit; text-decoration: none; }
 
-    /* Header / Nav */
-    .header {
+    /* ── Menu ── */
+    .menu {
       position: sticky;
       top: 0;
       z-index: 100;
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
-      background: rgba(247, 245, 235, 0.8);
-      height: 80px;
+      background: var(--bg);
       border-bottom: 1px solid var(--border);
     }
 
-    .header-inner {
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 0 2rem;
-      height: 100%;
+    .menu-inner {
       display: flex;
-      align-items: center;
+      align-items: flex-start;
       justify-content: space-between;
+      padding: 12px 16px;
+      gap: 24px;
     }
 
-    .header-left {
+    .menu-left {
       display: flex;
       align-items: center;
-      gap: 2.5rem;
+      gap: 24px;
+      flex: 1;
     }
 
-    .masthead {
+    .menu-logo {
       font-family: var(--font-display);
-      font-size: 1.5rem;
-      font-weight: 400;
-      color: var(--text);
-      letter-spacing: -0.01em;
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.02em;
+      white-space: nowrap;
+      cursor: pointer;
     }
 
-    .masthead span {
-      font-style: italic;
-    }
-
-    .nav-links {
+    .menu-links {
       display: flex;
-      gap: 1.5rem;
+      gap: 16px;
     }
 
-    .nav-btn {
+    .menu-link {
       background: none;
       border: none;
-      color: var(--text-dim);
       font-family: var(--font-body);
-      font-size: 10px;
-      font-weight: 500;
-      letter-spacing: 0.2em;
+      font-size: var(--label);
       text-transform: uppercase;
+      color: var(--text-dim);
       cursor: pointer;
-      padding: 0.5rem 0;
-      position: relative;
-      transition: color 0.3s;
+      padding: 0;
+      transition: color 0.15s;
     }
 
-    .nav-btn::after {
-      content: '';
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      width: 0;
-      height: 1.5px;
-      background: var(--text);
-      transition: width 0.3s ease;
-    }
+    .menu-link.active { color: var(--text); }
+    .menu-link:hover { color: var(--text); }
 
-    .nav-btn.active { color: var(--text); }
-    .nav-btn.active::after { width: 100%; }
-    .nav-btn:hover { color: var(--text); }
-
-    .header-right {
+    .menu-right {
       display: flex;
-      align-items: center;
-      gap: 1rem;
+      gap: 8px;
     }
 
-    .lang-btn {
+    .lang-link {
       background: none;
-      border: 1.5px solid var(--border);
-      color: var(--text-dim);
+      border: none;
       font-family: var(--font-body);
-      font-size: 10px;
-      font-weight: 500;
-      letter-spacing: 0.2em;
+      font-size: var(--label);
       text-transform: uppercase;
-      padding: 0.5rem 1.25rem;
-      border-radius: 999px;
+      color: var(--text-dim);
       cursor: pointer;
-      transition: all 0.3s;
+      padding: 0;
+      transition: color 0.15s;
     }
 
-    .lang-btn.active {
+    .lang-link.active { color: var(--text); }
+
+    /* ── Card Grid ── */
+    .card-group {
+      padding: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      justify-content: center;
+      gap: 12px;
+    }
+
+    /* ── Card ── */
+    .card {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      transition: background 0.2s, color 0.2s;
+      cursor: pointer;
+      overflow: hidden;
+      max-width: 100%;
+    }
+
+    .card:hover {
+      background: var(--red);
+      color: #fff;
+      border-color: var(--red);
+    }
+
+    .card:hover .card-label { color: #fff; }
+    .card:hover .card-date { color: rgba(255,255,255,0.7); }
+    .card:hover .card-tag { background: rgba(255,255,255,0.2); color: #fff; }
+    .card:hover .card-preview { color: rgba(255,255,255,0.7); }
+    .card:hover .card-img { filter: grayscale(0%); }
+
+    .card-label {
+      font-size: var(--label);
+      text-transform: uppercase;
+      padding: 12px 12px 0;
+      color: var(--text);
+      z-index: 1;
+      line-height: 1.3;
+    }
+
+    .card-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 12px;
+      flex: 1;
+    }
+
+    /* Card types */
+    .card--hero {
+      width: 480px;
+      min-height: 320px;
+    }
+
+    .card--media {
+      width: 380px;
+    }
+
+    .card--text {
+      width: 420px;
+    }
+
+    .card--wide {
+      width: 540px;
+    }
+
+    .card--accent {
       background: var(--text);
-      color: var(--bg);
+      color: #fff;
       border-color: var(--text);
     }
 
-    .lang-btn:hover:not(.active) {
-      border-color: var(--text-dim);
-      color: var(--text);
-    }
+    .card--accent .card-label { color: #fff; }
+    .card--accent:hover { background: var(--red); }
 
-    /* Hero */
-    .hero {
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 120px 2rem 80px;
-      position: relative;
-    }
-
-    .hero-title {
-      font-family: var(--font-display);
-      font-size: clamp(48px, 8vw, 96px);
-      font-weight: 400;
-      line-height: 0.95;
-      color: var(--text);
-      margin-bottom: 1.5rem;
-      animation: fadeUp 0.8s ease-out both;
-    }
-
-    .hero-title em {
-      font-style: italic;
-      position: relative;
-      display: inline-block;
-    }
-
-    .hero-title em svg {
-      position: absolute;
-      bottom: -4px;
-      left: 0;
+    /* Card image */
+    .card-img-wrap {
       width: 100%;
-      height: 12px;
-    }
-
-    .hero-sub {
-      font-size: 18px;
-      font-weight: 300;
-      color: var(--text-muted);
-      max-width: 520px;
-      line-height: 1.7;
-      animation: fadeUp 0.8s ease-out 0.2s both;
-    }
-
-    .hero-annotation {
-      position: absolute;
-      right: 2rem;
-      top: 160px;
-      font-family: var(--font-hand);
-      font-size: 28px;
-      color: var(--text-dim);
-      transform: rotate(-3deg);
-      animation: fadeUp 0.8s ease-out 0.4s both;
-    }
-
-    .hero-annotation span {
-      display: block;
-      font-size: 32px;
-      margin-top: -4px;
-    }
-
-    /* Main */
-    .main {
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 0 2rem 160px;
-    }
-
-    /* Issue */
-    .issue {
-      margin-bottom: 80px;
-      opacity: 0;
-      transform: translateY(20px);
-      animation: fadeUp 0.8s ease-out both;
-    }
-
-    .issue:nth-child(2) { animation-delay: 0.1s; }
-    .issue:nth-child(3) { animation-delay: 0.2s; }
-
-    .issue-header {
-      cursor: pointer;
-    }
-
-    .issue-cover-wrap {
-      width: 100%;
-      border-radius: 40px;
       overflow: hidden;
-      margin-bottom: 1.5rem;
     }
 
-    .issue-cover {
+    .card-img {
       width: 100%;
-      aspect-ratio: 16/9;
-      object-fit: cover;
-      filter: grayscale(100%);
-      transition: all 2000ms ease-out;
       display: block;
+      mix-blend-mode: multiply;
+      filter: grayscale(100%);
+      transition: filter 2s ease-out, opacity 0.3s;
+      opacity: 1;
     }
 
-    .issue:hover .issue-cover,
-    .issue.open .issue-cover {
-      filter: grayscale(0%);
-      transform: scale(1.05);
+    /* Card title (serif display) */
+    .card-title {
+      font-family: var(--font-display);
+      font-size: clamp(20px, 3vw, 28px);
+      font-weight: 400;
+      line-height: 1.2;
+      width: 100%;
     }
 
-    .issue-meta {
+    .card-title em { font-style: italic; }
+
+    /* Card excerpt text */
+    .card-excerpt {
+      font-size: 14px;
+      font-weight: 300;
+      line-height: 1.6;
+      width: 100%;
+      color: var(--text-muted);
+    }
+
+    .card:hover .card-excerpt { color: rgba(255,255,255,0.8); }
+
+    .card-meta {
       display: flex;
       align-items: center;
-      gap: 1rem;
-      margin-bottom: 0.75rem;
+      gap: 8px;
+      width: 100%;
+      margin-bottom: 8px;
     }
 
-    .issue-date {
-      font-family: var(--font-body);
-      font-size: 10px;
-      font-weight: 500;
-      letter-spacing: 0.2em;
-      text-transform: uppercase;
+    .card-date {
+      font-size: 11px;
       color: var(--text-dim);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
     }
 
-    .issue-tag {
+    .card-tag {
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-weight: 500;
+    }
+
+    .card-tag.design { background: rgba(196,168,78,0.12); color: #a08930; }
+    .card-tag.tech { background: rgba(74,138,158,0.12); color: #3d7a8e; }
+
+    .card-preview {
+      font-size: 12px;
+      color: var(--text-dim);
+      margin-top: 8px;
+    }
+
+    /* ── Expanded overlay ── */
+    .overlay {
+      display: none;
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      z-index: 200;
+      background: rgba(0,0,0,0.5);
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+      justify-content: center;
+      align-items: flex-start;
+      padding: 40px 16px;
+      overflow-y: auto;
+    }
+
+    .overlay.open { display: flex; }
+
+    .overlay-card {
+      background: #fff;
+      color: var(--text);
+      max-width: 720px;
+      width: 100%;
+      position: relative;
+      animation: fadeUp 0.3s ease-out;
+    }
+
+    .overlay-close {
+      position: sticky;
+      top: 0;
+      display: flex;
+      justify-content: flex-end;
+      padding: 12px;
+      background: #fff;
+      z-index: 1;
+    }
+
+    .overlay-close button {
+      background: var(--text);
+      color: #fff;
+      border: none;
       font-family: var(--font-body);
       font-size: 10px;
-      font-weight: 500;
-      letter-spacing: 0.2em;
       text-transform: uppercase;
-      padding: 0.3rem 0.75rem;
-      border-radius: 999px;
+      letter-spacing: 0.2em;
+      padding: 8px 20px;
+      cursor: pointer;
+      transition: background 0.2s;
     }
 
-    .issue-tag.design {
-      background: var(--accent-design-dim);
-      color: var(--accent-design);
+    .overlay-close button:hover { background: var(--red); }
+
+    .overlay-header {
+      padding: 0 12px 12px;
     }
 
-    .issue-tag.tech {
-      background: var(--accent-tech-dim);
-      color: var(--accent-tech);
-    }
+    .overlay-header .card-meta { margin-bottom: 8px; }
 
-    .issue-title {
+    .overlay-title {
       font-family: var(--font-display);
-      font-size: clamp(28px, 4vw, 40px);
+      font-size: clamp(24px, 4vw, 36px);
       font-weight: 400;
       line-height: 1.15;
-      color: var(--text);
-      margin-bottom: 0.5rem;
     }
 
-    .issue-preview {
-      font-size: 13px;
-      font-weight: 300;
-      color: var(--text-dim);
-      margin-top: 0.75rem;
-      letter-spacing: 0.05em;
+    .overlay-cover {
+      width: 100%;
+      display: block;
     }
 
-    .issue.open .issue-preview { display: none; }
-
-    /* Content */
-    .issue-summary {
-      display: none;
-      margin-top: 2rem;
-      color: var(--text-muted);
+    .overlay-body {
+      padding: 24px 12px 32px;
       font-size: 15px;
       font-weight: 300;
       line-height: 1.85;
+      color: var(--text-muted);
     }
 
-    .issue.open .issue-summary {
-      display: block;
-      animation: fadeUp 0.6s ease-out;
-    }
-
-    .issue-summary h3 {
+    .overlay-body h3 {
       font-family: var(--font-display);
-      font-size: 22px;
+      font-size: 20px;
       font-weight: 400;
       color: var(--text);
-      margin: 2.5rem 0 1rem;
+      margin: 2rem 0 0.75rem;
     }
 
-    .issue-summary h3:first-child { margin-top: 0; }
+    .overlay-body h3:first-child { margin-top: 0; }
+    .overlay-body p { margin-bottom: 0.75rem; }
+    .overlay-body ul { padding-left: 1.25rem; margin-bottom: 1rem; }
+    .overlay-body li { margin-bottom: 0.5rem; }
+    .overlay-body strong { font-weight: 500; color: var(--text); }
 
-    .issue-summary > img,
-    .issue-summary li img,
-    .issue-summary p img,
-    .issue-summary ul img {
-      display: none;
-    }
-
-    .issue-summary p { margin-bottom: 0.75rem; }
-    .issue-summary ul { padding-left: 1.25rem; margin-bottom: 1rem; }
-    .issue-summary li { margin-bottom: 0.6rem; }
-    .issue-summary strong { font-weight: 500; color: var(--text); }
-
-    .issue-summary a {
+    .overlay-body a {
       color: var(--text);
-      text-decoration: none;
-      border-bottom: 1.5px solid var(--accent);
-      transition: border-color 0.3s;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      text-decoration-color: var(--border);
+      transition: text-decoration-color 0.2s;
     }
 
-    .issue-summary a:hover {
-      border-bottom-color: var(--text);
-    }
+    .overlay-body a:hover { text-decoration-color: var(--text); }
 
-    .issue-summary small {
-      font-size: 12px;
-      color: var(--text-dim);
-    }
+    .overlay-body small { font-size: 12px; color: var(--text-dim); }
+    .overlay-body small a { color: var(--text-dim); }
 
-    .issue-summary small a {
-      color: var(--text-dim);
-      border-bottom-color: transparent;
-    }
+    .overlay-body > img,
+    .overlay-body li img,
+    .overlay-body p img,
+    .overlay-body ul img { display: none; }
 
-    .issue-summary small a:hover {
-      border-bottom-color: var(--text-dim);
-    }
-
-    /* Rex take */
-    .issue-summary .rex-take {
-      background: var(--accent);
-      color: var(--text);
-      padding: 2rem 2.5rem;
-      margin-top: 2.5rem;
-      border-radius: 24px;
-      transition: all 0.5s;
-    }
-
-    .issue-summary .rex-take:hover {
+    /* Rex take in overlay */
+    .overlay-body .rex-take {
       background: var(--text);
       color: #fff;
+      padding: 24px;
+      margin-top: 2rem;
     }
 
-    .issue-summary .rex-take h3 {
-      color: inherit;
-      margin-top: 0;
-      margin-bottom: 0.5rem;
+    .overlay-body .rex-take h3 { color: #fff; margin-top: 0; }
+    .overlay-body .rex-take p { color: rgba(255,255,255,0.85); }
+
+    /* Source cards in overlay */
+    .overlay-sources {
+      padding: 0 12px 32px;
     }
 
-    .issue-summary .rex-take p {
-      color: inherit;
-      opacity: 0.85;
-    }
-
-    .issue-summary .rex-take:hover p { opacity: 1; }
-
-    /* Source cards */
-    .sources-section {
-      margin-top: 2.5rem;
-    }
-
-    .sources-label {
+    .overlay-sources-label {
       font-size: 10px;
-      font-weight: 500;
-      letter-spacing: 0.3em;
       text-transform: uppercase;
+      letter-spacing: 0.2em;
       color: var(--text-dim);
-      margin-bottom: 1rem;
+      margin-bottom: 12px;
     }
 
     .source-card {
       display: flex;
-      gap: 1rem;
-      background: var(--bg-secondary);
-      border: none;
-      border-radius: 24px;
-      padding: 0.75rem;
-      margin-bottom: 0.75rem;
-      text-decoration: none !important;
-      border-bottom: none !important;
-      transition: all 0.3s;
+      gap: 12px;
+      border: 1px solid var(--border);
+      padding: 8px;
+      margin-bottom: 8px;
       align-items: center;
+      transition: all 0.2s;
+      text-decoration: none !important;
     }
 
     .source-card:hover {
-      background: var(--accent);
-      transform: translateY(-2px);
+      background: var(--red);
+      color: #fff;
+      border-color: var(--red);
     }
 
-    .source-card-img {
-      width: 88px;
-      height: 60px;
+    .source-card:hover .source-domain { color: rgba(255,255,255,0.7); }
+    .source-card:hover .source-title { color: #fff; }
+    .source-card:hover .source-img { filter: grayscale(0%); }
+
+    .source-img {
+      width: 80px;
+      height: 56px;
       object-fit: cover;
-      border-radius: 16px;
       flex-shrink: 0;
-      background: var(--border);
       filter: grayscale(100%);
-      transition: filter 2000ms ease-out;
+      mix-blend-mode: multiply;
+      transition: filter 2s ease-out;
     }
 
-    .source-card:hover .source-card-img {
-      filter: grayscale(0%);
-    }
-
-    .source-card-body {
-      flex: 1;
-      min-width: 0;
-    }
-
-    .source-card-title {
-      font-family: var(--font-display);
-      font-size: 15px;
+    .source-title {
+      font-size: 13px;
       font-weight: 400;
       color: var(--text);
       line-height: 1.3;
@@ -469,219 +431,78 @@
       overflow: hidden;
     }
 
-    .source-card-domain {
+    .source-domain {
       font-size: 10px;
-      font-weight: 500;
-      letter-spacing: 0.15em;
       text-transform: uppercase;
+      letter-spacing: 0.1em;
       color: var(--text-dim);
-      margin-top: 0.25rem;
+      margin-top: 2px;
     }
 
-    /* Collapse */
-    .issue-collapse {
-      display: none;
-      margin-top: 2rem;
-      cursor: pointer;
-      background: var(--text);
-      border: none;
-      color: var(--bg);
-      font-family: var(--font-body);
-      font-size: 10px;
-      font-weight: 500;
-      letter-spacing: 0.2em;
-      text-transform: uppercase;
-      padding: 0.75rem 2rem;
-      border-radius: 999px;
-      transition: all 0.3s;
-    }
-
-    .issue-collapse:hover {
-      background: var(--accent);
-      color: var(--text);
-    }
-
-    .issue.open .issue-collapse { display: inline-block; }
-
-    /* Separator */
-    .issue-separator {
-      width: 48px;
-      height: 1.5px;
-      background: var(--accent);
-      margin-top: 80px;
-    }
-
-    .issue:last-child .issue-separator { display: none; }
-
-    /* Empty */
-    .empty {
-      text-align: center;
-      padding: 120px 0;
-      color: var(--text-dim);
-    }
-
-    .empty-icon {
-      font-size: 48px;
-      margin-bottom: 1.5rem;
-    }
-
-    .empty p {
-      font-family: var(--font-display);
-      font-size: 24px;
-      font-style: italic;
-    }
-
-    /* Footer */
+    /* ── Footer ── */
     .footer {
-      background: var(--bg-secondary);
-      padding: 80px 0 40px;
-    }
-
-    .footer-inner {
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 0 2rem;
+      padding: 32px 16px;
+      display: flex;
+      justify-content: space-between;
+      font-size: var(--label);
+      text-transform: uppercase;
+      color: var(--text-dim);
     }
 
     .footer-logo {
       font-family: var(--font-display);
-      font-size: 32px;
       color: var(--text);
-      margin-bottom: 0.5rem;
+      font-size: 1rem;
     }
 
-    .footer-logo span { font-style: italic; }
-
-    .footer-tagline {
-      font-size: 14px;
-      font-weight: 300;
-      color: var(--text-muted);
-      margin-bottom: 3rem;
-    }
-
-    .footer-rule {
-      width: 100%;
-      height: 1px;
-      background: var(--border);
-      margin-bottom: 1.5rem;
-    }
-
-    .footer-fine {
-      font-size: 10px;
-      font-weight: 500;
-      letter-spacing: 0.2em;
-      text-transform: uppercase;
-      color: var(--text-dim);
-    }
-
-    /* Animations */
     @keyframes fadeUp {
       from { opacity: 0; transform: translateY(20px); }
       to { opacity: 1; transform: translateY(0); }
     }
 
-    /* Responsive */
+    /* ── Mobile ── */
     @media (max-width: 640px) {
-      /* Header */
-      .header { height: auto; padding: 0.75rem 0; }
-      .header-inner {
-        flex-wrap: wrap;
-        padding: 0 1rem;
-        gap: 0.5rem;
+      .card-group { padding: 8px; gap: 8px; }
+      .card--hero, .card--media, .card--text, .card--wide {
+        width: 100% !important;
       }
-      .header-left {
-        width: 100%;
-        justify-content: space-between;
-      }
-      .masthead { font-size: 1.25rem; }
-      .nav-links { gap: 0.75rem; }
-      .nav-btn { font-size: 9px; letter-spacing: 0.15em; }
-      .header-right {
-        width: 100%;
-        justify-content: flex-end;
-        gap: 0.5rem;
-      }
-      .lang-btn { font-size: 9px; padding: 0.35rem 0.85rem; }
-
-      /* Hero */
-      .hero { padding: 60px 1rem 40px; }
-      .hero-title { font-size: 42px; line-height: 1; }
-      .hero-sub { font-size: 15px; }
-      .hero-annotation { display: none; }
-
-      /* Main */
-      .main { padding: 0 1rem 80px; }
-
-      /* Issues */
-      .issue { margin-bottom: 48px; }
-      .issue-cover-wrap { border-radius: 20px; }
-      .issue-cover { aspect-ratio: 3/2; }
-      .issue-title { font-size: 24px; }
-      .issue-preview { font-size: 12px; }
-
-      /* Content */
-      .issue-summary { font-size: 14px; margin-top: 1.25rem; }
-      .issue-summary h3 { font-size: 18px; margin: 1.5rem 0 0.75rem; }
-      .issue-summary .rex-take { padding: 1.25rem; border-radius: 16px; }
-
-      /* Source cards */
-      .source-card { border-radius: 16px; padding: 0.625rem; }
-      .source-card-img { width: 60px; height: 42px; border-radius: 12px; }
-      .source-card-title { font-size: 13px; }
-
-      /* Collapse */
-      .issue-collapse { padding: 0.6rem 1.5rem; }
-
-      /* Separator */
-      .issue-separator { margin-top: 48px; }
-
-      /* Footer */
-      .footer { padding: 48px 0 32px; }
-      .footer-inner { padding: 0 1rem; }
-      .footer-logo { font-size: 24px; }
+      .menu-inner { flex-wrap: wrap; padding: 10px 12px; gap: 8px; }
+      .menu-left { width: 100%; justify-content: space-between; }
+      .menu-right { width: 100%; justify-content: flex-end; }
+      .overlay { padding: 0; }
+      .overlay-card { max-width: 100%; min-height: 100vh; }
+      .footer { flex-direction: column; gap: 8px; padding: 24px 12px; }
     }
   </style>
 </head>
 <body>
 
-  <header class="header">
-    <div class="header-inner">
-      <div class="header-left">
-        <div class="masthead">Rex <span>Daily</span></div>
-        <nav class="nav-links" id="section-toggle">
-          <button class="nav-btn active" data-section="all" onclick="setSection('all')">All</button>
-          <button class="nav-btn" data-section="design" onclick="setSection('design')">Design</button>
-          <button class="nav-btn" data-section="tech" onclick="setSection('tech')">Tech</button>
+  <div class="menu">
+    <div class="menu-inner">
+      <div class="menu-left">
+        <div class="menu-logo" onclick="setSection('all')">Rex Daily</div>
+        <nav class="menu-links" id="section-toggle">
+          <button class="menu-link active" data-section="all" onclick="setSection('all')">Index</button>
+          <button class="menu-link" data-section="design" onclick="setSection('design')">Design</button>
+          <button class="menu-link" data-section="tech" onclick="setSection('tech')">Tech</button>
         </nav>
       </div>
-      <div class="header-right">
-        <button class="lang-btn active" data-lang="zh" onclick="setLang('zh')">中文</button>
-        <button class="lang-btn" data-lang="en" onclick="setLang('en')">EN</button>
+      <div class="menu-right">
+        <button class="lang-link active" data-lang="zh" onclick="setLang('zh')">中文</button>
+        <button class="lang-link" data-lang="en" onclick="setLang('en')">EN</button>
       </div>
     </div>
-  </header>
+  </div>
 
-  <section class="hero">
-    <h1 class="hero-title" id="hero-title">
-      <em>AI
-        <svg viewBox="0 0 300 12" preserveAspectRatio="none">
-          <path d="M2 8C50 9.5 100 -2 298 4" stroke="#CBD0B5" stroke-width="4" stroke-linecap="round" fill="none"/>
-        </svg>
-      </em> Industry<br>Intelligence
-    </h1>
-    <p class="hero-sub" id="hero-sub">每日精选 AI 行业动态，设计与科技的交汇点。由 Rex 为你策展。</p>
-    <div class="hero-annotation">curated daily ↓</div>
-  </section>
+  <div class="card-group" id="cards"></div>
 
-  <main class="main" id="issues"></main>
+  <div class="overlay" id="overlay" onclick="if(event.target===this)closeOverlay()">
+    <div class="overlay-card" id="overlay-card"></div>
+  </div>
 
   <footer class="footer">
-    <div class="footer-inner">
-      <div class="footer-logo">Rex <span>Daily</span></div>
-      <p class="footer-tagline" id="footer-tagline">AI 行业研究 · 每日策展</p>
-      <div class="footer-rule"></div>
-      <p class="footer-fine">© 2026 Rex Daily · Curated by Rex for Wayne</p>
-    </div>
+    <div class="footer-logo">Rex Daily</div>
+    <div>© 2026 · Curated by Rex</div>
   </footer>
 
   <script>
@@ -689,35 +510,18 @@
     let currentSection = localStorage.getItem('rex-section') || 'all';
     let issuesData = [];
 
+    const widths = ['480px','380px','420px','540px','360px','440px'];
     const i18n = {
-      zh: {
-        heroTitle: '<em>AI<svg viewBox="0 0 300 12" preserveAspectRatio="none"><path d="M2 8C50 9.5 100 -2 298 4" stroke="#CBD0B5" stroke-width="4" stroke-linecap="round" fill="none"/></svg></em> Industry<br>Intelligence',
-        heroSub: '每日精选 AI 行业动态，设计与科技的交汇点。由 Rex 为你策展。',
-        footerTagline: 'AI 行业研究 · 每日策展',
-        expand: '展开阅读 →',
-        collapse: '收起',
-        sources: '相关来源',
-        tagDesign: 'DESIGN',
-        tagTech: 'TECH'
-      },
-      en: {
-        heroTitle: '<em>AI<svg viewBox="0 0 300 12" preserveAspectRatio="none"><path d="M2 8C50 9.5 100 -2 298 4" stroke="#CBD0B5" stroke-width="4" stroke-linecap="round" fill="none"/></svg></em> Industry<br>Intelligence',
-        heroSub: 'Daily curated AI industry insights at the intersection of design and technology. Curated by Rex.',
-        footerTagline: 'AI Industry Research · Daily Curation',
-        expand: 'Read more →',
-        collapse: 'Collapse',
-        sources: 'Sources',
-        tagDesign: 'DESIGN',
-        tagTech: 'TECH'
-      }
+      zh: { expand: '展开 →', sources: '相关来源' },
+      en: { expand: 'Read →', sources: 'Sources' }
     };
 
     function setSection(s) {
       currentSection = s;
       localStorage.setItem('rex-section', s);
-      document.querySelectorAll('#section-toggle .nav-btn').forEach(b =>
+      document.querySelectorAll('#section-toggle .menu-link').forEach(b =>
         b.classList.toggle('active', b.dataset.section === s));
-      renderIssues();
+      render();
     }
 
     function setLang(l) {
@@ -726,10 +530,7 @@
       document.querySelectorAll('[data-lang]').forEach(b =>
         b.classList.toggle('active', b.dataset.lang === l));
       document.documentElement.lang = l === 'zh' ? 'zh-CN' : 'en';
-      document.getElementById('hero-title').innerHTML = i18n[l].heroTitle;
-      document.getElementById('hero-sub').textContent = i18n[l].heroSub;
-      document.getElementById('footer-tagline').textContent = i18n[l].footerTagline;
-      renderIssues();
+      render();
     }
 
     function getField(f) {
@@ -741,62 +542,102 @@
       try { return new URL(url).hostname.replace('www.',''); } catch(e) { return ''; }
     }
 
-    function renderSourceCards(sources) {
-      if (!sources || !sources.length) return '';
-      const label = i18n[currentLang].sources;
-      return '<div class="sources-section"><div class="sources-label">' + label + '</div>' +
-        sources.map(s => {
-          const title = getField(s.title) || getDomain(s.url);
-          const domain = getDomain(s.url);
-          const imgHtml = s.image
-            ? '<img class="source-card-img" src="' + s.image + '" alt="" referrerpolicy="no-referrer" loading="lazy">'
-            : '';
-          return '<a class="source-card" href="' + s.url + '" target="_blank" rel="noopener" onclick="event.stopPropagation()">' +
-            imgHtml +
-            '<div class="source-card-body">' +
-              '<div class="source-card-title">' + title + '</div>' +
-              '<div class="source-card-domain">' + domain + '</div>' +
-            '</div></a>';
-        }).join('') + '</div>';
+    function getExcerpt(html) {
+      const tmp = document.createElement('div');
+      tmp.innerHTML = html;
+      const text = tmp.textContent || '';
+      return text.substring(0, 120) + (text.length > 120 ? '…' : '');
     }
 
-    function renderIssues() {
-      const c = document.getElementById('issues');
+    function openOverlay(idx) {
+      const issue = issuesData[idx];
+      if (!issue) return;
+      const sec = issue.section || 'design';
+      const coverHtml = issue.cover
+        ? '<img class="overlay-cover" src="' + issue.cover + '" referrerpolicy="no-referrer">'
+        : '';
+
+      let sourcesHtml = '';
+      if (issue.sources && issue.sources.length) {
+        sourcesHtml = '<div class="overlay-sources"><div class="overlay-sources-label">' +
+          i18n[currentLang].sources + '</div>' +
+          issue.sources.map(s => {
+            const title = getField(s.title) || getDomain(s.url);
+            const imgHtml = s.image
+              ? '<img class="source-img" src="' + s.image + '" referrerpolicy="no-referrer" loading="lazy">'
+              : '';
+            return '<a class="source-card" href="' + s.url + '" target="_blank" rel="noopener">' +
+              imgHtml +
+              '<div><div class="source-title">' + title + '</div>' +
+              '<div class="source-domain">' + getDomain(s.url) + '</div></div></a>';
+          }).join('') + '</div>';
+      }
+
+      document.getElementById('overlay-card').innerHTML =
+        '<div class="overlay-close"><button onclick="closeOverlay()">Close</button></div>' +
+        '<div class="overlay-header">' +
+          '<div class="card-meta">' +
+            '<span class="card-date">' + issue.date + '</span>' +
+            '<span class="card-tag ' + sec + '">' + sec + '</span>' +
+          '</div>' +
+          '<h2 class="overlay-title">' + getField(issue.title) + '</h2>' +
+        '</div>' +
+        coverHtml +
+        '<div class="overlay-body">' + getField(issue.content) + '</div>' +
+        sourcesHtml;
+
+      document.getElementById('overlay').classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeOverlay() {
+      document.getElementById('overlay').classList.remove('open');
+      document.body.style.overflow = '';
+    }
+
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeOverlay(); });
+
+    function render() {
+      const c = document.getElementById('cards');
       const filtered = currentSection === 'all'
         ? issuesData
         : issuesData.filter(i => i.section === currentSection);
 
       if (!filtered.length) {
-        c.innerHTML = '<div class="empty"><div class="empty-icon">🔍</div><p>' +
-          (currentLang === 'zh' ? '暂无内容' : 'No issues yet') + '</p></div>';
+        c.innerHTML = '<div style="padding:80px;text-align:center;color:var(--text-dim);width:100%">' +
+          '<div style="font-size:2rem;margin-bottom:12px">🔍</div>' +
+          (currentLang === 'zh' ? '暂无内容' : 'Nothing yet') + '</div>';
         return;
       }
 
       c.innerHTML = filtered.map((issue, idx) => {
+        const realIdx = issuesData.indexOf(issue);
         const sec = issue.section || 'design';
-        const tagKey = 'tag' + sec.charAt(0).toUpperCase() + sec.slice(1);
-        const coverHtml = issue.cover
-          ? '<div class="issue-cover-wrap"><img class="issue-cover" src="' + issue.cover + '" alt="" referrerpolicy="no-referrer" loading="lazy"></div>'
-          : '';
-        const sourcesHtml = renderSourceCards(issue.sources);
+        const w = widths[idx % widths.length];
+        const hasCover = !!issue.cover;
+        const content = getField(issue.content);
+        const excerpt = getExcerpt(content);
 
-        return '<article class="issue" style="animation-delay:' + (idx * 0.1) + 's" data-section="' + sec + '">' +
-          '<div class="issue-header" onclick="this.parentElement.classList.toggle(\'open\')">' +
-            coverHtml +
-            '<div class="issue-meta">' +
-              '<span class="issue-date">' + issue.date + '</span>' +
-              '<span class="issue-tag ' + sec + '">' + i18n[currentLang][tagKey] + '</span>' +
+        const imgHtml = hasCover
+          ? '<div class="card-img-wrap"><img class="card-img" src="' + issue.cover + '" referrerpolicy="no-referrer" loading="lazy"></div>'
+          : '';
+
+        const cardClass = hasCover ? 'card card--media' : 'card card--text';
+
+        return '<div class="' + cardClass + '" style="width:' + w + '" onclick="openOverlay(' + realIdx + ')">' +
+          '<div class="card-label">' +
+            '<div class="card-meta">' +
+              '<span class="card-date">' + issue.date + '</span>' +
+              '<span class="card-tag ' + sec + '">' + sec + '</span>' +
             '</div>' +
-            '<h2 class="issue-title">' + getField(issue.title) + '</h2>' +
-            '<p class="issue-preview">' + i18n[currentLang].expand + '</p>' +
+            getField(issue.title) +
           '</div>' +
-          '<div class="issue-summary">' +
-            getField(issue.content) +
-            sourcesHtml +
+          '<div class="card-content">' +
+            imgHtml +
+            (hasCover ? '' : '<div class="card-excerpt">' + excerpt + '</div>') +
+            '<div class="card-preview">' + i18n[currentLang].expand + '</div>' +
           '</div>' +
-          '<button class="issue-collapse" onclick="this.parentElement.classList.remove(\'open\')">' + i18n[currentLang].collapse + '</button>' +
-          '<div class="issue-separator"></div>' +
-        '</article>';
+        '</div>';
       }).join('');
     }
 
@@ -812,7 +653,7 @@
 
     document.querySelectorAll('[data-lang]').forEach(b =>
       b.classList.toggle('active', b.dataset.lang === currentLang));
-    document.querySelectorAll('#section-toggle .nav-btn').forEach(b =>
+    document.querySelectorAll('#section-toggle .menu-link').forEach(b =>
       b.classList.toggle('active', b.dataset.section === currentSection));
     loadIssues();
   </script>
