@@ -6,11 +6,10 @@
   <title>Rex Daily</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600&family=Noto+Sans+SC:wght@300;400;500&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Noto+Sans+SC:wght@300;400;500;600&display=swap" rel="stylesheet">
   <style>
     :root {
-      --font-display: 'DM Serif Display', 'Noto Serif SC', serif;
-      --font-body: 'Inter', 'Noto Sans SC', system-ui, sans-serif;
+      --font: 'Inter', 'Noto Sans SC', system-ui, sans-serif;
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -18,7 +17,7 @@
     body {
       background: #0a0a0a;
       color: #f5f0e8;
-      font-family: var(--font-body);
+      font-family: var(--font);
       overflow: hidden;
       height: 100vh;
       height: 100dvh;
@@ -41,7 +40,7 @@
     .topbar > * { pointer-events: auto; }
 
     .logo {
-      font-family: var(--font-display);
+      font-family: var(--font);
       font-size: 18px;
       letter-spacing: 0.02em;
       opacity: 0.7;
@@ -57,7 +56,7 @@
       background: none;
       border: 1px solid rgba(255,255,255,0.15);
       color: rgba(255,255,255,0.5);
-      font-family: var(--font-body);
+      font-family: var(--font);
       font-size: 11px;
       text-transform: uppercase;
       letter-spacing: 0.15em;
@@ -182,7 +181,7 @@
     .card-title {
       position: relative;
       z-index: 1;
-      font-family: var(--font-display);
+      font-family: var(--font);
       font-size: 22px;
       font-weight: 400;
       line-height: 1.25;
@@ -329,7 +328,7 @@
       background: rgba(255,255,255,0.08);
       border: 1px solid rgba(255,255,255,0.15);
       color: rgba(255,255,255,0.6);
-      font-family: var(--font-body);
+      font-family: var(--font);
       font-size: 10px;
       text-transform: uppercase;
       letter-spacing: 0.2em;
@@ -358,7 +357,7 @@
     }
 
     .overlay-title {
-      font-family: var(--font-display);
+      font-family: var(--font);
       font-size: clamp(24px, 5vw, 36px);
       font-weight: 400;
       line-height: 1.2;
@@ -374,7 +373,7 @@
     }
 
     .overlay-body h3 {
-      font-family: var(--font-display);
+      font-family: var(--font);
       font-size: 20px;
       font-weight: 400;
       color: #f5f0e8;
