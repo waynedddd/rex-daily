@@ -6,24 +6,24 @@
   <title>Rex Daily — AI Industry Intelligence</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Noto+Serif+SC:wght@400;700&family=Inter:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500&family=Reenie+Beanie&family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:wght@300;400;500&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #0a0a0a;
-      --bg-card: #141414;
-      --bg-card-hover: #1a1a1a;
-      --text: #e8e8e8;
-      --text-muted: #888;
-      --text-dim: #555;
-      --accent: #e8c547;
-      --accent-design: #e8c547;
-      --accent-tech: #47b8e8;
-      --accent-dim: rgba(232, 197, 71, 0.15);
-      --accent-tech-dim: rgba(71, 184, 232, 0.15);
-      --border: #222;
-      --font-display: 'Playfair Display', 'Noto Serif SC', serif;
+      --bg: #F7F5EB;
+      --bg-secondary: #F0EDE1;
+      --text: #202A2D;
+      --text-muted: #5a6264;
+      --text-dim: #8a9092;
+      --accent: #CBD0B5;
+      --accent-hover: #b8bda0;
+      --accent-design: #c4a84e;
+      --accent-tech: #4a8a9e;
+      --accent-design-dim: rgba(196, 168, 78, 0.12);
+      --accent-tech-dim: rgba(74, 138, 158, 0.12);
+      --border: rgba(32, 42, 45, 0.08);
+      --font-display: 'DM Serif Display', 'Noto Serif SC', serif;
       --font-body: 'Inter', 'Noto Sans SC', system-ui, sans-serif;
-      --font-mono: 'JetBrains Mono', monospace;
+      --font-hand: 'Reenie Beanie', cursive;
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -32,174 +32,308 @@
       background: var(--bg);
       color: var(--text);
       font-family: var(--font-body);
+      font-weight: 400;
       line-height: 1.7;
       -webkit-font-smoothing: antialiased;
     }
 
+    /* Noise texture overlay */
+    body::after {
+      content: '';
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.4'/%3E%3C/svg%3E");
+      background-size: 256px 256px;
+      pointer-events: none;
+      z-index: 9999;
+      opacity: 0.03;
+    }
+
+    /* Header / Nav */
     .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      background: rgba(247, 245, 235, 0.8);
+      height: 80px;
       border-bottom: 1px solid var(--border);
-      padding: 2rem 0;
     }
 
     .header-inner {
-      max-width: 800px;
+      max-width: 960px;
       margin: 0 auto;
-      padding: 0 1.5rem;
+      padding: 0 2rem;
+      height: 100%;
       display: flex;
       align-items: center;
       justify-content: space-between;
     }
 
-    .header-left { text-align: left; }
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 2.5rem;
+    }
 
     .masthead {
       font-family: var(--font-display);
-      font-size: clamp(2rem, 5vw, 3.5rem);
-      font-weight: 900;
-      letter-spacing: -0.02em;
+      font-size: 1.5rem;
+      font-weight: 400;
       color: var(--text);
+      letter-spacing: -0.01em;
     }
 
-    .masthead span { color: var(--accent); }
-
-    .tagline {
-      font-size: 0.875rem;
-      color: var(--text-muted);
-      margin-top: 0.25rem;
-      letter-spacing: 0.15em;
-      text-transform: uppercase;
+    .masthead span {
+      font-style: italic;
     }
 
-    .header-controls {
+    .nav-links {
       display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      flex-shrink: 0;
+      gap: 1.5rem;
     }
 
-    .toggle-group {
-      display: flex;
-      background: var(--border);
-      border-radius: 2rem;
-      padding: 3px;
-    }
-
-    .toggle-btn {
+    .nav-btn {
       background: none;
       border: none;
       color: var(--text-dim);
       font-family: var(--font-body);
-      font-size: 0.8rem;
+      font-size: 10px;
       font-weight: 500;
-      padding: 0.35rem 0.85rem;
-      border-radius: 2rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
       cursor: pointer;
-      transition: all 0.2s ease;
-      letter-spacing: 0.03em;
+      padding: 0.5rem 0;
+      position: relative;
+      transition: color 0.3s;
     }
 
-    .toggle-btn.active {
-      background: var(--accent);
-      color: #0a0a0a;
-      font-weight: 600;
+    .nav-btn::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 1.5px;
+      background: var(--text);
+      transition: width 0.3s ease;
     }
 
-    .toggle-btn.active[data-section="tech"] {
-      background: var(--accent-tech);
+    .nav-btn.active { color: var(--text); }
+    .nav-btn.active::after { width: 100%; }
+    .nav-btn:hover { color: var(--text); }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
     }
 
-    .toggle-btn:hover:not(.active) { color: var(--text-muted); }
+    .lang-btn {
+      background: none;
+      border: 1.5px solid var(--border);
+      color: var(--text-dim);
+      font-family: var(--font-body);
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      padding: 0.5rem 1.25rem;
+      border-radius: 999px;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
 
-    .main {
-      max-width: 800px;
+    .lang-btn.active {
+      background: var(--text);
+      color: var(--bg);
+      border-color: var(--text);
+    }
+
+    .lang-btn:hover:not(.active) {
+      border-color: var(--text-dim);
+      color: var(--text);
+    }
+
+    /* Hero */
+    .hero {
+      max-width: 960px;
       margin: 0 auto;
-      padding: 2rem 1.5rem 4rem;
+      padding: 120px 2rem 80px;
+      position: relative;
+    }
+
+    .hero-title {
+      font-family: var(--font-display);
+      font-size: clamp(48px, 8vw, 96px);
+      font-weight: 400;
+      line-height: 0.95;
+      color: var(--text);
+      margin-bottom: 1.5rem;
+      animation: fadeUp 0.8s ease-out both;
+    }
+
+    .hero-title em {
+      font-style: italic;
+      position: relative;
+      display: inline-block;
+    }
+
+    .hero-title em svg {
+      position: absolute;
+      bottom: -4px;
+      left: 0;
+      width: 100%;
+      height: 12px;
+    }
+
+    .hero-sub {
+      font-size: 18px;
+      font-weight: 300;
+      color: var(--text-muted);
+      max-width: 520px;
+      line-height: 1.7;
+      animation: fadeUp 0.8s ease-out 0.2s both;
+    }
+
+    .hero-annotation {
+      position: absolute;
+      right: 2rem;
+      top: 160px;
+      font-family: var(--font-hand);
+      font-size: 28px;
+      color: var(--text-dim);
+      transform: rotate(-3deg);
+      animation: fadeUp 0.8s ease-out 0.4s both;
+    }
+
+    .hero-annotation span {
+      display: block;
+      font-size: 32px;
+      margin-top: -4px;
+    }
+
+    /* Main */
+    .main {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 0 2rem 160px;
     }
 
     /* Issue */
     .issue {
-      border-bottom: 1px solid var(--border);
-      padding: 2.5rem 0;
+      margin-bottom: 80px;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 0.8s ease-out both;
     }
 
-    .issue:first-child { padding-top: 0; }
+    .issue:nth-child(2) { animation-delay: 0.1s; }
+    .issue:nth-child(3) { animation-delay: 0.2s; }
 
-    .issue-header { cursor: pointer; }
-
-    .issue-meta {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      margin-bottom: 0.75rem;
+    .issue-header {
+      cursor: pointer;
     }
 
-    .issue-date {
-      font-family: var(--font-mono);
-      font-size: 0.75rem;
-      color: var(--accent);
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
+    .issue-cover-wrap {
+      width: 100%;
+      border-radius: 40px;
+      overflow: hidden;
+      margin-bottom: 1.5rem;
     }
 
-    .issue-tag {
-      font-family: var(--font-mono);
-      font-size: 0.65rem;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      padding: 0.15rem 0.5rem;
-      border-radius: 1rem;
-      font-weight: 600;
-    }
-
-    .issue-tag.design { background: var(--accent-dim); color: var(--accent-design); }
-    .issue-tag.tech { background: var(--accent-tech-dim); color: var(--accent-tech); }
-
-    .issue-title {
-      font-family: var(--font-display);
-      font-size: 1.5rem;
-      font-weight: 700;
-      line-height: 1.3;
-      margin-bottom: 0.75rem;
-      color: var(--text);
-    }
-
-    /* Cover - always visible */
     .issue-cover {
       width: 100%;
       aspect-ratio: 16/9;
       object-fit: cover;
-      border-radius: 0.5rem;
-      margin-bottom: 1rem;
+      filter: grayscale(100%);
+      transition: all 2000ms ease-out;
+      display: block;
+    }
+
+    .issue:hover .issue-cover,
+    .issue.open .issue-cover {
+      filter: grayscale(0%);
+      transform: scale(1.05);
+    }
+
+    .issue-meta {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .issue-date {
+      font-family: var(--font-body);
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--text-dim);
+    }
+
+    .issue-tag {
+      font-family: var(--font-body);
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      padding: 0.3rem 0.75rem;
+      border-radius: 999px;
+    }
+
+    .issue-tag.design {
+      background: var(--accent-design-dim);
+      color: var(--accent-design);
+    }
+
+    .issue-tag.tech {
+      background: var(--accent-tech-dim);
+      color: var(--accent-tech);
+    }
+
+    .issue-title {
+      font-family: var(--font-display);
+      font-size: clamp(28px, 4vw, 40px);
+      font-weight: 400;
+      line-height: 1.15;
+      color: var(--text);
+      margin-bottom: 0.5rem;
     }
 
     .issue-preview {
+      font-size: 13px;
+      font-weight: 300;
       color: var(--text-dim);
-      font-size: 0.875rem;
       margin-top: 0.75rem;
+      letter-spacing: 0.05em;
     }
 
     .issue.open .issue-preview { display: none; }
 
     /* Content */
     .issue-summary {
-      color: var(--text-muted);
-      font-size: 0.95rem;
-      line-height: 1.8;
       display: none;
-      margin-top: 1.25rem;
+      margin-top: 2rem;
+      color: var(--text-muted);
+      font-size: 15px;
+      font-weight: 300;
+      line-height: 1.85;
     }
 
     .issue.open .issue-summary {
       display: block;
-      animation: fadeIn 0.3s ease;
+      animation: fadeUp 0.6s ease-out;
     }
 
     .issue-summary h3 {
       font-family: var(--font-display);
-      font-size: 1.15rem;
+      font-size: 22px;
+      font-weight: 400;
       color: var(--text);
-      margin: 1.5rem 0 0.75rem;
-      font-weight: 700;
+      margin: 2.5rem 0 1rem;
     }
 
     .issue-summary h3:first-child { margin-top: 0; }
@@ -210,46 +344,111 @@
     .issue-summary ul img {
       display: none;
     }
+
     .issue-summary p { margin-bottom: 0.75rem; }
-    .issue-summary ul { padding-left: 1.25rem; margin-bottom: 0.75rem; }
-    .issue-summary li { margin-bottom: 0.5rem; }
+    .issue-summary ul { padding-left: 1.25rem; margin-bottom: 1rem; }
+    .issue-summary li { margin-bottom: 0.6rem; }
+    .issue-summary strong { font-weight: 500; color: var(--text); }
 
     .issue-summary a {
-      color: var(--accent);
+      color: var(--text);
       text-decoration: none;
-      border-bottom: 1px solid transparent;
-      transition: border-color 0.2s;
+      border-bottom: 1.5px solid var(--accent);
+      transition: border-color 0.3s;
     }
 
-    .issue-summary a:hover { border-bottom-color: var(--accent); }
+    .issue-summary a:hover {
+      border-bottom-color: var(--text);
+    }
 
-    /* Source card */
+    .issue-summary small {
+      font-size: 12px;
+      color: var(--text-dim);
+    }
+
+    .issue-summary small a {
+      color: var(--text-dim);
+      border-bottom-color: transparent;
+    }
+
+    .issue-summary small a:hover {
+      border-bottom-color: var(--text-dim);
+    }
+
+    /* Rex take */
+    .issue-summary .rex-take {
+      background: var(--accent);
+      color: var(--text);
+      padding: 2rem 2.5rem;
+      margin-top: 2.5rem;
+      border-radius: 24px;
+      transition: all 0.5s;
+    }
+
+    .issue-summary .rex-take:hover {
+      background: var(--text);
+      color: #fff;
+    }
+
+    .issue-summary .rex-take h3 {
+      color: inherit;
+      margin-top: 0;
+      margin-bottom: 0.5rem;
+    }
+
+    .issue-summary .rex-take p {
+      color: inherit;
+      opacity: 0.85;
+    }
+
+    .issue-summary .rex-take:hover p { opacity: 1; }
+
+    /* Source cards */
+    .sources-section {
+      margin-top: 2.5rem;
+    }
+
+    .sources-label {
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.3em;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      margin-bottom: 1rem;
+    }
+
     .source-card {
       display: flex;
-      gap: 0.75rem;
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      border-radius: 0.5rem;
-      padding: 0.625rem;
-      margin: 0.5rem 0;
+      gap: 1rem;
+      background: var(--bg-secondary);
+      border: none;
+      border-radius: 24px;
+      padding: 0.75rem;
+      margin-bottom: 0.75rem;
       text-decoration: none !important;
-      border-bottom: 1px solid var(--border) !important;
-      transition: background 0.2s, border-color 0.2s;
+      border-bottom: none !important;
+      transition: all 0.3s;
       align-items: center;
     }
 
     .source-card:hover {
-      background: var(--bg-card-hover);
-      border-color: var(--text-dim);
+      background: var(--accent);
+      transform: translateY(-2px);
     }
 
     .source-card-img {
-      width: 80px;
-      height: 54px;
+      width: 88px;
+      height: 60px;
       object-fit: cover;
-      border-radius: 0.375rem;
+      border-radius: 16px;
       flex-shrink: 0;
       background: var(--border);
+      filter: grayscale(100%);
+      transition: filter 2000ms ease-out;
+    }
+
+    .source-card:hover .source-card-img {
+      filter: grayscale(0%);
     }
 
     .source-card-body {
@@ -258,8 +457,9 @@
     }
 
     .source-card-title {
-      font-size: 0.85rem;
-      font-weight: 500;
+      font-family: var(--font-display);
+      font-size: 15px;
+      font-weight: 400;
       color: var(--text);
       line-height: 1.3;
       display: -webkit-box;
@@ -269,115 +469,172 @@
     }
 
     .source-card-domain {
-      font-size: 0.7rem;
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
       color: var(--text-dim);
-      margin-top: 0.2rem;
-      font-family: var(--font-mono);
+      margin-top: 0.25rem;
     }
 
-    /* Rex take */
-    .issue-summary .rex-take {
-      background: var(--accent-dim);
-      border-left: 3px solid var(--accent);
-      padding: 1rem 1.25rem;
-      margin-top: 1.5rem;
-      border-radius: 0 0.5rem 0.5rem 0;
-    }
-
-    .issue-summary .rex-take h3 {
-      color: var(--accent);
-      margin-top: 0;
-    }
-
-    /* Tech accent overrides */
-    .issue[data-section="tech"] .issue-date { color: var(--accent-tech); }
-    .issue[data-section="tech"] .issue-summary a { color: var(--accent-tech); }
-    .issue[data-section="tech"] .issue-summary a:hover { border-bottom-color: var(--accent-tech); }
-    .issue[data-section="tech"] .source-card:hover { border-color: rgba(71, 184, 232, 0.3); }
-    .issue[data-section="tech"] .issue-summary .rex-take {
-      background: var(--accent-tech-dim);
-      border-left-color: var(--accent-tech);
-    }
-    .issue[data-section="tech"] .issue-summary .rex-take h3 { color: var(--accent-tech); }
-
-    /* Collapse button */
+    /* Collapse */
     .issue-collapse {
       display: none;
-      margin-top: 1.25rem;
+      margin-top: 2rem;
       cursor: pointer;
-      background: none;
-      border: 1px solid var(--border);
-      color: var(--text-dim);
+      background: var(--text);
+      border: none;
+      color: var(--bg);
       font-family: var(--font-body);
-      font-size: 0.8rem;
-      padding: 0.4rem 1rem;
-      border-radius: 2rem;
-      transition: all 0.2s ease;
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      padding: 0.75rem 2rem;
+      border-radius: 999px;
+      transition: all 0.3s;
     }
 
     .issue-collapse:hover {
-      color: var(--text-muted);
-      border-color: var(--text-dim);
+      background: var(--accent);
+      color: var(--text);
     }
 
     .issue.open .issue-collapse { display: inline-block; }
 
+    /* Separator */
+    .issue-separator {
+      width: 48px;
+      height: 1.5px;
+      background: var(--accent);
+      margin-top: 80px;
+    }
+
+    .issue:last-child .issue-separator { display: none; }
+
+    /* Empty */
     .empty {
       text-align: center;
-      padding: 4rem 0;
+      padding: 120px 0;
       color: var(--text-dim);
     }
 
-    .empty-icon { font-size: 3rem; margin-bottom: 1rem; }
+    .empty-icon {
+      font-size: 48px;
+      margin-bottom: 1.5rem;
+    }
 
+    .empty p {
+      font-family: var(--font-display);
+      font-size: 24px;
+      font-style: italic;
+    }
+
+    /* Footer */
     .footer {
-      border-top: 1px solid var(--border);
-      padding: 2rem 0;
-      text-align: center;
-      font-size: 0.75rem;
+      background: var(--bg-secondary);
+      padding: 80px 0 40px;
+    }
+
+    .footer-inner {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
+
+    .footer-logo {
+      font-family: var(--font-display);
+      font-size: 32px;
+      color: var(--text);
+      margin-bottom: 0.5rem;
+    }
+
+    .footer-logo span { font-style: italic; }
+
+    .footer-tagline {
+      font-size: 14px;
+      font-weight: 300;
+      color: var(--text-muted);
+      margin-bottom: 3rem;
+    }
+
+    .footer-rule {
+      width: 100%;
+      height: 1px;
+      background: var(--border);
+      margin-bottom: 1.5rem;
+    }
+
+    .footer-fine {
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
       color: var(--text-dim);
     }
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(-8px); }
+    /* Animations */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(20px); }
       to { opacity: 1; transform: translateY(0); }
     }
 
-    @media (max-width: 600px) {
-      .issue-title { font-size: 1.25rem; }
-      .main { padding: 1.5rem 1rem 3rem; }
-      .header-inner { flex-direction: column; text-align: center; gap: 1rem; }
-      .header-left { text-align: center; }
-      .header-controls { flex-wrap: wrap; justify-content: center; }
-      .source-card-img { width: 64px; height: 44px; }
+    /* Responsive */
+    @media (max-width: 640px) {
+      .hero { padding: 80px 1.5rem 60px; }
+      .hero-annotation { display: none; }
+      .main { padding: 0 1.5rem 80px; }
+      .issue { margin-bottom: 60px; }
+      .issue-cover-wrap { border-radius: 24px; }
+      .issue-summary .rex-take { padding: 1.5rem; border-radius: 16px; }
+      .source-card { border-radius: 16px; }
+      .source-card-img { width: 64px; height: 44px; border-radius: 12px; }
+      .header-inner { padding: 0 1.5rem; }
+      .nav-links { gap: 1rem; }
+      .footer-inner { padding: 0 1.5rem; }
     }
   </style>
 </head>
 <body>
+
   <header class="header">
     <div class="header-inner">
       <div class="header-left">
-        <h1 class="masthead">Rex <span>Daily</span></h1>
-        <p class="tagline" id="tagline">AI 行业情报</p>
+        <div class="masthead">Rex <span>Daily</span></div>
+        <nav class="nav-links" id="section-toggle">
+          <button class="nav-btn active" data-section="all" onclick="setSection('all')">All</button>
+          <button class="nav-btn" data-section="design" onclick="setSection('design')">Design</button>
+          <button class="nav-btn" data-section="tech" onclick="setSection('tech')">Tech</button>
+        </nav>
       </div>
-      <div class="header-controls">
-        <div class="toggle-group" id="section-toggle">
-          <button class="toggle-btn active" data-section="all" onclick="setSection('all')">ALL</button>
-          <button class="toggle-btn" data-section="design" onclick="setSection('design')">🎨 Design</button>
-          <button class="toggle-btn" data-section="tech" onclick="setSection('tech')">⚡ Tech</button>
-        </div>
-        <div class="toggle-group">
-          <button class="toggle-btn active" data-lang="zh" onclick="setLang('zh')">中文</button>
-          <button class="toggle-btn" data-lang="en" onclick="setLang('en')">EN</button>
-        </div>
+      <div class="header-right">
+        <button class="lang-btn active" data-lang="zh" onclick="setLang('zh')">中文</button>
+        <button class="lang-btn" data-lang="en" onclick="setLang('en')">EN</button>
       </div>
     </div>
   </header>
 
+  <section class="hero">
+    <h1 class="hero-title" id="hero-title">
+      <em>AI
+        <svg viewBox="0 0 300 12" preserveAspectRatio="none">
+          <path d="M2 8C50 9.5 100 -2 298 4" stroke="#CBD0B5" stroke-width="4" stroke-linecap="round" fill="none"/>
+        </svg>
+      </em> Industry<br>Intelligence
+    </h1>
+    <p class="hero-sub" id="hero-sub">每日精选 AI 行业动态，设计与科技的交汇点。由 Rex 为你策展。</p>
+    <div class="hero-annotation">curated daily ↓</div>
+  </section>
+
   <main class="main" id="issues"></main>
 
   <footer class="footer">
-    <p id="footer-text">Rex Daily — Wayne 的 AI 行业研究助手</p>
+    <div class="footer-inner">
+      <div class="footer-logo">Rex <span>Daily</span></div>
+      <p class="footer-tagline" id="footer-tagline">AI 行业研究 · 每日策展</p>
+      <div class="footer-rule"></div>
+      <p class="footer-fine">© 2026 Rex Daily · Curated by Rex for Wayne</p>
+    </div>
   </footer>
 
   <script>
@@ -387,18 +644,22 @@
 
     const i18n = {
       zh: {
-        tagline: 'AI 行业情报',
-        footer: 'Rex Daily — Wayne 的 AI 行业研究助手',
-        expand: '点击展开阅读 →',
-        collapse: '收起 ↑',
+        heroTitle: '<em>AI<svg viewBox="0 0 300 12" preserveAspectRatio="none"><path d="M2 8C50 9.5 100 -2 298 4" stroke="#CBD0B5" stroke-width="4" stroke-linecap="round" fill="none"/></svg></em> Industry<br>Intelligence',
+        heroSub: '每日精选 AI 行业动态，设计与科技的交汇点。由 Rex 为你策展。',
+        footerTagline: 'AI 行业研究 · 每日策展',
+        expand: '展开阅读 →',
+        collapse: '收起',
+        sources: '相关来源',
         tagDesign: 'DESIGN',
         tagTech: 'TECH'
       },
       en: {
-        tagline: 'AI Industry Intelligence',
-        footer: 'Rex Daily — AI Industry Research by Rex',
-        expand: 'Click to expand →',
-        collapse: 'Collapse ↑',
+        heroTitle: '<em>AI<svg viewBox="0 0 300 12" preserveAspectRatio="none"><path d="M2 8C50 9.5 100 -2 298 4" stroke="#CBD0B5" stroke-width="4" stroke-linecap="round" fill="none"/></svg></em> Industry<br>Intelligence',
+        heroSub: 'Daily curated AI industry insights at the intersection of design and technology. Curated by Rex.',
+        footerTagline: 'AI Industry Research · Daily Curation',
+        expand: 'Read more →',
+        collapse: 'Collapse',
+        sources: 'Sources',
         tagDesign: 'DESIGN',
         tagTech: 'TECH'
       }
@@ -407,7 +668,7 @@
     function setSection(s) {
       currentSection = s;
       localStorage.setItem('rex-section', s);
-      document.querySelectorAll('#section-toggle .toggle-btn').forEach(b =>
+      document.querySelectorAll('#section-toggle .nav-btn').forEach(b =>
         b.classList.toggle('active', b.dataset.section === s));
       renderIssues();
     }
@@ -418,8 +679,9 @@
       document.querySelectorAll('[data-lang]').forEach(b =>
         b.classList.toggle('active', b.dataset.lang === l));
       document.documentElement.lang = l === 'zh' ? 'zh-CN' : 'en';
-      document.getElementById('tagline').textContent = i18n[l].tagline;
-      document.getElementById('footer-text').textContent = i18n[l].footer;
+      document.getElementById('hero-title').innerHTML = i18n[l].heroTitle;
+      document.getElementById('hero-sub').textContent = i18n[l].heroSub;
+      document.getElementById('footer-tagline').textContent = i18n[l].footerTagline;
       renderIssues();
     }
 
@@ -434,20 +696,21 @@
 
     function renderSourceCards(sources) {
       if (!sources || !sources.length) return '';
-      return '<div style="margin-top:1rem">' + sources.map(s => {
-        const title = getField(s.title) || getDomain(s.url);
-        const domain = getDomain(s.url);
-        const imgHtml = s.image
-          ? `<img class="source-card-img" src="${s.image}" alt="" referrerpolicy="no-referrer" loading="lazy">`
-          : '';
-        return `<a class="source-card" href="${s.url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">
-          ${imgHtml}
-          <div class="source-card-body">
-            <div class="source-card-title">${title}</div>
-            <div class="source-card-domain">${domain}</div>
-          </div>
-        </a>`;
-      }).join('') + '</div>';
+      const label = i18n[currentLang].sources;
+      return '<div class="sources-section"><div class="sources-label">' + label + '</div>' +
+        sources.map(s => {
+          const title = getField(s.title) || getDomain(s.url);
+          const domain = getDomain(s.url);
+          const imgHtml = s.image
+            ? '<img class="source-card-img" src="' + s.image + '" alt="" referrerpolicy="no-referrer" loading="lazy">'
+            : '';
+          return '<a class="source-card" href="' + s.url + '" target="_blank" rel="noopener" onclick="event.stopPropagation()">' +
+            imgHtml +
+            '<div class="source-card-body">' +
+              '<div class="source-card-title">' + title + '</div>' +
+              '<div class="source-card-domain">' + domain + '</div>' +
+            '</div></a>';
+        }).join('') + '</div>';
     }
 
     function renderIssues() {
@@ -458,34 +721,35 @@
 
       if (!filtered.length) {
         c.innerHTML = '<div class="empty"><div class="empty-icon">🔍</div><p>' +
-          (currentLang === 'zh' ? '暂无此分类的日报' : 'No issues yet') + '</p></div>';
+          (currentLang === 'zh' ? '暂无内容' : 'No issues yet') + '</p></div>';
         return;
       }
 
-      c.innerHTML = filtered.map(issue => {
+      c.innerHTML = filtered.map((issue, idx) => {
         const sec = issue.section || 'design';
         const tagKey = 'tag' + sec.charAt(0).toUpperCase() + sec.slice(1);
         const coverHtml = issue.cover
-          ? `<img class="issue-cover" src="${issue.cover}" alt="" referrerpolicy="no-referrer" loading="lazy">`
+          ? '<div class="issue-cover-wrap"><img class="issue-cover" src="' + issue.cover + '" alt="" referrerpolicy="no-referrer" loading="lazy"></div>'
           : '';
         const sourcesHtml = renderSourceCards(issue.sources);
 
-        return `<article class="issue" data-section="${sec}">
-          <div class="issue-header" onclick="this.parentElement.classList.toggle('open')">
-            ${coverHtml}
-            <div class="issue-meta">
-              <span class="issue-date">${issue.date}</span>
-              <span class="issue-tag ${sec}">${i18n[currentLang][tagKey]}</span>
-            </div>
-            <h2 class="issue-title">${getField(issue.title)}</h2>
-            <p class="issue-preview">${i18n[currentLang].expand}</p>
-          </div>
-          <div class="issue-summary">
-            ${getField(issue.content)}
-            ${sourcesHtml}
-          </div>
-          <button class="issue-collapse" onclick="this.parentElement.classList.remove('open')">${i18n[currentLang].collapse}</button>
-        </article>`;
+        return '<article class="issue" style="animation-delay:' + (idx * 0.1) + 's" data-section="' + sec + '">' +
+          '<div class="issue-header" onclick="this.parentElement.classList.toggle(\'open\')">' +
+            coverHtml +
+            '<div class="issue-meta">' +
+              '<span class="issue-date">' + issue.date + '</span>' +
+              '<span class="issue-tag ' + sec + '">' + i18n[currentLang][tagKey] + '</span>' +
+            '</div>' +
+            '<h2 class="issue-title">' + getField(issue.title) + '</h2>' +
+            '<p class="issue-preview">' + i18n[currentLang].expand + '</p>' +
+          '</div>' +
+          '<div class="issue-summary">' +
+            getField(issue.content) +
+            sourcesHtml +
+          '</div>' +
+          '<button class="issue-collapse" onclick="this.parentElement.classList.remove(\'open\')">' + i18n[currentLang].collapse + '</button>' +
+          '<div class="issue-separator"></div>' +
+        '</article>';
       }).join('');
     }
 
@@ -501,7 +765,7 @@
 
     document.querySelectorAll('[data-lang]').forEach(b =>
       b.classList.toggle('active', b.dataset.lang === currentLang));
-    document.querySelectorAll('#section-toggle .toggle-btn').forEach(b =>
+    document.querySelectorAll('#section-toggle .nav-btn').forEach(b =>
       b.classList.toggle('active', b.dataset.section === currentSection));
     loadIssues();
   </script>
