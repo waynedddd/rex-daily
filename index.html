@@ -409,7 +409,7 @@
             <h2 class="issue-title">${getField(issue.title)}</h2>
             <p class="issue-preview">${i18n[currentLang].expand}</p>
           </div>
-          <div class="issue-summary">${issue.cover ? '<img class="issue-cover" src="' + issue.cover + '" alt="">' : ''}${getField(issue.content)}</div>
+          <div class="issue-summary">${issue.cover ? '<img class="issue-cover" src="' + issue.cover + '" alt="" referrerpolicy="no-referrer" loading="lazy">' : ''}${getField(issue.content)}</div>
           <button class="issue-collapse" onclick="this.parentElement.classList.remove('open')">${i18n[currentLang].collapse}</button>
         </article>
       `).join('');
