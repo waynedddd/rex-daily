@@ -100,10 +100,11 @@
       border-radius: 12px;
       cursor: pointer;
       transform-origin: bottom center;
-      transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1),
-                  opacity 0.5s ease,
-                  box-shadow 0.6s ease;
-      will-change: transform, opacity;
+      transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+                  opacity 0.4s ease,
+                  filter 0.4s ease,
+                  box-shadow 0.5s ease;
+      will-change: transform, opacity, filter;
       overflow: hidden;
       backface-visibility: hidden;
     }
@@ -188,7 +189,7 @@
       -webkit-box-orient: vertical;
     }
 
-    .card-title, .card-meta, .card-hint, .card-overlay {
+    .card-title, .card-meta, .card-overlay {
       transition: opacity 0.5s ease;
     }
       position: relative;
@@ -575,7 +576,6 @@
               <span class="card-tag ${sec}">${sec}</span>
             </div>
             <div class="card-title">${getField(issue.title)}</div>
-            <div class="card-hint">${currentLang === 'zh' ? '点击阅读' : 'Tap to read'}</div>
           </div>
         </div>`;
       }).join('');
@@ -629,9 +629,12 @@
         // Fade text on non-front cards
         const inner = card.querySelector('.card-inner');
         if (inner) {
-          const textEls = inner.querySelectorAll('.card-title, .card-meta, .card-hint, .card-overlay');
+          const textEls = inner.querySelectorAll('.card-title, .card-meta, .card-overlay');
           const textOpacity = offset === 0 ? '1' : '0';
           textEls.forEach(el => el.style.opacity = textOpacity);
+          // Spine (date) always visible on all cards
+          const spine = card.querySelector('.card-spine');
+          if (spine) spine.style.opacity = offset === 0 ? '0.5' : '0.3';
         }
       });
 
