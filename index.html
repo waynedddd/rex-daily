@@ -189,29 +189,30 @@
       -webkit-box-orient: vertical;
     }
 
-    .card-title, .card-meta, .card-overlay {
+    .card-title, .card-overlay {
       transition: opacity 0.5s ease;
     }
-      position: relative;
-      z-index: 1;
-      font-size: 11px;
-      opacity: 0.4;
-      margin-top: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.15em;
-    }
 
-    /* Card spine label (visible when stacked behind) */
-    .card-spine {
+    /* Top-right meta (date + tag) */
+    .card-top-right {
       position: absolute;
       top: 16px;
-      right: 20px;
+      right: 16px;
       z-index: 2;
-      font-size: 10px;
-      text-transform: uppercase;
-      letter-spacing: 0.2em;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 6px;
+    }
+
+    .card-top-date {
+      font-size: 11px;
+      letter-spacing: 0.1em;
       opacity: 0.5;
-      writing-mode: vertical-rl;
+    }
+
+    .card-top-right .card-tag {
+      font-size: 9px;
     }
 
     /* ── Navigation dots ── */
@@ -571,8 +572,8 @@
             ${hasCover ? `<div class="card-bg" style="background-image:url('${issue.cover}')"></div>` : ''}
             ${!hasCover ? `<div class="card-gradient" style="${bgStyle}"></div>` : ''}
             <div class="card-overlay"></div>
-            <div class="card-spine">${issue.date}</div>
-            <div class="card-meta">
+            <div class="card-top-right">
+              <span class="card-top-date">${issue.date}</span>
               <span class="card-tag ${sec}">${sec}</span>
             </div>
             <div class="card-title">${getField(issue.title)}</div>
@@ -629,12 +630,12 @@
         // Fade text on non-front cards
         const inner = card.querySelector('.card-inner');
         if (inner) {
-          const textEls = inner.querySelectorAll('.card-title, .card-meta, .card-overlay');
+          const textEls = inner.querySelectorAll('.card-title, .card-overlay');
           const textOpacity = offset === 0 ? '1' : '0';
           textEls.forEach(el => el.style.opacity = textOpacity);
-          // Spine (date) always visible on all cards
-          const spine = card.querySelector('.card-spine');
-          if (spine) spine.style.opacity = offset === 0 ? '0.5' : '0.3';
+          // Top-right meta visible on all cards but dimmer on background
+          const topRight = card.querySelector('.card-top-right');
+          if (topRight) topRight.style.opacity = offset === 0 ? '1' : '0.3';
         }
       });
 
@@ -674,10 +675,10 @@
       const dy = e.clientY - startY;
       if (Math.abs(dx) < 40 || Math.abs(dy) > Math.abs(dx)) return;
 
-      if (dx < 0 && currentIndex < filtered.length - 1) {
+      if (dx > 0 && currentIndex < filtered.length - 1) {
         currentIndex++;
         layoutCards();
-      } else if (dx > 0 && currentIndex > 0) {
+      } else if (dx < 0 && currentIndex > 0) {
         currentIndex--;
         layoutCards();
       }
@@ -702,8 +703,8 @@
       wheelCooldown = true;
       setTimeout(() => wheelCooldown = false, 400);
 
-      if (e.deltaY > 0 || e.deltaX > 0) goTo(currentIndex + 1);
-      else goTo(currentIndex - 1);
+      if (e.deltaY > 0 || e.deltaX > 0) goTo(currentIndex - 1);
+      else goTo(currentIndex + 1);
     }, { passive: true });
 
     // ── Overlay ──
