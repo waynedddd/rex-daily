@@ -589,41 +589,44 @@
 
     function layoutCards() {
       const cards = document.querySelectorAll('.card');
+      const total = cards.length;
       cards.forEach((card, i) => {
         const offset = i - currentIndex;
 
-        if (offset < -1 || offset > 4) {
+        if (offset < -1 || offset > 6) {
           card.style.opacity = '0';
           card.style.pointerEvents = 'none';
-          card.style.transform = `translateZ(-300px) translateY(100px) rotateX(15deg)`;
+          card.style.transform = 'translateY(200px) scale(0.7)';
           return;
         }
 
         card.style.pointerEvents = offset === 0 ? 'auto' : 'none';
 
         if (offset === 0) {
-          // Front card
-          card.style.transform = 'translateZ(0) translateY(0) rotateX(0)';
+          // Front card — slightly forward
+          card.style.transform = 'translateY(0) scale(1) rotate(0deg)';
           card.style.opacity = '1';
-          card.style.zIndex = 10;
-          card.style.boxShadow = '0 30px 80px rgba(0,0,0,0.6)';
+          card.style.zIndex = 50;
+          card.style.boxShadow = '0 30px 80px rgba(0,0,0,0.7)';
         } else if (offset > 0) {
-          // Behind: fan out
-          const z = -60 * offset;
-          const y = -20 * offset;
-          const rotX = 3 * offset;
-          const scale = 1 - 0.04 * offset;
-          const opacity = Math.max(0.15, 1 - 0.25 * offset);
-          card.style.transform = `translateZ(${z}px) translateY(${y}px) rotateX(${rotX}deg) scale(${scale})`;
+          // Behind cards: fan upward, shrink, slight rotation
+          const y = -28 * offset;
+          const scale = 1 - 0.035 * offset;
+          const rot = -1.5 * offset;
+          const brightness = Math.max(0.3, 1 - 0.18 * offset);
+          const opacity = Math.max(0.4, 1 - 0.15 * offset);
+          card.style.transform = `translateY(${y}px) scale(${scale}) rotate(${rot}deg)`;
           card.style.opacity = opacity;
-          card.style.zIndex = 10 - offset;
-          card.style.boxShadow = `0 15px 40px rgba(0,0,0,${0.3 + offset * 0.1})`;
+          card.style.filter = `brightness(${brightness})`;
+          card.style.zIndex = 50 - offset;
+          card.style.boxShadow = `0 ${15 - offset * 2}px ${40 - offset * 5}px rgba(0,0,0,0.5)`;
         } else {
-          // Already swiped (gone left)
-          card.style.transform = 'translateX(-400px) translateZ(-100px) rotateY(15deg)';
+          // Swiped away
+          card.style.transform = 'translateX(-120%) translateY(-40px) rotate(-8deg)';
           card.style.opacity = '0';
           card.style.zIndex = 0;
           card.style.boxShadow = 'none';
+          card.style.filter = 'brightness(1)';
         }
       });
 
