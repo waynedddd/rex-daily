@@ -147,6 +147,47 @@
       filter: brightness(1) saturate(0.85);
     }
 
+    /* Hover glow + glassmorphism */
+    .card::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: 12px;
+      opacity: 0;
+      transition: opacity 0.5s ease;
+      pointer-events: none;
+      z-index: 3;
+    }
+    .card:hover::after {
+      opacity: 1;
+    }
+    .card.design-card::after {
+      box-shadow: 0 0 35px rgba(196,168,78,0.2), inset 0 0 25px rgba(196,168,78,0.05);
+    }
+    .card.tech-card::after {
+      box-shadow: 0 0 35px rgba(74,138,158,0.2), inset 0 0 25px rgba(74,138,158,0.05);
+    }
+
+    .card-inner::before {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 50%;
+      background: rgba(255,255,255,0.03);
+      backdrop-filter: blur(0px);
+      -webkit-backdrop-filter: blur(0px);
+      border-radius: 0 0 12px 12px;
+      opacity: 0;
+      transition: opacity 0.5s ease, backdrop-filter 0.5s ease, -webkit-backdrop-filter 0.5s ease;
+      pointer-events: none;
+      z-index: 1;
+    }
+    .card:hover .card-inner::before {
+      opacity: 1;
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+    }
+
     /* Fallback gradient when no cover */
     .card-gradient {
       position: absolute;
@@ -682,7 +723,7 @@
           ? ''
           : `background: ${gradients[i % gradients.length]};`;
 
-        return `<div class="card" data-index="${i}" onclick="openCard(${i})">
+        return `<div class="card ${sec}-card" data-index="${i}" onclick="openCard(${i})">
           <div class="card-inner">
             ${hasCover ? `<div class="card-bg" style="background-image:url('${issue.cover}')"></div>` : ''}
             ${!hasCover ? `<div class="card-gradient" style="${bgStyle}"></div>` : ''}
