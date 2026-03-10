@@ -112,10 +112,6 @@
       backface-visibility: hidden;
     }
 
-    .card:hover {
-      z-index: 999;
-    }
-
     .card-inner {
       width: 100%;
       height: 100%;
@@ -126,7 +122,6 @@
       position: relative;
       border-radius: 12px;
       overflow: hidden;
-      transform-style: preserve-3d;
     }
 
     .card-bg {
@@ -150,27 +145,6 @@
 
     .card:hover .card-bg {
       filter: brightness(1) saturate(0.85);
-    }
-
-    /* Hover glow */
-    .card::after {
-      content: '';
-      position: absolute;
-      inset: 0;
-      border-radius: 12px;
-      opacity: 0;
-      transition: opacity 0.5s ease;
-      pointer-events: none;
-      z-index: 3;
-    }
-    .card:hover::after {
-      opacity: 1;
-    }
-    .card.design-card::after {
-      box-shadow: 0 0 35px rgba(196,168,78,0.2), inset 0 0 25px rgba(196,168,78,0.05);
-    }
-    .card.tech-card::after {
-      box-shadow: 0 0 35px rgba(74,138,158,0.2), inset 0 0 25px rgba(74,138,158,0.05);
     }
 
     /* Fallback gradient when no cover */
@@ -225,22 +199,7 @@
       letter-spacing: -0.02em;
       max-height: 3.75em;
       overflow: hidden;
-      transition: max-height 0.6s cubic-bezier(0.23, 1, 0.32, 1), opacity 0.5s ease, transform 0.15s ease;
-      transform: translateZ(0px);
-      will-change: transform;
-    }
-
-    .card:hover .card-title {
-      transform: translateZ(40px);
-    }
-
-    .card:hover .card-top-right {
-      transform: translateZ(25px);
-    }
-
-    .card-top-right {
-      transition: transform 0.15s ease;
-      transform: translateZ(0px);
+      transition: max-height 0.6s cubic-bezier(0.23, 1, 0.32, 1), opacity 0.5s ease;
     }
 
     .card-overlay {
@@ -723,7 +682,7 @@
           ? ''
           : `background: ${gradients[i % gradients.length]};`;
 
-        return `<div class="card ${sec}-card" data-index="${i}" onclick="openCard(${i})">
+        return `<div class="card" data-index="${i}" onclick="openCard(${i})">
           <div class="card-inner">
             ${hasCover ? `<div class="card-bg" style="background-image:url('${issue.cover}')"></div>` : ''}
             ${!hasCover ? `<div class="card-gradient" style="${bgStyle}"></div>` : ''}
@@ -774,8 +733,7 @@
         const brightness = Math.max(0.25, 1 - Math.abs(offset) * 0.2);
         const opacity = Math.max(0, 1 - Math.abs(offset) * 0.2);
 
-        const z = -Math.abs(offset) * 120;
-        card.style.transform = `translateX(${x}px) translateY(${y}px) translateZ(${z}px) rotate(${rot}deg) scale(${scale})`;
+        card.style.transform = `translateX(${x}px) translateY(${y}px) rotate(${rot}deg) scale(${scale})`;
         card.style.opacity = opacity;
         card.style.filter = `brightness(${brightness})`;
         card.style.zIndex = 50 - Math.abs(offset) * 5;
@@ -956,31 +914,6 @@
     }
 
     init();
-
-    // ── Subtle 3D tilt (front card only, ±3°/±2°) ──
-    let tiltedCard = null;
-    document.getElementById('scene').addEventListener('mousemove', function(e) {
-      const card = e.target.closest('.card');
-      if (!card || card.style.pointerEvents === 'none') return;
-      if (tiltedCard !== card) {
-        if (tiltedCard) tiltedCard.style.transform = tiltedCard.dataset.origTransform || '';
-        card.dataset.origTransform = card.style.transform;
-        tiltedCard = card;
-      }
-      const rect = card.getBoundingClientRect();
-      const x = (e.clientX - rect.left) / rect.width;
-      const y = (e.clientY - rect.top) / rect.height;
-      const ry = (x - 0.5) * 6;
-      const rx = (0.5 - y) * 4;
-      card.style.transform = (card.dataset.origTransform || '') + ` rotateX(${rx}deg) rotateY(${ry}deg)`;
-    });
-    document.getElementById('scene').addEventListener('mouseleave', function() {
-      if (tiltedCard) {
-        tiltedCard.style.transform = tiltedCard.dataset.origTransform || '';
-        tiltedCard = null;
-      }
-    });
-
   </script>
 </body>
 </html>
