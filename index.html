@@ -718,26 +718,28 @@
           return;
         }
 
-        // S-shaped winding path:
-        // Past cards (offset>0): meander from upper-left toward center
-        // Future cards (offset<0): meander from center toward lower-right (mirrored)
+        // S-shaped winding path (Tesseract-style):
+        // Current card: centered, no rotation
+        // Past (offset>0): meander upper-left; Future (offset<0): meander lower-right
         const absOff = Math.abs(offset);
-        const dir = offset > 0 ? -1 : 1; // past = upper-left (-), future = lower-right (+)
+        const dir = offset > 0 ? -1 : 1;
         
-        // Winding X: sine wave creates the S-curve lateral movement
-        const xWave = Math.sin(absOff * 1.2) * 120;
-        const xDrift = absOff * 60 * dir; // gradual drift toward corner
-        const x = xWave * dir + xDrift;
+        // S-curve using cubic bezier-like path
+        // Wider amplitude, bigger spacing for visible S shape
+        const t = absOff * 0.7; // parameter along curve
+        const xSwing = Math.sin(t) * 200; // wider lateral swing
+        const xDrift = absOff * 80 * dir; // drift toward corner
+        const x = xSwing * dir + xDrift;
         
-        // Y: steady progression up (past) or down (future)
-        const y = absOff * 80 * dir;
+        // Y: bigger vertical steps
+        const y = absOff * 110 * dir;
         
-        // Rotation follows the S-curve tangent
-        const rot = Math.cos(absOff * 1.2) * 5 * dir;
+        // Rotation: 0 for front card, follows curve for others
+        const rot = offset === 0 ? 0 : Math.cos(t) * 8 * dir;
         
-        const scale = Math.max(0.65, 1 - absOff * 0.06);
-        const brightness = Math.max(0.25, 1 - absOff * 0.2);
-        const opacity = Math.max(0, 1 - absOff * 0.2);
+        const scale = Math.max(0.6, 1 - absOff * 0.08);
+        const brightness = Math.max(0.25, 1 - absOff * 0.18);
+        const opacity = Math.max(0, 1 - absOff * 0.18);
 
         card.style.transform = `translateX(${x}px) translateY(${y}px) rotate(${rot}deg) scale(${scale})`;
         card.style.opacity = opacity;
