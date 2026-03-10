@@ -725,18 +725,17 @@
         const absOff = Math.abs(offset);
         const dir = offset > 0 ? -1 : 1;
         
-        // S-curve using cubic bezier-like path
-        // Wider amplitude, bigger spacing for visible S shape
-        const t = absOff * 0.7; // parameter along curve
-        const xSwing = Math.sin(t) * 100; // lateral swing
-        const xDrift = absOff * 40 * dir; // drift toward corner
+        // S-curve: smooth equal-spaced path using parametric sine
+        const step = absOff;
+        const xSwing = Math.sin(step * 0.5) * 140; // smooth S oscillation
+        const xDrift = step * 30 * dir; // constant drift per card
         const x = xSwing * dir + xDrift;
         
-        // Y: vertical steps
-        const y = absOff * 55 * dir;
+        // Y: equal spacing
+        const y = step * 60 * dir;
         
-        // Rotation: 0 for front card, follows curve for others
-        const rot = offset === 0 ? 0 : Math.cos(t) * 8 * dir;
+        // Rotation follows curve tangent smoothly
+        const rot = offset === 0 ? 0 : Math.cos(step * 0.5) * 6 * dir;
         
         const scale = Math.max(0.8, 1 - absOff * 0.03);
         const brightness = offset === 0 ? 1 : Math.max(0.1, 0.3 - absOff * 0.04);
