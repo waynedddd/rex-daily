@@ -727,7 +727,7 @@
         // S-curve using cubic bezier-like path
         // Wider amplitude, bigger spacing for visible S shape
         const t = absOff * 0.7; // parameter along curve
-        const xSwing = Math.sin(t) * 200; // wider lateral swing
+        const xSwing = Math.sin(t) * 100; // lateral swing
         const xDrift = absOff * 40 * dir; // drift toward corner
         const x = xSwing * dir + xDrift;
         
