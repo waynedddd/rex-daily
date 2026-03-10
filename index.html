@@ -157,38 +157,11 @@
       position: absolute;
       bottom: 0; left: 0; right: 0;
       height: 70%;
-      background: linear-gradient(to top, rgba(0,0,0,0.5) 0%, transparent 100%);
-    }
-
-    /* Progressive blur from bottom to top */
-    .card-blur-1, .card-blur-2, .card-blur-3 {
-      position: absolute;
-      left: 0; right: 0;
-      pointer-events: none;
-    }
-    .card-blur-1 {
-      bottom: 0;
-      height: 25%;
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
-      mask-image: linear-gradient(to top, black, transparent);
-      -webkit-mask-image: linear-gradient(to top, black, transparent);
-    }
-    .card-blur-2 {
-      bottom: 10%;
-      height: 25%;
-      backdrop-filter: blur(6px);
-      -webkit-backdrop-filter: blur(6px);
-      mask-image: linear-gradient(to top, black, transparent);
-      -webkit-mask-image: linear-gradient(to top, black, transparent);
-    }
-    .card-blur-3 {
-      bottom: 20%;
-      height: 25%;
-      backdrop-filter: blur(2px);
-      -webkit-backdrop-filter: blur(2px);
-      mask-image: linear-gradient(to top, black, transparent);
-      -webkit-mask-image: linear-gradient(to top, black, transparent);
+      background: linear-gradient(to top, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 40%, transparent 100%);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      mask-image: linear-gradient(to top, black 0%, rgba(0,0,0,0.6) 30%, transparent 70%);
+      -webkit-mask-image: linear-gradient(to top, black 0%, rgba(0,0,0,0.6) 30%, transparent 70%);
     }
 
     .card-meta {
@@ -718,9 +691,6 @@
             ${hasCover ? `<div class="card-bg" style="background-image:url('${issue.cover}')"></div>` : ''}
             ${!hasCover ? `<div class="card-gradient" style="${bgStyle}"></div>` : ''}
             <div class="card-overlay"></div>
-            <div class="card-blur-3"></div>
-            <div class="card-blur-2"></div>
-            <div class="card-blur-1"></div>
             <div class="card-top-right">
               <span class="card-top-date">${issue.date}</span>
               <span class="card-tag ${sec}">${sec}</span>
