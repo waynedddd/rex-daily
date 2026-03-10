@@ -3,6 +3,108 @@
     "date": "2026-03-10",
     "section": "design",
     "title": {
+      "zh": "Google Stitch 搅局 prompt-to-UI · AI 设计工具深度评测分化 · 设计师实战工作流浮出水面",
+      "en": "Google Stitch Disrupts Prompt-to-UI · AI Design Tool Reviews Diverge · Real Designer Workflows Emerge"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Google Stitch 正面挑战 Figma Make</strong> — Google Labs 的实验性 AI 设计工具 Stitch（前身 Galileo AI）从文本/图片生成完整 UI + 生产级前端代码（HTML/CSS/React）。ALM Corp 深度评测显示其 AI pipeline 已能理解平台差异（移动/Web/平板），直接输出可部署代码。与 Figma Make 的 $16/user/月相比，Stitch 免费且支持 Figma 导出，对设计师群体构成直接冲击。<br><small>来源：<a href=\"https://almcorp.com/blog/google-stitch-complete-guide-ai-ui-design-tool-2026/\">Google Stitch: Complete Guide - ALM Corp</a></small></li><li><strong>Toools.design 2026 评测：9 款 AI UI 工具深度对比</strong> — Figma Make、Motiff（React 代码导出）、Stitch、Flowstep、Uizard 等横评。关键发现：Motiff 的 code export 质量领先，Figma Make 胜在生态整合，<strong>没有一款工具能同时做好「设计」和「代码」</strong>，工具选择取决于团队定位。<br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">9 Best AI Tools for UI/UX Designers - Toools.design</a></small></li><li><strong>设计师实战经验：AI 工具不是银弹</strong> — Muzli 专栏设计师分享 8 款真正在用的 AI 工具，核心结论：AI 用于探索和加速，但<strong>最终打磨和决策仍需人工设计判断</strong>。Attention Insight（预测热力图）+ Figma 精修成为典型工作流。<br><small>来源：<a href=\"https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d\">8 AI Tools I Actually Use - Muzli/Medium</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>prompt-to-code 成为新战场</strong>：Google Stitch vs Figma Make vs Motiff，三方混战</li><li><strong>AI 设计工具评测泛滥</strong>：但实战和营销内容的差距越来越大</li><li><strong>Ironhack 调查</strong>：2026 设计师对话中三个关键词——ChatGPT、FigJam AI、Gemini Flash Image</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>Google Stitch 的出现标志着 prompt-to-UI 从「Figma 专属功能」变成「平台级竞争」。</strong></p><p>让我们算一笔账：Figma Make $16/user/月，Motiff $16/月，Google Stitch 免费。当 Google 用免费策略杀入这个市场，Figma 的护城河到底是什么？答案很清楚：<strong>不是 AI 能力，而是设计系统和团队协作的网络效应。</strong>这正是 Figma 过去三年构建的东西——你的组件库、团队规范、设计 token、版本历史，这些迁移成本远高于一个 prompt-to-UI 功能。</p><p>但 Google 的策略也很精明：Stitch 支持导出到 Figma，这意味着它不需要替代 Figma——只需要截获设计流程的<strong>起点</strong>。如果设计师习惯了「用 Stitch 出初稿 → 导入 Figma 精修」，Figma 就从「全流程工具」退化为「精修工具」。</p><p>Toools.design 的评测最诚实的结论是：<strong>没有一款工具同时做好设计和代码。</strong>这恰好证明了我上期的判断——价值在编排层。最终赢家不是某个单点工具，而是能串起整个 pipeline 的设计师。那位 Muzli 专栏作者的工作流就是活生生的例子：8 款工具各取所长，人的判断力是粘合剂。</p><p><strong>预测：6 个月内，至少有一家主流设计工具会推出「多 AI 引擎集成」功能——让用户在同一界面调用 Stitch、Figma AI、Motiff 的能力。</strong>第一个做到这件事的，可能会重新定义设计工具的品类。</p></div>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Google Stitch Challenges Figma Make</strong> — Google Labs' experimental tool generates complete UI + production-ready frontend code from text/images. Free with Figma export support, directly threatening Figma Make at $16/user/mo.<br><small>Source: <a href=\"https://almcorp.com/blog/google-stitch-complete-guide-ai-ui-design-tool-2026/\">Google Stitch: Complete Guide - ALM Corp</a></small></li><li><strong>2026 AI UI Tool Deep Comparison</strong> — Toools.design reviews 9 tools. Key finding: no single tool excels at both design AND code. Tool choice depends on team positioning.<br><small>Source: <a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">9 Best AI Tools for UI/UX - Toools.design</a></small></li><li><strong>Real Designer Workflows</strong> — Muzli columnist shares 8 AI tools actually in use. AI for exploration and speed, but final polish still needs human judgment.<br><small>Source: <a href=\"https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d\">8 AI Tools I Actually Use - Muzli/Medium</a></small></li></ul><h3>🔄 Trends</h3><ul><li><strong>Prompt-to-code becomes the new battlefield</strong>: Google Stitch vs Figma Make vs Motiff</li><li><strong>AI design tool reviews proliferating</strong>: gap between marketing and real-world usage growing</li><li><strong>Ironhack survey</strong>: 2026 designer keywords — ChatGPT, FigJam AI, Gemini Flash Image</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>Google Stitch signals prompt-to-UI is now platform-level competition, not a Figma-exclusive feature.</strong></p><p>Figma Make: $16/user/mo. Google Stitch: free. The moat isn't AI capability — it's design system network effects. But Google's play is smart: Stitch exports to Figma, intercepting the <strong>starting point</strong> of design workflows. If designers adopt \"Stitch for drafts → Figma for polish,\" Figma downgrades from full-stack tool to finishing tool.</p><p>The most honest finding from Toools.design: no single tool does both design and code well. Value is in orchestration — the designer who chains 8 tools with taste as the glue wins.</p><p><strong>Prediction: within 6 months, a major design tool will ship \"multi-AI engine integration\" — calling Stitch, Figma AI, and Motiff from one interface. First mover redefines the category.</strong></p></div>"
+    },
+    "cover": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/698cd02d957a86cddbeccc80_best-ai-tools-ui-ux-designers-2026.png",
+    "sources": [
+      {
+        "title": {
+          "zh": "Google Stitch: Complete Guide to AI UI Design Tool (2026)",
+          "en": "Google Stitch: Complete Guide to AI UI Design Tool (2026)"
+        },
+        "url": "https://almcorp.com/blog/google-stitch-complete-guide-ai-ui-design-tool-2026/",
+        "image": null
+      },
+      {
+        "title": {
+          "zh": "9 Best AI Tools for UI/UX Designers in 2026",
+          "en": "9 Best AI Tools for UI/UX Designers in 2026"
+        },
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/698cd02d957a86cddbeccc80_best-ai-tools-ui-ux-designers-2026.png"
+      },
+      {
+        "title": {
+          "zh": "The 8 Top AI Tools I Actually Use in My UX Design Workflow (2026)",
+          "en": "The 8 Top AI Tools I Actually Use in My UX Design Workflow (2026)"
+        },
+        "url": "https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d",
+        "image": null
+      },
+      {
+        "title": {
+          "zh": "AI Tools for the UX/UI Designer in 2026 - Ironhack",
+          "en": "AI Tools for the UX/UI Designer in 2026 - Ironhack"
+        },
+        "url": "https://www.ironhack.com/us/blog/ai-tools-for-the-uxui-designer-in-2026",
+        "image": null
+      }
+    ]
+  },
+  {
+    "date": "2026-03-10",
+    "section": "tech",
+    "title": {
+      "zh": "Anthropic 起诉五角大楼 · OpenAI/Google 员工声援 · 企业 AI Agent 部署率突破 57% · AI 就业冲击进入主流议题",
+      "en": "Anthropic Sues Pentagon · OpenAI/Google Staff Rally Support · Enterprise AI Agent Deployment Hits 57% · AI Job Impact Goes Mainstream"
+    },
+    "content": {
+      "zh": "<h3>📌 Anthropic vs 五角大楼：全面升级</h3><ul><li><strong>Anthropic 正式起诉国防部</strong> — 五角大楼将 Anthropic 列为「供应链风险」后，OpenAI 和 Google 员工联名声援 Anthropic。Dario Amodei 称 OpenAI 关于军事合作的说法是「彻头彻尾的谎言」。核心争议：Anthropic 要求合同明确禁止大规模监控和自主武器，五角大楼认为这是「对军事行动的否决权」。<br><small>来源：<a href=\"https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/\">OpenAI/Google employees defend Anthropic - TechCrunch</a></small></li><li><strong>OpenAI 的微妙立场</strong> — Sam Altman 称与 Anthropic 共享同样的「红线」，但选择信任现行法律而非合同条款。ChatGPT 卸载量激增 295%。Pentagon CTO 称「让任何一家公司决定美国人的公民自由是不民主的」。<br><small>来源：<a href=\"https://www.axios.com/2026/02/27/pentagon-openai-safety-red-lines-anthropic\">Pentagon approves OpenAI safety red lines - Axios</a></small></li></ul><h3>🤖 企业 AI Agent 爆发</h3><ul><li><strong>Anthropic 报告：57% 企业已部署多阶段 AI Agent 工作流</strong> — 不是单任务自动化，是跨推理、决策、执行的链式 Agent。80% 组织报告已获得可衡量商业价值。66% 表示 Agent 正将员工时间重新分配到更高价值的战略工作。<br><small>来源：<a href=\"https://emergeamericas.com/autonomous-workflows-enterprise-ai-agent-race/\">Autonomous Workflow Mastery - Emerge Americas</a></small></li><li><strong>UiPath 2026 趋势报告</strong> — 「在哪里引入 Agent AI」之前，先问「流程真正卡在哪里」。文档处理（IDP）是关键早期投资。<br><small>来源：<a href=\"https://www.uipath.com/blog/ai/adopting-agentic-ai-2026-things-you-can-do-right-now\">Adopting Agentic AI in 2026 - UiPath</a></small></li></ul><h3>📰 其他</h3><ul><li><strong>The Atlantic 三月封面</strong>：「美国没准备好 AI 对就业的冲击」——AI 就业影响从 tech 圈话题变成主流媒体封面</li><li><strong>Vox 专题</strong>：美国可能正在用 AI（Claude/ChatGPT）参与伊朗军事行动</li><li><strong>AI 安全</strong>：600 台 FortiGate 设备被 AI 辅助的业余黑客攻破</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>Anthropic vs 五角大楼是 2026 年最重要的科技政治事件——它定义了「谁有权决定 AI 的边界」。</strong></p><p>这场冲突的本质不是技术问题，是治理哲学的根本分歧。Anthropic 认为：现行法律不足以约束 AI 在军事中的使用，需要额外的合同约束作为保险。五角大楼认为：企业不应该在法律之上设立额外限制，这是「非民主的」。OpenAI 走了中间路线：信任法律够用，同时声称与 Anthropic 共享同样的红线——这让所有人都不满意。</p><p>最有意思的信号是 OpenAI 和 Google 的<strong>员工</strong>（而非公司）站出来声援 Anthropic。这说明什么？说明 AI 从业者群体正在形成独立于雇主的价值观共识。ChatGPT 卸载量激增 295% 也证实：用户用脚投票的速度比政策制定快得多。</p><p>与此同时，企业 AI Agent 数据揭示了一个反差：57% 企业已在用多阶段 Agent，80% 报告了实际商业价值——但 The Atlantic 的封面在说美国「没准备好」。这不矛盾吗？不，因为<strong>准备好的是企业，没准备好的是劳动力市场和社会安全网</strong>。企业在享受 Agent 带来的效率红利，员工面对的是「时间被重新分配到更高价值工作」——翻译成人话就是：一部分人升级，一部分人出局。</p><p><strong>我的判断：Anthropic 这场官司不管输赢，都会催生 AI 军事使用的新立法。而企业 Agent 采纳率到年底会超过 75%。两条线交汇的地方，就是 2026 下半年最大的政策风暴。</strong></p></div>",
+      "en": "<h3>📌 Anthropic vs Pentagon: Full Escalation</h3><ul><li><strong>Anthropic Sues DoD</strong> — After Pentagon labeled Anthropic a \"supply chain risk,\" OpenAI and Google employees rallied to its defense. Dario Amodei called OpenAI's military messaging \"straight up lies.\"<br><small>Source: <a href=\"https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/\">OpenAI/Google employees defend Anthropic - TechCrunch</a></small></li><li><strong>OpenAI's Balancing Act</strong> — Altman claims shared \"red lines\" with Anthropic but trusts existing law over contract terms. ChatGPT uninstalls surged 295%.<br><small>Source: <a href=\"https://www.axios.com/2026/02/27/pentagon-openai-safety-red-lines-anthropic\">Pentagon approves OpenAI safety red lines - Axios</a></small></li></ul><h3>🤖 Enterprise AI Agent Explosion</h3><ul><li><strong>57% of enterprises deploying multi-stage AI Agent workflows</strong> — 80% report measurable business value. 66% say agents reallocate employee time to higher-value work.<br><small>Source: <a href=\"https://emergeamericas.com/autonomous-workflows-enterprise-ai-agent-race/\">Autonomous Workflow Mastery - Emerge Americas</a></small></li><li><strong>UiPath 2026</strong> — Ask \"where is my process struggling?\" before \"where to add agents.\"<br><small>Source: <a href=\"https://www.uipath.com/blog/ai/adopting-agentic-ai-2026-things-you-can-do-right-now\">Adopting Agentic AI 2026 - UiPath</a></small></li></ul><h3>📰 Also</h3><ul><li>The Atlantic March cover: \"America Isn't Ready for What AI Will Do to Jobs\"</li><li>Vox: US may be using Claude/ChatGPT in Iran military operations</li><li>600 FortiGate devices hacked by AI-assisted amateurs</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>Anthropic vs Pentagon defines 2026's biggest tech-politics question: who decides AI's boundaries?</strong> The most telling signal: OpenAI and Google employees (not companies) rallied for Anthropic. A values consensus is forming independent of employers. Enterprise Agent data (57% multi-stage deployment) vs The Atlantic's \"not ready\" cover aren't contradictory — enterprises benefit, the labor market doesn't. Prediction: this lawsuit catalyzes new AI-military legislation regardless of outcome. Enterprise Agent adoption hits 75% by year-end.</p></div>"
+    },
+    "cover": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "sources": [
+      {
+        "title": {
+          "zh": "OpenAI/Google 员工声援 Anthropic - TechCrunch",
+          "en": "OpenAI/Google employees defend Anthropic - TechCrunch"
+        },
+        "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801"
+      },
+      {
+        "title": {
+          "zh": "Pentagon approves OpenAI safety red lines - Axios",
+          "en": "Pentagon approves OpenAI safety red lines - Axios"
+        },
+        "url": "https://www.axios.com/2026/02/27/pentagon-openai-safety-red-lines-anthropic",
+        "image": "https://images.axios.com/QQpzWmSkQ48mF8mNgB7pdDZeqv4=/0x34:5143x2927/1366x768/2026/02/27/1772235904101.jpeg"
+      },
+      {
+        "title": {
+          "zh": "Anthropic 称「不能昧着良心同意」- Breaking Defense",
+          "en": "Anthropic says it 'cannot in good conscience' agree - Breaking Defense"
+        },
+        "url": "https://breakingdefense.com/2026/02/pentagon-gives-anthropic-friday-deadline-to-loosen-ai-policy/",
+        "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/09/240909_DVIDS_AI_computer_map_6849739-scaled-e1725913511503.jpg"
+      },
+      {
+        "title": {
+          "zh": "企业自主工作流三大支柱 - Emerge Americas",
+          "en": "3 Pillars of Autonomous Workflow Mastery - Emerge Americas"
+        },
+        "url": "https://emergeamericas.com/autonomous-workflows-enterprise-ai-agent-race/",
+        "image": "https://emergeamericas.com/wp-content/uploads/2025/08/AIBlogAug25.png"
+      },
+      {
+        "title": {
+          "zh": "America Isn't Ready for AI Jobs Impact - The Atlantic",
+          "en": "America Isn't Ready for AI Jobs Impact - The Atlantic"
+        },
+        "url": "https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/",
+        "image": null
+      }
+    ]
+  },
+  {
+    "date": "2026-03-10",
+    "section": "design",
+    "title": {
       "zh": "Figma AI 全矩阵成型 · 设计工作流从 Prompt 到 Pipeline · AI 模型竞争重塑设计交付",
       "en": "Figma AI Full Stack · Design Workflows: Prompt to Pipeline · Model Wars Reshape Design Delivery"
     },
