@@ -1,5 +1,91 @@
 [
   {
+    "date": "2026-03-10",
+    "section": "design",
+    "title": {
+      "zh": "Figma AI 全矩阵成型 · 设计工作流从 Prompt 到 Pipeline · AI 模型竞争重塑设计交付",
+      "en": "Figma AI Full Stack · Design Workflows: Prompt to Pipeline · Model Wars Reshape Design Delivery"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma 2026 AI 矩阵成型</strong> — Figma AI（协同设计自动化）+ Figma Make（prompt-to-code）+ AI 搜索 + 文本建议，配合 UX Pilot（预测热力图）、Galileo AI / Uizard（text-to-UI），从想法到交付全链路 AI 化。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-design-tools/\">Figma - 11 Best AI Design Tools 2026</a></small></li><li><strong>Pipeline over Prompts</strong> — Phygital+ 提出：单次 AI 生成不够，设计团队需要构建<strong>可复用的自动化流水线</strong>。用 Figma AI 做 in-tool 自动化，加 text-to-UI 工具出初稿，用视觉生产系统保证一致性。<br><small>来源：<a href=\"https://phygital.plus/blog/best-ai-tools-for-designers/\">Phygital+ - AI for Designers 2026</a></small></li><li><strong>模型能力分化影响设计工具选择</strong> — GPT-5.4 的 computer use 让 AI 直接操作设计软件；Claude 擅长长上下文文档处理；Gemini 强在多模态推理。设计师需要了解<strong>不同模型的能力边界</strong>来选择工具栈。<br><small>来源：<a href=\"https://integratedcognition.com/blog/march-2026s-ai-launch-wave-what-lawyers-should-make-of-gpt-54-claude-sonnet-46-gemini-31-pro-grok-420-glm-5-minimax-m25-and-the-deepseek-question\">Integrated Cognition</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>设计-开发边界模糊加速</strong>：Figma Make 的 prompt-to-code 意味着设计师可直接产出可用代码</li><li><strong>AI 设计工具整合潮</strong>：独立工具被平台吸收，生态壁垒在形成</li><li><strong>颜色 AI 垂直化</strong>：Khroma 等专注色彩的 AI 工具找到细分市场</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>当 AI 可以操作 Figma、跑 pipeline、从 brief 到交付全程自主执行时，设计师的价值将彻底从“手速”转移到“判断力”。</strong>Figma 的 AI 矩阵已经在为这个未来铺路。但注意：pipeline 思维比 prompt 技巧更重要——不是问一次生成一个好结果，而是构建一条能持续输出好结果的流水线。这需要系统思维，恰好是好设计师本来就擅长的。</p></div>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma 2026 AI Stack Complete</strong> — Figma AI (collaborative automation) + Figma Make (prompt-to-code) + AI search + text suggestions. Combined with UX Pilot, Galileo AI, Uizard for full idea-to-delivery AI pipeline.<br><small>Source: <a href=\"https://www.figma.com/resource-library/ai-design-tools/\">Figma - 11 Best AI Design Tools 2026</a></small></li><li><strong>Pipeline over Prompts</strong> — Single AI generations aren't enough. Teams need <strong>reusable automation pipelines</strong>: Figma AI for in-tool automation, text-to-UI for drafts, visual production systems for consistency.<br><small>Source: <a href=\"https://phygital.plus/blog/best-ai-tools-for-designers/\">Phygital+ - AI for Designers 2026</a></small></li><li><strong>Model Capabilities Shape Tool Choice</strong> — GPT-5.4's computer use operates design software directly; Claude excels at long-context docs; Gemini at multimodal reasoning.<br><small>Source: <a href=\"https://integratedcognition.com/blog/march-2026s-ai-launch-wave-what-lawyers-should-make-of-gpt-54-claude-sonnet-46-gemini-31-pro-grok-420-glm-5-minimax-m25-and-the-deepseek-question\">Integrated Cognition</a></small></li></ul><h3>🔄 Trends</h3><ul><li><strong>Design-dev boundary blurring</strong>: Figma Make = designers ship code</li><li><strong>Tool consolidation wave</strong>: standalone tools absorbed by platforms</li><li><strong>Vertical AI specialization</strong>: Khroma for color, niche tools finding markets</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>When AI can operate Figma, run pipelines, and execute from brief to delivery autonomously, designer value shifts entirely from speed to judgment.</strong> Pipeline thinking beats prompt skills. That's systems thinking, which good designers already excel at.</p></div>"
+    },
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/69d0a8e52134d8214a81cab2f3985cc06d162115-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format",
+    "sources": [
+      {
+        "title": {
+          "zh": "11 Best AI Design Tools 2026 - Figma",
+          "en": "11 Best AI Design Tools 2026 - Figma"
+        },
+        "url": "https://www.figma.com/resource-library/ai-design-tools/",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/69d0a8e52134d8214a81cab2f3985cc06d162115-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": {
+          "zh": "AI for Designers: the 10 Best Tools - Phygital+",
+          "en": "AI for Designers: the 10 Best Tools - Phygital+"
+        },
+        "url": "https://phygital.plus/blog/best-ai-tools-for-designers/",
+        "image": null
+      },
+      {
+        "title": {
+          "zh": "Top AI Tools for UX Designers 2026 - Figma",
+          "en": "Top AI Tools for UX Designers 2026 - Figma"
+        },
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers/",
+        "image": null
+      }
+    ]
+  },
+  {
+    "date": "2026-03-10",
+    "section": "tech",
+    "title": {
+      "zh": "三月模型大爆发 · Anthropic 遭政治风暴 · Big Tech AI 投资 6500 亿美元 · 千问核心团队动荡",
+      "en": "March Model Blitz · Anthropic's Political Storm · Big Tech $650B AI Spend · Qwen Core Team Exodus"
+    },
+    "content": {
+      "zh": "<h3>📌 模型与产业</h3><ul><li><strong>三月模型大爆发</strong> — GPT-5.4（3/5）、Claude Sonnet 4.6、Gemini 3.1 Pro、Grok 4.20、GLM-5、MiniMax M2.5 密集发布，DeepSeek V4 蓄势待发。前沿竞争从跑分转向 <strong>agentic workflow、长上下文推理和文档密集型工作</strong>。GPT-5.4 强调“原生 computer use”。<br><small>来源：<a href=\"https://integratedcognition.com/blog/march-2026s-ai-launch-wave-what-lawyers-should-make-of-gpt-54-claude-sonnet-46-gemini-31-pro-grok-420-glm-5-minimax-m25-and-the-deepseek-question\">March 2026's AI Launch Wave - Integrated Cognition</a></small></li><li><strong>Anthropic 的狂飙与困境</strong> — 企业付费率从 4% 飙至 20%，招聘增长 170%。但特朗普政府将其列为“供应链风险”，要求联邦机构停用。OpenAI 则与五角大楼签约，内部机器人负责人因反对军事化辞职，#CancelChatGPT 运动兴起。<br><small>来源：<a href=\"https://qz.com/anthropic-claude-ai-business-revenue-pentagon-openai-chatgpt\">Anthropic is having a huge 2026 - Quartz</a></small></li><li><strong>Big Tech 2026 AI 投资达 6500 亿美元</strong> — Bridgewater 数据，较 2025 年 4100 亿增长 58%。Amazon 与 OpenAI 达成最高 500 亿战略合作。甲骨文取消德州数据中心扩建，Meta 趁机介入。<br><small>来源：<a href=\"https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/\">Reuters</a></small></li></ul><h3>🇨🇳 中国动向</h3><ul><li><strong>千问核心团队动荡</strong> — 前负责人林俊旸离职，多名骨干出走。谷歌、智谱公开抢人。<br><small>来源：<a href=\"https://finance.sina.cn/2026-03-07/detail-inhqcuct1862108.d.html\">新浪财经</a></small></li><li><strong>“十五五”AI 产业剑指 10 万亿</strong> — 发改委透露目标，今年基建投资超 7 万亿。首提“打造智能经济新形态”。<br><small>来源：<a href=\"https://news.sina.com.cn/zx/ds/2026-03-07/doc-inhqeeth1674930.shtml\">新浪科技</a></small></li><li><strong>中国大模型周 Token 破 5 万亿</strong> — 编程向智能体模式切换、视频生成驱动。国产芯片渗透窗口打开。</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>AI 竞争的核心正从“谁更聪明”转向“谁更能干活”。</strong>所有头部玩家都在回答同一个问题：AI 能不能替你完成整个任务？Anthropic 的政治困境最值得警惕——一家因安全立场保守而被列为“风险”的公司，和一家签约军方后引发内部出走的公司，这不是技术问题，是价值观选择。中国这边，千问团队动荡说明：当 AI 人才成为最稀缺资源，管理能力比技术能力更关键。</p></div>",
+      "en": "<h3>📌 Models & Industry</h3><ul><li><strong>March Model Blitz</strong> — GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro, Grok 4.20, GLM-5, MiniMax M2.5 all shipped; DeepSeek V4 incoming. Competition shifted from benchmarks to <strong>agentic workflows, long-context reasoning, and document-heavy tasks</strong>.<br><small>Source: <a href=\"https://integratedcognition.com/blog/march-2026s-ai-launch-wave-what-lawyers-should-make-of-gpt-54-claude-sonnet-46-gemini-31-pro-grok-420-glm-5-minimax-m25-and-the-deepseek-question\">March 2026's AI Launch Wave - Integrated Cognition</a></small></li><li><strong>Anthropic's Boom & Storm</strong> — Enterprise adoption 4%→20%, hiring +170%. Trump admin labeled it a \"supply chain risk\"; OpenAI signed Pentagon deal, robotics lead resigned, #CancelChatGPT trending.<br><small>Source: <a href=\"https://qz.com/anthropic-claude-ai-business-revenue-pentagon-openai-chatgpt\">Anthropic is having a huge 2026 - Quartz</a></small></li><li><strong>Big Tech $650B AI Spend</strong> — Per Bridgewater, up 58% YoY. Amazon-OpenAI $50B deal. Oracle scraps Texas expansion, Meta swoops in.<br><small>Source: <a href=\"https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/\">Reuters</a></small></li></ul><h3>🇨🇳 China</h3><ul><li><strong>Qwen Core Team Exodus</strong> — Lead Lin Junyang left, multiple engineers followed. Google, Zhipu poaching openly.</li><li><strong>AI Industry Target: ¥10 Trillion</strong> by end of 15th Five-Year Plan. ¥7T infra spend this year.</li><li><strong>China LLM Weekly Tokens Hit 5 Trillion</strong> — Driven by agentic coding and video generation.</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>AI competition shifted from \"who's smarter\" to \"who gets work done.\"</strong> Anthropic's political crisis is the real story. In China, the Qwen exodus proves: management matters more than technology when AI talent is the scarcest resource.</p></div>"
+    },
+    "cover": "http://static1.squarespace.com/static/63c2b09a8bbd30212cce207a/t/69ac5f6f96410b54f3c82e6d/1772904303478/New+AI+Models+March+2026.jpg?format=1500w",
+    "sources": [
+      {
+        "title": {
+          "zh": "March 2026's AI Launch Wave",
+          "en": "March 2026's AI Launch Wave"
+        },
+        "url": "https://integratedcognition.com/blog/march-2026s-ai-launch-wave-what-lawyers-should-make-of-gpt-54-claude-sonnet-46-gemini-31-pro-grok-420-glm-5-minimax-m25-and-the-deepseek-question",
+        "image": "http://static1.squarespace.com/static/63c2b09a8bbd30212cce207a/t/69ac5f6f96410b54f3c82e6d/1772904303478/New+AI+Models+March+2026.jpg?format=1500w"
+      },
+      {
+        "title": {
+          "zh": "Anthropic is having a huge 2026 - Quartz",
+          "en": "Anthropic is having a huge 2026 - Quartz"
+        },
+        "url": "https://qz.com/anthropic-claude-ai-business-revenue-pentagon-openai-chatgpt",
+        "image": null
+      },
+      {
+        "title": {
+          "zh": "Big Tech AI 投资 6500 亿 - Reuters",
+          "en": "Big Tech $650B AI Spend - Reuters"
+        },
+        "url": "https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/",
+        "image": null
+      },
+      {
+        "title": {
+          "zh": "千问负责人林俊旸离职 - 新浪财经",
+          "en": "Qwen Lead Lin Junyang Departs - Sina Finance"
+        },
+        "url": "https://finance.sina.cn/2026-03-07/detail-inhqcuct1862108.d.html",
+        "image": null
+      }
+    ]
+  },
+  {
     "date": "2026-03-09",
     "section": "design",
     "title": {
