@@ -215,6 +215,15 @@
       transition: opacity 0.5s ease;
     }
 
+    .card-color-overlay {
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      z-index: 1;
+      opacity: 0;
+      transition: opacity 0.5s ease;
+      pointer-events: none;
+    }
+
     /* Top-right meta (date + tag) */
     .card-top-right {
       position: relative;
@@ -680,7 +689,7 @@
       currentIndex = 0;
       buildCards();
       buildDots();
-      layoutCards();
+      extractColorAndLayout();
     }
 
     function buildCards() {
@@ -696,6 +705,7 @@
           <div class="card-inner">
             ${hasCover ? `<div class="card-bg" style="background-image:url('${issue.cover}')"></div>` : ''}
             ${!hasCover ? `<div class="card-gradient" style="${bgStyle}"></div>` : ''}
+            <div class="card-color-overlay"></div>
             <div class="card-overlay"></div>
             <div class="card-top-right">
               <span class="card-top-date">${issue.date}</span>
@@ -738,7 +748,7 @@
         const rot = offset === 0 ? 0 : Math.cos(step * 0.5) * 6 * dir;
         
         const scale = Math.max(0.8, 1 - absOff * 0.03);
-        const brightness = offset === 0 ? 1 : Math.max(0.05, 0.35 - absOff * 0.05);
+        const brightness = offset === 0 ? 1 : 1;
         const opacity = 1;
 
         card.style.transform = `translateX(${x}px) translateY(${y}px) rotate(${rot}deg) scale(${scale})`;
@@ -761,6 +771,19 @@
           // Top-right meta visible on all cards but dimmer on background
           const topRight = card.querySelector('.card-top-right');
           if (topRight) topRight.style.opacity = offset === 0 ? '1' : '0.3';
+
+          // Color overlay for non-current cards
+          const colorOv = inner.querySelector('.card-color-overlay');
+          if (colorOv) {
+            if (offset === 0) {
+              colorOv.style.opacity = '0';
+            } else {
+              const [r, g, b] = currentDominantColor;
+              const darken = Math.max(0.15, 1 - absOff * 0.12);
+              colorOv.style.background = `rgb(${Math.round(r*darken)}, ${Math.round(g*darken)}, ${Math.round(b*darken)})`;
+              colorOv.style.opacity = '0.92';
+            }
+          }
         }
       });
 
@@ -778,7 +801,34 @@
 
     function goTo(idx) {
       currentIndex = Math.max(0, Math.min(filtered.length - 1, idx));
-      layoutCards();
+      extractColorAndLayout();
+    }
+
+    // Extract dominant color from current card's cover image
+    let currentDominantColor = [30, 30, 30];
+    function extractColorAndLayout() {
+      const issue = filtered[currentIndex];
+      if (issue && issue.cover) {
+        const img = new Image();
+        img.crossOrigin = 'anonymous';
+        img.onload = function() {
+          const canvas = document.createElement('canvas');
+          canvas.width = 8; canvas.height = 8;
+          const ctx = canvas.getContext('2d');
+          ctx.drawImage(img, 0, 0, 8, 8);
+          const data = ctx.getImageData(0, 0, 8, 8).data;
+          let r = 0, g = 0, b = 0, count = 0;
+          for (let i = 0; i < data.length; i += 4) {
+            r += data[i]; g += data[i+1]; b += data[i+2]; count++;
+          }
+          currentDominantColor = [Math.round(r/count), Math.round(g/count), Math.round(b/count)];
+          layoutCards();
+        };
+        img.onerror = function() { layoutCards(); };
+        img.src = issue.cover;
+      } else {
+        layoutCards();
+      }
     }
 
     // ── Swipe handling ──
