@@ -748,7 +748,7 @@
         const rot = offset === 0 ? 0 : Math.cos(step * 0.5) * 6 * dir;
         
         const scale = Math.max(0.8, 1 - absOff * 0.03);
-        const brightness = offset === 0 ? 1 : 1;
+        const brightness = offset === 0 ? 1 : Math.max(0.3, 1 - absOff * 0.15);
         const opacity = 1;
 
         card.style.transform = `translateX(${x}px) translateY(${y}px) rotate(${rot}deg) scale(${scale})`;
