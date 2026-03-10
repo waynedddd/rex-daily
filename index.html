@@ -129,7 +129,7 @@
       top: 0; left: 0; right: 0; bottom: 0;
       background-size: cover;
       background-position: center;
-      filter: brightness(0.8) saturate(0.75);
+      filter: brightness(1) saturate(0.75);
       transition: filter 1.5s ease;
     }
 
@@ -208,14 +208,12 @@
 
     /* Top-right meta (date + tag) */
     .card-top-right {
-      position: absolute;
-      top: 16px;
-      left: 16px;
+      position: relative;
       z-index: 2;
       display: flex;
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 6px;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
     }
 
     .card-top-date {
