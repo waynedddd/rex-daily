@@ -728,11 +728,11 @@
         // Wider amplitude, bigger spacing for visible S shape
         const t = absOff * 0.7; // parameter along curve
         const xSwing = Math.sin(t) * 200; // wider lateral swing
-        const xDrift = absOff * 80 * dir; // drift toward corner
+        const xDrift = absOff * 40 * dir; // drift toward corner
         const x = xSwing * dir + xDrift;
         
-        // Y: bigger vertical steps
-        const y = absOff * 110 * dir;
+        // Y: vertical steps
+        const y = absOff * 55 * dir;
         
         // Rotation: 0 for front card, follows curve for others
         const rot = offset === 0 ? 0 : Math.cos(t) * 8 * dir;
