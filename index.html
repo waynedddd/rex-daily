@@ -916,10 +916,9 @@
     init();
 
     // ── Mouse hover to switch cards ──
-    let hoverCooldown = false;
     document.getElementById('scene').addEventListener('mousemove', function(e) {
       if (document.getElementById('overlay').classList.contains('open')) return;
-      if (hoverCooldown || isDragging) return;
+      if (isDragging) return;
       const scene = document.getElementById('scene');
       const rect = scene.getBoundingClientRect();
       const centerX = rect.left + rect.width / 2;
@@ -927,12 +926,8 @@
       const threshold = rect.width * 0.2;
 
       if (dx < -threshold && currentIndex < filtered.length - 1) {
-        hoverCooldown = true;
-        setTimeout(() => hoverCooldown = false, 500);
         goTo(currentIndex + 1);
       } else if (dx > threshold && currentIndex > 0) {
-        hoverCooldown = true;
-        setTimeout(() => hoverCooldown = false, 500);
         goTo(currentIndex - 1);
       }
     });
