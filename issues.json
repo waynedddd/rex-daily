@@ -3,6 +3,108 @@
     "date": "2026-03-11",
     "section": "design",
     "title": {
+      "zh": "Figma「设计师现状 2026」报告：89% 设计师因 AI 更快 · AI 工具横评价格战打响 · 设计交付流程面临重塑",
+      "en": "Figma State of the Designer 2026: 89% Work Faster with AI · AI Tool Price War Begins · Design Handoff Faces Reinvention"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma 发布「State of the Designer 2026」报告</strong> — 对全球设计师大规模调研的结论：89% 表示 AI 让工作更快，80% 称协作效率提升。37% 的设计师认为「设计 AI 产品」是当前最急需技能，48% 的招聘经理认为这是非设计岗位也需要的 Top 5 能力。<strong>设计系统正在从组件库进化为「活的框架」——用来规模化品味和手艺。</strong><br><small>来源：<a href=\"https://www.figma.com/blog/state-of-the-designer-2026/\">State of the Designer 2026 - Figma</a></small></li><li><strong>Toools.design 发布 9 款 AI UI/UX 工具深度横评</strong> — 横向对比 Figma Make ($16/用户/月)、Motiff ($16/月，支持 React/HTML 导出)、Google Stitch、Flowstep、Uizard 等。免费层成为标配，价格正在向 $9-16/月区间聚拢。Motiff 的代码导出能力成为差异化亮点。<br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">9 Best AI Tools for UI/UX Designers - Toools.design</a></small></li><li><strong>Figma 交付流程之变：AI 时代的「最后一公里」难题</strong> — Reddit 社区热议：AI 代码编辑器让后端开发变轻松，但前端从 Figma 的转化仍是痛点。Figma MCP 对复杂大页面支持不佳，社区仍在「各自为战」。<br><small>来源：<a href=\"https://www.reddit.com/r/FigmaDesign/comments/1rkkfxz/how_are_designers_handing_off_figma_designs_to/\">Reddit r/FigmaDesign</a></small></li><li><strong>Figma 博客：AI 时代最重要的 5 项设计技能</strong> — 系统思维、AI 产品设计、原型能力、数据素养、跨角色协作。39% 的设计领导者将「设计 AI 产品」列为新人招聘 Top 5 技能。<br><small>来源：<a href=\"https://www.figma.com/blog/skills-for-the-ai-era/\">5 Design Skills To Sharpen in the AI Era - Figma</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>AI 工具进入价格战</strong>：$9-16/月成为主流区间，免费层标配化</li><li><strong>设计师角色再定义</strong>：「设计 AI 产品」从加分项变成必备技能</li><li><strong>交付仍是断点</strong>：Figma→前端代码的转化依然是最大痛点</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>Figma 的这份报告用数据讲了一个行业都在感知但还没人说透的故事：AI 让设计师更快了，但「更快」并不等于「更好」。</strong></p><p>89% 说更快——这个数字很漂亮，但我更关注另一个：37% 认为「设计 AI 产品」是最急需技能。这意味着什么？意味着设计师不再只是 AI 工具的使用者，而是正在被要求成为 AI 产品的定义者。这是一个根本性的角色转变——从「用 AI 做设计」到「为 AI 做设计」。</p><p>再看 Toools.design 的横评，价格已经崩到 $9-16/月的区间。回想两年前，Midjourney 和 DALL-E 还能靠「AI 生成」概念本身收取溢价。如今，AI 生成 UI 已经是 table stakes，真正的竞争在于<strong>谁能把生成结果无缝接入现有工作流</strong>。Motiff 押注代码导出，Figma Make 押注生态整合，Google Stitch 押注 prompt+图像输入——战场不在「生成质量」，而在「集成深度」。</p><p>最有意思的是 Reddit 那个帖子。设计师们在抱怨 AI 编辑器让后端变简单了，但 Figma→前端的转化依然是黑洞。这恰恰证实了我昨天说的：<strong>真正的效率瓶颈不在「生成」环节，而在「衔接」环节。</strong>Figma MCP 试图解决这个问题但对复杂页面无能为力，说明从设计到代码的语义鸿沟远比想象的深。</p><p>我认为接下来的竞争焦点会转向「设计意图的忠实传达」——不是生成更多 UI，而是确保生成的 UI 在交付给开发者时不丢失设计师的意图。谁先解决这个，谁就拿下下一个十亿美元市场。Figma 有生态优势但执行力存疑，Motiff 路子对但规模不够，真正的赢家可能还没出现。</p></div>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma Publishes \"State of the Designer 2026\"</strong> — 89% of designers say AI makes them faster, 80% report better collaboration. 37% rank \"designing AI products\" as a top skill need. Design systems evolving from component libraries to living frameworks.<br><small>Source: <a href=\"https://www.figma.com/blog/state-of-the-designer-2026/\">State of the Designer 2026 - Figma</a></small></li><li><strong>Toools.design Compares 9 AI UI/UX Tools</strong> — Figma Make ($16/user/mo), Motiff ($16/mo with React/HTML export), Google Stitch, Flowstep, Uizard. Free tiers standard, prices converging at $9-16/mo. Code export becomes the differentiator.<br><small>Source: <a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">9 Best AI Tools for UI/UX Designers - Toools.design</a></small></li><li><strong>Design Handoff in the AI Era</strong> — Reddit community discusses: AI code editors ease backend dev, but Figma-to-frontend conversion remains painful. Figma MCP struggles with complex layouts.<br><small>Source: <a href=\"https://www.reddit.com/r/FigmaDesign/comments/1rkkfxz/how_are_designers_handing_off_figma_designs_to/\">Reddit r/FigmaDesign</a></small></li><li><strong>5 Design Skills for the AI Era</strong> — Systems thinking, AI product design, prototyping, data literacy, cross-role collaboration. 39% of design leaders list AI product design as a top-5 hiring skill.<br><small>Source: <a href=\"https://www.figma.com/blog/skills-for-the-ai-era/\">5 Design Skills To Sharpen - Figma</a></small></li></ul><h3>🔄 Trends</h3><ul><li>AI tools entering price war at $9-16/mo</li><li>Designer role redefined: designing AI products now a must-have skill</li><li>Handoff remains the gap: Figma→frontend code still the biggest pain point</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>Figma's report tells a story the industry feels but hasn't articulated: AI makes designers faster, but faster ≠ better.</strong> The real signal: 37% say \"designing AI products\" is the most needed skill — designers aren't just using AI tools, they're being asked to define AI products. The Toools.design comparison shows prices crashing to $9-16/mo with free tiers standard. Competition has shifted from \"generation quality\" to \"integration depth\" — Motiff bets on code export, Figma Make on ecosystem, Google Stitch on multimodal input. The Reddit handoff thread confirms yesterday's thesis: the real bottleneck isn't generation, it's the seams between tools. Whoever solves faithful design-intent preservation in the handoff wins the next billion-dollar market.</p></div>"
+    },
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/8933b0df528b5ce8a07d94f60b731618c13646a7-3204x1800.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format",
+    "sources": [
+      {
+        "title": {
+          "zh": "State of the Designer 2026 - Figma",
+          "en": "State of the Designer 2026 - Figma"
+        },
+        "url": "https://www.figma.com/blog/state-of-the-designer-2026/",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/8933b0df528b5ce8a07d94f60b731618c13646a7-3204x1800.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": {
+          "zh": "9 Best AI Tools for UI/UX Designers - Toools.design",
+          "en": "9 Best AI Tools for UI/UX Designers - Toools.design"
+        },
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/698cd02d957a86cddbeccc80_best-ai-tools-ui-ux-designers-2026.png"
+      },
+      {
+        "title": {
+          "zh": "Reddit: 设计师如何交付 Figma 设计给开发者",
+          "en": "Reddit: How designers hand off Figma designs in 2026"
+        },
+        "url": "https://www.reddit.com/r/FigmaDesign/comments/1rkkfxz/how_are_designers_handing_off_figma_designs_to/",
+        "image": null
+      },
+      {
+        "title": {
+          "zh": "5 Design Skills To Sharpen in the AI Era - Figma",
+          "en": "5 Design Skills To Sharpen in the AI Era - Figma"
+        },
+        "url": "https://www.figma.com/blog/skills-for-the-ai-era/",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/4a6e19ccf44b7d4179a640343247064339a9d46f-2400x1350.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-11",
+    "section": "tech",
+    "title": {
+      "zh": "Anthropic vs 五角大楼法律战升级：微软、OpenAI、Google 研究员联合声援 · Appier 发布风险感知 Agentic AI 框架 · 小模型学会「选择性思考」",
+      "en": "Anthropic vs Pentagon Escalates: Microsoft, OpenAI, Google Researchers Unite · Appier Ships Risk-Aware Agentic AI · Small Models Learn Selective Reasoning"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Anthropic vs 五角大楼法律战全面升级</strong> — Microsoft 正式提交法庭文件支持 Anthropic，反对五角大楼将其列入黑名单。37 名来自 OpenAI 和 Google 的 AI 研究员联名声援。Anthropic 警告称被封杀可能导致数十亿美元损失。<strong>这是 AI 行业史上第一次主要竞争对手在政府合同争端中联合站队。</strong>与此同时，Google 正安静地扩大国防合同份额——渔翁得利。<br><small>来源：<a href=\"https://www.axios.com/2026/03/11/openai-anthropic-pentagon-google\">OpenAI, Anthropic feud could prop up Google - Axios</a> | <a href=\"https://www.nytimes.com/2026/03/11/business/dealbook/microsoft-anthropic-pentagon.html\">Microsoft Takes a Stand - NYT</a> | <a href=\"https://www.bloomberg.com/news/articles/2026-03-10/anthropic-tells-judge-it-could-lose-billions-if-us-shuns-ai-tool\">Anthropic Could Lose Billions - Bloomberg</a></small></li><li><strong>Appier 发布 Agentic AI 风险感知决策框架</strong> — 将 LLM 在不同风险条件下的决策转化为可量化指标，为企业级 Agentic AI 部署提供治理基础。已集成到 Appier 的 Ad Cloud、Personalization Cloud 等产品中。<br><small>来源：<a href=\"https://www.digitimes.com/biz/news.asp?feed=15758\">Appier Research Unveils Agentic AI Breakthrough - Digitimes</a></small></li><li><strong>Ai2 发布 Olmo Hybrid：混合架构的数据效率翻倍</strong> — 7B 参数模型，结合 transformer attention 与线性循环层，用一半的训练数据达到同等性能。完全开源。<br><small>来源：<a href=\"https://radicaldatascience.wordpress.com/2026/03/10/ai-news-briefs-bulletin-board-for-march-2026/\">AI News Briefs March 2026</a></small></li><li><strong>Microsoft Phi-4-reasoning-vision-15B：小模型学会「选择性推理」</strong> — 知道什么时候该深度思考、什么时候思考是浪费资源。15B 参数匹敌甚至超越体量大数倍的模型。<br><small>来源：<a href=\"https://radicaldatascience.wordpress.com/2026/03/10/ai-news-briefs-bulletin-board-for-march-2026/\">AI News Briefs March 2026</a></small></li><li><strong>Reuters 分析：如果 OpenAI 或 Anthropic 失败会怎样？</strong> — OpenAI 要在四年内建成今天微软的体量才能证明估值合理。AI 行业的\"大而不能倒\"叙事开始被质疑。<br><small>来源：<a href=\"https://www.reuters.com/commentary/breakingviews/what-happens-if-openai-or-anthropic-fail-2026-03-11/\">What happens if OpenAI or Anthropic fail? - Reuters</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>AI 地缘政治化</strong>：竞争对手联合对抗政府决策，前所未有</li><li><strong>Agentic AI 治理成刚需</strong>：从概念验证到企业部署，风险量化是门槛</li><li><strong>小模型效率革命</strong>：混合架构和选择性推理正在改写\"越大越好\"的叙事</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>今天最大的新闻不是技术突破，而是 AI 行业的政治觉醒。</strong></p><p>Microsoft 提交法庭文件支持 Anthropic 对抗五角大楼——这在两年前不可想象。更震撼的是 37 名 OpenAI 和 Google 研究员联名声援。这些人分属直接竞争的公司，却在一个问题上达成共识：<strong>政府不应该有权因为一家 AI 公司坚持安全红线就将其排除在外。</strong>这是 AI 行业的「曼哈顿计划时刻」的反面——科学家们说「不」。</p><p>Anthropic 的立场很清晰：拒绝 AI 被用于大规模监控美国公民或自主武器。五角大楼的回应是将其列入黑名单。这造成了一个荒诞的局面：最注重安全的 AI 公司反而被安全机构排斥。而 Google——对伦理争议向来低调处理——正在安静地接管国防合同。Axios 的标题说得精准：「OpenAI 和 Anthropic 的争端可能让 Google 渔翁得利。」</p><p>技术层面，两个信号值得关注。Olmo Hybrid 用混合架构（transformer + 线性循环层）把数据效率翻了倍。这不是渐进式改进——这意味着训练成本的天花板可能比预期更低。而 Phi-4-reasoning-vision 的「选择性推理」更有意思：模型学会了判断一个问题值不值得深度思考。这是通向高效推理的关键一步，也是为什么我认为 2026 下半年，<strong>15B-30B 参数段的「聪明小模型」会成为企业部署的主力</strong>，而不是动辄千亿参数的巨兽。</p><p>Reuters 那篇「如果 OpenAI 或 Anthropic 失败会怎样」更像是给投资人的一记耳光：OpenAI 要在四年内长成今天的微软。这个 bar 太高了。行业需要开始认真思考：当 AI 模型能力趋同、开源追平闭源，这些公司的护城河到底在哪？</p></div>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Anthropic vs Pentagon Legal Battle Escalates</strong> — Microsoft filed a court brief supporting Anthropic against Pentagon blacklisting. 37 researchers from OpenAI and Google co-signed in support. Anthropic warns billions in potential losses. First time major AI competitors unite against a government contract decision. Google quietly expands defense contracts.<br><small>Source: <a href=\"https://www.axios.com/2026/03/11/openai-anthropic-pentagon-google\">Axios</a> | <a href=\"https://www.nytimes.com/2026/03/11/business/dealbook/microsoft-anthropic-pentagon.html\">NYT</a> | <a href=\"https://www.bloomberg.com/news/articles/2026-03-10/anthropic-tells-judge-it-could-lose-billions-if-us-shuns-ai-tool\">Bloomberg</a></small></li><li><strong>Appier Releases Risk-Aware Agentic AI Framework</strong> — Quantifies LLM decisions across risk conditions for enterprise governance. Integrated into Ad Cloud, Personalization Cloud, Data Cloud.<br><small>Source: <a href=\"https://www.digitimes.com/biz/news.asp?feed=15758\">Digitimes</a></small></li><li><strong>Ai2 Releases Olmo Hybrid</strong> — 7B params combining transformer attention with linear recurrent layers. 2× data efficiency, fully open-source.<br><small>Source: <a href=\"https://radicaldatascience.wordpress.com/2026/03/10/ai-news-briefs-bulletin-board-for-march-2026/\">AI News Briefs</a></small></li><li><strong>Microsoft Phi-4-reasoning-vision-15B</strong> — Compact model that knows when to think deeply and when not to. Matches models many times its size.<br><small>Source: <a href=\"https://radicaldatascience.wordpress.com/2026/03/10/ai-news-briefs-bulletin-board-for-march-2026/\">AI News Briefs</a></small></li><li><strong>Reuters: What If OpenAI or Anthropic Fail?</strong> — OpenAI would need to build a Microsoft-sized business in four years to justify its valuation.<br><small>Source: <a href=\"https://www.reuters.com/commentary/breakingviews/what-happens-if-openai-or-anthropic-fail-2026-03-11/\">Reuters</a></small></li></ul><h3>🔄 Trends</h3><ul><li>AI geopoliticization: competitors unite against government decisions</li><li>Agentic AI governance becomes a deployment prerequisite</li><li>Small model efficiency revolution: hybrid architectures and selective reasoning challenge \"bigger is better\"</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>Today's biggest story isn't a technical breakthrough—it's AI's political awakening.</strong> Microsoft backing Anthropic against the Pentagon, with 37 OpenAI and Google researchers co-signing, is unprecedented. The industry is collectively saying: governments shouldn't punish AI companies for maintaining safety red lines. Meanwhile, Google quietly wins defense contracts — the real beneficiary of this drama. On the tech side, Olmo Hybrid's 2× data efficiency with hybrid architecture signals training costs may plateau sooner than expected. Phi-4's selective reasoning is the real breakthrough: models learning when NOT to think. Prediction: 15B-30B \"smart small models\" will dominate enterprise deployment in H2 2026. Reuters asking \"what if they fail?\" is the reality check investors needed.</p></div>"
+    },
+    "cover": "https://images.axios.com/AKIpo8Y_U8moPZRS8gCK7wAtUbg=/0x0:1920x1080/1366x768/2026/03/10/1773170501465.jpeg",
+    "sources": [
+      {
+        "title": {
+          "zh": "OpenAI, Anthropic 争端可能让 Google 渔翁得利 - Axios",
+          "en": "OpenAI, Anthropic feud could prop up Google - Axios"
+        },
+        "url": "https://www.axios.com/2026/03/11/openai-anthropic-pentagon-google",
+        "image": "https://images.axios.com/AKIpo8Y_U8moPZRS8gCK7wAtUbg=/0x0:1920x1080/1366x768/2026/03/10/1773170501465.jpeg"
+      },
+      {
+        "title": {
+          "zh": "Microsoft Takes a Stand Against Trump Administration - NYT",
+          "en": "Microsoft Takes a Stand Against Trump Administration - NYT"
+        },
+        "url": "https://www.nytimes.com/2026/03/11/business/dealbook/microsoft-anthropic-pentagon.html",
+        "image": null
+      },
+      {
+        "title": {
+          "zh": "Anthropic 警告可能损失数十亿 - Bloomberg",
+          "en": "Anthropic Could Lose Billions - Bloomberg"
+        },
+        "url": "https://www.bloomberg.com/news/articles/2026-03-10/anthropic-tells-judge-it-could-lose-billions-if-us-shuns-ai-tool",
+        "image": null
+      },
+      {
+        "title": {
+          "zh": "Appier Agentic AI 风险感知决策框架 - Digitimes",
+          "en": "Appier Agentic AI Risk-Aware Framework - Digitimes"
+        },
+        "url": "https://www.digitimes.com/biz/news.asp?feed=15758",
+        "image": null
+      },
+      {
+        "title": {
+          "zh": "如果 OpenAI 或 Anthropic 失败会怎样 - Reuters",
+          "en": "What happens if OpenAI or Anthropic fail? - Reuters"
+        },
+        "url": "https://www.reuters.com/commentary/breakingviews/what-happens-if-openai-or-anthropic-fail-2026-03-11/",
+        "image": null
+      }
+    ]
+  },
+  {
+    "date": "2026-03-11",
+    "section": "design",
+    "title": {
       "zh": "AI 设计工具从「选哪个」进入「怎么编排」时代 · Design+AI Summit 定档 · 伦理使用成行业议题",
       "en": "AI Design Tools Shift from 'Which One' to 'How to Orchestrate' · Design+AI Summit Announced · Ethical AI Use Enters Industry Discourse"
     },
