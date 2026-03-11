@@ -440,6 +440,86 @@
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/42743058/file/original-52bdce8de1644ad423d2ed677d08b86a.png?resize=400x300",
       "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Creative Pricing Page",
+      "body": "打破传统三栏定价页的创意设计，用视觉层级引导用户注意力到推荐方案。",
+      "body_en": "Creative pricing page breaking the traditional 3-column layout. Visual hierarchy guides attention to the recommended plan.",
+      "tags": [
+        "Pricing",
+        "Landing Page",
+        "Conversion"
+      ],
+      "link": "https://dribbble.com/search/pricing-page-creative",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15139076/file/original-891d8e94856d7e91b6cea5f7d9584ecb.png?resize=1600x1200",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Hero Section — Scroll Animation",
+      "body": "首屏滚动交互动效，内容随滚动渐次出现，节奏感极强的叙事体验。",
+      "body_en": "Hero section scroll interaction — content reveals progressively on scroll, creating a strongly rhythmic narrative experience.",
+      "tags": [
+        "Hero",
+        "Scroll",
+        "Animation"
+      ],
+      "link": "https://dribbble.com/search/hero-scroll-animation",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/45973854/file/still-c9cf8d52e34e08a7d10c08e814c1062f.png?resize=1600x1200",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Creative 404 Page",
+      "body": "把错误页面变成品牌展示机会。好的 404 页说明团队对细节的重视程度。",
+      "body_en": "Turning error pages into brand moments. A good 404 page reveals a team's attention to detail.",
+      "tags": [
+        "404",
+        "Brand",
+        "Detail"
+      ],
+      "link": "https://dribbble.com/search/creative-404",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14499296/file/original-e4ca94162293f5dd69048dd017baa4ac.png?resize=752x&vertical=center",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Dark Dashboard — Content Layout",
+      "body": "深色仪表盘内容区的排版处理，多种内容类型（图表、列表、卡片）在同一页面和谐共存。",
+      "body_en": "Dark dashboard content area typography — multiple content types (charts, lists, cards) coexisting harmoniously on one page.",
+      "tags": [
+        "Dashboard",
+        "Dark",
+        "Mixed Content"
+      ],
+      "link": "https://dribbble.com/search/dashboard-content-dark",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43574996/file/still-6f2195b47f626192918540485276674c.png?resize=1600x1200",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Mobile Content Feed — Dark Mode",
+      "body": "深色移动端内容流设计，Instagram 暗黑模式风格的信息流排版。",
+      "body_en": "Dark mobile content feed design — Instagram dark mode style feed typography and card rhythm.",
+      "tags": [
+        "Mobile",
+        "Feed",
+        "Dark Mode"
+      ],
+      "link": "https://dribbble.com/search/mobile-feed-dark",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/users/2094032/screenshots/4681898/instagram_dark_mode_dribbble.png",
+      "date": "2026-03-12"
     }
   ]
 }
