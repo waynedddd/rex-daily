@@ -55,7 +55,7 @@
       display: flex; align-items: center; gap: 6px;
     }
     .nav-drop-btn::after { content: '▾'; font-size: 10px; opacity: 0.5; transition: transform 0.3s; }
-    .nav-drop.open .nav-drop-btn::after { transform: rotate(180deg); }
+    .nav-drop.open .nav-drop-btn::after, .nav-drop:hover .nav-drop-btn::after { transform: rotate(180deg); }
     .nav-drop-btn:hover { border-color: rgba(255,255,255,0.4); }
     .nav-drop-menu {
       position: absolute; top: calc(100% + 6px); right: 0; min-width: 140px;
@@ -65,7 +65,7 @@
       transition: all 0.25s cubic-bezier(0.23, 1, 0.32, 1);
       backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); z-index: 300;
     }
-    .nav-drop.open .nav-drop-menu { opacity: 1; transform: translateY(0); pointer-events: auto; }
+    .nav-drop.open .nav-drop-menu, .nav-drop:hover .nav-drop-menu { opacity: 1; transform: translateY(0); pointer-events: auto; }
     .nav-drop-item {
       display: block; width: 100%; padding: 8px 14px;
       background: none; border: none; color: rgba(255,255,255,0.5);
