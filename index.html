@@ -45,67 +45,35 @@
     .topbar > * { pointer-events: auto; }
 
     /* ── Expandable nav group ── */
-    .nav-group {
-      display: inline-flex;
-      align-items: center;
-      gap: 0;
-      border: 1px solid rgba(255,255,255,0.15);
-      border-radius: 999px;
-      overflow: hidden;
-      transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+    /* ── Dropdown nav ── */
+    .nav-drop { position: relative; display: inline-block; }
+    .nav-drop-btn {
+      background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2);
+      color: rgba(255,255,255,0.85); font-family: var(--font); font-size: 12px;
+      text-transform: uppercase; letter-spacing: 0.15em; padding: 6px 14px;
+      border-radius: 999px; cursor: pointer; transition: all 0.3s;
+      display: flex; align-items: center; gap: 6px;
     }
-
-    .nav-group .nav-main {
-      background: rgba(255,255,255,0.1);
-      color: rgba(255,255,255,0.85);
-      font-family: var(--font);
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.15em;
-      padding: 6px 14px;
-      border: none;
-      cursor: pointer;
-      white-space: nowrap;
-      transition: all 0.3s;
-      text-decoration: none;
-      display: inline-block;
+    .nav-drop-btn::after { content: '▾'; font-size: 10px; opacity: 0.5; transition: transform 0.3s; }
+    .nav-drop.open .nav-drop-btn::after { transform: rotate(180deg); }
+    .nav-drop-btn:hover { border-color: rgba(255,255,255,0.4); }
+    .nav-drop-menu {
+      position: absolute; top: calc(100% + 6px); right: 0; min-width: 140px;
+      background: rgba(20,20,20,0.95); border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 8px; padding: 4px;
+      opacity: 0; transform: translateY(-4px); pointer-events: none;
+      transition: all 0.25s cubic-bezier(0.23, 1, 0.32, 1);
+      backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); z-index: 300;
     }
-
-    .nav-group .nav-sub {
-      display: inline-flex;
-      max-width: 0;
-      overflow: hidden;
-      transition: max-width 0.4s cubic-bezier(0.23, 1, 0.32, 1), padding 0.4s;
-      gap: 0;
+    .nav-drop.open .nav-drop-menu { opacity: 1; transform: translateY(0); pointer-events: auto; }
+    .nav-drop-item {
+      display: block; width: 100%; padding: 8px 14px;
+      background: none; border: none; color: rgba(255,255,255,0.5);
+      font-family: var(--font); font-size: 12px; text-align: left;
+      cursor: pointer; border-radius: 6px; transition: all 0.2s;
     }
-
-    .nav-group.expanded .nav-sub {
-      max-width: 300px;
-    }
-
-    .nav-group .nav-sub button {
-      background: none;
-      border: none;
-      border-left: 1px solid rgba(255,255,255,0.08);
-      color: rgba(255,255,255,0.4);
-      font-family: var(--font);
-      font-size: 11px;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-      padding: 6px 12px;
-      cursor: pointer;
-      white-space: nowrap;
-      transition: all 0.3s;
-    }
-
-    .nav-group .nav-sub button:hover {
-      color: rgba(255,255,255,0.7);
-    }
-
-    .nav-group .nav-sub button.active {
-      color: rgba(255,255,255,0.9);
-      background: rgba(255,255,255,0.06);
-    }
+    .nav-drop-item:hover { background: rgba(255,255,255,0.06); color: rgba(255,255,255,0.85); }
+    .nav-drop-item.active { color: #fff; background: rgba(255,255,255,0.08); }
 
     .logo {
       font-family: var(--font);
@@ -664,12 +632,14 @@
   <div class="topbar">
     <div class="logo">Rex Daily</div>
     <div class="controls">
-      <div class="nav-group expanded" id="nav-daily">
-        <span class="nav-main" onclick="toggleNav('nav-daily')">Daily</span>
-        <div class="nav-sub">
-          <button class="active" data-section="all" onclick="setSection('all')">All</button>
-          <button data-section="design" onclick="setSection('design')">Design</button>
-          <button data-section="tech" onclick="setSection('tech')">Tech</button>
+      <div class="nav-drop" id="nav-daily">
+        <button class="nav-drop-btn" onclick="this.parentElement.classList.toggle('open')">
+          <span id="drop-label">All</span>
+        </button>
+        <div class="nav-drop-menu">
+          <button class="nav-drop-item active" data-section="all" onclick="setSection('all')">All</button>
+          <button class="nav-drop-item" data-section="design" onclick="setSection('design')">Design</button>
+          <button class="nav-drop-item" data-section="tech" onclick="setSection('tech')">Tech</button>
         </div>
       </div>
       <a href="inspire.html" class="ctrl-btn" style="text-decoration:none;display:inline-block;">Inspire</a>
@@ -699,9 +669,10 @@
   </div>
 
   <script>
-    function toggleNav(id) {
-      document.getElementById(id).classList.toggle('expanded');
-    }
+    document.addEventListener('click', e => {
+      const drop = document.getElementById('nav-daily');
+      if (drop && !drop.contains(e.target)) drop.classList.remove('open');
+    });
 
     let issuesData = [];
     let filtered = [];
@@ -733,6 +704,9 @@
       localStorage.setItem('rex-section', s);
       document.querySelectorAll('[data-section]').forEach(b =>
         b.classList.toggle('active', b.dataset.section === s));
+      const labels = { all: 'All', design: 'Design', tech: 'Tech' };
+      document.getElementById('drop-label').textContent = labels[s] || s;
+      document.getElementById('nav-daily').classList.remove('open');
       filterAndRender();
     }
 
@@ -1043,6 +1017,8 @@
       document.querySelector('[data-lang]').textContent = currentLang === 'zh' ? 'EN' : '中';
       document.querySelectorAll('[data-section]').forEach(b =>
         b.classList.toggle('active', b.dataset.section === currentSection));
+      const sLabels = { all: 'All', design: 'Design', tech: 'Tech' };
+      document.getElementById('drop-label').textContent = sLabels[currentSection] || currentSection;
 
       filterAndRender();
     }
