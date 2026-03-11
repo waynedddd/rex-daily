@@ -39,6 +39,13 @@
           "label": "AI 教练用户留存率 vs 传统健身 App"
         }
       ]
+    },
+    {
+      "id": "cards",
+      "name": "Content Card Design",
+      "label": "Direction 03",
+      "color": "#a855f7",
+      "stats": []
     }
   ],
   "pins": [
@@ -232,6 +239,162 @@
       "link": "https://dribbble.com/search/sports-ai",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/5497628/file/original-71c10a774bdc8818ea0d0e1acf060e06.png?compress=1&resize=752x",
+      "date": "2026-03-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Glassmorphism Card — Dark UI",
+      "body": "毛玻璃质感产品卡片，深色背景下的半透明层叠效果。光影处理细腻，边框微光增加层次。",
+      "tags": [
+        "Glassmorphism",
+        "Dark UI",
+        "Product Card"
+      ],
+      "link": "https://dribbble.com/shots/26585321-Product-Card-Glassmorphism-Dark-UI",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/45097754/file/f3cb4d7b396d22dc8adcb6fcbd5d3b8b.png?crop=0x0-1600x1200&format=webp&resize=400x300&vertical=center",
+      "date": "2026-03-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Dashboard Bento Cards",
+      "body": "Bento grid 布局的仪表盘卡片，不同尺寸的信息模块像便当盒一样紧密排列，信息密度高但视觉整洁。",
+      "tags": [
+        "Bento Grid",
+        "Dashboard",
+        "Layout"
+      ],
+      "link": "https://dribbble.com/shots/26300624-Dashboard-UI-Bento-Cards",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/42743058/file/original-52bdce8de1644ad423d2ed677d08b86a.png?resize=400x300",
+      "date": "2026-03-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "3D Card Parallax Effect",
+      "body": "鼠标跟随的 3D 倾斜卡片，配合光影位移营造立体感。微交互细节：悬停时内容元素分层浮动。",
+      "tags": [
+        "3D",
+        "Parallax",
+        "Micro-interaction"
+      ],
+      "link": "https://ui.aceternity.com/components/3d-card-effect",
+      "linkText": "Aceternity UI",
+      "image": "https://cdn.dribbble.com/userupload/12098603/file/still-b6fad67700090014c743fdaa4644bce0.png?resize=400x0",
+      "date": "2026-03-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Creative Card Hover Interaction",
+      "body": "卡片悬停动画合集，从颜色渐变到元素位移到背景粒子效果，展示 CSS 动画在卡片交互中的可能性。",
+      "tags": [
+        "Hover",
+        "Animation",
+        "CSS"
+      ],
+      "link": "https://dribbble.com/search/card-hover",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/9836617/file/still-9d0308b16f0a647b4420de1cda1609a4.gif?resize=400x0",
+      "date": "2026-03-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Dark Glass Card System",
+      "body": "深色毛玻璃卡片设计系统，统一的圆角、透明度和模糊值，从列表到详情到弹窗保持一致的质感语言。",
+      "tags": [
+        "Design System",
+        "Glass",
+        "Consistency"
+      ],
+      "link": "https://dribbble.com/search/glassmorphism-dark-mode",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/users/3274770/screenshots/14772009/media/731e731fd6c915cf5e785899ac3d9ddb.jpg?compress=1&resize=400x300&vertical=top",
+      "date": "2026-03-11"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "卡片是 UI 设计的原子单位。一张卡片的好坏能看出设计师的全部功力：信息层级、留白节奏、微交互品味。2026 的趋势很明确——扁平已死，质感回归。但质感不是往上堆效果，而是用光影和透明度创造深度感。最高级的卡片设计是让你忘记它是个卡片。",
+      "date": "2026-03-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Bento Grid — RevOps Dashboard",
+      "body": "RevOps SaaS 的 Bento 网格布局，大小卡片混搭，数据可视化与操作按钮共存。",
+      "tags": [
+        "Bento",
+        "SaaS",
+        "RevOps"
+      ],
+      "link": "https://dribbble.com/shots/25765472-Bento-grid-dashboard-for-revops-startup",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/44760515/file/7b7d8d3d4188aa951aba4f0d186b3390.jpg?resize=752x&vertical=center",
+      "date": "2026-03-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Content Card — Gradient Glow",
+      "body": "渐变发光边框卡片，深色背景上的霓虹质感。边框光效跟随 hover 位置变化。",
+      "tags": [
+        "Gradient",
+        "Glow",
+        "Neon"
+      ],
+      "link": "https://dribbble.com/search/card-glow",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/44778079/file/1bd7b8a53399875d685b71df319e9bec.png?crop=135x0-1994x1394&format=webp&resize=400x300&vertical=center",
+      "date": "2026-03-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Animated Card Interaction",
+      "body": "卡片展开/折叠动画，流畅的 spring 缓动配合内容渐入，FLIP 动画技术让布局切换丝滑。",
+      "tags": [
+        "Animation",
+        "FLIP",
+        "Spring"
+      ],
+      "link": "https://dribbble.com/search/card-animation",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/20286378/file/original-f43008241b584e7b11f223f0f49b0fa7.gif",
+      "date": "2026-03-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Minimal Info Card — Clean Typography",
+      "body": "极简信息卡片，靠字体大小对比和留白撑起层次。无装饰，纯排版力量。",
+      "tags": [
+        "Minimal",
+        "Typography",
+        "Clean"
+      ],
+      "link": "https://dribbble.com/search/minimal-card-ui",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/45032567/file/ad13e44c08ab6ee6825bd2cfd4dc52d8.png?resize=752x&vertical=center",
+      "date": "2026-03-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "CSS Card Hover Effects Collection",
+      "body": "纯 CSS 实现的卡片悬停效果集合，包含翻转、滑入、缩放、边框动画等多种模式。",
+      "tags": [
+        "CSS",
+        "Hover",
+        "Collection"
+      ],
+      "link": "https://dribbble.com/search/css-card-hover",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/users/8952388/screenshots/16716208/css-card-hover.jpg",
       "date": "2026-03-11"
     }
   ]
