@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rex Inspire — Design Research Wall</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&family=Noto+Sans+SC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --font: 'Space Grotesk', 'Noto Sans SC', system-ui, sans-serif;
+      --font-mono: 'Space Mono', monospace;
+      --finance: #00d4aa;
+      --sports: #ff6b35;
+      --bg: #0a0a0a;
+      --paper: #f5f0e8;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: var(--bg);
+      color: var(--paper);
+      font-family: var(--font);
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+    }
+
+    /* ── Topbar ── */
+    .topbar {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 16px 24px;
+      background: rgba(10,10,10,0.8);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+    }
+
+    .logo {
+      font-size: 18px;
+      letter-spacing: -0.01em;
+      opacity: 0.7;
+    }
+
+    .logo a { color: inherit; text-decoration: none; }
+
+    .nav-links {
+      display: flex;
+      gap: 12px;
+    }
+
+    .nav-links a {
+      color: rgba(255,255,255,0.5);
+      text-decoration: none;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      padding: 6px 14px;
+      border: 1px solid rgba(255,255,255,0.15);
+      border-radius: 999px;
+      transition: all 0.3s;
+    }
+
+    .nav-links a:hover,
+    .nav-links a.active {
+      color: rgba(255,255,255,0.85);
+      border-color: rgba(255,255,255,0.3);
+      background: rgba(255,255,255,0.1);
+    }
+
+    /* ── Hero ── */
+    .hero {
+      padding: 120px 24px 40px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .hero h1 {
+      font-size: clamp(48px, 8vw, 96px);
+      font-weight: 700;
+      letter-spacing: -0.04em;
+      line-height: 0.95;
+      margin-bottom: 16px;
+    }
+
+    .hero h1 span {
+      display: block;
+      font-size: 0.4em;
+      font-weight: 300;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      opacity: 0.4;
+      margin-bottom: 12px;
+    }
+
+    .hero p {
+      font-size: 16px;
+      opacity: 0.5;
+      max-width: 500px;
+      line-height: 1.6;
+    }
+
+    /* ── Direction sections ── */
+    .direction {
+      padding: 60px 24px 80px;
+      position: relative;
+    }
+
+    .direction-header {
+      max-width: 900px;
+      margin: 0 auto 48px;
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      padding-bottom: 20px;
+    }
+
+    .direction-label {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-weight: 700;
+    }
+
+    .direction--finance .direction-label {
+      color: var(--finance);
+      border: 1px solid var(--finance);
+    }
+
+    .direction--sports .direction-label {
+      color: var(--sports);
+      border: 1px solid var(--sports);
+    }
+
+    .direction-title {
+      font-size: 28px;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+    }
+
+    .direction-count {
+      font-size: 13px;
+      opacity: 0.3;
+      font-family: var(--font-mono);
+    }
+
+    /* ── Board (the pinned cards) ── */
+    .board {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      position: relative;
+    }
+
+    @media (max-width: 768px) {
+      .board { grid-template-columns: 1fr; }
+    }
+
+    /* ── Pin Card ── */
+    .pin {
+      position: relative;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 2px;
+      padding: 24px;
+      transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+      cursor: default;
+    }
+
+    .pin::before {
+      content: '';
+      position: absolute;
+      top: -4px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.2);
+      box-shadow: 0 0 6px rgba(255,255,255,0.1);
+    }
+
+    .pin:hover {
+      background: rgba(255,255,255,0.06);
+      border-color: rgba(255,255,255,0.12);
+      transform: translateY(-4px) rotate(0deg) !important;
+      z-index: 10;
+    }
+
+    .pin:nth-child(odd) { transform: rotate(-0.8deg); }
+    .pin:nth-child(even) { transform: rotate(0.6deg); }
+    .pin:nth-child(3n) { transform: rotate(-1.2deg); }
+    .pin:nth-child(3n+1) { transform: rotate(0.4deg); }
+
+    .pin-type {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      opacity: 0.35;
+      margin-bottom: 12px;
+    }
+
+    .pin-title {
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      line-height: 1.3;
+      margin-bottom: 10px;
+    }
+
+    .direction--finance .pin-title { color: var(--finance); }
+    .direction--sports .pin-title { color: var(--sports); }
+
+    .pin-body {
+      font-size: 14px;
+      line-height: 1.65;
+      opacity: 0.6;
+      margin-bottom: 16px;
+    }
+
+    .pin-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 12px;
+    }
+
+    .pin-tag {
+      font-size: 11px;
+      font-family: var(--font-mono);
+      padding: 2px 8px;
+      border-radius: 2px;
+      background: rgba(255,255,255,0.05);
+      color: rgba(255,255,255,0.4);
+    }
+
+    .pin-link {
+      display: inline-block;
+      font-size: 12px;
+      font-family: var(--font-mono);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      text-decoration: none;
+      opacity: 0.4;
+      transition: opacity 0.3s;
+      border-bottom: 1px solid transparent;
+    }
+
+    .direction--finance .pin-link { color: var(--finance); }
+    .direction--sports .pin-link { color: var(--sports); }
+
+    .pin-link:hover {
+      opacity: 1;
+      border-bottom-color: currentColor;
+    }
+
+    /* ── Highlight card (spanning 2 cols) ── */
+    .pin--hero {
+      grid-column: span 2;
+      padding: 32px;
+      border-width: 1px;
+    }
+
+    .direction--finance .pin--hero {
+      border-color: rgba(0,212,170,0.15);
+      background: rgba(0,212,170,0.03);
+    }
+
+    .direction--sports .pin--hero {
+      border-color: rgba(255,107,53,0.15);
+      background: rgba(255,107,53,0.03);
+    }
+
+    .pin--hero .pin-title {
+      font-size: 24px;
+    }
+
+    @media (max-width: 768px) {
+      .pin--hero { grid-column: span 1; }
+    }
+
+    /* ── Rex Note (handwritten style) ── */
+    .rex-note {
+      position: relative;
+      background: rgba(227,51,51,0.06);
+      border: 1px solid rgba(227,51,51,0.15);
+      border-radius: 2px;
+      padding: 24px;
+      transform: rotate(1deg);
+    }
+
+    .rex-note::before {
+      content: '🔍 Rex';
+      font-family: var(--font-mono);
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      color: #e33;
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    .rex-note p {
+      font-size: 14px;
+      line-height: 1.65;
+      opacity: 0.7;
+      font-style: italic;
+    }
+
+    .rex-note:hover {
+      transform: rotate(0deg) translateY(-2px);
+      background: rgba(227,51,51,0.08);
+    }
+
+    /* ── Trend bar ── */
+    .trend-bar {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 24px;
+      display: flex;
+      gap: 32px;
+      flex-wrap: wrap;
+    }
+
+    .trend-item {
+      flex: 1;
+      min-width: 200px;
+    }
+
+    .trend-number {
+      font-size: 48px;
+      font-weight: 700;
+      letter-spacing: -0.04em;
+      line-height: 1;
+    }
+
+    .direction--finance .trend-number { color: var(--finance); }
+    .direction--sports .trend-number { color: var(--sports); }
+
+    .trend-label {
+      font-size: 13px;
+      opacity: 0.4;
+      margin-top: 4px;
+      line-height: 1.4;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      text-align: center;
+      padding: 60px 24px;
+      font-size: 12px;
+      opacity: 0.2;
+      font-family: var(--font-mono);
+    }
+
+    /* ── String connections (SVG) ── */
+    .strings {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .strings line {
+      stroke: rgba(255,255,255,0.04);
+      stroke-width: 1;
+      stroke-dasharray: 4 4;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Topbar -->
+  <div class="topbar">
+    <div class="logo"><a href="index.html">Rex Daily</a></div>
+    <div class="nav-links">
+      <a href="index.html">Daily</a>
+      <a href="inspire.html" class="active">Inspire</a>
+    </div>
+  </div>
+
+  <!-- Hero -->
+  <div class="hero">
+    <h1>
+      <span>Design Research Wall</span>
+      Inspire
+    </h1>
+    <p>AI 正在重塑每个行业的设计语言。这里收集前沿案例、趋势信号和值得关注的方向。钉在墙上，随时回看。</p>
+  </div>
+
+  <!-- ═══════════════════════════════ AI + FINANCE ═══════════════════════════════ -->
+  <div class="direction direction--finance">
+    <div class="direction-header">
+      <span class="direction-label">Direction 01</span>
+      <h2 class="direction-title">AI × Finance</h2>
+      <span class="direction-count">6 pins</span>
+    </div>
+
+    <!-- Trend bar -->
+    <div class="trend-bar">
+      <div class="trend-item">
+        <div class="trend-number">72%</div>
+        <div class="trend-label">Fintech 用户更信任有 AI 解释的投资建议</div>
+      </div>
+      <div class="trend-item">
+        <div class="trend-number">$3.5T</div>
+        <div class="trend-label">2026 全球数字支付交易规模</div>
+      </div>
+      <div class="trend-item">
+        <div class="trend-number">85%+</div>
+        <div class="trend-label">Figma Make 生成 Fintech 代码的复用率</div>
+      </div>
+    </div>
+
+    <div class="board">
+      <!-- Hero pin -->
+      <div class="pin pin--hero">
+        <div class="pin-type">趋势 / Trend</div>
+        <div class="pin-title">Conversational Finance：对话式金融界面成为主流</div>
+        <div class="pin-body">
+          传统金融 Dashboard 正在被对话式 AI 界面取代。用户不再需要读懂折线图——直接问"我这个月花太多了吗？"就能获得带上下文的回答。Revolut、Mercury 等产品已经将 AI 对话嵌入核心交互，而非作为附加功能。设计挑战：如何让 AI 回答看起来"可信"而非"推销"。
+        </div>
+        <div class="pin-tags">
+          <span class="pin-tag">Conversational UI</span>
+          <span class="pin-tag">Trust Design</span>
+          <span class="pin-tag">AI Assistant</span>
+        </div>
+        <a class="pin-link" href="https://www.eleken.co/blog-posts/modern-fintech-design-guide" target="_blank">Eleken Fintech Guide →</a>
+      </div>
+
+      <!-- Rex note -->
+      <div class="rex-note">
+        <p>金融设计的核心矛盾：用户想要简单，但金融本质复杂。AI 不是来消灭复杂性的，是来当翻译的。最好的 Fintech 设计不是把信息藏起来，而是在对的时机用对的方式呈现。Mercury 的设计之所以好，是因为它假设用户聪明但忙。</p>
+      </div>
+
+      <div class="pin">
+        <div class="pin-type">案例 / Case</div>
+        <div class="pin-title">Fynix — AI 驱动的财务 Dashboard</div>
+        <div class="pin-body">
+          收入/支出/储蓄一目了然，AI 自动生成 insight 摘要。深色系 + 绿色数据可视化，信息密度高但不拥挤。值得注意的设计决策：把 AI 建议放在卡片最顶部而非底部。
+        </div>
+        <div class="pin-tags">
+          <span class="pin-tag">Dashboard</span>
+          <span class="pin-tag">SaaS</span>
+          <span class="pin-tag">Dark UI</span>
+        </div>
+        <a class="pin-link" href="https://www.behance.net/gallery/234937291/AI-Finance-Management-SaaS-UX-UI-DashboardDesign" target="_blank">Behance →</a>
+      </div>
+
+      <div class="pin">
+        <div class="pin-type">案例 / Case</div>
+        <div class="pin-title">AI Financial Assistant — 个人理财 App</div>
+        <div class="pin-body">
+          AI 驱动的消费追踪 + 投资建议。亮点是"Why"功能：每个 AI 建议都附带可展开的解释链。设计上用渐变光晕暗示 AI 正在思考，比传统 loading spinner 更有"智能感"。
+        </div>
+        <div class="pin-tags">
+          <span class="pin-tag">Mobile</span>
+          <span class="pin-tag">Explainable AI</span>
+          <span class="pin-tag">Gradient</span>
+        </div>
+        <a class="pin-link" href="https://www.behance.net/gallery/234235215/AI-Finance-Assistant-Finance-App-UIUX-Design" target="_blank">Behance →</a>
+      </div>
+
+      <div class="pin">
+        <div class="pin-type">趋势 / Trend</div>
+        <div class="pin-title">Biometric UX：无密码金融体验</div>
+        <div class="pin-body">
+          2026 年 Fintech 的安全设计从"防御式"转向"无感式"。面部识别 + 行为生物特征（打字节奏、滑动力度）取代传统密码。设计师的新任务：让安全"看不见"但让用户"感受到安全"。
+        </div>
+        <div class="pin-tags">
+          <span class="pin-tag">Security UX</span>
+          <span class="pin-tag">Biometric</span>
+          <span class="pin-tag">Invisible Design</span>
+        </div>
+        <a class="pin-link" href="https://fuselabcreative.com/fintech-ux-design-guide-2026-user-experience/" target="_blank">Fuselab Guide →</a>
+      </div>
+
+      <div class="pin">
+        <div class="pin-type">方向 / Direction</div>
+        <div class="pin-title">Predictive UX：在用户行动前设计</div>
+        <div class="pin-body">
+          AI 根据消费模式预判用户下一步需求：月底自动显示预算警告，发薪日推送投资机会，异常消费实时弹出确认。设计从"响应式"变成"预测式"——界面在你需要之前就准备好了。
+        </div>
+        <div class="pin-tags">
+          <span class="pin-tag">Predictive</span>
+          <span class="pin-tag">Proactive Design</span>
+          <span class="pin-tag">Context-Aware</span>
+        </div>
+        <a class="pin-link" href="https://medium.com/@focotik.agency/what-ui-ux-will-look-like-in-2026-2527495f3360" target="_blank">Medium →</a>
+      </div>
+
+      <div class="pin">
+        <div class="pin-type">案例 / Case</div>
+        <div class="pin-title">PayU Finance CRM — 企业级金融后台</div>
+        <div class="pin-body">
+          B2B 金融 CRM 的设计参考。大量表格和数据但通过 AI 摘要层做了降噪。配色克制（深灰 + 蓝色高亮），信息层级清晰。企业级 AI 设计的关键：不要花哨，要可靠。
+        </div>
+        <div class="pin-tags">
+          <span class="pin-tag">B2B</span>
+          <span class="pin-tag">CRM</span>
+          <span class="pin-tag">Enterprise</span>
+        </div>
+        <a class="pin-link" href="https://www.behance.net/gallery/240885549/PayU-Finance-CRM-UX-UI-Dashboard-Design" target="_blank">Behance →</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════ AI + SPORTS ═══════════════════════════════ -->
+  <div class="direction direction--sports">
+    <div class="direction-header">
+      <span class="direction-label">Direction 02</span>
+      <h2 class="direction-title">AI × Sports</h2>
+      <span class="direction-count">6 pins</span>
+    </div>
+
+    <!-- Trend bar -->
+    <div class="trend-bar">
+      <div class="trend-item">
+        <div class="trend-number">70%</div>
+        <div class="trend-label">运动可穿戴数据被 AI 二次分析的比例</div>
+      </div>
+      <div class="trend-item">
+        <div class="trend-number">$9.2B</div>
+        <div class="trend-label">2026 全球运动科技市场规模</div>
+      </div>
+      <div class="trend-item">
+        <div class="trend-number">3x</div>
+        <div class="trend-label">AI 教练用户留存率 vs 传统健身 App</div>
+      </div>
+    </div>
+
+    <div class="board">
+      <!-- Hero pin -->
+      <div class="pin pin--hero">
+        <div class="pin-type">趋势 / Trend</div>
+        <div class="pin-title">Agentic Fitness：AI 教练从建议者变成执行者</div>
+        <div class="pin-body">
+          2026 年健身 App 的 AI 不再只是"推荐训练计划"——它实时监控你的心率、睡眠、恢复状态，自动调整今天的训练强度，甚至帮你预约运动按摩。从 Chatbot → Co-pilot → Agent 的跃迁，设计挑战是：如何让用户信任一个"替你做决定"的 AI，而不是觉得失控。
+        </div>
+        <div class="pin-tags">
+          <span class="pin-tag">Agentic AI</span>
+          <span class="pin-tag">Trust</span>
+          <span class="pin-tag">Autonomy</span>
+        </div>
+        <a class="pin-link" href="https://www.8ration.com/blogs/agentic-ai-fitness-apps/" target="_blank">8ration →</a>
+      </div>
+
+      <!-- Rex note -->
+      <div class="rex-note">
+        <p>运动科技设计有个有趣的张力：数据越多，用户越焦虑。Whoop 和 Oura 的成功不是因为它们给了更多数据，而是因为它们把数据翻译成了一个数字（Readiness Score）。最好的运动 AI 设计是做减法的——把 47 个指标压缩成"今天该练还是该休息"。</p>
+      </div>
+
+      <div class="pin">
+        <div class="pin-type">案例 / Case</div>
+        <div class="pin-title">AI Fitness App — 全链路运动助手</div>
+        <div class="pin-body">
+          Figma 设计稿展示了从计划制定到动作纠正到恢复建议的完整 AI 闭环。视觉上用大面积运动摄影 + 半透明数据覆盖层，既有活力又有科技感。动作纠正界面用骨骼线叠加实时视频。
+        </div>
+        <div class="pin-tags">
+          <span class="pin-tag">Full Stack</span>
+          <span class="pin-tag">Computer Vision</span>
+          <span class="pin-tag">Mobile</span>
+        </div>
+        <a class="pin-link" href="https://www.behance.net/gallery/233083443/AI-Fitness-App-UIUX-Design" target="_blank">Behance →</a>
+      </div>
+
+      <div class="pin">
+        <div class="pin-type">产品 / Product</div>
+        <div class="pin-title">Whoop 5.0 — 极简数据设计的标杆</div>
+        <div class="pin-body">
+          没有屏幕的可穿戴设备，所有数据在 App 端呈现。设计哲学：屏幕越少越好，决策越简单越好。Recovery Score 用红黄绿三色让用户秒懂。2026 版新增 AI 教练语音摘要——早上戴上耳机就知道今天身体状态。
+        </div>
+        <div class="pin-tags">
+          <span class="pin-tag">Wearable</span>
+          <span class="pin-tag">Minimal</span>
+          <span class="pin-tag">Voice UI</span>
+        </div>
+        <a class="pin-link" href="https://www.oreateai.com/blog/beyond-the-numbers-what-2025s-wearable-tech-tells-us-about-peak-performance/fb0e0935abff30d99dcb0a03a749eabd" target="_blank">Oreate AI →</a>
+      </div>
+
+      <div class="pin">
+        <div class="pin-type">趋势 / Trend</div>
+        <div class="pin-title">运动数据可视化：从仪表盘到叙事</div>
+        <div class="pin-body">
+          Strava 年度回顾（Wrapped）开创了"数据叙事"设计范式。2026 年趋势是把每次训练都变成一个"故事"：AI 自动生成训练报告，带配速曲线、心率区间可视化和个人最佳高亮。设计从展示数据到讲述数据。
+        </div>
+        <div class="pin-tags">
+          <span class="pin-tag">Data Storytelling</span>
+          <span class="pin-tag">Visualization</span>
+          <span class="pin-tag">Narrative UX</span>
+        </div>
+        <a class="pin-link" href="https://dribbble.com/search/sports-ai" target="_blank">Dribbble →</a>
+      </div>
+
+      <div class="pin">
+        <div class="pin-type">方向 / Direction</div>
+        <div class="pin-title">Social × AI：运动社交的下一步</div>
+        <div class="pin-body">
+          AI 根据你的水平、位置、训练偏好自动匹配跑友/球友。界面设计像 dating app 但围绕运动数据：不是看脸，是看配速兼容性和训练时段重叠度。隐私设计是关键——分享多少数据，由用户控制。
+        </div>
+        <div class="pin-tags">
+          <span class="pin-tag">Social</span>
+          <span class="pin-tag">Matching</span>
+          <span class="pin-tag">Privacy</span>
+        </div>
+        <a class="pin-link" href="https://dribbble.com/tags/ai-sports" target="_blank">Dribbble →</a>
+      </div>
+
+      <div class="pin">
+        <div class="pin-type">案例 / Case</div>
+        <div class="pin-title">AI Sports Betting — 数据驱动的赛事预测界面</div>
+        <div class="pin-body">
+          AI 预测 + 实时赔率可视化。设计上大量使用微动画传达数据变化（赔率跳动、概率条滑动）。深色界面 + 高饱和强调色。值得研究的设计模式：如何在信息爆炸的实时场景中维持视觉秩序。
+        </div>
+        <div class="pin-tags">
+          <span class="pin-tag">Real-time</span>
+          <span class="pin-tag">Data Dense</span>
+          <span class="pin-tag">Micro-animation</span>
+        </div>
+        <a class="pin-link" href="https://dribbble.com/shots/27088488-Ai-sports-betting-app-design" target="_blank">Dribbble →</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    Rex Inspire — curated by 🔍 Rex · updated 2026.03.11
+  </div>
+
+</body>
+</html>
