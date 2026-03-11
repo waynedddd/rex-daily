@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Rex Inspire — Design Research Wall</title>
+  <title>Rex Inspire — Moodboard</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&family=Noto+Sans+SC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -12,14 +12,13 @@
       --font: 'Space Grotesk', 'Noto Sans SC', system-ui, sans-serif;
       --font-mono: 'Space Mono', monospace;
       --bg: #0a0a0a;
-      --paper: #f5f0e8;
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
     body {
       background: var(--bg);
-      color: var(--paper);
+      color: #f5f0e8;
       font-family: var(--font);
       -webkit-font-smoothing: antialiased;
       overflow-x: hidden;
@@ -29,7 +28,7 @@
     .topbar {
       position: fixed;
       top: 0; left: 0; right: 0;
-      z-index: 100;
+      z-index: 200;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -38,282 +37,324 @@
       backdrop-filter: blur(20px);
       -webkit-backdrop-filter: blur(20px);
     }
-
     .logo { font-size: 18px; letter-spacing: -0.01em; opacity: 0.7; }
     .logo a { color: inherit; text-decoration: none; }
-
     .controls { display: flex; gap: 8px; align-items: center; }
-
     .ctrl-btn {
-      background: none;
-      border: 1px solid rgba(255,255,255,0.15);
-      color: rgba(255,255,255,0.5);
-      font-family: var(--font);
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.15em;
-      padding: 6px 14px;
-      border-radius: 999px;
-      cursor: pointer;
-      transition: all 0.3s;
-      text-decoration: none;
-      display: inline-block;
+      background: none; border: 1px solid rgba(255,255,255,0.15);
+      color: rgba(255,255,255,0.5); font-family: var(--font);
+      font-size: 12px; text-transform: uppercase; letter-spacing: 0.15em;
+      padding: 6px 14px; border-radius: 999px; cursor: pointer;
+      transition: all 0.3s; text-decoration: none; display: inline-block;
     }
     .ctrl-btn:hover { border-color: rgba(255,255,255,0.4); color: rgba(255,255,255,0.8); }
     .ctrl-btn.active { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.85); border-color: rgba(255,255,255,0.3); }
 
-    /* ── Nav group (expandable pill) ── */
     .nav-group {
-      display: inline-flex;
-      align-items: center;
-      border: 1px solid rgba(255,255,255,0.15);
-      border-radius: 999px;
-      overflow: hidden;
+      display: inline-flex; align-items: center;
+      border: 1px solid rgba(255,255,255,0.15); border-radius: 999px; overflow: hidden;
       transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
     }
     .nav-group .nav-main {
-      background: rgba(255,255,255,0.1);
-      color: rgba(255,255,255,0.85);
-      font-family: var(--font);
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.15em;
-      padding: 6px 14px;
-      border: none;
-      cursor: pointer;
-      white-space: nowrap;
-      transition: all 0.3s;
-      text-decoration: none;
-      display: inline-block;
+      background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.85);
+      font-family: var(--font); font-size: 12px; text-transform: uppercase;
+      letter-spacing: 0.15em; padding: 6px 14px; border: none; cursor: pointer;
     }
     .nav-group .nav-sub {
-      display: inline-flex;
-      max-width: 0;
-      overflow: hidden;
+      display: inline-flex; max-width: 0; overflow: hidden;
       transition: max-width 0.4s cubic-bezier(0.23, 1, 0.32, 1);
     }
     .nav-group.expanded .nav-sub { max-width: 400px; }
-    .nav-group .nav-sub button,
-    .nav-group .nav-sub a {
-      background: none;
-      border: none;
-      border-left: 1px solid rgba(255,255,255,0.08);
-      color: rgba(255,255,255,0.4);
-      font-family: var(--font);
-      font-size: 11px;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-      padding: 6px 12px;
-      cursor: pointer;
-      white-space: nowrap;
-      transition: all 0.3s;
-      text-decoration: none;
-      display: inline-block;
+    .nav-group .nav-sub button {
+      background: none; border: none; border-left: 1px solid rgba(255,255,255,0.08);
+      color: rgba(255,255,255,0.4); font-family: var(--font); font-size: 11px;
+      text-transform: uppercase; letter-spacing: 0.12em; padding: 6px 12px;
+      cursor: pointer; white-space: nowrap; transition: all 0.3s;
     }
-    .nav-group .nav-sub button:hover,
-    .nav-group .nav-sub a:hover { color: rgba(255,255,255,0.7); }
-    .nav-group .nav-sub button.active,
-    .nav-group .nav-sub a.active { color: rgba(255,255,255,0.9); background: rgba(255,255,255,0.06); }
+    .nav-group .nav-sub button:hover { color: rgba(255,255,255,0.7); }
+    .nav-group .nav-sub button.active { color: rgba(255,255,255,0.9); background: rgba(255,255,255,0.06); }
 
-    /* ── Hero ── */
-    .hero {
-      padding: 80px 24px 40px;
-      max-width: 900px;
+    /* ── Moodboard ── */
+    .moodboard {
+      padding: 72px 16px 60px;
+      columns: 4;
+      column-gap: 12px;
+      max-width: 1400px;
       margin: 0 auto;
     }
-    .hero h1 {
-      font-size: clamp(48px, 8vw, 96px);
-      font-weight: 700;
-      letter-spacing: -0.04em;
-      line-height: 0.95;
-      margin-bottom: 16px;
-    }
-    .hero h1 span {
-      display: block;
-      font-size: 0.4em;
-      font-weight: 300;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      opacity: 0.4;
+
+    @media (max-width: 1100px) { .moodboard { columns: 3; } }
+    @media (max-width: 720px) { .moodboard { columns: 2; column-gap: 8px; } }
+
+    /* ── Tile ── */
+    .tile {
+      break-inside: avoid;
       margin-bottom: 12px;
-    }
-    .hero p { font-size: 16px; opacity: 0.5; max-width: 500px; line-height: 1.6; }
-
-    /* ── Direction sections ── */
-    .direction { padding: 60px 24px 80px; }
-
-    .direction-header {
-      max-width: 900px;
-      margin: 0 auto 48px;
-      display: flex;
-      align-items: baseline;
-      gap: 16px;
-      border-bottom: 1px solid rgba(255,255,255,0.08);
-      padding-bottom: 20px;
-    }
-    .direction-label {
-      font-family: var(--font-mono);
-      font-size: 11px;
-      text-transform: uppercase;
-      letter-spacing: 0.2em;
-      padding: 4px 10px;
-      border-radius: 4px;
-      font-weight: 700;
-    }
-    .direction-title { font-size: 28px; font-weight: 600; letter-spacing: -0.02em; }
-    .direction-count { font-size: 13px; opacity: 0.3; font-family: var(--font-mono); }
-
-    /* ── Trend bar ── */
-    .trend-bar {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 0 24px 40px;
-      display: flex;
-      gap: 32px;
-      flex-wrap: wrap;
-    }
-    .trend-item { flex: 1; min-width: 200px; }
-    .trend-number { font-size: 48px; font-weight: 700; letter-spacing: -0.04em; line-height: 1; }
-    .trend-label { font-size: 13px; opacity: 0.4; margin-top: 4px; line-height: 1.4; }
-
-    /* ── Board ── */
-    .board {
-      max-width: 1200px;
-      margin: 0 auto;
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 24px;
-    }
-    @media (max-width: 768px) { .board { grid-template-columns: 1fr; } }
-
-    /* ── Pin Card ── */
-    .pin {
       position: relative;
-      background: rgba(255,255,255,0.03);
-      border: 1px solid rgba(255,255,255,0.06);
-      border-radius: 2px;
       overflow: hidden;
-      transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
-      cursor: default;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: transform 0.4s cubic-bezier(0.23, 1, 0.32, 1);
     }
-    .pin::before {
-      content: '';
-      position: absolute;
-      top: -4px; left: 50%;
-      transform: translateX(-50%);
-      width: 8px; height: 8px;
-      border-radius: 50%;
-      background: rgba(255,255,255,0.2);
-      box-shadow: 0 0 6px rgba(255,255,255,0.1);
-      z-index: 2;
-    }
-    .pin:hover {
-      background: rgba(255,255,255,0.06);
-      border-color: rgba(255,255,255,0.12);
-      transform: translateY(-4px) rotate(0deg) !important;
-      z-index: 10;
-    }
-    .pin:nth-child(odd) { transform: rotate(-0.8deg); }
-    .pin:nth-child(even) { transform: rotate(0.6deg); }
-    .pin:nth-child(3n) { transform: rotate(-1.2deg); }
-    .pin:nth-child(3n+1) { transform: rotate(0.4deg); }
 
-    /* Pin image */
-    .pin-image {
+    .tile:hover { transform: scale(1.015); z-index: 10; }
+
+    .tile img {
       width: 100%;
-      aspect-ratio: 16/10;
-      object-fit: cover;
       display: block;
-      filter: saturate(0.7) brightness(0.85);
+      filter: saturate(0.8);
       transition: filter 0.5s ease;
     }
-    .pin:hover .pin-image {
-      filter: saturate(1) brightness(1);
+
+    .tile:hover img { filter: saturate(1) brightness(1.05); }
+
+    /* Overlay on hover */
+    .tile-overlay {
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      padding: 40px 16px 16px;
+      background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.4) 60%, transparent 100%);
+      opacity: 0;
+      transition: opacity 0.4s ease;
+      pointer-events: none;
     }
 
-    .pin-content { padding: 20px; }
+    .tile:hover .tile-overlay { opacity: 1; }
 
-    .pin-type {
+    .tile-direction {
       font-family: var(--font-mono);
-      font-size: 10px;
+      font-size: 9px;
       text-transform: uppercase;
       letter-spacing: 0.2em;
-      opacity: 0.35;
-      margin-bottom: 10px;
+      margin-bottom: 6px;
+      opacity: 0.7;
     }
-    .pin-date {
-      font-family: var(--font-mono);
-      font-size: 10px;
-      opacity: 0.25;
-      float: right;
-    }
-    .pin-title {
-      font-size: 17px;
+
+    .tile-title {
+      font-size: 14px;
       font-weight: 600;
       letter-spacing: -0.01em;
       line-height: 1.3;
+      margin-bottom: 4px;
+    }
+
+    .tile-type {
+      font-family: var(--font-mono);
+      font-size: 9px;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      opacity: 0.5;
+    }
+
+    /* ── Rex Note tile (no image) ── */
+    .tile--rex {
+      background: rgba(227,51,51,0.08);
+      border: 1px solid rgba(227,51,51,0.15);
+      padding: 24px 20px;
+    }
+
+    .tile--rex .rex-label {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      color: #e33;
       margin-bottom: 10px;
     }
-    .pin-body {
-      font-size: 13px;
-      line-height: 1.65;
-      opacity: 0.55;
-      margin-bottom: 14px;
+
+    .tile--rex .rex-body {
+      font-size: 14px;
+      line-height: 1.6;
+      opacity: 0.65;
+      font-style: italic;
     }
-    .pin-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
-    .pin-tag {
+
+    .tile--rex:hover {
+      background: rgba(227,51,51,0.12);
+      border-color: rgba(227,51,51,0.25);
+    }
+
+    /* ── Section divider tile ── */
+    .tile--section {
+      padding: 32px 20px;
+      text-align: center;
+    }
+
+    .tile--section h2 {
+      font-size: 32px;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+
+    .tile--section .section-count {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      opacity: 0.3;
+    }
+
+    /* ── Detail modal ── */
+    .modal-bg {
+      position: fixed;
+      inset: 0;
+      z-index: 300;
+      background: rgba(0,0,0,0);
+      backdrop-filter: blur(0px);
+      -webkit-backdrop-filter: blur(0px);
+      pointer-events: none;
+      transition: all 0.5s ease;
+    }
+
+    .modal-bg.open {
+      background: rgba(0,0,0,0.8);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      pointer-events: auto;
+    }
+
+    .modal {
+      position: fixed;
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%) scale(0.9);
+      z-index: 301;
+      max-width: 700px;
+      width: 90%;
+      max-height: 85vh;
+      overflow-y: auto;
+      background: #111;
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 8px;
+      opacity: 0;
+      pointer-events: none;
+      transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+    }
+
+    .modal.open {
+      opacity: 1;
+      transform: translate(-50%, -50%) scale(1);
+      pointer-events: auto;
+    }
+
+    .modal img {
+      width: 100%;
+      display: block;
+      border-radius: 8px 8px 0 0;
+    }
+
+    .modal-body {
+      padding: 24px;
+    }
+
+    .modal-direction {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      margin-bottom: 8px;
+      opacity: 0.5;
+    }
+
+    .modal-title {
+      font-size: 22px;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+
+    .modal-text {
+      font-size: 15px;
+      line-height: 1.7;
+      opacity: 0.6;
+      margin-bottom: 16px;
+    }
+
+    .modal-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 16px;
+    }
+
+    .modal-tag {
       font-size: 10px;
       font-family: var(--font-mono);
-      padding: 2px 8px;
+      padding: 3px 10px;
       border-radius: 2px;
-      background: rgba(255,255,255,0.05);
+      background: rgba(255,255,255,0.06);
       color: rgba(255,255,255,0.4);
     }
-    .pin-link {
+
+    .modal-link {
       display: inline-block;
-      font-size: 11px;
+      font-size: 12px;
       font-family: var(--font-mono);
       text-transform: uppercase;
       letter-spacing: 0.1em;
       text-decoration: none;
-      opacity: 0.4;
-      transition: opacity 0.3s;
-      border-bottom: 1px solid transparent;
+      padding: 8px 16px;
+      border: 1px solid rgba(255,255,255,0.15);
+      border-radius: 999px;
+      color: rgba(255,255,255,0.6);
+      transition: all 0.3s;
     }
-    .pin-link:hover { opacity: 1; border-bottom-color: currentColor; }
 
-    /* Hero pin */
-    .pin--hero { grid-column: span 2; }
-    .pin--hero .pin-image { aspect-ratio: 21/10; }
-    .pin--hero .pin-title { font-size: 22px; }
-    @media (max-width: 768px) { .pin--hero { grid-column: span 1; } .pin--hero .pin-image { aspect-ratio: 16/10; } }
-
-    /* Rex note */
-    .pin--rex {
-      background: rgba(227,51,51,0.06);
-      border: 1px solid rgba(227,51,51,0.15);
+    .modal-link:hover {
+      border-color: rgba(255,255,255,0.4);
+      color: rgba(255,255,255,0.9);
     }
-    .pin--rex::before { background: #e33; box-shadow: 0 0 8px rgba(227,51,51,0.4); }
-    .pin--rex .pin-body { font-style: italic; opacity: 0.65; }
-    .pin--rex:hover { background: rgba(227,51,51,0.08); }
+
+    .modal-close {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: rgba(0,0,0,0.6);
+      border: 1px solid rgba(255,255,255,0.1);
+      color: rgba(255,255,255,0.6);
+      font-size: 18px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s;
+      z-index: 5;
+    }
+
+    .modal-close:hover { background: rgba(0,0,0,0.9); color: #fff; }
+
+    .modal-date {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      opacity: 0.25;
+      margin-top: 12px;
+    }
 
     /* ── Footer ── */
     .footer {
       text-align: center;
-      padding: 60px 24px;
+      padding: 40px 24px;
       font-size: 12px;
-      opacity: 0.2;
+      opacity: 0.15;
       font-family: var(--font-mono);
     }
 
     /* ── Loading ── */
     .loading {
       text-align: center;
-      padding: 120px 24px;
+      padding: 200px 24px;
       font-size: 14px;
       opacity: 0.3;
       font-family: var(--font-mono);
     }
+
+    /* scrollbar */
+    ::-webkit-scrollbar { width: 4px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 4px; }
   </style>
 </head>
 <body>
@@ -323,132 +364,178 @@
     <div class="controls">
       <a href="index.html" class="ctrl-btn">Daily</a>
       <div class="nav-group expanded" id="nav-inspire">
-        <span class="nav-main" onclick="toggleNav('nav-inspire')">Inspire</span>
-        <div class="nav-sub">
-          <button class="active" onclick="filterDirection('all',this)">All</button>
-        </div>
+        <span class="nav-main" onclick="this.parentElement.classList.toggle('expanded')">Inspire</span>
+        <div class="nav-sub" id="subnav"></div>
       </div>
     </div>
   </div>
 
-  <div class="hero">
-    <h1>
-      <span>Design Research Wall</span>
-      Inspire
-    </h1>
-    <p>AI 正在重塑每个行业的设计语言。这里收集前沿案例、趋势信号和值得关注的方向。钉在墙上，随时回看。</p>
+  <div class="moodboard" id="board">
+    <div class="loading">Loading...</div>
   </div>
 
-  <div id="content">
-    <div class="loading">Loading pins...</div>
+  <!-- Modal -->
+  <div class="modal-bg" id="modalBg" onclick="closeModal()"></div>
+  <div class="modal" id="modal">
+    <button class="modal-close" onclick="closeModal()">×</button>
+    <div id="modalContent"></div>
   </div>
 
-  <div class="footer">
-    Rex Inspire — curated by 🔍 Rex
-  </div>
+  <div class="footer">Rex Inspire — curated by 🔍 Rex</div>
 
   <script>
-    function toggleNav(id) {
-      document.getElementById(id).classList.toggle('expanded');
-    }
-
     let allData = null;
     let currentFilter = 'all';
 
-    function filterDirection(dir, el) {
+    function filterDir(dir, el) {
       currentFilter = dir;
-      document.querySelectorAll('.nav-sub button').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('#subnav button').forEach(b => b.classList.remove('active'));
       if (el) el.classList.add('active');
       render();
     }
 
+    function getDirColor(id) {
+      if (!allData) return '#fff';
+      const d = allData.directions.find(d => d.id === id);
+      return d ? d.color : '#fff';
+    }
+
+    function getDirName(id) {
+      if (!allData) return '';
+      const d = allData.directions.find(d => d.id === id);
+      return d ? d.name : '';
+    }
+
     function render() {
       if (!allData) return;
-      const container = document.getElementById('content');
-      let html = '';
+      const board = document.getElementById('board');
 
       const dirs = currentFilter === 'all'
         ? allData.directions
         : allData.directions.filter(d => d.id === currentFilter);
 
+      // Collect all pins across selected directions, interleave for visual variety
+      let allPins = [];
       dirs.forEach(dir => {
         const pins = allData.pins
           .filter(p => p.direction === dir.id)
           .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+        allPins.push(...pins);
+      });
 
-        html += `<div class="direction direction--${dir.id}">`;
-        html += `<div class="direction-header">
-          <span class="direction-label" style="color:${dir.color};border:1px solid ${dir.color}">${dir.label}</span>
-          <h2 class="direction-title">${dir.name}</h2>
-          <span class="direction-count">${pins.length} pins</span>
-        </div>`;
-
-        // Stats
-        if (dir.stats && dir.stats.length) {
-          html += '<div class="trend-bar">';
-          dir.stats.forEach(s => {
-            html += `<div class="trend-item">
-              <div class="trend-number" style="color:${dir.color}">${s.number}</div>
-              <div class="trend-label">${s.label}</div>
-            </div>`;
+      // If showing all, interleave directions for color variety
+      if (currentFilter === 'all' && dirs.length > 1) {
+        const byDir = {};
+        dirs.forEach(d => byDir[d.id] = []);
+        allPins.forEach(p => byDir[p.direction].push(p));
+        allPins = [];
+        const keys = Object.keys(byDir);
+        const maxLen = Math.max(...keys.map(k => byDir[k].length));
+        for (let i = 0; i < maxLen; i++) {
+          keys.forEach(k => {
+            if (byDir[k][i]) allPins.push(byDir[k][i]);
           });
-          html += '</div>';
+        }
+      }
+
+      let html = '';
+      const typeLabels = { trend: 'Trend', case: 'Case', direction: 'Direction', product: 'Product' };
+
+      allPins.forEach((pin, idx) => {
+        const color = getDirColor(pin.direction);
+        const dirName = getDirName(pin.direction);
+
+        if (pin.type === 'rex-note') {
+          html += `<div class="tile tile--rex">
+            <div class="rex-label">🔍 Rex\u2019s Take</div>
+            <div class="rex-body">${pin.body}</div>
+          </div>`;
+          return;
         }
 
-        // Board
-        html += '<div class="board">';
-        pins.forEach((pin, i) => {
-          if (pin.type === 'rex-note') {
-            html += `<div class="pin pin--rex" style="transform:rotate(${(i%3-1)*0.8}deg)">
-              <div class="pin-content">
-                <div class="pin-type">🔍 Rex's Take</div>
-                <div class="pin-date">${pin.date || ''}</div>
-                <div class="pin-body">${pin.body}</div>
-              </div>
-            </div>`;
-            return;
-          }
+        if (!pin.image) return;
 
-          const heroClass = pin.hero ? ' pin--hero' : '';
-          const imgHtml = pin.image
-            ? `<img class="pin-image" src="${pin.image}" alt="${pin.title || ''}" loading="lazy" onerror="this.style.display='none'">`
-            : '';
-          const tagsHtml = (pin.tags || []).map(t => `<span class="pin-tag">${t}</span>`).join('');
-          const linkHtml = pin.link
-            ? `<a class="pin-link" href="${pin.link}" target="_blank" style="color:${dir.color}">${pin.linkText || 'Link'} →</a>`
-            : '';
-
-          const typeLabels = { trend: '趋势 / Trend', case: '案例 / Case', direction: '方向 / Direction', product: '产品 / Product' };
-
-          html += `<div class="pin${heroClass}" style="transform:rotate(${((i*7+3)%5-2)*0.5}deg)">
-            ${imgHtml}
-            <div class="pin-content">
-              <div class="pin-type">${typeLabels[pin.type] || pin.type}</div>
-              <div class="pin-date">${pin.date || ''}</div>
-              <div class="pin-title" style="color:${dir.color}">${pin.title}</div>
-              <div class="pin-body">${pin.body}</div>
-              <div class="pin-tags">${tagsHtml}</div>
-              ${linkHtml}
-            </div>
-          </div>`;
-        });
-        html += '</div></div>';
+        html += `<div class="tile" onclick="openModal(${idx})">
+          <img src="${pin.image}" alt="${pin.title || ''}" loading="lazy"
+               onerror="this.parentElement.style.display='none'">
+          <div class="tile-overlay">
+            <div class="tile-direction" style="color:${color}">${dirName}</div>
+            <div class="tile-title">${pin.title || ''}</div>
+            <div class="tile-type">${typeLabels[pin.type] || pin.type}</div>
+          </div>
+        </div>`;
       });
 
-      container.innerHTML = html;
+      board.innerHTML = html;
     }
 
-    // Build subnav from data
+    function openModal(idx) {
+      // Flatten pins for indexing
+      const dirs = currentFilter === 'all'
+        ? allData.directions
+        : allData.directions.filter(d => d.id === currentFilter);
+
+      let allPins = [];
+      dirs.forEach(dir => {
+        allPins.push(...allData.pins.filter(p => p.direction === dir.id));
+      });
+      if (currentFilter === 'all' && dirs.length > 1) {
+        const byDir = {};
+        dirs.forEach(d => byDir[d.id] = []);
+        allData.pins.forEach(p => { if (byDir[p.direction]) byDir[p.direction].push(p); });
+        allPins = [];
+        const keys = Object.keys(byDir);
+        const maxLen = Math.max(...keys.map(k => byDir[k].length));
+        for (let i = 0; i < maxLen; i++) {
+          keys.forEach(k => { if (byDir[k][i]) allPins.push(byDir[k][i]); });
+        }
+      }
+
+      const pin = allPins[idx];
+      if (!pin || pin.type === 'rex-note') return;
+
+      const color = getDirColor(pin.direction);
+      const dirName = getDirName(pin.direction);
+      const typeLabels = { trend: 'Trend', case: 'Case', direction: 'Direction', product: 'Product' };
+
+      let content = '';
+      if (pin.image) content += `<img src="${pin.image}" alt="">`;
+      content += `<div class="modal-body">`;
+      content += `<div class="modal-direction" style="color:${color}">${dirName} · ${typeLabels[pin.type] || pin.type}</div>`;
+      content += `<div class="modal-title" style="color:${color}">${pin.title || ''}</div>`;
+      content += `<div class="modal-text">${pin.body || ''}</div>`;
+      if (pin.tags && pin.tags.length) {
+        content += '<div class="modal-tags">' + pin.tags.map(t => `<span class="modal-tag">${t}</span>`).join('') + '</div>';
+      }
+      if (pin.link) {
+        content += `<a class="modal-link" href="${pin.link}" target="_blank" style="border-color:${color}40;color:${color}">${pin.linkText || 'Source'} →</a>`;
+      }
+      content += `<div class="modal-date">${pin.date || ''}</div>`;
+      content += '</div>';
+
+      document.getElementById('modalContent').innerHTML = content;
+      document.getElementById('modal').classList.add('open');
+      document.getElementById('modalBg').classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeModal() {
+      document.getElementById('modal').classList.remove('open');
+      document.getElementById('modalBg').classList.remove('open');
+      document.body.style.overflow = '';
+    }
+
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
     function buildSubnav(data) {
-      const sub = document.querySelector('#nav-inspire .nav-sub');
-      let btns = '<button class="active" onclick="filterDirection(\'all\',this)">All</button>';
+      const sub = document.getElementById('subnav');
+      let html = '<button class="active" onclick="filterDir(\'all\',this)">All</button>';
       data.directions.forEach(d => {
-        btns += `<button onclick="filterDirection('${d.id}',this)">${d.name}</button>`;
+        html += `<button onclick="filterDir('${d.id}',this)">${d.name}</button>`;
       });
-      sub.innerHTML = btns;
+      sub.innerHTML = html;
     }
 
-    // Load
     fetch('inspire.json?' + Date.now())
       .then(r => r.json())
       .then(data => {
@@ -456,8 +543,8 @@
         buildSubnav(data);
         render();
       })
-      .catch(() => {
-        document.getElementById('content').innerHTML = '<div class="loading">Failed to load pins.</div>';
+      .catch(e => {
+        document.getElementById('board').innerHTML = '<div class="loading">Failed to load. ' + e.message + '</div>';
       });
   </script>
 
