@@ -6,9 +6,18 @@
       "label": "Direction 01",
       "color": "#00d4aa",
       "stats": [
-        { "number": "72%", "label": "Fintech 用户更信任有 AI 解释的投资建议" },
-        { "number": "$3.5T", "label": "2026 全球数字支付交易规模" },
-        { "number": "85%+", "label": "Figma Make 生成 Fintech 代码的复用率" }
+        {
+          "number": "72%",
+          "label": "Fintech 用户更信任有 AI 解释的投资建议"
+        },
+        {
+          "number": "$3.5T",
+          "label": "2026 全球数字支付交易规模"
+        },
+        {
+          "number": "85%+",
+          "label": "Figma Make 生成 Fintech 代码的复用率"
+        }
       ]
     },
     {
@@ -17,9 +26,18 @@
       "label": "Direction 02",
       "color": "#ff6b35",
       "stats": [
-        { "number": "70%", "label": "运动可穿戴数据被 AI 二次分析的比例" },
-        { "number": "$9.2B", "label": "2026 全球运动科技市场规模" },
-        { "number": "3x", "label": "AI 教练用户留存率 vs 传统健身 App" }
+        {
+          "number": "70%",
+          "label": "运动可穿戴数据被 AI 二次分析的比例"
+        },
+        {
+          "number": "$9.2B",
+          "label": "2026 全球运动科技市场规模"
+        },
+        {
+          "number": "3x",
+          "label": "AI 教练用户留存率 vs 传统健身 App"
+        }
       ]
     }
   ],
@@ -29,8 +47,12 @@
       "type": "trend",
       "hero": true,
       "title": "Conversational Finance：对话式金融界面成为主流",
-      "body": "传统金融 Dashboard 正在被对话式 AI 界面取代。用户不再需要读懂折线图——直接问"我这个月花太多了吗？"就能获得带上下文的回答。Revolut、Mercury 等产品已经将 AI 对话嵌入核心交互，而非作为附加功能。设计挑战：如何让 AI 回答看起来"可信"而非"推销"。",
-      "tags": ["Conversational UI", "Trust Design", "AI Assistant"],
+      "body": "传统金融 Dashboard 正在被对话式 AI 界面取代。用户不再需要读懂折线图——直接问“我这个月花太多了吗？”就能获得带上下文的回答。Revolut、Mercury 等产品已经将 AI 对话嵌入核心交互，而非作为附加功能。设计挑战：如何让 AI 回答看起来“可信”而非“推销”。",
+      "tags": [
+        "Conversational UI",
+        "Trust Design",
+        "AI Assistant"
+      ],
       "link": "https://www.eleken.co/blog-posts/modern-fintech-design-guide",
       "linkText": "Eleken Fintech Guide",
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
@@ -47,7 +69,11 @@
       "type": "case",
       "title": "Fynix — AI 驱动的财务 Dashboard",
       "body": "收入/支出/储蓄一目了然，AI 自动生成 insight 摘要。深色系 + 绿色数据可视化，信息密度高但不拥挤。值得注意的设计决策：把 AI 建议放在卡片最顶部而非底部。",
-      "tags": ["Dashboard", "SaaS", "Dark UI"],
+      "tags": [
+        "Dashboard",
+        "SaaS",
+        "Dark UI"
+      ],
       "link": "https://www.behance.net/gallery/234937291/AI-Finance-Management-SaaS-UX-UI-DashboardDesign",
       "linkText": "Behance",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4d5c9f234937291.66e1a9f4e2a1a.jpg",
@@ -57,8 +83,12 @@
       "direction": "finance",
       "type": "case",
       "title": "AI Financial Assistant — 个人理财 App",
-      "body": "AI 驱动的消费追踪 + 投资建议。亮点是"Why"功能：每个 AI 建议都附带可展开的解释链。设计上用渐变光晕暗示 AI 正在思考，比传统 loading spinner 更有"智能感"。",
-      "tags": ["Mobile", "Explainable AI", "Gradient"],
+      "body": "AI 驱动的消费追踪 + 投资建议。亮点是“Why”功能：每个 AI 建议都附带可展开的解释链。设计上用渐变光晕暗示 AI 正在思考，比传统 loading spinner 更有“智能感”。",
+      "tags": [
+        "Mobile",
+        "Explainable AI",
+        "Gradient"
+      ],
       "link": "https://www.behance.net/gallery/234235215/AI-Finance-Assistant-Finance-App-UIUX-Design",
       "linkText": "Behance",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0a6a47234235215.66d9b3e5c1f3d.jpg",
@@ -68,8 +98,12 @@
       "direction": "finance",
       "type": "trend",
       "title": "Biometric UX：无密码金融体验",
-      "body": "2026 年 Fintech 的安全设计从"防御式"转向"无感式"。面部识别 + 行为生物特征（打字节奏、滑动力度）取代传统密码。设计师的新任务：让安全"看不见"但让用户"感受到安全"。",
-      "tags": ["Security UX", "Biometric", "Invisible Design"],
+      "body": "2026 年 Fintech 的安全设计从“防御式”转向“无感式”。面部识别 + 行为生物特征（打字节奏、滑动力度）取代传统密码。设计师的新任务：让安全“看不见”但让用户“感受到安全”。",
+      "tags": [
+        "Security UX",
+        "Biometric",
+        "Invisible Design"
+      ],
       "link": "https://fuselabcreative.com/fintech-ux-design-guide-2026-user-experience/",
       "linkText": "Fuselab Guide",
       "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
@@ -79,8 +113,12 @@
       "direction": "finance",
       "type": "direction",
       "title": "Predictive UX：在用户行动前设计",
-      "body": "AI 根据消费模式预判用户下一步需求：月底自动显示预算警告，发薪日推送投资机会，异常消费实时弹出确认。设计从"响应式"变成"预测式"——界面在你需要之前就准备好了。",
-      "tags": ["Predictive", "Proactive Design", "Context-Aware"],
+      "body": "AI 根据消费模式预判用户下一步需求：月底自动显示预算警告，发薪日推送投资机会，异常消费实时弹出确认。设计从“响应式”变成“预测式”——界面在你需要之前就准备好了。",
+      "tags": [
+        "Predictive",
+        "Proactive Design",
+        "Context-Aware"
+      ],
       "link": "https://medium.com/@focotik.agency/what-ui-ux-will-look-like-in-2026-2527495f3360",
       "linkText": "Medium",
       "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
@@ -91,7 +129,11 @@
       "type": "case",
       "title": "PayU Finance CRM — 企业级金融后台",
       "body": "B2B 金融 CRM 的设计参考。大量表格和数据但通过 AI 摘要层做了降噪。配色克制（深灰 + 蓝色高亮），信息层级清晰。企业级 AI 设计的关键：不要花哨，要可靠。",
-      "tags": ["B2B", "CRM", "Enterprise"],
+      "tags": [
+        "B2B",
+        "CRM",
+        "Enterprise"
+      ],
       "link": "https://www.behance.net/gallery/240885549/PayU-Finance-CRM-UX-UI-Dashboard-Design",
       "linkText": "Behance",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b7e8f0240885549.6756a8d4e3b2c.jpg",
@@ -102,8 +144,12 @@
       "type": "trend",
       "hero": true,
       "title": "Agentic Fitness：AI 教练从建议者变成执行者",
-      "body": "2026 年健身 App 的 AI 不再只是"推荐训练计划"——它实时监控你的心率、睡眠、恢复状态，自动调整今天的训练强度，甚至帮你预约运动按摩。从 Chatbot → Co-pilot → Agent 的跃迁，设计挑战是：如何让用户信任一个"替你做决定"的 AI，而不是觉得失控。",
-      "tags": ["Agentic AI", "Trust", "Autonomy"],
+      "body": "2026 年健身 App 的 AI 不再只是推荐训练计划——它实时监控你的心率、睡眠、恢复状态，自动调整今天的训练强度。从 Chatbot → Co-pilot → Agent 的跃迁，设计挑战是：如何让用户信任一个“替你做决定”的 AI，而不是觉得失控。",
+      "tags": [
+        "Agentic AI",
+        "Trust",
+        "Autonomy"
+      ],
       "link": "https://www.8ration.com/blogs/agentic-ai-fitness-apps/",
       "linkText": "8ration",
       "image": "https://images.unsplash.com/photo-1576678927484-cc907957088c?w=800&q=80",
@@ -112,7 +158,7 @@
     {
       "direction": "sports",
       "type": "rex-note",
-      "body": "运动科技设计有个有趣的张力：数据越多，用户越焦虑。Whoop 和 Oura 的成功不是因为它们给了更多数据，而是因为它们把数据翻译成了一个数字（Readiness Score）。最好的运动 AI 设计是做减法的——把 47 个指标压缩成"今天该练还是该休息"。",
+      "body": "运动科技设计有个有趣的张力：数据越多，用户越焦虑。Whoop 和 Oura 的成功不是因为它们给了更多数据，而是因为它们把数据翻译成了一个数字（Readiness Score）。最好的运动 AI 设计是做减法的——把 47 个指标压缩成“今天该练还是该休息”。",
       "date": "2026-03-11"
     },
     {
@@ -120,10 +166,14 @@
       "type": "case",
       "title": "AI Fitness App — 全链路运动助手",
       "body": "Figma 设计稿展示了从计划制定到动作纠正到恢复建议的完整 AI 闭环。视觉上用大面积运动摄影 + 半透明数据覆盖层，既有活力又有科技感。动作纠正界面用骨骼线叠加实时视频。",
-      "tags": ["Full Stack", "Computer Vision", "Mobile"],
+      "tags": [
+        "Full Stack",
+        "Computer Vision",
+        "Mobile"
+      ],
       "link": "https://www.behance.net/gallery/233083443/AI-Fitness-App-UIUX-Design",
       "linkText": "Behance",
-      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a1b2c3233083443.66b5a7d8e9f0a.jpg",
+      "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
       "date": "2026-03-11"
     },
     {
@@ -131,7 +181,11 @@
       "type": "product",
       "title": "Whoop 5.0 — 极简数据设计的标杆",
       "body": "没有屏幕的可穿戴设备，所有数据在 App 端呈现。设计哲学：屏幕越少越好，决策越简单越好。Recovery Score 用红黄绿三色让用户秒懂。2026 版新增 AI 教练语音摘要——早上戴上耳机就知道今天身体状态。",
-      "tags": ["Wearable", "Minimal", "Voice UI"],
+      "tags": [
+        "Wearable",
+        "Minimal",
+        "Voice UI"
+      ],
       "link": "https://www.oreateai.com/blog/beyond-the-numbers-what-2025s-wearable-tech-tells-us-about-peak-performance/fb0e0935abff30d99dcb0a03a749eabd",
       "linkText": "Oreate AI",
       "image": "https://images.unsplash.com/photo-1617042375876-a13e36732a04?w=800&q=80",
@@ -141,8 +195,12 @@
       "direction": "sports",
       "type": "trend",
       "title": "运动数据可视化：从仪表盘到叙事",
-      "body": "Strava 年度回顾（Wrapped）开创了"数据叙事"设计范式。2026 年趋势是把每次训练都变成一个"故事"：AI 自动生成训练报告，带配速曲线、心率区间可视化和个人最佳高亮。设计从展示数据到讲述数据。",
-      "tags": ["Data Storytelling", "Visualization", "Narrative UX"],
+      "body": "Strava 年度回顾（Wrapped）开创了“数据叙事”设计范式。2026 年趋势是把每次训练都变成一个“故事”：AI 自动生成训练报告，带配速曲线、心率区间可视化和个人最佳高亮。设计从展示数据到讲述数据。",
+      "tags": [
+        "Data Storytelling",
+        "Visualization",
+        "Narrative UX"
+      ],
       "link": "https://dribbble.com/search/sports-ai",
       "linkText": "Dribbble",
       "image": "https://images.unsplash.com/photo-1461896836934-bd45ba8fcf9b?w=800&q=80",
@@ -153,7 +211,11 @@
       "type": "direction",
       "title": "Social × AI：运动社交的下一步",
       "body": "AI 根据你的水平、位置、训练偏好自动匹配跑友/球友。界面设计像 dating app 但围绕运动数据：不是看脸，是看配速兼容性和训练时段重叠度。隐私设计是关键——分享多少数据，由用户控制。",
-      "tags": ["Social", "Matching", "Privacy"],
+      "tags": [
+        "Social",
+        "Matching",
+        "Privacy"
+      ],
       "link": "https://dribbble.com/tags/ai-sports",
       "linkText": "Dribbble",
       "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=800&q=80",
@@ -164,7 +226,11 @@
       "type": "case",
       "title": "AI Sports Betting — 数据驱动的赛事预测界面",
       "body": "AI 预测 + 实时赔率可视化。设计上大量使用微动画传达数据变化（赔率跳动、概率条滑动）。深色界面 + 高饱和强调色。值得研究的设计模式：如何在信息爆炸的实时场景中维持视觉秩序。",
-      "tags": ["Real-time", "Data Dense", "Micro-animation"],
+      "tags": [
+        "Real-time",
+        "Data Dense",
+        "Micro-animation"
+      ],
       "link": "https://dribbble.com/shots/27088488-Ai-sports-betting-app-design",
       "linkText": "Dribbble",
       "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&q=80",
