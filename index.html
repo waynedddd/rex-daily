@@ -44,21 +44,68 @@
 
     .topbar > * { pointer-events: auto; }
 
-    /* ── Sub nav (topic filter) ── */
-    .subnav {
-      position: fixed;
-      top: 50px;
-      left: 0; right: 0;
-      z-index: 99;
-      display: flex;
-      justify-content: center;
+    /* ── Expandable nav group ── */
+    .nav-group {
+      display: inline-flex;
       align-items: center;
-      padding: 8px 24px;
-      gap: 8px;
-      pointer-events: none;
+      gap: 0;
+      border: 1px solid rgba(255,255,255,0.15);
+      border-radius: 999px;
+      overflow: hidden;
+      transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
     }
 
-    .subnav > * { pointer-events: auto; }
+    .nav-group .nav-main {
+      background: rgba(255,255,255,0.1);
+      color: rgba(255,255,255,0.85);
+      font-family: var(--font);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      padding: 6px 14px;
+      border: none;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.3s;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    .nav-group .nav-sub {
+      display: inline-flex;
+      max-width: 0;
+      overflow: hidden;
+      transition: max-width 0.4s cubic-bezier(0.23, 1, 0.32, 1), padding 0.4s;
+      gap: 0;
+    }
+
+    .nav-group.expanded .nav-sub {
+      max-width: 300px;
+    }
+
+    .nav-group .nav-sub button {
+      background: none;
+      border: none;
+      border-left: 1px solid rgba(255,255,255,0.08);
+      color: rgba(255,255,255,0.4);
+      font-family: var(--font);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      padding: 6px 12px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.3s;
+    }
+
+    .nav-group .nav-sub button:hover {
+      color: rgba(255,255,255,0.7);
+    }
+
+    .nav-group .nav-sub button.active {
+      color: rgba(255,255,255,0.9);
+      background: rgba(255,255,255,0.06);
+    }
 
     .logo {
       font-family: var(--font);
@@ -617,16 +664,17 @@
   <div class="topbar">
     <div class="logo">Rex Daily</div>
     <div class="controls">
-      <a href="index.html" class="ctrl-btn active" style="text-decoration:none;display:inline-block;">Daily</a>
+      <div class="nav-group expanded" id="nav-daily">
+        <span class="nav-main" onclick="toggleNav('nav-daily')">Daily</span>
+        <div class="nav-sub">
+          <button class="active" data-section="all" onclick="setSection('all')">All</button>
+          <button data-section="design" onclick="setSection('design')">Design</button>
+          <button data-section="tech" onclick="setSection('tech')">Tech</button>
+        </div>
+      </div>
       <a href="inspire.html" class="ctrl-btn" style="text-decoration:none;display:inline-block;">Inspire</a>
       <button class="ctrl-btn" data-lang="true" onclick="toggleLang()">EN</button>
     </div>
-  </div>
-
-  <div class="subnav">
-    <button class="ctrl-btn active" data-section="all" onclick="setSection('all')">All</button>
-    <button class="ctrl-btn" data-section="design" onclick="setSection('design')">Design</button>
-    <button class="ctrl-btn" data-section="tech" onclick="setSection('tech')">Tech</button>
   </div>
 
   <div class="scene" id="scene">
@@ -651,6 +699,10 @@
   </div>
 
   <script>
+    function toggleNav(id) {
+      document.getElementById(id).classList.toggle('expanded');
+    }
+
     let issuesData = [];
     let filtered = [];
     let currentIndex = 0;
