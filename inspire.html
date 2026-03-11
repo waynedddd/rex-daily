@@ -74,6 +74,38 @@
     .nav-group .nav-sub button:hover { color: rgba(255,255,255,0.7); }
     .nav-group .nav-sub button.active { color: rgba(255,255,255,0.9); background: rgba(255,255,255,0.06); }
 
+    /* ── Section header ── */
+    .board-section {
+      padding: 0 8px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .board-section:first-child { padding-top: 64px; }
+
+    .section-header {
+      display: flex;
+      align-items: baseline;
+      gap: 14px;
+      padding: 48px 0 16px;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      margin-bottom: 16px;
+    }
+
+    .board-section:first-child .section-header { padding-top: 8px; }
+
+    .section-name {
+      font-size: 24px;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+    }
+
+    .section-count {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      opacity: 0.25;
+    }
+
     /* ── Moodboard ── */
     .moodboard {
       padding: 64px 8px 60px;
@@ -360,7 +392,7 @@
     </div>
   </div>
 
-  <div class="moodboard" id="board">
+  <div id="boards">
     <div class="loading">Loading...</div>
   </div>
 
@@ -396,92 +428,65 @@
       return d ? d.name : '';
     }
 
+    // Global pin index for modal
+    let flatPins = [];
+
     function render() {
       if (!allData) return;
-      const board = document.getElementById('board');
+      const container = document.getElementById('boards');
+      flatPins = [];
 
       const dirs = currentFilter === 'all'
         ? allData.directions
         : allData.directions.filter(d => d.id === currentFilter);
 
-      // Collect all pins across selected directions, interleave for visual variety
-      let allPins = [];
+      let html = '';
+
       dirs.forEach(dir => {
         const pins = allData.pins
           .filter(p => p.direction === dir.id)
           .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-        allPins.push(...pins);
-      });
 
-      // If showing all, interleave directions for color variety
-      if (currentFilter === 'all' && dirs.length > 1) {
-        const byDir = {};
-        dirs.forEach(d => byDir[d.id] = []);
-        allPins.forEach(p => byDir[p.direction].push(p));
-        allPins = [];
-        const keys = Object.keys(byDir);
-        const maxLen = Math.max(...keys.map(k => byDir[k].length));
-        for (let i = 0; i < maxLen; i++) {
-          keys.forEach(k => {
-            if (byDir[k][i]) allPins.push(byDir[k][i]);
-          });
-        }
-      }
+        const imgPins = pins.filter(p => p.type !== 'rex-note' && p.image);
+        const rexNotes = pins.filter(p => p.type === 'rex-note');
 
-      let html = '';
-      const typeLabels = { trend: 'Trend', case: 'Case', direction: 'Direction', product: 'Product' };
+        html += `<div class="board-section">`;
+        html += `<div class="section-header">
+          <h2 class="section-name" style="color:${dir.color}">${dir.name}</h2>
+          <span class="section-count">${imgPins.length} shots</span>
+        </div>`;
+        html += `<div class="moodboard">`;
 
-      allPins.forEach((pin, idx) => {
-        const color = getDirColor(pin.direction);
-        const dirName = getDirName(pin.direction);
+        imgPins.forEach(pin => {
+          const globalIdx = flatPins.length;
+          flatPins.push(pin);
 
-        if (pin.type === 'rex-note') {
+          html += `<div class="tile" onclick="openModal(${globalIdx})">
+            <img src="${pin.image}" alt="${pin.title || ''}" loading="lazy"
+                 onerror="this.parentElement.style.display='none'">
+            <div class="tile-overlay">
+              <div class="tile-title">${pin.title || ''}</div>
+            </div>
+          </div>`;
+        });
+
+        // Insert rex notes as text tiles
+        rexNotes.forEach(pin => {
           html += `<div class="tile tile--rex">
-            <div class="rex-label">🔍 Rex\u2019s Take</div>
+            <div class="rex-label">🔍 Rex's Take</div>
             <div class="rex-body">${pin.body}</div>
           </div>`;
-          return;
-        }
+        });
 
-        if (!pin.image) return;
-
-        html += `<div class="tile" onclick="openModal(${idx})">
-          <img src="${pin.image}" alt="${pin.title || ''}" loading="lazy"
-               onerror="this.parentElement.style.display='none'">
-          <div class="tile-overlay">
-            <div class="tile-direction" style="color:${color}">${dirName}</div>
-            <div class="tile-title">${pin.title || ''}</div>
-          </div>
-        </div>`;
+        html += '</div></div>';
       });
 
-      board.innerHTML = html;
+      container.innerHTML = html;
     }
 
     function openModal(idx) {
-      // Flatten pins for indexing
-      const dirs = currentFilter === 'all'
-        ? allData.directions
-        : allData.directions.filter(d => d.id === currentFilter);
-
-      let allPins = [];
-      dirs.forEach(dir => {
-        allPins.push(...allData.pins.filter(p => p.direction === dir.id));
-      });
-      if (currentFilter === 'all' && dirs.length > 1) {
-        const byDir = {};
-        dirs.forEach(d => byDir[d.id] = []);
-        allData.pins.forEach(p => { if (byDir[p.direction]) byDir[p.direction].push(p); });
-        allPins = [];
-        const keys = Object.keys(byDir);
-        const maxLen = Math.max(...keys.map(k => byDir[k].length));
-        for (let i = 0; i < maxLen; i++) {
-          keys.forEach(k => { if (byDir[k][i]) allPins.push(byDir[k][i]); });
-        }
-      }
-
-      const pin = allPins[idx];
-      if (!pin || pin.type === 'rex-note') return;
+      const pin = flatPins[idx];
+      if (!pin) return;
 
       const color = getDirColor(pin.direction);
       const dirName = getDirName(pin.direction);

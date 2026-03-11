@@ -233,21 +233,6 @@
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/5497628/file/original-71c10a774bdc8818ea0d0e1acf060e06.png?compress=1&resize=752x",
       "date": "2026-03-11"
-    },
-    {
-      "direction": "finance",
-      "type": "case",
-      "title": "Finance Referral App — Dark Mobile UI",
-      "body": "深色移动端金融仪表盘，收益追踪 + 金融产品探索 + 推荐管理。",
-      "tags": [
-        "Mobile",
-        "Dark Mode",
-        "Referral"
-      ],
-      "link": "https://dribbble.com/shots/26816647",
-      "linkText": "Dribbble",
-      "image": "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/fc89198cbb6a106feddb6ee7624fe63898890731",
-      "date": "2026-03-11"
     }
   ]
 }
