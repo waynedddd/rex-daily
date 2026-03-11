@@ -423,6 +423,8 @@
       currentLang = currentLang === 'zh' ? 'en' : 'zh';
       localStorage.setItem('rex-lang', currentLang);
       document.querySelector('[data-lang]').textContent = currentLang === 'zh' ? 'EN' : '中';
+      document.getElementById('drop-label').textContent = currentFilter === 'all' ? (currentLang === 'en' ? 'All Topics' : '全部') : getDirName(currentFilter);
+      render();
     }
 
     // Init lang button
@@ -433,7 +435,7 @@
       document.querySelectorAll('#subnav .nav-drop-item').forEach(b => b.classList.remove('active'));
       if (el) el.classList.add('active');
       // Update button label
-      const label = dir === 'all' ? 'All Topics' : getDirName(dir);
+      const label = dir === 'all' ? (currentLang === 'en' ? 'All Topics' : '全部') : getDirName(dir);
       document.getElementById('drop-label').textContent = label;
       // Close dropdown
       document.getElementById('nav-inspire').classList.remove('open');
@@ -449,7 +451,13 @@
     function getDirName(id) {
       if (!allData) return '';
       const d = allData.directions.find(d => d.id === id);
-      return d ? d.name : '';
+      if (!d) return '';
+      return (currentLang === 'en' && d.name_en) ? d.name_en : d.name;
+    }
+
+    function t(pin, field) {
+      if (currentLang === 'en' && pin[field + '_en']) return pin[field + '_en'];
+      return pin[field] || '';
     }
 
     // Global pin index for modal
@@ -476,7 +484,7 @@
 
         html += `<div class="board-section">`;
         html += `<div class="section-header">
-          <h2 class="section-name" style="color:${dir.color}">${dir.name}</h2>
+          <h2 class="section-name" style="color:${dir.color}">${(currentLang === 'en' && dir.name_en) ? dir.name_en : dir.name}</h2>
           <span class="section-count">${imgPins.length} shots</span>
         </div>`;
         html += `<div class="moodboard">`;
@@ -498,7 +506,7 @@
         rexNotes.forEach(pin => {
           html += `<div class="tile tile--rex">
             <div class="rex-label">🔍 Rex's Take</div>
-            <div class="rex-body">${pin.body}</div>
+            <div class="rex-body">${t(pin,"body")}</div>
           </div>`;
         });
 
@@ -521,7 +529,7 @@
       content += `<div class="modal-body">`;
       content += `<div class="modal-direction" style="color:${color}">${dirName} · ${typeLabels[pin.type] || pin.type}</div>`;
       content += `<div class="modal-title" style="color:${color}">${pin.title || ''}</div>`;
-      content += `<div class="modal-text">${pin.body || ''}</div>`;
+      content += `<div class="modal-text">${t(pin,'body')}</div>`;
       if (pin.tags && pin.tags.length) {
         content += '<div class="modal-tags">' + pin.tags.map(t => `<span class="modal-tag">${t}</span>`).join('') + '</div>';
       }

@@ -18,7 +18,8 @@
           "number": "85%+",
           "label": "Figma Make 生成 Fintech 代码的复用率"
         }
-      ]
+      ],
+      "name_en": "AI × Finance"
     },
     {
       "id": "sports",
@@ -38,14 +39,16 @@
           "number": "3x",
           "label": "AI 教练用户留存率 vs 传统健身 App"
         }
-      ]
+      ],
+      "name_en": "AI × Sports"
     },
     {
       "id": "cards",
       "name": "Content Design",
       "label": "Direction 03",
       "color": "#a855f7",
-      "stats": []
+      "stats": [],
+      "name_en": "Content Design"
     }
   ],
   "pins": [
@@ -62,7 +65,8 @@
       "link": "https://dribbble.com/shots/26478030",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/44773662/file/7951b885e51c8352e9ea081d4cd80cf4.jpeg?resize=752x&vertical=center",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "AI-powered dark finance dashboard for trading and wallet management. High-contrast data hierarchy makes complex data scannable at a glance."
     },
     {
       "direction": "finance",
@@ -77,7 +81,8 @@
       "link": "https://dribbble.com/shots/26810839",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/users/1615584/screenshots/15543862/media/d42dff0989657d431d2e1dd218c46582.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Dark high-contrast visual system with subtle depth and clear data hierarchy, making complex insights easy to scan."
     },
     {
       "direction": "finance",
@@ -92,13 +97,15 @@
       "link": "https://www.behance.net/gallery/234937291/AI-Finance-Management-SaaS-UX-UI-DashboardDesign",
       "linkText": "Behance",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/c15f16187634517.658d0300ab180.png",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Income/expenses/savings at a glance, AI auto-generates insight summaries. Dark theme + green data visualization."
     },
     {
       "direction": "finance",
       "type": "rex-note",
       "body": "金融设计的核心矛盾：用户想要简单，但金融本质复杂。AI 不是来消灭复杂性的，是来当翻译的。Mercury 的设计之所以好，是因为它假设用户聪明但忙。",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "The core tension in finance design: users want simplicity, but finance is inherently complex. AI isn't here to eliminate complexity — it's here to translate it. Mercury's design works because it assumes users are smart but busy."
     },
     {
       "direction": "finance",
@@ -113,7 +120,8 @@
       "link": "https://dribbble.com/search/fintech-mobile-app",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/13011080/file/original-ff151f597ffd2835fd8224b0b51a5360.png?resize=1600x1200",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Mobile fintech interface with AI assistant embedded in core interaction flows."
     },
     {
       "direction": "finance",
@@ -128,7 +136,8 @@
       "link": "https://dribbble.com/shots/26330180",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/8240015/file/original-32d0389365bc3e08fc7263628ea34106.jpeg?resize=1200x900",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "AI insight cards + clean sidebar nav + export features — an actionable financial analytics interface."
     },
     {
       "direction": "finance",
@@ -143,7 +152,8 @@
       "link": "https://www.behance.net/gallery/234235215/AI-Finance-Assistant-Finance-App-UIUX-Design",
       "linkText": "Behance",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1fe8c1206550685.66ce5e7f121b9.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Every AI suggestion comes with an expandable explanation chain. Gradient glow hints at AI thinking state."
     },
     {
       "direction": "finance",
@@ -158,7 +168,8 @@
       "link": "https://www.behance.net/gallery/240885549/PayU-Finance-CRM-UX-UI-Dashboard-Design",
       "linkText": "Behance",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/9cc634201776191.667ab5f4bc397.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Minimal finance backend with restrained color palette and crystal-clear information hierarchy."
     },
     {
       "direction": "sports",
@@ -173,7 +184,8 @@
       "link": "https://dribbble.com/shots/26451245",
       "linkText": "Dribbble",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/2be9a4208627167.66f21d403d144.png",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Progress tracking + wearable integration + real-time AI training adjustments — a complete sports AI experience."
     },
     {
       "direction": "sports",
@@ -188,13 +200,15 @@
       "link": "https://dribbble.com/shots/26368850",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/16660781/file/original-6570d91dc6cdf2b97bf7871c25c4ac7f.png?resize=1200x900",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "AI-driven sport-specific experience, hybrid AI-human coaching mode with real-time posture correction."
     },
     {
       "direction": "sports",
       "type": "rex-note",
       "body": "运动科技设计有个有趣的张力：数据越多，用户越焦虑。Whoop 和 Oura 的成功不是因为给了更多数据，而是把数据翻译成一个数字（Readiness Score）。最好的运动 AI 设计是做减法。",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "An interesting tension in sports tech design: more data = more anxiety. Whoop and Oura succeed not by giving more data, but by translating it into a single number (Readiness Score). The best sports AI design is subtraction."
     },
     {
       "direction": "sports",
@@ -209,7 +223,8 @@
       "link": "https://www.behance.net/gallery/233083443/AI-Fitness-App-UIUX-Design",
       "linkText": "Behance",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1bdb7a208284755.66ebff81181b9.png",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Full AI loop from planning to form correction to recovery. Skeleton overlay on live video."
     },
     {
       "direction": "sports",
@@ -224,7 +239,8 @@
       "link": "https://dribbble.com/shots/26814899",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/35990204/file/original-fd27f5f707e23c9544d8fe455752d168.png?resize=1200x900",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Personal AI fitness tracker with clean, minimal interface design."
     },
     {
       "direction": "sports",
@@ -239,7 +255,8 @@
       "link": "https://dribbble.com/search/sports-ai",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/5497628/file/original-71c10a774bdc8818ea0d0e1acf060e06.png?compress=1&resize=752x",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Sports wearable data visualization panel, multi-dimensional data integration."
     },
     {
       "direction": "cards",
@@ -254,7 +271,8 @@
       "link": "https://dribbble.com/shots/26585321-Product-Card-Glassmorphism-Dark-UI",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/45097754/file/f3cb4d7b396d22dc8adcb6fcbd5d3b8b.png?crop=0x0-1600x1200&format=webp&resize=400x300&vertical=center",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Frosted glass product card on dark background. Nuanced light/shadow with subtle border glow for depth."
     },
     {
       "direction": "cards",
@@ -269,7 +287,8 @@
       "link": "https://dribbble.com/shots/26300624-Dashboard-UI-Bento-Cards",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/42743058/file/original-52bdce8de1644ad423d2ed677d08b86a.png?resize=400x300",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Bento grid dashboard cards — different sized info modules packed like a lunch box. High density yet visually clean."
     },
     {
       "direction": "cards",
@@ -284,7 +303,8 @@
       "link": "https://ui.aceternity.com/components/3d-card-effect",
       "linkText": "Aceternity UI",
       "image": "https://cdn.dribbble.com/userupload/12098603/file/still-b6fad67700090014c743fdaa4644bce0.png?resize=400x0",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Mouse-following 3D tilt card with shadow displacement for depth. Hover triggers layered content float."
     },
     {
       "direction": "cards",
@@ -299,7 +319,8 @@
       "link": "https://dribbble.com/search/card-hover",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/9836617/file/still-9d0308b16f0a647b4420de1cda1609a4.gif?resize=400x0",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Card hover animation collection — from color gradients to element displacement to background particles. Exploring CSS animation possibilities."
     },
     {
       "direction": "cards",
@@ -314,13 +335,15 @@
       "link": "https://dribbble.com/search/glassmorphism-dark-mode",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/users/3274770/screenshots/14772009/media/731e731fd6c915cf5e785899ac3d9ddb.jpg?compress=1&resize=400x300&vertical=top",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Dark frosted glass card design system. Unified radius, opacity and blur — consistent texture language from list to detail to modal."
     },
     {
       "direction": "cards",
       "type": "rex-note",
       "body": "卡片是 UI 设计的原子单位。一张卡片的好坏能看出设计师的全部功力：信息层级、留白节奏、微交互品味。2026 的趋势很明确——扁平已死，质感回归。但质感不是往上堆效果，而是用光影和透明度创造深度感。最高级的卡片设计是让你忘记它是个卡片。",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Cards are the atomic unit of UI design. A single card reveals a designer's full skill: information hierarchy, whitespace rhythm, micro-interaction taste. 2026's trend is clear — flat is dead, texture is back. But texture isn't piling on effects; it's using light and transparency to create depth. The best card design makes you forget it's a card."
     },
     {
       "direction": "cards",
@@ -335,7 +358,8 @@
       "link": "https://dribbble.com/shots/25765472-Bento-grid-dashboard-for-revops-startup",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/44760515/file/7b7d8d3d4188aa951aba4f0d186b3390.jpg?resize=752x&vertical=center",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "RevOps SaaS bento grid layout, mixing card sizes with data viz and action buttons coexisting."
     },
     {
       "direction": "cards",
@@ -350,7 +374,8 @@
       "link": "https://dribbble.com/search/card-glow",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/44778079/file/1bd7b8a53399875d685b71df319e9bec.png?crop=135x0-1994x1394&format=webp&resize=400x300&vertical=center",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Gradient glow border cards, neon texture on dark backgrounds. Border light follows hover position."
     },
     {
       "direction": "cards",
@@ -365,7 +390,8 @@
       "link": "https://dribbble.com/search/card-animation",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/20286378/file/original-f43008241b584e7b11f223f0f49b0fa7.gif",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Card expand/collapse animation with smooth spring easing and content fade-in. FLIP technique for silky layout transitions."
     },
     {
       "direction": "cards",
@@ -380,7 +406,8 @@
       "link": "https://dribbble.com/search/minimal-card-ui",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/45032567/file/ad13e44c08ab6ee6825bd2cfd4dc52d8.png?resize=752x&vertical=center",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Minimal info card — hierarchy built purely on type scale contrast and whitespace. Zero decoration, pure typographic power."
     },
     {
       "direction": "cards",
@@ -395,7 +422,8 @@
       "link": "https://dribbble.com/search/css-card-hover",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/users/8952388/screenshots/16716208/css-card-hover.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "body_en": "Pure CSS card hover effects collection: flip, slide, scale, border animations and more."
     }
   ]
 }
