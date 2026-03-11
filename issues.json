@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-03-11",
+    "section": "design",
+    "title": {
+      "zh": "AI 设计工具从「选哪个」进入「怎么编排」时代 · Design+AI Summit 定档 · 伦理使用成行业议题",
+      "en": "AI Design Tools Shift from 'Which One' to 'How to Orchestrate' · Design+AI Summit Announced · Ethical AI Use Enters Industry Discourse"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Phygital+ 提出「Pipeline 优于 Prompt」方法论</strong> — 不再逐个评测工具，而是构建多工具自动化流水线：Figma AI 做工具内自动化 → Galileo AI/Uizard 生成初稿 → Phygital+ 做多资产一致性生产。核心观点：<strong>设计 AI 的价值不在单点工具，而在工具间的编排能力。</strong>这是继 Toools.design 横评后，行业对「工具泛滥」的第一个系统性回应。<br><small>来源：<a href=\"https://phygital.plus/blog/best-ai-tools-for-designers/\">AI for Designers: 10 Best Tools in 2026 - Phygital+</a></small></li><li><strong>Design + AI Summit 2026 定档</strong> — CreativePro 官宣两期线上峰会（4月9-10日 / 9月17-18日），聚焦 Adobe Firefly 最新更新、Photoshop/Illustrator/InDesign AI 功能实战、AI 视频工作流、跨应用生产自动化。<strong>InDesign 新增 AI 生成 alt text 功能</strong>，将无障碍设计融入日常工作流。<br><small>来源：<a href=\"https://creativepro.com/event/design-ai-summit-2026/\">Design + AI Summit 2026 - CreativePro</a></small></li><li><strong>加拿大 RGD 发文呼吁设计师关注 AI 伦理</strong> — 强调 AI 工具在训练数据、授权和治理方面差异巨大，设计师应在使用前审查每个工具的条款、数据政策和许可条件。Adobe Firefly 被作为「嵌入专业软件的生成式 AI」正面案例引用。<br><small>来源：<a href=\"https://rgd.ca/articles/2026-amplifying-creativity-with-ai-tools-for-designers-in-2026\">Amplifying Creativity with AI Tools - RGD</a></small></li><li><strong>Muzli 推出「AI 设计栈构建指南」</strong> — 教设计师如何在保持设计系统一致性的前提下，搭建自己的 AI 工具组合。核心框架：生成层（prompt-to-UI）+ 测试层（Attention Insight）+ 精修层（Figma）+ 文案层（AI copywriting）。<br><small>来源：<a href=\"https://medium.muz.li/best-ai-design-tools-for-ui-ux-designers-in-2026-54ecd8d8dee2\">How to Build Your AI Design Stack - Muzli</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>从「工具评测」到「工作流编排」</strong>：行业话语正在转变</li><li><strong>Adobe Firefly 持续深化</strong>：Summit 聚焦跨应用 AI 协作</li><li><strong>伦理维度浮出水面</strong>：训练数据透明度和授权合规成为采购决策因素</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>今天的信号很明确：AI 设计工具市场正在从「混战」进入「编排」阶段。</strong></p><p>昨天我们聊 Google Stitch vs Figma Make vs Motiff 的三方混战，今天 Phygital+ 直接跳出了「谁更好」的框架，提出了一个更高维度的问题：<strong>你不需要最好的工具，你需要最好的 pipeline。</strong>这不是语义游戏——这是设计工具市场成熟的标志。想想软件开发的历史：没人争论 Git vs SVN 了，大家关心的是 CI/CD pipeline 怎么搭。设计正在走同样的路。</p><p>Design + AI Summit 的议程也印证了这一点：Adobe 不再只展示单个功能，而是强调「跨应用 AI 协作」。InDesign 的 AI alt text 功能看似小事，实际上是一个重要信号——<strong>AI 正在渗透到设计的非核心环节（无障碍、文档、标注），这些恰恰是设计师最不愿意花时间、但又不得不做的事。</strong>真正的效率提升往往发生在这些「无聊」的环节，而不是酷炫的 prompt-to-UI。</p><p>最值得关注的是 RGD 的伦理呼吁。当行业协会开始讨论 AI 工具的训练数据透明度和授权合规，这意味着什么？意味着<strong>采购决策正在从「功能对比」转向「治理对比」。</strong>未来，能清楚说明训练数据来源、提供明确商业授权的工具会拿到企业级客户。这对 Adobe Firefly 是利好——它的合规叙事一直很清晰；对那些依赖 Stable Diffusion 的小工具来说，这可能是护城河还不够深的信号。</p><p><strong>我的预测：下半年会出现第一个「AI 设计 pipeline 编排工具」——不生成设计，而是串联和管理你的所有 AI 设计工具。这个品类目前还不存在，但需求已经清晰可见。</strong></p></div>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Phygital+ Proposes \"Pipeline Over Prompt\" Methodology</strong> — Instead of reviewing individual tools, build multi-tool automation pipelines: Figma AI for in-tool automation → Galileo AI/Uizard for drafts → Phygital+ for consistent multi-asset production. The value is in orchestration, not single tools.<br><small>Source: <a href=\"https://phygital.plus/blog/best-ai-tools-for-designers/\">AI for Designers: 10 Best Tools - Phygital+</a></small></li><li><strong>Design + AI Summit 2026 Announced</strong> — CreativePro schedules two online events (Apr 9-10 / Sep 17-18). Focus: Adobe Firefly updates, AI features across Photoshop/Illustrator/InDesign, AI video workflows. InDesign adds AI-generated alt text.<br><small>Source: <a href=\"https://creativepro.com/event/design-ai-summit-2026/\">Design + AI Summit 2026 - CreativePro</a></small></li><li><strong>RGD Calls for Ethical AI Use in Design</strong> — Highlights vast differences in training data, licensing, and governance across AI tools. Designers should review terms before client-facing work.<br><small>Source: <a href=\"https://rgd.ca/articles/2026-amplifying-creativity-with-ai-tools-for-designers-in-2026\">Amplifying Creativity with AI - RGD</a></small></li><li><strong>Muzli Publishes AI Design Stack Guide</strong> — Framework: generation layer (prompt-to-UI) + testing layer (Attention Insight) + polish layer (Figma) + copy layer (AI writing).<br><small>Source: <a href=\"https://medium.muz.li/best-ai-design-tools-for-ui-ux-designers-in-2026-54ecd8d8dee2\">How to Build Your AI Design Stack - Muzli</a></small></li></ul><h3>🔄 Trends</h3><ul><li>Industry discourse shifting from \"tool reviews\" to \"workflow orchestration\"</li><li>Adobe Firefly deepening cross-app AI collaboration</li><li>Ethics and training data transparency becoming procurement factors</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>The AI design tool market is entering its \"orchestration\" phase.</strong> Phygital+ skips the \"which is best\" debate entirely, proposing pipeline thinking instead. This mirrors software dev history: nobody debates Git vs SVN anymore — it's about CI/CD. Design is following the same arc. Adobe's Summit agenda confirms it: cross-app AI collaboration, not single features. The RGD ethics call signals procurement shifting from feature comparison to governance comparison — good for Adobe Firefly's compliance narrative, challenging for Stable Diffusion-dependent tools. Prediction: H2 2026 sees the first \"AI design pipeline orchestration tool\" — not generating designs, but managing all your AI design tools.</p></div>"
+    },
+    "cover": "https://phygital.plus/wp-content/uploads/2026/02/image_01-4.png",
+    "sources": [
+      {
+        "title": {
+          "zh": "AI for Designers: the 10 Best Tools in 2026 - Phygital+",
+          "en": "AI for Designers: the 10 Best Tools in 2026 - Phygital+"
+        },
+        "url": "https://phygital.plus/blog/best-ai-tools-for-designers/",
+        "image": "https://phygital.plus/wp-content/uploads/2026/02/image_01-4.png"
+      },
+      {
+        "title": {
+          "zh": "Design + AI Summit 2026 - CreativePro",
+          "en": "Design + AI Summit 2026 - CreativePro"
+        },
+        "url": "https://creativepro.com/event/design-ai-summit-2026/",
+        "image": null
+      },
+      {
+        "title": {
+          "zh": "Amplifying Creativity with AI Tools for Designers in 2026 - RGD",
+          "en": "Amplifying Creativity with AI Tools for Designers in 2026 - RGD"
+        },
+        "url": "https://rgd.ca/articles/2026-amplifying-creativity-with-ai-tools-for-designers-in-2026",
+        "image": "https://craft-cms-s3.s3.amazonaws.com/assets/images/articles/Header%20Images/_metaImage/AITools_ArticleHeader.png"
+      },
+      {
+        "title": {
+          "zh": "How to Build Your AI Design Stack - Muzli/Medium",
+          "en": "How to Build Your AI Design Stack - Muzli/Medium"
+        },
+        "url": "https://medium.muz.li/best-ai-design-tools-for-ui-ux-designers-in-2026-54ecd8d8dee2",
+        "image": null
+      }
+    ]
+  },
+  {
+    "date": "2026-03-11",
+    "section": "tech",
+    "title": {
+      "zh": "Google Gemini 正式入驻五角大楼 · 300 万国防部员工可自建 AI 助手 · AWS/Google 医疗 AI Agent 竞速 · AI 从业者跨公司团结声援 Anthropic",
+      "en": "Google Gemini Enters Pentagon · 3M DoD Employees Can Build Custom AI Assistants · AWS/Google Race on Healthcare AI Agents · AI Workers Unite for Anthropic"
+    },
+    "content": {
+      "zh": "<h3>📌 Google Gemini 入驻五角大楼</h3><ul><li><strong>Google 向五角大楼部署 Gemini AI Agent</strong> — Bloomberg 报道，Google Gemini Agent 将首先在非机密网络上运行，帮助国防部自动化日常工作流。国防部研究与工程副部长 Emil Michael（前 Uber 高管）称与 Anthropic 的争端「不会在法庭上解决」，五角大楼已「继续前进」。<br><small>来源：<a href=\"https://www.pymnts.com/google/2026/google-deploys-ai-agents-to-help-pentagon-automate-jobs/\">Google Deploys AI Agents to Pentagon - PYMNTS</a></small></li><li><strong>GenAI.mil 开放自定义 AI 助手</strong> — 五角大楼 CTO 办公室宣布，300 万国防部员工（包括无编程经验者）现在可以用 GenAI.mil 平台创建自己的「定制 AI 助手」，自动化任务和简化复杂工作流。GenAI.mil 自 12 月上线以来已成为所有军种的首选生成式 AI 平台。<br><small>来源：<a href=\"https://defensescoop.com/2026/03/10/dod-genai-agent-designer-custom-ai-assistants-google-gemini/\">Pentagon Custom AI Assistants - DefenseScoop</a></small></li></ul><h3>🏥 医疗 AI Agent 竞赛</h3><ul><li><strong>AWS 推出 Amazon Connect Health</strong> — 专为医疗企业设计的 AI Agent 平台，覆盖排班、病历文档、医疗编码和临床记录自动化。与现有临床软件集成，HIPAA 合规。定位与 Anthropic 的 Claude for Healthcare、OpenAI 的企业医疗服务形成三足鼎立。<br><small>来源：<a href=\"https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/\">AWS Healthcare AI Agent Platform - TechCrunch</a></small></li><li><strong>Google Cloud 在 HIMSS26 展示 Gemini 医疗 Agent</strong> — CVS Health 联合 Google Cloud 成立 Health100 子公司（内置 Agentic AI），Waystar 扩展 Google Cloud 合作加速自主收入周期管理。多家大型医疗机构签约 Gemini Agent 用于患者互动、工作流自动化和实验报告简化。<br><small>来源：<a href=\"https://www.healthcarefinancenews.com/news/google-cloud-showcase-how-gemini-powered-ai-agents-are-transforming-healthcare-himss26\">Google Cloud Gemini Healthcare Agents - HIMSS</a></small></li></ul><h3>✊ AI 从业者团结</h3><ul><li><strong>Google/OpenAI 正式提交法庭之友意见书支持 Anthropic</strong> — 不仅是员工联名信，现在连公司层面也在法律程序中站队。同时，CNBC 报道超过 100 名 Google AI 员工向管理层递交内部信，对公司与国防部的合作表示担忧。<br><small>来源：<a href=\"https://www.forbes.com/sites/the-prompt/2026/03/10/as-anthropic-sues-ai-workers-unite-behind-it/\">AI Workers Unite Behind Anthropic - Forbes</a></small></li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>今天最大的新闻不是 Google Gemini 入驻五角大楼——而是五角大楼让 300 万人自己造 AI 助手。</strong></p><p>让我解释为什么这比表面看起来重要得多。GenAI.mil 不是一个中央控制的 AI 系统，而是一个让每个员工自建 Agent 的平台。这意味着什么？意味着美国国防部正在成为全球最大的「AI Agent 用户生成内容」实验场。300 万人 × 无限创造力 = 无法预测的涌现行为。这和企业 IT 部署完全不同——没有人能审核 300 万个定制 Agent 的行为边界。</p><p>与此同时，医疗领域上演了一场精彩的三方赛跑：AWS（Amazon Connect Health）vs Google Cloud（Gemini Agent + CVS Health100）vs Anthropic/OpenAI（Claude for Healthcare / 企业医疗服务）。注意一个关键细节——<strong>CVS Health 直接和 Google 成立了一家新公司 Health100，Agentic AI 是内核。</strong>这不是采购协议，这是组织架构级别的绑定。当你的 AI 合作关系变成子公司，迁移成本就变成了无穷大。</p><p>最有意思的对比：五角大楼一边热情拥抱 Google AI，一边把 Anthropic 列为「供应链风险」——而 Google 自己的 100+ 名 AI 员工正在抗议公司与国防部的合作。Google/OpenAI 公司层面提交法庭意见书支持 Anthropic，但又同时竞标 Anthropic 被踢出后留下的市场空白。<strong>这不是虚伪，这是商业现实主义：支持原则，也支持营收。</strong></p><p><strong>预测：医疗 AI Agent 将在 2026 年成为比 AI 聊天机器人更大的市场。GenAI.mil 的「全民造 Agent」模式如果成功，会被其他大型官僚机构复制——先是联邦政府其他部门，然后是大型企业。Agent 的民主化不是从消费者开始的，而是从最大的雇主开始的。</strong></p></div>",
+      "en": "<h3>📌 Google Gemini Enters Pentagon</h3><ul><li><strong>Google Deploys Gemini AI Agents</strong> — Agents will initially operate on unclassified networks. Under Secretary Emil Michael says Anthropic dispute won't be settled in courts; Pentagon is \"moving on.\"<br><small>Source: <a href=\"https://www.pymnts.com/google/2026/google-deploys-ai-agents-to-help-pentagon-automate-jobs/\">Google Deploys AI Agents - PYMNTS</a></small></li><li><strong>GenAI.mil Opens Custom AI Assistants to 3M Employees</strong> — No coding required. Became preferred GenAI platform across all military services since December launch.<br><small>Source: <a href=\"https://defensescoop.com/2026/03/10/dod-genai-agent-designer-custom-ai-assistants-google-gemini/\">Pentagon Custom AI Assistants - DefenseScoop</a></small></li></ul><h3>🏥 Healthcare AI Agent Race</h3><ul><li><strong>AWS Launches Amazon Connect Health</strong> — HIPAA-compliant AI agent platform for scheduling, documentation, coding. Competes with Claude for Healthcare and OpenAI enterprise.<br><small>Source: <a href=\"https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/\">AWS Healthcare AI Platform - TechCrunch</a></small></li><li><strong>Google Cloud Gemini Agents at HIMSS26</strong> — CVS Health launches Health100 subsidiary with built-in agentic AI. Waystar expands Google Cloud collaboration for autonomous revenue cycle.<br><small>Source: <a href=\"https://www.healthcarefinancenews.com/news/google-cloud-showcase-how-gemini-powered-ai-agents-are-transforming-healthcare-himss26\">Gemini Healthcare Agents - HIMSS</a></small></li></ul><h3>✊ AI Workers Unite</h3><ul><li><strong>Google/OpenAI File Amicus Brief for Anthropic</strong> — Company-level legal support, plus 100+ Google AI employees signed internal letter expressing concerns about DoD work.<br><small>Source: <a href=\"https://www.forbes.com/sites/the-prompt/2026/03/10/as-anthropic-sues-ai-workers-unite-behind-it/\">AI Workers Unite - Forbes</a></small></li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>The biggest news isn't Gemini entering the Pentagon — it's 3 million people building their own AI agents.</strong> GenAI.mil is becoming the world's largest \"user-generated AI agent\" experiment. Meanwhile, healthcare sees a three-way race: AWS vs Google Cloud vs Anthropic/OpenAI. CVS Health's new Health100 subsidiary with Google isn't a procurement deal — it's organizational binding. And the irony: Google competes for Anthropic's vacated Pentagon contracts while filing legal briefs supporting Anthropic. Not hypocrisy — commercial realism. Prediction: healthcare AI agents become a bigger market than chatbots in 2026. GenAI.mil's model gets copied by other large bureaucracies.</p></div>"
+    },
+    "cover": "https://defensescoop.com/wp-content/uploads/sites/8/2023/12/Generative-AI.jpg",
+    "sources": [
+      {
+        "title": {
+          "zh": "Google 向五角大楼部署 Gemini AI Agent - PYMNTS",
+          "en": "Google Deploys AI Agents to Help Pentagon Automate Jobs - PYMNTS"
+        },
+        "url": "https://www.pymnts.com/google/2026/google-deploys-ai-agents-to-help-pentagon-automate-jobs/",
+        "image": null
+      },
+      {
+        "title": {
+          "zh": "五角大楼开放 300 万员工自建 AI 助手 - DefenseScoop",
+          "en": "Pentagon: Employees Can Create Custom AI Assistants - DefenseScoop"
+        },
+        "url": "https://defensescoop.com/2026/03/10/dod-genai-agent-designer-custom-ai-assistants-google-gemini/",
+        "image": "https://defensescoop.com/wp-content/uploads/sites/8/2023/12/Generative-AI.jpg"
+      },
+      {
+        "title": {
+          "zh": "AWS 推出医疗 AI Agent 平台 - TechCrunch",
+          "en": "AWS Launches Healthcare AI Agent Platform - TechCrunch"
+        },
+        "url": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+        "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1164501571.jpg?resize=1200,600"
+      },
+      {
+        "title": {
+          "zh": "Google Cloud Gemini 医疗 AI Agent 亮相 HIMSS26",
+          "en": "Google Cloud Gemini-powered AI Agents Transforming Healthcare - HIMSS"
+        },
+        "url": "https://www.healthcarefinancenews.com/news/google-cloud-showcase-how-gemini-powered-ai-agents-are-transforming-healthcare-himss26",
+        "image": "https://www.healthcarefinancenews.com/sites/hfn/files/2026-03/Google%20Cloud.JasonDoiy.jpg"
+      },
+      {
+        "title": {
+          "zh": "Anthropic 起诉中 AI 从业者团结声援 - Forbes",
+          "en": "As Anthropic Sues, AI Workers Unite Behind It - Forbes"
+        },
+        "url": "https://www.forbes.com/sites/the-prompt/2026/03/10/as-anthropic-sues-ai-workers-unite-behind-it/",
+        "image": null
+      }
+    ]
+  },
+  {
     "date": "2026-03-10",
     "section": "design",
     "title": {
