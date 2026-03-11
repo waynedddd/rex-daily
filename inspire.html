@@ -397,6 +397,7 @@
         </button>
         <div class="nav-drop-menu" id="subnav"></div>
       </div>
+      <button class="ctrl-btn" data-lang="true" onclick="toggleLang()">EN</button>
     </div>
   </div>
 
@@ -416,6 +417,16 @@
   <script>
     let allData = null;
     let currentFilter = 'all';
+    let currentLang = localStorage.getItem('rex-lang') || 'zh';
+
+    function toggleLang() {
+      currentLang = currentLang === 'zh' ? 'en' : 'zh';
+      localStorage.setItem('rex-lang', currentLang);
+      document.querySelector('[data-lang]').textContent = currentLang === 'zh' ? 'EN' : '中';
+    }
+
+    // Init lang button
+    document.querySelector('[data-lang]').textContent = currentLang === 'zh' ? 'EN' : '中';
 
     function filterDir(dir, el) {
       currentFilter = dir;
