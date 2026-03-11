@@ -49,6 +49,14 @@
       "color": "#a855f7",
       "stats": [],
       "name_en": "Content Design"
+    },
+    {
+      "id": "visual-ai",
+      "name": "Visual for AI",
+      "name_en": "Visual for AI",
+      "label": "Direction 04",
+      "color": "#6366f1",
+      "stats": []
     }
   ],
   "pins": [
@@ -519,6 +527,237 @@
       "link": "https://dribbble.com/search/mobile-feed-dark",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/users/2094032/screenshots/4681898/instagram_dark_mode_dribbble.png",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "SIVRO — AI Brand Visual Identity",
+      "body": "AI 科技公司的完整视觉识别系统。从 logo 到色彩到动态图形，如何把「智能」这个抽象概念视觉化。",
+      "body_en": "Complete visual identity for an AI tech company. From logo to color to motion graphics — how to visualize the abstract concept of 'intelligence'.",
+      "tags": [
+        "Brand Identity",
+        "AI",
+        "Visual System"
+      ],
+      "link": "https://dribbble.com/shots/27162152-SIVRO-AI-Technology-Brand-Visual-Identity",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Caplena — Visual Identity for AI Product",
+      "body": "AI 文本分析产品的品牌视觉。用几何抽象图形表达数据分析和模式识别，避免俗套的「大脑/网络」隐喻。",
+      "body_en": "Brand visual for AI text analytics product. Geometric abstractions for data analysis and pattern recognition — avoiding cliché brain/network metaphors.",
+      "tags": [
+        "Brand",
+        "Analytics",
+        "Geometric"
+      ],
+      "link": "https://dribbble.com/shots/25646696-Caplena-visual-identity-for-AI-product",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/45492203/file/e3b92ed0bc3e5d552d9771b571d3720c.png?resize=2048x1536&vertical=center",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Generative AI Prompt UI",
+      "body": "生成式 AI 的提示词交互界面。输入区不再是冷冰冰的文本框，而是有引导、有层次、有反馈的对话体验。",
+      "body_en": "Generative AI prompt interaction UI. The input area is no longer a cold text box — it's a guided, layered, responsive conversation experience.",
+      "tags": [
+        "Prompt UI",
+        "Generative AI",
+        "Interaction"
+      ],
+      "link": "https://dribbble.com/shots/25708308-Generative-AI-Prompt-UI",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16456703/file/original-7df822057bc312ece5f828fa30af7656.png?resize=752x&vertical=center",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agents Dashboard — Mobile",
+      "body": "AI Agent 管理面板的移动端设计。多个 Agent 的状态、任务、性能一目了然，卡片化信息架构。",
+      "body_en": "Mobile AI agent management dashboard. Status, tasks, and performance of multiple agents at a glance — card-based information architecture.",
+      "tags": [
+        "AI Agent",
+        "Mobile",
+        "Dashboard"
+      ],
+      "link": "https://dribbble.com/shots/27106894-AI-Agents-Dashboard-Mobile-App-UI",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43827368/file/original-6c973c27254afb42ef013d26273e6b20.jpg?resize=1600x1200",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Machine Learning Dashboard UI",
+      "body": "ML 模型训练监控面板，实时可视化 loss 曲线、精度指标、资源占用。技术数据的设计美学。",
+      "body_en": "ML model training monitor — real-time visualization of loss curves, accuracy metrics, resource usage. Design aesthetics for technical data.",
+      "tags": [
+        "ML",
+        "Dashboard",
+        "Training"
+      ],
+      "link": "https://dribbble.com/shots/17361656-Machine-Learning-Dashboard-UI-Design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/users/5275700/screenshots/17361656/ai_studio_new_animat-1_4x.png",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Sprkit.ai — Visual Identity",
+      "body": "AI 产品的视觉设计系统，渐变 + 几何 + 动态感。品牌调性在科技感和人文温度之间找到平衡。",
+      "body_en": "AI product visual design system — gradient + geometry + dynamic feel. Brand tone balances between tech sophistication and human warmth.",
+      "tags": [
+        "Brand",
+        "Visual Identity",
+        "Balance"
+      ],
+      "link": "https://www.behance.net/gallery/236454579/Sprkitai-Visual-Identity",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/1733dc191805399.65d20c8453ccb.jpg",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Konvo AI — Brand Identity",
+      "body": "对话式 AI 的品牌设计。圆润的形态语言暗示对话的流动性，色彩梯度表达 AI 的多维度。",
+      "body_en": "Brand design for conversational AI. Rounded form language suggests conversational fluidity; color gradients express AI's multidimensionality.",
+      "tags": [
+        "Conversational AI",
+        "Brand",
+        "Form Language"
+      ],
+      "link": "https://www.behance.net/gallery/226885657/Konvo-AI-Brand-Identity",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/c92545164897693.63fe627ae8cb6.png",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "AI 产品的视觉设计正在经历一次审美升级。早期 AI 产品清一色「深蓝 + 网络节点 + 大脑图标」，现在最好的 AI 品牌设计开始回避这些 cliché。趋势很明确：用抽象几何表达智能、用渐变光谱表达多维度、用圆润形态表达对话性。但最核心的挑战不变——如何把看不见摸不着的「智能」变成可感知的视觉体验。做得最好的是那些不强调「AI」而强调「价值」的设计。",
+      "body_en": "AI product visual design is undergoing an aesthetic upgrade. Early AI products were uniformly 'dark blue + network nodes + brain icons.' Now the best AI brand design avoids these clichés. The trend is clear: abstract geometry for intelligence, gradient spectrums for multidimensionality, rounded forms for conversational quality. But the core challenge remains — making invisible 'intelligence' into perceivable visual experience. The best work de-emphasizes 'AI' and emphasizes 'value'.",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI SaaS Brand & Visual Design",
+      "body": "AI SaaS 产品的完整品牌视觉设计，从标识到产品界面到市场物料的一致性表达。",
+      "body_en": "Complete brand visual design for AI SaaS — consistent expression from logo to product interface to marketing materials.",
+      "tags": [
+        "SaaS",
+        "Brand System",
+        "Consistency"
+      ],
+      "link": "https://www.behance.net/gallery/233384299/Brand-Identity-Visual-Design-for-AI-SaaS-Product",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/3bc195191127747.65c5f3e4b0e63.png",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Chatbot UI — Dark Creative",
+      "body": "AI 聊天界面的深色创意设计。消息气泡、思考状态、代码块的视觉处理别出心裁。",
+      "body_en": "Dark creative design for AI chat interface. Inventive visual treatment of message bubbles, thinking states, and code blocks.",
+      "tags": [
+        "Chatbot",
+        "Dark UI",
+        "Creative"
+      ],
+      "link": "https://dribbble.com/search/ai-chatbot-dark",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12417018/file/original-12d11249de49eeea19f0bbef59854dc2.png?resize=752x&vertical=center",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Assistant — Conversational UI",
+      "body": "AI 助手对话界面，超越传统聊天框的设计探索。上下文感知、多模态输入、结构化输出的视觉方案。",
+      "body_en": "AI assistant conversational UI — design exploration beyond traditional chat boxes. Visual solutions for context awareness, multimodal input, structured output.",
+      "tags": [
+        "Assistant",
+        "Conversational",
+        "Multimodal"
+      ],
+      "link": "https://dribbble.com/search/ai-assistant-ui",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15654254/file/original-2180bd881dc3854e3838d0644ed7217c.png?resize=752x&vertical=center",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Data Visualization — Neural Network",
+      "body": "神经网络结构的创意可视化，把技术架构变成可理解的视觉叙事。",
+      "body_en": "Creative visualization of neural network architecture — turning technical structure into comprehensible visual narrative.",
+      "tags": [
+        "Neural Network",
+        "Data Viz",
+        "Technical"
+      ],
+      "link": "https://dribbble.com/search/neural-network-visualization",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/users/6475536/screenshots/17713866/media/fecb6d849677f04f76e5bb31b33ac3b5.png?resize=1000x750&vertical=center",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Product Interface — Prompt Engineering",
+      "body": "提示工程的产品化界面，把专业用户的 prompt 工作流变成可视化操作面板。",
+      "body_en": "Productized prompt engineering interface — turning power users' prompt workflows into a visual operation panel.",
+      "tags": [
+        "Prompt Engineering",
+        "Product",
+        "Workflow"
+      ],
+      "link": "https://dribbble.com/search/prompt-engineering-ui",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46352831/file/765076f0eddc850ad448f605d7f93ba0.png?resize=1024x768&vertical=center",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Motion Identity",
+      "body": "AI 品牌的动态视觉标识。Logo 和品牌元素不再是静态的，而是通过动效传达「智能」和「生成」的概念。",
+      "body_en": "AI brand motion identity. Logo and brand elements are no longer static — motion conveys concepts of 'intelligence' and 'generation'.",
+      "tags": [
+        "Motion",
+        "Brand Identity",
+        "Dynamic"
+      ],
+      "link": "https://dribbble.com/search/ai-brand-motion",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/6545844/file/original-2af0802e959fea5e478991ff169a3929.gif",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Model Visualization Dashboard",
+      "body": "AI 模型性能可视化面板，图表和数据密度极高但层级清晰，为 ML 工程师设计的专业工具。",
+      "body_en": "AI model performance visualization dashboard. Extremely high chart and data density yet clear hierarchy — a pro tool designed for ML engineers.",
+      "tags": [
+        "Model Viz",
+        "ML Tools",
+        "Professional"
+      ],
+      "link": "https://dribbble.com/search/ml-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43031179/file/original-f059e3209673ba9874a301a18f233c88.png?resize=752x&vertical=center",
       "date": "2026-03-12"
     }
   ]
