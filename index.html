@@ -27,7 +27,7 @@
       touch-action: none;
     }
 
-    /* ── Top bar ── */
+    /* ── Top bar (primary nav) ── */
     .topbar {
       position: fixed;
       top: 0; left: 0; right: 0;
@@ -35,13 +35,30 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 16px 24px;
+      padding: 14px 24px;
       pointer-events: none;
-      flex-wrap: wrap;
-      gap: 8px;
+      background: rgba(10,10,10,0.6);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
     }
 
     .topbar > * { pointer-events: auto; }
+
+    /* ── Sub nav (topic filter) ── */
+    .subnav {
+      position: fixed;
+      top: 50px;
+      left: 0; right: 0;
+      z-index: 99;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 8px 24px;
+      gap: 8px;
+      pointer-events: none;
+    }
+
+    .subnav > * { pointer-events: auto; }
 
     .logo {
       font-family: var(--font);
@@ -600,12 +617,16 @@
   <div class="topbar">
     <div class="logo">Rex Daily</div>
     <div class="controls">
-      <button class="ctrl-btn active" data-section="all" onclick="setSection('all')">All</button>
-      <button class="ctrl-btn" data-section="design" onclick="setSection('design')">Design</button>
-      <button class="ctrl-btn" data-section="tech" onclick="setSection('tech')">Tech</button>
-      <button class="ctrl-btn" data-lang="true" onclick="toggleLang()">EN</button>
+      <a href="index.html" class="ctrl-btn active" style="text-decoration:none;display:inline-block;">Daily</a>
       <a href="inspire.html" class="ctrl-btn" style="text-decoration:none;display:inline-block;">Inspire</a>
+      <button class="ctrl-btn" data-lang="true" onclick="toggleLang()">EN</button>
     </div>
+  </div>
+
+  <div class="subnav">
+    <button class="ctrl-btn active" data-section="all" onclick="setSection('all')">All</button>
+    <button class="ctrl-btn" data-section="design" onclick="setSection('design')">Design</button>
+    <button class="ctrl-btn" data-section="tech" onclick="setSection('tech')">Tech</button>
   </div>
 
   <div class="scene" id="scene">
