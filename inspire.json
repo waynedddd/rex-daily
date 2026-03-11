@@ -261,8 +261,160 @@
     {
       "direction": "cards",
       "type": "case",
+      "title": "Editorial Typography Layout",
+      "body": "大字号衬线体 + 极简网格 + 大量留白，数字杂志的排版探索。字体本身就是视觉元素。",
+      "body_en": "Large serif type + minimal grid + generous whitespace — a digital magazine typography exploration. The typeface itself becomes the visual.",
+      "tags": [
+        "Editorial",
+        "Typography",
+        "Layout"
+      ],
+      "link": "https://dribbble.com/shots/26287603-Editorial-Typography-Layout-Design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/13725739/file/still-58e65ffa656f6783cd915f1cb0945eba.gif?resize=400x0",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Dark Blog / Article Page",
+      "body": "深色背景的长内容阅读页，typography 节奏控制得很好——标题、正文、引用块的层级靠字号和透明度区分。",
+      "body_en": "Long-form reading on dark background. Typography rhythm is excellent — title, body, and pullquote hierarchy achieved through size and opacity alone.",
+      "tags": [
+        "Blog",
+        "Dark Mode",
+        "Reading"
+      ],
+      "link": "https://dribbble.com/search/blog-dark-mode",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/users/3321529/screenshots/15080756/new-blog-dark_4x.png",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Magazine Website — Travel Editorial",
+      "body": "旅行杂志网页版，图文混排的杂志感。大图出血 + 错位排版 + 手写字体点缀，网页上还原纸媒质感。",
+      "body_en": "Travel magazine web edition. Full-bleed imagery + offset layout + handwritten type accents recreate print texture on screen.",
+      "tags": [
+        "Magazine",
+        "Editorial",
+        "Travel"
+      ],
+      "link": "https://dribbble.com/search/magazine-layout",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/users/230799/screenshots/17140261/travel-magazine-website.png?resize=400x0",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "SaaS Landing Page — High Converting 2025",
+      "body": "高转化 SaaS 落地页设计，hero section 的信息密度 + CTA 位置 + 社会证明的排列值得研究。",
+      "body_en": "High-converting SaaS landing page. Worth studying: hero section info density + CTA placement + social proof arrangement.",
+      "tags": [
+        "Landing Page",
+        "SaaS",
+        "Conversion"
+      ],
+      "link": "https://dribbble.com/shots/26396452-SaaS-Landing-Page-UI-UX-High-Converting-Design-2025-Website",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/4395750/file/original-4bd9f9d86afb7de0c2769db7b708906e.jpg?resize=1200x900&vertical=center",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Content Page — Freelance Portfolio",
+      "body": "作品集内容页，大图 + 项目描述 + metadata 的经典三段式，但细节处理（间距、字重对比）拉开差距。",
+      "body_en": "Portfolio content page with classic three-part structure: hero image + project description + metadata. The gap is in the details — spacing, weight contrast.",
+      "tags": [
+        "Portfolio",
+        "Content Page",
+        "Detail"
+      ],
+      "link": "https://dribbble.com/search/portfolio-content-page",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/users/1645599/screenshots/17238791/content_page_freelance_designer_barcelona_4x.jpg",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Editorial Web Layout",
+      "body": "网页端的编辑式排版，突破传统栅格系统，用不对称布局和字号对比营造视觉张力。",
+      "body_en": "Editorial web layout breaking traditional grid systems. Asymmetric composition and type scale contrast create visual tension.",
+      "tags": [
+        "Editorial",
+        "Asymmetric",
+        "Web"
+      ],
+      "link": "https://www.behance.net/gallery/239934407/Editorial-Web-Layout",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d9b099223624487.67fca9d6cce91.png",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "La Repubblica Redesign 2025",
+      "body": "意大利老牌报纸的数字化重设计。新闻内容设计的标杆——在信息密度和可读性之间找到完美平衡。",
+      "body_en": "Digital redesign of Italy's iconic newspaper. A benchmark for news content design — perfect balance between information density and readability.",
+      "tags": [
+        "News",
+        "Redesign",
+        "Editorial"
+      ],
+      "link": "https://www.behance.net/gallery/239563527/La-Repubblica-Redesign-2025",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/a33372209674381.67336578a8c86.png",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Content Design 不是「把内容放进模板」，而是「让内容自己说话」。2026 年最明显的趋势：排版回归基本功——字号对比、留白节奏、阅读节奏的控制。最好的内容设计是你读完了都没注意到「设计」的存在。另一个观察：editorial 风格正在从纸媒反向渗透进数字产品，不对称布局、大胆的字号、杂志感的图文混排越来越多出现在 SaaS 和品牌站上。",
+      "body_en": "Content Design isn't 'putting content into templates' — it's 'letting content speak for itself.' The clearest 2026 trend: typography returns to fundamentals — type scale contrast, whitespace rhythm, reading pace control. The best content design is invisible. Another observation: editorial style is reverse-infiltrating from print into digital products. Asymmetric layouts, bold type scales, magazine-style image-text compositions are increasingly appearing in SaaS and brand sites.",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Onboarding Flow — First Class",
+      "body": "高端 App 引导流设计。每一步都是一张精心排版的卡片，插画 + 文案 + 动效配合讲故事。",
+      "body_en": "Premium app onboarding flow. Each step is a carefully typeset card — illustration + copy + motion working together to tell a story.",
+      "tags": [
+        "Onboarding",
+        "Mobile",
+        "Storytelling"
+      ],
+      "link": "https://dribbble.com/search/onboarding-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/users/5882896/screenshots/14816040/firstclass_onboarding_4x.jpg",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Data Visualization — Creative Infographic",
+      "body": "创意数据可视化，突破传统图表形式。数据本身成为视觉主角，而非附庸于装饰。",
+      "body_en": "Creative data visualization breaking traditional chart forms. Data itself becomes the visual protagonist, not subordinate to decoration.",
+      "tags": [
+        "Data Viz",
+        "Infographic",
+        "Creative"
+      ],
+      "link": "https://dribbble.com/search/data-visualization",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10490089/file/original-00dbfc1b063756291ae74d908c8fa4d5.png?crop=41x30-1325x994&resize=1366x13943",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
       "title": "Glassmorphism Card — Dark UI",
       "body": "毛玻璃质感产品卡片，深色背景下的半透明层叠效果。光影处理细腻，边框微光增加层次。",
+      "body_en": "Frosted glass product card on dark background. Nuanced light/shadow with subtle border glow for depth.",
       "tags": [
         "Glassmorphism",
         "Dark UI",
@@ -271,14 +423,14 @@
       "link": "https://dribbble.com/shots/26585321-Product-Card-Glassmorphism-Dark-UI",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/45097754/file/f3cb4d7b396d22dc8adcb6fcbd5d3b8b.png?crop=0x0-1600x1200&format=webp&resize=400x300&vertical=center",
-      "date": "2026-03-11",
-      "body_en": "Frosted glass product card on dark background. Nuanced light/shadow with subtle border glow for depth."
+      "date": "2026-03-12"
     },
     {
       "direction": "cards",
       "type": "case",
       "title": "Dashboard Bento Cards",
-      "body": "Bento grid 布局的仪表盘卡片，不同尺寸的信息模块像便当盒一样紧密排列，信息密度高但视觉整洁。",
+      "body": "Bento grid 布局的仪表盘卡片，不同尺寸的信息模块像便当盒一样紧密排列。",
+      "body_en": "Bento grid dashboard cards — different sized info modules packed like a lunch box. High density yet visually clean.",
       "tags": [
         "Bento Grid",
         "Dashboard",
@@ -287,143 +439,7 @@
       "link": "https://dribbble.com/shots/26300624-Dashboard-UI-Bento-Cards",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/42743058/file/original-52bdce8de1644ad423d2ed677d08b86a.png?resize=400x300",
-      "date": "2026-03-11",
-      "body_en": "Bento grid dashboard cards — different sized info modules packed like a lunch box. High density yet visually clean."
-    },
-    {
-      "direction": "cards",
-      "type": "case",
-      "title": "3D Card Parallax Effect",
-      "body": "鼠标跟随的 3D 倾斜卡片，配合光影位移营造立体感。微交互细节：悬停时内容元素分层浮动。",
-      "tags": [
-        "3D",
-        "Parallax",
-        "Micro-interaction"
-      ],
-      "link": "https://ui.aceternity.com/components/3d-card-effect",
-      "linkText": "Aceternity UI",
-      "image": "https://cdn.dribbble.com/userupload/12098603/file/still-b6fad67700090014c743fdaa4644bce0.png?resize=400x0",
-      "date": "2026-03-11",
-      "body_en": "Mouse-following 3D tilt card with shadow displacement for depth. Hover triggers layered content float."
-    },
-    {
-      "direction": "cards",
-      "type": "case",
-      "title": "Creative Card Hover Interaction",
-      "body": "卡片悬停动画合集，从颜色渐变到元素位移到背景粒子效果，展示 CSS 动画在卡片交互中的可能性。",
-      "tags": [
-        "Hover",
-        "Animation",
-        "CSS"
-      ],
-      "link": "https://dribbble.com/search/card-hover",
-      "linkText": "Dribbble",
-      "image": "https://cdn.dribbble.com/userupload/9836617/file/still-9d0308b16f0a647b4420de1cda1609a4.gif?resize=400x0",
-      "date": "2026-03-11",
-      "body_en": "Card hover animation collection — from color gradients to element displacement to background particles. Exploring CSS animation possibilities."
-    },
-    {
-      "direction": "cards",
-      "type": "case",
-      "title": "Dark Glass Card System",
-      "body": "深色毛玻璃卡片设计系统，统一的圆角、透明度和模糊值，从列表到详情到弹窗保持一致的质感语言。",
-      "tags": [
-        "Design System",
-        "Glass",
-        "Consistency"
-      ],
-      "link": "https://dribbble.com/search/glassmorphism-dark-mode",
-      "linkText": "Dribbble",
-      "image": "https://cdn.dribbble.com/users/3274770/screenshots/14772009/media/731e731fd6c915cf5e785899ac3d9ddb.jpg?compress=1&resize=400x300&vertical=top",
-      "date": "2026-03-11",
-      "body_en": "Dark frosted glass card design system. Unified radius, opacity and blur — consistent texture language from list to detail to modal."
-    },
-    {
-      "direction": "cards",
-      "type": "rex-note",
-      "body": "卡片是 UI 设计的原子单位。一张卡片的好坏能看出设计师的全部功力：信息层级、留白节奏、微交互品味。2026 的趋势很明确——扁平已死，质感回归。但质感不是往上堆效果，而是用光影和透明度创造深度感。最高级的卡片设计是让你忘记它是个卡片。",
-      "date": "2026-03-11",
-      "body_en": "Cards are the atomic unit of UI design. A single card reveals a designer's full skill: information hierarchy, whitespace rhythm, micro-interaction taste. 2026's trend is clear — flat is dead, texture is back. But texture isn't piling on effects; it's using light and transparency to create depth. The best card design makes you forget it's a card."
-    },
-    {
-      "direction": "cards",
-      "type": "case",
-      "title": "Bento Grid — RevOps Dashboard",
-      "body": "RevOps SaaS 的 Bento 网格布局，大小卡片混搭，数据可视化与操作按钮共存。",
-      "tags": [
-        "Bento",
-        "SaaS",
-        "RevOps"
-      ],
-      "link": "https://dribbble.com/shots/25765472-Bento-grid-dashboard-for-revops-startup",
-      "linkText": "Dribbble",
-      "image": "https://cdn.dribbble.com/userupload/44760515/file/7b7d8d3d4188aa951aba4f0d186b3390.jpg?resize=752x&vertical=center",
-      "date": "2026-03-11",
-      "body_en": "RevOps SaaS bento grid layout, mixing card sizes with data viz and action buttons coexisting."
-    },
-    {
-      "direction": "cards",
-      "type": "case",
-      "title": "Content Card — Gradient Glow",
-      "body": "渐变发光边框卡片，深色背景上的霓虹质感。边框光效跟随 hover 位置变化。",
-      "tags": [
-        "Gradient",
-        "Glow",
-        "Neon"
-      ],
-      "link": "https://dribbble.com/search/card-glow",
-      "linkText": "Dribbble",
-      "image": "https://cdn.dribbble.com/userupload/44778079/file/1bd7b8a53399875d685b71df319e9bec.png?crop=135x0-1994x1394&format=webp&resize=400x300&vertical=center",
-      "date": "2026-03-11",
-      "body_en": "Gradient glow border cards, neon texture on dark backgrounds. Border light follows hover position."
-    },
-    {
-      "direction": "cards",
-      "type": "case",
-      "title": "Animated Card Interaction",
-      "body": "卡片展开/折叠动画，流畅的 spring 缓动配合内容渐入，FLIP 动画技术让布局切换丝滑。",
-      "tags": [
-        "Animation",
-        "FLIP",
-        "Spring"
-      ],
-      "link": "https://dribbble.com/search/card-animation",
-      "linkText": "Dribbble",
-      "image": "https://cdn.dribbble.com/userupload/20286378/file/original-f43008241b584e7b11f223f0f49b0fa7.gif",
-      "date": "2026-03-11",
-      "body_en": "Card expand/collapse animation with smooth spring easing and content fade-in. FLIP technique for silky layout transitions."
-    },
-    {
-      "direction": "cards",
-      "type": "case",
-      "title": "Minimal Info Card — Clean Typography",
-      "body": "极简信息卡片，靠字体大小对比和留白撑起层次。无装饰，纯排版力量。",
-      "tags": [
-        "Minimal",
-        "Typography",
-        "Clean"
-      ],
-      "link": "https://dribbble.com/search/minimal-card-ui",
-      "linkText": "Dribbble",
-      "image": "https://cdn.dribbble.com/userupload/45032567/file/ad13e44c08ab6ee6825bd2cfd4dc52d8.png?resize=752x&vertical=center",
-      "date": "2026-03-11",
-      "body_en": "Minimal info card — hierarchy built purely on type scale contrast and whitespace. Zero decoration, pure typographic power."
-    },
-    {
-      "direction": "cards",
-      "type": "case",
-      "title": "CSS Card Hover Effects Collection",
-      "body": "纯 CSS 实现的卡片悬停效果集合，包含翻转、滑入、缩放、边框动画等多种模式。",
-      "tags": [
-        "CSS",
-        "Hover",
-        "Collection"
-      ],
-      "link": "https://dribbble.com/search/css-card-hover",
-      "linkText": "Dribbble",
-      "image": "https://cdn.dribbble.com/users/8952388/screenshots/16716208/css-card-hover.jpg",
-      "date": "2026-03-11",
-      "body_en": "Pure CSS card hover effects collection: flip, slide, scale, border animations and more."
+      "date": "2026-03-12"
     }
   ]
 }
