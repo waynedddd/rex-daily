@@ -759,6 +759,238 @@
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/43031179/file/original-f059e3209673ba9874a301a18f233c88.png?resize=752x&vertical=center",
       "date": "2026-03-12"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Fintech Trust UX — 2026 设计范式转移",
+      "body": "2026 金融网页设计的关键词不再是「酷炫」而是「可信」。WSA Design 的行业报告指出：合规可见性、结构化数据供 AI 抓取、以及「信任 UX」成为新的设计底线。金融产品的视觉设计正在从表现层走向基础设施层。",
+      "body_en": "The 2026 fintech web design keyword shifts from 'cool' to 'trustworthy.' WSA Design's report highlights: compliance visibility, structured data for AI crawling, and 'Trust UX' as the new design baseline. Financial product visual design is moving from presentation layer to infrastructure layer.",
+      "tags": [
+        "Trust UX",
+        "Compliance",
+        "Fintech",
+        "Infrastructure"
+      ],
+      "link": "https://wsa.design/news/modern-fintech-web-design-trends-in-2026",
+      "linkText": "WSA Design",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/97c8c9213172019.67419212825c5.png",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "DeepDAO — Fintech × AI Dashboard",
+      "body": "DAO 治理数据的 AI 产品化设计。把链上复杂数据翻译成可操作的 insight 面板，深色系 + 数据密度极高但不失可读性。Web3 金融设计的标杆之一。",
+      "body_en": "AI-productized design for DAO governance data. Translates complex on-chain data into actionable insight panels. Dark theme with extremely high data density yet readable. One of the benchmarks for Web3 finance design.",
+      "tags": [
+        "DAO",
+        "Web3",
+        "Data Dense",
+        "AI Product"
+      ],
+      "link": "https://www.behance.net/gallery/216823013/DeepDAO-Fintech-AI-Product-Design-Dashboard",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/66f7d3210011515.6709671059f68.png",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Crypto Trading Dashboard — Dark Visual System",
+      "body": "加密货币交易面板，AI 预测信号叠加在传统 K 线图上。视觉上用颜色编码区分 AI 建议的置信度层级——高置信绿光，低置信灰显。",
+      "body_en": "Crypto trading dashboard with AI prediction signals overlaid on traditional candlestick charts. Color-coded confidence levels for AI suggestions — high confidence in green glow, low confidence greyed out.",
+      "tags": [
+        "Crypto",
+        "Trading",
+        "AI Signal",
+        "Confidence UI"
+      ],
+      "link": "https://dribbble.com/tags/ai-fintech",
+      "linkText": "Dribbble",
+      "image": "https://www.pragmaticcoders.com/wp-content/uploads/2025/06/Trade-Easy-AI-UI.jpg.webp",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "2026 年 Fintech 设计最大的转变：从「展示数据」到「建立信任」。三个信号——第一，合规信息不再藏在 footer 里，而是成为首屏视觉的一部分；第二，AI 生成的投资建议必须带「可解释性」界面，这不是可选项而是监管要求；第三，金融网站开始为 AI 爬虫优化结构化数据，就像十年前为 SEO 优化一样。本质上，金融设计正在从「让用户觉得好看」进化到「让用户、监管、AI 三方都能读懂」。这是范式转移，不是趋势。",
+      "body_en": "The biggest shift in 2026 fintech design: from 'displaying data' to 'building trust.' Three signals: 1) Compliance info moves from footer to hero section; 2) AI investment advice requires 'explainability' UI — not optional, regulatory mandated; 3) Finance sites optimize structured data for AI crawlers, just as they did for SEO a decade ago. Fundamentally, finance design is evolving from 'make users think it looks good' to 'make users, regulators, and AI all able to read it.' This is a paradigm shift, not a trend.",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Smart Nutrition & Health Tracker — AI 营养追踪",
+      "body": "AI 驱动的营养和健康追踪 App UI。拍照识别食物 + 自动计算营养摄入 + 个性化饮食建议，把复杂的营养学变成一次拍照。",
+      "body_en": "AI-powered nutrition and health tracker app UI. Photo food recognition + auto calorie calculation + personalized diet advice — turning complex nutritional science into a single photo.",
+      "tags": [
+        "Nutrition",
+        "AI Vision",
+        "Health",
+        "Mobile"
+      ],
+      "link": "https://dribbble.com/shots/26831102-Smart-Nutrition-Health-Tracker-App-UI-Design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15001875/file/original-f93b35305b53eb4cc1d89890b0dbed86.png?crop=0x0-4096x3072&resize=1600x1200",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI Fitness Coach 爆发年：从工具到教练",
+      "body": "2026 年 AI 健身教练 App 进入爆发期。Fitbod、Freeletics、Future 等产品竞争白热化，核心差异化不在算法而在「教练人格」设计——语气、鼓励方式、纠错时机。运动 AI 的 UX 战场从功能转向情感。",
+      "body_en": "2026 marks the explosion of AI fitness coach apps. Fitbod, Freeletics, Future in fierce competition — differentiation isn't in algorithms but in 'coaching personality' design: tone, encouragement style, correction timing. The sports AI UX battlefield shifts from function to emotion.",
+      "tags": [
+        "AI Coach",
+        "Personality UX",
+        "Fitness",
+        "Emotional Design"
+      ],
+      "link": "https://www.sensai.fit/blog/best-ai-fitness-apps-2026-fitbod-freeletics-future-trainiac-alternatives",
+      "linkText": "SensAI",
+      "image": "https://cdn.dribbble.com/userupload/13980326/file/original-aaedb7b572cfadeaee9fdbe38a09fd3f.jpg?resize=752x",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI Fitness Tracker — Wearable Data Dashboard",
+      "body": "可穿戴设备数据的桌面端聚合面板。心率变异、睡眠阶段、恢复指数多维度数据整合，用色彩渐变表达身体状态的连续光谱。",
+      "body_en": "Desktop aggregation panel for wearable data. HRV, sleep stages, recovery index multi-dimensional integration. Color gradients express the continuous spectrum of body states.",
+      "tags": [
+        "Wearable",
+        "HRV",
+        "Data Aggregation",
+        "Gradient"
+      ],
+      "link": "https://dribbble.com/tags/fitness-tracker",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/5497626/file/original-b40209fda0ba25b367b02d463917d293.png?resize=752x&vertical=center",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 领域 2026 年最值得关注的变化：竞争焦点从「算法精度」转向「教练人格」。Fitbod 的冷静理性 vs Freeletics 的军事化激励 vs Future 的私教温暖——产品差异化开始体现在 AI 说话的方式上。这和 ChatGPT vs Claude 的竞争逻辑一模一样：当功能趋同，个性成为护城河。另一个观察：营养追踪终于被 AI 视觉识别拉低了门槛，「拍照就能算卡路里」从噱头变成了标配。但真正的设计挑战不是识别准不准，而是怎么在用户吃薯片的时候不让 ta 觉得被 judge。",
+      "body_en": "The most notable 2026 shift in sports AI: competition moves from 'algorithm accuracy' to 'coaching personality.' Fitbod's calm rationality vs Freeletics' military-style motivation vs Future's personal warmth — differentiation now lies in HOW the AI talks. Same logic as ChatGPT vs Claude: when features converge, personality becomes the moat. Another observation: nutrition tracking barriers finally lowered by AI vision — 'photo to calories' went from gimmick to table stakes. But the real design challenge isn't recognition accuracy — it's how to not make users feel judged when they're eating chips.",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Typography 2025 — Magazine Layout Exploration",
+      "body": "杂志排版的系统性探索，从网格系统到字体配对到留白节奏。不是一个项目，而是一套方法论的可视化呈现。对任何做内容设计的人都有参考价值。",
+      "body_en": "Systematic exploration of magazine typography — from grid systems to type pairing to whitespace rhythm. Not a single project but a methodology visualized. Reference value for anyone doing content design.",
+      "tags": [
+        "Typography",
+        "Grid System",
+        "Methodology",
+        "Magazine"
+      ],
+      "link": "https://www.behance.net/gallery/240228963/Typography-2025-Project-5-Magazine-Layout",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/f4311b156389399.6367a4b5eb57b.png",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "2026 Web Design：AI-Ready 内容结构",
+      "body": "Elementor 和 Showit 的 2026 趋势报告都提到同一件事：内容设计要为 AI 可读性优化。结构化标记、语义化 HTML、清晰的内容层级不再只是 SEO 需求，而是 AI 时代的内容基础设施。",
+      "body_en": "Both Elementor and Showit 2026 trend reports highlight the same thing: content design must optimize for AI readability. Structured markup, semantic HTML, clear content hierarchy are no longer just SEO — they're content infrastructure for the AI era.",
+      "tags": [
+        "AI-Ready",
+        "Semantic",
+        "Structure",
+        "Web Trends"
+      ],
+      "link": "https://elementor.com/blog/web-design-trends-2026/",
+      "linkText": "Elementor",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a4318a211282795.672053c82577c.jpg",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Editorial Typography — Serif Renaissance",
+      "body": "衬线体在数字环境中的复兴实验。高分辨率屏幕终于让衬线体的细节不再是负担，editorial 风格网站大胆使用 Display Serif 做标题，正文保持 sans-serif 的可读性。",
+      "body_en": "Serif renaissance in digital environments. High-res screens finally make serif details an asset, not a liability. Editorial sites boldly use Display Serif for headlines while keeping sans-serif body text for readability.",
+      "tags": [
+        "Serif",
+        "Typography",
+        "Editorial",
+        "High-Res"
+      ],
+      "link": "https://www.behance.net/search/projects/editorial%20typography",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9989be132439663.61a9f246db6ee.jpg",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Content Design 在 2026 年面临一个根本性的身份转变：你设计的内容不只给人看了，还给 AI 看。Elementor、Showit、Lovable 的趋势报告都在说同一件事——语义化结构、结构化数据、可机器解析的内容层级。这意味着什么？typography 的美学价值没变，但它现在多了一个维度：机器可读性。最讽刺的是，为 AI 优化的内容结构，恰恰也是对人类最友好的——清晰的层级、明确的语义、一致的节奏。好的内容设计从来就是给「快速扫描者」准备的，AI 不过是最极端的快速扫描者。",
+      "body_en": "Content Design faces a fundamental identity shift in 2026: your content isn't just for humans anymore — it's for AI too. Elementor, Showit, Lovable trend reports all say the same thing: semantic structure, structured data, machine-parseable content hierarchy. What does this mean? Typography's aesthetic value is unchanged, but it now has a new dimension: machine readability. The irony: content optimized for AI is exactly what's most human-friendly — clear hierarchy, explicit semantics, consistent rhythm. Good content design was always for 'speed scanners.' AI is just the ultimate speed scanner.",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "GO! 2025 — Generative Identity Proposal",
+      "body": "生成式视觉识别系统的先驱案例。品牌标识不再是固定的 logo，而是一套参数化生成规则——每次出现都不同，但总能被识别为同一个品牌。算法即品牌。",
+      "body_en": "Pioneering case of generative visual identity. Brand identity is no longer a fixed logo but a set of parametric generation rules — different each time, yet always recognizable as the same brand. Algorithm as brand.",
+      "tags": [
+        "Generative Identity",
+        "Parametric",
+        "Algorithm",
+        "Pioneer"
+      ],
+      "link": "https://www.behance.net/gallery/148096401/GO-2025-Generative-Identity-Proposal",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ce006d240484941.693fe967834a7.jpg",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI Visual Branding 2026：自适应品牌系统",
+      "body": "Spinta Digital 的报告总结了 AI 视觉品牌的三大趋势：生成式标识（每次渲染不同）、上下文自适应（根据用户/场景变化）、以及 AI 辅助的品牌一致性检测。品牌设计从「创作」走向「系统设计」。",
+      "body_en": "Spinta Digital's report summarizes three AI visual branding trends: generative identity (different each render), context-adaptive (changes per user/scenario), and AI-assisted brand consistency detection. Brand design shifts from 'creation' to 'systems design.'",
+      "tags": [
+        "Adaptive Brand",
+        "Generative",
+        "System Design",
+        "AI Branding"
+      ],
+      "link": "https://spintadigital.com/blog/ai-visual-branding-2026/",
+      "linkText": "Spinta Digital",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e148c4230213235.6872c1acb133e.jpg",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Design Trends 2026 — Behance 年度视觉趋势",
+      "body": "Behance 上的 2026 设计趋势合集，AI 生成视觉、3D 渐变、动态品牌系统占据主流。值得注意的是「反 AI 美学」也成为一种趋势——手绘、粗糙质感、明显的人工痕迹。",
+      "body_en": "2026 design trends collection on Behance — AI-generated visuals, 3D gradients, dynamic brand systems dominate. Notable: 'anti-AI aesthetics' is also emerging as a trend — hand-drawn, rough textures, visible human imperfection.",
+      "tags": [
+        "Trends 2026",
+        "Anti-AI",
+        "3D Gradient",
+        "Hand-drawn"
+      ],
+      "link": "https://www.behance.net/gallery/239027109/Design-Trends-2026",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a0cf01240484941.693fe9677f9b5.jpg",
+      "date": "2026-03-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "AI 视觉设计在 2026 年出现了一个有趣的辩证：一方面，生成式品牌标识越来越成熟——GO! 2025 的参数化 logo 证明了「算法即品牌」的可行性；另一方面，「反 AI 美学」也在崛起，手绘、粗糙、不完美成为新的高级感。这不矛盾。最聪明的品牌两者都在用：用 AI 生成系统保证效率和一致性，用人工痕迹保证温度和辨识度。2026 年的品牌视觉不是 AI vs 人类，而是 AI × 人类。另外，UX Pilot 的产品设计趋势报告值得一读——它预测「AI 透明度」会成为视觉设计的新维度：用户需要在界面上看到 AI 在做什么、为什么这么做。这和金融领域的可解释 AI 设计趋势完全呼应。",
+      "body_en": "AI visual design in 2026 presents an interesting dialectic: on one hand, generative brand identity matures — GO! 2025's parametric logo proves 'algorithm as brand' viability; on the other, 'anti-AI aesthetics' rises with hand-drawn, rough, imperfect as the new premium. Not contradictory. Smartest brands use both: AI systems for efficiency and consistency, human traces for warmth and distinction. 2026 brand visual isn't AI vs human — it's AI × human. Also worth noting: UX Pilot's product design trends report predicts 'AI transparency' as a new visual design dimension — users need to SEE what AI is doing and why. This echoes the explainable AI design trend in finance perfectly.",
+      "date": "2026-03-12"
     }
   ]
 }
