@@ -3,6 +3,116 @@
     "date": "2026-03-14",
     "section": "design",
     "title": {
+      "zh": "Prompt-to-Code 三国杀：Figma Make vs Google Stitch vs Motiff · 设计交接正在消亡 · AI 设计工具的真正战场是工作流",
+      "en": "Prompt-to-Code Three-Way Battle: Figma Make vs Google Stitch vs Motiff · Design Handoff Is Dying · The Real Battleground Is Workflow"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Google Stitch 更新：Ideate Agent + Figma 导出，从构思到生产级设计一条线</strong> — Google Stitch 新增 Ideate 模式，能与你一起头脑风暴、生成结构化 PRD、定义功能和用户流程，然后直接输出 UI 并导出到 Figma——图层完整、可编辑。这不再是一个 UI 生成器，而是一个产品思维 + 设计执行的全链条工具。对独立开发者和小团队来说，这可能是 2026 年最值得关注的免费设计工具。<br><small>来源：<a href=\"https://stitch.withgoogle.com/\">Google Stitch</a> | <a href=\"https://www.youtube.com/watch?v=-FV02jq46l0\">YouTube: Google Stitch + Figma 实操演示</a></small></li><li><strong>toools.design 横评：9 款 AI UI/UX 工具深度对比，Motiff 代码输出最强</strong> — 最全面的 2026 AI 设计工具横评。Motiff 在 React/HTML 代码导出方面领先（描述组件即生成代码），Figma Make 胜在生态整合（$16/月含在 Pro 内），Stitch 免费但实验性。新入局者 Flowstep 主打「从早期设计到生产输出」的平衡路径。关键发现：所有头部工具都在往代码输出方向走。<br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">toools.design: 9 Best AI Tools for UI/UX 2026</a></small></li><li><strong>Banani 发布 2026 AI Design-to-Code 完整指南：设计交接的终结？</strong> — Banani 的指南覆盖了 Stitch、v0、Builder.io、Anima、Locofy 等所有主流 design-to-code 工具，核心论点是：设计师和开发者之间的「交接」环节正在被 AI 从两头压缩。设计工具直出代码，开发工具理解设计意图——中间的 gap 正在物理性消失。<br><small>来源：<a href=\"https://www.banani.co/blog/ai-design-to-code-tools\">Banani: AI Design-to-Code Tools 2026</a></small></li><li><strong>Figma 官方指南更新：AI 工具不是替代品，是工作流加速器</strong> — Figma 发布三篇资源指南（AI 设计工具、AI 产品设计、AI UX 工具），定义了「AI 连接工作流」的概念：不是一个工具做所有事，而是多个 AI 能力嵌入 Figma 生态形成流水线。Figma Make + 插件生态 + 第三方集成 = 一个以 Figma 为核心的 AI 设计操作系统。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-design-tools/\">Figma: 11 Best AI Design Tools 2026</a> | <a href=\"https://www.figma.com/resource-library/ai-product-design/\">Figma: AI Product Design</a> | <a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers/\">Figma: AI Tools for UX</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>Design-to-Code 成为主战场</strong>：所有头部工具都在竞争「谁的代码输出最可用」</li><li><strong>Google 认真了</strong>：Stitch 从实验品升级为全链条产品工具，Figma 导出能力是关键一步</li><li><strong>设计工具平台化</strong>：Figma 把自己定义为「AI 设计操作系统」，开放生态对抗单点工具</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>2026 年 AI 设计工具的真正战争不在「谁画得更好」——在「谁能让设计直接变成产品」。</strong></p><p>今天的四条新闻拼在一起，画面非常清晰：AI 设计工具市场正在经历一场从「生成」到「交付」的范式转移。2024 年大家兴奋的是 prompt 能画出漂亮的 UI；2026 年大家关心的是那个 UI 能不能直接跑起来。这个转变意义深远——它重新定义了「设计工具」这个品类的边界。</p><p>Google Stitch 的 Ideate Agent 是今天最值得关注的更新。它不只是「画 UI」，而是从产品思维开始——帮你写 PRD、定义功能、规划用户流程，然后才是视觉输出。这说明 Google 理解了一件事：<strong>设计的瓶颈从来不是「画」，而是「想」。</strong>大多数 AI 设计工具在解决错误的问题——它们在加速执行层，但设计真正的价值在决策层。Stitch 的 Ideate 模式试图往上游走，把 AI 从「手」变成「脑」。这是不是能成功另说，但方向是对的。</p><p>然后是 design-to-code 这场军备竞赛。Motiff 直出 React/HTML，Stitch 能导出到 Figma 再走开发流程，Banani 做中间层翻译，v0 和 Builder.io 从开发侧往设计靠——所有人都在从不同方向挤压同一个缝隙：<strong>设计师和开发者之间的「交接成本」。</strong>这是设计行业数十年来最大的效率黑洞。一个按钮在 Figma 里长这样，到了代码里可能完全不是那么回事。标注、切图、沟通、返工——有人估算过，一个中型产品团队每月花在设计交接上的时间超过 100 小时。现在 AI 从两头同时压缩这个缝隙。</p><p>Figma 的应对策略是最聪明的。它不试图在每个单点上打败所有对手，而是把自己变成一个「操作系统」——你可以在 Figma 生态里调用各种 AI 能力，从 Make 生成 UI，到插件做可达性检查，到第三方工具做用户测试。这和 Adobe Project Graph 的逻辑一致：<strong>平台 > 工具。</strong>当你的竞争对手是一个单点工具时，你作为平台的优势是用户不需要离开你。Google Stitch 加了 Figma 导出——这实际上是在承认 Figma 的平台地位：即使 Google 做了更好的 AI 生成，最终还是要回到 Figma 做精细化和协作。</p><p><strong>我的预测：2026 年底之前，「设计师」和「前端开发者」这两个角色的边界会变得模糊到令人不安的程度。</strong>不是说设计师要写代码，也不是说开发者要学设计——而是 AI 会在中间创造一个新的角色空间：「用 AI 工具把想法直接变成可运行产品的人」。无论你叫它产品设计师、创意工程师还是别的什么，这个角色的核心能力不是 Figma 也不是 React，而是产品判断力。工具的边界消失了，人的判断力反而更值钱了。</p></div>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Google Stitch Update: Ideate Agent + Figma Export</strong> — New Ideate mode brainstorms, generates PRDs, plans user flows, then outputs UI with clean Figma export. From ideation to production-ready design in one tool.<br><small>Source: <a href=\"https://stitch.withgoogle.com/\">Google Stitch</a> | <a href=\"https://www.youtube.com/watch?v=-FV02jq46l0\">YouTube Demo</a></small></li><li><strong>toools.design Deep Comparison: 9 AI UI/UX Tools, Motiff Leads Code Output</strong> — Motiff best for React/HTML export, Figma Make wins ecosystem, Stitch free but experimental. All top tools converging on code output.<br><small>Source: <a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">toools.design</a></small></li><li><strong>Banani: The End of Design Handoff?</strong> — Comprehensive guide covering Stitch, v0, Builder.io, Anima, Locofy. Design tools output code, dev tools understand design intent — the gap is physically disappearing.<br><small>Source: <a href=\"https://www.banani.co/blog/ai-design-to-code-tools\">Banani</a></small></li><li><strong>Figma Defines \"AI-Connected Workflow\"</strong> — Three new resource guides position Figma as an AI design operating system: Make + plugins + third-party integrations as pipeline.<br><small>Source: <a href=\"https://www.figma.com/resource-library/ai-design-tools/\">Figma</a></small></li></ul><h3>🔄 Trends</h3><ul><li>Design-to-code is the main battleground</li><li>Google gets serious: Stitch evolves from experiment to full product tool</li><li>Design tool platformization: Figma as AI design OS</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>The real AI design war of 2026 isn't about who draws better — it's about who turns design into product fastest.</strong></p><p>Google Stitch's Ideate Agent is the most interesting move: it goes upstream from UI generation to product thinking (PRDs, feature planning, user flows). Design's bottleneck was never \"drawing\" — it was \"deciding.\" The design-to-code arms race (Motiff, Stitch, v0, Builder.io) is compressing the design-dev handoff from both sides. Figma's platform strategy is smartest: become the OS, let others plug in. Even Google exports to Figma — acknowledging its platform dominance. <strong>By end of 2026, the boundary between \"designer\" and \"front-end developer\" will blur uncomfortably. AI creates a new role space: people who turn ideas into running products using AI tools. The core skill isn't Figma or React — it's product judgment.</strong></p></div>"
+    },
+    "cover": "https://app-companion-430619.appspot.com/static/og.png",
+    "sources": [
+      {
+        "title": {
+          "zh": "Google Stitch 官网",
+          "en": "Google Stitch"
+        },
+        "url": "https://stitch.withgoogle.com/",
+        "image": "https://app-companion-430619.appspot.com/static/og.png"
+      },
+      {
+        "title": {
+          "zh": "Google Stitch + Figma 实操演示",
+          "en": "Google Stitch + Figma Demo"
+        },
+        "url": "https://www.youtube.com/watch?v=-FV02jq46l0",
+        "image": ""
+      },
+      {
+        "title": {
+          "zh": "toools.design: 9 款 AI UI/UX 工具横评",
+          "en": "toools.design: 9 Best AI Tools for UI/UX"
+        },
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/698cd02d957a86cddbeccc80_best-ai-tools-ui-ux-designers-2026.png"
+      },
+      {
+        "title": {
+          "zh": "Banani: AI Design-to-Code 完整指南",
+          "en": "Banani: AI Design-to-Code Guide"
+        },
+        "url": "https://www.banani.co/blog/ai-design-to-code-tools",
+        "image": "https://framerusercontent.com/images/X7STa0NAyIaUEyOCjBkAxLkNbTk.png"
+      },
+      {
+        "title": {
+          "zh": "Figma: 2026 AI 设计工具指南",
+          "en": "Figma: AI Design Tools 2026"
+        },
+        "url": "https://www.figma.com/resource-library/ai-design-tools/",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/69d0a8e52134d8214a81cab2f3985cc06d162115-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-14",
+    "section": "tech",
+    "title": {
+      "zh": "Claude 登顶 App Store · OpenAI 与 Anthropic 的宿命之战 · Google/OpenAI 员工声援 Anthropic · AI 融资创纪录",
+      "en": "Claude Tops App Store · OpenAI vs Anthropic: It's Personal · Google/OpenAI Employees Back Anthropic · AI Funding Hits Records"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Claude 登顶 Apple App Store：五角大楼事件引发的「逆反效应」让 Anthropic 成为全民话题</strong> — 在被特朗普政府列为「供应链风险」后，Claude 反而超越 ChatGPT 成为 App Store 下载量第一的免费应用。特朗普在 Truth Social 发文攻击 Anthropic 是「左翼疯子」，这条推文反而成了最好的广告。Mashable 报道称 Claude 在美国排名第一，ChatGPT 第二，Gemini 远远排在第四。与此同时，Claude 出现「高负载错误」——需求暴增让服务器撑不住了。<br><small>来源：<a href=\"https://mashable.com/article/claude-overtakes-chatgpt-in-apple-app-store\">Mashable: Claude 超越 ChatGPT 登顶 App Store</a> | <a href=\"https://www.cnbc.com/2026/03/02/anthropic-claude-ai-outage-apple-pentagon.html\">CNBC: Claude 高负载错误</a></small></li><li><strong>数百名 Google 和 OpenAI 员工公开声援 Anthropic：AI 安全不应被政治化</strong> — 在五角大楼事件持续发酵一周后，来自 Google 和 OpenAI 的数百名员工公开签署联名信，支持 Anthropic 坚守安全底线。这是 AI 行业内部最大规模的跨公司团结行动。讽刺的是，OpenAI 刚在五角大楼与 Anthropic 断约后几小时就和国防部达成了新协议。员工和公司的立场完全相反。<br><small>来源：<a href=\"https://www.aol.com/news/hundreds-google-openai-employees-back-182753848.html\">AOL: Google/OpenAI 员工声援 Anthropic</a></small></li><li><strong>NYT 深度：OpenAI vs Anthropic 不只是商业竞争，是 Altman 和 Amodei 的个人恩怨</strong> — 纽约时报长篇报道揭示了两家公司对抗的深层根源。Amodei 兄妹 2021 年从 OpenAI 出走创立 Anthropic，核心分歧是 AI 安全的优先级。五角大楼合同只是这场宿命之战的最新战场。OpenAI 手握 1000 亿美元现金和 ChatGPT 的消费者基础，Anthropic 手握道德高地和科研人才——两种截然不同的 AI 愿景在直接碰撞。<br><small>来源：<a href=\"https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html\">NYT: For OpenAI and Anthropic, the Competition Is Deeply Personal</a></small></li><li><strong>2026 年 2 月 AI 融资创历史纪录：单月 1890 亿美元，83% 集中在三家公司</strong> — AI Funding Tracker 数据显示，OpenAI（1100 亿）、Anthropic（300 亿，估值 3800 亿）、Waymo（160 亿）三家占据了 2 月全球创业投资的 83%。ElevenLabs 以 50 亿美元估值完成 5 亿美元 D 轮，是语音 AI 领域史上最大融资。Rhoda（机器人 AI）估值 17 亿。资本正在以前所未有的速度向 AI 集中。<br><small>来源：<a href=\"https://aifundingtracker.com/top-50-ai-startups/\">AI Funding Tracker: Top 50 AI Startups March 2026</a> | <a href=\"https://techstartups.com/2026/03/11/top-tech-news-today-march-11-2026/\">TechStartups: March 11 2026</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>「被打压反而更红」</strong>：政治压力成了 Anthropic 最好的营销——科技版「禁书效应」</li><li><strong>AI 行业内部分裂加深</strong>：员工 vs 管理层，安全派 vs 商业派，裂痕从公司间扩展到公司内部</li><li><strong>资本极度集中</strong>：前三家 AI 公司拿走了 83% 的投资，马太效应加速</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>本周 AI 行业发生了一件非常罕见的事：一家公司因为「太安全」而变成了最受欢迎的产品。</strong></p><p>Claude 登顶 App Store 这件事，表面上是一个下载量的数据点，深层是一个文化信号。特朗普在 Truth Social 上骂 Anthropic 是「左翼疯子」——这条推文可能价值 5 亿美元的品牌营销效果。在 AI 产品高度同质化的今天（说实话 ChatGPT、Claude、Gemini 对普通用户来说差别没那么大），Anthropic 意外获得了一个竞争对手花钱买不到的东西：<strong>品牌故事。</strong>它不再只是「另一个 AI 聊天机器人」，而是「那个敢对五角大楼说不的 AI」。在消费者市场，故事比功能重要——Apple 教会了世界这一点。</p><p>但更深层的故事在员工声援这件事上。数百名 Google 和 OpenAI 的员工公开支持 Anthropic——请注意，OpenAI 的员工在支持它的直接竞争对手，而且是在 OpenAI 刚刚抢走了 Anthropic 的五角大楼合同之后。这说明什么？<strong>AI 行业的「安全意识」已经超越了公司边界。</strong>这些工程师和研究员在 AI 安全这个议题上的身份认同，比他们作为某家公司员工的身份认同更强。这是一个非常有趣的现象——在科技行业，我们很少看到员工大规模跨公司团结。上一次类似的事件可能要追溯到 2018 年 Google 员工抗议 Project Maven（军事 AI 项目）。历史在重复，但这次规模更大。</p><p>NYT 的报道把 Altman 和 Amodei 的个人恩怨放到了聚光灯下。2021 年的出走、理念分歧、五角大楼合同的明争暗夺——这些不只是八卦，它们揭示了 AI 行业最核心的路线之争：<strong>是先跑马圈地再补安全，还是安全优先哪怕跑慢一步？</strong>OpenAI 选了前者（1000 亿美元现金，转型营利性公司，拥抱政府合同），Anthropic 选了后者（坚守红线，被政府打压，反而赢得民心）。讽刺的是，市场正在同时奖励两种策略——OpenAI 拿到了政府合同和最大的融资，Anthropic 拿到了 App Store 第一和公众好感。</p><p>最后说融资数据。单月 1890 亿美元，三家公司拿走 83%。这个数字应该让所有人警觉——不是因为 AI 不值得投资，而是因为这种级别的资本集中度在历史上从来不是好事。当一个行业 83% 的投资流向 3 家公司时，创新不是在加速，而是在被垄断。<strong>那些真正具有颠覆性的小公司——可能正在车库里做出下一个突破性 AI 架构——拿到的资金占比不到 17%。</strong>2000 年互联网泡沫前，资本也是这样集中的。我不是说 AI 是泡沫（它不是），但资本的分配方式本身就是一个风险信号。ElevenLabs 的 50 亿美元估值和 Rhoda 的 17 亿估值说明，至少在语音 AI 和机器人领域，资本还在寻找新标的。但大格局已经定了：这是巨头的游戏。</p></div>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Claude Tops Apple App Store After Pentagon Ban</strong> — Trump's \"leftwing nut jobs\" Truth Social post became Anthropic's best ad. Claude overtakes ChatGPT as #1 free app. Servers strained by demand surge.<br><small>Source: <a href=\"https://mashable.com/article/claude-overtakes-chatgpt-in-apple-app-store\">Mashable</a> | <a href=\"https://www.cnbc.com/2026/03/02/anthropic-claude-ai-outage-apple-pentagon.html\">CNBC</a></small></li><li><strong>Hundreds of Google & OpenAI Employees Back Anthropic</strong> — Largest cross-company solidarity action in AI. Irony: OpenAI employees support rival that OpenAI just undercut on Pentagon deal.<br><small>Source: <a href=\"https://www.aol.com/news/hundreds-google-openai-employees-back-182753848.html\">AOL</a></small></li><li><strong>NYT: OpenAI vs Anthropic Is Deeply Personal</strong> — Altman vs Amodei rivalry goes back to 2021 split. Two visions: scale-first vs safety-first. Pentagon contract is latest battlefield.<br><small>Source: <a href=\"https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html\">NYT</a></small></li><li><strong>February 2026: $189B AI Funding, 83% to Three Companies</strong> — OpenAI ($110B), Anthropic ($30B at $380B), Waymo ($16B). ElevenLabs $500M Series D at $5B. Capital concentration at unprecedented levels.<br><small>Source: <a href=\"https://aifundingtracker.com/top-50-ai-startups/\">AI Funding Tracker</a></small></li></ul><h3>🔄 Trends</h3><ul><li>\"Banned = popular\": political pressure becomes Anthropic's best marketing</li><li>AI industry splits deepen: employees vs management, safety vs commerce</li><li>Extreme capital concentration: top 3 take 83% of all AI investment</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>A company became the most popular AI product by being \"too safe\" — that's a cultural signal, not just a download stat.</strong></p><p>Claude topping the App Store is worth $500M in brand marketing. In a commoditized AI market, Anthropic accidentally got what money can't buy: a brand story. Hundreds of Google/OpenAI employees supporting a direct competitor shows AI safety identity transcends company loyalty — unprecedented cross-company solidarity. The $189B February funding with 83% going to three companies should alarm everyone: when innovation capital concentrates this extremely, disruption gets monopolized. <strong>The AI industry is simultaneously rewarding both strategies: OpenAI gets government contracts and biggest funding, Anthropic gets #1 App Store and public goodwill. The market hasn't decided which vision wins — it's betting on both.</strong></p></div>"
+    },
+    "cover": "https://helios-i.mashable.com/imagery/articles/07hMekHbKAvUxuUFIIa9RLe/hero-image.fill.size_1200x675.v1772377601.png",
+    "sources": [
+      {
+        "title": {
+          "zh": "Mashable: Claude 超越 ChatGPT 登顶 App Store",
+          "en": "Mashable: Claude Overtakes ChatGPT"
+        },
+        "url": "https://mashable.com/article/claude-overtakes-chatgpt-in-apple-app-store",
+        "image": "https://helios-i.mashable.com/imagery/articles/07hMekHbKAvUxuUFIIa9RLe/hero-image.fill.size_1200x675.v1772377601.png"
+      },
+      {
+        "title": {
+          "zh": "CNBC: Claude 高负载错误",
+          "en": "CNBC: Claude Elevated Errors"
+        },
+        "url": "https://www.cnbc.com/2026/03/02/anthropic-claude-ai-outage-apple-pentagon.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/107431256-1718898592166-gettyimages-1737213579-PGONCHAR_4313.jpeg?v=1772464730&amp;w=1920&amp;h=1080"
+      },
+      {
+        "title": {
+          "zh": "Google/OpenAI 员工声援 Anthropic",
+          "en": "Google/OpenAI Employees Back Anthropic"
+        },
+        "url": "https://www.aol.com/news/hundreds-google-openai-employees-back-182753848.html",
+        "image": ""
+      },
+      {
+        "title": {
+          "zh": "NYT: OpenAI 与 Anthropic 的宿命之战",
+          "en": "NYT: OpenAI vs Anthropic Rivalry"
+        },
+        "url": "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html",
+        "image": ""
+      },
+      {
+        "title": {
+          "zh": "AI Funding Tracker: 2026 年 3 月 Top 50",
+          "en": "AI Funding Tracker: Top 50 March 2026"
+        },
+        "url": "https://aifundingtracker.com/top-50-ai-startups/",
+        "image": "https://aifundingtracker.com/wp-content/uploads/2025/09/AI-Funding-Tracker-1.webp"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-14",
+    "section": "design",
+    "title": {
       "zh": "Adobe Project Graph 重新定义创意工作流 · AI 设计工具从「生成」走向「编排」· 设计师的真实工具栈长什么样",
       "en": "Adobe Project Graph Redefines Creative Workflows · AI Design Tools Shift from Generation to Orchestration · What Real Designer Tool Stacks Look Like"
     },
