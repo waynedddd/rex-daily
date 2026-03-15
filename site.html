@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rex Site Pick — 每日一站</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&family=Noto+Sans+SC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --font: 'Space Grotesk', 'Noto Sans SC', system-ui, sans-serif;
+      --font-mono: 'Space Mono', monospace;
+      --bg: #0a0a0a;
+      --accent: #c4a84e;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: var(--bg);
+      color: #f5f0e8;
+      font-family: var(--font);
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+      min-height: 100vh;
+    }
+
+    /* ── Topbar ── */
+    .topbar {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 200;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 14px 24px;
+      background: rgba(10,10,10,0.6);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+    }
+    .logo { font-size: 18px; letter-spacing: -0.01em; opacity: 0.7; }
+    .logo a { color: inherit; text-decoration: none; }
+    .controls { display: flex; gap: 8px; align-items: center; }
+    .ctrl-btn {
+      background: none; border: 1px solid rgba(255,255,255,0.15);
+      color: rgba(255,255,255,0.5); font-family: var(--font);
+      font-size: 12px; text-transform: uppercase; letter-spacing: 0.15em;
+      padding: 6px 14px; border-radius: 999px; cursor: pointer;
+      transition: all 0.3s; text-decoration: none; display: inline-block;
+    }
+    .ctrl-btn:hover { border-color: rgba(255,255,255,0.4); color: rgba(255,255,255,0.8); }
+    .ctrl-btn.active { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.85); border-color: rgba(255,255,255,0.3); }
+
+    /* ── Hero section ── */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 80px 24px 60px;
+      position: relative;
+    }
+
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      background-size: cover;
+      background-position: center;
+      filter: brightness(0.3) saturate(0.5);
+      transition: opacity 1s ease;
+    }
+
+    .hero-overlay {
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse at center, transparent 0%, rgba(10,10,10,0.7) 70%, rgba(10,10,10,0.95) 100%);
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      max-width: 720px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .pick-label {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.3em;
+      color: var(--accent);
+      margin-bottom: 16px;
+      opacity: 0;
+      animation: fadeUp 0.8s 0.2s forwards;
+    }
+
+    .pick-date {
+      font-family: var(--font-mono);
+      font-size: 12px;
+      letter-spacing: 0.1em;
+      opacity: 0.3;
+      margin-bottom: 24px;
+      animation: fadeUp 0.8s 0.3s forwards;
+      opacity: 0;
+    }
+
+    .pick-name {
+      font-size: clamp(48px, 10vw, 96px);
+      font-weight: 700;
+      letter-spacing: -0.04em;
+      line-height: 1;
+      margin-bottom: 16px;
+      opacity: 0;
+      animation: fadeUp 0.8s 0.4s forwards;
+    }
+
+    .pick-tagline {
+      font-size: clamp(16px, 2.5vw, 22px);
+      font-weight: 300;
+      line-height: 1.5;
+      opacity: 0;
+      color: rgba(255,255,255,0.6);
+      margin-bottom: 32px;
+      animation: fadeUp 0.8s 0.5s forwards;
+    }
+
+    .pick-visit {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-family: var(--font-mono);
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      text-decoration: none;
+      color: var(--accent);
+      border: 1px solid rgba(196,168,78,0.3);
+      padding: 12px 28px;
+      border-radius: 999px;
+      transition: all 0.4s;
+      opacity: 0;
+      animation: fadeUp 0.8s 0.6s forwards;
+    }
+
+    .pick-visit:hover {
+      background: rgba(196,168,78,0.1);
+      border-color: rgba(196,168,78,0.6);
+      transform: translateY(-2px);
+    }
+
+    .pick-visit::after { content: '→'; transition: transform 0.3s; }
+    .pick-visit:hover::after { transform: translateX(4px); }
+
+    /* ── Rex Take section ── */
+    .rex-section {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 0 24px 60px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .rex-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+
+    .rex-header-icon { font-size: 20px; }
+
+    .rex-header-label {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      opacity: 0.4;
+    }
+
+    .rex-body {
+      font-size: 16px;
+      line-height: 1.9;
+      color: rgba(255,255,255,0.6);
+    }
+
+    /* ── Tags ── */
+    .pick-tags {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 40px;
+      opacity: 0;
+      animation: fadeUp 0.8s 0.7s forwards;
+    }
+
+    .pick-tag {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      padding: 4px 12px;
+      border-radius: 2px;
+      background: rgba(255,255,255,0.06);
+      color: rgba(255,255,255,0.4);
+      letter-spacing: 0.05em;
+    }
+
+    /* ── Archive ── */
+    .archive {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 24px 80px;
+    }
+
+    .archive-header {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.3em;
+      opacity: 0.25;
+      margin-bottom: 24px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+
+    .archive-item {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 14px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.04);
+      cursor: pointer;
+      transition: all 0.3s;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .archive-item:hover { padding-left: 8px; }
+
+    .archive-date {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      opacity: 0.25;
+      flex-shrink: 0;
+      width: 80px;
+    }
+
+    .archive-name {
+      font-size: 16px;
+      font-weight: 500;
+      letter-spacing: -0.01em;
+      flex: 1;
+    }
+
+    .archive-cat {
+      font-family: var(--font-mono);
+      font-size: 9px;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      opacity: 0.2;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      text-align: center;
+      padding: 40px 24px;
+      font-size: 12px;
+      opacity: 0.15;
+      font-family: var(--font-mono);
+    }
+
+    /* ── Animations ── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ── Loading ── */
+    .loading {
+      text-align: center;
+      padding: 200px 24px;
+      font-size: 14px;
+      opacity: 0.3;
+      font-family: var(--font-mono);
+    }
+
+    /* ── Mobile ── */
+    @media (max-width: 640px) {
+      .topbar { padding: 10px 16px; }
+      .logo { font-size: 16px; }
+      .ctrl-btn { font-size: 10px; padding: 5px 10px; letter-spacing: 0.08em; }
+      .hero { padding: 60px 16px 40px; }
+      .rex-section { padding: 0 16px 40px; }
+      .archive { padding: 0 16px 60px; }
+      .archive-item { gap: 12px; }
+      .archive-date { width: 64px; font-size: 10px; }
+    }
+
+    /* ── Scrollbar ── */
+    ::-webkit-scrollbar { width: 4px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 4px; }
+  </style>
+</head>
+<body>
+
+  <div class="topbar">
+    <div class="logo"><a href="index.html">Rex Daily</a></div>
+    <div class="controls">
+      <a href="index.html" class="ctrl-btn">Daily</a>
+      <a href="inspire.html" class="ctrl-btn">Inspire</a>
+      <a href="site.html" class="ctrl-btn active">Site Pick</a>
+      <button class="ctrl-btn" data-lang="true" onclick="toggleLang()">EN</button>
+    </div>
+  </div>
+
+  <div id="app">
+    <div class="loading">Loading...</div>
+  </div>
+
+  <div class="footer">Rex Site Pick — curated by 🔍 Rex</div>
+
+  <script>
+    let data = null;
+    let currentLang = localStorage.getItem('rex-lang') || 'zh';
+
+    document.querySelector('[data-lang]').textContent = currentLang === 'zh' ? 'EN' : '中';
+
+    function toggleLang() {
+      currentLang = currentLang === 'zh' ? 'en' : 'zh';
+      localStorage.setItem('rex-lang', currentLang);
+      document.querySelector('[data-lang]').textContent = currentLang === 'zh' ? 'EN' : '中';
+      render();
+    }
+
+    function t(obj) {
+      if (!obj) return '';
+      if (typeof obj === 'string') return obj;
+      return obj[currentLang] || obj['zh'] || obj['en'] || '';
+    }
+
+    function render() {
+      if (!data || !data.picks || !data.picks.length) {
+        document.getElementById('app').innerHTML = '<div class="loading">暂无推荐</div>';
+        return;
+      }
+
+      // Sort by date desc, today's pick is first
+      const sorted = [...data.picks].sort((a, b) => b.date.localeCompare(a.date));
+      const today = sorted[0];
+      const archive = sorted.slice(1);
+
+      const visitLabel = currentLang === 'zh' ? '访问网站' : 'Visit Site';
+      const archiveLabel = currentLang === 'zh' ? '往期推荐' : 'Past Picks';
+
+      let html = `
+        <div class="hero">
+          ${today.cover ? `<div class="hero-bg" style="background-image:url('${today.cover}')"></div>` : ''}
+          <div class="hero-overlay"></div>
+          <div class="hero-content">
+            <div class="pick-label">🔍 Rex's Site Pick</div>
+            <div class="pick-date">${today.date}</div>
+            <h1 class="pick-name">${today.name}</h1>
+            <p class="pick-tagline">${t(today.tagline)}</p>
+            <div class="pick-tags">
+              ${(today.tags || []).map(tag => `<span class="pick-tag">${tag}</span>`).join('')}
+            </div>
+            <a class="pick-visit" href="${today.url}" target="_blank" rel="noopener">${visitLabel}</a>
+          </div>
+        </div>
+
+        <div class="rex-section">
+          <div class="rex-header">
+            <span class="rex-header-icon">🔍</span>
+            <span class="rex-header-label">Rex's Take</span>
+          </div>
+          <div class="rex-body">${t(today.rex_take)}</div>
+        </div>
+      `;
+
+      if (archive.length) {
+        html += `
+          <div class="archive">
+            <div class="archive-header">${archiveLabel}</div>
+            ${archive.map(pick => `
+              <a class="archive-item" href="${pick.url}" target="_blank" rel="noopener" title="${t(pick.tagline)}">
+                <span class="archive-date">${pick.date}</span>
+                <span class="archive-name">${pick.name}</span>
+                <span class="archive-cat">${pick.category || ''}</span>
+              </a>
+            `).join('')}
+          </div>
+        `;
+      }
+
+      document.getElementById('app').innerHTML = html;
+    }
+
+    fetch('sites.json?' + Date.now())
+      .then(r => r.json())
+      .then(d => { data = d; render(); })
+      .catch(e => {
+        document.getElementById('app').innerHTML = '<div class="loading">Failed to load. ' + e.message + '</div>';
+      });
+  </script>
+
+</body>
+</html>
