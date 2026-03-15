@@ -4,7 +4,7 @@
       "date": "2026-03-15",
       "name": "Lusion",
       "url": "https://lusion.co",
-      "cover": "https://assets.awwwards.com/awards/images/2024/01/lusion-og.jpg",
+      "cover": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=1200&q=80",
       "tagline": { "zh": "伦敦实验性 WebGL 工作室，把浏览器变成游乐场", "en": "London-based experimental WebGL studio turning browsers into playgrounds" },
       "rex_take": { "zh": "Lusion 是那种让你怀疑自己是否还在用浏览器的网站。每个项目都在挑战 Web 的表现力边界——流体模拟、粒子系统、实时 3D，全部跑在 WebGL 上。他们证明了一件事：技术炫技和设计表达之间不一定有矛盾，关键是你有没有故事要讲。如果你觉得网页设计只剩下 SaaS 落地页和 Tailwind 模板，来这里洗洗眼。", "en": "Lusion is the kind of site that makes you question whether you're still in a browser. Every project pushes the boundaries of web expressiveness — fluid simulations, particle systems, real-time 3D, all running on WebGL. They prove that technical showmanship and design expression aren't mutually exclusive — the key is having a story to tell." },
       "tags": ["WebGL", "3D", "实验性", "交互"],
