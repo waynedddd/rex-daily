@@ -998,7 +998,12 @@
       "title": "Fintech UX 2026：信任驱动设计的崛起",
       "body": "Stan.vision 的深度分析指出，2026 年 Fintech 用户的核心期望从「功能丰富」转向「清晰、个性化、可信赖」。习惯养成不再是制造依赖，而是让用户信任到愿意主动回来。当信任定义了产品的生死，赢家是那些让理财变得清晰、可预测、有人味的体验。",
       "body_en": "Stan.vision's deep analysis reveals 2026 fintech users' core expectation shifting from 'feature-rich' to 'clear, personalized, trustworthy.' Habit-forming isn't about dependency — it's about trust strong enough for users to return without resistance. When trust defines product survival, the winners make money management feel clear, predictable, and human.",
-      "tags": ["Trust UX", "Personalization", "Habit Design", "Fintech"],
+      "tags": [
+        "Trust UX",
+        "Personalization",
+        "Habit Design",
+        "Fintech"
+      ],
       "link": "https://www.stan.vision/journal/fintech-ux-in-2026-what-users-expect-from-modern-financial-products",
       "linkText": "Stan.vision",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7491c4221238519.67d52cc41dfef.jpg",
@@ -1010,7 +1015,12 @@
       "title": "Embedded Finance × AI：金融基础设施的隐形化",
       "body": "Innowise 2026 报告总结：嵌入式金融不再是趋势而是基线。Open Finance 从银行扩展到工资、养老金、税务的全谱数据，实时行为驱动金融产品成为可能。核心银行系统现代化加速——模块化、云原生架构支撑更快迭代。金融正在变成看不见的基础设施。",
       "body_en": "Innowise 2026 report: embedded finance is no longer a trend but a baseline. Open Finance expands beyond banking to payroll, pensions, tax — full-spectrum data enabling real-time, behavior-driven financial products. Core banking modernization accelerates with modular, cloud-native architecture. Finance is becoming invisible infrastructure.",
-      "tags": ["Embedded Finance", "Open Finance", "Cloud-Native", "Infrastructure"],
+      "tags": [
+        "Embedded Finance",
+        "Open Finance",
+        "Cloud-Native",
+        "Infrastructure"
+      ],
       "link": "https://innowise.com/blog/fintech-trends/",
       "linkText": "Innowise",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/3f35a5234937291.68ccf8c9ab07a.png",
@@ -1022,7 +1032,12 @@
       "title": "Origin AI Advisor — 全谱金融规划",
       "body": "Origin 的 AI Advisor 不是又一个聊天机器人，而是内嵌于完整金融画像的推理引擎。它理解用户的账户、交易、投资、历史和预测——而非对孤立提示做反应。准确率 98.3%，在合规环境中做金融推理。这才是 AI 金融助手该有的样子。",
       "body_en": "Origin's AI Advisor isn't just another chatbot — it's a reasoning engine embedded in a complete financial profile. It understands accounts, transactions, investments, history, and forecasts rather than responding to isolated prompts. 98.3% accuracy, financial reasoning in regulated environments. This is what AI financial assistants should look like.",
-      "tags": ["AI Advisor", "Full-Spectrum", "Financial Planning", "Regulated AI"],
+      "tags": [
+        "AI Advisor",
+        "Full-Spectrum",
+        "Financial Planning",
+        "Regulated AI"
+      ],
       "link": "https://useorigin.com/resources/blog/ai-in-personal-finance-2026-comparing-the-top-tools-and-approaches",
       "linkText": "Origin",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ce9aff234937291.68ccf8c9aaa74.png",
@@ -1041,7 +1056,12 @@
       "title": "PulseUp — AI Fitness App UI/UX",
       "body": "Behance 上近 800 个赞的 AI 健身 App 设计。视觉语言很成熟：渐变活力色 + 卡片化训练模块 + AI 教练反馈实时嵌入运动流程。最值得学习的是它如何把「数据」和「动作」两个维度在同一屏幕上平衡。",
       "body_en": "Nearly 800 appreciations on Behance. Mature visual language: gradient energy colors + card-based training modules + AI coach feedback embedded in real-time workout flow. Most worth studying: how it balances 'data' and 'action' dimensions on the same screen.",
-      "tags": ["AI Fitness", "Card UI", "Real-time Feedback", "Mobile"],
+      "tags": [
+        "AI Fitness",
+        "Card UI",
+        "Real-time Feedback",
+        "Mobile"
+      ],
       "link": "https://www.behance.net/gallery/231755045/PulseUp-AI-Fitness-App-UIUX-Design",
       "linkText": "Behance",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c1ff7b231755045.688f65c1aadcc.jpg",
@@ -1053,7 +1073,12 @@
       "title": "PowerPeak — Smartwatch × Mobile 运动生态",
       "body": "从智能手表到手机的完整健身追踪生态设计。Dribbble 热门项目，亮点在于跨设备的设计一致性——手表端极简数据，手机端深度分析，信息密度随屏幕尺寸优雅过渡。",
       "body_en": "Complete fitness tracking ecosystem from smartwatch to phone. Dribbble trending — the highlight is cross-device design consistency: minimal data on watch, deep analysis on phone, information density gracefully transitioning with screen size.",
-      "tags": ["Smartwatch", "Cross-Device", "Ecosystem", "Wearable"],
+      "tags": [
+        "Smartwatch",
+        "Cross-Device",
+        "Ecosystem",
+        "Wearable"
+      ],
       "link": "https://dribbble.com/tags/fitness-app",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
@@ -1065,7 +1090,12 @@
       "title": "Sandow — AI Fitness & Nutrition 虚拟教练",
       "body": "Dribbble 上的 AI 健身+营养一体化产品设计。橙色系视觉系统 + 虚拟教练人格化设计，最有意思的是「教练伙伴」的概念——不是冷冰冰的 AI，而是有性格的训练搭档。",
       "body_en": "AI fitness + nutrition integrated product on Dribbble. Orange visual system + personified virtual coach. Most interesting: the 'coaching companion' concept — not a cold AI but a personality-driven training partner.",
-      "tags": ["Virtual Coach", "Nutrition", "Personality", "Orange UI"],
+      "tags": [
+        "Virtual Coach",
+        "Nutrition",
+        "Personality",
+        "Orange UI"
+      ],
       "link": "https://dribbble.com/tags/ai-fitness",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/12821657/file/original-5a25dd60b380c500c9f8e5df330f947b.jpg?resize=752x&vertical=center",
@@ -1084,7 +1114,12 @@
       "title": "2026 设计趋势：不完美美学 vs AI 抛光",
       "body": "Behance 年度趋势报告指出 2026 数字设计的关键词是「平衡」——AI 与人类创意之间、精致与不完美之间、体验丰富与性能之间。最引人注目的趋势：「Raw Design」——粗糙边缘、可见过程、故意摩擦、手绘元素。这是对算法平滑度的反叛。",
       "body_en": "Behance's annual trend report identifies 2026 digital design's keyword as 'balance' — between AI and human creativity, polished and imperfect, experiential richness and performance. Most striking trend: 'Raw Design' — rough edges, visible process, intentional friction, hand-drawn elements. A rebellion against algorithmic smoothness.",
-      "tags": ["Raw Design", "Anti-AI", "Imperfection", "2026 Trends"],
+      "tags": [
+        "Raw Design",
+        "Anti-AI",
+        "Imperfection",
+        "2026 Trends"
+      ],
       "link": "https://www.behance.net/gallery/239027109/Design-Trends-2026",
       "linkText": "Behance",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a0cf01240484941.693fe9677f9b5.jpg",
@@ -1096,7 +1131,12 @@
       "title": "2026 Graphic Design Trends — 三部曲视觉探索",
       "body": "Behance 上的 2026 平面设计趋势系统性梳理，分三个主题展开。不是简单的趋势罗列，而是带有创作实验的视觉化呈现。对做内容设计的人来说，这本身就是一个优秀的 content design 案例——如何把「趋势分析」变成有观赏性的内容。",
       "body_en": "Systematic exploration of 2026 graphic design trends on Behance, organized in three thematic parts. Not a simple trend list but a creative visual experiment. For content designers, this is itself an excellent content design case — how to turn 'trend analysis' into engaging content.",
-      "tags": ["Graphic Design", "Trend Report", "Visual Essay", "Meta-Design"],
+      "tags": [
+        "Graphic Design",
+        "Trend Report",
+        "Visual Essay",
+        "Meta-Design"
+      ],
       "link": "https://www.behance.net/gallery/238193083/2026-Graphic-Design-Trends",
       "linkText": "Behance",
       "image": "https://www.eymockup.com/wp-content/uploads/2025/07/graphic-design-trends-2026-2.jpg",
@@ -1108,7 +1148,12 @@
       "title": "Component-Based Dashboard UI — 2026 模块化设计系统",
       "body": "Dribbble 上的组件化 Dashboard UI 合集。2026 的 UI 趋势非常明确：neumorphism/glassmorphism 已退场，组件驱动的设计系统 + 极简主义 + 清晰的信息层级才是主流。设计系统不是约束，是内容的脚手架。",
       "body_en": "Component-based Dashboard UI collection on Dribbble. 2026 UI trend is clear: neumorphism/glassmorphism exits, component-driven design systems + minimalism + clear info hierarchy dominate. Design systems aren't constraints — they're content scaffolding.",
-      "tags": ["Design System", "Components", "Dashboard", "Minimalist"],
+      "tags": [
+        "Design System",
+        "Components",
+        "Dashboard",
+        "Minimalist"
+      ],
       "link": "https://dribbble.com/tags/design-trends-2026",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/46334296/file/84d1ed2927fe621b7d8446de9b6af56b.jpg?resize=1600x1200&vertical=center",
@@ -1127,7 +1172,12 @@
       "title": "Zajno — AI Design System 视觉识别",
       "body": "Dribbble 上 Zajno 团队为 AI 驱动的设计系统打造的视觉识别。不是在设计一个 AI 产品，而是在设计「设计 AI 的方式」——meta-design 的最佳案例。视觉语言兼顾科技感和设计师审美，没有落入 AI 品牌的常见陷阱。",
       "body_en": "Zajno team's visual identity for an AI-powered design system on Dribbble. Not designing an AI product but designing 'how to design AI' — best case of meta-design. Visual language balances tech sophistication with designer aesthetics, avoiding common AI branding traps.",
-      "tags": ["Meta-Design", "Design System", "Visual Identity", "AI Tools"],
+      "tags": [
+        "Meta-Design",
+        "Design System",
+        "Visual Identity",
+        "AI Tools"
+      ],
       "link": "https://dribbble.com/shots/27104382-Visual-Identity-for-an-AI-Powered-Design-System",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/46797862/file/still-97001c2f52a5da46dea8ac17bf3afb6e.png",
@@ -1139,7 +1189,12 @@
       "title": "Rivo AI — 视觉识别设计",
       "body": "Dribbble 新作，AI 产品的完整视觉识别系统。渐变光谱 + 几何构成 + 克制的动态感。注意它如何处理「AI」这个概念：不用大脑、不用网络节点，而是用光和色彩的流动来暗示智能的存在。",
       "body_en": "Fresh Dribbble work — complete visual identity for an AI product. Gradient spectrum + geometric composition + restrained dynamism. Note how it handles the 'AI' concept: no brains, no network nodes — just light and color flow to hint at intelligence.",
-      "tags": ["Visual Identity", "Gradient", "Abstraction", "AI Branding"],
+      "tags": [
+        "Visual Identity",
+        "Gradient",
+        "Abstraction",
+        "AI Branding"
+      ],
       "link": "https://dribbble.com/shots/27077695-Rivo-AI-Visual-Identity",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/46796672/file/93224defd5dd9324e2d07ab9dcbeb2ed.jpg?resize=752x&vertical=center",
@@ -1151,7 +1206,12 @@
       "title": "Revia — AI 房地产品牌视觉识别系统",
       "body": "AI + 垂直行业的品牌设计案例。当 AI 进入房地产，视觉语言如何既表达「智能」又表达「信赖」？Revia 的答案是建筑几何 + 科技渐变的融合，让行业属性和 AI 属性共存而非互相挤压。",
       "body_en": "AI + vertical industry brand design case. When AI enters real estate, how does visual language express both 'intelligence' and 'trust'? Revia's answer: architectural geometry + tech gradients fused together, letting industry and AI attributes coexist without crowding each other.",
-      "tags": ["Real Estate", "Vertical AI", "Brand System", "Geometric"],
+      "tags": [
+        "Real Estate",
+        "Vertical AI",
+        "Brand System",
+        "Geometric"
+      ],
       "link": "https://dribbble.com/shots/27070560-Revia-AI-Real-Estate-Branding-Visual-Identity-System",
       "linkText": "Dribbble",
       "image": "https://cdn.dribbble.com/userupload/46796671/file/1ad8e48a425f5678bff31366650eac36.jpg?resize=752x&vertical=center",
@@ -1163,6 +1223,170 @@
       "body": "今天 Visual for AI 的三个案例揭示了一个有意思的进化方向：AI 视觉设计正在从「通用科技感」走向「领域特定表达」。Zajno 的 meta-design 回答的是「设计工具的 AI 长什么样」；Rivo 用光和色彩的流动替代了 cliché 的科技符号；Revia 则证明了当 AI 进入垂直行业，品牌设计必须找到行业语言和 AI 语言的交集而非并集。三个项目的共同点：都在刻意回避「大脑/网络/蓝色」这套 AI 视觉老三样。这说明市场审美在升级——最早一批 AI 产品的视觉风格正在被淘汰，就像 Web 2.0 时代的圆角高光按钮被 flat design 取代一样。下一阶段的 AI 品牌设计竞争力，不在于「看起来很 AI」，而在于「看起来像它自己」。",
       "body_en": "Three Visual for AI cases today reveal an interesting evolution: AI visual design is moving from 'generic tech aesthetic' to 'domain-specific expression.' Zajno's meta-design answers 'what does AI for design tools look like'; Rivo replaces cliché tech symbols with light and color flow; Revia proves that when AI enters verticals, brand design must find the intersection (not union) of industry and AI languages. Common thread: all deliberately avoid the 'brain/network/blue' AI visual trinity. Market aesthetics are upgrading — first-gen AI product visuals are being phased out, just as Web 2.0's glossy rounded buttons were replaced by flat design. Next-stage AI brand design competitiveness isn't about 'looking AI' — it's about 'looking like itself.'",
       "date": "2026-03-13"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Voice-First Banking — 对话式金融的下一步",
+      "body": "2026 年 Q1 最值得关注的 Fintech UX 趋势：语音优先的银行体验。不是 Siri 查余额那种玩具级集成，而是完整的语音驱动交易流程。Capital One 和 Revolut 都在测试「全语音理财」模式——用自然语言下单、转账、调整投资组合。设计挑战在于：如何让用户在看不到界面的情况下信任一笔交易？",
+      "body_en": "Most notable Fintech UX trend in Q1 2026: voice-first banking. Not toy-level Siri balance checks, but complete voice-driven transaction flows. Capital One and Revolut testing full-voice financial management — natural language for orders, transfers, portfolio adjustments. Design challenge: how to build trust for transactions users cannot see?",
+      "tags": [
+        "Voice UI",
+        "Banking",
+        "Conversational Finance",
+        "Trust"
+      ],
+      "link": "https://www.behance.net/search/projects/voice%20banking%20AI",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+      "date": "2026-03-15"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Wealth Management — 个性化投资组合可视化",
+      "body": "面向高净值用户的 AI 财富管理界面。不是传统的饼图+柱状图，而是用「河流图」可视化资产随时间的流动。AI 生成的风险叙事替代了干巴巴的百分比——用故事而非数字解释为什么你的投资组合需要调整。",
+      "body_en": "AI wealth management interface for HNW users. Not traditional pie+bar charts but \"river charts\" visualizing asset flow over time. AI-generated risk narratives replace dry percentages — stories instead of numbers explaining why your portfolio needs rebalancing.",
+      "tags": [
+        "Wealth Management",
+        "Narrative UI",
+        "Data Viz",
+        "HNW"
+      ],
+      "link": "https://dribbble.com/search/wealth-management-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80",
+      "date": "2026-03-15"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "金融 AI 设计的下一个战场不在屏幕上，而在屏幕之外。语音银行的崛起逼着设计师重新思考一个根本问题：当界面消失了，信任感从哪里来？传统金融 UX 依赖视觉线索建立信任——安全图标、品牌色、数字的精确呈现。但语音交互剥夺了这一切。解法可能在「确认仪式感」——交易前的语音摘要、关键数字的重复确认、以及 AI 语气中刻意设计的「慎重感」。金融设计正在从视觉设计扩展为「多模态信任设计」。",
+      "body_en": "The next battleground for financial AI design is not on screen but off screen. Voice banking forces designers to rethink a fundamental question: when the interface disappears, where does trust come from? Traditional financial UX relies on visual cues — security icons, brand colors, precise number display. Voice strips all that away. The solution may lie in \"confirmation rituals\" — pre-transaction voice summaries, key number repetition, deliberately designed \"deliberateness\" in AI tone. Financial design is expanding from visual design to \"multimodal trust design.\"",
+      "date": "2026-03-15"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI Running Coach — 地形自适应训练界面",
+      "body": "针对越野跑和城市跑的 AI 教练 App，亮点是「地形感知训练」——GPS + 高度数据 + AI 实时调整配速建议。地图视图上叠加坡度渐变色带，让跑者一眼看出接下来的地形变化。深绿色系的视觉语言暗示户外和自然。",
+      "body_en": "AI coaching app for trail and urban running. Highlight: terrain-aware training — GPS + elevation data + real-time AI pace adjustment. Gradient slope bands overlaid on map view let runners instantly see upcoming terrain. Deep green visual language evokes outdoors and nature.",
+      "tags": [
+        "Running",
+        "Terrain AI",
+        "GPS",
+        "Outdoor"
+      ],
+      "link": "https://dribbble.com/search/running-app-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1461896836934-bd45ba8fcf9b?w=1200&q=80",
+      "date": "2026-03-15"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "Recovery Tech 设计爆发：从训练到恢复的闭环",
+      "body": "2026 年运动科技设计的新赛道：恢复技术 App。Whoop 5.0、OURA Ring 4、和一批新创公司把「恢复」从训练的附属品提升为独立产品。设计语言从激进的运动感（橙红、高对比）转向安静的疗愈感（深蓝、低饱和度、呼吸节奏动效）。",
+      "body_en": "New track in 2026 sports tech design: recovery tech apps. Whoop 5.0, OURA Ring 4, and startups elevating recovery from training afterthought to standalone product. Design language shifts from aggressive athletic energy (orange-red, high contrast) to calm healing (deep blue, low saturation, breathing rhythm animations).",
+      "tags": [
+        "Recovery",
+        "Wearable",
+        "Calm Design",
+        "Sleep"
+      ],
+      "link": "https://www.behance.net/search/projects/recovery%20health%20app",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1200&q=80",
+      "date": "2026-03-15"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 行业出现了一个耐人寻味的分裂：训练 App 越来越「吵」（更多数据、更密的反馈、更强的 push），而恢复 App 越来越「静」（低饱和色、呼吸动效、极简界面）。这不是巧合——它反映了用户在不同场景下对技术的两种截然不同的期待：训练时要鸡血，恢复时要安静。但大部分产品还没想明白一件事：用户不需要两个 App，他们需要一个能在两种模式之间优雅切换的产品。谁先做好这个「情境自适应」的设计，谁就能吃掉整个运动健康市场。",
+      "body_en": "A fascinating split emerges in sports AI: training apps getting louder (more data, denser feedback, stronger push), recovery apps getting quieter (desaturated, breathing animations, minimal UI). Not coincidental — reflects two fundamentally different user expectations: intensity during training, peace during recovery. But most products haven't figured out: users don't need two apps — they need one that elegantly switches between modes. Whoever nails this \"context-adaptive\" design first captures the entire fitness-health market.",
+      "date": "2026-03-15"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Long-Form AI Content — 智能阅读体验",
+      "body": "AI 辅助的长文阅读界面：自动生成的段落摘要悬浮在侧边、关键论点高亮、阅读进度与预计时间实时更新。不是在内容上叠加 AI 噱头，而是用 AI 解决长文阅读的核心痛点——「我读到哪了」「重点是什么」「还剩多少」。",
+      "body_en": "AI-assisted long-form reading interface: auto-generated paragraph summaries floating in the sidebar, key arguments highlighted, reading progress and estimated time updating in real-time. Not AI gimmicks on content, but AI solving core long-form pain points — where am I, what matters, how much is left.",
+      "tags": [
+        "Long-Form",
+        "AI Reading",
+        "Smart Summary",
+        "UX"
+      ],
+      "link": "https://dribbble.com/search/reading-app-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&q=80",
+      "date": "2026-03-15"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "可变字体（Variable Fonts）成为 2026 排版标配",
+      "body": "可变字体不再是实验性技术，而是 2026 年 Content Design 的基础设施。一个字体文件覆盖从 Thin 到 Black 的全部字重、从 Condensed 到 Extended 的全部字宽——意味着排版系统可以根据屏幕尺寸、阅读距离、内容密度动态调整。Google Fonts 上可变字体占比已超过 40%。",
+      "body_en": "Variable fonts are no longer experimental — they are 2026 content design infrastructure. One font file covering Thin to Black weights, Condensed to Extended widths — meaning typography systems dynamically adjust to screen size, reading distance, content density. Variable fonts now exceed 40% of Google Fonts catalog.",
+      "tags": [
+        "Variable Fonts",
+        "Typography",
+        "Responsive",
+        "Infrastructure"
+      ],
+      "link": "https://fonts.google.com/?vfonly=true",
+      "linkText": "Google Fonts",
+      "image": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?w=1200&q=80",
+      "date": "2026-03-15"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "可变字体 + AI 阅读辅助，正在重新定义「内容设计」的边界。过去，排版是静态的——设计师选好字号、行高、字重，所有人看到一样的页面。现在，排版可以是动态的——根据用户的阅读速度、设备、甚至注意力状态实时调整。这不是科幻，Google 和 Apple 都已经在阅读器产品中测试这些功能。有意思的是，这让内容设计师的角色从「排版师」变成了「排版系统设计师」——你设计的不再是一个页面，而是一套规则。和代码越来越像了。",
+      "body_en": "Variable fonts + AI reading assistance are redefining \"content design\" boundaries. Typography used to be static — designers chose sizes, line heights, weights, everyone saw the same page. Now typography can be dynamic — adjusting in real-time based on reading speed, device, even attention state. Not sci-fi — Google and Apple already testing in reader products. Interestingly, this shifts content designers from \"typographers\" to \"typography system designers\" — you design rules, not pages. Increasingly like code.",
+      "date": "2026-03-15"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Anthropic Claude — 对话 AI 的视觉克制美学",
+      "body": "Anthropic 的视觉设计是 AI 品牌中的异类：没有渐变光谱、没有几何粒子、没有蓝紫科技色。大面积留白 + 暖棕色调 + 衬线体 = 「这不是机器，这是你的思考伙伴」。在所有 AI 公司都在卷视觉冲击力的时候，Claude 选择了安静。这本身就是最强的视觉策略。",
+      "body_en": "Anthropic visual design is the outlier in AI branding: no gradient spectrums, no geometric particles, no blue-purple tech colors. Generous whitespace + warm brown tones + serif type = \"this is not a machine, this is your thinking partner.\" While every AI company competes on visual impact, Claude chose quiet. That itself is the strongest visual strategy.",
+      "tags": [
+        "Anthropic",
+        "Minimal",
+        "Anti-Pattern",
+        "Warm AI"
+      ],
+      "link": "https://www.anthropic.com",
+      "linkText": "Anthropic",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80",
+      "date": "2026-03-15"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「反设计」风潮：工程师审美的崛起",
+      "body": "一个有趣的反趋势：越来越多成功的 AI 产品界面看起来「不像是设计过的」——Cursor、Linear、Vercel 的界面简洁到几乎没有装饰。这不是偷懒，而是有意为之的「工程师审美」：信息密度最大化、装饰最小化、功能即美学。当你的用户是开发者和 power user 时，最好的设计就是别碍事。",
+      "body_en": "An interesting counter-trend: increasingly successful AI products look \"undesigned\" — Cursor, Linear, Vercel interfaces stripped to near-zero decoration. Not laziness but deliberate \"engineer aesthetics\": maximum information density, minimum decoration, function as aesthetics. When your users are developers and power users, the best design stays out of the way.",
+      "tags": [
+        "Anti-Design",
+        "Engineer Aesthetics",
+        "Developer Tools",
+        "Minimal"
+      ],
+      "link": "https://linear.app",
+      "linkText": "Linear",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
+      "date": "2026-03-15"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "AI 视觉设计在 2026 年 Q1 出现了两极分化：一极是「极致品牌化」——像 Rivo、Zajno 那样用精心设计的视觉系统包装 AI 产品；另一极是「极致去品牌化」——像 Cursor、Claude 那样用克制到极点的界面让产品「消失」在用户的工作流中。两条路都通，但适用场景完全不同：to-C 的 AI 产品需要品牌辨识度（你要被记住），to-B/to-Developer 的 AI 工具需要隐形（你要被忘记）。最有趣的是 Anthropic 的 Claude——它面对 C 端用户却选择了极简路线，用「安静」本身作为品牌差异化。这是一步险棋，也是一步妙棋：在一个所有 AI 都在尖叫的房间里，安静的那个反而最引人注目。",
+      "body_en": "AI visual design polarizes in Q1 2026: one pole is \"maximum branding\" — like Rivo and Zajno wrapping AI products in elaborate visual systems; the other is \"maximum de-branding\" — like Cursor and Claude using stripped-to-the-bone interfaces that disappear into workflows. Both work, but for entirely different contexts: consumer AI needs brand recognition (be remembered), B2B/developer AI tools need invisibility (be forgotten). Most interesting: Anthropic's Claude faces consumers yet chose minimalism, using \"quiet\" itself as brand differentiation. A bold and brilliant move: in a room where every AI is screaming, the quiet one draws the most attention.",
+      "date": "2026-03-15"
     }
   ]
 }
