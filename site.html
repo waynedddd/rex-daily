@@ -52,79 +52,132 @@
     .ctrl-btn:hover { border-color: rgba(255,255,255,0.4); color: rgba(255,255,255,0.8); }
     .ctrl-btn.active { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.85); border-color: rgba(255,255,255,0.3); }
 
-    /* ── Hero section ── */
-    .hero {
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      padding: 80px 24px 60px;
-      position: relative;
-    }
-
-    .hero-bg {
-      position: absolute;
-      inset: 0;
-      background-size: cover;
-      background-position: center;
-      filter: brightness(0.3) saturate(0.5);
-      transition: opacity 1s ease;
-    }
-
-    .hero-overlay {
-      position: absolute;
-      inset: 0;
-      background: radial-gradient(ellipse at center, transparent 0%, rgba(10,10,10,0.7) 70%, rgba(10,10,10,0.95) 100%);
-    }
-
-    .hero-content {
-      position: relative;
-      z-index: 1;
+    /* ── Main layout ── */
+    .main {
       max-width: 720px;
-      width: 100%;
-      text-align: center;
+      margin: 0 auto;
+      padding: 80px 24px 40px;
     }
 
+    /* ── Pick label ── */
     .pick-label {
       font-family: var(--font-mono);
       font-size: 10px;
       text-transform: uppercase;
       letter-spacing: 0.3em;
       color: var(--accent);
-      margin-bottom: 16px;
+      margin-bottom: 12px;
       opacity: 0;
-      animation: fadeUp 0.8s 0.2s forwards;
+      animation: fadeUp 0.8s 0.1s forwards;
     }
 
     .pick-date {
       font-family: var(--font-mono);
-      font-size: 12px;
+      font-size: 11px;
       letter-spacing: 0.1em;
-      opacity: 0.3;
+      opacity: 0.25;
       margin-bottom: 24px;
-      animation: fadeUp 0.8s 0.3s forwards;
+      animation: fadeUp 0.8s 0.15s forwards;
       opacity: 0;
     }
 
+    /* ── Cover image ── */
+    .pick-cover-wrap {
+      position: relative;
+      width: 100%;
+      border-radius: 12px;
+      overflow: hidden;
+      margin-bottom: 32px;
+      opacity: 0;
+      animation: fadeUp 0.8s 0.2s forwards;
+      background: rgba(255,255,255,0.03);
+      cursor: pointer;
+      transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+    }
+
+    .pick-cover-wrap:hover { transform: translateY(-4px); }
+
+    .pick-cover {
+      width: 100%;
+      display: block;
+      transition: transform 0.6s ease;
+    }
+
+    .pick-cover-wrap:hover .pick-cover {
+      transform: scale(1.02);
+    }
+
+    /* Browser-style frame */
+    .pick-frame {
+      position: relative;
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    .pick-frame-bar {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 10px 14px;
+      background: rgba(255,255,255,0.04);
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+
+    .pick-frame-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.1);
+    }
+
+    .pick-frame-url {
+      flex: 1;
+      text-align: center;
+      font-family: var(--font-mono);
+      font-size: 10px;
+      opacity: 0.25;
+      letter-spacing: 0.05em;
+    }
+
+    /* ── Text content ── */
     .pick-name {
-      font-size: clamp(48px, 10vw, 96px);
+      font-size: clamp(36px, 8vw, 56px);
       font-weight: 700;
       letter-spacing: -0.04em;
-      line-height: 1;
-      margin-bottom: 16px;
+      line-height: 1.05;
+      margin-bottom: 12px;
+      opacity: 0;
+      animation: fadeUp 0.8s 0.3s forwards;
+    }
+
+    .pick-tagline {
+      font-size: clamp(16px, 2.5vw, 20px);
+      font-weight: 300;
+      line-height: 1.5;
+      color: rgba(255,255,255,0.5);
+      margin-bottom: 24px;
+      opacity: 0;
+      animation: fadeUp 0.8s 0.35s forwards;
+    }
+
+    .pick-tags {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 24px;
       opacity: 0;
       animation: fadeUp 0.8s 0.4s forwards;
     }
 
-    .pick-tagline {
-      font-size: clamp(16px, 2.5vw, 22px);
-      font-weight: 300;
-      line-height: 1.5;
-      opacity: 0;
-      color: rgba(255,255,255,0.6);
-      margin-bottom: 32px;
-      animation: fadeUp 0.8s 0.5s forwards;
+    .pick-tag {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      padding: 4px 12px;
+      border-radius: 2px;
+      background: rgba(255,255,255,0.06);
+      color: rgba(255,255,255,0.35);
+      letter-spacing: 0.05em;
     }
 
     .pick-visit {
@@ -132,17 +185,17 @@
       align-items: center;
       gap: 8px;
       font-family: var(--font-mono);
-      font-size: 13px;
+      font-size: 12px;
       text-transform: uppercase;
       letter-spacing: 0.15em;
       text-decoration: none;
       color: var(--accent);
       border: 1px solid rgba(196,168,78,0.3);
-      padding: 12px 28px;
+      padding: 10px 24px;
       border-radius: 999px;
       transition: all 0.4s;
       opacity: 0;
-      animation: fadeUp 0.8s 0.6s forwards;
+      animation: fadeUp 0.8s 0.45s forwards;
     }
 
     .pick-visit:hover {
@@ -154,25 +207,27 @@
     .pick-visit::after { content: '→'; transition: transform 0.3s; }
     .pick-visit:hover::after { transform: translateX(4px); }
 
-    /* ── Rex Take section ── */
+    /* ── Divider ── */
+    .divider {
+      width: 40px;
+      height: 1px;
+      background: rgba(255,255,255,0.1);
+      margin: 48px 0;
+    }
+
+    /* ── Rex Take ── */
     .rex-section {
-      max-width: 640px;
-      margin: 0 auto;
-      padding: 0 24px 60px;
-      position: relative;
-      z-index: 1;
+      margin-bottom: 48px;
     }
 
     .rex-header {
       display: flex;
       align-items: center;
       gap: 10px;
-      margin-bottom: 20px;
-      padding-bottom: 16px;
-      border-bottom: 1px solid rgba(255,255,255,0.06);
+      margin-bottom: 16px;
     }
 
-    .rex-header-icon { font-size: 20px; }
+    .rex-header-icon { font-size: 18px; }
 
     .rex-header-label {
       font-family: var(--font-mono);
@@ -185,35 +240,12 @@
     .rex-body {
       font-size: 16px;
       line-height: 1.9;
-      color: rgba(255,255,255,0.6);
-    }
-
-    /* ── Tags ── */
-    .pick-tags {
-      display: flex;
-      justify-content: center;
-      gap: 8px;
-      flex-wrap: wrap;
-      margin-bottom: 40px;
-      opacity: 0;
-      animation: fadeUp 0.8s 0.7s forwards;
-    }
-
-    .pick-tag {
-      font-family: var(--font-mono);
-      font-size: 10px;
-      padding: 4px 12px;
-      border-radius: 2px;
-      background: rgba(255,255,255,0.06);
-      color: rgba(255,255,255,0.4);
-      letter-spacing: 0.05em;
+      color: rgba(255,255,255,0.55);
     }
 
     /* ── Archive ── */
     .archive {
-      max-width: 720px;
-      margin: 0 auto;
-      padding: 0 24px 80px;
+      margin-top: 16px;
     }
 
     .archive-header {
@@ -221,8 +253,8 @@
       font-size: 10px;
       text-transform: uppercase;
       letter-spacing: 0.3em;
-      opacity: 0.25;
-      margin-bottom: 24px;
+      opacity: 0.2;
+      margin-bottom: 20px;
       padding-bottom: 12px;
       border-bottom: 1px solid rgba(255,255,255,0.06);
     }
@@ -231,8 +263,8 @@
       display: flex;
       align-items: center;
       gap: 16px;
-      padding: 14px 0;
-      border-bottom: 1px solid rgba(255,255,255,0.04);
+      padding: 12px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.03);
       cursor: pointer;
       transition: all 0.3s;
       text-decoration: none;
@@ -240,20 +272,35 @@
     }
 
     .archive-item:hover { padding-left: 8px; }
+    .archive-item:hover .archive-name { color: rgba(255,255,255,0.9); }
+
+    .archive-thumb {
+      width: 48px;
+      height: 32px;
+      border-radius: 4px;
+      object-fit: cover;
+      flex-shrink: 0;
+      filter: grayscale(60%) brightness(0.8);
+      transition: filter 0.4s;
+    }
+
+    .archive-item:hover .archive-thumb { filter: grayscale(0%) brightness(1); }
 
     .archive-date {
       font-family: var(--font-mono);
       font-size: 11px;
-      opacity: 0.25;
+      opacity: 0.2;
       flex-shrink: 0;
-      width: 80px;
+      width: 72px;
     }
 
     .archive-name {
-      font-size: 16px;
+      font-size: 15px;
       font-weight: 500;
       letter-spacing: -0.01em;
       flex: 1;
+      color: rgba(255,255,255,0.65);
+      transition: color 0.3s;
     }
 
     .archive-cat {
@@ -261,7 +308,7 @@
       font-size: 9px;
       text-transform: uppercase;
       letter-spacing: 0.15em;
-      opacity: 0.2;
+      opacity: 0.15;
     }
 
     /* ── Footer ── */
@@ -293,11 +340,11 @@
       .topbar { padding: 10px 16px; }
       .logo { font-size: 16px; }
       .ctrl-btn { font-size: 10px; padding: 5px 10px; letter-spacing: 0.08em; }
-      .hero { padding: 60px 16px 40px; }
-      .rex-section { padding: 0 16px 40px; }
-      .archive { padding: 0 16px 60px; }
-      .archive-item { gap: 12px; }
-      .archive-date { width: 64px; font-size: 10px; }
+      .main { padding: 64px 16px 32px; }
+      .pick-frame-bar { padding: 8px 12px; }
+      .pick-frame-dot { width: 6px; height: 6px; }
+      .archive-thumb { width: 40px; height: 28px; }
+      .archive-date { width: 60px; font-size: 10px; }
     }
 
     /* ── Scrollbar ── */
@@ -318,7 +365,7 @@
     </div>
   </div>
 
-  <div id="app">
+  <div class="main" id="app">
     <div class="loading">Loading...</div>
   </div>
 
@@ -343,13 +390,16 @@
       return obj[currentLang] || obj['zh'] || obj['en'] || '';
     }
 
+    function getDomain(url) {
+      try { return new URL(url).hostname; } catch(e) { return url; }
+    }
+
     function render() {
       if (!data || !data.picks || !data.picks.length) {
         document.getElementById('app').innerHTML = '<div class="loading">暂无推荐</div>';
         return;
       }
 
-      // Sort by date desc, today's pick is first
       const sorted = [...data.picks].sort((a, b) => b.date.localeCompare(a.date));
       const today = sorted[0];
       const archive = sorted.slice(1);
@@ -358,20 +408,33 @@
       const archiveLabel = currentLang === 'zh' ? '往期推荐' : 'Past Picks';
 
       let html = `
-        <div class="hero">
-          ${today.cover ? `<div class="hero-bg" style="background-image:url('${today.cover}')"></div>` : ''}
-          <div class="hero-overlay"></div>
-          <div class="hero-content">
-            <div class="pick-label">🔍 Rex's Site Pick</div>
-            <div class="pick-date">${today.date}</div>
-            <h1 class="pick-name">${today.name}</h1>
-            <p class="pick-tagline">${t(today.tagline)}</p>
-            <div class="pick-tags">
-              ${(today.tags || []).map(tag => `<span class="pick-tag">${tag}</span>`).join('')}
+        <div class="pick-label">🔍 Rex's Site Pick</div>
+        <div class="pick-date">${today.date}</div>
+
+        ${today.cover ? `
+        <div class="pick-cover-wrap" onclick="window.open('${today.url}','_blank')">
+          <div class="pick-frame">
+            <div class="pick-frame-bar">
+              <span class="pick-frame-dot"></span>
+              <span class="pick-frame-dot"></span>
+              <span class="pick-frame-dot"></span>
+              <span class="pick-frame-url">${getDomain(today.url)}</span>
             </div>
-            <a class="pick-visit" href="${today.url}" target="_blank" rel="noopener">${visitLabel}</a>
+            <img class="pick-cover" src="${today.cover}" alt="${today.name}" referrerpolicy="no-referrer">
           </div>
         </div>
+        ` : ''}
+
+        <h1 class="pick-name">${today.name}</h1>
+        <p class="pick-tagline">${t(today.tagline)}</p>
+
+        <div class="pick-tags">
+          ${(today.tags || []).map(tag => `<span class="pick-tag">${tag}</span>`).join('')}
+        </div>
+
+        <a class="pick-visit" href="${today.url}" target="_blank" rel="noopener">${visitLabel}</a>
+
+        <div class="divider"></div>
 
         <div class="rex-section">
           <div class="rex-header">
@@ -388,6 +451,7 @@
             <div class="archive-header">${archiveLabel}</div>
             ${archive.map(pick => `
               <a class="archive-item" href="${pick.url}" target="_blank" rel="noopener" title="${t(pick.tagline)}">
+                ${pick.cover ? `<img class="archive-thumb" src="${pick.cover}" alt="" referrerpolicy="no-referrer">` : ''}
                 <span class="archive-date">${pick.date}</span>
                 <span class="archive-name">${pick.name}</span>
                 <span class="archive-cat">${pick.category || ''}</span>
