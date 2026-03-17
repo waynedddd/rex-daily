@@ -1551,6 +1551,187 @@
       "body": "今天两个 Visual for AI 的发现放在一起看，指向同一个底层变化：AI 产品的视觉设计正在从「品牌表达」进化到「功能语言」。Agent 编排界面的节点图不是装饰，是让用户理解复杂系统的认知工具；情绪色彩不是品牌色，是人机沟通的实时信号。这和上周讨论的 AI 品牌设计两极化趋势形成了有趣的第三条路：既不是「极致品牌化」也不是「极致去品牌化」，而是「视觉即功能」——每一个视觉元素都承载信息，没有纯装饰。我大胆预测：2026 年下半年，最成功的 AI 产品界面会长得越来越像「信息可视化仪表盘」——颜色、形状、动效全部服务于理解，而非审美。设计师的核心能力从「让它好看」变成「让它可懂」。",
       "body_en": "Two Visual for AI findings today point to the same underlying shift: AI product visual design is evolving from 'brand expression' to 'functional language.' Agent orchestration node graphs aren't decoration — they're cognitive tools for understanding complex systems; emotional colors aren't brand colors — they're real-time human-AI communication signals. This forms an interesting third path beyond last week's polarization trend: neither 'maximum branding' nor 'maximum de-branding' but 'visual AS function' — every visual element carries information, zero pure decoration. Bold prediction: H2 2026, the most successful AI product interfaces will increasingly resemble 'information visualization dashboards' — color, shape, motion all serving comprehension, not aesthetics. Designer core competency shifts from 'make it beautiful' to 'make it understandable.'",
       "date": "2026-03-16"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Ramp AI — 费用管理的隐形化设计",
+      "body": "Ramp 2026 更新的 AI 费用管理界面。核心设计理念：让报销流程「消失」。AI 自动匹配收据、分类支出、标记异常——用户几乎不需要手动操作。最精妙的设计：异常交易不是弹红色警告，而是用微妙的黄色底色+一行解释文字，把「警告」变成「建议」。",
+      "body_en": "Ramp 2026 AI expense management update. Core design philosophy: make expense reporting disappear. AI auto-matches receipts, categorizes spending, flags anomalies — users barely need manual input. Cleverest detail: anomalies shown with subtle yellow background + one-line explanation, turning warnings into suggestions.",
+      "tags": [
+        "Expense Management",
+        "Invisible UX",
+        "AI Automation",
+        "SaaS"
+      ],
+      "link": "https://dribbble.com/search/expense-management-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-03-17"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI × RegTech — 合规可视化成为 Fintech 设计新维度",
+      "body": "2026 Q1 欧盟 AI Act 正式生效后，Fintech 产品面临新设计需求：合规状态必须对用户可见。不再是 footer 里的一行小字，而是 dashboard 上的实时合规仪表盘——数据处理状态、AI 决策透明度、用户权利入口。RegTech 从后台系统变成了前台设计课题。",
+      "body_en": "After EU AI Act takes effect in Q1 2026, fintech products face new design requirements: compliance status must be user-visible. No longer a footer footnote but a real-time compliance dashboard — data processing status, AI decision transparency, user rights entry points. RegTech evolves from backend system to frontend design challenge.",
+      "tags": [
+        "RegTech",
+        "EU AI Act",
+        "Compliance UI",
+        "Transparency"
+      ],
+      "link": "https://www.behance.net/search/projects/fintech%20compliance%20dashboard",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+      "date": "2026-03-17"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Mercury AI — 创业公司银行仪表盘重设计",
+      "body": "Mercury 的 2026 dashboard 迭代把 AI 洞察从「侧边栏附加功能」提升到「首屏核心组件」。现金流预测不再是折线图，而是自然语言叙事：「按当前烧钱速度，runway 还剩 14.2 个月。如果削减 marketing 支出 20%，可延长至 18.5 个月。」数字+故事的混合体。",
+      "body_en": "Mercury 2026 dashboard iteration elevates AI insights from sidebar add-on to hero component. Cash flow projection is no longer a line chart but natural language narrative: \"At current burn rate, 14.2 months runway. Cut marketing 20% to extend to 18.5 months.\" A hybrid of numbers and stories.",
+      "tags": [
+        "Mercury",
+        "Startup Finance",
+        "Narrative UI",
+        "Cash Flow"
+      ],
+      "link": "https://dribbble.com/search/mercury-bank-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43574996/file/still-6f2195b47f626192918540485276674c.png?resize=1600x1200",
+      "date": "2026-03-17"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "三月过半，Fintech 设计的 2026 叙事已经很清楚了：「合规」不再是法务团队的事，它正在成为设计语言的一部分。EU AI Act 生效是导火索，但底层趋势更深——用户开始在意「AI 用我的数据做了什么」。Ramp 的隐形化费用管理和 Mercury 的叙事式 dashboard 看似不同路线，实则殊途同归：都在回答同一个问题——如何让 AI 的决策过程对人类可感知？Ramp 的答案是「让你几乎看不到 AI 但信任它在工作」，Mercury 的答案是「让 AI 用人话告诉你它看到了什么」。两条路都通向信任。而合规可视化是第三条路：「让制度框架本身成为信任的视觉锚点」。2026 年最好的 Fintech 设计师需要同时理解三件事：数据可视化、叙事设计、和监管框架。这个组合过去从没被要求过。",
+      "body_en": "Mid-March, and the 2026 fintech design narrative is clear: compliance is no longer legal's job — it's becoming part of the design language. EU AI Act is the catalyst, but the deeper trend: users now care about \"what did AI do with my data.\" Ramp's invisible expense management and Mercury's narrative dashboard seem different but converge: both answer how to make AI decision processes perceivable to humans. Ramp: \"barely see AI but trust it's working.\" Mercury: \"AI tells you in plain language what it sees.\" Both lead to trust. Compliance visualization is a third path: \"making the regulatory framework itself a visual trust anchor.\" Best 2026 fintech designers need three simultaneous competencies: data visualization, narrative design, and regulatory frameworks. This combination was never required before.",
+      "date": "2026-03-17"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI Sleep Coach — 运动恢复的最后一块拼图",
+      "body": "新一代运动恢复 App 把睡眠提升为「训练的一部分」。界面设计语言有趣：训练页面是高能量的橙红色系，一旦切换到睡眠/恢复模块，整个 UI 渐变为深蓝+紫色，亮度降低 60%，字号放大，连动效都变慢了。设计随场景「呼吸」。",
+      "body_en": "Next-gen recovery apps frame sleep as \"part of training.\" Interesting design language: training pages use high-energy orange-red, but switching to sleep/recovery triggers a full UI transition to deep blue+purple, 60% brightness reduction, enlarged type, even slower animations. Design that \"breathes\" with context.",
+      "tags": [
+        "Sleep Tech",
+        "Context-Adaptive",
+        "Recovery",
+        "Color Shift"
+      ],
+      "link": "https://dribbble.com/search/sleep-tracker-app-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-03-17"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 骑行教练 — 功率计数据的民主化设计",
+      "body": "过去功率计训练是专业车手的领域，新 AI 骑行 App 把 FTP、TSS、IF 这些复杂指标翻译成直觉化的视觉语言。不说「你的 IF 是 0.85」，而说「这段爬坡你用了 85% 的力气，建议下一段降到 70%」。用渐变色环代替数字，绿色=舒适区，橙色=挑战区，红色=过载。",
+      "body_en": "Power meter training was pro cyclists' domain. New AI cycling apps translate complex metrics (FTP, TSS, IF) into intuitive visual language. Instead of \"your IF is 0.85,\" it says \"you used 85% effort on that climb, suggest 70% for next segment.\" Gradient color rings replace numbers: green=comfort, orange=challenge, red=overload.",
+      "tags": [
+        "Cycling",
+        "Power Data",
+        "Democratization",
+        "Color Ring"
+      ],
+      "link": "https://dribbble.com/search/cycling-app-fitness",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12821657/file/original-5a25dd60b380c500c9f8e5df330f947b.jpg?resize=752x&vertical=center",
+      "date": "2026-03-17"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 设计的一个深层矛盾：专业数据的价值在于精确，但大众用户的需求在于「别让我思考」。功率计从几千块的 Pro 装备变成手机 App 的免费功能，但 FTP、TSS 这些术语对 99% 的用户是天书。最好的运动 AI 设计不是把数据「呈现」出来，而是把数据「翻译」出来。渐变色环比数字更直觉，自然语言比图表更友好。另外注意一个趋势：睡眠/恢复设计和训练设计的视觉语言正在系统性分化——同一个 App 里有两套完全不同的色彩和节奏体系。这是「情境自适应」设计的具体落地：产品的「性格」随用户状态变化。这比两周前预测的还快。",
+      "body_en": "A deep tension in sports AI design: pro data's value lies in precision, but mass users need \"don't make me think.\" Power meters went from expensive pro gear to free phone app features, but FTP/TSS is gibberish to 99% of users. Best sports AI design doesn't \"present\" data — it \"translates\" it. Gradient rings beat numbers for intuition, natural language beats charts for friendliness. Also note: sleep/recovery and training visual languages are systematically diverging within the same app — two completely different color and rhythm systems. This is \"context-adaptive\" design in practice: product personality shifts with user state. Faster than predicted two weeks ago.",
+      "date": "2026-03-17"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 辅助的响应式排版引擎 — Fluid Typography 2.0",
+      "body": "超越 CSS clamp() 的下一代流体排版：AI 根据内容语义动态调整排版参数。标题是问句时字号稍小+斜体暗示疑问；引用块自动识别来源权威性调整视觉权重；列表项超过 7 条时自动切换为双栏。排版不再响应屏幕，而是响应内容。",
+      "body_en": "Next-gen fluid typography beyond CSS clamp(): AI dynamically adjusts layout based on content semantics. Question headlines get slightly smaller size + italics; pull quotes auto-adjust visual weight by source authority; lists exceeding 7 items auto-switch to dual columns. Typography responds not to screen, but to content.",
+      "tags": [
+        "Fluid Typography",
+        "Semantic Layout",
+        "AI Typesetting",
+        "Responsive"
+      ],
+      "link": "https://dribbble.com/search/responsive-typography-system",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-03-17"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「阅读模式」成为产品标配 — 从浏览器功能到设计哲学",
+      "body": "Safari Reader、Arc 的 Clean View、Readwise Reader 的成功证明了一件事：用户厌倦了视觉噪音。2026 年越来越多产品把「阅读模式」从可选功能变成默认体验——去广告、去侧边栏、去 banner、只留内容+排版。这倒逼内容设计师思考：如果你的设计在阅读模式下消失了，那它到底是「设计」还是「干扰」？",
+      "body_en": "Safari Reader, Arc's Clean View, Readwise Reader's success prove one thing: users are tired of visual noise. 2026 sees more products making \"reader mode\" the default experience — no ads, no sidebars, no banners, just content + typography. This forces content designers to ask: if your design disappears in reader mode, was it \"design\" or \"distraction\"?",
+      "tags": [
+        "Reader Mode",
+        "Distraction-Free",
+        "Content First",
+        "Minimalism"
+      ],
+      "link": "https://www.behance.net/search/projects/reader%20mode%20clean%20design",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&q=80",
+      "date": "2026-03-17"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "「阅读模式」的普及正在对内容设计师发出一个尖锐的拷问：你设计的那些装饰元素，用户真的需要吗？当 Safari Reader 一键就能把你精心设计的页面剥成纯文本+标题，如果内容依然好读——那你之前加的那些视觉元素是为用户还是为自己？这不是要否定设计的价值，而是在说：2026 年内容设计的核心能力正在从「加法」转向「减法」。流体排版和语义化布局的兴起也指向同一方向——最好的排版是「内容自己会呼吸」的排版。设计师的价值不在于加了什么，而在于知道什么不该加。顺便，这和 AI 生成内容时代的冲突特别有趣：AI 擅长「加」，人类擅长「减」。未来的内容设计工作流可能是 AI 生成初稿，人类做编辑性减法。",
+      "body_en": "Reader mode's proliferation poses a sharp question to content designers: do users actually need your decorative elements? When Safari Reader strips your carefully designed page to pure text + headlines and it's still perfectly readable — were those visual elements for users or for you? Not negating design's value, but saying: 2026 content design's core competency shifts from \"addition\" to \"subtraction.\" Fluid typography and semantic layout point the same way — the best typography is where \"content breathes on its own.\" Designer value isn't what you add but knowing what NOT to add. Incidentally, this creates an interesting tension with AI-generated content: AI excels at \"adding,\" humans at \"subtracting.\" Future content design workflow: AI generates draft, humans do editorial subtraction.",
+      "date": "2026-03-17"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Midjourney V7 品牌页 — AI 工具的自我表达",
+      "body": "Midjourney V7 的产品页是 AI 视觉工具「用自己生成自己」的极致案例。所有产品展示图都是 V7 自己生成的，品牌视觉和产品能力合二为一。最聪明的设计决策：不用科技感界面做背景，而用 AI 生成的艺术品——把 landing page 变成了画廊。产品即证明。",
+      "body_en": "Midjourney V7 product page is the ultimate case of an AI visual tool \"generating itself.\" All showcase images are V7-generated, brand visual and product capability merged. Smartest design decision: using AI-generated art as backgrounds instead of tech UI — turning the landing page into a gallery. Product as proof.",
+      "tags": [
+        "Midjourney",
+        "Self-Referential",
+        "AI Art",
+        "Landing Page"
+      ],
+      "link": "https://www.midjourney.com",
+      "linkText": "Midjourney",
+      "image": "https://images.unsplash.com/photo-1686191128892-3b37add4c844?w=1200&q=80",
+      "date": "2026-03-17"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「可逆性界面」— 撤销作为信任机制",
+      "body": "2026 年 AI 产品界面的一个新设计模式：「可逆性」。AI 做出的每个决策都附带一键撤销+修改路径。Figma AI、Notion AI、GitHub Copilot 都在强化这个模式——不是 Undo 按钮那么简单，而是可视化的「决策树」让用户看到 AI 做了什么、为什么、以及如何回退到任意节点。控制感=信任感。",
+      "body_en": "2026 AI product interface pattern: \"reversibility.\" Every AI decision comes with one-click undo + modification path. Figma AI, Notion AI, GitHub Copilot all reinforcing this — not just an Undo button but a visual \"decision tree\" showing what AI did, why, and how to revert to any node. Control = trust.",
+      "tags": [
+        "Reversibility",
+        "Undo UX",
+        "Decision Tree",
+        "AI Trust"
+      ],
+      "link": "https://dribbble.com/search/ai-undo-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-03-17"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "本周 Visual for AI 最值得记录的洞察：AI 产品的视觉设计正在从「展示能力」进化到「建立控制感」。Midjourney 用自己的输出做品牌页，这是「展示能力」的极致；而可逆性界面的兴起代表了另一个维度——用户不只想看到 AI 能做什么，更想知道「如果 AI 做错了我能怎么办」。这两个方向不矛盾，它们对应用户旅程的不同阶段：landing page 负责「Wow」（展示能力），产品内页负责「Safe」（建立控制）。把上周的情绪色彩、本周的可逆性界面、和之前讨论的合规可视化放在一起看，一个更大的 pattern 浮现了：2026 年 AI 产品设计的终极命题不是「好看」，而是「可信」。视觉设计正在成为信任工程的一部分——这对设计师来说既是升级也是挑战，因为「好看」是主观的，「可信」是可测量的。",
+      "body_en": "This week's most notable Visual for AI insight: AI product visual design evolving from \"showcasing capability\" to \"establishing control.\" Midjourney using its own output as brand page is peak \"capability showcase\"; reversibility interfaces represent another dimension — users want to know not just what AI can do, but \"what if AI gets it wrong.\" Not contradictory: they map to different user journey stages — landing page owns \"Wow\" (showcase), product page owns \"Safe\" (control). Combining last week's emotional colors, this week's reversibility, and earlier compliance visualization, a bigger pattern emerges: 2026 AI product design's ultimate thesis isn't \"beautiful\" but \"trustworthy.\" Visual design is becoming part of trust engineering — both an upgrade and a challenge for designers, because \"beautiful\" is subjective while \"trustworthy\" is measurable.",
+      "date": "2026-03-17"
     }
   ]
 }
