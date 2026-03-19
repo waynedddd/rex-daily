@@ -1732,6 +1732,170 @@
       "body": "本周 Visual for AI 最值得记录的洞察：AI 产品的视觉设计正在从「展示能力」进化到「建立控制感」。Midjourney 用自己的输出做品牌页，这是「展示能力」的极致；而可逆性界面的兴起代表了另一个维度——用户不只想看到 AI 能做什么，更想知道「如果 AI 做错了我能怎么办」。这两个方向不矛盾，它们对应用户旅程的不同阶段：landing page 负责「Wow」（展示能力），产品内页负责「Safe」（建立控制）。把上周的情绪色彩、本周的可逆性界面、和之前讨论的合规可视化放在一起看，一个更大的 pattern 浮现了：2026 年 AI 产品设计的终极命题不是「好看」，而是「可信」。视觉设计正在成为信任工程的一部分——这对设计师来说既是升级也是挑战，因为「好看」是主观的，「可信」是可测量的。",
       "body_en": "This week's most notable Visual for AI insight: AI product visual design evolving from \"showcasing capability\" to \"establishing control.\" Midjourney using its own output as brand page is peak \"capability showcase\"; reversibility interfaces represent another dimension — users want to know not just what AI can do, but \"what if AI gets it wrong.\" Not contradictory: they map to different user journey stages — landing page owns \"Wow\" (showcase), product page owns \"Safe\" (control). Combining last week's emotional colors, this week's reversibility, and earlier compliance visualization, a bigger pattern emerges: 2026 AI product design's ultimate thesis isn't \"beautiful\" but \"trustworthy.\" Visual design is becoming part of trust engineering — both an upgrade and a challenge for designers, because \"beautiful\" is subjective while \"trustworthy\" is measurable.",
       "date": "2026-03-17"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 驱动的实时信用评估 — 从快照到连续画像",
+      "body": "传统信用评分是一张快照，而 2026 年的 AI 信用系统正在变成连续纪录片。Plaid 和 Nova Credit 的新产品用实时交易流+行为模式替代年度报告式评估。设计挑战不在算法，在于如何让用户理解「你的信用分每天都在变」这件反直觉的事——仪表盘式的实时分数+影响因子的可视化权重条成为标配。",
+      "body_en": "Traditional credit scoring is a snapshot; 2026 AI credit systems are becoming continuous documentaries. Plaid and Nova Credit's new products replace annual report-style assessments with real-time transaction flows + behavioral patterns. The design challenge isn't the algorithm but making users understand the counter-intuitive fact that 'your credit score changes daily' — dashboard-style real-time scores + visual weight bars for impact factors becoming standard.",
+      "tags": [
+        "Credit Scoring",
+        "Real-time",
+        "Behavioral AI",
+        "Data Viz"
+      ],
+      "link": "https://dribbble.com/search/credit-score-dashboard-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17070953/file/original-44c1a00b9ee9e8447c7bf6b2d1bf5670.png?resize=1600x1200",
+      "date": "2026-03-19"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Budget Planner — 对话式预算编排界面",
+      "body": "把传统的预算表格交互重构为对话式体验：用户说「我想三个月内攒够旅行基金」，AI 自动拆解为每周储蓄目标+支出调整建议，用甘特图式的时间轴可视化进度。最妙的是「如果…会怎样」模式——拖动一个支出类别的预算，所有关联目标实时重新计算。",
+      "body_en": "Restructuring traditional budget spreadsheets into conversational experiences: users say 'I want to save enough for a trip in 3 months,' AI auto-decomposes into weekly savings targets + spending adjustment suggestions, visualized as a Gantt-chart timeline. Best feature: 'what if' mode — drag a spending category's budget and all linked goals recalculate in real-time.",
+      "tags": [
+        "Budget Planning",
+        "Conversational UI",
+        "What-If",
+        "Goal Viz"
+      ],
+      "link": "https://www.behance.net/search/projects/ai%20budget%20planner%20finance",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-03-19"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "金融 AI 设计的下一个关键词是「连续性」。信用不再是年度快照而是实时流；预算不再是月初设定的静态表格而是动态对话；风控不再是事后审计而是实时防护。这三个方向指向同一个设计命题：如何把「持续变化的数据」呈现为「可以被信任的确定性」？过去金融界面的信任来源于「不变」——余额是固定数字、信用分一年查一次。现在一切都在实时变动，用户需要新的视觉锚点来建立安全感。我的判断：2026 下半年，「数据稳定性指标」会成为金融 UI 的标配——不只告诉你现在的数字是多少，还告诉你它有多稳定、趋势方向是什么。波动性本身需要被设计。",
+      "body_en": "The next keyword for financial AI design is 'continuity.' Credit is no longer annual snapshots but real-time streams; budgets are no longer static monthly sheets but dynamic conversations; risk control is no longer post-audit but real-time protection. All three point to one design thesis: how to present 'continuously changing data' as 'trustworthy certainty'? Financial interface trust used to come from 'unchanging' — fixed balance numbers, annual credit checks. Now everything moves in real-time, users need new visual anchors for security. My prediction: H2 2026, 'data stability indicators' will become standard financial UI — not just showing the current number but how stable it is and its trend direction. Volatility itself needs to be designed.",
+      "date": "2026-03-19"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI Group Training — 多人实时同步训练界面",
+      "body": "远程团体训练的 AI 编排界面：5-20 人同时训练，AI 根据每人的体能水平实时调整各自的强度和动作变体。屏幕设计像一个「教练控制台」——每个参与者是一张实时状态卡片，心率、疲劳度、完成率用色彩编码。AI 自动高亮需要关注的成员（心率过高、动作偏差大）。",
+      "body_en": "Remote group training AI orchestration interface: 5-20 people training simultaneously, AI adjusts intensity and movement variations for each person in real-time. Screen design resembles a 'coach console' — each participant is a live status card with heart rate, fatigue, completion rate color-coded. AI auto-highlights members needing attention (heart rate too high, form deviation).",
+      "tags": [
+        "Group Training",
+        "Real-time",
+        "Coach Console",
+        "Multi-User"
+      ],
+      "link": "https://dribbble.com/search/group-fitness-app-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10325530/file/original-c8c3e27c8c9dfef1c6f15025ded9ea64.jpg?resize=1600x1200",
+      "date": "2026-03-19"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动伤病预测 — 从治疗到预防的设计转向",
+      "body": "2026 年运动科技的新前沿：AI 伤病预测系统。通过分析训练负荷曲线、睡眠数据、心率变异和历史伤病记录，在受伤前 72 小时预警。Whoop 和 OURA 的新功能都在往这个方向走。设计上最大的挑战：如何传达「你可能会受伤」而不引起恐慌？答案是用「风险光谱」替代「警告弹窗」——绿黄橙红的渐进色带比二元的「安全/危险」更符合现实的连续性。",
+      "body_en": "2026 sports tech new frontier: AI injury prediction. Analyzing training load curves, sleep data, HRV, and injury history to warn 72 hours before injury. Whoop and OURA's new features heading this direction. Biggest design challenge: conveying 'you might get injured' without causing panic. Answer: 'risk spectrum' instead of 'warning popup' — green-yellow-orange-red gradient bands better reflect reality's continuity than binary safe/danger.",
+      "tags": [
+        "Injury Prevention",
+        "Predictive AI",
+        "Risk Spectrum",
+        "Wearable"
+      ],
+      "link": "https://www.behance.net/search/projects/sports%20injury%20prevention%20AI",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/5497626/file/original-b40209fda0ba25b367b02d463917d293.png?resize=752x&vertical=center",
+      "date": "2026-03-19"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 正在完成一次从「记录过去」到「预测未来」的范式转移。第一代运动 App 记录你跑了多远、练了多久（后视镜）；第二代用 AI 优化你的训练计划（导航仪）；现在第三代要预测你什么时候会受伤、什么时候该休息（预言机）。设计层面的挑战也随之升级：记录型产品只需要清晰的数据可视化；优化型产品需要可交互的计划编辑器；预测型产品需要一种全新的视觉语言来表达「不确定性」。今天看到的团体训练界面也很有意思——运动 AI 从 1v1 教练模式进化到 1vN 编排模式，这本质上是从「私教」到「指挥家」的角色转变。对设计的要求从「个人数据可视化」变成了「群体状态态势感知」——更像军事指挥系统而非健身 App。",
+      "body_en": "Sports AI is completing a paradigm shift from 'recording the past' to 'predicting the future.' Gen 1 apps recorded how far you ran (rearview mirror); Gen 2 uses AI to optimize training plans (navigator); Gen 3 predicts when you'll get injured, when to rest (oracle). Design challenges escalate accordingly: recording products need clear data viz; optimization products need interactive plan editors; prediction products need entirely new visual language for 'uncertainty.' Today's group training interface is also fascinating — sports AI evolving from 1v1 coach to 1vN orchestrator, essentially shifting from 'personal trainer' to 'conductor.' Design requirement moves from 'personal data viz' to 'group state situational awareness' — more military command system than fitness app.",
+      "date": "2026-03-19"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 驱动的多语言内容布局 — 一套设计适配全球",
+      "body": "多语言内容设计的新范式：AI 自动根据语言特性调整排版参数。阿拉伯语 RTL 不只是翻转方向，间距和层级逻辑也要重构；日语竖排时行高和字间距的规则完全不同；德语的超长复合词需要不同的断行策略。这个 Behance 项目展示了一个 AI 排版引擎如何用一套设计规则适配 12 种语言，每种都感觉「原生」。",
+      "body_en": "New paradigm for multilingual content design: AI auto-adjusts typography parameters based on language characteristics. Arabic RTL isn't just direction flip — spacing and hierarchy logic need restructuring; Japanese vertical text has entirely different line-height and letter-spacing rules; German's ultra-long compound words need different line-break strategies. This Behance project shows an AI typesetting engine adapting one design ruleset across 12 languages, each feeling 'native.'",
+      "tags": [
+        "Multilingual",
+        "AI Typography",
+        "Localization",
+        "Global Design"
+      ],
+      "link": "https://www.behance.net/search/projects/multilingual%20typography%20design%20system",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-03-19"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「结构化散文」— AI 时代的内容写作新格式",
+      "body": "2026 年内容格式的一个微妙变化：长文不再是纯散文或纯列表，而是「结构化散文」——段落叙事中嵌入可折叠的详细数据、侧边栏式的背景补充、以及 AI 生成的段落摘要。Notion、Substack、Medium 都在测试这种混合格式。对内容设计师来说，这意味着排版系统需要支持「多层级阅读」——扫读者看标题和摘要，精读者展开每一层。",
+      "body_en": "A subtle 2026 content format shift: long-form is no longer pure prose or pure lists but 'structured prose' — narrative paragraphs with embedded collapsible detailed data, sidebar-style context supplements, and AI-generated paragraph summaries. Notion, Substack, Medium all testing this hybrid format. For content designers: typography systems must support 'multi-depth reading' — skimmers see headlines and summaries, deep readers expand every layer.",
+      "tags": [
+        "Structured Prose",
+        "Multi-Depth",
+        "Collapsible",
+        "Reading UX"
+      ],
+      "link": "https://dribbble.com/search/structured-content-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-03-19"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "内容设计在 2026 年正在经历一次「维度升级」：从二维平面走向多层结构。过去的内容页面是线性的——从上读到下，所有人看到相同的内容。现在「结构化散文」引入了深度维度——同一篇文章，扫读者和精读者看到的是不同的「切面」。多语言 AI 排版则引入了文化维度——同一套设计系统在不同语言中呈现不同的视觉节奏。这意味着内容设计师的心智模型需要从「设计一个页面」转变为「设计一个内容空间」——有深度、有文化适配、有个人化阅读路径。这和建筑设计越来越像了：你不是在画一幅画，你是在创造一个让人在里面行走的空间。排版的尽头是空间设计。",
+      "body_en": "Content design in 2026 is undergoing a 'dimension upgrade': from 2D flat to multi-layered structure. Past content pages were linear — read top to bottom, everyone sees the same. Now 'structured prose' adds a depth dimension — skimmers and deep readers see different 'slices' of the same article. Multilingual AI typography adds a cultural dimension — same design system rendering different visual rhythms across languages. Content designers' mental model must shift from 'designing a page' to 'designing a content space' — with depth, cultural adaptation, personalized reading paths. Increasingly resembles architecture: you're not painting a picture, you're creating a space for people to walk through. Typography's endgame is spatial design.",
+      "date": "2026-03-19"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 错误状态设计 — 当 AI 不确定时的视觉语言",
+      "body": "2026 年 AI 产品设计中最被忽视但最重要的领域：错误和不确定性状态。传统软件的错误是二元的（成功/失败），但 AI 有一个中间地带——「我不太确定」。最好的设计用视觉渐变表达置信度：实线=高确定性，虚线=中等，半透明=低确定性。比起「AI 可能出错」的文字提示，这种视觉编码让不确定性成为界面的原生维度。",
+      "body_en": "Most overlooked yet critical area in 2026 AI product design: error and uncertainty states. Traditional software errors are binary (success/failure), but AI has a middle ground — 'I'm not sure.' Best designs use visual gradients for confidence: solid lines = high certainty, dashed = medium, translucent = low certainty. Compared to text warnings like 'AI may be wrong,' this visual encoding makes uncertainty a native interface dimension.",
+      "tags": [
+        "Uncertainty UX",
+        "Confidence Viz",
+        "Error States",
+        "AI Native"
+      ],
+      "link": "https://dribbble.com/search/ai-confidence-uncertainty-ui",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16456703/file/original-7df822057bc312ece5f828fa30af7656.png?resize=752x&vertical=center",
+      "date": "2026-03-19"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「双模态界面」— 初学者模式 vs 专家模式",
+      "body": "2026 年 AI 产品的一个设计趋势：同一个产品提供两套截然不同的界面模式。初学者模式：大按钮、引导式对话、隐藏高级选项；专家模式：快捷键驱动、信息密度最大化、全参数暴露。Cursor 和 v0 已经在这么做。设计挑战在于两套模式之间的过渡——用户不是突然从初学者变成专家的，而是渐进式成长的。最好的实现是「渐进式解锁」而非「模式切换」。",
+      "body_en": "2026 AI product design trend: same product offering two radically different interface modes. Beginner: large buttons, guided conversations, hidden advanced options; Expert: keyboard-driven, maximum info density, all parameters exposed. Cursor and v0 already doing this. Design challenge: transition between modes — users don't suddenly become experts, they grow gradually. Best implementation is 'progressive unlocking' not 'mode switching.'",
+      "tags": [
+        "Dual Mode",
+        "Progressive Disclosure",
+        "Expert UI",
+        "Onboarding"
+      ],
+      "link": "https://www.behance.net/search/projects/ai%20product%20interface%20expert%20beginner",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/43031179/file/original-f059e3209673ba9874a301a18f233c88.png?resize=752x&vertical=center",
+      "date": "2026-03-19"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "把本周 Visual for AI 的两个发现和之前几周的线索串在一起，一个完整的设计框架浮现了——我称之为「AI 产品的四层信任架构」：第一层是「能力展示」（Midjourney 式的 landing page，证明 AI 能做什么）；第二层是「控制感建立」（可逆性界面、撤销树，证明用户不会失控）；第三层是「不确定性透明」（置信度可视化、错误状态设计，承认 AI 不是全知的）；第四层是「成长陪伴」（双模态界面、渐进式解锁，让产品随用户一起进化）。大部分 AI 产品只做了第一层和第二层，第三层和第四层几乎是无人区。但这恰恰是未来两年 AI 产品设计竞争的主战场。能在第三层做好「不确定性设计」的产品会赢得信任，能在第四层做好「成长设计」的产品会赢得留存。2026 年做 AI 产品的视觉设计师，需要从「界面设计师」进化为「关系设计师」——设计的不是一个页面，而是人与 AI 之间不断演变的关系。",
+      "body_en": "Connecting this week's Visual for AI findings with previous weeks, a complete design framework emerges — I call it 'AI Product Four-Layer Trust Architecture': Layer 1 is 'Capability Showcase' (Midjourney-style landing page, proving what AI can do); Layer 2 is 'Control Establishment' (reversibility interfaces, undo trees, proving users won't lose control); Layer 3 is 'Uncertainty Transparency' (confidence visualization, error state design, admitting AI isn't omniscient); Layer 4 is 'Growth Companionship' (dual-mode interfaces, progressive unlocking, product evolving with user). Most AI products only do Layers 1-2; Layers 3-4 are nearly uncharted territory. But these are exactly the next two years' main battleground. Products excelling at Layer 3 'uncertainty design' win trust; those excelling at Layer 4 'growth design' win retention. 2026 AI visual designers need to evolve from 'interface designers' to 'relationship designers' — designing not a page but the evolving relationship between humans and AI.",
+      "date": "2026-03-19"
     }
   ]
 }
