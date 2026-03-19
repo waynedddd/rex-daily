@@ -361,6 +361,78 @@
       margin-top: 12px;
     }
 
+    /* ── Rex's Take Carousel ── */
+    .rex-carousel-section {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 80px 24px 0;
+    }
+    .rex-carousel-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+    }
+    .rex-carousel-title {
+      display: flex; align-items: center; gap: 10px;
+    }
+    .rex-carousel-title h2 {
+      font-size: 20px; font-weight: 600; letter-spacing: -0.02em; color: #e33;
+    }
+    .rex-carousel-title .rex-icon { font-size: 18px; }
+    .rex-carousel-nav {
+      display: flex; align-items: center; gap: 8px;
+    }
+    .rex-carousel-nav button {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: rgba(227,51,51,0.1); border: 1px solid rgba(227,51,51,0.2);
+      color: rgba(227,51,51,0.7); font-size: 16px; cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      transition: all 0.3s;
+    }
+    .rex-carousel-nav button:hover { background: rgba(227,51,51,0.2); color: #e33; }
+    .rex-carousel-nav button:disabled { opacity: 0.2; cursor: default; }
+    .rex-carousel-counter {
+      font-family: var(--font-mono); font-size: 11px; opacity: 0.3; min-width: 40px; text-align: center;
+    }
+    .rex-carousel-viewport {
+      position: relative; overflow: hidden; border-radius: 12px;
+    }
+    .rex-carousel-track {
+      display: flex; transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+    }
+    .rex-card {
+      flex: 0 0 100%; min-width: 100%;
+      background: rgba(227,51,51,0.06);
+      border: 1px solid rgba(227,51,51,0.12);
+      border-radius: 12px;
+      padding: 32px 28px;
+    }
+    .rex-card-meta {
+      display: flex; align-items: center; gap: 12px;
+      margin-bottom: 16px;
+    }
+    .rex-card-dir {
+      font-family: var(--font-mono); font-size: 10px; text-transform: uppercase;
+      letter-spacing: 0.15em; padding: 3px 10px; border-radius: 999px;
+      background: rgba(255,255,255,0.06);
+    }
+    .rex-card-date {
+      font-family: var(--font-mono); font-size: 11px; opacity: 0.25;
+    }
+    .rex-card-body {
+      font-size: 15px; line-height: 1.85; color: rgba(255,255,255,0.6);
+    }
+    .rex-carousel-dots {
+      display: flex; justify-content: center; gap: 6px; margin-top: 16px;
+    }
+    .rex-dot {
+      width: 6px; height: 6px; border-radius: 50%;
+      background: rgba(227,51,51,0.2); cursor: pointer;
+      transition: all 0.3s;
+    }
+    .rex-dot.active { background: #e33; transform: scale(1.3); }
+
     /* ── Footer ── */
     .footer {
       text-align: center;
@@ -401,6 +473,8 @@
       <button class="ctrl-btn" data-lang="true" onclick="toggleLang()">EN</button>
     </div>
   </div>
+
+  <div class="rex-carousel-section" id="rex-carousel"></div>
 
   <div id="boards">
     <div class="loading">Loading...</div>
@@ -464,10 +538,84 @@
     // Global pin index for modal
     let flatPins = [];
 
+    // ── Rex Carousel state ──
+    let rexNotes = [];
+    let rexIdx = 0;
+
+    function collectRexNotes() {
+      rexNotes = allData.pins
+        .filter(p => p.type === 'rex-note')
+        .sort((a, b) => (a.date || '').localeCompare(b.date || '') || allData.directions.findIndex(d=>d.id===a.direction) - allData.directions.findIndex(d=>d.id===b.direction));
+      // Apply filter
+      if (currentFilter !== 'all') {
+        rexNotes = rexNotes.filter(p => p.direction === currentFilter);
+      }
+    }
+
+    function renderCarousel() {
+      const el = document.getElementById('rex-carousel');
+      if (!rexNotes.length) { el.innerHTML = ''; return; }
+      let cards = rexNotes.map((pin, i) => {
+        const color = getDirColor(pin.direction);
+        const dirName = getDirName(pin.direction);
+        return `<div class="rex-card">
+          <div class="rex-card-meta">
+            <span class="rex-card-dir" style="color:${color};border:1px solid ${color}30">${dirName}</span>
+            <span class="rex-card-date">${pin.date || ''}</span>
+          </div>
+          <div class="rex-card-body">${t(pin,'body')}</div>
+        </div>`;
+      }).join('');
+
+      let dots = rexNotes.map((_, i) => `<div class="rex-dot${i===rexIdx?' active':''}" onclick="goRex(${i})"></div>`).join('');
+
+      el.innerHTML = `
+        <div class="rex-carousel-header">
+          <div class="rex-carousel-title">
+            <span class="rex-icon">🔍</span>
+            <h2>Rex's Take</h2>
+          </div>
+          <div class="rex-carousel-nav">
+            <button onclick="goRex(rexIdx-1)" ${rexIdx===0?'disabled':''}>‹</button>
+            <span class="rex-carousel-counter">${rexIdx+1}/${rexNotes.length}</span>
+            <button onclick="goRex(rexIdx+1)" ${rexIdx>=rexNotes.length-1?'disabled':''}>›</button>
+          </div>
+        </div>
+        <div class="rex-carousel-viewport">
+          <div class="rex-carousel-track" style="transform:translateX(-${rexIdx*100}%)">${cards}</div>
+        </div>
+        <div class="rex-carousel-dots">${dots}</div>
+      `;
+    }
+
+    function goRex(i) {
+      if (i < 0 || i >= rexNotes.length) return;
+      rexIdx = i;
+      renderCarousel();
+    }
+
+    // Swipe support for carousel
+    document.addEventListener('touchstart', function(e) {
+      const vp = document.querySelector('.rex-carousel-viewport');
+      if (!vp || !vp.contains(e.target)) return;
+      vp._startX = e.touches[0].clientX;
+    }, { passive: true });
+    document.addEventListener('touchend', function(e) {
+      const vp = document.querySelector('.rex-carousel-viewport');
+      if (!vp || vp._startX == null) return;
+      const dx = e.changedTouches[0].clientX - vp._startX;
+      vp._startX = null;
+      if (Math.abs(dx) > 50) goRex(rexIdx + (dx < 0 ? 1 : -1));
+    }, { passive: true });
+
     function render() {
       if (!allData) return;
       const container = document.getElementById('boards');
       flatPins = [];
+
+      collectRexNotes();
+      rexIdx = Math.min(rexIdx, Math.max(0, rexNotes.length - 1));
+      renderCarousel();
 
       const dirs = currentFilter === 'all'
         ? allData.directions
@@ -481,7 +629,6 @@
           .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
         const imgPins = pins.filter(p => p.type !== 'rex-note' && p.image);
-        const rexNotes = pins.filter(p => p.type === 'rex-note');
 
         html += `<div class="board-section">`;
         html += `<div class="section-header">
@@ -500,14 +647,6 @@
             <div class="tile-overlay">
               <div class="tile-title">${pin.title || ''}</div>
             </div>
-          </div>`;
-        });
-
-        // Insert rex notes as text tiles
-        rexNotes.forEach(pin => {
-          html += `<div class="tile tile--rex">
-            <div class="rex-label">🔍 Rex's Take</div>
-            <div class="rex-body">${t(pin,"body")}</div>
           </div>`;
         });
 
