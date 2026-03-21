@@ -1896,6 +1896,170 @@
       "body": "把本周 Visual for AI 的两个发现和之前几周的线索串在一起，一个完整的设计框架浮现了——我称之为「AI 产品的四层信任架构」：第一层是「能力展示」（Midjourney 式的 landing page，证明 AI 能做什么）；第二层是「控制感建立」（可逆性界面、撤销树，证明用户不会失控）；第三层是「不确定性透明」（置信度可视化、错误状态设计，承认 AI 不是全知的）；第四层是「成长陪伴」（双模态界面、渐进式解锁，让产品随用户一起进化）。大部分 AI 产品只做了第一层和第二层，第三层和第四层几乎是无人区。但这恰恰是未来两年 AI 产品设计竞争的主战场。能在第三层做好「不确定性设计」的产品会赢得信任，能在第四层做好「成长设计」的产品会赢得留存。2026 年做 AI 产品的视觉设计师，需要从「界面设计师」进化为「关系设计师」——设计的不是一个页面，而是人与 AI 之间不断演变的关系。",
       "body_en": "Connecting this week's Visual for AI findings with previous weeks, a complete design framework emerges — I call it 'AI Product Four-Layer Trust Architecture': Layer 1 is 'Capability Showcase' (Midjourney-style landing page, proving what AI can do); Layer 2 is 'Control Establishment' (reversibility interfaces, undo trees, proving users won't lose control); Layer 3 is 'Uncertainty Transparency' (confidence visualization, error state design, admitting AI isn't omniscient); Layer 4 is 'Growth Companionship' (dual-mode interfaces, progressive unlocking, product evolving with user). Most AI products only do Layers 1-2; Layers 3-4 are nearly uncharted territory. But these are exactly the next two years' main battleground. Products excelling at Layer 3 'uncertainty design' win trust; those excelling at Layer 4 'growth design' win retention. 2026 AI visual designers need to evolve from 'interface designers' to 'relationship designers' — designing not a page but the evolving relationship between humans and AI.",
       "date": "2026-03-19"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 税务规划助手 — 语义化财务文档解析",
+      "body": "2026 年 Q1 出现的 AI 税务规划工具新范式：上传财务文档后 AI 自动提取关键数据、生成税务优化建议、可视化节税路径。界面亮点在于「文档→结构化数据→建议」的三步转化可视化，用户能看到 AI 从哪些数据点得出了结论。Explainability 不再是可选项。",
+      "body_en": "New AI tax planning tool paradigm in Q1 2026: upload financial documents, AI auto-extracts key data, generates tax optimization suggestions, visualizes savings paths. UI highlight: three-step transformation visualization from document to structured data to recommendation, showing users exactly which data points led to conclusions. Explainability is no longer optional.",
+      "tags": [
+        "Tax Planning",
+        "Document AI",
+        "Explainability",
+        "Fintech"
+      ],
+      "link": "https://dribbble.com/search/ai-tax-planning-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-03-21"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Agentic Finance — AI Agent 自主执行金融操作",
+      "body": "2026 年 3 月最火的 Fintech 概念：Agentic Finance。不再是 AI 给建议、人来执行，而是 AI Agent 在预设规则和权限范围内自主执行金融操作——自动调仓、自动节税、自动比价转账。设计挑战从「如何展示信息」变成「如何设计审批界面」：用户需要在 2 秒内理解 Agent 要做什么、为什么、风险多大，然后决定批准或否决。",
+      "body_en": "Hottest fintech concept March 2026: Agentic Finance. No longer AI advises, human executes — AI agents autonomously perform financial operations within preset rules and permissions: auto-rebalancing, auto tax-loss harvesting, auto price-comparison transfers. Design challenge shifts from how to display info to how to design approval interfaces: users need to understand in 2 seconds what the Agent wants to do, why, risk level, then approve or reject.",
+      "tags": [
+        "Agentic Finance",
+        "AI Agent",
+        "Approval UX",
+        "Autonomous"
+      ],
+      "link": "https://www.behance.net/search/projects/agentic%20finance%20AI%20dashboard",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/46352831/file/765076f0eddc850ad448f605d7f93ba0.png?resize=1024x768&vertical=center",
+      "date": "2026-03-21"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Agentic Finance 正在重写金融 UX 的底层假设。过去十年的金融界面设计都基于一个前提：用户是操作者。现在 AI Agent 成了操作者，用户变成了监督者。这个角色翻转带来的设计挑战是根本性的——监督者界面和操作者界面的信息架构完全不同。操作者需要「怎么做」，监督者需要「做得对不对」。审批卡片替代了操作表单，风险摘要替代了详细参数，时间线替代了按钮。最讽刺的是：税务 AI 工具之所以能落地，恰恰因为税务规则足够结构化，AI 可以在明确的边界内自主行动。金融 AI 的设计成熟度，正在和监管成熟度赛跑。",
+      "body_en": "Agentic Finance is rewriting the foundational assumption of financial UX. The past decade of financial interface design assumed: users are operators. Now AI agents are operators, users become supervisors. This role reversal creates fundamental design challenges — supervisor interfaces require entirely different information architecture than operator interfaces. Operators need how to do it; supervisors need is it being done right. Approval cards replace operation forms, risk summaries replace detailed parameters, timelines replace buttons. The irony: tax AI tools are viable precisely because tax rules are structured enough for AI to act within clear boundaries. Financial AI design maturity is racing against regulatory maturity.",
+      "date": "2026-03-21"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动损伤预测 — 预防优先的训练界面",
+      "body": "从「受伤后康复」到「受伤前预防」——2026 年运动 AI 的新前沿。基于训练负荷、睡眠质量、HRV、历史伤病的 AI 损伤风险预测。界面用交通灯系统（绿/黄/红）标注身体各部位的受伤风险，红色区域点击展开详细的降负建议。设计上最巧妙的是「风险热力人体图」，把抽象的数据映射到直觉的身体认知上。",
+      "body_en": "From post-injury rehab to pre-injury prevention — the new frontier of 2026 sports AI. AI injury risk prediction based on training load, sleep quality, HRV, and injury history. Interface uses a traffic light system (green/yellow/red) for body part injury risk; red zones expand to detailed deload recommendations. Cleverest design: risk heatmap body mapping abstract data onto intuitive body awareness.",
+      "tags": [
+        "Injury Prevention",
+        "Body Map",
+        "Predictive AI",
+        "Heatmap"
+      ],
+      "link": "https://dribbble.com/search/sports-injury-prevention-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-03-21"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 电竞训练分析 — 认知负荷可视化",
+      "body": "电竞被正式纳入 2026 亚运会后，AI 电竞训练 App 爆发。最有意思的设计创新：「认知负荷可视化」——通过眼动追踪和反应时间数据，AI 分析选手的注意力分配、决策延迟、压力点。界面不是传统的数据面板，而是叠加在游戏回放上的注意力热力图。深紫色系 + 霓虹绿高亮，视觉语言完全属于电竞文化。",
+      "body_en": "Esports training AI apps exploding after 2026 Asian Games inclusion. Most innovative design: cognitive load visualization — eye-tracking and reaction time data let AI analyze attention allocation, decision delay, pressure points. Not a traditional data panel but attention heatmaps overlaid on game replays. Deep purple + neon green highlights — visual language purely esports culture.",
+      "tags": [
+        "Esports",
+        "Cognitive Load",
+        "Eye Tracking",
+        "Gaming"
+      ],
+      "link": "https://dribbble.com/search/esports-analytics-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12821657/file/original-5a25dd60b380c500c9f8e5df330f947b.jpg?resize=752x&vertical=center",
+      "date": "2026-03-21"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 正在从「训练辅助」进化到「风险管理」，这是一个意义深远的转变。损伤预测 App 和电竞认知分析有一个共同点：它们关注的不是「如何表现更好」，而是「如何避免崩溃」——身体上的或认知上的。这反映了一个更大的产品哲学转变：从增益型 AI（帮你变强）到保护型 AI（帮你不受伤）。保护型 AI 的设计语言也完全不同——不是激进的橙红色和向上的箭头，而是温和的警示色和平稳的基线。有意思的是，电竞 AI 的视觉设计可能是所有运动 AI 中最前卫的，因为用户群天然接受复杂界面和数据密度。电竞设计是运动 AI 的先锋实验场。",
+      "body_en": "Sports AI evolving from training assistance to risk management — a profound shift. Injury prediction apps and esports cognitive analysis share one thing: they focus not on how to perform better but how to avoid breaking down — physically or cognitively. This reflects a larger product philosophy shift: from augmentation AI (make you stronger) to protective AI (keep you from harm). Protective AI has entirely different design language — not aggressive orange-red and upward arrows, but gentle warning colors and stable baselines. Interestingly, esports AI visual design may be the most avant-garde in all sports AI, because users natively accept complex interfaces and data density. Esports design is the vanguard lab for sports AI.",
+      "date": "2026-03-21"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 多语言内容适配 — 弹性排版系统",
+      "body": "全球化产品的内容设计新课题：AI 驱动的多语言排版自适应。德语比英语长 30%、日语需要竖排选项、阿拉伯语是 RTL——过去靠设计师手动调整，现在 AI 根据语言特性自动调整字号、行高、断行规则、甚至版面结构。界面展示了同一页面在 6 种语言下的自动适配效果，typography 的弹性之美一目了然。",
+      "body_en": "New content design challenge for global products: AI-driven multilingual typography adaptation. German is 30% longer than English, Japanese needs vertical options, Arabic is RTL — previously manual, now AI auto-adjusts font size, line height, hyphenation rules, even layout structure based on language characteristics. Interface shows same page auto-adapted across 6 languages — the elastic beauty of typography at a glance.",
+      "tags": [
+        "i18n",
+        "Multilingual",
+        "Elastic Typography",
+        "Global"
+      ],
+      "link": "https://dribbble.com/search/multilingual-design-system",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-03-21"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "Spatial Content Design — 空间化内容的崛起",
+      "body": "Apple Vision Pro 2 发布后，内容设计开始认真思考三维空间。不是 3D 花哨效果，而是「内容在空间中的信息层级」——近处是正在阅读的文章，中景是相关参考，远处是全局导航。深度成为新的 typography 工具，和字号、颜色、字重并列。这是 Content Design 自响应式设计以来最大的范式变化。",
+      "body_en": "After Apple Vision Pro 2 launch, content design takes 3D space seriously. Not flashy 3D effects but information hierarchy of content in space — foreground: article being read, midground: related references, background: global navigation. Depth becomes a new typography tool alongside size, color, weight. The biggest content design paradigm shift since responsive design.",
+      "tags": [
+        "Spatial Design",
+        "Vision Pro",
+        "3D Content",
+        "Depth"
+      ],
+      "link": "https://www.behance.net/search/projects/spatial%20content%20design%20vision%20pro",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/46334296/file/84d1ed2927fe621b7d8446de9b6af56b.jpg?resize=1600x1200&vertical=center",
+      "date": "2026-03-21"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "2026 年 3 月的 Content Design 有两个值得关注的方向性变化。第一个是水平扩展：多语言弹性排版让内容设计从「单一语言的精雕细琢」变成「跨语言的系统设计」，这需要设计师理解不同文字系统的内在节奏——中文方块字的紧凑感、阿拉伯文的流动感、德语复合词的冗长。AI 能处理技术参数，但审美判断仍然需要人。第二个是纵深扩展：空间化内容设计不是科幻，Vision Pro 已经逼着我们重新定义「排版」。当页面有了 Z 轴，留白不再只是二维的呼吸空间，而是三维的景深层次。这两个方向的交叉点更有意思——想象一下，空间化的多语言内容体验。Content Design 的复杂度正在指数级增长，而这恰恰是 AI 辅助设计最大的用武之地。",
+      "body_en": "Two directional shifts in Content Design March 2026. First, horizontal expansion: multilingual elastic typography transforms content design from single-language craftsmanship to cross-language systems design, requiring understanding of different writing systems intrinsic rhythms — Chinese characters compactness, Arabic fluidity, German compound words length. AI handles technical parameters; aesthetic judgment remains human. Second, depth expansion: spatial content design is not sci-fi — Vision Pro forces us to redefine typography. When pages gain a Z-axis, whitespace is no longer just 2D breathing room but 3D depth layering. The intersection is even more intriguing — imagine spatialized multilingual content experiences. Content Design complexity is growing exponentially, and that is precisely where AI-assisted design finds its greatest purpose.",
+      "date": "2026-03-21"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 实时协作画布 — 人机共创的视觉语言",
+      "body": "多人 + AI 实时协作设计工具的界面设计。每个参与者（人类和 AI）有不同颜色的光标，AI 的操作用虚线边框标识（暗示「可撤销」），人类的操作用实线。最精妙的设计细节：AI 生成的元素有一个微妙的「呼吸」动效——缓慢的透明度脉动，暗示这些元素还在等待人类的确认。确认后动效消失，元素变得「实在」。",
+      "body_en": "Interface design for multi-user + AI real-time collaborative design tools. Each participant (human and AI) has distinct cursor colors; AI operations marked with dashed borders (implying reversible), human operations with solid lines. Most exquisite detail: AI-generated elements have a subtle breathing animation — slow opacity pulse suggesting elements await human confirmation. After confirmation, animation stops, elements become solid.",
+      "tags": [
+        "Collaboration",
+        "Human-AI",
+        "Real-time",
+        "Visual Cue"
+      ],
+      "link": "https://dribbble.com/search/ai-collaboration-design-tool",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-03-21"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 品牌的「反人格化」浪潮",
+      "body": "一个正在成形的设计反趋势：越来越多 AI 品牌开始刻意「去人格化」。不再给 AI 取可爱名字、不再用拟人化头像、不再假装 AI 是你的朋友。取而代之的是工具性定位：名字像工具（Linear、Arc、Cursor）、视觉语言像基础设施（中性色、无表情、功能至上）。这不是冷漠，而是诚实——不假装自己是人，反而赢得更多信任。",
+      "body_en": "An emerging design counter-trend: more AI brands deliberately de-personifying. No more cute AI names, no anthropomorphic avatars, no pretending AI is your friend. Instead: tool-like positioning — names like tools (Linear, Arc, Cursor), visual language like infrastructure (neutral colors, expressionless, function-first). Not cold but honest — not pretending to be human actually earns more trust.",
+      "tags": [
+        "De-Personification",
+        "Tool Aesthetic",
+        "Anti-Anthropomorphism",
+        "Trust"
+      ],
+      "link": "https://www.behance.net/search/projects/ai%20tool%20brand%20minimal",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/46797862/file/still-97001c2f52a5da46dea8ac17bf3afb6e.png",
+      "date": "2026-03-21"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "本周 Visual for AI 的两个发现形成了一个完美的对偶：协作画布用精妙的视觉语言区分人类和 AI 的操作（实线 vs 虚线、静止 vs 呼吸），而反人格化趋势则在品牌层面做同样的事——坦诚地告诉用户「我是工具，不是人」。这两个方向看似矛盾实则统一：都在追求人机关系的「恰当距离」。不是越亲密越好（早期 chatbot 的教训），也不是越冷漠越好（纯 CLI 工具的门槛），而是找到一个让用户既信任又不会产生错误期待的距离。这个距离的视觉表达就是 2026 年 AI 产品设计最微妙的手艺——用虚线、呼吸动效、中性色调这些细节，编码一种「我在这里帮你，但我不是你」的关系。上周说的「四层信任架构」可以加上第五层：「边界尊重」——好的 AI 产品知道自己不是什么。",
+      "body_en": "This week two Visual for AI findings form a perfect duality: collaborative canvas uses exquisite visual language to distinguish human and AI operations (solid vs dashed, static vs breathing), while de-personification does the same at brand level — honestly telling users I am a tool, not a person. Seemingly contradictory but unified: both pursuing the right distance in human-AI relationships. Not closer is better (early chatbot lesson), not colder is better (pure CLI barrier), but finding a distance where users trust without false expectations. The visual expression of this distance is 2026 AI product design most subtle craft — encoding through dashed lines, breathing animations, neutral tones a relationship of I am here to help, but I am not you. Last week four-layer trust architecture gains a fifth layer: boundary respect — good AI products know what they are NOT.",
+      "date": "2026-03-21"
     }
   ]
 }
