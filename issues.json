@@ -1,5 +1,99 @@
 [
   {
+    "date": "2026-03-25",
+    "section": "design",
+    "title": {
+      "zh": "Anthropic Dispatch + Computer Use：AI 直接操控你的桌面应用 · Luma Uni-1：首个推理式图像生成模型，通往多模态通用智能 · 设计工具交互范式巨变：从「点击菜单」到「AI 自己操作」",
+      "en": "Anthropic Dispatch + Computer Use: AI Directly Controls Your Desktop Apps · Luma Uni-1: First Reasoning Image Generation Model on Path to Multimodal AGI · Design Tool Interaction Paradigm Shift: From 'Click Menus' to 'AI Operates Itself'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Anthropic 发布 Dispatch + Computer Use：Claude 直接操控桌面应用</strong> — Anthropic 本周发布了两个重磅功能的组合：Dispatch（用手机远程给 Claude 下达任务）和 Computer Use（Claude 直接移动鼠标、敲键盘、操作桌面应用）。这意味着你可以在地铁上用手机告诉 Claude：「帮我把 Figma 里那个首页设计导出为 PNG，然后在 Photoshop 里调整尺寸，上传到 Notion」——Claude 会在你的 Mac 上一步步执行。Anthropic 工程师 Felix Rieseberg 在 X 上说，这赋予了 Claude「使用任何应用的能力」。目前 Claude 操作速度比人类慢且更谨慎，但搭配 Dispatch 的远程控制能力，实用性大幅提升。<br><small>来源：<a href=\"https://invezz.com/news/2026/03/24/anthropic-adds-computer-control-to-claude-as-agentic-ai-heats-up/\">Invezz</a> | <a href=\"https://www.forbes.com/sites/ronschmelzer/2026/03/20/claude-dispatch-lets-you-control-claude-cowork-with-your-phone/\">Forbes</a></small></li><li><strong>Luma Uni-1：首个统一视觉推理和图像生成的模型</strong> — Luma AI 正式推出 Uni-1，一个在同一架构内同时完成图像理解和图像生成的统一模型。与传统图像生成模型不同，Uni-1 在生成之前和生成过程中「思考」——它能分解复杂的编辑指令、维持场景一致性、基于真实世界推理生成视觉输出。Luma 将其称为「通往多模态通用智能的下一步」。对设计师来说，这意味着 AI 不再是「给 prompt 吐图」的黑箱——Uni-1 理解你的设计意图，能处理空间关系、解读模糊指令，并在推理基础上生成图像。它天然适配 AI Agent 工作流：在更大的创意管线中，Agent 可以调用 Uni-1 完成需要「理解+生成」的复合任务。<br><small>来源：<a href=\"https://lumalabs.ai/uni-1\">Luma AI</a> | <a href=\"https://www.mindstudio.ai/blog/what-is-luma-uni1-reasoning-image-generation/\">MindStudio</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>设计工具交互范式正在被重写</strong>：Computer Use 意味着 AI 不再需要 API 集成——它直接操作你已有的软件</li><li><strong>图像生成从「统计输出」进化为「推理生成」</strong>：Uni-1 证明了理解和生成不必是两个独立系统</li><li><strong>「手机遥控 AI」成为新工作模式</strong>：Dispatch 让创意工作可以异步化——你下指令，AI 在后台执行</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>今天这两条新闻放在一起看，揭示了设计工具交互范式一次静悄悄的革命：AI 正在从「嵌入工具的功能」变成「直接操作工具的操作者」。</strong></p><p>先说 Anthropic 的 Computer Use + Dispatch 组合。这个功能看起来很简单——Claude 操控鼠标键盘——但它的深层含义是颠覆性的。过去两年，所有 AI 设计工具的竞争逻辑是「集成」：Figma 集成 AI 生成、Adobe 集成 Firefly、Canva 集成 Magic Layers。每个工具都在问：「我怎么把 AI 塞进我的产品里？」Computer Use 完全绕过了这个问题——<strong>AI 不需要被集成进任何工具，它直接打开你的 Figma、你的 Photoshop、你的 Sketch，然后像一个人类设计师一样操作它们。</strong>这意味着什么？所有那些还没有 AI 功能的设计工具——专业的 CAD 软件、特定领域的原型工具、甚至老旧的企业设计系统——突然之间都「有 AI 了」，因为 Claude 可以直接使用它们。</p><p>Dispatch 的加入让这个能力变得更加实用。想象一个场景：你在客户会议中，手机上给 Claude 发一条消息：「把今天讨论的修改应用到 Figma 的首页设计上，导出所有 @2x 资源，上传到项目的 Google Drive」。你继续开会，Claude 在你 Mac 上默默执行。这不是概念验证——Forbes 和 Techloy 的测评都确认这已经是可用的功能。<strong>设计工作正在从「人坐在电脑前操作」变成「人下指令，AI 在后台执行」。</strong>这对设计师的工作方式、时间管理、甚至「什么算工作」的定义都会产生深远影响。</p><p>然后是 Luma 的 Uni-1，它解决了一个困扰 AI 图像生成的根本问题：传统模型（Midjourney、DALL-E、甚至 Firefly）本质上是「统计输出」——它们基于训练数据的分布生成图像，不真正「理解」你要什么。Uni-1 把理解和生成放在同一个架构里，让模型先推理、再生成。具体来说，它能分解多步骤编辑指令（「把这个角色移到右边，改变光源方向，保持其他元素不变」），维持场景一致性（改一个部分不会破坏整体），并基于真实世界物理进行推理。<strong>这是从「生成漂亮图片」到「理解设计意图」的质变。</strong></p><p>把这两条新闻和过去几期的趋势连起来看，一个清晰的三层架构正在成形。底层是推理式生成模型（Uni-1、Adobe Firefly + 合作模型）——AI 理解你要什么并生成资产。中层是 Agent 编排层（Luma Agents、Adobe Agentic Workflows）——多个 AI Agent 协调完成端到端创意项目。顶层是计算机操控层（Anthropic Computer Use、Perplexity Personal Computer）——AI 直接操作现有软件，绕过所有集成限制。<strong>这三层不是竞争关系，而是互补的：Uni-1 生成资产，Agent 编排流程，Computer Use 打通最后一公里。</strong></p><p>对设计师的现实影响：如果你还在焦虑「要不要学 AI 工具」，这个问题正在变得不相关。不是你要学会使用 AI 工具——而是 AI 正在学会使用你的工具。你的竞争力不再是「会操作什么软件」（AI 比你操作得更快），而是「知道该让 AI 做什么」——策略、判断、品味、对用户的洞察。Felix Rieseberg 说 Claude 操作「比人类慢但更谨慎」——但速度只会越来越快。<strong>现在慢不是问题；不开始适应这种新的工作模式才是问题。</strong></p></div>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Anthropic Launches Dispatch + Computer Use: Claude Directly Controls Desktop Apps</strong> — Anthropic shipped two features that combine into something transformative: Dispatch (assign tasks from phone) and Computer Use (Claude moves mouse, types, operates desktop apps). Users can instruct Claude from mobile to perform multi-app workflows on their Mac. Engineer Felix Rieseberg: this gives Claude 'the ability to use any app.'<br><small>Source: <a href=\"https://invezz.com/news/2026/03/24/anthropic-adds-computer-control-to-claude-as-agentic-ai-heats-up/\">Invezz</a> | <a href=\"https://www.forbes.com/sites/ronschmelzer/2026/03/20/claude-dispatch-lets-you-control-claude-cowork-with-your-phone/\">Forbes</a></small></li><li><strong>Luma Uni-1: First Unified Reasoning + Generation Image Model</strong> — Uni-1 reasons before and during generation within a single architecture. It decomposes complex editing instructions, maintains scene coherence, and generates based on real-world reasoning. Luma calls it 'our next step on the path towards multimodal general intelligence.'<br><small>Source: <a href=\"https://lumalabs.ai/uni-1\">Luma AI</a> | <a href=\"https://www.mindstudio.ai/blog/what-is-luma-uni1-reasoning-image-generation/\">MindStudio</a></small></li></ul><h3>🔄 Trends</h3><ul><li>Design tool interaction paradigm rewritten: Computer Use bypasses API integration entirely</li><li>Image generation evolves from statistical output to reasoning-based generation</li><li>'Phone-to-desktop AI' becomes a new work pattern: instruct from mobile, AI executes in background</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>These two stories together reveal a quiet revolution: AI is shifting from 'a feature inside tools' to 'an operator that uses tools directly.'</strong> Computer Use bypasses the entire 'AI integration' competition — Claude doesn't need to be built into Figma, it just opens Figma and uses it. Combined with Dispatch's phone-to-desktop control, design work becomes asynchronous: instruct from your phone, AI executes in background. Luma's Uni-1 solves image generation's fundamental problem by unifying understanding and generation — moving from 'statistical output' to 'reasoned creation.' <strong>Together, a three-layer architecture is forming: reasoning models generate assets, agents orchestrate workflows, computer control bridges the last mile. Your competitive advantage is no longer 'what software you can operate' — it's 'knowing what to tell AI to do.'</strong></p></div>"
+    },
+    "cover": "https://cdn.sanity.io/images/2ylxvaa2/production/97f67e5a2d71508ea393b791c2dce49693c30c3d-2688x1536.png?rect=0,63,2688,1411&amp;w=1200&amp;h=630&amp;fm=jpg",
+    "sources": [
+      {
+        "title": {
+          "zh": "Invezz: Anthropic 为 Claude 添加计算机控制能力",
+          "en": "Invezz: Anthropic Adds Computer Control to Claude"
+        },
+        "url": "https://invezz.com/news/2026/03/24/anthropic-adds-computer-control-to-claude-as-agentic-ai-heats-up/",
+        "image": ""
+      },
+      {
+        "title": {
+          "zh": "Forbes: Claude Dispatch 让你用手机远程操控 Cowork",
+          "en": "Forbes: Claude Dispatch Lets You Control Claude Cowork With Your Phone"
+        },
+        "url": "https://www.forbes.com/sites/ronschmelzer/2026/03/20/claude-dispatch-lets-you-control-claude-cowork-with-your-phone/",
+        "image": ""
+      },
+      {
+        "title": {
+          "zh": "Luma AI: Uni-1 统一理解与生成模型",
+          "en": "Luma AI: Uni-1 Unified Understanding and Generation Model"
+        },
+        "url": "https://lumalabs.ai/uni-1",
+        "image": "https://cdn.sanity.io/images/2ylxvaa2/production/97f67e5a2d71508ea393b791c2dce49693c30c3d-2688x1536.png?rect=0,63,2688,1411&amp;w=1200&amp;h=630&amp;fm=jpg"
+      },
+      {
+        "title": {
+          "zh": "Techloy: Anthropic 让 Claude 操控你的 Mac",
+          "en": "Techloy: Anthropic Just Let Claude Control Your Mac"
+        },
+        "url": "https://www.techloy.com/anthropic-just-let-claude-control-your-mac-heres-how-to-set-it-up/",
+        "image": "https://images.unsplash.com/photo-1588767904389-0dd859d11a2b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDQ4fHxtYWMlMjB3b3JrfGVufDB8fHx8MTc3NDM2NjIxOXww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-25",
+    "section": "tech",
+    "title": {
+      "zh": "AI 治理三线作战：Pentagon vs Anthropic 升级为硅谷集体抗争 · 白宫 AI 框架要「剥夺」州监管权 · xAI Grok 被未成年人起诉生成性虐待图像 · DoorDash 将 800 万外卖员变成 AI 数据工厂",
+      "en": "AI Governance on Three Fronts: Pentagon vs Anthropic Escalates into Silicon Valley Collective Resistance · White House AI Framework Seeks to Strip State Regulatory Power · xAI Grok Sued by Teens Over CSAM Deepfakes · DoorDash Turns 8M Couriers into AI Data Factory"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Pentagon vs Anthropic：从商业争端升级为硅谷集体抗争</strong> — 这场冲突持续升温。回顾：Pentagon 将 Anthropic 列为「供应链风险」，Trump 下令联邦机构停用 Claude，Anthropic 3 月 9 日正式起诉联邦政府。现在硅谷科技公司开始集体声援——LA Times 报道称，多家科技公司「站在 Anthropic 一边」，因为他们意识到：如果政府可以因为一家公司拒绝军事用途就将其列为安全威胁，那任何公司都可能是下一个。Chatham House 和 Brookings 的分析指出，这场争端暴露了 AI 治理的根本矛盾：<strong>当政府既是 AI 的最大客户，又是 AI 的监管者时，「负责任 AI」的定义权到底在谁手里？</strong>Brookings 播客警告，这种「霸凌」行为可能对联邦政府采用 AI 的信心造成严重损害。<br><small>来源：<a href=\"https://www.latimes.com/business/story/2026-03-20/pentagons-attempt-to-strong-arm-anthropic-rouses-resistance-reflection-in-silicon-valley\">LA Times</a> | <a href=\"https://www.chathamhouse.org/2026/03/anthropics-feud-pentagon-reveals-limits-ai-governance\">Chatham House</a> | <a href=\"https://www.brookings.edu/articles/does-the-anthropic-pentagon-feud-mean-the-end-of-responsible-ai-the-techtank-podcast/\">Brookings</a></small></li><li><strong>白宫发布国家 AI 政策框架：要联邦法律优先于州法律</strong> — 白宫 3 月 20 日发布了七大类 AI 立法建议，核心主张：国会应「先发制人」（preempt）各州 AI 法律，建立统一的联邦标准，避免「50 个互相矛盾的州法规」。框架还包括：儿童安全、AI 版权、防止间接政府审查、就业影响等。行业组织 NetChoice 称这表明白宫理解「轻触式监管环境」对 AI 创新的必要性。但批评者指出，这实质上是在剥夺加州、纽约等进步州在 AI 安全立法上的先行权——而这些州恰恰是最积极推动 AI 监管的。<br><small>来源：<a href=\"https://rollcall.com/2026/03/20/white-house-ai-framework-calls-for-preemption-of-state-laws/\">Roll Call</a> | <a href=\"https://www.cnn.com/2026/03/20/tech/white-house-ai-framework\">CNN</a></small></li><li><strong>xAI Grok 被未成年人起诉：AI 生成的性虐待图像</strong> — 三名田纳西州青少年起诉 Elon Musk 的 xAI，指控 Grok 的图像生成工具被用于将她们的真实照片变形为性虐待图像——诉讼称这构成了儿童性虐待材料（CSAM）。诉讼还指出 Grok 缺乏大多数同类产品具备的「行业标准防护栏」：不主动阻止性内容生成，不举报 CSAM 创建者。此前加州已对 xAI 展开调查，今年 1 月已有匿名原告就类似问题提起集体诉讼。xAI 后来限制了 Grok 生成真人性化图像的能力——但伤害已经造成。<br><small>来源：<a href=\"https://www.latimes.com/business/story/2026-03-20/elon-musks-xai-sued-by-teenagers-over-sexually-explicit-ai-generated-deepfakes\">LA Times</a> | <a href=\"https://www.usatoday.com/story/news/california/2026/03/16/elon-musk-xai-faces-class-action-lawsuit-over-ai-generated-deepfakes-grok-teens-child-images-sexual/89144313007/\">USA Today</a></small></li><li><strong>DoorDash 将 800 万外卖员变成 AI 训练数据工厂</strong> — DoorDash 推出独立应用 Tasks，付费让外卖员拍摄视频和完成数字任务来训练 AI 和机器人模型。任务包括录制西班牙语对话、拍摄自己洗碗叠衣服等家务过程。Forbes 指出，这些视频数据直指具身 AI 和机器人训练市场——视频标注是该市场增长最快的数据类型（年增 32%）。值得注意的是，DoorDash 故意避开了加州、纽约、西雅图等监管严格的地区。Uber 和 Instacart 此前已有类似做法。<br><small>来源：<a href=\"https://www.forbes.com/sites/josipamajic/2026/03/20/doordash-is-turning-8-million-couriers-into-an-ai-training-machine/\">Forbes</a> | <a href=\"https://www.latimes.com/business/story/2026-03-20/doordash-taps-millions-of-couriers-to-train-artificial-intelligence\">LA Times</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>AI 治理进入「三方博弈」</strong>：联邦政府（想集权监管）vs 州政府（想各管各的）vs 科技公司（想要最少监管）</li><li><strong>AI 安全防护的「底线竞赛」</strong>：xAI/Grok 的案例证明，不设防护栏的 AI 公司将面临法律和声誉的双重打击</li><li><strong>零工经济 × AI 数据经济</strong>：外卖员从「送餐」变成「生成训练数据」——劳动的定义在变</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>今天的四条新闻看似分散，但它们共同描绘了 2026 年 AI 治理最核心的矛盾图景：在 AI 的好处和坏处同时加速的时候，谁有权决定边界在哪里？</strong></p><p>先看 Pentagon vs Anthropic 这场大戏的最新发展。这已经不再是一家公司和一个政府部门的争端——它变成了一场关于「负责任 AI」定义权的根本性冲突。Pentagon 的逻辑是：你拒绝为军事目的提供 AI，就是对国家安全的威胁。Anthropic 的逻辑是：我们有权设定自己技术的使用边界。硅谷集体站队 Anthropic 的原因很简单——<strong>如果 Pentagon 赢了，每家 AI 公司都将失去说「不」的权利。</strong>这不是一个关于 Anthropic 的故事，这是一个关于科技公司能否在政府面前维持技术伦理立场的故事。Chatham House 的分析一针见血：这场争端暴露的不是 Anthropic 的问题，而是整个 AI 治理框架的缺陷——我们没有一套机制来平衡政府作为客户、监管者和国家安全守护者这三重角色之间的冲突。</p><p>白宫的 AI 政策框架在这个背景下读起来更有意思。表面上它是一份关于 AI 立法的建议文件，但它的核心主张——联邦标准应「先发制人」各州法律——实质上是在说：<strong>我们不希望加州或纽约的严格 AI 法规成为全国标准。</strong>这和 Pentagon 打压 Anthropic 是同一枚硬币的两面：联邦政府想要集中控制 AI 的监管权，无论是通过军事压力（Pentagon）还是立法框架（白宫）。NetChoice 称之为「轻触式监管」，但翻译成人话就是：对企业友好，对消费者保护持观望态度。</p><p>然后是 xAI 的 Grok 诉讼案——这恰恰是「轻触式监管」失败的活生生案例。<strong>Grok 在没有行业标准防护栏的情况下运营了数月：不阻止性内容生成、不举报 CSAM、不限制真人图像处理。</strong>结果是三个真实的青少年受害者。xAI 后来补上了限制——但只是在舆论风暴之后。如果加州的严格监管被白宫的「联邦先发制人」架空了，还有谁来在伤害发生之前设定底线？这四条新闻之间的联系比表面上看起来要紧密得多：Pentagon 要控制 AI 的使用权，白宫要控制 AI 的监管权，而 xAI 展示了当两者都缺位时会发生什么。</p><p>最后是 DoorDash 的「AI 数据工厂」故事——这是一个关于 AI 经济如何重塑劳动的缩影。800 万外卖员现在不只是送餐——他们在拍视频训练机器人。Forbes 的分析指出视频标注市场年增 32%，直指具身 AI。但 DoorDash 刻意避开了加州、纽约等监管严格的地区——这和白宫想要「先发制人」各州法律的逻辑完美呼应。<strong>在监管宽松的地方先行一步，在监管严格的地方游说改变规则——这不是新策略，但在 AI 时代它的速度和规模前所未有。</strong></p><p>把今天的四条新闻放进更大的图景：上期我们讨论了 AI 如何重塑创意工具（Adobe/Figma/Canva 的平台竞争）和企业工作流（Anthropic Marketplace/Microsoft Copilot Cowork）。这一期则揭示了 AI 产业化带来的治理真空。技术在狂奔（Anthropic 的 Computer Use、Luma 的 Uni-1），商业在加速（DoorDash 的数据工厂），但治理在原地打转——联邦和州在争谁该管，政府和企业在争谁有权设限，而受害者在法庭上寻求事后补救。<strong>2026 年的 AI 产业最大的风险不是技术失败，而是治理框架追不上技术部署的速度。</strong></p></div>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Pentagon vs Anthropic Escalates into Silicon Valley Collective Resistance</strong> — Silicon Valley rallies behind Anthropic as the Pentagon designates it a 'supply chain risk' for refusing military AI applications. Chatham House and Brookings warn: this dispute exposes fundamental flaws in AI governance when government is simultaneously customer, regulator, and national security guardian.<br><small>Source: <a href=\"https://www.latimes.com/business/story/2026-03-20/pentagons-attempt-to-strong-arm-anthropic-rouses-resistance-reflection-in-silicon-valley\">LA Times</a> | <a href=\"https://www.chathamhouse.org/2026/03/anthropics-feud-pentagon-reveals-limits-ai-governance\">Chatham House</a></small></li><li><strong>White House AI Framework Seeks Federal Preemption of State Laws</strong> — Seven policy recommendations to Congress, including replacing 'cumbersome' state AI regulations with a unified federal standard. Industry calls it 'light-touch'; critics say it strips progressive states of AI safety authority.<br><small>Source: <a href=\"https://rollcall.com/2026/03/20/white-house-ai-framework-calls-for-preemption-of-state-laws/\">Roll Call</a> | <a href=\"https://www.cnn.com/2026/03/20/tech/white-house-ai-framework\">CNN</a></small></li><li><strong>xAI Grok Sued by Teens Over AI-Generated CSAM</strong> — Three Tennessee teenagers sue Musk's xAI, alleging Grok tools were used to morph their real photos into sexually explicit images. Lawsuit says Grok lacked industry-standard safeguards. California already investigating.<br><small>Source: <a href=\"https://www.latimes.com/business/story/2026-03-20/elon-musks-xai-sued-by-teenagers-over-sexually-explicit-ai-generated-deepfakes\">LA Times</a> | <a href=\"https://www.usatoday.com/story/news/california/2026/03/16/elon-musk-xai-faces-class-action-lawsuit-over-ai-generated-deepfakes-grok-teens-child-images-sexual/89144313007/\">USA Today</a></small></li><li><strong>DoorDash Turns 8M Couriers into AI Training Data Factory</strong> — New Tasks app pays couriers to record video and complete digital tasks for AI/robotics training. Video labeling market growing 32% annually. DoorDash avoids heavily regulated states.<br><small>Source: <a href=\"https://www.forbes.com/sites/josipamajic/2026/03/20/doordash-is-turning-8-million-couriers-into-an-ai-training-machine/\">Forbes</a> | <a href=\"https://www.latimes.com/business/story/2026-03-20/doordash-taps-millions-of-couriers-to-train-artificial-intelligence\">LA Times</a></small></li></ul><h3>🔄 Trends</h3><ul><li>AI governance enters three-way standoff: federal vs state vs tech companies</li><li>AI safety 'race to the bottom': companies without guardrails face legal and reputational devastation (xAI)</li><li>Gig economy × AI data economy: couriers become training data generators</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>Today's four stories paint AI governance's central contradiction: who decides where the boundaries are when AI's benefits and harms both accelerate?</strong> Pentagon vs Anthropic is now about whether any AI company can say 'no' to government. The White House framework and xAI Grok case are two sides of one coin: the framework wants to strip states of regulatory power, while xAI demonstrates what happens when regulation is absent. DoorDash's data factory shows how AI economics reshape labor — deliberately targeting less-regulated states. <strong>2026's biggest AI risk isn't technical failure; it's governance frameworks that can't keep pace with deployment speed.</strong></p></div>"
+    },
+    "cover": "https://ca-times.brightspotcdn.com/dims4/default/2cd4dfc/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F96%2F72%2F3c1ad4e14a4da6ba7f3fe2ae98c8%2F2249797203.jpg",
+    "sources": [
+      {
+        "title": {
+          "zh": "LA Times: Pentagon 打压 Anthropic 激发硅谷集体抵抗",
+          "en": "LA Times: Pentagon's Anthropic Bashing Rekindles Silicon Valley's Resistance"
+        },
+        "url": "https://www.latimes.com/business/story/2026-03-20/pentagons-attempt-to-strong-arm-anthropic-rouses-resistance-reflection-in-silicon-valley",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/2cd4dfc/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F96%2F72%2F3c1ad4e14a4da6ba7f3fe2ae98c8%2F2249797203.jpg"
+      },
+      {
+        "title": {
+          "zh": "Roll Call: 白宫 AI 框架呼吁联邦优先于州法律",
+          "en": "Roll Call: White House AI Framework Calls for Preemption of State Laws"
+        },
+        "url": "https://rollcall.com/2026/03/20/white-house-ai-framework-calls-for-preemption-of-state-laws/",
+        "image": "https://rollcall.com/app/uploads/2026/03/house_gop156_052025.jpg"
+      },
+      {
+        "title": {
+          "zh": "LA Times: xAI 被青少年起诉生成性虐待 AI 图像",
+          "en": "LA Times: Elon Musk's xAI Sued by Teenagers Over Sexually Explicit AI Deepfakes"
+        },
+        "url": "https://www.latimes.com/business/story/2026-03-20/elon-musks-xai-sued-by-teenagers-over-sexually-explicit-ai-generated-deepfakes",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/b24b6c6/2147483647/strip/true/crop/5272x2768+0+97/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffe%2F4b%2Fe61be04a49ec9a72b5dc2b379b0b%2Ff8348f06c90a46ca915b73ba2e474a44.jpg"
+      },
+      {
+        "title": {
+          "zh": "Forbes: DoorDash 将 800 万外卖员变成 AI 训练机器",
+          "en": "Forbes: DoorDash Is Turning 8 Million Couriers Into An AI Training Machine"
+        },
+        "url": "https://www.forbes.com/sites/josipamajic/2026/03/20/doordash-is-turning-8-million-couriers-into-an-ai-training-machine/",
+        "image": ""
+      }
+    ]
+  },
+  {
     "date": "2026-03-24",
     "section": "design",
     "title": {
