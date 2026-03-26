@@ -2224,6 +2224,170 @@
       "body": "三月最后一周的 Visual for AI 观察，把上周提出的「五层信任架构」又往前推了一步。权限可视化和记忆可视化本质上是同一件事的两个面——前者回答「AI 能做什么」，后者回答「AI 知道什么」。合在一起就是 AI 产品的「自我披露」设计。这让我想起了心理学中的一个概念：人际信任的建立依赖于适度的自我披露。AI 产品也一样——完全黑盒=不信任，完全透明=信息过载，关键是找到「恰到好处的披露度」。同心圆权限设计很聪明，因为它把复杂的权限矩阵变成了直觉的空间关系；知识图谱则让抽象的「AI 记忆」变成可操作的视觉对象。两者的共同设计原则：把不可见的系统状态变成可交互的视觉界面。如果说上周我总结的核心是「关系设计」，那这周可以更精确：「透明关系设计」——让人和 AI 的关系不只被感受到，还被看见。",
       "body_en": "Last week of March Visual for AI observations push the 'five-layer trust architecture' further. Permission visualization and memory visualization are two faces of the same coin — the former answers 'what can AI do,' the latter 'what does AI know.' Together: AI product 'self-disclosure' design. Reminds me of a psychology concept: interpersonal trust depends on appropriate self-disclosure. Same for AI products — total black box = distrust, total transparency = info overload, the key is finding 'just-right disclosure level.' Concentric permission design is clever: transforms complex permission matrices into intuitive spatial relationships; knowledge graphs make abstract 'AI memory' into interactable visual objects. Shared design principle: turning invisible system states into interactive visual interfaces. If last week's core was 'relationship design,' this week is more precise: 'transparent relationship design' — making the human-AI relationship not just felt, but seen.",
       "date": "2026-03-25"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 信用评分的可解释性设计 — 从黑盒到玻璃盒",
+      "body": "2026 年 Q1 末最值得关注的 Fintech 设计方向：AI 信用评分的可视化解释。传统信用分是一个数字，用户不知道为什么是这个分。现在 Upstart、Nova Credit 等平台开始把 AI 评分的因子权重以交互式图表呈现——收入稳定性、还款历史、消费模式各占多少百分比，哪些行为会提升或降低分数。设计挑战：如何在不泄露模型细节的前提下给用户足够的理解感。",
+      "body_en": "Most notable Q1 2026 fintech design direction: AI credit score explainability visualization. Traditional credit scores are opaque numbers. Now Upstart, Nova Credit are showing AI scoring factor weights as interactive charts — income stability, repayment history, spending patterns with percentages, and which behaviors raise or lower scores. Design challenge: giving users sufficient understanding without exposing model internals.",
+      "tags": [
+        "Credit Score",
+        "Explainable AI",
+        "Fintech",
+        "Interactive Viz"
+      ],
+      "link": "https://dribbble.com/search/credit-score-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-03-26"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 税务助手 — 对话式报税体验设计",
+      "body": "Column Tax 和 Keeper 等 AI 报税产品在 2026 报税季引爆了一个设计范式：把复杂的税务表格拆解成自然语言对话。用户不再面对 W-2 表格的密密麻麻字段，而是回答「你今年换工作了吗？」这样的人话。最精妙的设计细节：每个对话步骤旁边有一个「这对应税表的哪里」的折叠面板，满足了解税务的用户的控制感需求。",
+      "body_en": "Column Tax and Keeper AI tax products exploded a design paradigm in 2026 tax season: decomposing complex tax forms into natural language conversations. Users no longer face dense W-2 fields but answer human questions like \"Did you change jobs this year?\" Finest design detail: each conversation step has a collapsible \"where is this on the tax form\" panel, satisfying control needs of tax-savvy users.",
+      "tags": [
+        "Tax AI",
+        "Conversational UX",
+        "Form Design",
+        "Progressive Disclosure"
+      ],
+      "link": "https://dribbble.com/search/ai-tax-assistant",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17070953/file/original-44c1a00b9ee9e8447c7bf6b2d1bf5670.png?resize=1600x1200",
+      "date": "2026-03-26"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "三月收官，回看整个月 Fintech 设计的主线：从「展示」到「解释」的范式迁移已经不可逆。信用评分要解释、投资建议要解释、反欺诈要解释、甚至报税也变成了一场「AI 帮你理解税法」的对话。这不是设计趋势，这是监管+用户觉醒的双重压力。设计师的新核心能力：如何把复杂的算法决策翻译成人能理解的视觉语言。我甚至觉得「Explainability Designer」应该成为一个新岗位。另一个月度观察：对话式金融体验（Column Tax 那种）和传统表单体验之间，最好的方案不是二选一，而是「对话为主、表单为辅」——让用户用自然语言完成 80% 的操作，剩下 20% 用结构化表单精确控制。这和 AI 编程工具（Cursor）的交互逻辑完全一致：自然语言做粗活，精确操作做细活。",
+      "body_en": "End of March, looking back at the month's fintech design throughline: the paradigm shift from \"display\" to \"explain\" is irreversible. Credit scores need explaining, investment advice needs explaining, fraud detection needs explaining, even tax filing becomes an \"AI helps you understand tax law\" conversation. Not a design trend — it's dual pressure from regulation + user awakening. Designer's new core skill: translating complex algorithmic decisions into human-comprehensible visual language. I even think \"Explainability Designer\" should become a job title. Monthly observation: between conversational finance (Column Tax style) and traditional forms, the best approach isn't either/or but \"conversation-first, form-backup\" — natural language for 80% of operations, structured forms for 20% precise control. Same interaction logic as AI coding tools (Cursor): natural language for rough work, precise operations for fine work.",
+      "date": "2026-03-26"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 游泳教练 — 水下运动分析的 UX 挑战",
+      "body": "SwimIO 和 FORM 智能泳镜的产品设计揭示了一个独特的设计约束：水下用户无法触摸屏幕。解决方案是极致的信息精简——泳镜 HUD 上只显示三个数字（配速、划频、剩余距离），所有详细分析留到出水后的手机端。这是「最小必要信息」设计哲学的极端案例：当物理环境限制了交互方式，信息架构必须做到骨头级精简。",
+      "body_en": "SwimIO and FORM smart goggle product design reveals a unique constraint: underwater users can't touch screens. Solution: extreme information distillation — goggle HUD shows only three numbers (pace, stroke rate, distance remaining), all detailed analysis deferred to phone post-swim. An extreme case of \"minimum necessary information\" design: when physical environment limits interaction, information architecture must be bone-level lean.",
+      "tags": [
+        "Swimming",
+        "HUD",
+        "Wearable",
+        "Minimal Info"
+      ],
+      "link": "https://dribbble.com/search/swimming-app-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=1200&q=80",
+      "date": "2026-03-26"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI × 电竞健康 — 职业选手的身体管理设计",
+      "body": "2026 年运动科技的意外交叉点：电竞选手的身体健康管理。Aim Lab 和 1HP 等平台开始整合 AI 驱动的手腕健康监测、眼疲劳追踪、坐姿分析。设计语言融合了电竞的赛博朋克美学和医疗 App 的专业感——霓虹色数据图表 + 临床级别的健康指标。目标用户既要觉得酷又要觉得可信。",
+      "body_en": "2026 sports tech's unexpected crossover: esports athlete health management. Aim Lab and 1HP integrating AI-driven wrist health monitoring, eye fatigue tracking, posture analysis. Design language merges esports cyberpunk aesthetics with medical app professionalism — neon data charts + clinical-grade health metrics. Target users need it to feel both cool and credible.",
+      "tags": [
+        "Esports",
+        "Health Tech",
+        "Cyberpunk UI",
+        "Ergonomics"
+      ],
+      "link": "https://dribbble.com/search/esports-health-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80",
+      "date": "2026-03-26"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "三月末的运动 AI 观察，让我看到一个更大的 pattern：运动 AI 正在从「主流运动」向「长尾运动」扩散。月初看到的是跑步、健身、营养这些大品类；到月末，游泳、电竞、甚至越野跑的地形感知都有了 AI 产品化的设计方案。这意味着什么？运动 AI 的设计挑战不再是「如何设计一个健身 App」这种通用问题，而是「如何为每种运动的独特物理约束设计 AI 交互」——游泳不能触屏、骑行不能长时间看手机、攀岩需要语音交互。每种运动的 UX 约束完全不同，AI 的介入方式也必须不同。通用型运动 App 的时代可能正在结束，垂直运动 AI 的时代正在开始。对设计师来说，理解「运动本身」比理解「UI 范式」更重要了。",
+      "body_en": "End-of-March sports AI observation reveals a bigger pattern: sports AI is spreading from mainstream sports to the long tail. Early March showed running, fitness, nutrition — the big categories. By month's end, swimming, esports, even trail running terrain awareness have AI-productized design solutions. What this means: sports AI design challenge is no longer generic \"how to design a fitness app\" but \"how to design AI interaction for each sport's unique physical constraints\" — swimming can't touch-screen, cycling can't stare at phones, climbing needs voice interaction. Each sport's UX constraints are entirely different, so AI's intervention must differ too. The era of generic fitness apps may be ending; the era of vertical sports AI is beginning. For designers, understanding \"the sport itself\" now matters more than understanding \"UI paradigms.\"",
+      "date": "2026-03-26"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 生成的交互式图表 — 数据叙事的新形态",
+      "body": "Observable 和 Flourish 的 2026 更新把 AI 引入数据可视化的创作流程：描述你想讲的数据故事，AI 自动选择图表类型、配色方案、动画节奏。但最有价值的不是「AI 画图」，而是「AI 编辑建议」——它会指出你的图表哪里可能误导读者、哪个维度被过度强调。数据可视化从「表达工具」变成了「诚实检查器」。",
+      "body_en": "Observable and Flourish's 2026 updates bring AI into data visualization creation: describe the data story you want to tell, AI auto-selects chart type, color scheme, animation rhythm. But the real value isn't \"AI draws charts\" — it's \"AI editorial suggestions\" pointing out where your chart might mislead, which dimensions are overemphasized. Data visualization transforms from \"expression tool\" to \"honesty checker.\"",
+      "tags": [
+        "Data Viz",
+        "AI Authoring",
+        "Narrative",
+        "Editorial"
+      ],
+      "link": "https://dribbble.com/search/ai-data-visualization-2026",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10490089/file/original-00dbfc1b063756291ae74d908c8fa4d5.png?resize=1600x1200",
+      "date": "2026-03-26"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Spatial Typography — Apple Vision Pro 上的排版实验",
+      "body": "空间计算环境下的排版设计正在催生新的内容设计语言。visionOS 2.0 上的阅读应用实验：文字不再平贴在面板上，而是根据阅读距离和视角动态调整字号和行距。段落可以「浮」在不同深度层，重点内容离你更近。空间排版把「强调」从视觉维度（加粗、放大）扩展到了物理维度（距离、深度）。",
+      "body_en": "Typography in spatial computing is birthing a new content design language. VisionOS 2.0 reading app experiments: text no longer flat on panels but dynamically adjusts size and line-height based on reading distance and angle. Paragraphs \"float\" at different depth layers, key content closer to you. Spatial typography extends \"emphasis\" from visual dimensions (bold, scale) to physical dimensions (distance, depth).",
+      "tags": [
+        "Spatial",
+        "visionOS",
+        "Typography",
+        "3D Reading"
+      ],
+      "link": "https://dribbble.com/search/visionos-typography",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?w=1200&q=80",
+      "date": "2026-03-26"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "三月 Content Design 的月度复盘，我看到了一条清晰的进化线：内容设计的维度在持续扩展。月初是 2D 平面排版的回归基本功（字号对比、留白节奏）；中旬是内容结构的机器可读性（语义化、AI-Ready）；月末是空间排版（visionOS 深度层）和 AI 数据叙事（自动图表+诚实性检查）。Content Design 正在从「如何排好一页纸」变成「如何在任意介质上让信息被理解」——屏幕、语音、空间、AI 摘要都是介质。最有意思的是 Observable 把 AI 用在「检查图表是否诚实」上——这是 AI 在内容设计中最高级的用法：不是帮你创造内容，而是帮你审查内容。就像一个好编辑不只改错别字，还会问「你这个数据真的支持你的结论吗？」",
+      "body_en": "March Content Design monthly review reveals a clear evolution line: content design dimensions keep expanding. Early month: 2D typography fundamentals (type scale, whitespace rhythm). Mid-month: machine-readable content structure (semantic, AI-Ready). Month-end: spatial typography (visionOS depth) and AI data narrative (auto charts + honesty checking). Content Design is evolving from \"how to lay out a page\" to \"how to make information understood in any medium\" — screen, voice, space, AI summary are all media. Most interesting: Observable using AI to \"check if charts are honest\" — AI's highest-level use in content design: not creating content but auditing it. Like a good editor who doesn't just fix typos but asks \"does your data really support your conclusion?\"",
+      "date": "2026-03-26"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 产品的「能力边界」可视化 — 不确定性设计",
+      "body": "Google DeepMind 和 Anthropic 的最新产品界面开始显式呈现 AI 的不确定性区间。不是简单的「AI 可能出错」免责声明，而是在每个输出旁边用视觉渐变表示置信度——从实线（高确信）到虚线（低确信）到灰色区域（不确定）。这是一种全新的设计语言：用视觉编码「认知诚实」。",
+      "body_en": "Google DeepMind and Anthropic's latest product interfaces explicitly show AI uncertainty ranges. Not simple \"AI may be wrong\" disclaimers but visual gradients beside each output indicating confidence — solid line (high confidence) to dashed (low) to grey zone (uncertain). A completely new design language: visually encoding \"epistemic honesty.\"",
+      "tags": [
+        "Uncertainty UI",
+        "Confidence Viz",
+        "Epistemic Design",
+        "AI Honesty"
+      ],
+      "link": "https://dribbble.com/search/ai-confidence-uncertainty-ui",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-03-26"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「负空间」设计 — Less Interface, More Intelligence",
+      "body": "2026 年 Q1 末的一个安静但深刻的趋势：顶级 AI 产品的界面元素在持续减少。Arc Browser 的 AI 集成几乎没有独立 UI；Apple Intelligence 的设计原则是「在你需要时出现，不需要时消失」；Raycast AI 只是一个输入框。AI 产品的视觉设计正在走向「负空间」——不是设计更多的界面元素，而是设计更少的界面元素，让 AI 的智能通过「减少摩擦」而非「增加功能」来体现。",
+      "body_en": "A quiet but profound Q1 2026 trend: top AI product interface elements keep shrinking. Arc Browser's AI integration has almost no standalone UI; Apple Intelligence's design principle is \"appear when needed, vanish when not\"; Raycast AI is just an input box. AI product visual design moves toward \"negative space\" — not designing more UI elements but fewer, letting AI's intelligence manifest through \"reducing friction\" rather than \"adding features.\"",
+      "tags": [
+        "Negative Space",
+        "Invisible UI",
+        "Ambient AI",
+        "Less Interface"
+      ],
+      "link": "https://dribbble.com/search/minimal-ai-interface",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&q=80",
+      "date": "2026-03-26"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "三月 Visual for AI 的月度总结，我要修正自己上周的预测。上周我说「最成功的 AI 产品界面会长得越来越像信息可视化仪表盘」——这只对了一半。本周的观察让我看到了另一半：最成功的 AI 产品界面也可能长得像「什么都没有」。不确定性设计和负空间设计是今天两个发现的共同主题，但它们指向截然不同的方向：前者说「让用户看到更多」（AI 的置信度、边界），后者说「让用户看到更少」（减少界面、减少摩擦）。矛盾吗？不矛盾。关键在于语境：当用户在做决策时（投资、医疗、法律），他们需要看到 AI 的不确定性——这是信任的前提；当用户在做日常操作时（搜索、写作、导航），他们需要 AI 消失——这是效率的前提。2026 年 AI 视觉设计最核心的能力：不是画界面，而是判断「什么时候需要界面、什么时候不需要」。这才是真正的「智能设计」。",
+      "body_en": "March Visual for AI monthly summary — I need to correct my own prediction from last week. I said \"the most successful AI product interfaces will look like info visualization dashboards\" — only half right. This week reveals the other half: the most successful AI interfaces might also look like \"nothing at all.\" Uncertainty design and negative space design are today's two themes, pointing in opposite directions: the former says \"show users more\" (AI confidence, boundaries); the latter says \"show users less\" (reduce interface, reduce friction). Contradictory? No. It's about context: when users make decisions (investing, medical, legal), they need to see AI uncertainty — prerequisite for trust; when users do routine operations (search, write, navigate), they need AI to disappear — prerequisite for efficiency. The core 2026 AI visual design competency: not drawing interfaces, but judging \"when to have interface and when not to.\" That's truly \"intelligent design.\"",
+      "date": "2026-03-26"
     }
   ]
 }
