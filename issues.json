@@ -1,5 +1,99 @@
 [
   {
+    "date": "2026-03-26",
+    "section": "design",
+    "title": {
+      "zh": "Luma Agents 开启「统一智能」创意范式：AI 从单模态工具到多模态 Agent · AI 设计工具进入原生集成时代 · 设计师每周省 15 小时的背后：集成深度决定价值",
+      "en": "Luma Agents Usher in 'Unified Intelligence' Creative Paradigm · AI Design Tools Enter Native Integration Era · Behind 15 Hours Saved Weekly: Integration Depth Determines Value"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Luma 发布 Luma Agents：基于 Uni-1「统一智能」模型的创意 AI Agent</strong> — Luma 推出了能跨文本、图像、视频、音频执行端到端创意工作的 AI Agent。CEO Amit Jain 表示 Uni-1 模型能「用语言思考、用像素想象和渲染」（think in language, imagine and render in pixels）。这不是又一个图像生成器——Luma Agents 的野心是成为创意工作的「统一操作系统」：理解创意意图、跨模态生成内容、迭代修改直到满意。与 Midjourney 和 DALL-E 的「单次生成」模式不同，Luma Agents 强调的是「持续协作」——Agent 记住你的风格偏好、品牌规范，在多次对话中不断优化输出。<br><small>来源：<a href=\"https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/\">TechCrunch</a> | <a href=\"https://lasvegassun.com/news/2026/mar/05/luma-launches-luma-agents-powered-by-unified-intel/\">Las Vegas Sun</a></small></li><li><strong>AI 设计工具进入「原生集成」时代：15+ 工具已进入生产环境</strong> — Builder.io 的深度评测覆盖了 15 款在真实项目中使用的 AI 设计工具，从文本转设计（Figma Make）到设计转代码（Locofy、Anima）到任务自动化（Relay）。Medium 设计师的实测报告更为直白：测试了 40+ 工具后，真正有效的只有 8 款，关键不在工具本身的能力，而在于与现有设计系统的集成深度。Figma + Claude Code 的工作流被评为「2026 年真正可用的设计转代码方案」，Figma MCP + Code Connect 组合让同一个 Agent 同时理解设计意图和代码实现。<br><small>来源：<a href=\"https://www.builder.io/blog/best-ai-tools-for-designers\">Builder.io</a> | <a href=\"https://medium.com/@Rythmuxdesigner/8-ai-tools-that-actually-work-for-designers-in-2026-and-why-they-save-me-15-hours-a-week-d2e547ed1b58\">Medium</a></small></li><li><strong>RGD 持续强调 AI 工具的伦理责任</strong> — 加拿大 RGD 报告重申：AI 工具在训练数据来源、许可条款和治理机制方面差异巨大，设计师在使用前有责任审查每款工具的条款。Adobe Firefly 被列为伦理实践的正面案例（仅使用授权内容训练），而部分工具的数据来源仍不透明。<br><small>来源：<a href=\"https://rgd.ca/articles/2026-amplifying-creativity-with-ai-tools-for-designers-in-2026\">RGD</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>从单模态工具到多模态 Agent</strong>：Luma Agents 代表了创意 AI 的下一个形态——不是生成一张图，而是理解意图、跨模态执行、持续迭代</li><li><strong>集成深度 > 工具能力</strong>：40+ 工具中只有 8 款「真正有效」，筛选标准是与设计系统和开发工作流的集成程度</li><li><strong>伦理审查成为设计师的基本功</strong>：不同工具的训练数据和许可条款差异巨大，「会用」之外还要「会审」</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>Luma Agents 的发布看似只是又一个创意 AI 产品，但它背后的「统一智能」理念才是真正值得关注的信号。</strong></p><p>让我先拆解 Luma 的核心主张。Amit Jain 说 Uni-1 能「用语言思考、用像素想象和渲染」——这句话翻译成技术语言是：一个模型同时具备语言理解能力和视觉生成能力，而不是用一个模型理解文字、另一个模型生成图片、再用管道把它们串起来。为什么这很重要？因为<strong>现有的创意 AI 工作流本质上是「接力赛」——ChatGPT 写文案 → Midjourney 生成图片 → Runway 做视频 → ElevenLabs 配音</strong>。每一步都是独立工具，每一步都需要人类翻译上一步的输出为下一步的输入。Luma Agents 要做的是把整条链路打通，让一个 Agent 端到端地执行创意工作。</p><p>这与昨天我们讨论的 Figma MCP 形成了一个有趣的对比。Figma 的路径是「开放协议」——让外部 Agent 通过 MCP 操作画布，工具是中立的平台。Luma 的路径是「统一 Agent」——自己做一个能跨所有模态工作的 Agent，工具和智能合为一体。<strong>这两种路径代表了创意 AI 架构的根本分歧：是「一个聪明的 Agent + 多个专业工具」，还是「一个万能 Agent 包办一切」？</strong>我的判断是前者会赢——原因很简单，创意工作的每个环节都有深厚的专业壁垒（排版、色彩科学、动效物理、音频工程），一个模型很难同时在所有维度达到专业水准。但 Luma 至少证明了一点：<strong>Agent 的价值不在于生成质量（这正在被快速拉平），而在于「理解意图」和「持续协作」的能力。</strong></p><p>Medium 设计师「测试 40+ 工具只留 8 款」的经历特别有说服力。核心筛选标准不是「生成效果好不好」——2026 年几乎所有主流工具的生成质量都够用了——而是<strong>能不能无缝嵌入现有工作流。</strong>Figma + Claude Code 之所以被评为「真正可用」，不是因为 Claude 的代码最好，而是因为 MCP 让它能直接读取 Figma 文件、理解设计系统、生成符合规范的代码。这验证了一个我一直在强调的观点：<strong>AI 工具的竞争已经从「谁生成得更好」转向「谁集成得更深」。</strong>Builder.io 列出的 15 款工具也印证了这一点——真正在生产中使用的，都是那些能连接设计系统和代码仓库的工具。</p><p>最后说 RGD 的伦理报告。这可能是今天最不性感但最重要的新闻。当 AI 工具的能力趋于同质化，选择哪款工具的决策依据会从「能力」转向「合规」。Adobe Firefly 因为只使用授权内容训练而获得了明确的法律安全性——这在企业级客户面前是巨大的竞争优势。<strong>我预测 2026 下半年会出现第一批因为 AI 训练数据问题引发的设计行业诉讼，届时那些没有审查工具条款的设计团队会发现自己处于极其被动的位置。</strong>「会用 AI」和「负责任地用 AI」之间的差距，正在成为设计专业能力的新分水岭。</p></div>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Luma Launches Luma Agents: Creative AI Agents Powered by Uni-1 'Unified Intelligence'</strong> — Luma released AI agents that handle end-to-end creative work across text, image, video, and audio. CEO Amit Jain says Uni-1 can 'think in language and imagine and render in pixels.' Unlike single-generation tools, Luma Agents emphasize continuous collaboration — remembering style preferences and brand specs across conversations.<br><small>Source: <a href=\"https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/\">TechCrunch</a> | <a href=\"https://lasvegassun.com/news/2026/mar/05/luma-launches-luma-agents-powered-by-unified-intel/\">Las Vegas Sun</a></small></li><li><strong>AI Design Tools Enter Native Integration Era: 15+ in Production</strong> — Builder.io reviews 15 production-grade AI design tools. A Medium designer's field report: tested 40+ tools, only 8 actually work — the differentiator is integration depth with existing design systems. Figma + Claude Code rated as the 'actually working' design-to-code workflow of 2026.<br><small>Source: <a href=\"https://www.builder.io/blog/best-ai-tools-for-designers\">Builder.io</a> | <a href=\"https://medium.com/@Rythmuxdesigner/8-ai-tools-that-actually-work-for-designers-in-2026-and-why-they-save-me-15-hours-a-week-d2e547ed1b58\">Medium</a></small></li><li><strong>RGD Emphasizes Ethical Review as Designer Responsibility</strong> — Canadian RGD report reiterates: AI tools vary widely in training data, licensing, and governance. Adobe Firefly cited as positive example for using only licensed content.<br><small>Source: <a href=\"https://rgd.ca/articles/2026-amplifying-creativity-with-ai-tools-for-designers-in-2026\">RGD</a></small></li></ul><h3>🔄 Trends</h3><ul><li>From single-modality tools to multi-modal agents: Luma Agents represent the next form of creative AI</li><li>Integration depth > tool capability: out of 40+ tools tested, only 8 prove useful in real workflows</li><li>Ethical review becoming a core design competency: training data and licensing terms vary dramatically</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>Luma Agents' 'Unified Intelligence' signals the creative AI industry's next architectural debate: one omniscient agent vs. one smart orchestrator + specialized tools.</strong> Current creative workflows are relay races — ChatGPT writes copy, Midjourney generates images, Runway does video. Luma wants one agent to handle it all. But deep creative work has domain-specific barriers (typography, color science, motion physics), making the 'smart orchestrator + MCP' path more likely to win. The real insight from the Medium field report: <strong>AI tool competition has shifted from 'who generates better' to 'who integrates deeper.'</strong> Figma + Claude Code wins not on code quality but on design system comprehension. And RGD's ethics emphasis will matter more as AI capabilities commoditize — the first training-data lawsuits in design are coming in H2 2026.</p></div>"
+    },
+    "cover": "https://techcrunch.com/wp-content/uploads/2026/03/Sample-2.png?resize=1200,800",
+    "sources": [
+      {
+        "title": {
+          "zh": "TechCrunch: Luma 发布基于「统一智能」模型的创意 AI Agent",
+          "en": "TechCrunch: Luma Launches Creative AI Agents Powered by Unified Intelligence"
+        },
+        "url": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Sample-2.png?resize=1200,800"
+      },
+      {
+        "title": {
+          "zh": "Builder.io: 2026 年设计师正在生产中使用的 15 款 AI 工具",
+          "en": "Builder.io: 15 Best AI Tools for Designers in 2026"
+        },
+        "url": "https://www.builder.io/blog/best-ai-tools-for-designers",
+        "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fd04760f952e84129835415175160c471?width=1200"
+      },
+      {
+        "title": {
+          "zh": "Medium: 8 款真正有效的 AI 设计工具（每周省 15 小时）",
+          "en": "Medium: 8 AI Tools That Actually Work for Designers in 2026"
+        },
+        "url": "https://medium.com/@Rythmuxdesigner/8-ai-tools-that-actually-work-for-designers-in-2026-and-why-they-save-me-15-hours-a-week-d2e547ed1b58",
+        "image": ""
+      },
+      {
+        "title": {
+          "zh": "RGD: 2026 年 AI 工具如何放大设计创造力",
+          "en": "RGD: Amplifying Creativity with AI Tools for Designers in 2026"
+        },
+        "url": "https://rgd.ca/articles/2026-amplifying-creativity-with-ai-tools-for-designers-in-2026",
+        "image": "https://craft-cms-s3.s3.amazonaws.com/assets/images/articles/Header%20Images/_metaImage/AITools_ArticleHeader.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "section": "tech",
+    "title": {
+      "zh": "白宫发布国家 AI 立法框架：联邦统一标准 vs 50 州碎片化监管 · 3 月 AI 模型大战：9 款新模型中开源占 7 席 · Morgan Stanley 预警 2026 上半年重大 AI 突破",
+      "en": "White House AI Legislative Framework: Federal Unified Standard vs 50-State Fragmented Regulation · March AI Model Wars: 7 of 9 New Models Are Open Source · Morgan Stanley Warns of Major AI Breakthrough in H1 2026"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>白宫发布国家 AI 立法框架：推动联邦预占州法规</strong> — 3 月 20 日，白宫正式发布《国家人工智能立法框架》，以 AI「沙皇」David Sacks 提出的「5C」为核心支柱：儿童安全（Child safety）、社区（Communities）、创作者（Creators）、审查（Censorship）、竞争力（Competitiveness），外加劳动力教育。框架最核心的主张是：<strong>国会应预占对 AI 开发者施加「过度负担」的州法律，建立「最低负担」的国家统一标准</strong>，而非「50 个不协调的标准」。但框架也保留了联邦制底线——州政府执行一般性法律（儿童保护、消费者保护、反欺诈）的权力不受影响。参议院商务委员会主席 Ted Cruz 已表态支持，众议院共和党领导层（Speaker Johnson、E&C Chair Guthrie）联合声明愿与两党合作推进。这份框架的政治背景是：2025 年夏天白宫要求国会对州 AI 法实施临时冻结被拒，12 月签署的「一项规则」行政命令也未能完全阻止加州等州的 AI 立法浪潮（如 SB 53 前沿 AI 透明度法案）。<br><small>来源：<a href=\"https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf\">White House PDF</a> | <a href=\"https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20260323-white-house-releases-national-policy-framework-for-artificial-intelligence\">WilmerHale</a> | <a href=\"https://www.dwt.com/blogs/artificial-intelligence-law-advisor/2026/03/trump-administration-ai-policy-framework\">DWT</a></small></li><li><strong>3 月 AI 模型大战：9 款文本模型密集发布，开源占 7 席</strong> — WhatLLM.org 的月度汇总揭示了 3 月的激烈竞争：OpenAI GPT-5.4（100 万 token 上下文窗口）、Google Gemini 3.1 Flash-Lite Preview、阿里巴巴 Qwen 3.5 系列（8 个变体，0.8B 到 397B）、xAI Grok 4.20 Beta、NVIDIA Nemotron 3 Super + VoiceChat、小米 MiMo-V2-Pro、MiniMax-M2.7、Mistral Small 4（Apache 2.0）。9 款模型中 7 款开源。WhatLLM 的核心观察：行业正在从「每周发新模型」转向「如何在真实硬件上安全规模化部署」——高效 MoE 架构、边缘推理、低幻觉精度、开放许可才是实际影响格局的变量。<br><small>来源：<a href=\"https://whatllm.org/blog/llm-releases-march-2026\">WhatLLM.org</a> | <a href=\"https://champaignmagazine.com/2026/03/08/ai-by-ai-weekly-top-5-march-2-8-2026/\">Champaign Magazine</a></small></li><li><strong>Morgan Stanley 预警：2026 上半年将出现重大 AI 突破，大多数人尚未准备好</strong> — Fortune 报道了 Morgan Stanley 的分析报告，称即将到来的 AI 能力跃升将比大多数人预期的更具颠覆性。这一判断与 3 月密集的模型发布潮形成呼应——当 GPT-5.4 的 100 万 token 上下文、Qwen 3.5 的全系列开源、Gemini 3.1 的高效推理同时出现时，「AI 能力曲线」的斜率确实在加速。<br><small>来源：<a href=\"https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/\">Fortune</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>AI 监管从「州级实验」走向「联邦统一」</strong>：白宫框架标志着美国 AI 政策从自下而上的州级立法转向自上而下的联邦标准</li><li><strong>开源模型成为主流</strong>：9 款新模型中 7 款开源，效率和可部署性比参数规模更重要</li><li><strong>「部署」取代「发布」成为核心议题</strong>：行业关注点从模型能力转向安全、合规、可扩展的部署方案</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>白宫 AI 立法框架和 3 月模型发布潮，这两件事放在一起看，揭示了 2026 年 AI 产业的核心张力：技术能力在指数加速，而治理框架还在艰难追赶。</strong></p><p>先说白宫框架。表面上这是一个「简化监管」的文件——用联邦标准取代 50 个州的碎片化法规，让 AI 公司不用在每个州聘请合规律师。但深层博弈远比这复杂。2025 年夏天白宫就想冻结州 AI 法，被国会拒绝了。12 月的行政命令试图绕开国会直接预占州法，但加州的 SB 53 还是顺利通过了。现在这份框架本质上是白宫的第三次尝试——这次它选择了「有限预占」的策略：保留州政府保护儿童和消费者的权力，只预占「对 AI 开发者施加过度负担」的法律。<strong>这个「过度负担」的定义将成为未来两年最激烈的政治战场。</strong>加州会认为要求前沿 AI 公司做安全评估不是「过度负担」；科技公司会认为任何需要修改训练流程的法规都是「过度负担」。Ted Cruz 和众议院共和党的支持表明这份框架有通过的政治基础，但具体条款的谈判才刚开始。</p><p>再看 3 月的模型发布潮。9 款文本模型，7 款开源——这个比例本身就是一个重要信号。两年前，最强模型都是闭源的（GPT-4、Claude 3）；现在，阿里巴巴 Qwen 3.5 从 0.8B 到 397B 全系列开源，小米 MiMo-V2-Pro 针对边缘设备优化，Mistral Small 4 用 Apache 2.0 许可。<strong>开源不再是「闭源的弱化版」——它正在成为 AI 部署的主流路径。</strong>原因很现实：企业需要控制数据流向、需要在自己的硬件上运行、需要符合行业合规要求——这些需求只有开源模型能满足。GPT-5.4 的 100 万 token 上下文窗口虽然印象深刻，但对大多数企业来说，一个能在本地安全运行的 Qwen 3.5-72B 比云端的 GPT-5.4 更有实际价值。</p><p>把这两件事和昨天的新闻连起来看：白宫想让 AI 监管更宽松、更统一，开源模型让部署更分散、更不可控，Samsung 投 730 亿美元扩产能让算力更便宜。三者叠加的效果是——<strong>AI 的能力和可及性正在以超越任何治理框架能追赶的速度扩散。</strong>Morgan Stanley 说「大多数人没准备好」，但它指的是投资者没准备好迎接机会。从社会治理的角度看，真正没准备好的是：当开源的 397B 参数模型可以在任何人的服务器上运行时，「谁来确保负责任的使用」这个问题变得无比紧迫。</p><p><strong>我的预测：2026 下半年，白宫框架会以某种妥协形式通过国会，但加州和纽约会继续推进自己的 AI 法规（可能通过「消费者保护」的豁免条款绕开联邦预占）。同时，开源模型的能力会继续追平闭源——到年底，排行榜前 10 中可能有 6-7 个是开源或开放权重的。AI 行业正在经历的不是「监管 vs 创新」的零和博弈，而是「集中化治理 vs 分布式部署」的结构性矛盾。这个矛盾没有简单的解法。</strong></p></div>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>White House Releases National AI Legislative Framework</strong> — On March 20, the White House published its AI legislative recommendations built on David Sacks' '5 Cs' (child safety, communities, creators, censorship, competitiveness). Core proposal: Congress should preempt state AI laws that impose 'undue burdens' while preserving states' general enforcement powers. Third attempt after failed moratorium and December EO.<br><small>Source: <a href=\"https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf\">White House</a> | <a href=\"https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20260323-white-house-releases-national-policy-framework-for-artificial-intelligence\">WilmerHale</a></small></li><li><strong>March AI Model Wars: 9 Text Models, 7 Open Source</strong> — GPT-5.4 (1M token context), Gemini 3.1 Flash-Lite, Qwen 3.5 (8 variants), Grok 4.20 Beta, Nemotron 3, MiMo-V2-Pro, MiniMax-M2.7, Mistral Small 4. Industry pivoting from 'weekly new models' to 'scalable secure deployment.'<br><small>Source: <a href=\"https://whatllm.org/blog/llm-releases-march-2026\">WhatLLM</a></small></li><li><strong>Morgan Stanley Warns of Major AI Breakthrough in H1 2026</strong> — Most of the world isn't ready for the coming AI capability leap.<br><small>Source: <a href=\"https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/\">Fortune</a></small></li></ul><h3>🔄 Trends</h3><ul><li>AI regulation shifting from state experiments to federal unification</li><li>Open-source models becoming mainstream: 7 of 9 new releases are open</li><li>'Deployment' replacing 'release' as the core industry concern</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>The White House framework and March's model avalanche reveal 2026's core tension: capability accelerates exponentially while governance struggles to keep pace.</strong> The framework is the administration's third attempt at federal preemption — after a failed moratorium and a December EO that couldn't stop California's SB 53. The 'undue burden' definition will be the next two years' biggest policy battleground. Meanwhile, 7 of 9 new models being open-source signals a fundamental shift: open models are no longer weaker alternatives but the mainstream deployment path for enterprises needing data control and compliance. <strong>AI capability and accessibility are spreading faster than any governance framework can chase. The structural contradiction isn't 'regulation vs. innovation' — it's 'centralized governance vs. distributed deployment.' There's no simple resolution.</strong></p></div>"
+    },
+    "cover": "",
+    "sources": [
+      {
+        "title": {
+          "zh": "白宫: 国家 AI 立法框架",
+          "en": "White House: National AI Legislative Framework"
+        },
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf",
+        "image": ""
+      },
+      {
+        "title": {
+          "zh": "WilmerHale: 白宫发布国家 AI 政策框架",
+          "en": "WilmerHale: White House Releases National AI Policy Framework"
+        },
+        "url": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20260323-white-house-releases-national-policy-framework-for-artificial-intelligence",
+        "image": "https://www.wilmerhale.com/-/media/a91b4bc706154401baacaa6c9838adf1.jpg"
+      },
+      {
+        "title": {
+          "zh": "WhatLLM: 2026 年 3 月 LLM 发布汇总",
+          "en": "WhatLLM: March 2026 LLM Releases"
+        },
+        "url": "https://whatllm.org/blog/llm-releases-march-2026",
+        "image": "https://whatllm.org/opengraph-image"
+      },
+      {
+        "title": {
+          "zh": "Fortune: Morgan Stanley 警告 2026 年 AI 重大突破即将到来",
+          "en": "Fortune: Morgan Stanley Warns AI Breakthrough Coming in 2026"
+        },
+        "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2256969963_dee53d-e1773350347272.jpg?resize=1200,600"
+      }
+    ]
+  },
+  {
     "date": "2026-03-25",
     "section": "design",
     "title": {
