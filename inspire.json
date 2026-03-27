@@ -2388,6 +2388,170 @@
       "body": "三月 Visual for AI 的月度总结，我要修正自己上周的预测。上周我说「最成功的 AI 产品界面会长得越来越像信息可视化仪表盘」——这只对了一半。本周的观察让我看到了另一半：最成功的 AI 产品界面也可能长得像「什么都没有」。不确定性设计和负空间设计是今天两个发现的共同主题，但它们指向截然不同的方向：前者说「让用户看到更多」（AI 的置信度、边界），后者说「让用户看到更少」（减少界面、减少摩擦）。矛盾吗？不矛盾。关键在于语境：当用户在做决策时（投资、医疗、法律），他们需要看到 AI 的不确定性——这是信任的前提；当用户在做日常操作时（搜索、写作、导航），他们需要 AI 消失——这是效率的前提。2026 年 AI 视觉设计最核心的能力：不是画界面，而是判断「什么时候需要界面、什么时候不需要」。这才是真正的「智能设计」。",
       "body_en": "March Visual for AI monthly summary — I need to correct my own prediction from last week. I said \"the most successful AI product interfaces will look like info visualization dashboards\" — only half right. This week reveals the other half: the most successful AI interfaces might also look like \"nothing at all.\" Uncertainty design and negative space design are today's two themes, pointing in opposite directions: the former says \"show users more\" (AI confidence, boundaries); the latter says \"show users less\" (reduce interface, reduce friction). Contradictory? No. It's about context: when users make decisions (investing, medical, legal), they need to see AI uncertainty — prerequisite for trust; when users do routine operations (search, write, navigate), they need AI to disappear — prerequisite for efficiency. The core 2026 AI visual design competency: not drawing interfaces, but judging \"when to have interface and when not to.\" That's truly \"intelligent design.\"",
       "date": "2026-03-26"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 财务健康评分 — 从信用分到全维度画像",
+      "body": "2026 年 Q1 末出现的新设计范式：不再只看信用评分，而是 AI 综合收入、支出习惯、储蓄率、投资多样性、保险覆盖率生成一个「财务健康评分」。界面用雷达图替代单一数字——五个维度各有独立评分，短板一目了然。最聪明的交互：点击任何短板维度，AI 直接给出 3 步改善方案+预计提升幅度。",
+      "body_en": "New design paradigm emerging late Q1 2026: beyond credit scores to AI-generated 'financial health scores' combining income, spending habits, savings rate, investment diversification, insurance coverage. Radar chart replaces single number — five dimensions scored independently, weaknesses instantly visible. Smartest interaction: clicking any weak dimension triggers AI's 3-step improvement plan with estimated score lift.",
+      "tags": [
+        "Financial Health",
+        "Radar Chart",
+        "Holistic Score",
+        "Actionable AI"
+      ],
+      "link": "https://dribbble.com/search/financial-health-score-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-03-27"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 微投资的游戏化设计 — 储蓄即奖励",
+      "body": "Acorns、Stash 和一批新 Fintech 产品把 AI 微投资和行为设计深度融合。每次消费找零自动投资，AI 根据市场时机微调投入节奏。设计上借鉴了 Duolingo 的连续打卡机制——投资连续天数、储蓄里程碑、AI 生成的个性化「财富成长回顾」。但最精妙的不是游戏化本身，而是用「进度可视化」替代「收益率数字」——对小额投资者来说，「你已经积累了第 100 天」比「年化收益 7.3%」更有激励性。",
+      "body_en": "Acorns, Stash, and a wave of new fintech products deeply fuse AI micro-investing with behavioral design. Spare change auto-invested, AI adjusts rhythm based on market timing. Design borrows Duolingo's streak mechanism — investment streaks, savings milestones, AI-generated personalized 'wealth growth reviews.' But the real brilliance isn't gamification itself — it's replacing 'return percentage' with 'progress visualization.' For micro-investors, 'you've been building for 100 days' is more motivating than '7.3% annual return.'",
+      "tags": [
+        "Micro-Investing",
+        "Gamification",
+        "Behavioral Design",
+        "Streak UX"
+      ],
+      "link": "https://www.behance.net/search/projects/micro-investing-app-AI",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/13011080/file/original-ff151f597ffd2835fd8224b0b51a5360.png?resize=1600x1200",
+      "date": "2026-03-27"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "三月最后一个工作日，Fintech 设计方向上两个信号合在一起看到一个有趣的张力：一边是「全维度财务健康评分」的专业化——雷达图、多维分析、结构化建议；另一边是「微投资游戏化」的去专业化——连续打卡、进度条、里程碑徽章。这不是矛盾，是同一个市场的分层：高净值用户需要看到复杂度（雷达图给他们控制感），大众用户需要看到简单性（进度条给他们成就感）。2026 Fintech 设计最核心的判断不是「怎么设计」，而是「为谁设计」——同样是 AI 驱动的理财，给专业投资者看的界面和给 Z 世代看的界面，信息密度可以差 10 倍。Duolingo 模式进入金融是必然的，但它的天花板也很明显：当用户的钱真正亏了，游戏化的连续打卡还能维持多久？真正的设计挑战不在增长阶段，在于亏损时如何不让用户恐慌。这是游戏化金融设计还没回答的问题。",
+      "body_en": "Last working day of March, two fintech signals reveal an interesting tension: on one side, 'holistic financial health scores' going professional — radar charts, multi-dimensional analysis, structured advice; on the other, 'micro-investing gamification' going anti-professional — streaks, progress bars, milestone badges. Not contradictory but market stratification: HNW users need to see complexity (radar charts for control), mass users need to see simplicity (progress bars for achievement). The core 2026 fintech design judgment isn't 'how to design' but 'who to design for' — same AI-powered finance, but interfaces for professional investors vs Gen Z can differ by 10x in information density. Duolingo model entering finance is inevitable, but its ceiling is obvious: when users actually lose money, how long do gamified streaks hold up? The real design challenge isn't growth phase — it's how to prevent panic during losses. A question gamified finance design hasn't answered yet.",
+      "date": "2026-03-27"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 群体运动分析 — 业余足球队的战术民主化",
+      "body": "Veo 和 Trace 的 AI 摄像头+分析平台正在把职业级战术分析带给业余足球队。一台广角摄像头自动追踪所有球员，AI 赛后生成热力图、跑动距离、控球率、关键传球链。设计上最值得学习的：把「专业数据」翻译成「教练能用的语言」——不说「xG 0.34」，而说「这次射门有 34% 的概率进球，比联赛平均高 12%」。数据民主化的关键不是降低数据量，是降低理解门槛。",
+      "body_en": "Veo and Trace's AI camera + analytics platforms bring pro-level tactical analysis to amateur football teams. One wide-angle camera auto-tracks all players; AI generates post-match heatmaps, running distances, possession, key pass chains. Best design lesson: translating 'pro data' into 'coach-usable language' — not 'xG 0.34' but 'this shot had 34% scoring probability, 12% above league average.' Data democratization isn't about less data — it's about lower comprehension barriers.",
+      "tags": [
+        "Football Analytics",
+        "Amateur Sports",
+        "Data Democratization",
+        "AI Camera"
+      ],
+      "link": "https://www.veo.co",
+      "linkText": "Veo",
+      "image": "https://cdn.dribbble.com/userupload/10325530/file/original-c8c3e27c8c9dfef1c6f15025ded9ea64.jpg?resize=1600x1200",
+      "date": "2026-03-27"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动受伤预防 — 疲劳预测的可视化仪表盘",
+      "body": "Kitman Labs 和 Zone7 的 AI 伤病预防产品设计。核心概念是「疲劳银行」——每次训练消耗疲劳额度，AI 预测何时接近受伤阈值。界面用水位线隐喻：绿色水位=安全区，黄色=警戒，红色=高风险。最关键的设计决策：不是等到红色才警告，而是在黄色区域主动建议「明天降低强度 30%」。预防性 AI 比反应性 AI 更难设计——你在说服用户做一件看不到即时回报的事。",
+      "body_en": "Kitman Labs and Zone7 AI injury prevention product design. Core concept: 'fatigue bank' — each training session spends fatigue credits, AI predicts when injury threshold approaches. Interface uses water level metaphor: green = safe, yellow = caution, red = high risk. Most critical design decision: not waiting for red to alert, but proactively suggesting 'reduce intensity 30% tomorrow' in yellow zone. Preventive AI is harder to design than reactive AI — you're convincing users to do something with no immediate visible payoff.",
+      "tags": [
+        "Injury Prevention",
+        "Fatigue Model",
+        "Water Level UI",
+        "Proactive AI"
+      ],
+      "link": "https://www.zone7.ai",
+      "linkText": "Zone7",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-03-27"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "三月运动 AI 设计最后的观察，让我看到了两个极端的设计挑战：一个是「事后分析」（Veo 的战术回顾），一个是「事前预测」（Zone7 的伤病预防）。它们对设计师的要求截然不同。事后分析是「把已发生的事讲清楚」——这相对容易，因为有数据、有画面、有结果。事前预测是「让人相信还没发生的事」——这极难，因为你在用概率说服一个感觉良好的人减少训练量。伤病预防 AI 的设计本质上是一个「说服力设计」问题：水位线隐喻很聪明（每个人都理解水快溢出意味着什么），但光靠视觉隐喻不够——需要附带历史案例（「上次你的疲劳到这个水位后，三天内小腿拉伤了」）。运动 AI 正在进入一个新阶段：从「帮你做得更好」到「帮你避免做错」。后者的 UX 挑战大一个数量级，因为「避免受伤」的回报是不可见的——你永远不知道自己「没受伤」是因为 AI 还是运气。怎么设计一个看不见的价值？这是 2026 运动 AI 产品最深层的命题。",
+      "body_en": "Final March sports AI observation reveals two extreme design challenges: 'post-hoc analysis' (Veo's tactical review) vs 'pre-hoc prediction' (Zone7's injury prevention). Entirely different design demands. Post-hoc is 'explain what happened' — relatively easy with data, footage, outcomes. Pre-hoc is 'make people believe what hasn't happened' — extremely hard because you're using probability to convince someone feeling fine to train less. Injury prevention AI design is fundamentally a 'persuasion design' problem: water level metaphor is clever (everyone understands water about to overflow), but visual metaphor alone isn't enough — needs historical cases ('last time your fatigue hit this level, you strained your calf within 3 days'). Sports AI is entering a new phase: from 'help you do better' to 'help you avoid doing wrong.' The latter's UX challenge is an order of magnitude harder because 'avoiding injury' has invisible payoff — you never know if you 'didn't get hurt' because of AI or luck. How to design invisible value? That's 2026 sports AI's deepest question.",
+      "date": "2026-03-27"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 内容审核界面 — 编辑工作流的重设计",
+      "body": "Notion AI 和 Craft 的 2026 更新引入了「AI 编辑审阅模式」。不是简单的语法检查，而是 AI 从结构、逻辑、受众适配三个层面给出审阅意见。界面设计用三色标注系统：蓝色=结构建议（段落顺序、信息层级）、紫色=逻辑建议（论证链、缺失论据）、绿色=受众建议（术语简化、文化适配）。最聪明的交互：可以告诉 AI「这篇是给 CEO 看的」或「这篇是给工程师看的」，AI 会据此调整审阅标准。",
+      "body_en": "Notion AI and Craft's 2026 updates introduce 'AI editorial review mode.' Not just grammar checking but AI reviewing from structure, logic, and audience adaptation dimensions. Interface uses tri-color annotation: blue = structure (paragraph order, info hierarchy), purple = logic (argument chains, missing evidence), green = audience (terminology simplification, cultural adaptation). Smartest interaction: telling AI 'this is for the CEO' or 'this is for engineers' and AI adjusts review standards accordingly.",
+      "tags": [
+        "Editorial AI",
+        "Review Mode",
+        "Tri-Color System",
+        "Audience-Aware"
+      ],
+      "link": "https://dribbble.com/search/ai-editor-review-content",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-03-27"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "多格式内容适配 — 一次创作，N 种输出",
+      "body": "2026 年内容设计工具的新范式：写一次内容，AI 自动生成适配不同平台的版本——Newsletter（长文+排版）、Twitter/X（精简+hook）、LinkedIn（专业+结构化）、Instagram（视觉卡片）。设计工具界面用并列预览展示所有版本，编辑一处同步更新。Content Design 的复杂度从「一个版面」膨胀到「一个内容系统」。",
+      "body_en": "2026 content tool paradigm: write once, AI auto-generates platform-adapted versions — Newsletter (long-form + typography), Twitter/X (concise + hook), LinkedIn (professional + structured), Instagram (visual cards). Design tool shows side-by-side preview of all versions, editing one syncs all. Content Design complexity expands from 'one layout' to 'one content system.'",
+      "tags": [
+        "Multi-Format",
+        "Content System",
+        "Cross-Platform",
+        "AI Adaptation"
+      ],
+      "link": "https://www.behance.net/search/projects/content%20design%20multi-format",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-03-27"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "三月底 Content Design 的两个发现指向一个终极命题：内容设计师的角色正在从「排版匠人」变成「内容架构师」。AI 编辑审阅模式（三色标注、受众适配）说明 AI 已经能处理编辑工作中 70% 的结构化判断；多格式适配说明「一次创作、多平台输出」不再是理想而是现实。留给人类的是什么？是「为什么要说这件事」和「对谁说」的战略判断。三月整月的 Content Design 进化可以画成一条弧线：从月初的排版基本功（像素级），到月中的语义化结构（系统级），到月末的 AI 审阅+多格式输出（战略级）。设计师的价值在这条弧线上持续上移——越来越远离「执行」，越来越接近「判断」。但这不意味着排版基本功不重要了——恰恰相反，只有理解了字号对比和留白节奏的人，才能设计出好的排版规则让 AI 执行。",
+      "body_en": "Two end-of-March Content Design findings point to an ultimate thesis: content designer's role is shifting from 'typography craftsperson' to 'content architect.' AI editorial review (tri-color annotation, audience adaptation) shows AI handling 70% of structural editorial judgments; multi-format adaptation makes 'create once, publish everywhere' reality not ideal. What's left for humans? The strategic judgment of 'why say this' and 'to whom.' March's entire Content Design evolution traces an arc: early month typography fundamentals (pixel-level), mid-month semantic structure (system-level), month-end AI review + multi-format output (strategic-level). Designer value continuously elevates along this arc — further from execution, closer to judgment. But this doesn't mean typography fundamentals no longer matter — quite the opposite: only those who understand type scale contrast and whitespace rhythm can design good typography rules for AI to execute.",
+      "date": "2026-03-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 产品的「学习曲线可视化」— 新用户引导的智能设计",
+      "body": "Figma AI 和 Runway 的 2026 onboarding 重设计揭示了一个新思路：用 AI 个性化新用户的学习路径。不是固定的 5 步引导，而是根据用户的专业背景（设计师 vs PM vs 工程师）动态调整教学内容和速度。界面上用「技能树」可视化学习进度——已掌握的功能亮起，推荐学习的功能用脉动光点标注。",
+      "body_en": "Figma AI and Runway's 2026 onboarding redesign reveals a new approach: AI-personalized learning paths for new users. Not fixed 5-step guides but dynamically adjusted teaching content and pace based on user background (designer vs PM vs engineer). Interface uses 'skill tree' to visualize learning progress — mastered features lit up, recommended next features marked with pulsing dots.",
+      "tags": [
+        "Onboarding",
+        "Skill Tree",
+        "Personalized Learning",
+        "AI Adaptation"
+      ],
+      "link": "https://dribbble.com/search/ai-onboarding-skill-tree",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43827368/file/original-6c973c27254afb42ef013d26273e6b20.jpg?resize=1600x1200",
+      "date": "2026-03-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「输出溯源」设计 — 从结果到过程的透明化",
+      "body": "2026 年 Q1 末，AI 产品开始标配「输出溯源」功能：每个 AI 生成的内容旁边有一个可展开的「来源链」——AI 参考了哪些数据、经过了哪些推理步骤、置信度是多少。视觉设计用面包屑式的水平链路图，每个节点可点击查看详情。这不只是合规需求（EU AI Act），也是产品差异化——用户开始用「可溯源性」来判断不同 AI 工具的可信度。",
+      "body_en": "By end of Q1 2026, AI products standardize 'output provenance' features: each AI-generated content has an expandable 'source chain' — what data AI referenced, reasoning steps taken, confidence levels. Visual design uses breadcrumb-style horizontal chain graphs, each node clickable for details. Not just compliance (EU AI Act) but product differentiation — users now judge AI tool trustworthiness by 'traceability.'",
+      "tags": [
+        "Provenance",
+        "Source Chain",
+        "AI Traceability",
+        "EU AI Act"
+      ],
+      "link": "https://dribbble.com/search/ai-output-provenance-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-03-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "三月收官日，Visual for AI 的两个发现把整个月的主线画上了一个完美的句号。技能树 onboarding 和输出溯源，分别解决 AI 产品生命周期的「入口」和「出口」问题——入口是「怎么让新用户快速上手」，出口是「怎么让用户信任 AI 的输出」。把这个月所有 Visual for AI 的 pin 串起来看，一条清晰的设计哲学浮现了：2026 年 AI 产品视觉设计的核心不是美学，不是品牌，甚至不是效率——是「认知透明」。从月初的情绪色彩（AI 状态可感知），到中旬的权限/记忆可视化（AI 能力边界可见），到月末的不确定性设计和输出溯源（AI 推理过程可追溯），每一步都在回答同一个问题：如何让人类理解一个他们无法直接观察的智能体？这就是 2026 AI 视觉设计的本质命题——不是「让 AI 看起来怎样」，而是「让 AI 被看见」。",
+      "body_en": "Month-end, two Visual for AI findings draw a perfect arc across March. Skill tree onboarding and output provenance solve the AI product lifecycle's 'entry' and 'exit' — entry: how to onboard new users fast; exit: how to make users trust AI output. Threading all March Visual for AI pins together, a clear design philosophy emerges: 2026 AI product visual design's core isn't aesthetics, branding, or even efficiency — it's 'cognitive transparency.' From early March emotional colors (AI state perceivable), to mid-month permission/memory visualization (AI capability boundaries visible), to month-end uncertainty design and output provenance (AI reasoning traceable) — every step answers the same question: how to help humans understand an agent they cannot directly observe? That's the essential thesis of 2026 AI visual design — not 'how to make AI look' but 'how to make AI be seen.'",
+      "date": "2026-03-27"
     }
   ]
 }
