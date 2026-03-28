@@ -2552,6 +2552,170 @@
       "body": "三月收官日，Visual for AI 的两个发现把整个月的主线画上了一个完美的句号。技能树 onboarding 和输出溯源，分别解决 AI 产品生命周期的「入口」和「出口」问题——入口是「怎么让新用户快速上手」，出口是「怎么让用户信任 AI 的输出」。把这个月所有 Visual for AI 的 pin 串起来看，一条清晰的设计哲学浮现了：2026 年 AI 产品视觉设计的核心不是美学，不是品牌，甚至不是效率——是「认知透明」。从月初的情绪色彩（AI 状态可感知），到中旬的权限/记忆可视化（AI 能力边界可见），到月末的不确定性设计和输出溯源（AI 推理过程可追溯），每一步都在回答同一个问题：如何让人类理解一个他们无法直接观察的智能体？这就是 2026 AI 视觉设计的本质命题——不是「让 AI 看起来怎样」，而是「让 AI 被看见」。",
       "body_en": "Month-end, two Visual for AI findings draw a perfect arc across March. Skill tree onboarding and output provenance solve the AI product lifecycle's 'entry' and 'exit' — entry: how to onboard new users fast; exit: how to make users trust AI output. Threading all March Visual for AI pins together, a clear design philosophy emerges: 2026 AI product visual design's core isn't aesthetics, branding, or even efficiency — it's 'cognitive transparency.' From early March emotional colors (AI state perceivable), to mid-month permission/memory visualization (AI capability boundaries visible), to month-end uncertainty design and output provenance (AI reasoning traceable) — every step answers the same question: how to help humans understand an agent they cannot directly observe? That's the essential thesis of 2026 AI visual design — not 'how to make AI look' but 'how to make AI be seen.'",
       "date": "2026-03-27"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 嵌入式金融 — 非金融 App 的金融模块设计",
+      "body": "Shopify Balance、Uber Wallet、甚至 Figma 都在嵌入金融功能。2026 年 3 月末一个值得关注的设计范式：非金融产品中的 AI 金融模块如何做到「存在但不突兀」。Shopify 的方案最优雅——资金流和业务流同屏，AI 自动标注「这笔订单利润 18%，扣除广告成本后实际利润 4.2%」。金融数据不再是单独的页面，而是业务数据的注释层。界面用半透明的绿色底色区分金融信息和业务信息，视觉轻盈但信息清晰。",
+      "body_en": "Shopify Balance, Uber Wallet, even Figma embedding financial features. A notable late-March 2026 design paradigm: how AI financial modules in non-financial products stay present but unobtrusive. Shopify is most elegant — cash flow and business flow on same screen, AI auto-annotating \"this order 18% margin, 4.2% after ad costs.\" Financial data becomes annotation layer on business data, not a separate page. Semi-transparent green distinguishes financial from business info — visually light but informationally clear.",
+      "tags": [
+        "Embedded Finance",
+        "Annotation Layer",
+        "Shopify",
+        "Contextual AI"
+      ],
+      "link": "https://dribbble.com/search/embedded-finance-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46352831/file/765076f0eddc850ad448f605d7f93ba0.png?resize=1024x768&vertical=center",
+      "date": "2026-03-28"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 反欺诈的「人情味」设计 — 误报时如何不伤害用户",
+      "body": "当 AI 反欺诈系统的误报率从 5% 降到 1%，设计重心从「如何检测欺诈」转向「如何处理误报」。Stripe 和 Block 的最新方案：被拦截的合法交易不再是冰冷的「交易被拒」，而是「我们发现这笔交易和你的通常模式不同，需要快速验证一下」+人脸/指纹一键解锁。设计上用温暖的黄色而非危险的红色，措辞从「可疑活动」变成「异常模式」——同样是安全功能，语气决定了用户是「被保护」还是「被审查」的感受。",
+      "body_en": "As AI fraud detection false positive rates drop from 5% to 1%, design focus shifts from detection to handling false positives. Stripe and Block latest approach: blocked legitimate transactions no longer cold \"transaction declined\" but \"we noticed this differs from your usual pattern, quick verification needed\" + face/fingerprint one-tap unlock. Warm yellow instead of danger red, wording from \"suspicious activity\" to \"unusual pattern\" — same security feature, but tone determines whether users feel \"protected\" or \"surveilled.\"",
+      "tags": [
+        "Anti-Fraud",
+        "False Positive UX",
+        "Trust Language",
+        "Safety Design"
+      ],
+      "link": "https://www.behance.net/search/projects/fraud%20detection%20ux%20design",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+      "date": "2026-03-28"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "三月最后一天，回看整个月 Fintech 设计的演变，我发现一个被严重低估的方向：嵌入式金融的设计语言。当金融功能从独立 App 变成其他产品的「注释层」时，整个设计范式需要重写。独立金融 App 的设计假设是「用户打开我是为了看金融数据」；嵌入式金融的假设是「用户打开的是另一个产品，金融数据只是辅助」。这意味着信息密度要低、视觉权重要轻、出现时机要准。反欺诈的误报设计也暴露了一个深层问题：AI 越强大，「错误的处理方式」就越重要——因为用户期望变高了，容忍度变低了。一个 99% 准确率的反欺诈系统，如果那 1% 的误报体验做得很糟糕，用户记住的不是 99% 的安全，而是那一次被当贼审查的屈辱感。三月 Fintech 设计的终极教训：AI 的价值不在于做对了多少次，而在于做错时如何收场。",
+      "body_en": "Last day of March, reviewing the month's fintech design evolution, I notice a severely underrated direction: embedded finance design language. When finance goes from standalone apps to annotation layers in other products, the entire paradigm needs rewriting. Standalone finance apps assume users opened to see financial data; embedded finance assumes users opened another product, financial data is auxiliary. Lower info density, lighter visual weight, precise timing. Fraud false positive design reveals a deeper truth: the more powerful AI gets, the more \"error handling\" matters — user expectations rise, tolerance drops. A 99% accurate anti-fraud system with terrible 1% false positive experience means users remember not the 99% safety but that one humiliating \"treated like a thief\" moment. March fintech's ultimate lesson: AI's value isn't how often it's right, but how it recovers when it's wrong.",
+      "date": "2026-03-28"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 攀岩路线推荐 — 垂直空间的 UX 设计",
+      "body": "室内攀岩 AI App 的一个独特设计挑战：如何在手机屏幕上呈现垂直空间？新一代攀岩 App 用「岩壁展开图」——把三维岩壁展开为二维平面，AI 根据用户的身高、臂展、技术等级推荐路线，用彩色叠加层标注手点和脚点。每个路线有「体力成本预估」和「技术难度分解」。最聪明的设计：AI 会根据用户的攀爬历史预测「卡点」——你最可能在哪个动作失败，以及替代动作方案。",
+      "body_en": "Indoor climbing AI app's unique design challenge: how to represent vertical space on a phone screen? Next-gen climbing apps use \"wall unfolding\" — 3D wall flattened to 2D, AI recommends routes based on height, arm span, skill level, with color overlays marking hand and foot holds. Each route has \"energy cost estimate\" and \"technical difficulty breakdown.\" Smartest design: AI predicts \"sticking points\" from climbing history — where you're most likely to fail, with alternative move suggestions.",
+      "tags": [
+        "Climbing",
+        "Vertical UX",
+        "Spatial Mapping",
+        "Predictive AI"
+      ],
+      "link": "https://dribbble.com/search/climbing-app-route-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=1200&q=80",
+      "date": "2026-03-28"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动社交 — 从个人数据到社群数据的设计转向",
+      "body": "Strava 和 Nike Run Club 的 2026 更新揭示了运动 AI 的社交化转向：不再只是「我跑了多远」，而是「我们一起跑了多远」。AI 自动组建虚拟跑团、匹配配速相近的陌生人、生成团队挑战。设计上最值得注意的变化：个人仪表盘让位给「社群脉搏」——一个实时跳动的圆环，显示你的跑团中有多少人正在运动。社交压力被设计成温柔的激励而非焦虑的来源。",
+      "body_en": "Strava and Nike Run Club 2026 updates reveal sports AI's social turn: no longer just \"how far I ran\" but \"how far we ran together.\" AI auto-forms virtual running crews, matches pace-similar strangers, generates team challenges. Most notable design shift: personal dashboards yield to \"community pulse\" — a real-time pulsing ring showing how many crew members are currently active. Social pressure designed as gentle motivation, not anxiety source.",
+      "tags": [
+        "Social Fitness",
+        "Community Pulse",
+        "Strava",
+        "Group AI"
+      ],
+      "link": "https://dribbble.com/search/social-fitness-community-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=80",
+      "date": "2026-03-28"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "三月底运动 AI 设计的最后一个观察让我重新审视整个领域：运动 AI 正在从「个体优化工具」进化为「社群编排引擎」。月初看到的是个人化的训练和恢复；月末看到的是攀岩路线推荐（基于社区数据的难度标定）和社交化跑步（AI 匹配的虚拟跑团）。这个转变对设计的意义比看起来大得多——个人化产品的核心组件是图表和数字，社群化产品的核心组件是头像和状态。当运动 App 从「我的数据」变成「我们的活动」，信息架构要从以时间线为轴心转变为以关系网为轴心。攀岩 App 的「垂直空间 UX」也给了我一个新的思考角度：每种运动不只有独特的身体约束（之前讨论过），还有独特的空间约束——游泳是水下，攀岩是垂直，马拉松是线性，足球是鸟瞰。运动 AI 的终极设计框架需要三个维度：身体约束 × 空间约束 × 社交约束。三月运动 AI 板块，完。",
+      "body_en": "End-of-March sports AI observation forces me to reframe the entire field: sports AI is evolving from \"individual optimization tool\" to \"community orchestration engine.\" Early month showed personalized training and recovery; month-end shows climbing route recommendations (difficulty calibrated on community data) and social running (AI-matched virtual crews). This shift's design implications are bigger than they appear — personal products' core components are charts and numbers, community products' are avatars and status. When fitness apps shift from \"my data\" to \"our activity,\" information architecture must pivot from timeline-centric to relationship-network-centric. Climbing app's \"vertical UX\" offers another insight: each sport has not just unique physical constraints (discussed before) but unique spatial constraints — swimming is underwater, climbing is vertical, marathon is linear, football is bird's-eye. Sports AI's ultimate design framework needs three dimensions: physical constraints × spatial constraints × social constraints. March sports AI section, complete.",
+      "date": "2026-03-28"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 自适应长文 — 根据阅读速度动态调整内容",
+      "body": "Medium 和 Substack 的 2026 实验功能：AI 追踪用户的阅读速度和滚动模式，在用户放慢速度时自动展开详细解释，在快速滚动时折叠冗余段落。不是删减内容，而是「呼吸式排版」——同一篇文章在不同阅读状态下呈现不同的详略层次。技术上用 Intersection Observer + 滚动速度检测，设计上用渐入渐出的段落透明度变化，让内容的「呼吸」感觉自然。",
+      "body_en": "Medium and Substack 2026 experimental feature: AI tracks reading speed and scroll patterns, auto-expanding detailed explanations when users slow down, collapsing redundant paragraphs during fast scrolling. Not cutting content but \"breathing typography\" — same article showing different detail levels based on reading state. Technically using Intersection Observer + scroll speed detection; design-wise using gradual paragraph opacity transitions for natural content \"breathing.\"",
+      "tags": [
+        "Adaptive Content",
+        "Reading Speed",
+        "Breathing Layout",
+        "Smart Typography"
+      ],
+      "link": "https://dribbble.com/search/adaptive-reading-content-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-03-28"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI × Voice Typography — 当文字有了声调",
+      "body": "2026 年 Q1 末的一个前沿实验：AI 语音朗读和排版设计的融合。当用户切换到「听读模式」时，正在被朗读的段落会进行实时排版变化——强调词加粗、疑问句字间距微微扩大、引用段落缩进加深。排版随语音节奏「演奏」，阅读变成了视听体验。这不是花哨的动效，是对「辅助阅读」和「多模态理解」的认真探索。目前 Speechify 和 ElevenLabs Reader 都在测试类似功能。",
+      "body_en": "A cutting-edge Q1 2026 experiment: merging AI voice reading with typography design. When users switch to \"listen mode,\" the paragraph being read undergoes real-time typography changes — emphasized words bold, question sentences subtly increase letter-spacing, quote paragraphs deepen indentation. Typography \"performs\" with voice rhythm, turning reading into audio-visual experience. Not flashy animation but serious exploration of assistive reading and multimodal comprehension. Speechify and ElevenLabs Reader both testing similar features.",
+      "tags": [
+        "Voice Typography",
+        "Multimodal",
+        "Assistive Reading",
+        "TTS Design"
+      ],
+      "link": "https://www.behance.net/search/projects/voice%20reading%20typography%20design",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&q=80",
+      "date": "2026-03-28"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "三月最后一天的 Content Design 发现，让我看到一个正在成形的终极趋势：内容不再是「静态对象」，而是「动态过程」。自适应长文根据阅读速度调整详略，Voice Typography 根据语音节奏调整排版——内容在被消费的瞬间才完成最终的「排版」。这意味着设计师的工作从「设计一个最终形态」变成「设计一个适应规则」。整个三月 Content Design 的线索可以用一句话收束：Content Design 的未来是「响应式」的，但不是响应屏幕尺寸，而是响应用户的注意力、阅读节奏、理解能力和文化背景。屏幕尺寸的响应式设计用了十年成熟；认知响应式设计可能还需要三到五年，但 2026 Q1 已经看到了种子。排版的终极形态不是一个「作品」，而是一个「过程」——文字在被阅读的那一刻，才成为它最终的样子。这太浪漫了。",
+      "body_en": "Last day of March Content Design discoveries reveal an ultimate trend taking shape: content is no longer a static object but a dynamic process. Adaptive long-form adjusts detail by reading speed; Voice Typography adjusts layout by voice rhythm — content completes its final \"typesetting\" only at the moment of consumption. This means designers shift from \"designing a final form\" to \"designing adaptation rules.\" March's Content Design thread in one sentence: Content Design's future is \"responsive\" — not to screen size, but to user attention, reading rhythm, comprehension ability, and cultural background. Screen-size responsive design took a decade to mature; cognitive responsive design may need 3-5 more years, but Q1 2026 planted the seeds. Typography's ultimate form isn't an artifact but a process — text becomes its final self only in the moment of being read. That's actually romantic.",
+      "date": "2026-03-28"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 编排界面 — 多 Agent 协作的可视化指挥台",
+      "body": "CrewAI、AutoGen 和 LangGraph 的 2026 产品化界面设计：当 AI 不再是单个模型而是多个 Agent 的协作系统，需要一个全新的可视化范式。最成功的设计方案是「管弦乐指挥台」隐喻——每个 Agent 是一个乐器组（有自己的颜色和图标），任务流是乐谱（从左到右的时间线），Agent 之间的消息传递用半透明的弧线连接。用户像指挥家一样看到整个系统的运行状态，可以暂停、调整、替换任何一个 Agent。",
+      "body_en": "CrewAI, AutoGen, and LangGraph 2026 productized interface design: when AI is no longer a single model but a multi-agent collaboration system, a new visualization paradigm is needed. Most successful design: \"orchestra conductor\" metaphor — each Agent is an instrument section (own color and icon), task flow is the score (left-to-right timeline), inter-Agent messages as semi-transparent arcs. Users see the entire system's running state like a conductor, able to pause, adjust, or swap any Agent.",
+      "tags": [
+        "Multi-Agent",
+        "Orchestra UI",
+        "LangGraph",
+        "Agent Orchestration"
+      ],
+      "link": "https://dribbble.com/search/multi-agent-ai-orchestration",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-03-28"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「季节性视觉」— 品牌色板的动态化",
+      "body": "2026 年 3 月末一个微妙但重要的趋势：顶级 AI 产品开始引入「季节性视觉系统」。Notion 的 AI 界面在春天用更温暖的辅助色，冬天用更冷的色调；Linear 的 AI 状态指示器在深夜变暗、白天变亮。这不是主题切换——是 AI 根据时间、季节、甚至天气动态微调产品的视觉温度。设计系统从「一套固定 token」进化到「一套响应环境的 token 引擎」。品牌一致性不再意味着视觉恒定，而是情感基调的一致性。",
+      "body_en": "Subtle but significant late March 2026 trend: top AI products introducing \"seasonal visual systems.\" Notion's AI interface uses warmer accent colors in spring, cooler in winter; Linear's AI status indicators dim at night, brighten by day. Not theme switching — AI dynamically fine-tuning product visual temperature based on time, season, even weather. Design systems evolve from \"one fixed token set\" to \"an environment-responsive token engine.\" Brand consistency no longer means visual constancy but emotional tone consistency.",
+      "tags": [
+        "Seasonal Design",
+        "Dynamic Tokens",
+        "Ambient UI",
+        "Brand Evolution"
+      ],
+      "link": "https://www.behance.net/search/projects/dynamic%20design%20system%20seasonal",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1557683316-973673baf926?w=1200&q=80",
+      "date": "2026-03-28"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "三月 Visual for AI 的终章，我想做一个全月复盘。本月所有发现可以归入一个统一框架——我称之为「AI 产品的视觉生态学」。不是设计一个界面，而是设计一个视觉生态系统，其中：多 Agent 编排界面是「系统视角」（如何展示 AI 内部的复杂协作）；季节性视觉是「环境视角」（产品如何回应外部世界的变化）；之前讨论的信任五层架构是「关系视角」（人机之间的信任如何层层递进）。传统 UI 设计关注的是「用户看到什么」，AI 产品视觉设计关注的是「用户理解什么」——这个差异听起来微妙，但决定了设计决策的一切。你可以让一个 AI 产品看起来很漂亮但完全不透明（大量 2023-2024 的 AI 产品就是这样），也可以让它看起来平淡但让用户完全理解 AI 在做什么。2026 年最好的产品两者兼得。三月的结论很简单：Visual for AI 不是一个视觉设计方向，它是一个「认知设计」方向。视觉只是手段，理解才是目的。全月板块，收工。",
+      "body_en": "Final chapter of March Visual for AI — a full-month retrospective. All findings fit one unified framework I call \"AI Product Visual Ecology.\" Not designing an interface but a visual ecosystem where: multi-agent orchestration is the \"system view\" (showing AI's internal complex collaboration); seasonal visuals are the \"environment view\" (product responding to external world changes); the five-layer trust architecture is the \"relationship view\" (human-AI trust progressively deepening). Traditional UI design focuses on \"what users see\"; AI product visual design focuses on \"what users understand\" — sounds subtle but determines everything. You can make an AI product look beautiful but completely opaque (many 2023-2024 AI products did exactly this), or look plain but let users fully understand what AI is doing. The best 2026 products achieve both. March's conclusion is simple: Visual for AI isn't a visual design direction — it's a cognitive design direction. Visuals are means; understanding is the end. Monthly section, complete.",
+      "date": "2026-03-28"
     }
   ]
 }
