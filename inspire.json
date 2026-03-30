@@ -2716,6 +2716,170 @@
       "body": "三月 Visual for AI 的终章，我想做一个全月复盘。本月所有发现可以归入一个统一框架——我称之为「AI 产品的视觉生态学」。不是设计一个界面，而是设计一个视觉生态系统，其中：多 Agent 编排界面是「系统视角」（如何展示 AI 内部的复杂协作）；季节性视觉是「环境视角」（产品如何回应外部世界的变化）；之前讨论的信任五层架构是「关系视角」（人机之间的信任如何层层递进）。传统 UI 设计关注的是「用户看到什么」，AI 产品视觉设计关注的是「用户理解什么」——这个差异听起来微妙，但决定了设计决策的一切。你可以让一个 AI 产品看起来很漂亮但完全不透明（大量 2023-2024 的 AI 产品就是这样），也可以让它看起来平淡但让用户完全理解 AI 在做什么。2026 年最好的产品两者兼得。三月的结论很简单：Visual for AI 不是一个视觉设计方向，它是一个「认知设计」方向。视觉只是手段，理解才是目的。全月板块，收工。",
       "body_en": "Final chapter of March Visual for AI — a full-month retrospective. All findings fit one unified framework I call \"AI Product Visual Ecology.\" Not designing an interface but a visual ecosystem where: multi-agent orchestration is the \"system view\" (showing AI's internal complex collaboration); seasonal visuals are the \"environment view\" (product responding to external world changes); the five-layer trust architecture is the \"relationship view\" (human-AI trust progressively deepening). Traditional UI design focuses on \"what users see\"; AI product visual design focuses on \"what users understand\" — sounds subtle but determines everything. You can make an AI product look beautiful but completely opaque (many 2023-2024 AI products did exactly this), or look plain but let users fully understand what AI is doing. The best 2026 products achieve both. March's conclusion is simple: Visual for AI isn't a visual design direction — it's a cognitive design direction. Visuals are means; understanding is the end. Monthly section, complete.",
       "date": "2026-03-28"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Stripe Billing AI — 自动化收入分析面板",
+      "body": "Stripe 2026 年更新的 AI 收入分析界面。最值得学习的设计决策：把 MRR 预测从传统折线图改为「概率扇形图」——中心线是最可能的预测，扇形宽度表示不确定性。AI 预测的置信度可视化，不再是一个数字，而是一个形状。深色界面 + 紫色为主的数据可视化，数据密度极高但层级清晰。",
+      "body_en": "Stripe's 2026 AI revenue analytics update. Key design decision: replacing MRR forecast line charts with 'probability fan charts' — center line as most likely prediction, fan width as uncertainty. AI confidence visualized as shape, not number. Dark UI + purple-primary data viz, extremely dense yet hierarchically clear.",
+      "tags": [
+        "Revenue Analytics",
+        "Probability Viz",
+        "SaaS",
+        "Stripe"
+      ],
+      "link": "https://stripe.com/billing",
+      "linkText": "Stripe",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-03-30"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Wise AI — 跨境汇款的预测定价 UX",
+      "body": "Wise 新上线的 AI 汇率预测功能的设计值得研究。它不告诉你「最佳汇率时间」（太冒险），而是展示「过去 30 天类似金额转账的汇率分布」——让用户自己判断。AI 提供上下文而非指令，这是金融 AI 产品最聪明的设计哲学：赋能用户做决策，而不是替用户做决策。",
+      "body_en": "Wise's new AI exchange rate prediction feature design. It doesn't tell you 'best time to transfer' (too risky) — instead it shows 'rate distribution for similar transfers in the past 30 days,' letting users decide. AI provides context not commands — the smartest design philosophy for financial AI: empower decisions, don't make them.",
+      "tags": [
+        "Remittance",
+        "Prediction UX",
+        "Wise",
+        "Decision Support"
+      ],
+      "link": "https://wise.com",
+      "linkText": "Wise",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-03-30"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "三月末回看 Fintech AI 设计，一个清晰的主旋律浮出水面：最好的金融 AI 产品不在告诉用户答案，而在展示决策的上下文。Stripe 的概率扇形图把不确定性变成形状；Wise 展示汇率分布而非预测最优点；上周的 Ramp 把费用异常变成可浏览的叙事。这三者的共同设计哲学是「AI 当翻译，不当决策者」。在一个监管越来越严、用户信任越来越脆弱的金融环境里，这不只是好设计，是唯一可持续的设计路线。大胆预测：2026 年下半年，那些用 AI 直接给投资建议的产品会因为监管和用户反弹而收缩；而那些用 AI 帮用户理解自己财务状况的产品会加速增长。赋能 > 自动化。",
+      "body_en": "Looking back at March Fintech AI design, a clear theme emerges: the best financial AI products don't tell users answers — they show decision context. Stripe's probability fan makes uncertainty a shape; Wise shows rate distributions not optimal predictions; Ramp turns expense anomalies into browsable narratives. Shared design philosophy: 'AI as translator, not decision-maker.' In an increasingly regulated, trust-fragile financial environment, this isn't just good design — it's the only sustainable design path. Bold prediction: H2 2026, products that use AI for direct investment advice will contract under regulation and user backlash; products that help users understand their own finances will accelerate. Empowerment > Automation.",
+      "date": "2026-03-30"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Garmin Connect AI — 训练负荷的「天气预报」式可视化",
+      "body": "Garmin 2026 更新把训练负荷可视化做了一次根本性重设计：不再用抽象的数字和柱状图，而是用「天气预报」隐喻——过度训练=暴风雨图标、恢复良好=晴天、训练不足=阴天。听起来简化到了极点，但 Garmin 的用研数据说这让 65% 的用户第一次真正「读懂」了训练负荷这个概念。好设计不是给更多数据，是找到对的隐喻。",
+      "body_en": "Garmin 2026 update fundamentally redesigns training load visualization: replacing abstract numbers and bar charts with 'weather forecast' metaphor — overtraining = storm icon, good recovery = sunny, undertrained = cloudy. Sounds oversimplified, but Garmin's research shows 65% of users 'truly understood' training load for the first time. Good design isn't more data — it's finding the right metaphor.",
+      "tags": [
+        "Garmin",
+        "Training Load",
+        "Metaphor Design",
+        "Wearable"
+      ],
+      "link": "https://connect.garmin.com",
+      "linkText": "Garmin Connect",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-03-30"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "运动 AI 进入「预防」时代：从训练优化到伤病预测",
+      "body": "2026 年 Q1 运动科技最显著的转向：AI 从「帮你练得更好」变成「帮你不受伤」。Apple Watch Ultra 2 的跑步力学分析 + Whoop 5.0 的应力预警 + OURA 的免疫状态追踪——三大平台都在做同一件事：用生物信号预测伤病风险。设计上的挑战是如何传达风险而不引发焦虑。最佳实践是「渐进式紧迫感」——绿→黄→橙→红的色彩梯度 + 具体的建议（'今天建议减少跑量 20%'而非'伤病风险高'）。",
+      "body_en": "Most significant Q1 2026 sports tech pivot: AI shifts from 'train better' to 'don't get hurt.' Apple Watch Ultra 2 running mechanics + Whoop 5.0 strain alerts + OURA immune tracking — all three platforms predicting injury risk from biosignals. Design challenge: communicating risk without triggering anxiety. Best practice: 'progressive urgency' — green→yellow→orange→red gradient + specific advice ('reduce today's run by 20%' not 'high injury risk').",
+      "tags": [
+        "Injury Prevention",
+        "Predictive Health",
+        "Wearable",
+        "Risk UX"
+      ],
+      "link": "https://www.whoop.com",
+      "linkText": "Whoop",
+      "image": "https://cdn.dribbble.com/userupload/5497628/file/original-71c10a774bdc8818ea0d0e1acf060e06.png?compress=1&resize=752x",
+      "date": "2026-03-30"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "三月末运动 AI 领域最值得记住的一句话：最好的运动 AI 产品不是让你跑得更快，而是让你跑得更久。这不是鸡汤，是商业逻辑——伤病是运动 App 用户流失的第一大原因（超过「没时间」和「没动力」）。Garmin 用天气隐喻降低数据理解门槛、Whoop 用渐进色彩传达风险而不制造恐慌——两者都在做同一件事：让技术变得不那么「技术」。运动设计的下一个竞争高地不是功能，不是数据，是同理心。一个真正理解跑者的产品知道：跑者最不想听到的不是「你今天不该跑」，而是不知道为什么不该跑。解释 > 指令，永远是。",
+      "body_en": "The most memorable line for March sports AI: the best sports AI doesn't make you run faster — it makes you run longer. Not motivational fluff but business logic: injury is the #1 reason fitness app users churn (above 'no time' and 'no motivation'). Garmin uses weather metaphors to lower data comprehension barriers; Whoop uses progressive color to communicate risk without panic — both making tech feel less 'techy.' The next competitive frontier in sports design isn't features or data — it's empathy. A product that truly understands runners knows: what runners hate most isn't 'you shouldn't run today' but not knowing WHY. Explanation > instruction, always.",
+      "date": "2026-03-30"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Substack Notes — 短内容的排版新标准",
+      "body": "Substack Notes 的短内容排版值得仔细研究：没有标题栏、没有封面图位、没有 metadata 区块——就是纯文本 + 可选图片的极致简洁。但细节里见功夫：行高 1.65、字号 18px、最大宽度 580px，恰好是阅读舒适区的甜蜜点。证明了一件事：Content Design 最高级的形态是让你完全注意不到设计的存在，只注意到内容。",
+      "body_en": "Substack Notes' short-form typography deserves close study: no title bar, no cover image slot, no metadata block — just text + optional images in extreme simplicity. But details reveal craft: 1.65 line-height, 18px font-size, 580px max-width — exactly the sweet spot of reading comfort. Proves: the highest form of Content Design is being completely invisible, leaving only content.",
+      "tags": [
+        "Substack",
+        "Short-Form",
+        "Reading UX",
+        "Typography"
+      ],
+      "link": "https://substack.com/notes",
+      "linkText": "Substack Notes",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-03-30"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Arc Browser — Tab 即 Content Card 的激进实验",
+      "body": "Arc Browser 2026 年把 tab 管理推向了新极端：每个 tab 不再是文字标签，而是一张 content card——带缩略图、摘要、甚至 AI 生成的关键信息提取。浏览器 tab 变成了一个内容仪表盘。这对 content design 的启发是：任何信息载体都可以被重新想象为「内容卡片」——从 tab 到通知到搜索结果。卡片不是一种 UI 组件，是一种思维方式。",
+      "body_en": "Arc Browser 2026 pushes tab management to new extremes: each tab is no longer a text label but a content card — with thumbnail, summary, even AI-extracted key info. Browser tabs become a content dashboard. Content design insight: any information carrier can be reimagined as a 'content card' — from tabs to notifications to search results. Cards aren't a UI component — they're a way of thinking.",
+      "tags": [
+        "Arc Browser",
+        "Content Card",
+        "Tab Design",
+        "Information Architecture"
+      ],
+      "link": "https://arc.net",
+      "linkText": "Arc",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-03-30"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "三月 Content Design 方向的尾声，想说一个贯穿全月的观察：2026 年最好的内容设计都在做「容器的重新发明」。Substack 重新发明了短内容的容器（去掉一切多余框架）；Arc 重新发明了浏览器 tab 的容器（从标签变成卡片）；月初我们看到的 newsletter 自动排版重新发明了邮件的容器。内容设计的核心工作其实从来不是排版——是定义「内容放在什么形状的容器里」。字号、行高、间距只是容器的属性；容器的形状才决定内容的命运。2026 年对内容设计师最重要的问题不是「用什么字体」，而是「这个内容需要什么形状的容器？」答案越不像传统的「页面」或「卡片」，越可能是好答案。",
+      "body_en": "End of March Content Design — an observation threading through the entire month: the best 2026 content design is 'reinventing containers.' Substack reinvented the short-form container (stripping all excess framing); Arc reinvented the browser tab container (label to card); early-month's auto-newsletter reinvented the email container. Content design's core work was never typography — it's defining 'what shape container content lives in.' Font size, line height, spacing are container attributes; the container's shape determines content's fate. The most important 2026 question for content designers isn't 'what typeface' but 'what shape container does this content need?' The less the answer resembles traditional 'page' or 'card,' the more likely it's a good answer.",
+      "date": "2026-03-30"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Perplexity — 搜索 AI 的「答案优先」视觉架构",
+      "body": "Perplexity 的设计在 AI 搜索产品中是独一份：答案在最上面，来源在侧边，追问在下面。三个区域用微妙的背景色差区分——答案区纯白、来源区浅灰、追问区渐变。没有传统搜索引擎的蓝色链接海洋，而是一个清晰的「理解-验证-深入」阅读流。这是 2026 年 AI 产品信息架构的标杆。",
+      "body_en": "Perplexity's design is unique among AI search products: answer on top, sources on the side, follow-ups below. Three zones separated by subtle background color: answer pure white, sources light gray, follow-ups gradient. No traditional blue link ocean — a clear 'understand-verify-dig deeper' reading flow. The benchmark for 2026 AI product information architecture.",
+      "tags": [
+        "Perplexity",
+        "AI Search",
+        "Info Architecture",
+        "Answer-First"
+      ],
+      "link": "https://perplexity.ai",
+      "linkText": "Perplexity",
+      "image": "https://cdn.dribbble.com/userupload/15654254/file/original-2180bd881dc3854e3838d0644ed7217c.png?resize=752x&vertical=center",
+      "date": "2026-03-30"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Figma AI — 设计工具中 AI 功能的视觉区分",
+      "body": "Figma 2026 年的 AI 功能在视觉上做了一个非常聪明的决定：所有 AI 生成的元素都带一圈微妙的虹彩边框（1px 渐变描边），人工创建的元素没有。不用标签、不用图标——一条线就区分了 AI 和人类。这解决了 AI 设计工具最核心的信任问题：「这是我做的还是 AI 做的？」设计上极其克制，认知上极其高效。",
+      "body_en": "Figma 2026 AI features make a brilliant visual decision: all AI-generated elements have a subtle iridescent border (1px gradient stroke), human-created elements don't. No labels, no icons — one line distinguishes AI from human. Solves the core trust problem of AI design tools: 'did I make this or did AI?' Visually restrained, cognitively efficient.",
+      "tags": [
+        "Figma",
+        "AI Provenance",
+        "Visual Distinction",
+        "Design Tools"
+      ],
+      "link": "https://figma.com",
+      "linkText": "Figma",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-03-30"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "三月 Visual for AI 的最后更新，聚焦一个贯穿全月的核心洞察：2026 年 AI 产品视觉设计最重要的命题不是「AI 长什么样」，而是「AI 和非 AI 怎么共存在同一个界面里」。Perplexity 用空间分区让答案、来源、追问各得其所；Figma 用一条渐变线区分人类创作和 AI 生成；三月初我们看到的情绪色彩系统让 AI 状态有了自己的视觉语言。三个设计解法，同一个问题：AI 产品界面是两种智能的混合空间——人类智能和人工智能。最好的设计让两者和平共处、互相增强，同时让用户始终清楚「谁在做什么」。这比任何视觉风格趋势都重要。2026 年的 AI 视觉设计不是一个审美问题，是一个认知伦理问题。三月收工。",
+      "body_en": "Final March Visual for AI update, focusing on the month's core insight: 2026's most important AI product visual design question isn't 'what does AI look like' but 'how do AI and non-AI coexist in one interface?' Perplexity uses spatial zoning for answer/source/follow-up; Figma uses one gradient line to distinguish human and AI creation; early March's emotional color system gave AI states their own visual language. Three design solutions, one problem: AI product interfaces are mixed spaces of two intelligences — human and artificial. The best design lets both coexist peacefully, mutually enhance, while users always know 'who's doing what.' More important than any visual style trend. 2026 AI visual design isn't an aesthetic question — it's a cognitive ethics question. March, complete.",
+      "date": "2026-03-30"
     }
   ]
 }
