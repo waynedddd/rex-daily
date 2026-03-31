@@ -2880,6 +2880,166 @@
       "body": "三月 Visual for AI 的最后更新，聚焦一个贯穿全月的核心洞察：2026 年 AI 产品视觉设计最重要的命题不是「AI 长什么样」，而是「AI 和非 AI 怎么共存在同一个界面里」。Perplexity 用空间分区让答案、来源、追问各得其所；Figma 用一条渐变线区分人类创作和 AI 生成；三月初我们看到的情绪色彩系统让 AI 状态有了自己的视觉语言。三个设计解法，同一个问题：AI 产品界面是两种智能的混合空间——人类智能和人工智能。最好的设计让两者和平共处、互相增强，同时让用户始终清楚「谁在做什么」。这比任何视觉风格趋势都重要。2026 年的 AI 视觉设计不是一个审美问题，是一个认知伦理问题。三月收工。",
       "body_en": "Final March Visual for AI update, focusing on the month's core insight: 2026's most important AI product visual design question isn't 'what does AI look like' but 'how do AI and non-AI coexist in one interface?' Perplexity uses spatial zoning for answer/source/follow-up; Figma uses one gradient line to distinguish human and AI creation; early March's emotional color system gave AI states their own visual language. Three design solutions, one problem: AI product interfaces are mixed spaces of two intelligences — human and artificial. The best design lets both coexist peacefully, mutually enhance, while users always know 'who's doing what.' More important than any visual style trend. 2026 AI visual design isn't an aesthetic question — it's a cognitive ethics question. March, complete.",
       "date": "2026-03-30"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 订阅管理 — 「隐形消费」的可视化猎杀",
+      "body": "Trim、Rocket Money 和 Truebill 的 2026 Q1 末迭代把 AI 订阅管理推到新高度：不只是列出你订阅了什么，而是用「消费侵蚀图」可视化订阅费用对月收入的累积侵蚀——像沙丘一样一层层堆上去。AI 自动标注「僵尸订阅」（超过 60 天未使用）和「价格悄然上涨」的服务。最精妙的设计：取消订阅不是一个按钮，而是一个「如果取消会怎样」的预览卡片——显示年省金额、替代方案、甚至取消的最佳时机（避免合约期罚金）。",
+      "body_en": "Trim, Rocket Money, and Truebill's late Q1 2026 iterations push AI subscription management to new heights: not just listing subscriptions but visualizing fee erosion on monthly income with 'erosion dunes' — layers stacking like sand. AI auto-flags 'zombie subscriptions' (unused 60+ days) and services with stealth price increases. Finest design: cancellation isn't a button but a 'what if you cancel' preview card — showing annual savings, alternatives, even optimal cancellation timing to avoid contract penalties.",
+      "tags": [
+        "Subscription Management",
+        "Erosion Viz",
+        "Hidden Costs",
+        "Behavioral Finance"
+      ],
+      "link": "https://dribbble.com/search/subscription-management-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/13011080/file/original-ff151f597ffd2835fd8224b0b51a5360.png?resize=1600x1200",
+      "date": "2026-03-31"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 财务叙事报告 — 从数字到故事的季度总结",
+      "body": "2026 Q1 末一个正在成形的产品方向：AI 自动生成用户的「季度财务叙事」——不是 PDF 报表，而是一篇可读的短文：「这个季度你在餐饮上花了比去年同期多 15%，主要集中在三月，和你升职加薪后的消费模式变化吻合。你的储蓄率从 18% 降到了 14%，但投资组合收益弥补了差距。」把枯燥的数字变成一个关于「你的钱去了哪里」的故事。Copilot Money 和 Monarch 都在测试。",
+      "body_en": "Emerging product direction late Q1 2026: AI auto-generating users' 'quarterly financial narratives' — not PDF reports but readable short essays: 'This quarter you spent 15% more on dining than last year, concentrated in March, aligning with spending pattern changes after your promotion. Savings rate dropped from 18% to 14%, but portfolio returns bridged the gap.' Transforming dry numbers into a story about 'where your money went.' Copilot Money and Monarch both testing.",
+      "tags": [
+        "Financial Narrative",
+        "AI Report",
+        "Quarterly Review",
+        "Storytelling"
+      ],
+      "link": "https://www.behance.net/search/projects/financial%20report%20AI%20narrative",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80",
+      "date": "2026-03-31"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "三月最后一天，Fintech AI 设计全月回顾的最后一笔。订阅管理的「侵蚀沙丘图」和季度叙事报告，分别代表了 AI 金融设计的两种时间尺度——前者是实时的微观警觉（你今天的每一笔订阅费在侵蚀你），后者是季度的宏观叙事（你的财务人生在过去 90 天发生了什么）。最好的金融 AI 产品需要同时覆盖两个尺度：日常的自动化（帮你省钱、防欺诈、管现金流），和周期性的意义建构（帮你理解钱和人生的关系）。如果只有微观自动化没有宏观叙事，产品就是一个冰冷的工具；如果只有宏观叙事没有微观自动化，产品就是一个空洞的故事。三月 Fintech 设计的终极结论：金融 AI 的设计不是关于钱，是关于人和钱的关系——而关系需要同时在日常细节和长期叙事两个层面被设计。全月完。",
+      "date": "2026-03-31"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 铁人三项 — 三种运动的统一训练语言",
+      "body": "Triathlon AI 训练 App 面对一个独特设计挑战：同一个用户需要在游泳、骑行、跑步三种完全不同的运动间切换，每种运动的数据指标、身体约束和设备形态都不同。2026 年最好的方案用「能量货币」统一三者——所有运动的训练负荷被换算成统一的「能量点数」，用户只需要管理一个总账户。界面用三色编码（蓝=泳、绿=骑、橙=跑）但共享同一个能量进度条。跨运动的设计统一比单运动的深度优化更难。",
+      "body_en": "Triathlon AI training apps face a unique design challenge: one user switching between swimming, cycling, running — each with different data metrics, physical constraints, and device form factors. Best 2026 approach: 'energy currency' unifying all three — training load converted to unified 'energy points,' users manage one total account. Interface uses tri-color coding (blue=swim, green=bike, orange=run) sharing one energy progress bar. Cross-sport design unification is harder than single-sport deep optimization.",
+      "tags": [
+        "Triathlon",
+        "Cross-Sport",
+        "Energy Currency",
+        "Unified UX"
+      ],
+      "link": "https://dribbble.com/search/triathlon-training-app-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12821657/file/original-5a25dd60b380c500c9f8e5df330f947b.jpg?resize=752x&vertical=center",
+      "date": "2026-03-31"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI × 女性运动健康 — 月经周期训练适配终于主流化",
+      "body": "2026 Q1 最值得关注的运动 AI 包容性趋势：月经周期感知训练终于从小众 App 进入主流平台。Apple Fitness+、Garmin Connect、Strava 都在整合周期数据到训练建议中。AI 根据周期阶段自动调整训练强度和类型——卵泡期推荐高强度、黄体期建议恢复性训练。设计上最敏感的挑战：如何在不让用户感到被「医学化」的前提下提供有用的健康洞察。最好的方案：把周期适配框架为「个性化优化」而非「健康限制」。",
+      "body_en": "Most notable Q1 2026 sports AI inclusivity trend: menstrual cycle-aware training finally goes mainstream. Apple Fitness+, Garmin Connect, Strava all integrating cycle data into training recommendations. AI auto-adjusts intensity and type by cycle phase — follicular phase for high intensity, luteal for recovery. Most sensitive design challenge: providing useful health insights without making users feel 'medicalized.' Best approach: framing cycle adaptation as 'personalized optimization' not 'health limitation.'",
+      "tags": [
+        "Women's Health",
+        "Cycle-Aware",
+        "Inclusive Design",
+        "Personalization"
+      ],
+      "link": "https://www.behance.net/search/projects/women%20fitness%20cycle%20training%20AI",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=1200&q=80",
+      "date": "2026-03-31"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "三月运动 AI 设计的终章收在两个关键词上：统一和包容。铁人三项的跨运动统一设计提出了一个被忽视的 UX 问题——当用户的运动身份不是单一的（不只是跑者、不只是骑手），产品如何避免把他们切割成碎片？「能量货币」是个聪明的抽象层，但也有风险：过度统一会丢失每种运动的独特质感。月经周期适配进入主流平台则标志着运动 AI 终于承认了一个基本事实：人体不是标准化的机器，性别、年龄、生理周期都是训练变量。过去五年运动 App 的设计假设是「一个算法适配所有人」，2026 年这个假设正在被推翻。下一步的设计挑战更大：不只是性别差异，而是年龄（青少年 vs 中年 vs 老年）、能力（残障运动员）、文化（不同文化对身体的态度）。运动 AI 的终极形态不是「最好的训练算法」，而是「最理解你的训练伙伴」。",
+      "date": "2026-03-31"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 摘要卡片 — Blinkist 式内容消费的排版升级",
+      "body": "2026 年「快速学习」类产品的内容设计迭代：不再是简单的「10 分钟读完一本书」，而是 AI 根据用户的知识图谱动态调整摘要深度——你已经知道的概念只用一句话带过，你不熟悉的领域详细展开。排版上用「知识密度色带」：浅色段=概述（你已了解）、深色段=详解（新知识）、金色段=核心洞察（值得收藏）。内容的详略不再由作者决定，而由读者的认知状态决定。",
+      "body_en": "2026 'quick learning' product content design iteration: no longer simple '10-minute book summaries' but AI dynamically adjusting summary depth based on user's knowledge graph — concepts you already know get one sentence, unfamiliar areas expand in detail. Typography uses 'knowledge density bands': light = overview (already known), dark = detailed (new knowledge), gold = core insights (bookmark-worthy). Content depth no longer determined by author but by reader's cognitive state.",
+      "tags": [
+        "Knowledge Graph",
+        "Adaptive Summary",
+        "Density Bands",
+        "Personalized Content"
+      ],
+      "link": "https://dribbble.com/search/ai-book-summary-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10490089/file/original-00dbfc1b063756291ae74d908c8fa4d5.png?resize=1600x1200",
+      "date": "2026-03-31"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「内容指纹」— 每篇文章的独特视觉身份",
+      "body": "2026 Q1 末的一个新兴内容设计概念：AI 根据文章的语义特征生成独特的「内容指纹」——一个抽象的视觉图案，作为文章的封面/识别符号。分析主题、情感基调、信息密度，生成独一无二的几何图案+配色。Medium 和 Ghost 开始支持这个功能，替代千篇一律的 Unsplash 配图。意义在于：内容本身成为了自己的视觉标识，不再依赖外部图片赋予「好看」。",
+      "body_en": "Emerging content design concept late Q1 2026: AI generating unique 'content fingerprints' from articles' semantic features — abstract visual patterns as covers/identifiers. Analyzing topic, emotional tone, info density to generate unique geometric patterns + palettes. Medium and Ghost shipping this, replacing generic Unsplash cover images. The significance: content becomes its own visual identity, no longer needing external images to 'look good.'",
+      "tags": [
+        "Content Fingerprint",
+        "Generative Cover",
+        "Semantic Viz",
+        "Content Identity"
+      ],
+      "link": "https://www.behance.net/search/projects/generative%20art%20content%20cover%20design",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?w=1200&q=80",
+      "date": "2026-03-31"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "三月 Content Design 的最终句号落在一个我一直在追踪的主题上：内容和它的「外壳」之间的关系正在被 AI 重新定义。知识密度色带让排版成为「认知地图」——你在阅读时就能看到哪些是你已知的、哪些是新的，排版本身变成了学习的导航工具。而内容指纹则从另一个方向回答了同一个问题——当 AI 可以无限生成内容时，每篇内容如何保持独特性？答案不是更炫的封面图，而是让内容的语义特征本身成为视觉。三月的 Content Design 全月弧线可以一句话总结：内容设计正在从「装饰内容的外壳」变成「编码认知的界面」。排版不是让文字好看，是让理解更容易发生。色彩不是让页面好看，是让知识密度可感知。容器不是放置内容的框架，是塑造阅读体验的空间。2026 年 Content Design 最革命性的变化：设计的对象从「页面」变成了「理解过程」本身。全月收工。",
+      "date": "2026-03-31"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Claude Artifacts — AI 输出的「可操作化」设计",
+      "body": "Anthropic 的 Claude Artifacts 在 2026 Q1 末的设计迭代值得记录：AI 的输出不再只是文本，而是可交互的「产物」——图表、代码、原型、文档，每种类型有独立的视觉容器和交互方式。最值得学习的设计决策：artifact 和对话流是空间分离的（左边对话、右边产物），但语义关联的（点击 artifact 高亮对应的对话上下文）。这解决了 AI 聊天界面最大的问题：输出散落在对话流里找不到。",
+      "body_en": "Anthropic's Claude Artifacts late Q1 2026 design iteration: AI output is no longer just text but interactive 'artifacts' — charts, code, prototypes, documents, each with distinct visual containers and interactions. Key design decision: artifacts and conversation spatially separated (left: chat, right: artifacts) but semantically linked (clicking artifact highlights corresponding conversation context). Solves the biggest AI chat interface problem: outputs buried in conversation flow.",
+      "tags": [
+        "Claude",
+        "Artifacts",
+        "Spatial UI",
+        "Output Design"
+      ],
+      "link": "https://claude.ai",
+      "linkText": "Claude",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-03-31"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「意图探测器」— 预测用户下一步的界面",
+      "body": "2026 Q1 末最前沿的 AI 界面模式：「意图预测」。AI 不等用户点击或输入，而是根据上下文和行为模式预测用户下一步可能想做什么，以半透明的「建议气泡」浮现在界面上。Notion AI 的 slash command 预测、Cursor 的 next-edit prediction、甚至 iOS 的 App 建议都是这个模式的不同表达。设计挑战：预测错了比没预测更糟——错误的建议会打断用户心流。最好的实现用极低视觉权重（5% 透明度）呈现预测，对了用户一键确认，错了完全不干扰。",
+      "body_en": "Most cutting-edge Q1 2026 AI interface pattern: 'intent prediction.' AI doesn't wait for clicks or input but predicts what users likely want to do next based on context and behavior, surfacing as semi-transparent 'suggestion bubbles.' Notion AI's slash command prediction, Cursor's next-edit prediction, even iOS App Suggestions are expressions of this pattern. Design challenge: wrong predictions are worse than no predictions — they break user flow. Best implementations use ultra-low visual weight (5% opacity) for predictions, one-tap confirm if right, zero disruption if wrong.",
+      "tags": [
+        "Intent Prediction",
+        "Proactive UI",
+        "Suggestion Bubble",
+        "Ambient Intelligence"
+      ],
+      "link": "https://dribbble.com/search/ai-predictive-interface-suggestion",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+      "date": "2026-03-31"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "三月 Visual for AI 的绝对最后一条。Claude Artifacts 的空间分离+语义关联设计和意图预测界面，分别代表了 AI 产品界面设计的两个终极方向：结构化（把 AI 输出从混沌的对话流中解放出来，给它独立的空间和形态）和隐形化（让 AI 的介入如此轻柔，用户几乎意识不到 AI 在工作）。这两个方向看似矛盾——一个要 AI 更可见，一个要 AI 更隐形——但其实是同一枚硬币的两面：当 AI 在「产出」时，它应该被清晰地结构化呈现（Artifacts）；当 AI 在「辅助」时，它应该尽量隐形（意图预测）。一个月前我提出 AI 产品视觉设计的核心是「认知透明」，今天我想修正为「认知恰当」——不是越透明越好，也不是越隐形越好，而是在对的时刻用对的可见度。这需要设计师具备一种新的判断力：不是视觉判断力，而是认知节奏判断力——知道什么时候让 AI 站到台前，什么时候让它退到幕后。三月 Visual for AI，真正的完。",
+      "date": "2026-03-31"
     }
   ]
 }
