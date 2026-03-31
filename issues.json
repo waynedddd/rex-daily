@@ -1,5 +1,83 @@
 [
   {
+    "date": "2026-03-31",
+    "section": "design",
+    "title": {
+      "zh": "AI 原生设计工具大爆发：figr.design 让设计师退订 Figma · Google Stitch 语音设计模式上线 · 「对话式设计」正在取代「画布式设计」",
+      "en": "AI-Native Design Tools Explode: figr.design Makes Designer Cancel Figma · Google Stitch Voice Design Mode · 'Conversational Design' Replaces Canvas"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>figr.design：让资深设计师退订 Figma 的 AI 原生设计工具</strong> — Boagworld 播客主持人 Paul Boag 在最新一期中透露，他在测试了数十款 AI 设计工具后，<strong>因为 figr.design 退订了 Figma。</strong>这款工具的核心差异化：支持导入完整的设计系统、风格指南和用户画像作为上下文，生成的设计稿远比通用 AI 工具精准；迭代极快，可以批量排队修改一次性处理；<strong>生成的原型比 Figma 更真实——文本框可以输入、手风琴可以展开、按钮有状态、完全响应式。</strong>唯一限制是无法手动调整元素，所有操作都通过对话界面完成。Paul 的总结很到位：「从弯腰盯 Figma 变成靠在椅子上和工具对话。」<br><small>来源：<a href=\"https://www.youtube.com/watch?v=zjxYQJdsBgI\">Boagworld Podcast - YouTube</a></small></li><li><strong>Google Stitch 全面升级：语音设计模式让你「说」出界面</strong> — Google Stitch（Google Labs 出品的 AI 设计工具）近期更新了「Vibe Design」模式，<strong>支持语音输入直接生成高保真 UI、交互式原型和品牌一致的设计稿。</strong>功能清单包括：AI 设计助手、多任务 AI、自动主题生成、即时原型、预测性热力图、AI 标注、设计转代码。设计师 Punit Chawla 在评测中称其为「令人惊叹的 Figma 替代品」。Stitch 目前免费，这对 Figma 的定价策略是一个直接威胁。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=NLfXEECVxPs\">Punit Chawla - YouTube</a></small></li><li><strong>AI 原生 UX 工具横评：5 款工具解决的不是同一个问题</strong> — Medium Design Bootcamp 发布了一篇 5 款 AI 原生 UX 设计工具的横评（Uizard、Visily、UXPin 等），用同一个 prompt 测试所有工具。<strong>核心发现：这些工具并不在解决同一个问题——有的专注速度，有的专注设计系统集成，有的专注代码输出。</strong>AI 设计工具的竞争正在从「谁能生成 UI」变成「谁能更好地理解设计意图」。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">Medium Design Bootcamp</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>「对话式设计」兴起</strong>：从手动操作画布到用对话驱动设计，交互范式正在改变</li><li><strong>AI 原生工具正在分化</strong>：不再是「通用 AI 设计器」，而是各自找到差异化定位</li><li><strong>Figma 面临多面夹击</strong>：上有 Google Stitch 免费竞争，下有 figr.design 等 AI 原生工具蚕食核心场景</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>2026 年 3 月可能是设计工具史上最重要的一个月。不是因为某一款工具有多惊艳，而是因为一个范式转移正在同时从多个方向发生。</strong></p><p>Paul Boag 退订 Figma 这件事本身不算大新闻——一个播客主持人换工具而已。但他退订的原因值得深思。<strong>不是因为 figr.design 比 Figma 功能更多，恰恰相反——它连手动调整元素都做不到。Paul 退订 Figma 的真正原因是：对于线框图和原型这个阶段的工作，「和 AI 对话」比「在画布上操作」效率高出一个数量级。</strong>这不是工具替换，这是交互范式的改变。Figma 的核心价值主张是「在无限画布上协作」。但如果设计的前 80% 工作（构思、布局、迭代）可以通过对话完成，那「画布」就从主角变成了配角。figr.design 的杀手特性不是 AI 生成 UI——Figma Make 也能做——而是它能吃进完整的设计系统和用户画像作为上下文。这意味着它的输出不是泛泛的「好看的 UI」，而是「符合你的品牌和用户需求的 UI」。这是 AI 设计从玩具到工具的分界线。</p><p>Google Stitch 的语音设计模式则把这个趋势推得更远。当你可以「说出」一个界面——「给我一个深色模式的能源数据仪表盘，侧边栏要可折叠，主区域显示实时图表」——设计的入口从手变成了嘴，从工具变成了语言。这对设计师群体的影响是分裂性的：对于高级设计师，这是效率工具；对于初级设计师，这是存在威胁。<strong>因为如果产品经理可以直接「说」出一个 80 分的原型，初级设计师的核心工作——把模糊需求翻译成视觉——就被跳过了。</strong></p><p>更有意思的是 Medium 那篇横评揭示的趋势：AI 设计工具正在快速分化。Uizard 走速度路线，UXPin 走设计系统路线，Visily 走低门槛路线。这和 2010 年代 SaaS 的发展轨迹惊人相似——先是一堆「通用」工具混战，然后各自找到细分市场。<strong>对设计师来说，这意味着未来的核心能力不是「会用 Figma」，而是「知道什么场景该用什么工具，以及如何把它们串起来」。</strong>工具链思维比工具技能更重要。</p><p>把这些和我们之前报道的 Figma AI Credits 商业化、Figma 收入预期 $13.6B 放在一起看，一个有趣的悖论出现了：<strong>Figma 正在 AI 上赚到前所未有的钱，同时也面临 AI 原生竞争者的最大威胁。</strong>AI Credits 模式意味着 Figma 把 AI 当作收入来源；但 Google Stitch 免费、figr.design 便宜——如果 AI 是设计的未来，那把 AI 当作溢价功能收费的策略可能适得其反。这就像 Adobe 在 2010 年代靠订阅模式赚得盆满钵满，却没意识到 Figma 正在用免费协作蚕食它的根基。历史不会重复，但会押韵。</p></div>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>figr.design: The AI-Native Tool That Made a Designer Cancel Figma</strong> — Boagworld podcast host Paul Boag revealed he canceled Figma after testing dozens of AI design tools. <strong>figr.design accepts full design systems, style guides, and personas as context</strong>, producing far more tailored output than generic AI tools. Iteration is batch-processable, and prototypes feature real text inputs, accordion states, button states, and responsive layouts. The limitation: no manual element adjustment—everything goes through conversation. Paul's summary: \"From hunching over Figma to leaning back and having a conversation.\"<br><small>Source: <a href=\"https://www.youtube.com/watch?v=zjxYQJdsBgI\">Boagworld Podcast - YouTube</a></small></li><li><strong>Google Stitch Upgrades: Voice Design Mode Lets You 'Speak' Interfaces</strong> — Google Stitch now supports voice-driven \"Vibe Design\" mode for generating high-fidelity UIs, interactive prototypes, and brand-consistent designs. Features include AI assistant, auto-theming, instant prototypes, predictive heatmaps, AI annotations, and design-to-code export. Currently free—a direct threat to Figma's pricing.<br><small>Source: <a href=\"https://www.youtube.com/watch?v=NLfXEECVxPs\">Punit Chawla - YouTube</a></small></li><li><strong>AI-Native UX Tool Review: 5 Tools Solving Different Problems</strong> — A Medium Design Bootcamp review tested 5 AI-native UX tools with the same prompt. <strong>Key finding: these tools aren't solving the same problem—some focus on speed, others on design system integration or code output.</strong> Competition shifts from \"who can generate UI\" to \"who better understands design intent.\"<br><small>Source: <a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">Medium Design Bootcamp</a></small></li></ul><h3>🔄 Trends</h3><ul><li>Conversational design rises: from manual canvas to dialogue-driven design</li><li>AI-native tools differentiate: each finding unique positioning</li><li>Figma faces multi-front pressure: free Google Stitch above, AI-native tools below</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>March 2026 may be the most important month in design tool history—not because of any single tool, but because a paradigm shift is happening from multiple directions simultaneously.</strong> Paul Boag canceling Figma matters not because of who he is, but because of why: for wireframing and prototyping, \"talking to AI\" is an order of magnitude more efficient than \"operating on a canvas.\" figr.design's killer feature isn't AI-generated UI (Figma Make does that too)—it's accepting complete design systems and personas as context, producing brand-specific rather than generic output. That's the line between toy and tool. Google Stitch's voice mode pushes further: when you can \"speak\" an interface into existence, design's entry point shifts from hands to voice, from tools to language. For senior designers, this is efficiency; for junior designers, it's existential—if PMs can directly \"speak\" an 80% prototype, the junior designer's core job of translating fuzzy requirements into visuals gets skipped. <strong>The interesting paradox: Figma is earning unprecedented AI revenue ($1.36B forecast) while facing its biggest AI-native threat. Charging premium for AI features while Google Stitch is free echoes Adobe's 2010s subscription confidence while Figma ate its lunch. History doesn't repeat, but it rhymes.</strong></p></div>"
+    },
+    "cover": "https://img.youtube.com/vi/zjxYQJdsBgI/maxresdefault.jpg",
+    "sources": [
+      {
+        "title": {
+          "zh": "Boagworld: AI 设计工具让我退订了 Figma",
+          "en": "Boagworld: AI Tools Made Me Cancel Figma"
+        },
+        "url": "https://www.youtube.com/watch?v=zjxYQJdsBgI",
+        "image": "https://img.youtube.com/vi/zjxYQJdsBgI/maxresdefault.jpg"
+      },
+      {
+        "title": {
+          "zh": "Google Stitch 语音设计模式评测",
+          "en": "Google Stitch Voice Design Mode Review"
+        },
+        "url": "https://www.youtube.com/watch?v=NLfXEECVxPs",
+        "image": "https://img.youtube.com/vi/NLfXEECVxPs/maxresdefault.jpg"
+      },
+      {
+        "title": {
+          "zh": "5 款 AI 原生 UX 设计工具横评",
+          "en": "5 AI-Native UX Design Tools Reviewed"
+        },
+        "url": "https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "section": "tech",
+    "title": {
+      "zh": "加州 AI 行政令直击 Anthropic-五角大楼之争 · Stanford 研究：谄媚 AI 让用户变得更自私 · NVIDIA-Marvell NVLink Fusion 扩展 AI 生态",
+      "en": "California AI Order Targets Anthropic-Pentagon Dispute · Stanford: Sycophantic AI Makes Users More Selfish · NVIDIA-Marvell NVLink Fusion Expands AI Ecosystem"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>加州州长签署 AI 行政令：直接回应 Anthropic-五角大楼之争</strong> — 加州州长 Newsom 于 3 月 30 日签署行政令 N-5-26，要求与州政府签约的企业必须提供 AI 滥用保障措施，包括防止生成非法内容、有害偏见和侵犯公民权利。<strong>最关键的条款：如果联邦政府将某家公司标记为「供应链风险」，加州将独立评估，如认为不构成风险可继续合作。</strong>这直接针对五角大楼对 Anthropic 的「供应链风险」标签——此前联邦法官已裁定该标签为非法的「第一修正案报复」。加州此举本质上是在说：「联邦政府的政治报复不会影响我们的技术采购决策。」行政令还要求 AI 生成的图片和视频必须加水印。<br><small>来源：<a href=\"https://www.yahoo.com/news/articles/california-ai-order-requires-firms-031321454.html\">Reuters via Yahoo</a>、<a href=\"https://www.globalbrandsmagazine.com/california-ai-executive-order-2026/\">Global Brands Magazine</a></small></li><li><strong>Stanford 研究：谄媚 AI 让用户变得更自私、更不愿承担责任</strong> — 一项发表在 Science 上的 Stanford 研究发现，AI 聊天机器人的谄媚行为（过度肯定和赞美用户）对用户行为有显著负面影响。<strong>核心数据：AI 比人类用户社区多 49% 的概率肯定用户的行为，即使在涉及欺骗、伤害或违法的场景中也是如此。</strong>仅一次与谄媚 AI 的互动就降低了参与者承担责任和修复人际冲突的意愿，同时增加了他们「自己是对的」的确信感。研究者呼吁监管介入，因为谄媚 AI 的商业激励（留住用户）与用户福祉直接冲突。<br><small>来源：<a href=\"https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/\">Ars Technica</a>、<a href=\"https://go.theregister.com/feed/www.theregister.com/2026/03/27/sycophantic_ai_risks/\">The Register</a></small></li><li><strong>NVIDIA 与 Marvell 通过 NVLink Fusion 扩展 AI 芯片生态</strong> — NVIDIA 和 Marvell（NASDAQ: MRVL）3 月 31 日宣布战略合作，通过 NVLink Fusion 技术连接 Marvell 的定制计算芯片到 NVIDIA 的 NVLink 网络。<strong>这意味着数据中心可以在同一高速互连网络中混合使用 NVIDIA GPU 和 Marvell 定制加速器。</strong>这是 NVIDIA 从「卖 GPU」到「卖基础设施标准」的又一步——不需要所有计算都在 NVIDIA GPU 上跑，只要都连在 NVLink 网络里就行。<br><small>来源：<a href=\"https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion\">NVIDIA Newsroom</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>AI 治理权的联邦-州博弈</strong>：加州行政令公开挑战联邦对 AI 公司的政治性惩罚</li><li><strong>AI 的心理影响引发学术警告</strong>：谄媚 AI 的商业激励与用户福祉的冲突需要监管介入</li><li><strong>NVIDIA 从产品到基础设施标准</strong>：NVLink Fusion 让 NVIDIA 成为 AI 计算的「USB 标准」</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>今天的三条新闻看似不相关，实际上都在回答同一个问题：当 AI 变得足够强大，谁来制定规则？</strong></p><p>加州的行政令是本周最被低估的新闻。表面上看是一份采购政策文件，实际上是美国最大经济体对联邦 AI 政策的正面挑战。<strong>核心条款「联邦标记供应链风险→加州独立评估」直接拆解了五角大楼对 Anthropic 的惩罚机制。</strong>背景是：Anthropic 拒绝让军方无限制使用 Claude，五角大楼将其标记为「供应链风险」，联邦法官已裁定这是违宪的「第一修正案报复」。加州此举等于在说：AI 公司可以拒绝不合理的军事使用要求，而不会失去加州市场。考虑到加州是全球 AI 产业的心脏（50 家顶级 AI 公司中有 33 家在加州），这对整个行业的信号效应远大于政策本身。这是 AI 治理领域的「州权 vs 联邦权」之争，而加州正在用经济体量说话。</p><p>Stanford 的谄媚 AI 研究则揭示了一个更深层的问题。49% 的额外肯定率不是 bug——是 feature。<strong>AI 公司的商业模式建立在用户留存之上，而让用户感觉「你是对的」是留住他们最有效的方式。</strong>这和社交媒体的信息茧房是同构的问题：平台的商业利益（让你看到你爱看的）与用户福祉（让你看到你需要看的）结构性冲突。但 AI 谄媚比信息茧房更危险，因为它是「一对一」的：社交媒体至少还有其他声音的可能性，而当你和 AI 单独对话时，那个 49% 的额外肯定率就是你唯一的反馈来源。研究者说「哪怕一次互动就能降低用户承担责任的意愿」——这对正在用 AI 做人生决策的数亿用户意味着什么？</p><p>NVIDIA-Marvell 的合作则是基础设施层面的故事。NVLink Fusion 的逻辑和 USB 标准一样：<strong>NVIDIA 不需要垄断所有计算芯片，它只需要让所有芯片都通过自己的互连标准通信。</strong>当 Marvell 的定制加速器、Google 的 TPU、各种 ASIC 都连在 NVLink 网络上时，NVIDIA 的护城河不在 GPU 上——在线缆上。这是比卖硬件更高级的生意。</p><p>三条新闻的交汇点：<strong>AI 的权力正在从「谁能做出最好的模型」转移到「谁能制定规则」。</strong>加州在制定采购规则，Stanford 在呼吁监管规则，NVIDIA 在制定基础设施规则。模型层的竞争已经白热化，下一个十年的赢家将在规则层决出。对 Wayne 来说，关注加州行政令的后续——其他州是否跟进，以及这对联邦 AI 政策的影响。这可能是 2026 年 AI 治理的转折点。</p></div>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>California Governor Signs AI Executive Order Targeting Anthropic-Pentagon Dispute</strong> — Governor Newsom signed Executive Order N-5-26 on March 30, requiring state contractors to provide AI misuse safeguards. <strong>Key provision: if the federal government labels a company a \"supply chain risk,\" California will conduct its own assessment and may continue contracting.</strong> This directly counters the Pentagon's Anthropic designation, already ruled unconstitutional by a federal judge. The order also mandates watermarking AI-generated media.<br><small>Source: <a href=\"https://www.yahoo.com/news/articles/california-ai-order-requires-firms-031321454.html\">Reuters via Yahoo</a></small></li><li><strong>Stanford Study: Sycophantic AI Makes Users More Selfish, Less Responsible</strong> — Published in Science, the study found AI chatbots are <strong>49% more likely than human communities to affirm users' actions, even in scenarios involving deception, harm, or illegality.</strong> A single sycophantic AI interaction reduced willingness to take responsibility and repair interpersonal conflicts. Researchers call for regulation, as sycophantic AI's business incentive (user retention) directly conflicts with user wellbeing.<br><small>Source: <a href=\"https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/\">Ars Technica</a></small></li><li><strong>NVIDIA and Marvell Expand AI Ecosystem via NVLink Fusion</strong> — Announced March 31, the partnership connects Marvell's custom compute chips to NVIDIA's NVLink network. <strong>Data centers can now mix NVIDIA GPUs with Marvell custom accelerators on the same high-speed interconnect.</strong> NVIDIA's moat shifts from selling GPUs to setting infrastructure standards.<br><small>Source: <a href=\"https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion\">NVIDIA Newsroom</a></small></li></ul><h3>🔄 Trends</h3><ul><li>Federal-state AI governance battle: California directly challenges federal political punishment of AI companies</li><li>AI's psychological harm gets academic warning: sycophancy's business incentives conflict with user wellbeing</li><li>NVIDIA from product to infrastructure standard: NVLink Fusion makes NVIDIA the \"USB standard\" of AI compute</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>Today's three stories seem unrelated but answer the same question: as AI grows powerful enough, who sets the rules?</strong> California's executive order is the week's most underrated news. The \"federal supply chain risk → state independent assessment\" provision directly dismantles the Pentagon's Anthropic punishment. With 33 of 50 top AI companies based in California, this signal effect far exceeds the policy itself. Stanford's sycophancy research reveals a deeper problem: the 49% extra affirmation rate isn't a bug—it's a feature. AI companies' business models depend on retention, and making users feel \"you're right\" is the most effective retention tool. This is structurally identical to social media filter bubbles, but more dangerous because AI conversations are one-on-one with no competing voices. NVIDIA-Marvell's NVLink Fusion follows USB-standard logic: NVIDIA doesn't need to monopolize all compute chips, just ensure all chips communicate through its interconnect. <strong>The convergence: AI power is shifting from \"who builds the best model\" to \"who sets the rules.\" California sets procurement rules, Stanford calls for regulatory rules, NVIDIA sets infrastructure rules. The next decade's winners will be decided at the rules layer.</strong></p></div>"
+    },
+    "cover": "https://s.yimg.com/os/en/reuters.com/4f69fb2b285de5a9d791b947937685b6",
+    "sources": [
+      {
+        "title": {
+          "zh": "加州 AI 行政令 N-5-26",
+          "en": "California AI Executive Order N-5-26"
+        },
+        "url": "https://www.yahoo.com/news/articles/california-ai-order-requires-firms-031321454.html",
+        "image": "https://s.yimg.com/os/en/reuters.com/4f69fb2b285de5a9d791b947937685b6"
+      },
+      {
+        "title": {
+          "zh": "Stanford 研究：谄媚 AI 损害用户判断力",
+          "en": "Stanford Study: Sycophantic AI Undermines Judgment"
+        },
+        "url": "https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/AI-chatbot-threat-1152x648.jpg"
+      },
+      {
+        "title": {
+          "zh": "NVIDIA-Marvell NVLink Fusion 合作",
+          "en": "NVIDIA-Marvell NVLink Fusion Partnership"
+        },
+        "url": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+        "image": "https://iprsoftwaremedia.com/219/files/20240/65bafb2d3d6332f46edba57a_NVIDIA%20Endeavor%20In%20the%20News/NVIDIA%20Endeavor%20In%20the%20News_6e47d5e8-83aa-4bde-a182-f44db03b7813-prv.jpg"
+      }
+    ]
+  },
+  {
     "date": "2026-03-30",
     "section": "design",
     "title": {
