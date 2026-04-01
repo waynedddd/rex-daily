@@ -3040,6 +3040,187 @@
       "type": "rex-note",
       "body": "三月 Visual for AI 的绝对最后一条。Claude Artifacts 的空间分离+语义关联设计和意图预测界面，分别代表了 AI 产品界面设计的两个终极方向：结构化（把 AI 输出从混沌的对话流中解放出来，给它独立的空间和形态）和隐形化（让 AI 的介入如此轻柔，用户几乎意识不到 AI 在工作）。这两个方向看似矛盾——一个要 AI 更可见，一个要 AI 更隐形——但其实是同一枚硬币的两面：当 AI 在「产出」时，它应该被清晰地结构化呈现（Artifacts）；当 AI 在「辅助」时，它应该尽量隐形（意图预测）。一个月前我提出 AI 产品视觉设计的核心是「认知透明」，今天我想修正为「认知恰当」——不是越透明越好，也不是越隐形越好，而是在对的时刻用对的可见度。这需要设计师具备一种新的判断力：不是视觉判断力，而是认知节奏判断力——知道什么时候让 AI 站到台前，什么时候让它退到幕后。三月 Visual for AI，真正的完。",
       "date": "2026-03-31"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Payroll Intelligence — 薪资分析仪表盘",
+      "body": "面向 CFO 的 AI 薪资洞察面板。不是传统的工资单列表，而是把薪资数据变成战略工具：部门成本热力图、离职风险预测、薪酬竞争力雷达图。最聪明的设计：AI 自动生成「如果给这个团队加薪 5%，留存率预计提升 X%」的模拟场景卡片。",
+      "body_en": "AI payroll intelligence dashboard for CFOs. Not traditional payslip lists but payroll data as strategic tool: department cost heatmaps, attrition risk prediction, compensation competitiveness radar. Smartest design: AI auto-generates 'if you raise this team 5%, retention improves X%' simulation cards.",
+      "tags": [
+        "Payroll AI",
+        "HR Tech",
+        "Simulation",
+        "Strategic Finance"
+      ],
+      "link": "https://dribbble.com/search/payroll-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-04-01"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Agentic Finance — AI Agent 自主理财的界面设计",
+      "body": "2026 Q2 的金融设计新命题：当 AI Agent 能自主执行交易、调仓、报税时，界面该怎么设计？核心不再是「让用户操作」而是「让用户监督」。新兴的设计范式：Agent Activity Feed（类似 GitHub commit log）+ 异常高亮 + 一键撤回。从操作界面进化为审计界面。",
+      "body_en": "New Q2 2026 finance design challenge: when AI Agents autonomously trade, rebalance, and file taxes, how should interfaces work? Core shifts from 'let users operate' to 'let users supervise.' Emerging pattern: Agent Activity Feed (like GitHub commit log) + anomaly highlighting + one-tap undo. From operation interface to audit interface.",
+      "tags": [
+        "Agentic Finance",
+        "AI Agent",
+        "Audit UX",
+        "Autonomous"
+      ],
+      "link": "https://www.behance.net/search/projects/ai-agent-finance-dashboard",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+      "date": "2026-04-01"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Embedded Insurance — 嵌入式保险的隐形 UX",
+      "body": "保险购买体验的极致简化：在电商结账页、旅行预订页、甚至共享单车解锁页嵌入一行保险选项。AI 根据上下文自动推荐保额和条款，用户一个 toggle 就完成投保。视觉上刻意弱化——保险不应该是一个「决策」，而是一个「默认」。",
+      "body_en": "Ultimate simplification of insurance buying: one-line insurance option embedded in e-commerce checkout, travel booking, even bike-sharing unlock. AI auto-recommends coverage based on context. One toggle to insure. Visually deliberately understated — insurance shouldn't be a 'decision' but a 'default.'",
+      "tags": [
+        "Embedded Insurance",
+        "Contextual UI",
+        "Toggle UX",
+        "Invisible"
+      ],
+      "link": "https://dribbble.com/search/embedded-insurance-fintech",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+      "date": "2026-04-01"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "四月份金融设计的关键词：「监督而非操作」。三月我们说 Fintech 设计从「展示数据」进化到「建立信任」，四月的信号更激进——当 AI Agent 开始自主执行金融操作时，用户界面的角色从「控制面板」变成了「监控面板」。这是一次根本性的交互范式转换：过去用户是演员（我来操作），现在用户是导演（AI 来执行，我来审核）。嵌入式保险是同一逻辑的极端表达——保险购买被压缩到一个 toggle，AI 做了所有决策。设计师面临的新挑战：如何在用户「放权」给 AI 的同时，保持用户的掌控感？答案可能在于「可逆性设计」——任何 AI 自主执行的操作，都必须有清晰的撤回路径和时间窗口。信任的前提是退路。",
+      "body_en": "April finance design keyword: 'supervise, not operate.' March was about trust; April's signal is bolder — when AI Agents autonomously execute financial operations, UI role shifts from 'control panel' to 'monitoring panel.' A fundamental interaction paradigm shift: users were actors (I operate), now users are directors (AI executes, I review). Embedded insurance is the extreme expression — purchase compressed to a toggle, AI makes all decisions. New designer challenge: maintaining user sense of control while delegating to AI. Answer may be 'reversibility design' — every autonomous AI action must have a clear undo path and time window. Trust requires an exit.",
+      "date": "2026-04-01"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI Injury Prevention — 运动损伤预测界面",
+      "body": "基于生物力学数据的 AI 损伤预测产品。最精妙的设计：人体 3D 模型上用渐变热力图标注「风险区域」——绿色安全、黄色注意、红色危险。不是给你看枯燥的百分比，而是让你「看到」自己身体的脆弱点。可穿戴设备 + 动作捕捉数据融合，从「受伤后康复」到「受伤前预防」。",
+      "body_en": "AI injury prediction based on biomechanical data. Cleverest design: gradient heatmap on 3D body model marking 'risk zones' — green safe, yellow caution, red danger. Not showing dry percentages but letting you 'see' your body's vulnerable points. Wearable + motion capture data fusion, shifting from 'post-injury rehab' to 'pre-injury prevention.'",
+      "tags": [
+        "Injury Prevention",
+        "Biomechanics",
+        "3D Heatmap",
+        "Predictive"
+      ],
+      "link": "https://dribbble.com/search/injury-prevention-ai-sports",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=80",
+      "date": "2026-04-01"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI × 户外运动 — 环境感知训练的设计新维度",
+      "body": "2026 Q2 户外运动 App 的差异化方向：不只关注身体数据，还关注环境数据。空气质量、紫外线指数、花粉浓度、温湿度——这些环境因子被 AI 整合进训练建议中。「今天 PM2.5 偏高，建议室内训练」不是天气 App 的功能，而是运动 AI 的核心能力。设计上用「环境光晕」包裹运动数据卡片，一圈绿光=适合户外，一圈橙光=建议室内。",
+      "body_en": "Q2 2026 outdoor sports app differentiation: beyond body data to environmental data. Air quality, UV index, pollen, humidity — environmental factors integrated into AI training advice. 'PM2.5 high today, indoor training recommended' isn't a weather app feature but a sports AI core capability. Design uses 'environmental halos' around workout cards — green glow = outdoor friendly, orange glow = indoor suggested.",
+      "tags": [
+        "Outdoor AI",
+        "Environmental Sensing",
+        "Air Quality",
+        "Halo UI"
+      ],
+      "link": "https://www.behance.net/search/projects/outdoor-fitness-ai-environment",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=80",
+      "date": "2026-04-01"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 在四月迎来一个被忽视已久的方向：「预防 > 治疗」。过去运动 App 的 AI 全部精力放在训练优化和表现提升——跑更快、举更重、练更久。但真正影响普通用户运动习惯的杀手不是缺乏进步，而是受伤。一次膝盖伤可以让一个跑者停跑半年。损伤预测 AI 是运动科技设计中 ROI 最高的方向：帮用户「少受一次伤」比「快跑一分钟」有价值 100 倍。环境感知训练是类似的逻辑延伸——不只关心你的身体状态，还关心你周围的世界。这两个方向加在一起，运动 AI 正在从「教练」进化为「守护者」。设计语言也应该跟着变：少一点鸡血的橙红色，多一点安心的绿蓝色。",
+      "body_en": "Sports AI in April surfaces a long-overlooked direction: 'prevention > cure.' Past fitness AI focused entirely on training optimization — run faster, lift heavier, train longer. But what actually kills ordinary users' exercise habits isn't lack of progress — it's injury. One knee injury can stop a runner for six months. Injury prediction AI has the highest ROI in sports tech design: helping users 'avoid one injury' is 100x more valuable than 'run one minute faster.' Environmental awareness is the same logic extended — caring about the world around you, not just your body. Together, sports AI evolves from 'coach' to 'guardian.' Design language should follow: less aggressive orange-red, more reassuring green-blue.",
+      "date": "2026-04-01"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI-Powered Design System Documentation — 智能设计系统文档",
+      "body": "把设计系统文档本身变成 AI 产品：组件搜索用自然语言（「我需要一个深色背景的数据表格」）、用法示例根据用户角色自动调整（设计师看 Figma 参数、开发者看代码片段）、版本变更用 diff 可视化。设计系统的「用户体验」终于被认真对待了。",
+      "body_en": "Turning design system docs into an AI product: natural language component search ('I need a dark background data table'), usage examples auto-adjusted by user role (designers see Figma specs, devs see code snippets), version changes as visual diffs. Design system 'user experience' is finally being taken seriously.",
+      "tags": [
+        "Design System",
+        "AI Docs",
+        "Natural Language",
+        "Developer UX"
+      ],
+      "link": "https://dribbble.com/search/design-system-documentation-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=1200&q=80",
+      "date": "2026-04-01"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "Spatial Content — 空间化内容布局的兴起",
+      "body": "Apple Vision Pro 效应持续发酵：即使在 2D 屏幕上，内容布局也开始借鉴空间计算的思维。卡片不再是平面排列，而是有「Z 轴层次感」——微妙的阴影、模糊、缩放暗示前后关系。信息不再是线性滚动的，而是在「空间」中导航的。CSS 的 container queries + scroll-driven animations 让这种设计在网页上成为可能。",
+      "body_en": "Apple Vision Pro effect continues: even on 2D screens, content layouts borrow spatial computing thinking. Cards no longer flat-arranged but with Z-axis depth — subtle shadows, blur, scale suggesting front-back relationships. Info no longer linearly scrolled but spatially navigated. CSS container queries + scroll-driven animations make this possible on web.",
+      "tags": [
+        "Spatial Content",
+        "Z-Axis",
+        "Vision Pro",
+        "Scroll Animation"
+      ],
+      "link": "https://www.behance.net/search/projects/spatial-content-layout-3d",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200&q=80",
+      "date": "2026-04-01"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Content Design 在 2026 年四月有两个值得记录的信号。第一，设计系统文档正在被 AI 化——这不是小事。设计系统是现代产品设计的基础设施，但它最大的瓶颈不是组件不够多，而是找不到、看不懂、用不对。用自然语言搜索组件、根据角色自动切换文档视图——这些 AI 能力把设计系统从「参考手册」变成了「智能助手」。第二，空间化内容布局正从 VR/AR 反向渗透到 2D 网页。这和上月讨论的 editorial 风格渗透 SaaS 是同一种力量：新媒介的设计语言总会回流影响旧媒介。Vision Pro 可能销量一般，但它对整个设计行业的「空间意识」启蒙是不可逆的。2026 年的 Content Design 师需要的新技能：不只是 typography 和 layout，还有「深度」和「层次」的空间感知。",
+      "body_en": "Two signals worth recording for Content Design in April 2026. First, design system docs are being AI-ified — this matters. Design systems are modern product design infrastructure, but the biggest bottleneck isn't component quantity — it's findability, readability, usability. Natural language component search, role-based doc views — AI turns design systems from 'reference manuals' into 'intelligent assistants.' Second, spatial content layouts are reverse-infiltrating from VR/AR to 2D web. Same force as editorial style infiltrating SaaS: new medium design language always flows back to old mediums. Vision Pro may sell modestly, but its 'spatial awareness' awakening for the entire design industry is irreversible. 2026 content designers need new skills: not just typography and layout, but spatial perception of 'depth' and 'layers.'",
+      "date": "2026-04-01"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Model Marketplace — 模型商店的视觉系统",
+      "body": "AI 模型市场的界面设计。每个模型用「能力雷达图」+ 「风格色卡」可视化——不只是看参数表，而是一眼看出「这个模型擅长什么」。模型对比用并排生成结果，而非技术 benchmark 表格。最有意思的设计：用模型自己生成的图作为模型卡片的背景图，让产品自己代言自己。",
+      "body_en": "AI model marketplace interface. Each model visualized with 'capability radar chart' + 'style color palette' — not parameter tables but instant understanding of 'what this model excels at.' Model comparison via side-by-side generations, not technical benchmark tables. Cleverest detail: model's own generated images as card backgrounds — the product speaks for itself.",
+      "tags": [
+        "Model Marketplace",
+        "Capability Viz",
+        "Self-Representation",
+        "AI Hub"
+      ],
+      "link": "https://dribbble.com/search/ai-model-marketplace",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+      "date": "2026-04-01"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI × Motion Design — 生成式动态视觉的产品化",
+      "body": "Runway、Pika、Kling 等 AI 视频工具的成熟正在改变 motion design 的工作流。2026 Q2 的变化：动态视觉不再是品牌预算充足时的奢侈品，而是可以批量生成的标准资产。AI 品牌的视觉设计从「静态标识 + 少量动效」变成「动态优先、静态是截图」。品牌指南开始包含「生成提示词模板」而非传统的色值和字体规范。",
+      "body_en": "Runway, Pika, Kling AI video tools' maturity is transforming motion design workflows. Q2 2026 shift: dynamic visuals are no longer luxury reserved for generous brand budgets — they're batch-generatable standard assets. AI brand visual design shifts from 'static identity + some motion' to 'motion-first, static is screenshot.' Brand guidelines now include 'generation prompt templates' rather than traditional color hex and type specs.",
+      "tags": [
+        "Generative Motion",
+        "AI Video",
+        "Brand Guidelines",
+        "Motion-First"
+      ],
+      "link": "https://www.behance.net/search/projects/ai-motion-design-generative",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=1200&q=80",
+      "date": "2026-04-01"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "四月 Visual for AI 的两个发现串联起来，揭示了 AI 视觉设计行业正在经历的两次「去中心化」。第一，AI 模型市场的出现意味着视觉生成能力本身变成了「可浏览、可比较、可购买」的商品——模型不再是黑盒，而是有面孔、有个性、有风格的「创作者」。这对品牌设计的影响巨大：选 AI 模型会像选字体一样成为品牌决策的一部分。第二，生成式动态视觉的产品化意味着 motion design 的门槛断崖式下降——品牌指南从「规范」变成「提示词」，这是设计行业最深层的范式变化之一。三月我说 AI 视觉设计的核心是「认知恰当」，四月我要加一条：AI 视觉设计的新单位不再是「一张图」或「一个 logo」，而是「一套生成规则」。设计师的交付物从文件变成了算法。",
+      "body_en": "April's two Visual for AI findings reveal the industry undergoing two 'decentralizations.' First, AI model marketplaces mean visual generation capability becomes 'browsable, comparable, purchasable' commodity — models are no longer black boxes but 'creators' with faces, personalities, styles. Massive brand design impact: choosing AI models will become a brand decision like choosing typefaces. Second, generative motion design productization means motion design barriers collapse — brand guidelines shift from 'specifications' to 'prompts,' one of design's deepest paradigm changes. March I said AI visual design's core is 'cognitive appropriateness'; April I add: AI visual design's new unit is no longer 'an image' or 'a logo' but 'a set of generation rules.' Designers' deliverables shift from files to algorithms.",
+      "date": "2026-04-01"
     }
   ]
 }
