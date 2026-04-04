@@ -3617,6 +3617,238 @@
       "body": "四月 Visual for AI 的三个发现串联起来，描绘了一个 AI 界面设计的「维度升级」路径：从 2D 屏幕到 3D 空间（空间界面）、从单体到生态（Agent 星图）、从即时到持续（记忆界面）。每一步都在增加一个设计维度——空间、规模、时间。这对 AI 视觉设计师意味着什么？传统的 UI 技能（布局、色彩、组件）只是入场券，真正的竞争力在于「系统思维」：如何在空间中组织信息流、如何可视化复杂系统的涌现行为、如何让时间维度的信息可操作。Agent 星图的天文学隐喻特别值得关注——它暗示了一个趋势：当技术系统复杂到一定程度，设计师会回到自然界寻找视觉隐喻。星图、河流、生态系统、神经网络——最好的系统可视化都是从自然中借来的形态。AI 设计的下一步不是更炫酷的 UI，而是更深刻的隐喻。",
       "body_en": "Three April Visual for AI findings describe an AI interface design 'dimension upgrade' path: from 2D screen to 3D space (spatial interface), single to ecosystem (Agent star chart), instant to persistent (memory interface). Each step adds a design dimension — space, scale, time. For AI visual designers: traditional UI skills (layout, color, components) are just entry tickets. Real competitiveness lies in 'systems thinking': organizing information flow in space, visualizing complex system emergence, making temporal information actionable. The star chart astronomy metaphor is especially notable — when tech systems reach sufficient complexity, designers return to nature for visual metaphors. Star charts, rivers, ecosystems, neural networks — the best system visualizations are borrowed natural forms. AI design's next step isn't cooler UI but deeper metaphors.",
       "date": "2026-04-03"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 合规自动化 — 设计师也要懂监管了",
+      "body": "2026 年 Q2 Fintech 设计的新变量：全球 AI 金融监管加速落地（EU AI Act 金融条款、中国《生成式 AI 金融应用管理办法》）。设计影响是直接的——每个 AI 生成的投资建议旁边必须有「AI 生成」标签、风险评级可视化、以及一键触达人工客服的出口。合规不再是法务的事，它正在成为 UI 的一部分。",
+      "body_en": "New variable in Q2 2026 fintech design: global AI financial regulation accelerates (EU AI Act finance clauses, China's 'Generative AI Financial Application Management Measures'). Design impact is direct — every AI-generated investment suggestion needs an 'AI Generated' label, risk rating visualization, and one-tap human support escape hatch. Compliance is no longer legal's job — it's becoming part of the UI.",
+      "tags": [
+        "Compliance UI",
+        "Regulation",
+        "AI Label",
+        "Fintech"
+      ],
+      "link": "https://www.behance.net/search/projects/fintech%20compliance%20AI%20dashboard",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 税务规划界面 — 复杂变简单的设计典范",
+      "body": "税务规划是金融设计中最难做的品类之一——规则复杂、因人而异、后果严重。2026 年出现的 AI 税务 App 用「场景卡片」替代了传统表单：不问你「应税收入」而是问「你今年卖过股票吗」。AI 在后台翻译成税务语言，前台保持人话。进度条用绿色渐变表达「你离最优方案还有多远」。",
+      "body_en": "Tax planning is one of the hardest financial design categories — complex rules, highly personal, serious consequences. 2026 AI tax apps replace traditional forms with 'scenario cards': instead of asking 'taxable income,' they ask 'did you sell stocks this year?' AI translates to tax language in the background, keeping the frontend in human speak. Green gradient progress bars show 'how far from optimal.'",
+      "tags": [
+        "Tax Planning",
+        "Scenario Cards",
+        "Simplification",
+        "AI Translation"
+      ],
+      "link": "https://dribbble.com/search/ai-tax-planning-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1554224154-22dec7ec8818?w=1200&q=80",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Multi-Asset Portfolio — AI 资产配置的「光谱」设计",
+      "body": "传统饼图展示资产配置已经过时。新一代 AI 财富管理界面用「光谱条」（spectrum bar）替代——连续渐变色带表达从保守到激进的风险分布，用户可以直接拖拽调整风险偏好，AI 实时重新计算推荐组合。比饼图信息密度高，比数字表格直觉强。",
+      "body_en": "Traditional pie charts for asset allocation are outdated. Next-gen AI wealth management uses 'spectrum bars' — continuous gradient bands expressing conservative-to-aggressive risk distribution. Users drag to adjust risk preference, AI recalculates recommendations in real-time. Higher info density than pie charts, more intuitive than number tables.",
+      "tags": [
+        "Portfolio Viz",
+        "Spectrum UI",
+        "Risk Design",
+        "Interactive"
+      ],
+      "link": "https://dribbble.com/search/portfolio-asset-allocation-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "金融设计在四月初的一个关键转折：AI 监管从「可能来」变成「已经来了」。这对设计的影响比大多数人想象的大——不是在界面上加个 disclaimer 那么简单。合规可视化正在催生一个全新的设计子领域：如何让「AI 生成」的标签不破坏用户信任？如何让风险评级既合规又不吓跑用户？税务 App 的「场景卡片」设计给了一个漂亮的答案：把合规要求翻译成用户价值。不是「我们被要求告诉你这是 AI 生成的」，而是「AI 帮你翻译了复杂的税务规则」。合规设计的最高境界：让用户感觉被保护，而非被警告。光谱式资产配置 UI 也是同一逻辑——把「你承担了多少风险」从一个令人焦虑的数字变成一个可操控的渐变色带，焦虑感瞬间降低。",
+      "body_en": "A key turning point in early April financial design: AI regulation shifted from 'might come' to 'already here.' Design impact is bigger than most expect — not just adding a disclaimer. Compliance visualization is spawning an entirely new design subdomain: how to make 'AI Generated' labels not erode trust? How to make risk ratings both compliant and non-scary? Tax app 'scenario cards' offer an elegant answer: translate compliance requirements into user value. Not 'we're required to tell you this is AI-generated' but 'AI translated complex tax rules for you.' Compliance design's highest form: making users feel protected, not warned. Spectrum asset allocation UI follows the same logic — turning 'how much risk you bear' from an anxiety-inducing number into a manipulable gradient band.",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 团体课程 — 群体心率同步可视化",
+      "body": "2026 年健身房大屏的新标配：AI 驱动的团体课程实时数据墙。所有学员心率以匿名色块同步展示，教练 AI 根据群体疲劳度动态调整课程强度。最聪明的设计：用「潮汐图」替代柱状图——所有人的心率汇成一条波浪线，高潮和低谷一目了然。让个人数据融入集体叙事。",
+      "body_en": "New gym standard in 2026: AI-driven group class real-time data wall. All participants' heart rates shown as anonymized color blocks in sync. Coach AI dynamically adjusts intensity based on group fatigue. Cleverest design: 'tide chart' replacing bar graphs — everyone's heart rate merges into one wave line, peaks and valleys instantly visible. Personal data melting into collective narrative.",
+      "tags": [
+        "Group Fitness",
+        "Heart Rate Sync",
+        "Tide Chart",
+        "Gym Tech"
+      ],
+      "link": "https://dribbble.com/search/group-fitness-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=1200&q=80",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动心理教练 — 从身体到心理的设计扩展",
+      "body": "运动 AI 的下一个前沿不在肌肉而在心理。2026 年 Q2 出现了一批「运动心理 AI」产品——赛前焦虑管理、训练倦怠检测、竞技状态预测。设计语言从运动 App 的「数据+激励」转向心理健康 App 的「柔和+安全」。最大的设计挑战：如何在同一个 App 里让用户在「鸡血模式」和「疗愈模式」之间无缝切换？",
+      "body_en": "Sports AI's next frontier isn't muscles but minds. Q2 2026 sees a wave of 'sports psychology AI' products — pre-competition anxiety management, training burnout detection, competitive state prediction. Design language shifts from fitness apps' 'data+motivation' to mental health apps' 'soft+safe.' Biggest design challenge: seamless switching between 'pump-up mode' and 'healing mode' within one app.",
+      "tags": [
+        "Sports Psychology",
+        "Mental Health",
+        "Mode Switching",
+        "Emotional AI"
+      ],
+      "link": "https://www.behance.net/search/projects/sports%20mental%20health%20AI%20app",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=80",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动处方 — 医疗级健身的界面设计",
+      "body": "当运动从「健身」走向「医疗」，设计标准也在升级。AI 运动处方 App 为慢性病患者定制运动方案——糖尿病患者的血糖安全区运动强度、心脏病患者的心率天花板标记。界面设计介于健身 App 和医疗 App 之间：既要有运动感（不能像看病），又要有专业感（不能像玩）。医疗级配色 = 低饱和蓝绿 + 关键警告用琥珀色。",
+      "body_en": "When fitness becomes medical, design standards upgrade. AI exercise prescription apps customize plans for chronic disease patients — glucose-safe exercise zones for diabetics, heart rate ceiling markers for cardiac patients. Interface design sits between fitness and medical apps: athletic feel (not clinical) yet professional (not playful). Medical-grade palette = desaturated teal + amber for critical alerts.",
+      "tags": [
+        "Exercise Prescription",
+        "Medical Fitness",
+        "Chronic Disease",
+        "Safety UI"
+      ],
+      "link": "https://dribbble.com/search/medical-fitness-ai-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=80",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 设计在四月有了一个重要的方向性分裂：一边在往「社交娱乐」走（团体课心率同步、运动搭子匹配），另一边在往「医疗严肃」走（运动处方、心理干预）。这两个方向对设计的要求几乎相反——社交方向要热闹、要多巴胺、要分享冲动；医疗方向要安静、要信任、要隐私保护。但它们共享一个底层洞察：运动的终极目标不是「更快更强」，而是「更好地活着」。团体课心率的「潮汐图」是我本月看到最有启发的运动数据可视化——它解决了一个老问题：如何在群体场景中展示个人数据而不引发比较焦虑？答案是溶解个体性，让每个人的心率成为集体波浪的一部分。这个设计理念可以迁移到很多领域：教育、团队协作、公共健康。",
+      "body_en": "Sports AI design shows an important directional split in April: one path toward 'social entertainment' (group HR sync, workout buddy matching), another toward 'medical seriousness' (exercise prescriptions, psychological intervention). Design requirements are nearly opposite — social needs excitement, dopamine, sharing impulse; medical needs calm, trust, privacy. But they share a deep insight: fitness's ultimate goal isn't 'faster stronger' but 'living better.' The group class 'tide chart' is my most inspiring sports data viz this month — it solves an old problem: showing personal data in group settings without comparison anxiety. Answer: dissolve individuality, let each heartbeat become part of a collective wave. This design concept transfers to education, team collaboration, public health.",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 自适应长文排版 — 注意力感知的动态阅读体验",
+      "body": "一个令人兴奋的原型：利用前置摄像头检测用户阅读状态（快速浏览 vs 深度阅读 vs 分心），动态调整排版——快速浏览时段落自动折叠为摘要，深度阅读时展开细节和旁注，分心时用微妙的视觉提示引导回到上次阅读位置。排版不再是静态的，而是「呼吸的」。",
+      "body_en": "An exciting prototype: using front camera to detect reading state (scanning vs deep reading vs distracted), dynamically adjusting layout — paragraphs auto-collapse to summaries during scanning, expand with details and margin notes during deep reading, subtle visual cues guide back to last position when distracted. Typography is no longer static — it 'breathes.'",
+      "tags": [
+        "Attention-Aware",
+        "Dynamic Layout",
+        "Reading UX",
+        "Prototype"
+      ],
+      "link": "https://dribbble.com/search/adaptive-reading-experience",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&q=80",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI 生成内容的「出处设计」— 引用即交互",
+      "body": "当越来越多内容由 AI 生成或辅助生成，「出处设计」成为 2026 年 Content Design 的热门话题。不是简单的脚注或超链接，而是把引用变成交互元素——悬停显示原文上下文、点击展开来源可信度评分、长按查看其他 AI 对同一事实的不同解读。Perplexity 和 Arc 浏览器走在最前面。",
+      "body_en": "As more content is AI-generated or AI-assisted, 'provenance design' becomes a hot 2026 content design topic. Not simple footnotes or hyperlinks but citations as interactive elements — hover shows original context, click expands source credibility score, long-press reveals other AIs' different interpretations of the same fact. Perplexity and Arc browser leading the way.",
+      "tags": [
+        "Provenance",
+        "Citation UX",
+        "AI Content",
+        "Trust Design"
+      ],
+      "link": "https://www.perplexity.ai",
+      "linkText": "Perplexity",
+      "image": "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&q=80",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "跨媒介内容系统 — 一次创作，N 种形态",
+      "body": "2026 年 Content Design 的基础设施挑战：同一内容需要适配文章、卡片、视频脚本、播客大纲、社交帖子。最新的设计系统不再为每种媒介单独设计，而是建立「内容原子」——最小意义单元（一个观点、一个数据点、一个引言），由 AI 根据目标媒介自动组装。设计师设计的是规则，不是页面。",
+      "body_en": "2026 Content Design infrastructure challenge: same content adapts to articles, cards, video scripts, podcast outlines, social posts. Latest design systems don't design per medium but establish 'content atoms' — minimum meaning units (an insight, a data point, a quote), AI auto-assembles based on target medium. Designers design rules, not pages.",
+      "tags": [
+        "Content Atoms",
+        "Multi-Format",
+        "Design System",
+        "AI Assembly"
+      ],
+      "link": "https://www.behance.net/search/projects/content%20design%20system%20multi-format",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=1200&q=80",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "四月 Content Design 的三个发现让我看到一条清晰的进化线：内容正在从「成品」变成「活物」。注意力感知排版让内容根据读者状态变形——这不是科幻，技术上已经完全可行；出处设计让引用从被动脚注变成主动交互——在 AI 生成内容泛滥的时代，「可验证」比「好看」更重要；内容原子系统让同一内容自动适配不同媒介——设计师从排版师变成了「内容建筑师」。三者的共同底层逻辑：Content Design 的对象不再是「页面」而是「系统」，不再是「呈现」而是「适应」。出处设计尤其值得关注——当 AI 幻觉问题仍未彻底解决时，在界面层面建立信任机制比在算法层面消除幻觉更实际。Perplexity 的做法（行内引用+来源评分）可能会成为所有 AI 内容产品的标配。",
+      "body_en": "Three April content design findings reveal a clear evolution: content is transforming from 'finished product' to 'living thing.' Attention-aware typography reshapes content based on reader state — not sci-fi, technically feasible now; provenance design turns citations from passive footnotes to active interactions — in the AI content flood era, 'verifiable' matters more than 'beautiful'; content atom systems auto-adapt content across media — designers become 'content architects.' Common underlying logic: Content Design's object is no longer 'pages' but 'systems,' no longer 'presentation' but 'adaptation.' Provenance design deserves special attention — when AI hallucination isn't fully solved, building trust at the interface layer is more practical than eliminating hallucination at the algorithm layer. Perplexity's approach (inline citations + source scoring) may become standard for all AI content products.",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 不确定性的视觉表达 — 模糊边界设计语言",
+      "body": "AI 产品设计的一个根本性挑战：如何可视化「不确定性」？传统 UI 非黑即白——按钮要么可用要么不可用。但 AI 输出天然带有概率性。2026 年出现的「模糊边界」设计语言给出了一种答案：AI 推荐的确定性越高，元素边界越清晰、颜色越饱和；确定性越低，边界越模糊、颜色越淡。用户直觉地感受到「这个建议 AI 也不太确定」——无需读任何数字。",
+      "body_en": "A fundamental AI product design challenge: how to visualize uncertainty? Traditional UI is binary — buttons are either enabled or disabled. But AI output is inherently probabilistic. 2026's 'fuzzy boundary' design language offers an answer: higher AI confidence = sharper borders, more saturated colors; lower confidence = blurrier borders, faded colors. Users intuitively sense 'AI isn't sure about this one' — no numbers needed.",
+      "tags": [
+        "Uncertainty Viz",
+        "Fuzzy Boundary",
+        "Probability UI",
+        "Confidence Design"
+      ],
+      "link": "https://dribbble.com/search/ai-uncertainty-visualization",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=1200&q=80",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「人格一致性系统」— 视觉 × 语言 × 行为的统一",
+      "body": "2026 年 AI 品牌设计的最新前沿：不只设计 AI 产品的视觉风格，而是设计一套跨越视觉、语言、行为的完整人格系统。Claude 的温暖棕色 = 谦逊谨慎的语气 = 不主动推荐的行为；ChatGPT 的绿色 = 自信直接的语气 = 主动给建议的行为。颜色、措辞、交互模式三者必须对齐，否则用户会感到「割裂」。",
+      "body_en": "Latest frontier in 2026 AI brand design: not just designing AI product visuals but a complete personality system spanning visual, language, and behavior. Claude's warm brown = humble cautious tone = non-pushy behavior; ChatGPT's green = confident direct tone = proactively suggesting behavior. Color, wording, interaction patterns must align — otherwise users feel 'dissonance.'",
+      "tags": [
+        "AI Personality",
+        "Brand System",
+        "Cross-Modal",
+        "Consistency"
+      ],
+      "link": "https://www.behance.net/search/projects/AI%20product%20personality%20design%20system",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 协作白板 — 人机共创的视觉界面",
+      "body": "当 AI 从「工具」变成「协作者」，界面设计也需要进化。最新的 AI 协作白板设计中，AI 贡献的内容用半透明叠加层呈现（暗示「这是建议，不是定论」），人类贡献用实色呈现（暗示「这是决定」）。AI 和人类的光标用不同的尾迹效果区分。最巧妙的细节：AI 在等待人类决策时，光标变成一个微微呼吸的圆点——活着，但不催促。",
+      "body_en": "When AI shifts from 'tool' to 'collaborator,' interface design must evolve. Latest AI collaboration whiteboard: AI contributions shown in semi-transparent overlay (suggesting 'suggestion, not conclusion'), human contributions in solid color (suggesting 'decision'). AI and human cursors distinguished by different trail effects. Cleverest detail: when AI waits for human decision, its cursor becomes a gently breathing dot — alive, but not pushy.",
+      "tags": [
+        "AI Collaboration",
+        "Whiteboard",
+        "Co-Creation",
+        "Cursor Design"
+      ],
+      "link": "https://dribbble.com/search/ai-collaboration-whiteboard",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&q=80",
+      "date": "2026-04-04"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "四月 Visual for AI 的三个发现聚焦在一个我认为是 2026 年 AI 设计最核心的命题：如何让 AI 的「不完美」变成设计优势？模糊边界设计不是在掩盖 AI 的弱点，而是诚实地表达它——「我可能错」这句话用视觉说出来，反而比假装 100% 确定更能赢得信任。人格一致性系统说的也是同一件事——AI 的局限性不是 bug，是 feature，关键是限制要和人格匹配（Claude 的谨慎是设计，不是缺陷）。协作白板的半透明 AI 层是我见过最优雅的「AI 谦逊」设计——不是用文字说「以下内容由 AI 生成仅供参考」，而是用视觉密度本身传达「这是建议」。2026 年做 AI 产品视觉设计，最稀缺的能力不是让 AI 看起来强大，而是让 AI 看起来诚实。",
+      "body_en": "Three April Visual for AI findings focus on what I believe is 2026's most core AI design thesis: how to turn AI's imperfection into a design advantage. Fuzzy boundary design doesn't hide AI's weakness but honestly expresses it — 'I might be wrong' said visually actually builds more trust than pretending 100% certainty. Personality consistency systems say the same — AI limitations aren't bugs but features, as long as limitations match personality (Claude's caution is designed, not deficient). The collaborative whiteboard's semi-transparent AI layer is the most elegant 'AI humility' design I've seen — not saying 'the following is AI-generated for reference only' in text, but using visual density itself to convey 'this is a suggestion.' The scarcest 2026 AI visual design skill isn't making AI look powerful — it's making AI look honest.",
+      "date": "2026-04-04"
     }
   ]
 }
