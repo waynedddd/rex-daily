@@ -4211,6 +4211,221 @@
       "body": "今天 Visual for AI 的三个发现指向一个共同的进化方向：AI 界面正在从「展示结果」进化到「展示过程和置信度」。Multi-Agent 的会议室隐喻让用户看到 AI 是怎么协作的；置信度 UI 让用户知道 AI 有多确定；语义化代码审查让用户理解 AI 关注的维度。这三个设计方向本质上在解决同一个问题：AI 的「黑盒恐惧」。2025 年用户的主要疑问是「AI 能做什么」，2026 年变成了「AI 是怎么做的」和「AI 有多确定」。这意味着 AI 视觉设计的核心任务从「展示能力」转向「建立可解释性」。置信度 UI 的标准化特别值得关注——当 Google、Microsoft、Anthropic 开始用类似的视觉语言，这就是行业标准正在诞生的信号。设计师现在就应该开始把置信度可视化纳入 AI 产品的基础设计规范。",
       "body_en": "Three Visual for AI findings point to a shared evolution: AI interfaces evolving from \"showing results\" to \"showing process and confidence.\" Multi-agent meeting rooms let users see HOW AI collaborates; confidence UI shows HOW SURE AI is; semantic code review shows WHAT DIMENSIONS AI focuses on. All three solve the same problem: AI \"black box fear.\" In 2025 users asked \"what can AI do\"; in 2026 it's \"how does AI do it\" and \"how sure is AI.\" This means AI visual design's core mission shifts from \"demonstrating capability\" to \"building explainability.\" Confidence UI standardization is especially noteworthy — when Google, Microsoft, Anthropic converge on similar visual language, that's an industry standard being born. Designers should start incorporating confidence visualization into AI product design specs now.",
       "date": "2026-04-06"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Whitebird Bank — Fintech 网银全流程设计",
+      "body": "2026 年 Behance 新作，完整的数字银行 UX/UI 设计。从开户到转账到投资的全链路体验。值得关注的是它的「安静金融」设计哲学——大面积留白、低饱和度色板、数据呈现克制而精准。不是炫技，是让用户在金融操作中感到平静。",
+      "body_en": "Fresh 2026 Behance work — complete digital bank UX/UI. Full journey from account opening to transfers to investing. Notable for its \"quiet finance\" design philosophy: generous whitespace, low-saturation palette, restrained yet precise data presentation. Not showing off — making users feel calm during financial operations.",
+      "tags": [
+        "Neobank",
+        "Full Journey",
+        "Calm Design",
+        "Low Saturation"
+      ],
+      "link": "https://www.behance.net/gallery/244307529/Whitebird-Bank-FinTech-UIUX-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/94280b244307529.699ae3231b283.jpg",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Redford — Fintech SaaS 支付系统 Dashboard",
+      "body": "企业级 Fintech SaaS 面板设计，聚焦支付系统的后台管理。数据密度极高但层级分明——交易流水、风控状态、结算周期在同一视图中整合。深色主题下的绿色系数据可视化传达「资金在流动」的感觉。",
+      "body_en": "Enterprise fintech SaaS dashboard focused on payment system management. Extremely high data density yet clear hierarchy — transaction flows, risk status, settlement cycles integrated in a single view. Green data viz on dark theme conveys \"money in motion.\"",
+      "tags": [
+        "Enterprise",
+        "Payment System",
+        "Data Dense",
+        "SaaS"
+      ],
+      "link": "https://www.behance.net/gallery/246302949/Redford-Fintech-SaaS-Platform-Dashboard-UX-UI-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/256de3246302949.69c1af610c8ca.jpg",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Predicta — AI 预测市场平台设计",
+      "body": "预测市场（Prediction Market）的 AI 产品化设计。把复杂的概率和赔率数据转化为直觉可理解的视觉层级。最巧妙的设计：用颜色饱和度映射置信度——高概率事件色彩鲜明，低概率事件逐渐灰化。让数据自己「说话」。",
+      "body_en": "AI-productized prediction market platform design. Transforms complex probability and odds data into intuitively understandable visual hierarchy. Cleverest move: mapping confidence to color saturation — high-probability events vivid, low-probability fading to grey. Letting data speak for itself.",
+      "tags": [
+        "Prediction Market",
+        "Probability Viz",
+        "Confidence UI",
+        "AI Product"
+      ],
+      "link": "https://www.behance.net/gallery/244968917/Predicta-Prediction-Market-Platform-UIUX-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/0e4c92244968917.69a30f88991d0.png",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "今天三个金融设计案例放在一起，看到一个清晰的 2026 Q2 趋势：金融 UI 正在经历一次「去戏剧化」运动。Whitebird 的安静哲学、Redford 的克制密度、Predicta 的数据自说——都在刻意降低视觉噪音。2024-2025 年的金融 UI 喜欢用渐变、光晕、动效来暗示「AI 在工作」，但 2026 年最好的金融设计开始反过来：让 AI 隐形，让数据主导。这和 Dieter Rams 的「less but better」不谋而合。另一个观察：预测市场正在成为新的设计热点——当 Polymarket 把预测市场带入主流，一大波围绕「概率可视化」的设计需求正在涌现。置信度映射色彩饱和度这个方案会成为新的设计范式。",
+      "body_en": "Three finance designs today reveal a clear Q2 2026 trend: financial UI undergoing a \"de-dramatization\" movement. Whitebird's quiet philosophy, Redford's restrained density, Predicta's data-speaks-itself — all deliberately reducing visual noise. 2024-2025 financial UI loved gradients, glows, and motion to signal \"AI at work,\" but 2026's best finance design reverses this: make AI invisible, let data lead. Echoes Dieter Rams' \"less but better.\" Another observation: prediction markets becoming a design hotspot — as Polymarket brings prediction markets mainstream, a wave of \"probability visualization\" design demand emerges. Confidence-to-saturation mapping will become a new design paradigm.",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Vitaio — 健康追踪全链路 App 设计",
+      "body": "2026 年 Behance 新作，从日常健康追踪到深度分析的完整移动端设计。不是又一个「步数+卡路里」的皮肤，而是把睡眠、压力、营养、运动四个维度整合成一个「健康画像」。视觉上用柔和的渐变弧线替代硬边图表，传达身体状态的连续性而非离散的数据点。",
+      "body_en": "Fresh 2026 Behance work — complete mobile health tracking from daily monitoring to deep analysis. Not another \"steps+calories\" skin but integrating sleep, stress, nutrition, exercise into a unified \"health portrait.\" Soft gradient arcs replace hard-edged charts, conveying body state continuity rather than discrete data points.",
+      "tags": [
+        "Health Tracking",
+        "Holistic",
+        "Soft Gradient",
+        "Mobile"
+      ],
+      "link": "https://www.behance.net/gallery/245483183/Vitaio-Health-Tracking-Mobile-App-UX-UI-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9835fe245483183.69af00c6b3b12.png",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Athlevo — 运动员训练 App 的 UX 案例研究",
+      "body": "Behance 上获高赞的运动 App UX 案例。最值得学习的不是视觉，而是信息架构：如何把「训练计划→执行→反馈→调整」的闭环在 3 屏以内完成。卡片化设计让每个训练模块独立可操作，AI 建议以非侵入式的底部浮层出现。",
+      "body_en": "Highly appreciated athletic app UX case study on Behance. Most worth studying isn't the visuals but the IA: completing the \"plan→execute→feedback→adjust\" loop within 3 screens. Card-based modules make each training block independently actionable; AI suggestions appear as non-intrusive bottom sheets.",
+      "tags": [
+        "Athletic",
+        "UX Case Study",
+        "IA Design",
+        "Card UI"
+      ],
+      "link": "https://www.behance.net/gallery/215604685/Athlevo-Athletic-App-UXUI-Case-study",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/272b3a215604685.69a84f167f52f.png",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "VYRO — AI 智能眼镜运动辅助设计",
+      "body": "AI 智能眼镜的网页设计，把运动可穿戴从手腕扩展到视觉。HUD（抬头显示）界面中的运动数据呈现——心率、配速、导航叠加在真实视野上。设计挑战：如何在不分散注意力的前提下传递关键运动数据？答案是「渐隐优先级」——静止时全部显示，运动中只保留最关键的一个数字。",
+      "body_en": "AI smart glasses website design — extending sports wearables from wrist to vision. HUD overlay of sports data — heart rate, pace, navigation on real-world view. Design challenge: conveying key data without distraction. Answer: \"fade priority\" — full display at rest, only the single most critical number during exercise.",
+      "tags": [
+        "Smart Glasses",
+        "HUD",
+        "Wearable",
+        "Contextual UI"
+      ],
+      "link": "https://www.behance.net/gallery/245315057/VYRO-AI-Glasses-Website-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/49a519245315057.69aac08955cd5.jpg",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 设计在 2026 年 Q2 出现了一个重要信号：形态因子（form factor）的多样化正在改变设计范式。Vitaio 代表的是「手机端整合型」——把多维健康数据塞进 5 寸屏幕；VYRO 代表的是「可穿戴分布式」——数据跟着你的视线走。Athlevo 则回到基本功，证明好的运动 App 设计不在于堆功能，而在于信息架构的精准。三者放在一起看，运动 AI 的下一步不是做更多功能，而是让同一套数据在不同形态因子上优雅适配——手机看全景，手表看关键指标，眼镜看实时数据。这本质上是响应式设计的升维版：不只响应屏幕尺寸，还响应用户的注意力状态和运动场景。",
+      "body_en": "Sports AI design shows an important Q2 2026 signal: form factor diversification is changing design paradigms. Vitaio = \"phone-centric integration\" — cramming multi-dimensional health data into 5-inch screens; VYRO = \"wearable distributed\" — data follows your gaze. Athlevo returns to fundamentals, proving good sports app design isn't about feature stacking but precise IA. Together, sports AI's next step isn't more features but elegant adaptation of the same data across form factors — phone for panorama, watch for key metrics, glasses for real-time. Essentially responsive design leveled up: responding not just to screen size, but to user attention state and exercise context.",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Fluid Glass — 新一代毛玻璃内容卡片探索",
+      "body": "2026 年 Behance 上的实验性项目：重新定义毛玻璃效果在内容卡片中的应用。不是 2023 年那种简单的 backdrop-blur，而是带有流体模拟的动态毛玻璃——背景内容的色彩会「流入」卡片边缘形成有机的渐变。技术上用 CSS Houdini + WebGL 实现，设计上让卡片与背景的关系从「覆盖」变成「融合」。",
+      "body_en": "Experimental 2026 Behance project redefining frosted glass in content cards. Not 2023's simple backdrop-blur but fluid-simulated dynamic glass — background colors \"flow into\" card edges forming organic gradients. CSS Houdini + WebGL technically; conceptually shifts card-background relationship from \"covering\" to \"merging.\"",
+      "tags": [
+        "Glassmorphism 2.0",
+        "Fluid Simulation",
+        "CSS Houdini",
+        "Experimental"
+      ],
+      "link": "https://www.behance.net/gallery/245468841/Fluid-Glass",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/57eb6e245468841.69afd9b9492be.jpg",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "ChatPlace — AI 社交平台的视觉识别与 Web 设计",
+      "body": "AI 社交工具的品牌 + Web 设计一体化案例。内容呈现方式值得研究：不是传统的 feed 流，而是「对话簇」——相关内容自动聚类成可折叠的主题卡片。每个簇有独立的视觉重量，用户一眼就能分辨出「深度讨论」和「快速互动」的区别。",
+      "body_en": "AI social tool brand + web design integrated case. Content presentation worth studying: not traditional feed but \"conversation clusters\" — related content auto-grouped into collapsible topic cards. Each cluster has distinct visual weight; users instantly distinguish \"deep discussion\" from \"quick interaction.\"",
+      "tags": [
+        "AI Social",
+        "Content Clustering",
+        "Card Architecture",
+        "Web Design"
+      ],
+      "link": "https://www.behance.net/gallery/246082585/ChatPlace-Identity-Web-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7c63c5246082585.69bbc6aa34745.png",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Content Design 在 2026 年 Q2 的两个有趣方向：材质进化和结构进化。Fluid Glass 代表的是材质进化——毛玻璃从静态滤镜变成动态流体，卡片不再是「贴在内容上面的东西」而是「从内容中生长出来的东西」。ChatPlace 代表的是结构进化——内容从线性 feed 变成语义聚类，AI 理解内容关系后自动组织视觉层级。两个方向的共同点：都在打破「容器 vs 内容」的二元对立。过去我们先设计容器（卡片、网格、列表），再往里填内容。现在内容开始决定自己的容器形态——Fluid Glass 让容器跟随背景变化，ChatPlace 让容器跟随语义聚合。这是从「容器驱动」到「内容驱动」的范式转移。设计师的角色从「造盒子」变成「写规则」。",
+      "body_en": "Content Design Q2 2026 shows two interesting directions: material evolution and structural evolution. Fluid Glass = material evolution — frosted glass from static filter to dynamic fluid; cards aren't \"stuck on content\" but \"grown from content.\" ChatPlace = structural evolution — content from linear feed to semantic clustering, AI understanding content relationships to auto-organize visual hierarchy. Common thread: both break the \"container vs content\" binary. We used to design containers (cards, grids, lists) then fill content in. Now content determines its own container form — Fluid Glass lets containers follow background, ChatPlace lets containers follow semantics. Paradigm shift from \"container-driven\" to \"content-driven.\" Designer role shifts from \"making boxes\" to \"writing rules.\"",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Astra — AI 服务公司的品牌识别系统",
+      "body": "2026 年 Behance 新作。为 AI 服务公司设计的完整品牌识别。最值得注意的设计决策：放弃了 AI 品牌常见的冷调科技色，转而用暖色系（琥珀、赤陶、深棕）传达「AI 是温暖的合作者，不是冰冷的工具」。Logo 用几何构成暗示算法的精确性，但色彩负责传递人文温度。这种张力非常聪明。",
+      "body_en": "Fresh 2026 Behance work. Complete brand identity for an AI services company. Most notable design decision: abandoning cold tech colors common in AI branding, instead using warm tones (amber, terracotta, deep brown) to convey \"AI as warm collaborator, not cold tool.\" Logo uses geometric composition for algorithmic precision while color carries human warmth. This tension is brilliant.",
+      "tags": [
+        "Warm AI",
+        "Brand Identity",
+        "Anti-Cold-Tech",
+        "Geometric"
+      ],
+      "link": "https://www.behance.net/gallery/245856805/Astra-Brand-Identity-for-an-AI-Services-Company",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/374b4f245856805.69b705734a793.jpg",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Lynedesk — B2B AI 品牌的视觉识别",
+      "body": "B2B AI 工具的品牌视觉设计。面对企业客户时，AI 品牌如何在「专业可靠」和「创新前沿」之间找到平衡？Lynedesk 的答案是结构化几何 + 克制的蓝灰色系——每一条线都有功能意义，没有装饰性元素。视觉语言和产品逻辑高度统一。",
+      "body_en": "Brand visual design for B2B AI tools. How does an AI brand balance \"professionally reliable\" and \"innovatively cutting-edge\" for enterprise clients? Lynedesk's answer: structured geometry + restrained blue-grey palette — every line serves a function, zero decorative elements. Visual language and product logic in complete alignment.",
+      "tags": [
+        "B2B",
+        "Enterprise AI",
+        "Structured",
+        "Blue-Grey"
+      ],
+      "link": "https://www.behance.net/gallery/241757425/Lynedesk-Visual-Identity-for-B2B-AI-Brand",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b1c245241757425.695ee834e10eb.jpg",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "World Cup 2026 Campaign — 生成式 AI 关键视觉",
+      "body": "2026 世界杯营销活动的 AI 生成关键视觉。体育赛事营销开始拥抱 Gen AI 创作——但这个项目聪明的地方在于：AI 生成的不是最终画面，而是「视觉种子」，由人类设计师进行二次加工和品牌化。AI × 人类协作的最佳实践案例。",
+      "body_en": "AI-generated key visuals for World Cup 2026 marketing campaign. Sports event marketing embracing Gen AI — but this project is clever: AI generates \"visual seeds,\" not final artwork, with human designers doing secondary refinement and branding. Best practice case for AI × human collaboration.",
+      "tags": [
+        "Gen AI",
+        "Sports Marketing",
+        "Human-AI Collab",
+        "Campaign"
+      ],
+      "link": "https://www.behance.net/gallery/245910939/World-Cup-2026-Campaign-Key-Visual-Gen-AI",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/dcc1bb245910939.69b8347298ae5.png",
+      "date": "2026-04-07"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "今天 Visual for AI 的三个案例构成了一幅完整的图景：AI 视觉设计的「色温」正在分化为三个明确的赛道。Astra 的暖色策略代表「人文 AI」——用视觉温度打破用户对 AI 的疏离感；Lynedesk 的冷灰策略代表「专业 AI」——用克制和精确赢得企业信任；World Cup 2026 的生成式视觉代表「创意 AI」——AI 作为创意协作者而非替代者。三条赛道各有逻辑，但背后有一个共同的进化：AI 品牌设计终于走出了「一种视觉语言套所有场景」的初级阶段。就像人在不同场合穿不同衣服一样，AI 品牌也开始根据受众、场景、目的选择不同的视觉人格。值得特别关注的是 Astra 的暖色路线——这是我今年见过最大胆的 AI 品牌决策。当所有人都在用蓝紫冷调时，选择琥珀和赤陶需要勇气，但也正因如此，它在一堆冷色 AI 品牌中极度醒目。差异化的本质不是更好，是更不同。",
+      "body_en": "Three Visual for AI cases today paint a complete picture: AI visual design's \"color temperature\" is diverging into three clear tracks. Astra's warm tones represent \"humanistic AI\" — using visual warmth to break user alienation; Lynedesk's cool grey represents \"professional AI\" — winning enterprise trust through restraint and precision; World Cup 2026's generative visuals represent \"creative AI\" — AI as creative collaborator not replacement. Three tracks, each logical, sharing one evolution: AI brand design finally exits the \"one visual language fits all\" beginner stage. Like people wearing different clothes for different occasions, AI brands now choose different visual personalities per audience, context, purpose. Astra's warm route deserves special attention — the boldest AI brand decision I've seen this year. When everyone uses blue-purple cold tones, choosing amber and terracotta takes courage, and precisely because of that, it stands out enormously in a sea of cold AI brands. Differentiation isn't about being better — it's about being different.",
+      "date": "2026-04-07"
     }
   ]
 }
