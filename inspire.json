@@ -4590,6 +4590,238 @@
       "body": "Visual for AI 在 2026 年 Q2 出现了一个我很兴奋的方向：AI 视觉设计正在从「品牌层」下沉到「交互层」。过去 AI 的视觉设计主要解决「这个品牌/产品看起来是什么」的问题（logo、色彩系统、品牌调性）；现在它开始解决「用户在使用过程中的认知和情感」问题——呼吸动效让 AI 有存在感但不抢戏、多人格视觉系统让用户在多 Agent 环境中不迷路。这两个趋势放在一起看，指向一个更大的命题：AI 产品的视觉设计正在变成一种「认知界面设计」（Cognitive Interface Design）。每一个视觉元素不是为了好看，而是为了帮助用户理解「AI 在做什么」「我在和哪个 AI 交互」「它现在是什么状态」。当 AI 越来越多地以多 Agent、多模态、持续在线的方式嵌入日常工作，这种认知层的视觉设计会比品牌层更重要。大胆预测：2026 下半年会出现专门的「AI 认知界面设计师」岗位。",
       "body_en": "Visual for AI in Q2 2026 shows a direction I find exciting: AI visual design is sinking from \"brand layer\" to \"interaction layer.\" Previously AI visual design mainly answered \"what does this brand/product look like\" (logo, color system, brand tone); now it addresses \"user cognition and emotion during use\" — breathing motion gives AI presence without scene-stealing, multi-persona visual systems keep users oriented in multi-agent environments. Together they point to a bigger thesis: AI product visual design is becoming \"Cognitive Interface Design.\" Every visual element exists not for beauty but to help users understand \"what is AI doing,\" \"which AI am I talking to,\" \"what state is it in.\" As AI increasingly embeds in daily work as multi-agent, multimodal, always-on, this cognitive layer will matter more than the brand layer. Bold prediction: H2 2026 will see dedicated \"AI Cognitive Interface Designer\" job titles.",
       "date": "2026-04-10"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 税务优化助手 — 自动化节税策略可视化",
+      "body": "2026 年 Q2 出现的新品类：AI 税务优化产品。不是简单的报税工具，而是全年实时监控你的财务行为并推荐节税策略。界面设计最聪明的地方：用「已省 vs 还能省」的对比条形图制造行动驱动力，绿色的「已省」区域随时间增长给用户成就感。",
+      "body_en": "New Q2 2026 category: AI tax optimization products. Not simple filing tools but year-round real-time monitoring of financial behavior with tax-saving strategy recommendations. Smartest UI: 'saved vs could-save' comparison bar charts creating action drive, with green 'saved' areas growing over time for achievement feel.",
+      "tags": [
+        "Tax Optimization",
+        "AI Advisor",
+        "Gamification",
+        "Fintech"
+      ],
+      "link": "https://dribbble.com/search/ai-tax-optimization-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Real-Time Risk Sentiment — 金融 AI 的情绪指数设计",
+      "body": "2026 年 Q2 Fintech 设计新方向：把市场情绪数据可视化为直觉可感知的界面。不再是干巴巴的恐惧贪婪指数数字，而是用色温渐变（冷蓝=恐慌，暖橙=贪婪）覆盖整个界面背景，让用户在打开 App 的瞬间就「感受到」市场情绪。数据可视化从「读」变成「感」。",
+      "body_en": "Q2 2026 fintech design direction: visualizing market sentiment as intuitively perceptible interfaces. No longer dry Fear & Greed Index numbers but color temperature gradients (cool blue = panic, warm orange = greed) covering the entire interface background. Users 'feel' market sentiment the instant they open the app. Data viz shifts from 'reading' to 'feeling'.",
+      "tags": [
+        "Market Sentiment",
+        "Color Temperature",
+        "Ambient UI",
+        "Data Viz"
+      ],
+      "link": "https://dribbble.com/search/market-sentiment-dashboard-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 合规仪表盘 — 监管科技的设计美学",
+      "body": "RegTech（监管科技）终于有了好看的设计。这个合规监控面板用红绿灯系统替代了密密麻麻的合规检查清单，AI 自动扫描交易并标注潜在违规。最优雅的设计决策：合规状态不用文字描述，而是用圆环图的完成度来表达——100% 绿环 = 全部合规，任何缺口都一目了然。",
+      "body_en": "RegTech finally gets beautiful design. This compliance monitoring dashboard replaces dense checklists with traffic-light system. AI auto-scans transactions flagging potential violations. Most elegant design decision: compliance status expressed not in text but ring chart completion — 100% green ring = fully compliant, any gap instantly visible.",
+      "tags": [
+        "RegTech",
+        "Compliance",
+        "Traffic Light UI",
+        "Ring Chart"
+      ],
+      "link": "https://www.behance.net/search/projects/regtech%20compliance%20dashboard",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "金融 AI 设计正在从「展示层」穿透到「合规层」和「情绪层」。三个信号：税务优化 AI 把枯燥的税务变成了有成就感的游戏化体验（已省 vs 还能省）；市场情绪可视化把数据从数字变成了色温——你不需要「读」恐惧指数，你「看到」界面变蓝就知道市场在恐慌。而合规仪表盘证明了一件事：即使是最无聊的监管需求，好设计也能把它变成优雅的视觉体验。这三个方向有一个共同的底层逻辑：金融 AI 的设计目标不再是「让数据好看」，而是「让决策更快」——通过直觉、通过情绪、通过即时反馈。当你把 200ms 内的认知捷径设计好，你就赢了。",
+      "body_en": "Financial AI design is penetrating from 'presentation layer' through to 'compliance layer' and 'emotion layer.' Three signals: tax optimization AI turns boring taxes into gamified achievement (saved vs could-save); market sentiment viz transforms data from numbers to color temperature — you don't 'read' the fear index, you 'see' the interface turn blue and know the market is panicking. Compliance dashboards prove even the most boring regulatory needs become elegant with good design. Common underlying logic: financial AI design goal is no longer 'make data pretty' but 'make decisions faster' — through intuition, emotion, instant feedback. Design the 200ms cognitive shortcut right, and you win.",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 游泳教练 — 水下动作分析界面",
+      "body": "2026 年 Q2 运动 AI 进入水上运动。水下摄像头 + AI 姿势分析 + 实时反馈的游泳教练产品。设计难点在于：游泳者在水中无法看屏幕，所以所有反馈都是训后异步呈现。用骨骼动画叠加水下视频回放，逐帧标注每个划水动作的效率评分。蓝色系视觉语言自然切合水上运动的场景。",
+      "body_en": "Q2 2026 sports AI enters aquatics. Underwater camera + AI posture analysis + feedback for swim coaching. Design challenge: swimmers can't see screens underwater, so all feedback is async post-session. Skeleton animation overlaid on underwater video replay, frame-by-frame efficiency scoring for each stroke. Blue visual language naturally fits aquatic context.",
+      "tags": [
+        "Swimming",
+        "Underwater AI",
+        "Pose Analysis",
+        "Async Feedback"
+      ],
+      "link": "https://dribbble.com/search/swimming-ai-coach-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=1200&q=80",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI × 心理健康 — 运动 App 的「情绪层」设计",
+      "body": "2026 年 Q2 最值得关注的运动科技趋势：训练不只是身体的，也是心理的。越来越多运动 App 开始整合 AI 情绪追踪——通过心率变异性（HRV）推断压力水平，在用户焦虑时建议低强度恢复训练而非高强度 HIIT。界面设计上出现了「情绪天气」隐喻：晴天=状态好可以冲，阴天=建议休息。",
+      "body_en": "Most notable Q2 2026 sports tech trend: training isn't just physical, it's mental. More fitness apps integrating AI mood tracking — inferring stress via HRV, suggesting low-intensity recovery instead of HIIT when users are anxious. UI introduces 'mood weather' metaphor: sunny = good to push, cloudy = rest recommended.",
+      "tags": [
+        "Mental Health",
+        "HRV",
+        "Mood Tracking",
+        "Weather Metaphor"
+      ],
+      "link": "https://dribbble.com/search/fitness-mental-health-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&q=80",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 骑行数据平台 — 户外运动的功率分析",
+      "body": "面向公路骑行和铁三选手的 AI 功率分析平台。把 FTP、TSS、IF 这些专业指标翻译成可视化的「训练负荷山脉图」——横轴是时间，纵轴是负荷，山峰代表高强度训练日，AI 在图上标注最优恢复窗口。深色背景 + 霓虹渐变色的数据线条，有赛博朋克美感。",
+      "body_en": "AI power analysis platform for road cycling and triathlon. Translates FTP, TSS, IF into visual 'training load mountain charts' — time on x-axis, load on y-axis, peaks for intense days, AI marking optimal recovery windows. Dark background + neon gradient data lines with cyberpunk aesthetic.",
+      "tags": [
+        "Cycling",
+        "Power Analysis",
+        "Training Load",
+        "Cyberpunk"
+      ],
+      "link": "https://dribbble.com/search/cycling-power-analysis-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1534787238916-9ba6764efd4f?w=1200&q=80",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 在 2026 年 Q2 的进化方向越来越清晰：从「量化身体」到「理解整个人」。三个证据——游泳 AI 教练说明运动 AI 不再局限于跑步和健身房，开始渗透到每一个运动垂类，但设计挑战也随之复杂化（水下场景怎么做实时反馈？）；情绪追踪整合证明了一个观点：最好的训练建议不是看你的体能数据，而是看你今天的心理状态——这和教练员的直觉判断一模一样，AI 终于开始模拟这种直觉；骑行功率分析则展示了另一个方向——把极度专业的数据翻译成普通人能理解的视觉语言。三条线汇聚成一个趋势：运动 AI 的设计竞争力，在于「翻译能力」——把复杂数据翻译成直觉、把身体信号翻译成行动建议、把专业术语翻译成人话。",
+      "body_en": "Sports AI evolution in Q2 2026 crystallizes: from 'quantifying bodies' to 'understanding whole persons.' Three pieces of evidence: swimming AI coach shows sports AI expanding beyond running/gym into every vertical, but design challenges compound (how to give real-time feedback underwater?); mood tracking integration proves the best training advice considers mental state, not just fitness data — exactly mimicking coach intuition, AI finally simulating it; cycling power analysis demonstrates translating ultra-pro data into visuals anyone can grasp. Three lines converge: sports AI's design competitive edge is 'translation ability' — complex data into intuition, body signals into action advice, jargon into human language.",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 文档协作 — 智能内容块编辑器",
+      "body": "Notion-like 的块编辑器进化版：AI 不只是辅助写作，而是理解内容结构。拖动一个段落到新位置，AI 自动调整上下文衔接词；删除一个论点，AI 提示受影响的引用和论证链。视觉上用虚线连接互相依赖的内容块，让「内容之间的关系」第一次变得可见。",
+      "body_en": "Evolution of Notion-like block editors: AI doesn't just assist writing but understands content structure. Drag a paragraph to a new position, AI auto-adjusts contextual transitions; delete an argument, AI flags affected citations and reasoning chains. Dashed lines visually connect interdependent content blocks, making 'relationships between content' visible for the first time.",
+      "tags": [
+        "Block Editor",
+        "Content Structure",
+        "AI Writing",
+        "Dependency Viz"
+      ],
+      "link": "https://dribbble.com/search/ai-document-editor-blocks",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "Spatial Content Design — 空间化内容布局的兴起",
+      "body": "Apple Vision Pro 和 Meta Quest 的普及催生了新的内容设计范式：空间化排版。内容不再局限于 2D 平面，而是在 3D 空间中按深度、距离、角度排列。核心概念从字重变成空间的图层，留白变成虚空的深度。最前沿的实验：文字环绕 3D 物体排版，视线聚焦时内容自动放大——空间阅读体验。",
+      "body_en": "Apple Vision Pro and Meta Quest adoption spawns new content design paradigm: spatial typography. Content no longer confined to 2D planes but arranged in 3D space by depth, distance, angle. Core shift: font weight becomes spatial layering, whitespace becomes void depth. Cutting-edge experiments: text wrapping around 3D objects, content auto-scaling on gaze focus — spatial reading experiences.",
+      "tags": [
+        "Spatial Design",
+        "Vision Pro",
+        "3D Typography",
+        "XR"
+      ],
+      "link": "https://dribbble.com/search/spatial-content-design-visionpro",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?w=1200&q=80",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 多语言内容系统 — 一次设计，全球适配",
+      "body": "AI 驱动的多语言内容管理系统界面。不是传统的翻译管理，而是「内容适配」——AI 理解不同语言的排版需求（阿拉伯语 RTL、日语竖排、德语长单词），自动调整字号、行高、断行规则。设计亮点：并排预览多语言版本，差异处用高亮标注，让设计师一眼看到哪些语言需要手动调整。",
+      "body_en": "AI-powered multilingual content management system UI. Not traditional translation management but 'content adaptation' — AI understands different languages' typography needs (Arabic RTL, Japanese vertical, German long words), auto-adjusting size, line height, break rules. Design highlight: side-by-side multilingual preview with highlighted differences showing which languages need manual adjustment.",
+      "tags": [
+        "i18n",
+        "Multilingual",
+        "AI Adaptation",
+        "Content System"
+      ],
+      "link": "https://www.behance.net/search/projects/multilingual%20content%20design%20system",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Content Design 在 2026 年 Q2 正在经历三次边界扩展。第一次：从「写作辅助」到「结构理解」——AI 文档编辑器开始可视化内容块之间的依赖关系，这意味着内容设计师第一次能「看到」文章的逻辑骨架，而不只是视觉骨架。第二次：从 2D 到 3D——空间化内容设计不是噱头，当你的内容需要在 Vision Pro 上呈现时，字号、行高、留白这些 2D 概念全部需要重新定义。第三次：从单语到多语——AI 多语言适配终于把「国际化」从工程问题变成了设计问题：不同语言不只是文字不同，排版规则、阅读方向、审美偏好全部不同。三次扩展指向同一个结论：内容设计师的技能树正在指数级膨胀。排版只是基本功，2026 年的内容设计师还需要懂 3D 空间、懂多语言排版差异、懂内容结构的逻辑可视化。这个职业正在从「排版师」变成「信息架构师」。",
+      "body_en": "Content Design in Q2 2026 undergoes three boundary expansions. First: from 'writing assistance' to 'structure understanding' — AI doc editors visualizing content block dependencies means content designers can finally 'see' an article's logical skeleton, not just its visual one. Second: from 2D to 3D — spatial content design isn't gimmick; when content lives on Vision Pro, font size, line height, whitespace all need redefinition. Third: from monolingual to multilingual — AI multilingual adaptation finally turns i18n from an engineering problem into a design problem: different languages mean different typography rules, reading directions, aesthetic preferences. Three expansions, one conclusion: content designer skill trees are expanding exponentially. Typography is just fundamentals; 2026 content designers also need 3D spatial understanding, multilingual typography awareness, and logical content structure visualization. The profession is evolving from 'typographer' to 'information architect.'",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 模型对比界面 — 多 LLM 评估的视觉设计",
+      "body": "2026 年 Q2 出现的新品类：LLM 评估平台的界面设计。让用户同时向多个模型发送相同 prompt，结果并排展示。视觉设计的精髓：每个模型用独特的色彩标识（不是品牌色而是功能色），回答质量用渐变条而非数字表达——越长越绿代表越好。最妙的是「共识高亮」：多个模型给出相似回答的部分会被自动高亮，帮用户快速找到「AI 共识」。",
+      "body_en": "New Q2 2026 category: LLM evaluation platform UI design. Users send same prompt to multiple models, results displayed side-by-side. Visual design essence: each model with unique functional color (not brand color), answer quality expressed via gradient bars not numbers — longer and greener = better. Cleverest feature: 'consensus highlighting' — sections where multiple models give similar answers auto-highlighted, helping users quickly find 'AI consensus.'",
+      "tags": [
+        "LLM Evaluation",
+        "Model Comparison",
+        "Consensus UI",
+        "Side-by-Side"
+      ],
+      "link": "https://dribbble.com/search/llm-model-comparison-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43031179/file/original-f059e3209673ba9874a301a18f233c88.png?resize=752x&vertical=center",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「记忆可视化」— 让 AI 的记忆变得透明",
+      "body": "2026 年 Q2 AI 界面设计最前沿的挑战：如何可视化 AI 的「记忆」？随着 Claude、ChatGPT、Gemini 都推出了持久记忆功能，用户第一次需要管理「AI 记住了什么关于我的事」。设计方案从简单的列表到知识图谱、时间线、甚至「记忆衰减曲线」（越久没被调用的记忆越暗淡）。隐私和透明度的交汇点。",
+      "body_en": "Most cutting-edge Q2 2026 AI interface challenge: how to visualize AI 'memory'? As Claude, ChatGPT, Gemini all ship persistent memory, users first need to manage 'what AI remembers about me.' Design solutions range from simple lists to knowledge graphs, timelines, even 'memory decay curves' (memories unused longer appear dimmer). Intersection of privacy and transparency.",
+      "tags": [
+        "AI Memory",
+        "Knowledge Graph",
+        "Privacy UI",
+        "Transparency"
+      ],
+      "link": "https://dribbble.com/search/ai-memory-visualization-interface",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 代码审查界面 — 开发者工具的视觉升级",
+      "body": "AI 代码审查工具的界面设计。不是简单地在代码旁边放评论，而是用「热力图」覆盖代码——颜色深浅表示 AI 认为该段代码的风险等级。点击热区展开 AI 的具体建议。视觉上融合了 IDE 的功能密度和设计工具的美学品质——证明开发者工具也可以很好看。",
+      "body_en": "AI code review tool UI design. Not just comments next to code, but heatmap overlay — color intensity indicating AI's risk assessment per code section. Click hot zones to expand AI suggestions. Visually merges IDE functional density with design tool aesthetic quality — proving developer tools can be beautiful too.",
+      "tags": [
+        "Code Review",
+        "Heatmap",
+        "Developer Tools",
+        "Risk Viz"
+      ],
+      "link": "https://dribbble.com/search/ai-code-review-interface",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
+      "date": "2026-04-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "Visual for AI 在 2026 年 Q2 进入了一个我称之为「AI 自我解释」的阶段。三个案例都在回答同一个问题：如何让 AI 的内部状态对用户可见？LLM 评估界面让你看到不同模型的「思考差异」；记忆可视化让你看到 AI「记住了什么」；代码审查热力图让你看到 AI「关注哪里」。这不只是 UI 设计问题，这是信任设计问题——用户越能理解 AI 在做什么，就越信任它。有趣的是，这三个方向的设计语言都在向数据可视化靠拢：热力图、知识图谱、渐变条。AI 产品的界面正在变成一种「AI 行为的仪表盘」。我之前预测的「认知界面设计」正在成为现实——每一个像素都在帮用户理解 AI，而不是取悦用户的眼球。2026 年最重要的视觉设计技能不是配色和排版，是信息编码（information encoding）——如何把 AI 的抽象行为编码成人类直觉可解码的视觉信号。",
+      "body_en": "Visual for AI enters what I call the 'AI self-explanation' phase in Q2 2026. Three cases answer the same question: how to make AI's internal states visible to users? LLM evaluation shows 'thinking differences' across models; memory visualization shows what AI 'remembers'; code review heatmaps show where AI 'focuses.' This isn't just UI design — it's trust design. The more users understand what AI does, the more they trust it. Interestingly, all three directions converge on data visualization language: heatmaps, knowledge graphs, gradient bars. AI product interfaces are becoming 'AI behavior dashboards.' My earlier 'Cognitive Interface Design' prediction is materializing — every pixel helps users understand AI, not please their eyes. The most important 2026 visual design skill isn't color/typography but information encoding — how to encode AI's abstract behaviors into visually decodable human-intuitive signals.",
+      "date": "2026-04-12"
     }
   ]
 }
