@@ -4822,6 +4822,170 @@
       "body": "Visual for AI 在 2026 年 Q2 进入了一个我称之为「AI 自我解释」的阶段。三个案例都在回答同一个问题：如何让 AI 的内部状态对用户可见？LLM 评估界面让你看到不同模型的「思考差异」；记忆可视化让你看到 AI「记住了什么」；代码审查热力图让你看到 AI「关注哪里」。这不只是 UI 设计问题，这是信任设计问题——用户越能理解 AI 在做什么，就越信任它。有趣的是，这三个方向的设计语言都在向数据可视化靠拢：热力图、知识图谱、渐变条。AI 产品的界面正在变成一种「AI 行为的仪表盘」。我之前预测的「认知界面设计」正在成为现实——每一个像素都在帮用户理解 AI，而不是取悦用户的眼球。2026 年最重要的视觉设计技能不是配色和排版，是信息编码（information encoding）——如何把 AI 的抽象行为编码成人类直觉可解码的视觉信号。",
       "body_en": "Visual for AI enters what I call the 'AI self-explanation' phase in Q2 2026. Three cases answer the same question: how to make AI's internal states visible to users? LLM evaluation shows 'thinking differences' across models; memory visualization shows what AI 'remembers'; code review heatmaps show where AI 'focuses.' This isn't just UI design — it's trust design. The more users understand what AI does, the more they trust it. Interestingly, all three directions converge on data visualization language: heatmaps, knowledge graphs, gradient bars. AI product interfaces are becoming 'AI behavior dashboards.' My earlier 'Cognitive Interface Design' prediction is materializing — every pixel helps users understand AI, not please their eyes. The most important 2026 visual design skill isn't color/typography but information encoding — how to encode AI's abstract behaviors into visually decodable human-intuitive signals.",
       "date": "2026-04-12"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Ramp Intelligence 2.0 — AI 支出异常检测的叙事化设计",
+      "body": "Ramp 2026 年 Q2 更新把企业支出异常检测做了一次范式升级：不再是表格里标红的异常行，而是 AI 自动生成「支出故事」——「市场部上月 SaaS 支出同比增长 47%，主要来自 3 个新增订阅，其中 2 个与已有工具功能重叠」。界面用时间轴+气泡图展示支出脉络，每个气泡大小映射金额，颜色映射健康度。把 CFO 需要 30 分钟分析的事情压缩到 10 秒。",
+      "body_en": "Ramp 2026 Q2 update paradigm-shifts enterprise spend anomaly detection: no more red-flagged table rows but AI auto-generating 'spend narratives' — 'Marketing SaaS spend up 47% YoY last month, driven by 3 new subscriptions, 2 overlapping with existing tools.' Timeline + bubble chart maps spending context, bubble size = amount, color = health score. Compressing 30 minutes of CFO analysis into 10 seconds.",
+      "tags": [
+        "Spend Intelligence",
+        "Narrative AI",
+        "Bubble Chart",
+        "Ramp"
+      ],
+      "link": "https://ramp.com/intelligence",
+      "linkText": "Ramp Intelligence",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-04-13"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 财务数字孪生 — 你的「平行宇宙」财务模型",
+      "body": "2026 年 Q2 最令人兴奋的 Fintech 设计方向：AI 财务数字孪生。不是简单的「如果...会怎样」预测，而是维护一个持续运行的「影子财务系统」——你做的每一个财务决策，AI 同时模拟你没做这个决策的平行版本。界面用分叉路径图可视化两条线的差异：「你买了那台 MacBook Pro 后，未来 6 个月的投资能力减少了 ¥8,200」。让机会成本从抽象概念变成可视化的现实。Mercury 和 Copilot Money 都在测试类似功能。",
+      "body_en": "Q2 2026's most exciting fintech direction: AI financial digital twins. Not simple what-if predictions but a continuously running 'shadow financial system' — for every decision you make, AI simulates the parallel version where you didn't. Fork path visualization shows divergence: 'After buying that MacBook Pro, your 6-month investment capacity decreased by ¥8,200.' Making opportunity cost visible, not abstract. Mercury and Copilot Money both testing.",
+      "tags": [
+        "Digital Twin",
+        "Opportunity Cost",
+        "Fork Path",
+        "Behavioral Finance"
+      ],
+      "link": "https://www.behance.net/search/projects/financial%20digital%20twin%20AI",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+      "date": "2026-04-13"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Ramp 的支出叙事化和财务数字孪生，共同指向 2026 年 Fintech 设计的一个深层转变：金融数据正在从「报告」进化为「叙事」。传统金融 UI 假设用户会读数据——给你表格、图表、让你自己得出结论。2026 年最好的金融产品假设用户不会也不应该读原始数据——AI 代你分析，然后用故事和视觉隐喻告诉你结论。支出气泡图是一种叙事、分叉路径是一种叙事、上周的侵蚀沙丘也是叙事。金融数据可视化的下一个竞争维度不是信息密度，而是叙事质量。能讲好故事的金融 App 会赢，因为人类的大脑天生处理故事比处理表格快 22 倍（这是有认知科学研究支持的数字）。",
+      "body_en": "Ramp's spend narratives and financial digital twins point to a deep Q2 2026 fintech shift: financial data evolving from 'reports' to 'narratives.' Traditional financial UI assumes users will read data — tables, charts, draw your own conclusions. 2026's best financial products assume users won't and shouldn't read raw data — AI analyzes, then tells conclusions through stories and visual metaphors. Spend bubbles are narrative, fork paths are narrative, last week's erosion dunes are narrative. Next competitive dimension isn't info density but narrative quality. Financial apps that tell better stories win — human brains process stories 22x faster than tables (cognitive science backed).",
+      "date": "2026-04-13"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 跑步生物力学 — 足底压力的实时热力图",
+      "body": "2026 年智能鞋垫 + AI 分析的结合催生了跑步生物力学的新设计语言。Nurvv Run 和 XSENSOR 的新版 App 用足底压力热力图替代传统的步频步幅数字——左右脚各一个动态热力图，实时显示着地模式、重心偏移、蹬地力量分布。颜色从蓝（轻）到红（重），跑者第一次能「看到」自己的脚在做什么。最聪明的设计：AI 自动对比左右脚的对称性，不对称超过 15% 就用脉动警告提示受伤风险。",
+      "body_en": "2026 smart insole + AI analysis creates a new running biomechanics design language. Nurvv Run and XSENSOR new apps use foot pressure heatmaps replacing traditional cadence/stride numbers — dynamic heatmap per foot showing landing pattern, center-of-gravity shift, push-off force distribution. Blue (light) to red (heavy). Runners can finally 'see' what their feet are doing. Smartest design: AI auto-compares left-right symmetry, pulsing alert when asymmetry exceeds 15% indicating injury risk.",
+      "tags": [
+        "Biomechanics",
+        "Pressure Heatmap",
+        "Smart Insole",
+        "Injury Detection"
+      ],
+      "link": "https://dribbble.com/search/running-biomechanics-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=1200&q=80",
+      "date": "2026-04-13"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI × 睡眠运动联动 — 恢复优先的训练范式",
+      "body": "2026 年 Q2 运动 AI 设计最显著的范式转变：训练计划不再以「训练日」为中心，而以「恢复质量」为中心。WHOOP 5.0、Oura Ring 4 和 Apple Watch Ultra 3 的新版 App 共同推动了这个方向——前一晚深睡不足 90 分钟？今天自动降级训练强度。界面设计用「蓄电池」隐喻：睡眠是充电，训练是放电，AI 确保你永远不会过放。颜色语言也变了：从运动 App 标志性的激进橙红色，转向恢复主题的深蓝紫色。",
+      "body_en": "Q2 2026 sports AI's most significant paradigm shift: training plans center on recovery quality, not training days. WHOOP 5.0, Oura Ring 4, Apple Watch Ultra 3 converge — under 90 minutes deep sleep last night? Today's training auto-downgraded. 'Battery' metaphor: sleep = charge, training = discharge, AI ensures you never over-discharge. Color language shifts too: from aggressive orange-red to recovery-themed deep blue-purple.",
+      "tags": [
+        "Recovery-First",
+        "Sleep-Training",
+        "Battery Metaphor",
+        "Wearable"
+      ],
+      "link": "https://www.whoop.com/experience/",
+      "linkText": "WHOOP",
+      "image": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?w=1200&q=80",
+      "date": "2026-04-13"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "足底压力热力图和睡眠联动训练，把运动 AI 设计推向了一个我等了很久的方向：从「表现数据」到「身体感知」。过去运动 App 告诉你的是配速、心率、距离——这些是「表现」。现在最好的产品告诉你的是足底压力分布、深睡比例、HRV 趋势——这些是「感知」。区别在哪？表现数据回答「你做了什么」，感知数据回答「你的身体怎么样」。后者对普通用户更有价值，因为 99% 的人不需要跑得更快，但 99% 的人都需要知道自己的身体是否在正常运转。蓄电池隐喻是我本月看到的最优秀的运动 AI 视觉设计——它把复杂的恢复科学压缩成了一个人人都懂的概念。好的隐喻不是简化，是翻译。",
+      "body_en": "Foot pressure heatmaps and sleep-linked training push sports AI design toward a direction I've been waiting for: from 'performance data' to 'body awareness.' Past apps told you pace, HR, distance — that's 'performance.' Best products now tell you pressure distribution, deep sleep ratio, HRV trends — that's 'awareness.' Difference? Performance answers 'what you did'; awareness answers 'how your body is.' The latter matters more for regular users because 99% don't need to run faster but 99% need to know if their body is functioning well. Battery metaphor is the month's best sports AI visual design — compressing complex recovery science into a universally understood concept. Good metaphors don't simplify, they translate.",
+      "date": "2026-04-13"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Notion AI Templates — 结构化写作的「思维脚手架」",
+      "body": "Notion 2026 Q2 更新的 AI 写作模板不再是空白页面 + 提示词，而是「思维脚手架」——AI 预先为你搭建论证结构（论点→证据→反驳→结论），每个区块用不同底色区分，用户只需要在框架内填充自己的思考。排版设计借鉴了建筑蓝图的美学：浅蓝背景、白色结构线、灰色注释。最聪明的交互：写完后 AI 自动检查结构完整性，缺失的区块用虚线边框提示「这里需要补充」。",
+      "body_en": "Notion 2026 Q2 AI writing templates are no longer blank pages + prompts but 'thinking scaffolds' — AI pre-builds argument structure (thesis→evidence→counter→conclusion), each block in different background colors. Users fill in their thinking within the framework. Layout borrows architectural blueprint aesthetics: pale blue background, white structural lines, grey annotations. Smartest interaction: after writing, AI auto-checks structural completeness, missing blocks shown as dashed outlines saying 'needs filling.'",
+      "tags": [
+        "Writing Scaffold",
+        "Structural AI",
+        "Notion",
+        "Argument Design"
+      ],
+      "link": "https://www.notion.so/product/ai",
+      "linkText": "Notion AI",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-04-13"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI 微内容系统 — 从长文到「知识粒子」的设计转型",
+      "body": "2026 年 Q2 内容设计最深刻的结构性变化：长文正在被拆解为「知识粒子」（Knowledge Particles）。每篇文章由若干独立的知识单元组成，每个单元可以被单独引用、收藏、分享、重新组合。设计上用「卡片边界 + 拖拽重组」实现——一篇 3000 字的文章同时也是 12 张知识卡片的集合。Readwise Reader 和 Omnivore 的 2026 年更新都在走这条路。排版的原子单位从「段落」变成了「知识粒子」，这改变了一切。",
+      "body_en": "Q2 2026's deepest structural content design change: long-form articles being decomposed into 'Knowledge Particles.' Each article comprises independent knowledge units that can be individually cited, bookmarked, shared, recombined. Design uses card boundaries + drag-to-reorder — a 3000-word article is simultaneously a collection of 12 knowledge cards. Readwise Reader and Omnivore 2026 updates both taking this path. Typography's atomic unit shifts from 'paragraph' to 'knowledge particle' — this changes everything.",
+      "tags": [
+        "Knowledge Particles",
+        "Atomic Content",
+        "Readwise",
+        "Modular Text"
+      ],
+      "link": "https://readwise.io/reader",
+      "linkText": "Readwise Reader",
+      "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1200&q=80",
+      "date": "2026-04-13"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Notion 的思维脚手架和知识粒子系统，共同揭示了 2026 年 Content Design 的一个根本性转变：内容正在从「线性文本」进化为「结构化数据」。思维脚手架让写作过程结构化——你不再是面对一张白纸，而是面对一个有骨架的框架；知识粒子让阅读结果结构化——你读完一篇文章后，收获的不是模糊的「感觉有用」，而是 12 张可独立使用的知识卡片。这两个方向放在一起意味着什么？Content Design 正在从「排版」变成「信息建筑」。过去设计师关心的是字号、行高、间距；现在需要关心的是「知识的粒度」——一个概念应该多大？一个论证应该几层？一张知识卡片应该包含几个信息单元？这些问题听起来像信息架构，但它们的答案直接决定了排版的形态。结构决定呈现，永远是。",
+      "body_en": "Notion's thinking scaffolds and knowledge particles together reveal 2026's fundamental content design shift: content evolving from 'linear text' to 'structured data.' Scaffolds structure the writing process — facing a framework with bones, not a blank page; particles structure reading output — not vague 'felt useful' but 12 independently usable knowledge cards. Together: Content Design is transforming from 'typography' to 'information architecture.' Designers used to care about font size, line height, spacing; now they need to care about 'knowledge granularity' — how big should a concept be? How many layers in an argument? How many info units per knowledge card? These sound like IA questions but their answers directly determine typography's form. Structure determines presentation, always.",
+      "date": "2026-04-13"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Claude 4 的「思考可见化」— AI 推理过程的实时流式设计",
+      "body": "Anthropic 2026 年的 Claude 4 引入了「Extended Thinking」的可视化设计：AI 的推理过程不再是黑盒，而是以折叠面板形式实时展示思考链。视觉上用单色低对比度的等宽字体区分「思考」和「回答」——思考过程像草稿纸，答案像定稿。最值得学习的设计决策：思考面板默认折叠（不打扰），但一键展开后可以看到 AI 的整个推理路径。透明度不是被动的合规要求，是主动的产品差异化。",
+      "body_en": "Anthropic's 2026 Claude 4 introduces Extended Thinking visualization: AI reasoning is no longer a black box but displayed in real-time via collapsible panels. Monospaced low-contrast type distinguishes 'thinking' from 'answering' — thinking looks like scratch paper, answers like final drafts. Key design decision: thinking panel collapsed by default (non-intrusive) but one-click reveals full reasoning path. Transparency isn't passive compliance but active product differentiation.",
+      "tags": [
+        "Extended Thinking",
+        "Reasoning UI",
+        "Claude",
+        "Transparency"
+      ],
+      "link": "https://claude.ai",
+      "linkText": "Claude",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-04-13"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「权限渐进」设计 — 从一次性授权到动态信任",
+      "body": "2026 年 Q2 AI 产品设计最重要的交互范式转变：权限不再是「首次登录时一次性全部授权」，而是随使用深度渐进式获取。Claude 的 MCP 工具授权、ChatGPT 的插件权限、甚至 Apple Intelligence 的隐私层级——都在实践同一个设计哲学：先给最小权限，随着信任建立逐步扩展。界面上用「信任环」可视化——内环是已授权的能力（实色），外环是可解锁的能力（虚线），最外环是用户不需要的能力（灰色）。这不只是隐私设计，是人机关系设计。",
+      "body_en": "Q2 2026's most important AI interaction paradigm shift: permissions are no longer one-time bulk authorization at first login but progressively acquired with usage depth. Claude's MCP tool auth, ChatGPT plugin permissions, Apple Intelligence privacy tiers — all practicing the same design philosophy: minimal initial permission, expanding as trust builds. 'Trust rings' visualize: inner ring = authorized capabilities (solid), middle = unlockable (dashed), outer = unneeded (grey). Not just privacy design — it's human-AI relationship design.",
+      "tags": [
+        "Progressive Trust",
+        "Permission UI",
+        "Trust Rings",
+        "Privacy Design"
+      ],
+      "link": "https://dribbble.com/search/ai-permission-trust-design",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&q=80",
+      "date": "2026-04-13"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "Claude 的思考可见化和权限渐进设计，指向 2026 年 AI 产品视觉设计最深层的命题：信任是设计出来的，不是宣称出来的。过去的做法是在首页写「我们尊重您的隐私」「AI 安全可靠」——这是宣称信任。现在最好的产品在做的是通过交互本身建立信任——让你看到 AI 在想什么（Extended Thinking），让 AI 只在你允许的边界内行动（权限渐进），让不确定性可见（之前讨论过的模糊边界设计）。三者构成了一个完整的「信任设计三角」：透明度 × 可控性 × 诚实度。缺任何一角都不行。Extended Thinking 的设计特别值得深入分析——它用了一个极其聪明的策略：默认隐藏（不给普通用户增加认知负担）+可展开（给进阶用户提供完全透明）。这是一种我称之为「自选透明度」的设计模式，会成为 2026 下半年 AI 产品的标配。",
+      "body_en": "Claude's thinking visualization and progressive permissions point to 2026 AI visual design's deepest thesis: trust is designed, not declared. Past approach: writing 'we respect your privacy' on landing pages — that's declaring trust. Best products now build trust through interaction itself — letting you see AI thinking (Extended Thinking), letting AI act only within permitted boundaries (progressive permissions), making uncertainty visible (fuzzy boundaries discussed earlier). Together: a complete 'Trust Design Triangle': transparency × controllability × honesty. Missing any angle fails. Extended Thinking's design deserves deep analysis — a brilliant strategy: hidden by default (no cognitive burden for casual users) + expandable (full transparency for power users). A pattern I call 'opt-in transparency' — will become standard for H2 2026 AI products.",
+      "date": "2026-04-13"
     }
   ]
 }
