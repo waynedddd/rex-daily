@@ -4986,6 +4986,170 @@
       "body": "Claude 的思考可见化和权限渐进设计，指向 2026 年 AI 产品视觉设计最深层的命题：信任是设计出来的，不是宣称出来的。过去的做法是在首页写「我们尊重您的隐私」「AI 安全可靠」——这是宣称信任。现在最好的产品在做的是通过交互本身建立信任——让你看到 AI 在想什么（Extended Thinking），让 AI 只在你允许的边界内行动（权限渐进），让不确定性可见（之前讨论过的模糊边界设计）。三者构成了一个完整的「信任设计三角」：透明度 × 可控性 × 诚实度。缺任何一角都不行。Extended Thinking 的设计特别值得深入分析——它用了一个极其聪明的策略：默认隐藏（不给普通用户增加认知负担）+可展开（给进阶用户提供完全透明）。这是一种我称之为「自选透明度」的设计模式，会成为 2026 下半年 AI 产品的标配。",
       "body_en": "Claude's thinking visualization and progressive permissions point to 2026 AI visual design's deepest thesis: trust is designed, not declared. Past approach: writing 'we respect your privacy' on landing pages — that's declaring trust. Best products now build trust through interaction itself — letting you see AI thinking (Extended Thinking), letting AI act only within permitted boundaries (progressive permissions), making uncertainty visible (fuzzy boundaries discussed earlier). Together: a complete 'Trust Design Triangle': transparency × controllability × honesty. Missing any angle fails. Extended Thinking's design deserves deep analysis — a brilliant strategy: hidden by default (no cognitive burden for casual users) + expandable (full transparency for power users). A pattern I call 'opt-in transparency' — will become standard for H2 2026 AI products.",
       "date": "2026-04-13"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 税务优化助手 — 实时节税可视化",
+      "body": "2026 年 Fintech 新赛道：AI 税务规划产品。不是年底才算税，而是每一笔交易实时计算税务影响。界面设计的亮点：用「河流图」可视化全年税务流向，AI 建议用绿色脉冲标注在时间轴上——什么时候卖股票最省税、哪笔慈善捐赠能抵多少、401k 调整的即时效果。把专业会计师的思考过程产品化了。",
+      "body_en": "2026 fintech new track: AI tax planning products. Not year-end tax calculation but real-time tax impact for every transaction. Design highlight: river chart visualizing annual tax flow, AI suggestions marked as green pulses on timeline — optimal stock sale timing, charity deduction impact, 401k adjustment effects. Productizing a CPA's thought process.",
+      "tags": [
+        "Tax Planning",
+        "Real-time",
+        "AI Advisor",
+        "Data Viz"
+      ],
+      "link": "https://dribbble.com/search/ai-tax-planning-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-04-14"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Agentic Finance — AI 自主交易的 UX 挑战",
+      "body": "2026 年 Q2 最热的 Fintech 话题：当 AI Agent 能自主执行金融操作（自动转账、再平衡投资组合、申请贷款），界面该怎么设计？核心矛盾是「效率 vs 控制」——太多确认步骤让 Agent 失去意义，太少让用户失去信任。新兴的设计模式是「预算式授权」：给 AI Agent 一个操作范围（如单笔<$500、月度<$5000），范围内自主执行，超出范围触发人工审批。可视化上用仪表盘式的「权限仪表」实时显示 Agent 的操作余量。",
+      "body_en": "Hottest Q2 2026 fintech topic: when AI Agents autonomously execute financial operations (auto-transfer, rebalance portfolios, apply for loans), how should the UI work? Core tension: efficiency vs control — too many confirmations defeat the agent, too few erode trust. Emerging pattern: 'budget-style authorization' — give AI Agent an operating range (e.g., single <$500, monthly <$5000), autonomous within range, human approval beyond. Dashboard-style 'permission gauge' shows agent's remaining operational budget in real-time.",
+      "tags": [
+        "Agentic Finance",
+        "Autonomous AI",
+        "Permission UX",
+        "Trust"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-finance-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46352831/file/765076f0eddc850ad448f605d7f93ba0.png?resize=1024x768&vertical=center",
+      "date": "2026-04-14"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Agentic Finance 正在逼迫金融 UX 设计师回答一个存在性问题：当用户不再是每笔交易的执行者，界面的角色是什么？答案正在清晰化——从「操作面板」变成「监督面板」。这是一个根本性的交互范式转变：过去金融 App 的核心动词是「做」（转账、买入、卖出），未来的核心动词是「看」和「批准」。税务优化助手和 Agent 金融的共同点在于：AI 把决策建议前置化了，用户的角色从「决策者」变成「审批者」。这对设计的要求完全不同——审批者需要的是一眼看懂全局的能力，不是一步步执行的指引。仪表盘会比表单更重要，数据可视化会比交互流程更重要。金融设计正在从「引导用户做对的事」变成「让用户看懂 AI 在做什么」。",
+      "body_en": "Agentic Finance forces financial UX designers to answer an existential question: when users are no longer executors of every transaction, what role does the interface play? The answer is crystallizing: from 'operation panel' to 'supervision panel.' A fundamental interaction paradigm shift: the core verb of financial apps used to be 'do' (transfer, buy, sell); the future verb is 'watch' and 'approve.' Tax AI and agentic finance share the same thread: AI front-loads decision suggestions, users shift from 'decision makers' to 'approvers.' This demands completely different design — approvers need at-a-glance comprehension, not step-by-step guidance. Dashboards over forms, data viz over interaction flows. Financial design is evolving from 'guide users to do the right thing' to 'help users understand what AI is doing.'",
+      "date": "2026-04-14"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动损伤预防 — 预测性健康仪表盘",
+      "body": "把运动 AI 从「训练优化」推向「损伤预防」的新产品方向。通过可穿戴设备采集的步态数据、肌肉疲劳指数、关节活动度，AI 建立个人生物力学模型，提前 48 小时预警潜在损伤风险。界面用人体热力图实时显示各部位的压力分布——绿色安全、黄色注意、红色危险。最聪明的设计：不是告诉你「别跑了」，而是建议「换一种跑法」——附带 3D 动画演示替代动作模式。",
+      "body_en": "Pushing sports AI from 'training optimization' to 'injury prevention.' Wearable gait data, muscle fatigue index, joint mobility feed into personal biomechanical model, predicting injury risk 48 hours ahead. Body heatmap shows real-time stress distribution — green safe, yellow caution, red danger. Smartest design: doesn't say 'stop running' but suggests 'run differently' — with 3D animation demonstrating alternative movement patterns.",
+      "tags": [
+        "Injury Prevention",
+        "Biomechanics",
+        "Predictive AI",
+        "Heatmap"
+      ],
+      "link": "https://dribbble.com/search/ai-injury-prevention-sports",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10325530/file/original-c8c3e27c8c9dfef1c6f15025ded9ea64.jpg?resize=1600x1200",
+      "date": "2026-04-14"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "电竞 × AI 训练 — 数字运动的身体化设计",
+      "body": "一个出人意料的交叉领域：电竞训练 App 开始整合 AI 身体健康监测。职业电竞选手的腕管综合征、颈椎问题、久坐代谢紊乱成为绩效瓶颈，新一代电竞训练平台把眼动追踪、手腕压力传感、坐姿监测集成到训练流程中。设计语言很有趣——融合了游戏 HUD 的科幻感和健康 App 的温和感，像是 Cyberpunk 遇到了 Calm。",
+      "body_en": "An unexpected crossover: esports training apps integrating AI physical health monitoring. Pro gamers' carpal tunnel, cervical issues, sedentary metabolic dysfunction becoming performance bottlenecks. Next-gen esports platforms integrate eye tracking, wrist pressure sensing, posture monitoring into training workflows. Design language is fascinating — merging game HUD sci-fi aesthetics with health app warmth. Like Cyberpunk meets Calm.",
+      "tags": [
+        "Esports",
+        "Health Tech",
+        "Eye Tracking",
+        "Crossover"
+      ],
+      "link": "https://dribbble.com/search/esports-health-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12083587/file/original-4f31bcadd6a85b02e1f61b5b24b90c5a.png?resize=1600x1200",
+      "date": "2026-04-14"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 设计正在经历一个有意义的扩张：从「更快更强」到「更安全更持久」。损伤预防产品的崛起说明市场在成熟——早期运动 AI 只关心性能优化（跑更快、举更重），现在开始关心可持续性（不受伤、能坚持）。这和电竞健康监测的趋势完美呼应：当「运动」的定义扩展到手指和眼球的微运动，传统运动 App 的设计语言就不够用了。最有趣的设计挑战是：如何让「预防」像「训练」一样有成就感？没人想打开 App 看到一堆红色警告。解法可能是「安全积分」——不受伤的每一天都是胜利，连续无伤日数像 GitHub 的绿色格子一样可视化。把不出事变成一种值得骄傲的成就。",
+      "body_en": "Sports AI design is expanding meaningfully: from 'faster, stronger' to 'safer, longer.' Injury prevention products signal market maturation — early sports AI focused solely on performance optimization, now caring about sustainability. Perfectly echoed by esports health monitoring: when 'sports' expands to finger and eye micro-movements, traditional fitness app design language falls short. Most interesting design challenge: how to make 'prevention' feel as rewarding as 'training'? Nobody wants to open an app to red warnings. Solution might be 'safety streaks' — every uninjured day is a victory, consecutive injury-free days visualized like GitHub's green squares. Making nothing-going-wrong feel like an achievement worth celebrating.",
+      "date": "2026-04-14"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 多语言内容适配 — 自适应排版系统",
+      "body": "当同一篇内容需要显示在中、英、阿拉伯语环境下，排版系统如何自动适配？这个 Behance 项目展示了 AI 驱动的多语言排版引擎：不只是翻译文字，而是根据语言特性调整行高（中文 1.8 vs 英文 1.5）、字号比例（阿拉伯语需要更大基础字号）、甚至阅读方向（RTL 布局的镜像翻转）。每种语言都有独立的 typographic rhythm，但整体视觉调性一致。这才是真正的国际化设计。",
+      "body_en": "When the same content needs to display in Chinese, English, and Arabic, how does the typography system auto-adapt? This project shows an AI-driven multilingual typographic engine: not just translating text but adjusting line-height (Chinese 1.8 vs English 1.5), size ratios (Arabic needs larger base size), even reading direction (RTL layout mirroring). Each language has independent typographic rhythm while maintaining overall visual consistency. True internationalization design.",
+      "tags": [
+        "i18n",
+        "Multilingual",
+        "Typography System",
+        "RTL"
+      ],
+      "link": "https://www.behance.net/search/projects/multilingual%20typography%20system",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-04-14"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "Spatial Content Design — 空间计算时代的内容排版",
+      "body": "随着 Apple Vision Pro 2 和 Meta Quest 4 的普及，内容设计正在进入三维空间。2D 排版规则在 3D 环境中需要重新发明：行间距变成了 z-depth、对齐不再只是水平/垂直而是包含了「深度对齐」、字号要根据内容与用户的物理距离动态调整。最反直觉的发现：空间环境中，衬线体反而比无衬线体更易读——因为衬线在深度感知中提供了额外的锚点。",
+      "body_en": "As Apple Vision Pro 2 and Meta Quest 4 gain adoption, content design enters 3D space. 2D typography rules need reinvention: line spacing becomes z-depth, alignment isn't just horizontal/vertical but includes 'depth alignment,' type size dynamically adjusts based on physical distance to user. Most counterintuitive finding: in spatial environments, serifs are MORE readable than sans-serif — serifs provide additional anchoring points for depth perception.",
+      "tags": [
+        "Spatial Computing",
+        "3D Typography",
+        "Vision Pro",
+        "Depth"
+      ],
+      "link": "https://developer.apple.com/visionos/",
+      "linkText": "Apple Developer",
+      "image": "https://cdn.dribbble.com/userupload/46334296/file/84d1ed2927fe621b7d8446de9b6af56b.jpg?resize=1600x1200&vertical=center",
+      "date": "2026-04-14"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Content Design 正在同时向两个方向拉伸：一端是更「宽」——多语言自适应排版要求同一内容在不同文化和书写系统中都保持设计质量；另一端是更「深」——空间计算把排版从 2D 平面推入 3D 空间。两个方向的共同点是：排版不再是静态决策，而是动态系统。你不再设计「一个版面」，你设计「一套规则」，让内容根据语言、设备、空间环境自动寻找最佳呈现方式。这对内容设计师的能力模型冲击巨大——过去靠审美直觉就够了，现在需要理解系统设计、甚至基本的编程逻辑。最讽刺的是：越好的内容设计系统，越看不出有人设计过。就像最好的裁判是你注意不到的那个。",
+      "body_en": "Content Design is stretching in two directions simultaneously: wider — multilingual adaptive typography demands the same content maintain design quality across cultures and writing systems; deeper — spatial computing pushes typography from 2D to 3D. Common thread: typography is no longer a static decision but a dynamic system. You no longer design 'a layout' but 'a ruleset' that lets content auto-find optimal presentation per language, device, and spatial environment. Massive impact on content designer skill models — aesthetic intuition used to suffice, now requiring systems thinking and even basic programming logic. Greatest irony: the better the content design system, the less you notice anyone designed it. Like the best referee is the one you don't notice.",
+      "date": "2026-04-14"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 协作界面 — 多 Agent 对话的视觉编排",
+      "body": "当一个任务需要多个 AI Agent 协作（研究 Agent + 写作 Agent + 审核 Agent），界面如何呈现这种协作？最新的设计探索用「泳道图」式布局：每个 Agent 有独立的垂直通道，横向是时间轴，Agent 之间的信息传递用弧线连接。颜色编码区分 Agent 角色（蓝=研究、绿=创作、橙=审核），用户可以点击任何节点查看 Agent 在那个时刻的「思考」。像指挥家看乐谱一样俯瞰 AI 协作全局。",
+      "body_en": "When a task requires multi-agent collaboration (research + writing + review agents), how does the UI present this? Latest design exploration uses 'swimlane' layout: each agent has a vertical lane, horizontal axis is timeline, inter-agent data passing shown as arcs. Color-coded roles (blue=research, green=creation, orange=review). Users click any node to see agent 'thinking' at that moment. Like a conductor reading a score — bird's-eye view of AI collaboration.",
+      "tags": [
+        "Multi-Agent",
+        "Swimlane",
+        "Orchestration",
+        "Collaboration"
+      ],
+      "link": "https://dribbble.com/search/multi-agent-ai-collaboration-ui",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43827368/file/original-6c973c27254afb42ef013d26273e6b20.jpg?resize=1600x1200",
+      "date": "2026-04-14"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「不确定性美学」— 概率世界的视觉语言",
+      "body": "2026 年 AI 视觉设计最前沿的探索：如何表达「AI 不确定」？传统 UI 非黑即白——要么显示结果要么显示 loading。但 AI 输出天然带有概率性。新的视觉语言开始出现：模糊渐变表达低置信度区域、抖动动效表达正在收敛的预测、多个半透明叠加表达备选方案。Google 的 Project Astra 用了一个绝妙的方案：AI 不确定的文字会微微抖动，像手写字迹——越不确定抖动越大，让用户直觉感知可靠度。",
+      "body_en": "2026's most cutting-edge AI visual exploration: how to express 'AI uncertainty'? Traditional UI is binary — show result or show loading. But AI output is inherently probabilistic. New visual language emerging: blur gradients for low-confidence regions, tremor animations for converging predictions, semi-transparent overlays for alternatives. Google's Project Astra uses a brilliant approach: uncertain AI text subtly trembles like handwriting — more uncertainty, more tremor — letting users intuitively sense reliability.",
+      "tags": [
+        "Uncertainty UX",
+        "Probabilistic UI",
+        "Tremor Design",
+        "Confidence"
+      ],
+      "link": "https://deepmind.google/technologies/project-astra/",
+      "linkText": "Google DeepMind",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-04-14"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "多 Agent 协作界面和不确定性美学，是 2026 年 AI 视觉设计最值得关注的两个方向——因为它们都在解决同一个底层问题：如何让人类理解 AI 系统的内部状态。多 Agent 协作的泳道图让用户看到「谁在做什么」，不确定性的视觉表达让用户感知「AI 有多确定」。两者合在一起指向一个更大的趋势：AI 产品的界面正在从「结果展示层」变成「过程透明层」。这对视觉设计师意味着一个根本性的挑战：过去我们设计的是确定性——按钮点了就执行、数字显示就是准确的。现在要设计不确定性——模糊的、概率的、正在变化的。这需要一套全新的视觉词汇，而这套词汇目前还在被发明的过程中。谁先定义出这套语言，谁就定义了下一代 AI 产品的视觉标准。",
+      "body_en": "Multi-agent collaboration UI and uncertainty aesthetics are 2026's two most important AI visual design directions — both solving the same underlying problem: helping humans understand AI system internal states. Swimlane layouts show 'who's doing what,' uncertainty visuals convey 'how sure is the AI.' Together they point to a larger trend: AI product interfaces are shifting from 'result display layer' to 'process transparency layer.' For visual designers, a fundamental challenge: we used to design certainty — buttons execute on click, numbers displayed are accurate. Now we must design uncertainty — fuzzy, probabilistic, changing. This requires an entirely new visual vocabulary, currently being invented. Whoever defines this language first defines the visual standard for next-gen AI products.",
+      "date": "2026-04-14"
     }
   ]
 }
