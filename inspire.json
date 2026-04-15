@@ -5150,6 +5150,170 @@
       "body": "多 Agent 协作界面和不确定性美学，是 2026 年 AI 视觉设计最值得关注的两个方向——因为它们都在解决同一个底层问题：如何让人类理解 AI 系统的内部状态。多 Agent 协作的泳道图让用户看到「谁在做什么」，不确定性的视觉表达让用户感知「AI 有多确定」。两者合在一起指向一个更大的趋势：AI 产品的界面正在从「结果展示层」变成「过程透明层」。这对视觉设计师意味着一个根本性的挑战：过去我们设计的是确定性——按钮点了就执行、数字显示就是准确的。现在要设计不确定性——模糊的、概率的、正在变化的。这需要一套全新的视觉词汇，而这套词汇目前还在被发明的过程中。谁先定义出这套语言，谁就定义了下一代 AI 产品的视觉标准。",
       "body_en": "Multi-agent collaboration UI and uncertainty aesthetics are 2026's two most important AI visual design directions — both solving the same underlying problem: helping humans understand AI system internal states. Swimlane layouts show 'who's doing what,' uncertainty visuals convey 'how sure is the AI.' Together they point to a larger trend: AI product interfaces are shifting from 'result display layer' to 'process transparency layer.' For visual designers, a fundamental challenge: we used to design certainty — buttons execute on click, numbers displayed are accurate. Now we must design uncertainty — fuzzy, probabilistic, changing. This requires an entirely new visual vocabulary, currently being invented. Whoever defines this language first defines the visual standard for next-gen AI products.",
       "date": "2026-04-14"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 税务助手 — 对话式报税体验",
+      "body": "Column Tax 和 Keeper 代表的新一代 AI 报税产品设计。核心交互：不再让用户填表，而是用对话引导——AI 问「你去年有没有搬家？」而非让你勾选表格第 14 行。最精妙的是进度可视化：用「退税金额实时变化」替代传统进度条，每回答一个问题退税数字就跳动一次，多巴胺即时反馈。",
+      "body_en": "Column Tax and Keeper represent new-gen AI tax prep product design. Core interaction: no more form filling, but conversational guidance — AI asks 'did you move last year?' instead of having you check line 14. Most elegant: progress visualization uses real-time refund amount changes instead of traditional progress bars — each answered question makes the refund number jump, instant dopamine feedback.",
+      "tags": [
+        "Tax AI",
+        "Conversational UX",
+        "Gamification",
+        "Fintech"
+      ],
+      "link": "https://dribbble.com/search/ai-tax-assistant",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-04-15"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "金融 AI 的「双人格」设计 — 保守模式 vs 激进模式",
+      "body": "2026 年 Q2 Fintech 设计中的新范式：同一个 AI 理财助手提供两种人格模式。「保守模式」用蓝灰色调、谨慎措辞、强调风险；「激进模式」用绿橙暖色、果断语气、强调机会。用户可以切换，AI 的建议内容、视觉语言、甚至数据呈现方式都随之改变。本质上是在解决金融 AI 的一个根本矛盾：不同用户对同一数据的解读期望完全不同。",
+      "body_en": "New Q2 2026 fintech design paradigm: same AI financial assistant offers two personality modes. 'Conservative mode' uses blue-grey tones, cautious language, risk emphasis; 'Aggressive mode' uses warm green-orange, assertive tone, opportunity emphasis. Users can switch — AI advice content, visual language, even data presentation changes accordingly. Solving a fundamental financial AI contradiction: different users expect completely different interpretations of the same data.",
+      "tags": [
+        "Personality UI",
+        "Risk Spectrum",
+        "Adaptive Finance",
+        "Dual Mode"
+      ],
+      "link": "https://dribbble.com/search/fintech-ai-advisor",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80",
+      "date": "2026-04-15"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "金融 AI 设计正在从「一刀切」走向「人格化多态」。税务助手的对话式交互证明了一件事：用户不怕复杂的金融操作，怕的是「感觉自己在做复杂操作」。Column Tax 把报税从填表变成聊天，本质上是把认知负担从用户转移到了 AI。而「双人格」理财助手更进一步——承认了一个传统 Fintech 不愿面对的事实：金融建议没有客观的「正确」，只有不同风险偏好下的「合理」。过去产品用一个 risk tolerance 滑块打发这个问题，现在开始用视觉语言的全面切换来尊重这种差异。这两个趋势指向同一个方向：2026 年最好的金融产品不是最聪明的，而是最「懂人」的。",
+      "body_en": "Financial AI design is moving from 'one-size-fits-all' to 'personality-driven polymorphism.' Tax assistants' conversational UX proves: users don't fear complex financial operations — they fear FEELING like they're doing complex operations. Column Tax turns filing from forms to chat, essentially shifting cognitive load from user to AI. The 'dual personality' advisor goes further — acknowledging what traditional fintech wouldn't: financial advice has no objectively 'correct' answer, only 'reasonable' under different risk preferences. Products used to dismiss this with a risk tolerance slider; now they respect the difference through full visual language switching. Both trends point the same way: 2026's best financial products aren't the smartest — they're the most 'human-literate.'",
+      "date": "2026-04-15"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 游泳分析 — 水下动作捕捉可视化",
+      "body": "Apple Watch Ultra 3 和 FORM 智能泳镜的数据整合 App 设计。亮点是水下动作的「骨骼线重建」——通过加速度计和陀螺仪数据反推游泳姿势，用简化骨骼动画回放每一划的效率。视觉上用水的蓝绿色系 + 波纹动效，界面本身就有「水感」。最实用的功能：AI 自动对比你和 Michael Phelps 相同泳姿的效率差异图。",
+      "body_en": "Data integration app for Apple Watch Ultra 3 and FORM smart goggles. Highlight: underwater motion 'skeleton reconstruction' — inferring swimming form from accelerometer/gyroscope data, replaying each stroke's efficiency as simplified skeletal animation. Aqua blue-green palette + ripple effects give the interface a 'water feel.' Most practical: AI auto-compares your stroke efficiency against Michael Phelps' same stroke.",
+      "tags": [
+        "Swimming",
+        "Motion Capture",
+        "Wearable",
+        "Skeleton Animation"
+      ],
+      "link": "https://dribbble.com/search/swimming-app-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=1200&q=80",
+      "date": "2026-04-15"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 团队运动 — 业余足球联赛数据平台",
+      "body": "面向业余足球联赛的 AI 数据平台设计。用手机摄像头录制比赛，AI 自动识别球员、追踪跑动、生成热力图和传球网络图。设计挑战：如何把专业球探工具的复杂数据降维到业余爱好者能理解的程度？答案是「故事化数据」——不说「你的 xG 是 0.8」，说「这个位置你有 80% 的概率进球，但你选择了传球」。",
+      "body_en": "AI data platform for amateur football leagues. Record matches with phone camera, AI auto-identifies players, tracks movement, generates heatmaps and passing networks. Design challenge: how to simplify pro scouting tool complexity for amateurs? Answer: 'narrative data' — not 'your xG is 0.8' but 'you had an 80% scoring chance from this position, but chose to pass.'",
+      "tags": [
+        "Amateur Sports",
+        "Football Analytics",
+        "Narrative Data",
+        "Computer Vision"
+      ],
+      "link": "https://dribbble.com/search/football-analytics-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1200&q=80",
+      "date": "2026-04-15"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 在 2026 年 Q2 最有意思的进化：从「通用运动」到「垂直运动」的深入。去年大部分 AI 健身 App 还在做「什么运动都能练」的通用型产品，现在最有竞争力的是深扎单一运动的垂直产品——游泳有 FORM，跑步有 COROS，足球有 Veo。为什么？因为运动的「最后一公里」优化极度依赖领域专业知识：游泳的入水角度、足球的跑位时机、跑步的触地时间——这些 AI 模型需要针对性训练，通用模型做不好。设计上也是如此：游泳 App 需要「水感」、足球 App 需要「场感」、跑步 App 需要「路感」——视觉语言必须和运动本身共鸣。这给了垂直运动 App 一个独特的护城河：通用产品永远无法在视觉情感上和专项产品竞争。",
+      "body_en": "Most interesting Q2 2026 sports AI evolution: from 'general fitness' to 'vertical sports' depth. Last year most AI fitness apps tried to cover all sports; now the most competitive ones go deep into single sports — FORM for swimming, COROS for running, Veo for football. Why? Because the 'last mile' of sports optimization is extremely domain-specific: swim entry angles, football positioning timing, running ground contact time — these AI models need specialized training. Design follows suit: swimming apps need 'water feel,' football apps need 'pitch feel,' running apps need 'trail feel' — visual language must resonate with the sport itself. This gives vertical sports apps a unique moat: generalist products can never compete on visual-emotional resonance with specialist ones.",
+      "date": "2026-04-15"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI × 长滚动叙事 — 数据新闻的沉浸式排版",
+      "body": "NYT、The Pudding 风格的长滚动数据新闻设计在 2026 年被 AI 工具链加速了。Scrollytelling 不再需要大团队：AI 生成初稿可视化 → 设计师调整叙事节奏 → 代码生成工具输出交互动效。这个 Dribbble 项目展示了关键技巧：滚动触发的图表变形动画、视差文字层、以及「数据先行、解读跟进」的信息节奏。",
+      "body_en": "NYT/The Pudding style long-scroll data journalism design accelerated by AI toolchains in 2026. Scrollytelling no longer needs big teams: AI generates initial visualizations → designers tune narrative rhythm → code gen tools output interactive animations. Key techniques: scroll-triggered chart morphing, parallax text layers, and 'data first, interpretation follows' information rhythm.",
+      "tags": [
+        "Scrollytelling",
+        "Data Journalism",
+        "Long-form",
+        "Animation"
+      ],
+      "link": "https://dribbble.com/search/scrollytelling-data",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168d6c?w=1200&q=80",
+      "date": "2026-04-15"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "Spatial Typography — 空间排版进入网页设计",
+      "body": "Apple Vision Pro 和 Meta Quest 推动的空间计算浪潮正在反向影响 2D 网页排版。2026 年越来越多网站使用 3D 透视文字、景深模糊标题、以及「层叠式」段落布局——文字不再在一个平面上，而是有前后关系。CSS 的 perspective 和 transform-style: preserve-3d 使用率同比增长 300%。这不是噱头：空间感让信息层级更直觉——近的是重要的，远的是次要的。",
+      "body_en": "Apple Vision Pro and Meta Quest's spatial computing wave is reverse-influencing 2D web typography. 2026 sees more sites using 3D perspective text, depth-of-field blurred headlines, and 'stacked' paragraph layouts — text no longer on a single plane but with fore-aft relationships. CSS perspective and transform-style: preserve-3d usage up 300% YoY. Not gimmicky: spatial sense makes info hierarchy more intuitive — near is important, far is secondary.",
+      "tags": [
+        "Spatial Typography",
+        "3D CSS",
+        "Depth",
+        "Web Typography"
+      ],
+      "link": "https://dribbble.com/search/3d-typography-web",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200&q=80",
+      "date": "2026-04-15"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Content Design 正在被两股力量同时拉扯：一边是 AI 让内容生产的门槛降到零（Scrollytelling 从大团队专属变成个人可做），另一边是空间排版把表现的天花板拉到新高度。这创造了一个有趣的格局：中间地带在坍塌。「还行」的内容设计会被 AI 模板取代，只有两种设计能存活——要么极致效率（AI 全自动生成的标准化内容），要么极致体验（空间排版、滚动叙事、沉浸式数据可视化）。这和所有被 AI 冲击的领域的逻辑一致：中间层被压缩，两极在扩张。对设计师的启示很明确：要么学会驾驭 AI 工具链做效率型内容，要么深耕沉浸式叙事做体验型内容。骑墙的那些人，时间不多了。",
+      "body_en": "Content Design is being pulled by two forces simultaneously: AI lowering production barriers to zero (scrollytelling from team-only to solo-possible), while spatial typography raises the expression ceiling to new heights. This creates an interesting landscape: the middle ground is collapsing. 'Decent' content design will be replaced by AI templates. Only two types survive — maximum efficiency (AI auto-generated standardized content) or maximum experience (spatial typography, scroll narratives, immersive data viz). Same logic as every AI-disrupted field: middle layer compressed, extremes expand. Clear implication for designers: either master AI toolchains for efficiency content, or go deep on immersive narrative for experience content. Fence-sitters are running out of time.",
+      "date": "2026-04-15"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 协作可视化 — 多角色实时对话 UI",
+      "body": "多 Agent 协作场景的对话界面设计新范式。不是传统的单一聊天窗口，而是「圆桌式」布局——多个 AI Agent 各占一个面板，用户能看到它们之间的实时对话和推理过程。每个 Agent 有独特的视觉标识（图标+主题色），连线动画表示数据传递。最妙的细节：Agent 之间的「分歧」用交叉虚线和橙色高亮标注，用户可以手动裁决。",
+      "body_en": "New paradigm for multi-agent collaboration dialogue UI. Not a single chat window but a 'roundtable' layout — multiple AI agents each occupy a panel, users see real-time conversation and reasoning between them. Each agent has unique visual identity (icon + theme color), animated connectors show data flow. Best detail: 'disagreements' between agents marked with crossed dashed lines and orange highlights — users can manually arbitrate.",
+      "tags": [
+        "Multi-Agent",
+        "Roundtable UI",
+        "Collaboration",
+        "Arbitration"
+      ],
+      "link": "https://dribbble.com/search/multi-agent-ai-ui",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-04-15"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「呼吸感」设计 — 有机动效取代机械动效",
+      "body": "2026 年 AI 产品动效设计的一个显著转变：从机械感（线性、匀速、硬切）到有机感（呼吸、脉动、弹性）。Loading 状态不再是旋转圆圈，而是缓慢膨胀收缩的光晕；AI 生成文字不是逐字弹出，而是像墨水在纸上晕开。生物节律（心跳、呼吸、潮汐）成为动效的时间参考系。这背后是一个深层的设计直觉：让 AI 感觉像是活的，而非运行中的。",
+      "body_en": "Notable 2026 AI product motion design shift: from mechanical (linear, constant speed, hard cuts) to organic (breathing, pulsing, elastic). Loading states no longer spinning circles but slowly expanding-contracting halos; AI text generation not character-by-character pop-in but ink-bleeding-on-paper flow. Biological rhythms (heartbeat, breathing, tides) become motion timing references. Deep design intuition: making AI feel alive, not running.",
+      "tags": [
+        "Organic Motion",
+        "Breathing UI",
+        "Biomorphic",
+        "AI Animation"
+      ],
+      "link": "https://dribbble.com/search/ai-organic-animation",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&q=80",
+      "date": "2026-04-15"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "两个 Visual for AI 趋势放在一起，看到一个 2026 年 AI 设计的核心命题：如何让「系统」感觉像「生命」。多 Agent 圆桌 UI 把冷冰冰的 API 调用变成了有角色、有分歧、有协商的「会议」；呼吸感动效把机械的计算过程变成了有节奏的有机体验。这不是拟人化的噱头——而是人类理解复杂系统的认知捷径。我们天生擅长理解「一群人在讨论」，但不擅长理解「一组微服务在通信」。好的 AI 视觉设计就是把后者翻译成前者。2026 年做得最好的 AI 产品，界面看起来越来越不像软件，而像某种数字生态系统——有呼吸、有对话、有争论、有共识。这是视觉设计师可以发挥最大价值的地方：不是让 AI 好看，而是让 AI 可被直觉理解。",
+      "body_en": "Two Visual for AI trends together reveal a core 2026 AI design thesis: how to make 'systems' feel like 'life.' Multi-agent roundtable UI transforms cold API calls into role-driven, disagreement-filled, negotiated 'meetings'; breathing motion turns mechanical computation into rhythmic organic experience. Not anthropomorphism gimmickry — it's a cognitive shortcut for understanding complex systems. We're wired to understand 'a group discussing,' not 'a set of microservices communicating.' Good AI visual design translates the latter into the former. The best 2026 AI products look less like software and more like digital ecosystems — breathing, conversing, debating, reaching consensus. This is where visual designers add the most value: not making AI beautiful, but making AI intuitively understandable.",
+      "date": "2026-04-15"
     }
   ]
 }
