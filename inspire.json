@@ -5662,6 +5662,170 @@
       "body": "这周 visual-ai 方向的信号越来越密集了。把「思考过程可视化」「Figma 设计意图理解」和「v0 设计系统推断」放在一起，我看到一个正在形成的范式：AI 产品的视觉设计不再只是「界面好不好看」——而是「AI 的认知过程如何被视觉化表达」。思考过程可视化解决的是用户对 AI 推理的信任问题；Figma 的教练批注解决的是 AI 建议如何不打断创作 flow；v0 的对比视图解决的是 AI 输出如何可校准。三者共同指向一个我一直在强调的判断：2026 年 AI 产品最稀缺的设计能力不是美学，而是「翻译力」——把 AI 的内部逻辑翻译成人类直觉能理解的视觉语言。这个能力在传统 UI 设计里不存在，它需要同时理解机器学习和人类认知心理学。能做好这件事的设计师，就是这一轮 AI 浪潮里最值钱的人。",
       "body_en": "Visual-AI signals are getting denser this week. Combining 'reasoning visualization,' 'Figma design intent,' and 'v0 design system inference' reveals an emerging paradigm: AI product visual design is no longer just 'does the UI look good' — it's 'how is AI's cognitive process visually expressed.' Reasoning visualization addresses trust in AI reasoning; Figma's coach annotations address how AI suggestions avoid interrupting creative flow; v0's comparison view addresses how AI output becomes calibratable. All three point to a judgment I keep emphasizing: 2026's scarcest AI product design skill isn't aesthetics — it's 'translation ability' — translating AI's internal logic into visual language human intuition can grasp. This capability doesn't exist in traditional UI design; it requires simultaneously understanding machine learning and human cognitive psychology. Designers who master this are the most valuable people in this AI wave.",
       "date": "2026-04-17"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Agentic Finance — AI 自主理财的交互范式",
+      "body": "2026 年 Q2 最热的 Fintech 设计话题：Agentic Finance。AI 不再等用户下指令，而是自主执行——自动归类支出、预判现金流缺口、在最优时机转账。设计挑战从「怎么让用户操作」变成「怎么让用户监督」。新的交互范式是「AI 先做，用户后批」的审批流 UI，而非传统的表单填写。",
+      "body_en": "Hottest Q2 2026 fintech design topic: Agentic Finance. AI no longer waits for user commands — it acts autonomously: auto-categorizing expenses, predicting cash flow gaps, transferring at optimal timing. Design challenge shifts from enabling user action to enabling user oversight. New interaction paradigm: approval-flow UI where AI acts first and users review, replacing traditional form-filling.",
+      "tags": [
+        "Agentic Finance",
+        "Autonomous AI",
+        "Approval UI",
+        "Fintech"
+      ],
+      "link": "https://www.behance.net/search/projects/agentic%20finance%20AI%20dashboard",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+      "date": "2026-04-20"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Budget Copilot — 预算智能副驾驶",
+      "body": "面向中小企业的 AI 预算管理界面。最巧妙的设计：用「交通信号灯」隐喻把复杂的预算健康度简化为三色状态，AI 自动标注每笔异常支出并生成 one-liner 解释。信息架构极克制——首屏只有三个数字：可用预算、本月趋势、AI 风险评分。",
+      "body_en": "AI budget management interface for SMBs. Cleverest design: traffic light metaphor simplifies complex budget health into three-color states. AI auto-flags anomalous expenses with one-liner explanations. Ultra-restrained information architecture — hero screen shows only three numbers: available budget, monthly trend, AI risk score.",
+      "tags": [
+        "Budget",
+        "SMB",
+        "Traffic Light UI",
+        "Minimal"
+      ],
+      "link": "https://dribbble.com/search/ai-budget-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+      "date": "2026-04-20"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Agentic Finance 是今年 Fintech 设计最大的范式转移，但大部分产品搞反了一件事：它们在设计「AI 能做什么」，而不是「用户怎么信任 AI 做的事」。自主理财的核心 UX 挑战不是自动化本身，而是「透明的自动化」——用户需要在不操作的情况下依然感到掌控。最好的类比是自动驾驶：你不需要踩油门，但你需要随时能看到路况。Fintech 的「路况」就是资金流向的实时可视化 + AI 决策的可追溯审计线。谁先做好「AI 理财审计 UX」，谁就能在 Agentic Finance 赛道拿到用户信任的第一张门票。",
+      "body_en": "Agentic Finance is this year's biggest fintech design paradigm shift, but most products get one thing backwards: they design \"what AI can do\" instead of \"how users trust what AI did.\" The core UX challenge of autonomous finance isn't automation itself — it's \"transparent automation.\" Users need to feel in control without operating. Best analogy: self-driving cars — you don't need to press the gas, but you need to see the road. Fintech's \"road\" is real-time money flow visualization + traceable AI decision audit trails. Whoever nails \"AI finance audit UX\" first wins the trust ticket in the Agentic Finance race.",
+      "date": "2026-04-20"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI Physio Assistant — 运动损伤预防界面",
+      "body": "面向业余运动员的 AI 物理治疗助手 App。核心交互：3D 人体模型上实时标注高风险部位（红色热区），AI 根据训练负荷和历史伤病数据预测未来 7 天的受伤概率。视觉语言从运动 App 常见的激进橙红转向医疗感的冷蓝——因为这不是训练，是预防。",
+      "body_en": "AI physiotherapy assistant app for amateur athletes. Core interaction: 3D body model with real-time high-risk zone highlighting (red heat zones). AI predicts injury probability for the next 7 days based on training load and injury history. Visual language shifts from typical sports app aggressive orange-red to medical cool blue — because this isn't training, it's prevention.",
+      "tags": [
+        "Injury Prevention",
+        "3D Body Model",
+        "Predictive AI",
+        "Medical UX"
+      ],
+      "link": "https://dribbble.com/search/ai-physio-sports-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=80",
+      "date": "2026-04-20"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI × 户外运动 — 环境感知的运动 UX",
+      "body": "2026 年户外运动 App 的新方向：AI 环境感知。不只是 GPS 和天气，而是整合空气质量、紫外线指数、花粉浓度、地面湿度等多维环境数据，AI 实时调整训练建议。Garmin 和 Coros 的新固件都在推这个方向。设计挑战：如何在手表那么小的屏幕上呈现 6+ 维度的环境数据而不让用户信息过载？",
+      "body_en": "2026 outdoor sports app new direction: AI environmental awareness. Beyond GPS and weather — integrating air quality, UV index, pollen count, ground moisture into multi-dimensional environmental data, with AI adjusting training advice in real-time. Garmin and Coros new firmware pushing this direction. Design challenge: how to present 6+ environmental dimensions on a tiny watch screen without information overload?",
+      "tags": [
+        "Outdoor Sports",
+        "Environmental AI",
+        "Wearable",
+        "Multi-Sensor"
+      ],
+      "link": "https://www.behance.net/search/projects/outdoor%20sports%20AI%20wearable",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=80",
+      "date": "2026-04-20"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 的设计边界正在从「运动本身」扩展到「运动的上下文」。过去我们设计心率、配速、卡路里；现在要设计空气质量、伤病预测、环境风险。这背后是一个重要的认知转变：运动不是孤立行为，它嵌在环境和身体状态的复杂网络里。AI 的真正价值不是帮你跑得更快，而是帮你理解「今天适不适合跑」。伤病预防 App 的兴起尤其值得关注——这是运动 AI 第一次真正解决「不运动」的问题，而不只是优化「怎么运动」。设计语言也跟着变了：从鸡血的运动橙走向冷静的医疗蓝。运动 AI 正在长大，它开始像一个成熟的教练那样说：「今天休息也是训练。」",
+      "body_en": "Sports AI design boundaries are expanding from \"the sport itself\" to \"the sport's context.\" Previously we designed heart rate, pace, calories; now we design air quality, injury prediction, environmental risk. An important cognitive shift: exercise isn't isolated — it's embedded in a complex network of environment and body state. AI's real value isn't making you run faster but helping you understand \"is today right for running.\" The rise of injury prevention apps is especially notable — first time sports AI truly addresses \"not exercising\" rather than just optimizing \"how to exercise.\" Design language follows: from energetic sports orange to calm medical blue. Sports AI is growing up, starting to say like a mature coach: \"Resting today is also training.\"",
+      "date": "2026-04-20"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI-Powered Documentation — 文档即产品",
+      "body": "2026 年最好的技术文档设计不再是静态页面，而是 AI 增强的交互体验。Stripe Docs 和 Vercel Docs 引领的趋势：内联代码沙箱、AI 上下文搜索、根据用户技术栈自动切换示例语言。文档从「参考资料」进化为「学习产品」。排版上大量使用代码等宽字体和正文无衬线体的混排节奏。",
+      "body_en": "Best 2026 technical documentation design is no longer static pages but AI-enhanced interactive experiences. Stripe Docs and Vercel Docs lead the trend: inline code sandboxes, AI contextual search, auto-switching example languages based on user tech stack. Documentation evolves from \"reference\" to \"learning product.\" Typography heavily mixes monospace code and sans-serif body text rhythm.",
+      "tags": [
+        "Documentation",
+        "AI Search",
+        "Developer UX",
+        "Interactive"
+      ],
+      "link": "https://docs.stripe.com",
+      "linkText": "Stripe Docs",
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&q=80",
+      "date": "2026-04-20"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "Spatial Typography — 空间排版的数字复兴",
+      "body": "Apple Vision Pro 和 Meta Quest 推动的新趋势：排版不再局限于 2D 平面。文字在三维空间中有了深度、层次和物理感。但这不只是 XR 的事——2D 网页设计也在借鉴空间排版的思路：用阴影层叠、视差滚动、字号梯度创造「伪三维」的阅读深度。内容设计正在从「平面排版」走向「空间叙事」。",
+      "body_en": "Apple Vision Pro and Meta Quest driving a new trend: typography no longer confined to 2D planes. Text gains depth, layers, and physical presence in 3D space. But this isn't just XR — 2D web design borrows spatial typography thinking too: shadow layering, parallax scrolling, type scale gradients creating \"pseudo-3D\" reading depth. Content design moves from \"flat typography\" to \"spatial narrative.\"",
+      "tags": [
+        "Spatial Typography",
+        "3D Text",
+        "Vision Pro",
+        "Parallax"
+      ],
+      "link": "https://developer.apple.com/visionos/design/",
+      "linkText": "Apple Design",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&q=80",
+      "date": "2026-04-20"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "内容设计的两个方向在 2026 年 Q2 意外交汇了：技术文档和空间排版。看似不相关，但底层逻辑相同——都在回答「如何让复杂信息变得可探索」。Stripe 的文档把 API 参考变成了可交互的学习旅程；空间排版把线性阅读变成了分层探索。两者共同指向一个我越来越确信的判断：2026 年内容设计的核心能力不是「排好看」，而是「设计信息的导航结构」。传统的 content designer 做的是版面；现在的 content designer 做的是信息架构。文档是最极端的内容设计——它不能靠美学掩盖结构混乱。如果你能把 API 文档设计得让人愿意读，你就能设计任何内容。",
+      "body_en": "Two content design directions unexpectedly converge in Q2 2026: technical documentation and spatial typography. Seemingly unrelated but sharing the same underlying logic — both answering \"how to make complex information explorable.\" Stripe's docs turn API reference into interactive learning journeys; spatial typography turns linear reading into layered exploration. Both point to a growing conviction: 2026 content design's core competency isn't \"making it pretty\" but \"designing information navigation structure.\" Traditional content designers did layouts; now they do information architecture. Documentation is the most extreme content design — it can't hide structural chaos behind aesthetics. If you can design API docs people want to read, you can design anything.",
+      "date": "2026-04-20"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Model Card 设计 — 透明度的视觉化",
+      "body": "Hugging Face 和 Google 推动的 AI Model Card 设计趋势：把模型的能力边界、训练数据来源、偏差风险用可视化方式呈现。不是冷冰冰的技术参数表，而是有叙事结构的「模型简历」。雷达图展示能力维度，时间线展示训练历程，标签云展示适用场景。AI 透明度正在成为一种设计门类。",
+      "body_en": "AI Model Card design trend driven by Hugging Face and Google: visualizing model capability boundaries, training data sources, and bias risks. Not cold technical spec sheets but narrative-structured \"model resumes.\" Radar charts for capability dimensions, timelines for training history, tag clouds for use cases. AI transparency is becoming a design discipline.",
+      "tags": [
+        "Model Card",
+        "AI Transparency",
+        "Data Viz",
+        "Responsible AI"
+      ],
+      "link": "https://huggingface.co/docs/hub/model-cards",
+      "linkText": "Hugging Face",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+      "date": "2026-04-20"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「声音可视化」— 多模态界面的设计语言",
+      "body": "随着语音交互在 AI 产品中占比提升，一个新的设计领域正在成形：如何把声音变成可视化元素？不是传统的波形图，而是语义级的声音可视化——AI 的「思考」用柔和的粒子云表示，「确认」用稳定的几何形状，「创意生成」用流动的有机形态。ChatGPT 的语音模式 UI、Gemini 的实时对话界面都在探索这个方向。声音不再是看不见的——它有了形状。",
+      "body_en": "As voice interaction grows in AI products, a new design domain forms: how to turn sound into visual elements? Not traditional waveforms but semantic-level sound visualization — AI \"thinking\" shown as soft particle clouds, \"confirmation\" as stable geometry, \"creative generation\" as flowing organic forms. ChatGPT voice mode UI and Gemini live conversation interface both explore this direction. Sound is no longer invisible — it has shape.",
+      "tags": [
+        "Voice UI",
+        "Sound Viz",
+        "Multimodal",
+        "Particle System"
+      ],
+      "link": "https://openai.com/chatgpt",
+      "linkText": "ChatGPT Voice",
+      "image": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=1200&q=80",
+      "date": "2026-04-20"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "今天两个 Visual for AI 的 pin 串在一起，讲的是同一个底层变化：AI 的「不可见」正在被设计成「可见」。Model Card 让模型的内部属性变得可视——你能看到一个 AI 的能力边界在哪里、偏差风险有多大；声音可视化让对话的非视觉维度变得可感知——你能看到 AI 在思考、在犹豫、在生成。这是 2026 年 AI 视觉设计最深刻的命题：我们不再只是在设计界面的「皮肤」，而是在设计 AI 认知过程的「X 光片」。Model Card 是静态的 X 光，声音可视化是实时的 X 光。两者都在回答同一个用户需求：「让我看到 AI 脑子里在想什么。」做好这件事的设计师，需要一种前所未有的跨学科能力：既懂 ML 的内部机制，又懂人类对抽象概念的视觉认知模式。这是一个全新的设计岗位正在诞生——我愿意叫它「AI Cognition Designer」。",
+      "body_en": "Two Visual for AI pins today tell the same story: AI's \"invisible\" is being designed into \"visible.\" Model Cards make model internals visual — you can see where AI's capability boundaries are and how large the bias risks; sound visualization makes non-visual conversation dimensions perceivable — you can see AI thinking, hesitating, generating. This is 2026's most profound AI visual design thesis: we're no longer just designing interface \"skin\" — we're designing \"X-rays\" of AI cognitive processes. Model Cards are static X-rays; sound visualization is real-time X-rays. Both answer the same user need: \"Let me see what AI is thinking.\" Designers who nail this need unprecedented cross-disciplinary ability: understanding both ML internals and human visual cognition of abstract concepts. A brand new design role is emerging — I'd call it \"AI Cognition Designer.\"",
+      "date": "2026-04-20"
     }
   ]
 }
