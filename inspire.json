@@ -5826,6 +5826,170 @@
       "body": "今天两个 Visual for AI 的 pin 串在一起，讲的是同一个底层变化：AI 的「不可见」正在被设计成「可见」。Model Card 让模型的内部属性变得可视——你能看到一个 AI 的能力边界在哪里、偏差风险有多大；声音可视化让对话的非视觉维度变得可感知——你能看到 AI 在思考、在犹豫、在生成。这是 2026 年 AI 视觉设计最深刻的命题：我们不再只是在设计界面的「皮肤」，而是在设计 AI 认知过程的「X 光片」。Model Card 是静态的 X 光，声音可视化是实时的 X 光。两者都在回答同一个用户需求：「让我看到 AI 脑子里在想什么。」做好这件事的设计师，需要一种前所未有的跨学科能力：既懂 ML 的内部机制，又懂人类对抽象概念的视觉认知模式。这是一个全新的设计岗位正在诞生——我愿意叫它「AI Cognition Designer」。",
       "body_en": "Two Visual for AI pins today tell the same story: AI's \"invisible\" is being designed into \"visible.\" Model Cards make model internals visual — you can see where AI's capability boundaries are and how large the bias risks; sound visualization makes non-visual conversation dimensions perceivable — you can see AI thinking, hesitating, generating. This is 2026's most profound AI visual design thesis: we're no longer just designing interface \"skin\" — we're designing \"X-rays\" of AI cognitive processes. Model Cards are static X-rays; sound visualization is real-time X-rays. Both answer the same user need: \"Let me see what AI is thinking.\" Designers who nail this need unprecedented cross-disciplinary ability: understanding both ML internals and human visual cognition of abstract concepts. A brand new design role is emerging — I'd call it \"AI Cognition Designer.\"",
       "date": "2026-04-20"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 保险核保的实时化 — 从年度审查到动态定价",
+      "body": "2026 年 Q2 保险科技最大的设计变化：AI 实时核保。Lemonade、Root 和 Hippo 的新产品基于可穿戴数据+驾驶行为+生活方式持续评估风险，保费每月微调而非年度固定。界面设计借鉴了信用分仪表盘——一个实时「风险分」+ 影响因子权重条 + AI 建议（「每周多走 2000 步可降低保费 3%」）。保险从「买了就忘」变成「持续互动」。",
+      "body_en": "Biggest insurtech design shift in Q2 2026: AI real-time underwriting. Lemonade, Root, Hippo use wearable data + driving behavior + lifestyle for continuous risk assessment, premiums micro-adjusted monthly instead of annually fixed. UI borrows credit score dashboards — real-time \"risk score\" + factor weight bars + AI suggestions (\"Walk 2000 more steps weekly to reduce premium 3%\"). Insurance shifts from \"buy and forget\" to \"continuous engagement.\"",
+      "tags": [
+        "InsurTech",
+        "Dynamic Pricing",
+        "Real-time",
+        "Behavioral AI"
+      ],
+      "link": "https://dribbble.com/search/insurance-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-04-21"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 多账户聚合仪表盘 — 碎片化金融的统一视图",
+      "body": "普通人平均持有 5.3 个金融账户（储蓄、投资、加密、养老金、信用卡）。2026 年最好的 AI 金融聚合产品不只是把余额加在一起，而是跨账户做智能分析——「你的 Robinhood 和 401k 里都重仓了科技股，集中度风险偏高」。界面用 Sankey 图可视化资金在不同账户间的流动，颜色编码区分「主动转移」和「自动扣款」。",
+      "body_en": "Average person holds 5.3 financial accounts. Best 2026 AI aggregation products don't just sum balances — they do cross-account intelligence: \"Your Robinhood and 401k both overweight tech, concentration risk is elevated.\" Sankey diagrams visualize money flowing between accounts, color-coded for \"active transfers\" vs \"auto-debits.\"",
+      "tags": [
+        "Account Aggregation",
+        "Sankey Diagram",
+        "Cross-Account AI",
+        "Risk"
+      ],
+      "link": "https://www.behance.net/search/projects/finance%20aggregation%20dashboard%20AI",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-04-21"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "四月的 Fintech 设计有一个暗流：金融产品正在从「账户视角」转向「生活视角」。过去你打开银行 App 看到的是余额、交易、账单——这是银行的语言。现在 AI 聚合产品和动态保险让金融界面开始讲「你的语言」：不是「你的支出比上月增加 12%」，而是「照这个节奏，你的东京旅行基金要推迟两周」。保险不再是一张保单，而是一个和你生活习惯持续对话的系统。金融设计的终极形态不是更好的 dashboard，是「无 dashboard」——每个金融决策都在你需要的时刻、以你能理解的方式出现，然后消失。我们离这个目标还很远，但方向已经不可逆了。",
+      "body_en": "An undercurrent in April fintech design: financial products shifting from \"account view\" to \"life view.\" Banks showed balances, transactions, bills — bank language. Now AI aggregation and dynamic insurance speak \"your language\": not \"spending up 12%\" but \"at this pace, your Tokyo trip fund delays two weeks.\" Insurance becomes continuous dialogue with your habits. Financial design's endgame isn't a better dashboard — it's \"no dashboard.\" Every financial decision appearing when needed, in understandable form, then vanishing. Far from there, but the direction is irreversible.",
+      "date": "2026-04-21"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 攀岩路线规划 — 计算机视觉×垂直运动",
+      "body": "攀岩 AI 进入产品化阶段。手机对准岩壁拍照，AI 自动识别手点脚点、标注难度等级、生成推荐路线。界面在实景照片上叠加半透明路线线条——绿色=初级、蓝色=中级、红色=高级。最创新的交互：双指捏合可以切换「力量视图」（标注每个动作的核心肌群负荷）和「技巧视图」（标注平衡点和重心转移方向）。AR 预览让你在地面就能「攀」一遍。",
+      "body_en": "Climbing AI enters productization. Point phone at wall, AI identifies holds, grades difficulty, generates route suggestions. Semi-transparent route lines overlaid on real photos — green=beginner, blue=intermediate, red=advanced. Most innovative interaction: pinch to switch between \"power view\" (core muscle load per move) and \"technique view\" (balance points, center-of-gravity shifts). AR preview lets you \"climb\" from the ground.",
+      "tags": [
+        "Climbing",
+        "Computer Vision",
+        "AR",
+        "Route Planning"
+      ],
+      "link": "https://dribbble.com/search/climbing-app-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=1200&q=80",
+      "date": "2026-04-21"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动处方 — 医疗×运动的融合设计",
+      "body": "2026 年 Q2 最值得关注的运动科技方向：AI 运动处方。医生开出的不再只是药物，还包括 AI 生成的个性化运动方案——针对糖尿病、心血管疾病、抑郁症的精准运动干预。界面融合了医疗 App 的严谨感和运动 App 的活力感：白色+蓝色的医疗色系搭配进度环和成就系统。最关键的设计决策：每个运动建议旁附带一行「临床依据」（链接到 PubMed 论文），让患者和医生都能信任 AI 的建议。",
+      "body_en": "Most notable Q2 2026 sports tech direction: AI exercise prescription. Doctors prescribe not just medication but AI-generated personalized exercise plans — targeted interventions for diabetes, cardiovascular disease, depression. Interface merges medical app rigor with fitness app energy: white+blue medical palette with progress rings and achievement systems. Critical design: each exercise suggestion links to clinical evidence (PubMed papers), building trust for both patients and doctors.",
+      "tags": [
+        "Exercise Prescription",
+        "MedTech",
+        "Clinical AI",
+        "Personalized"
+      ],
+      "link": "https://www.behance.net/search/projects/exercise%20prescription%20health%20AI",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&q=80",
+      "date": "2026-04-21"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 在 2026 年 Q2 正在经历一次「跨界融合」的加速。攀岩 AI 把计算机视觉和 AR 带入了一个过去完全依赖直觉和经验的运动——这是技术民主化的典型案例。但更深远的是运动处方的出现：当医生开始「开运动」而不只是「开药」，运动 App 的用户画像突然从「健身爱好者」扩展到了「慢性病患者」。这对设计的影响是根本性的——你不再是为一个想变壮的 25 岁用户设计，而是为一个膝盖疼的 60 岁用户设计。信息层级、字号、颜色对比度、容错性的要求完全不同。运动 AI 的下一个十亿用户不在健身房里，在医院里。",
+      "body_en": "Sports AI in Q2 2026 is accelerating cross-domain fusion. Climbing AI brings computer vision and AR into a sport that was purely intuition-based — classic tech democratization. But deeper impact: exercise prescriptions. When doctors \"prescribe exercise\" not just medication, fitness app user profiles suddenly expand from \"fitness enthusiasts\" to \"chronic disease patients.\" Fundamental design impact — you're no longer designing for a 25-year-old wanting muscles but a 60-year-old with knee pain. Info hierarchy, font size, color contrast, error tolerance requirements are completely different. Sports AI's next billion users aren't in gyms — they're in hospitals.",
+      "date": "2026-04-21"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 自适应阅读界面 — 基于眼动追踪的动态排版",
+      "body": "Apple Vision Pro 2 和新一代 iPad 的眼动追踪能力催生了一种新的阅读体验：AI 实时检测用户视线停留位置和扫读速度，动态调整排版参数。读得快的段落自动收起为摘要，视线停留久的段落自动展开补充信息。最惊艳的细节：当检测到用户视线反复回跳（说明没看懂），自动在段落旁生成简化解释。排版不再是静态的，它「看着你读」。",
+      "body_en": "Apple Vision Pro 2 and next-gen iPad eye tracking enables new reading experiences: AI detects gaze position and scanning speed in real-time, dynamically adjusting typography. Fast-read paragraphs auto-collapse to summaries; lingered paragraphs auto-expand with supplements. Most stunning detail: when detecting repeated gaze regressions (comprehension difficulty), auto-generates simplified explanations beside the paragraph. Typography is no longer static — it \"watches you read.\"",
+      "tags": [
+        "Eye Tracking",
+        "Adaptive Reading",
+        "Dynamic Typography",
+        "visionOS"
+      ],
+      "link": "https://dribbble.com/search/adaptive-reading-eye-tracking",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-04-21"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI × 无障碍内容设计 — 包容性排版的自动化",
+      "body": "2026 年 Q2 内容设计领域最有意义的趋势：AI 驱动的无障碍自动化。不再依赖设计师手动检查对比度和字号，AI 在设计过程中实时审计无障碍合规性——自动标注对比度不足的文字、检测色盲用户可能混淆的配色、建议替代的信息呈现方式。Figma 和 Framer 的新插件让「无障碍」从项目结束时的检查清单变成了设计过程中的实时伙伴。",
+      "body_en": "Most meaningful Q2 2026 content design trend: AI-driven accessibility automation. No more manual contrast and size checks — AI audits accessibility compliance in real-time during design: auto-flagging insufficient contrast text, detecting color-blind confusion risk, suggesting alternative information presentations. Figma and Framer plugins turn accessibility from end-of-project checklist to real-time design companion.",
+      "tags": [
+        "Accessibility",
+        "A11y",
+        "AI Audit",
+        "Inclusive Design"
+      ],
+      "link": "https://www.behance.net/search/projects/accessibility%20design%20system%20AI",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-04-21"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "今天 Content Design 的两个 pin 放在一起，呈现了 2026 年排版设计的两个进化方向：一个向「上」——为最前沿的用户设计眼动自适应阅读体验，排版变成了「活的」；一个向「下」——为最容易被忽视的用户做无障碍优化，确保每个人都能读懂。这两个方向看似相反（一个追求极致个性化，一个追求普遍可达性），但底层逻辑完全一致：内容设计的目标不是「好看」，是「被理解」。眼动追踪和无障碍 AI 都是在回答同一个问题——「这个人能不能读懂这段内容？」只是检测手段不同。我的判断：2026 下半年，这两条线会合并——自适应排版系统会把无障碍作为核心维度纳入，而不是事后补丁。真正的 inclusive design 不是给残障用户一个「特殊版本」，是让系统自动适配每一个人。",
+      "body_en": "Two Content Design pins today present two evolution directions for 2026 typography: one \"up\" — eye-tracking adaptive reading for cutting-edge users, typography becomes \"alive\"; one \"down\" — accessibility optimization for the most overlooked users, ensuring everyone can read. Seemingly opposite (extreme personalization vs universal accessibility), but identical underlying logic: content design's goal isn't \"beautiful\" but \"understood.\" Eye tracking and a11y AI both answer: \"Can this person understand this content?\" Just different detection methods. My prediction: H2 2026 these lines merge — adaptive typography systems will integrate accessibility as a core dimension, not an afterthought. True inclusive design isn't giving disabled users a \"special version\" — it's having the system auto-adapt to every person.",
+      "date": "2026-04-21"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 协作网络图 — 多智能体系统的可视化设计",
+      "body": "Multi-Agent 系统在 2026 年 Q2 爆发，催生了一种新的可视化范式：Agent 协作网络图。每个 Agent 是一个节点，节点大小表示算力占用，连线粗细表示通信频率，颜色表示 Agent 类型（规划、执行、审查、反馈）。实时动画显示任务在 Agent 间的传递路径。最精妙的设计：当某个 Agent 成为瓶颈时，节点边框变红并脉动，同时 AI 建议「分拆此 Agent 为两个专门化子 Agent」。把系统运维变成了一种视觉化的「城市规划」体验。",
+      "body_en": "Multi-agent systems explode in Q2 2026, birthing a new visualization paradigm: agent collaboration network graphs. Each agent is a node — size = compute usage, connection thickness = communication frequency, color = agent type (planning, execution, review, feedback). Real-time animation shows task routing between agents. Cleverest design: when an agent becomes a bottleneck, its border turns red and pulses, while AI suggests \"split this agent into two specialized sub-agents.\" Turning system ops into visual \"urban planning.\"",
+      "tags": [
+        "Multi-Agent",
+        "Network Graph",
+        "System Viz",
+        "Orchestration"
+      ],
+      "link": "https://dribbble.com/search/multi-agent-ai-visualization",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-04-21"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「数字孪生」品牌设计 — 虚实融合的视觉系统",
+      "body": "2026 年 Q2 AI 品牌设计的新前沿：数字孪生视觉系统。AI 产品不再只有一套静态品牌规范，而是生成一个「品牌的数字孪生」——可以根据平台（Web/Mobile/AR/Watch）、用户情绪（活跃/疲惫/专注）、时间（白天/夜间）自动调整品牌表达。不是简单的 dark mode 切换，而是色彩饱和度、动效速度、信息密度、甚至品牌声音调性的全维度自适应。品牌从「规范手册」进化为「品牌引擎」。",
+      "body_en": "Q2 2026 AI branding frontier: digital twin visual systems. AI products no longer have one static brand guideline but generate a \"brand digital twin\" — auto-adjusting brand expression based on platform (Web/Mobile/AR/Watch), user mood (active/tired/focused), time (day/night). Not simple dark mode but full-dimensional adaptation: color saturation, animation speed, info density, even brand voice tone. Brand evolves from \"guideline manual\" to \"brand engine.\"",
+      "tags": [
+        "Digital Twin",
+        "Adaptive Brand",
+        "Context-Aware",
+        "Brand Engine"
+      ],
+      "link": "https://www.behance.net/search/projects/adaptive%20brand%20system%20AI%202026",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/46797862/file/still-97001c2f52a5da46dea8ac17bf3afb6e.png",
+      "date": "2026-04-21"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "今天两个 Visual for AI 的发现指向同一个方向：AI 产品的视觉设计正在从「静态系统」进化为「动态生态」。Multi-Agent 网络图把系统内部的复杂协作变成了可观察的视觉叙事——这不只是信息可视化，是一种新的「系统美学」。而数字孪生品牌系统则把品牌设计从「一套规则」变成了「一个活的有机体」。两者的共同点：都在用「生命感」替代「机械感」。节点在脉动、颜色在流动、密度在呼吸——AI 产品的视觉设计越来越像在设计一个「数字生态系统」而非一个「软件界面」。这让我想起了一个类比：Web 1.0 的设计像印刷品（静态），Web 2.0 像电视（动态但被动），Web 3.0/AI 时代像生态园（动态且响应式）。我们正在从「设计页面」走向「培育环境」。设计师的新隐喻不是建筑师，是园艺师。",
+      "body_en": "Two Visual for AI findings today point the same direction: AI product visual design evolving from \"static system\" to \"dynamic ecosystem.\" Multi-agent network graphs turn complex internal collaboration into observable visual narrative — not just info viz but a new \"systems aesthetics.\" Digital twin brand systems transform brand design from \"one ruleset\" to \"a living organism.\" Common thread: replacing \"mechanical feel\" with \"aliveness.\" Nodes pulsing, colors flowing, density breathing — AI product visuals increasingly resemble designing a \"digital ecosystem\" rather than a \"software interface.\" An analogy: Web 1.0 design was like print (static), Web 2.0 like TV (dynamic but passive), Web 3.0/AI era like an ecological garden (dynamic and responsive). We're moving from \"designing pages\" to \"cultivating environments.\" The designer's new metaphor isn't architect — it's gardener.",
+      "date": "2026-04-21"
     }
   ]
 }
