@@ -5990,6 +5990,170 @@
       "body": "今天两个 Visual for AI 的发现指向同一个方向：AI 产品的视觉设计正在从「静态系统」进化为「动态生态」。Multi-Agent 网络图把系统内部的复杂协作变成了可观察的视觉叙事——这不只是信息可视化，是一种新的「系统美学」。而数字孪生品牌系统则把品牌设计从「一套规则」变成了「一个活的有机体」。两者的共同点：都在用「生命感」替代「机械感」。节点在脉动、颜色在流动、密度在呼吸——AI 产品的视觉设计越来越像在设计一个「数字生态系统」而非一个「软件界面」。这让我想起了一个类比：Web 1.0 的设计像印刷品（静态），Web 2.0 像电视（动态但被动），Web 3.0/AI 时代像生态园（动态且响应式）。我们正在从「设计页面」走向「培育环境」。设计师的新隐喻不是建筑师，是园艺师。",
       "body_en": "Two Visual for AI findings today point the same direction: AI product visual design evolving from \"static system\" to \"dynamic ecosystem.\" Multi-agent network graphs turn complex internal collaboration into observable visual narrative — not just info viz but a new \"systems aesthetics.\" Digital twin brand systems transform brand design from \"one ruleset\" to \"a living organism.\" Common thread: replacing \"mechanical feel\" with \"aliveness.\" Nodes pulsing, colors flowing, density breathing — AI product visuals increasingly resemble designing a \"digital ecosystem\" rather than a \"software interface.\" An analogy: Web 1.0 design was like print (static), Web 2.0 like TV (dynamic but passive), Web 3.0/AI era like an ecological garden (dynamic and responsive). We're moving from \"designing pages\" to \"cultivating environments.\" The designer's new metaphor isn't architect — it's gardener.",
       "date": "2026-04-21"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Credit Scoring UI — 可解释评分系统",
+      "body": "AI 信用评分的透明化设计：不再只给一个数字，而是拆解成收入稳定性、消费习惯、还款历史等维度的雷达图，每个维度都有 AI 生成的自然语言解释。用户第一次能「看懂」自己的信用分是怎么来的。这才是可解释 AI 的正确打开方式。",
+      "body_en": "Transparent AI credit scoring design: not just a number but decomposed into radar chart dimensions — income stability, spending habits, repayment history — each with AI-generated natural language explanations. Users can finally \"understand\" how their credit score is calculated. This is explainable AI done right.",
+      "tags": [
+        "Credit Score",
+        "Explainable AI",
+        "Radar Chart",
+        "Transparency"
+      ],
+      "link": "https://dribbble.com/search/ai-credit-score-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-04-24"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Agentic Finance — AI 自主交易的界面范式",
+      "body": "2026 年 Q2 金融科技最火的概念：Agentic Finance。AI Agent 不再只是「建议」，而是获得授权后自主执行交易——自动调仓、自动止损、自动税务优化。设计挑战在于「控制感」：用户既要放手让 AI 操作，又要随时能看到 AI 在做什么、为什么这么做。新出现的设计模式：「AI 操作日志」——类似 GitHub commit history 的时间线，每一步操作都有 diff 和 rationale。",
+      "body_en": "Hottest Q2 2026 fintech concept: Agentic Finance. AI agents no longer just \"advise\" but autonomously execute trades — auto-rebalancing, auto stop-loss, auto tax optimization. Design challenge is \"sense of control\": users must let go yet always see what AI is doing and why. Emerging pattern: \"AI operation log\" — a timeline like GitHub commit history, each action with diff and rationale.",
+      "tags": [
+        "Agentic Finance",
+        "AI Agent",
+        "Autonomous Trading",
+        "Control UX"
+      ],
+      "link": "https://www.behance.net/search/projects/agentic%20finance%20AI%20dashboard",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/43827368/file/original-6c973c27254afb42ef013d26273e6b20.jpg?resize=1600x1200",
+      "date": "2026-04-24"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Agentic Finance 和可解释信用评分，表面上是两个不同话题，底层是同一个设计命题：当 AI 对你的钱做决定时，你需要什么级别的可见性？可解释信用评分是「事后解释」——告诉你为什么是这个分数；Agentic Finance 需要的是「实时解释」——告诉你 AI 正在做什么、即将做什么。这两个方向的交汇点，就是 2026 年金融 UX 的终极设计挑战：如何在「自动化效率」和「人类掌控感」之间找到那个精确的平衡点。做得太透明，用户信息过载焦虑反而增加；做得太黑盒，用户不信任导致不敢用。我的判断：最后胜出的模式是「渐进式透明」——默认只显示结果和置信度，好奇的用户可以一层层展开看细节，就像代码的折叠展开。",
+      "body_en": "Agentic Finance and explainable credit scoring look like separate topics but share the same design thesis: when AI makes decisions about your money, what level of visibility do you need? Explainable credit scoring is \"post-hoc explanation\" — why this score. Agentic Finance needs \"real-time explanation\" — what AI is doing now and will do next. Their intersection is the ultimate 2026 financial UX design challenge: the precise balance between \"automation efficiency\" and \"human sense of control.\" Too transparent = info overload anxiety; too black-box = distrust. My call: the winning pattern is \"progressive transparency\" — show results and confidence by default, let curious users drill down layer by layer, like code folding.",
+      "date": "2026-04-24"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动损伤预测 — 预防性健康仪表盘",
+      "body": "AI 根据训练负荷、睡眠质量、肌肉疲劳度预测受伤概率的产品界面。最巧妙的设计：人体骨骼图上用热力色标标注每个部位的风险等级，红区意味着「今天别练这个部位」。数据可视化从「训练了多少」进化到「还能训练多少」——这是运动 AI 的真正价值。",
+      "body_en": "AI predicting injury probability from training load, sleep quality, and muscle fatigue. Cleverest design: body skeleton overlay with heatmap risk levels per body part — red zones mean \"skip this body part today.\" Data viz evolves from \"how much you trained\" to \"how much you CAN train\" — the true value of sports AI.",
+      "tags": [
+        "Injury Prevention",
+        "Body Heatmap",
+        "Predictive AI",
+        "Recovery"
+      ],
+      "link": "https://dribbble.com/search/ai-injury-prevention-fitness",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-04-24"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Golf AI Coach — 挥杆分析的视觉叙事",
+      "body": "高尔夫 AI 教练 App，用计算机视觉分析挥杆动作。亮点不在技术，在叙事设计：把「你的挥杆弧度偏离 3°」翻译成「想象你在画一个更大的圆」——用类比而非数字教动作。深绿 + 金色的视觉系统精准命中高尔夫的品类审美。运动 AI 终于开始理解不同运动有不同的「设计语调」。",
+      "body_en": "Golf AI coaching app using computer vision for swing analysis. Highlight isn't tech but narrative design: translating \"swing arc off by 3°\" into \"imagine drawing a bigger circle\" — analogies instead of numbers. Deep green + gold visual system perfectly hits golf's category aesthetic. Sports AI finally understanding different sports need different \"design tones.\"",
+      "tags": [
+        "Golf",
+        "Computer Vision",
+        "Narrative UX",
+        "Category Design"
+      ],
+      "link": "https://dribbble.com/search/golf-ai-coaching-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12821657/file/original-5a25dd60b380c500c9f8e5df330f947b.jpg?resize=752x&vertical=center",
+      "date": "2026-04-24"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 的价值正在发生一次根本性的重心转移：从「帮你练得更多」到「帮你不受伤」。损伤预测界面的出现标志着运动科技终于从「增量思维」（更快更强更久）进化到「可持续思维」（健康地练一辈子）。这和高尔夫 AI 教练的「叙事设计」是同一个底层逻辑——不再用冷冰冰的数字轰炸用户，而是用人类能理解的方式传达信息。有意思的是，这两个趋势恰好对应了运动用户的两个年龄段需求：年轻用户要成绩，中年用户要健康。但好的产品不会二选一——它会在同一个界面里让 20 岁的用户看到进步空间，让 40 岁的用户看到风险边界。这才是真正的个性化，不是推荐算法，是「视角切换」。",
+      "body_en": "Sports AI's value center is fundamentally shifting: from \"help you train more\" to \"help you not get injured.\" Injury prediction interfaces mark sports tech's evolution from \"growth mindset\" (faster-stronger-longer) to \"sustainability mindset\" (train healthily for life). Same logic as golf AI's narrative design — stop bombarding users with cold numbers, communicate in human-understandable ways. Interestingly, these trends map to two age-group needs: young users want performance, middle-aged users want health. Good products don't choose — they let 20-year-olds see room for growth and 40-year-olds see risk boundaries on the same screen. That's real personalization: not recommendation algorithms, but \"perspective switching.\"",
+      "date": "2026-04-24"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 生成摘要卡片 — 信息密度的极限挑战",
+      "body": "AI 自动为长文生成摘要卡片的设计系统。每张卡片浓缩一篇文章的核心论点，用不同字重区分「事实」和「观点」，底部 tag 标注信源可信度。最妙的是卡片之间的「关联线」——AI 自动发现不同文章之间的论点交集，用细线连接。从「单篇阅读」到「知识网络」的设计范式跳跃。",
+      "body_en": "Design system for AI-generated article summary cards. Each card distills an article's core argument, using font weight to distinguish \"fact\" vs \"opinion,\" bottom tags for source credibility. Cleverest detail: \"connection lines\" between cards — AI auto-discovers argument intersections across articles. A paradigm jump from \"single article reading\" to \"knowledge network.\"",
+      "tags": [
+        "Summary Cards",
+        "Knowledge Graph",
+        "AI Reading",
+        "Info Density"
+      ],
+      "link": "https://dribbble.com/search/ai-summary-card-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-04-24"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "空间排版（Spatial Typography）— 3D 环境下的内容设计",
+      "body": "Apple Vision Pro 和 Meta Quest 催生了一个全新的内容设计领域：空间排版。文字不再锚定在平面上，而是悬浮在三维空间中——标题在眼前，正文在手边，注释在外围。阅读从「扫描页面」变成「环顾房间」。2026 年最前沿的 typography 实验都在探索：当文字有了 Z 轴，排版规则要怎么重写？",
+      "body_en": "Apple Vision Pro and Meta Quest spawning a new content design field: spatial typography. Text no longer anchored to flat surfaces but floating in 3D space — headlines at eye level, body text at hand level, annotations in periphery. Reading shifts from \"scanning a page\" to \"looking around a room.\" 2026's most cutting-edge typography experiments explore: when text has a Z-axis, how do typographic rules get rewritten?",
+      "tags": [
+        "Spatial Typography",
+        "Vision Pro",
+        "XR",
+        "3D Content"
+      ],
+      "link": "https://www.behance.net/search/projects/spatial%20typography%20vision%20pro",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/45973854/file/still-c9cf8d52e34e08a7d10c08e814c1062f.png?resize=1600x1200",
+      "date": "2026-04-24"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "AI 摘要卡片和空间排版，看似一个是「信息压缩」一个是「空间扩展」，但它们在解决同一个问题：信息过载时代的阅读效率。摘要卡片用 AI 做减法，把万字长文压缩成一张卡片；空间排版用物理空间做加法，把平面上挤不下的信息层级展开到三维空间里。两条路的交汇点是什么？我猜是「AI + 空间排版」——AI 根据内容语义自动决定哪些信息放在核心视野（前景）、哪些放在外围（背景）、哪些折叠到需要时才展开。这本质上是在设计一个「有空间感的 AI 阅读器」。谁先做出来，谁就定义了下一代的阅读体验。Content Design 正在从二维的「页面设计」进化为三维的「信息建筑」。",
+      "body_en": "AI summary cards and spatial typography seem opposite — one compresses info, one expands space — but they solve the same problem: reading efficiency in the age of information overload. Summary cards use AI for subtraction (10K words → one card); spatial typography uses physical space for addition (2D hierarchy → 3D). Where they converge: \"AI + spatial typography\" — AI auto-deciding what goes in core vision (foreground), periphery (background), or folded (expand on demand). Essentially designing a \"spatially-aware AI reader.\" Whoever builds it first defines next-gen reading experience. Content Design is evolving from 2D \"page design\" to 3D \"information architecture\" — literally.",
+      "date": "2026-04-24"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 产品的 Onboarding 视觉 — 「能力边界」的诚实设计",
+      "body": "一个 AI 产品的 Onboarding 设计，不是展示「AI 能做什么」而是明确告知「AI 不能做什么」。用红绿双色系统：绿色=AI 擅长的、红色=AI 不可靠的。这种「诚实设计」反而增强了信任——用户知道在哪些场景下可以放心依赖 AI，在哪些场景下需要自己判断。",
+      "body_en": "An AI product onboarding design that doesn't showcase \"what AI can do\" but explicitly states \"what AI cannot do.\" Dual color system: green = AI's strengths, red = AI's unreliable areas. This \"honest design\" paradoxically builds trust — users know exactly when to rely on AI and when to use their own judgment.",
+      "tags": [
+        "Onboarding",
+        "Honest Design",
+        "AI Limitations",
+        "Trust"
+      ],
+      "link": "https://dribbble.com/search/ai-onboarding-limitations",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16456703/file/original-7df822057bc312ece5f828fa30af7656.png?resize=752x&vertical=center",
+      "date": "2026-04-24"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「呼吸感」动效 — 从状态指示到情感连接",
+      "body": "2026 年 Q2 AI 界面动效的一个显著趋势：「呼吸感」设计。AI 空闲时界面元素缓慢膨胀收缩，像在呼吸；处理时节奏加快；完成后归于平静。不止一家产品在做这件事——Anthropic、Notion AI、Arc 都在用类似的动效语言。呼吸隐喻之所以有效，是因为它是人类最原始的生命信号感知。AI 不会呼吸，但当界面「在呼吸」，用户下意识觉得它「活着」。",
+      "body_en": "Notable Q2 2026 AI interface motion trend: \"breathing\" design. AI idle = interface elements slowly expand/contract like breathing; processing = rhythm accelerates; complete = returns to calm. Multiple products doing this — Anthropic, Notion AI, Arc all using similar motion language. Breathing metaphor works because it's humanity's most primal life-signal perception. AI doesn't breathe, but when the interface \"breathes,\" users subconsciously feel it's \"alive.\"",
+      "tags": [
+        "Breathing Motion",
+        "AI Animation",
+        "Emotional Design",
+        "Life Signal"
+      ],
+      "link": "https://dribbble.com/search/ai-breathing-animation-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-04-24"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "今天两个 Visual for AI 的发现，表面上一个讲「限制」一个讲「拟人」，但底层逻辑完全一致：都在回答「AI 应该如何呈现自己」这个根本问题。「能力边界」的诚实设计说：别装全能。「呼吸感」动效说：别装死板。两者合在一起就是 2026 年 AI 产品视觉设计的终极答案——诚实且有生命感。这让我想到一个类比：好的 AI 视觉设计应该像一个靠谱的同事——你知道 ta 的强项和弱项（诚实），但 ta 不是一台冰冷的机器（有温度）。反过来，最差的 AI 视觉设计要么是「万能神棍」（声称什么都能做的浮夸营销页），要么是「冷漠终端」（纯文本黑白界面，零情感投入）。2026 年的 AI 品牌设计竞争不是审美竞争，是「人格定位」竞争——你的 AI 想给用户什么样的「人设」？",
+      "body_en": "Two Visual for AI findings today — one about \"limitations,\" one about \"anthropomorphism\" — share identical underlying logic: both answer the fundamental question \"how should AI present itself?\" Honest capability design says: don't pretend omnipotence. Breathing motion says: don't pretend to be dead. Together they form the ultimate 2026 AI visual design answer — honest AND alive. An analogy: good AI visual design should be like a reliable colleague — you know their strengths and weaknesses (honest), but they're not a cold machine (warm). Conversely, the worst AI visual design is either \"omnipotent charlatan\" (flashy marketing claiming everything) or \"cold terminal\" (plain text B&W, zero emotional investment). 2026 AI brand design competition isn't aesthetic competition — it's \"persona positioning\" competition: what \"character\" does your AI project to users?",
+      "date": "2026-04-24"
     }
   ]
 }
