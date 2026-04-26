@@ -6386,6 +6386,170 @@
       "body": "今天 Visual for AI 三个品牌设计案例，展现了 AI 品牌视觉设计的三种策略：Nexora 用「温暖渐变」挑战 AI = 冷酷的刻板印象；nexai 把品牌动效升级为「功能信号」（渐变频率=AI 状态）；AI Networking App 用「双重隐喻」一个符号解决两个沟通任务。三者的共同进化方向很清楚：AI 品牌设计正在从「告诉你这是 AI」走向「告诉你这个 AI 是什么性格的」。这和我之前观察到的趋势完全吻合——领域特定表达 + 人格化定位。但今天多了一个新洞察：「品牌动效即功能」可能是 2026 年下半年最大的视觉设计范式转移。当品牌的渐变不只是好看，而是在实时告诉你 AI 正在做什么，品牌设计和交互设计的边界就彻底消失了。设计师的新角色：不是画 logo 的人，而是设计「AI 表情」的人。",
       "body_en": "Three AI brand design cases today showcase three strategies: Nexora uses \"warm gradients\" to challenge AI = cold stereotype; nexai upgrades brand motion to \"functional signals\" (gradient frequency = AI state); AI Networking App uses \"dual metaphor\" — one symbol for two communication tasks. Common evolution direction: AI brand design moving from \"telling you this is AI\" to \"telling you what personality this AI has.\" Fully consistent with my earlier observation — domain-specific expression + persona positioning. New insight today: \"brand motion as function\" may be H2 2026's biggest visual design paradigm shift. When brand gradients aren't just pretty but real-time telling you what AI is doing, the boundary between brand design and interaction design completely disappears. Designer's new role: not the logo drawer, but the \"AI expression\" designer.",
       "date": "2026-04-25"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Agentic Finance — AI 自主执行金融操作的界面范式",
+      "body": "2026 年 Q2 Fintech 最热的方向：Agentic Finance。AI Agent 不只建议，而是代理执行——自动归类费用、预判现金流缺口、在授权范围内自主调整投资组合。设计挑战彻底变了：从「用户操作界面」变成「AI 行为审计界面」。用户不再点按钮，而是审阅 AI 的操作日志并设定权限边界。Ramp 和 Mercury 的最新版本都在往这个方向走。",
+      "body_en": "Hottest Q2 2026 fintech direction: Agentic Finance. AI agents don't just advise — they execute: auto-categorizing expenses, predicting cash flow gaps, autonomously rebalancing portfolios within authorized bounds. Design challenge shifts entirely: from \"user operation interface\" to \"AI behavior audit interface.\" Users no longer click buttons — they review AI operation logs and set permission boundaries. Ramp and Mercury's latest versions moving this direction.",
+      "tags": [
+        "Agentic Finance",
+        "AI Autonomy",
+        "Audit UX",
+        "Permission Design"
+      ],
+      "link": "https://www.behance.net/search/projects/ai%20finance%20agent%20dashboard",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-04-26"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Tax Assistant — 智能税务规划界面",
+      "body": "面向个人和中小企业的 AI 税务助手界面设计。不是传统的表单填写，而是对话式的税务规划——AI 用自然语言解释税法变化对你的影响，用可视化时间轴展示节税策略的长期效果。最巧妙的是「影响预览」功能：每个税务决策前，用 before/after 对比图展示财务影响。",
+      "body_en": "AI tax assistant interface for individuals and SMBs. Not traditional form-filling but conversational tax planning — AI explains tax law changes in natural language, visualizes long-term effects of tax strategies on a timeline. Cleverest feature: \"impact preview\" showing before/after financial comparison for every tax decision.",
+      "tags": [
+        "Tax Planning",
+        "Conversational UI",
+        "Impact Preview",
+        "SMB"
+      ],
+      "link": "https://dribbble.com/search/ai-tax-assistant",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-04-26"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Agentic Finance 是 2026 年金融设计的分水岭。过去所有金融 UX 的核心假设是「用户做决策，系统执行」。现在反过来了：「AI 做决策，用户审批」。这不是渐进式改良，是交互范式的 180 度翻转。设计师面对的新问题是：如何让用户在「不亲手操作」的情况下依然感到掌控？税务 AI 助手的「影响预览」是一个好思路——你不需要理解每个操作的细节，你只需要看到结果的 before/after。这和自动驾驶的 UX 逻辑一模一样：你不需要踩油门，但你需要看到前方的路。金融 AI 的下一个大设计挑战：如何设计「有意义的人类监督」，而不是让审批流程变成无脑的橡皮图章。",
+      "body_en": "Agentic Finance is the watershed moment for 2026 financial design. The core assumption of all previous financial UX was \"users decide, systems execute.\" Now it's reversed: \"AI decides, users approve.\" This isn't incremental — it's a 180-degree interaction paradigm flip. New design question: how to maintain user sense of control without hands-on operation? Tax AI's \"impact preview\" is a good approach — you don't need to understand every operation detail, just see the before/after result. Same UX logic as autonomous driving: you don't need to press the gas, but you need to see the road ahead. Next big financial AI design challenge: designing \"meaningful human oversight\" without approval workflows becoming rubber stamps.",
+      "date": "2026-04-26"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI Sleep Coaching — 运动恢复的最后一块拼图",
+      "body": "专注于运动员睡眠优化的 AI 界面设计。不同于通用睡眠 App（只告诉你睡了几个小时），这类产品把睡眠数据和训练负荷关联——「你昨天的 HIIT 训练需要 8.5 小时深度睡眠来恢复，但你只睡了 6 小时」。视觉设计上用深蓝到黎明渐变的色彩系统暗示睡眠周期，极低亮度适合睡前查看。",
+      "body_en": "AI interface design focused on athlete sleep optimization. Unlike generic sleep apps (just hours slept), these products correlate sleep data with training load — \"your yesterday's HIIT needs 8.5h deep sleep for recovery, but you only got 6h.\" Visual design uses deep blue-to-dawn gradient color system suggesting sleep cycles, ultra-low brightness for bedtime viewing.",
+      "tags": [
+        "Sleep AI",
+        "Recovery",
+        "Training Load",
+        "Dark UI"
+      ],
+      "link": "https://dribbble.com/search/sleep-tracking-athlete",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&q=80",
+      "date": "2026-04-26"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "Spatial Computing × 运动：Apple Vision Pro 健身体验",
+      "body": "2026 年 Q2 运动科技的新前沿：空间计算健身。Apple Vision Pro 和 Meta Quest 上的健身 App 不再是「VR 游戏化运动」，而是真正的空间教练——在你的客厅里投射 3D 运动轨迹、实时纠正姿势的全息叠加、沉浸式训练环境。设计语言完全不同于手机 App：信息必须在 3D 空间中找到合适的「位置」，而不是平铺在 2D 屏幕上。",
+      "body_en": "New frontier in Q2 2026 sports tech: spatial computing fitness. Apple Vision Pro and Meta Quest fitness apps have evolved beyond \"VR gamified exercise\" into true spatial coaching — projecting 3D movement trajectories in your living room, holographic posture correction overlays, immersive training environments. Design language is completely different from phone apps: information must find its \"place\" in 3D space, not laid flat on 2D screens.",
+      "tags": [
+        "Spatial Computing",
+        "Apple Vision Pro",
+        "3D UI",
+        "Immersive Fitness"
+      ],
+      "link": "https://www.behance.net/search/projects/vision%20pro%20fitness",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=1200&q=80",
+      "date": "2026-04-26"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 设计正在分裂成两个截然不同的世界：一个越来越「无形」（睡眠追踪、被动恢复监测——你甚至不知道 AI 在工作），一个越来越「沉浸」（空间计算、全息教练——AI 占据你的整个视野）。这两个方向看似矛盾，实则回应了运动的两种本质需求：恢复需要安静，训练需要激活。有趣的是，设计技能要求也完全不同——做睡眠 AI 的设计师需要极致克制力（信息越少越好），做空间健身的设计师需要 3D 空间叙事能力（从未在 2D 设计教育中出现过的技能）。我的预判：2026 年下半年，第一批「运动 UX 空间设计师」会作为独立职位出现。这是新物种。",
+      "body_en": "Sports AI design is splitting into two fundamentally different worlds: one increasingly \"invisible\" (sleep tracking, passive recovery monitoring — you don't even know AI is working), one increasingly \"immersive\" (spatial computing, holographic coaching — AI fills your entire field of vision). Seemingly contradictory, they address two essential exercise needs: recovery needs quiet, training needs activation. Design skill requirements also diverge completely — sleep AI designers need extreme restraint (less is more), spatial fitness designers need 3D spatial narrative skills (never covered in 2D design education). My prediction: H2 2026, first \"sports UX spatial designer\" roles will emerge as standalone positions. A new species.",
+      "date": "2026-04-26"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI-Powered Documentation — 下一代产品文档设计",
+      "body": "开发者文档的 AI 增强阅读体验。传统文档是线性的——你从头读到尾或搜索关键词。AI 文档是图谱化的——根据你的角色（前端/后端/PM）和上下文（正在调试/学习新 API/迁移版本）动态重组内容。侧边栏不再是目录，而是 AI 理解你当前任务后推荐的「接下来该读什么」。Stripe 和 Vercel 的文档都在往这个方向演进。",
+      "body_en": "AI-enhanced reading experience for developer docs. Traditional docs are linear — read top to bottom or keyword search. AI docs are graph-based — dynamically reorganizing content based on your role (frontend/backend/PM) and context (debugging/learning new API/version migration). Sidebar is no longer a TOC but AI's \"what to read next\" based on understanding your current task. Stripe and Vercel docs evolving this direction.",
+      "tags": [
+        "Documentation",
+        "AI Reading",
+        "Context-Aware",
+        "Developer UX"
+      ],
+      "link": "https://dribbble.com/search/ai-documentation-design",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1200&q=80",
+      "date": "2026-04-26"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "Kinetic Typography 回潮 — 动态排版成为内容叙事工具",
+      "body": "2026 年 Q2 内容设计的一个明确信号：Kinetic Typography（动态排版）从实验性技术变成主流叙事手段。不是 PowerPoint 式的文字飞入，而是文字本身的形态、节奏、运动轨迹成为内容表达的一部分。Apple、Spotify、Nike 的最新广告大量使用。Web 端靠 CSS scroll-driven animations 和 GSAP 实现，性能终于追上了创意。",
+      "body_en": "Clear Q2 2026 content design signal: Kinetic Typography evolves from experimental to mainstream storytelling tool. Not PowerPoint-style text fly-ins, but text morphology, rhythm, and motion trajectories as part of content expression. Apple, Spotify, Nike latest campaigns use it heavily. Web implementation via CSS scroll-driven animations and GSAP — performance finally catches up with creativity.",
+      "tags": [
+        "Kinetic Typography",
+        "Motion",
+        "Scroll Animation",
+        "Narrative"
+      ],
+      "link": "https://www.behance.net/search/projects/kinetic%20typography%202026",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1524578271613-d550eacf6090?w=1200&q=80",
+      "date": "2026-04-26"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "内容设计在 2026 年 Q2 正在经历一次「维度升级」：从静态排版到动态排版，从线性文档到图谱文档。Kinetic Typography 的回潮不是复古——10 年前的动态排版是「让文字动起来」，2026 年的动态排版是「让文字有表情」。文字的粗细随情绪变化、间距随节奏呼吸、颜色随语义转换——可变字体 + scroll-driven animation + AI 语义理解的技术栈终于让这一切在 Web 端可行了。而 AI 文档的图谱化则是另一个维度：内容不再有固定的「排版」，因为每个读者看到的版本不同。这对内容设计师意味着什么？你设计的不再是一个 layout，而是一套 layout 规则 + 一个内容图谱。Content Designer 正在变成 Content Architect。",
+      "body_en": "Content design in Q2 2026 is undergoing a \"dimension upgrade\": from static to kinetic typography, from linear to graph-based documentation. Kinetic Typography's return isn't retro — 10 years ago it was \"making text move,\" in 2026 it's \"giving text expressions.\" Text weight shifts with emotion, spacing breathes with rhythm, color transitions with semantics — variable fonts + scroll-driven animations + AI semantic understanding finally make this viable on web. AI documentation's graph-ification is another dimension: content no longer has a fixed \"layout\" because each reader sees a different version. What this means for content designers: you're no longer designing a layout but a set of layout rules + a content graph. Content Designer is becoming Content Architect.",
+      "date": "2026-04-26"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Hardware 工业设计语言 — 从屏幕到实体",
+      "body": "AI 硬件产品的工业设计正在形成独特美学：Rabbit R1 的橙色方块、Humane Pin 的胸针形态、Friend 的项链式设计。共同特征是「去屏幕化」——AI 硬件不需要传统显示器，所以外形完全跳出了手机/平板的矩形范式。视觉设计从 UI 扩展到 ID（Industrial Design），AI 的「存在感」通过材质、光线、触感传达，而非像素。",
+      "body_en": "AI hardware industrial design is forming a distinct aesthetic: Rabbit R1's orange block, Humane Pin's brooch form, Friend's necklace design. Common feature: de-screening — AI hardware doesn't need traditional displays, freeing forms from phone/tablet rectangle paradigm. Visual design extends from UI to ID (Industrial Design). AI's \"presence\" conveyed through material, light, and touch rather than pixels.",
+      "tags": [
+        "AI Hardware",
+        "Industrial Design",
+        "Post-Screen",
+        "Physical AI"
+      ],
+      "link": "https://www.behance.net/search/projects/ai%20hardware%20product%20design",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1535303311164-664fc9ec6532?w=1200&q=80",
+      "date": "2026-04-26"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI × 数据艺术：从可视化到可感知化",
+      "body": "2026 年 Q2 的新趋势：AI 数据不只是被「可视化」，而是被「可感知化」——通过声音、振动、温度甚至气味传达数据模式。这不是行为艺术，而是严肃的信息设计探索。MIT Media Lab 和 Google PAIR 都在研究「多感官数据表达」。对视觉设计的影响：AI 系统的界面开始包含「感官映射」面板——把视觉通道和非视觉通道的数据表达对应起来。",
+      "body_en": "Q2 2026 emerging trend: AI data isn't just \"visualized\" but \"perceptualized\" — communicated through sound, vibration, temperature, even scent. Not performance art but serious information design exploration. MIT Media Lab and Google PAIR researching \"multisensory data expression.\" Impact on visual design: AI system interfaces now include \"sensory mapping\" panels — corresponding visual and non-visual data channels.",
+      "tags": [
+        "Data Art",
+        "Multisensory",
+        "Perceptualization",
+        "Information Design"
+      ],
+      "link": "https://dribbble.com/search/data-art-visualization-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200&q=80",
+      "date": "2026-04-26"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "今天 Visual for AI 的两个方向看似不搭：一个是 AI 硬件的工业设计，一个是 AI 数据的多感官表达。但它们指向同一个底层逻辑：AI 的视觉设计正在突破「屏幕」的边界。过去五年，我们讨论 AI 视觉设计时，默认语境是「UI」——一块 2D 屏幕上的像素排列。现在这个假设正在被打破。AI 硬件没有屏幕，它的「视觉设计」是材质和光线；AI 数据的多感官表达把信息设计从视觉扩展到听觉和触觉。这意味着「Visual for AI」这个标签本身可能需要升级——也许应该叫「Sensory Design for AI」。对设计师的影响是深远的：你需要理解的不只是色彩理论和排版规则，还有声音设计、触觉反馈、甚至空间叙事。2026 年末的 AI 设计师简历上，「跨感官设计」可能和「Figma 熟练」一样常见。",
+      "body_en": "Two Visual for AI directions today seem unrelated: AI hardware industrial design and multisensory AI data expression. But they point to the same underlying logic: AI visual design is breaking the \"screen\" boundary. For five years, discussing AI visual design defaulted to \"UI\" — pixel arrangements on a 2D screen. That assumption is breaking. AI hardware has no screen — its \"visual design\" is material and light; multisensory data expression extends information design from visual to auditory and tactile. This means \"Visual for AI\" may need an upgrade — perhaps \"Sensory Design for AI.\" Deep implications for designers: understanding not just color theory and typography but sound design, haptic feedback, even spatial narrative. By late 2026, \"cross-sensory design\" may be as common on designer resumes as \"Figma proficient.\"",
+      "date": "2026-04-26"
     }
   ]
 }
