@@ -6550,6 +6550,238 @@
       "body": "今天 Visual for AI 的两个方向看似不搭：一个是 AI 硬件的工业设计，一个是 AI 数据的多感官表达。但它们指向同一个底层逻辑：AI 的视觉设计正在突破「屏幕」的边界。过去五年，我们讨论 AI 视觉设计时，默认语境是「UI」——一块 2D 屏幕上的像素排列。现在这个假设正在被打破。AI 硬件没有屏幕，它的「视觉设计」是材质和光线；AI 数据的多感官表达把信息设计从视觉扩展到听觉和触觉。这意味着「Visual for AI」这个标签本身可能需要升级——也许应该叫「Sensory Design for AI」。对设计师的影响是深远的：你需要理解的不只是色彩理论和排版规则，还有声音设计、触觉反馈、甚至空间叙事。2026 年末的 AI 设计师简历上，「跨感官设计」可能和「Figma 熟练」一样常见。",
       "body_en": "Two Visual for AI directions today seem unrelated: AI hardware industrial design and multisensory AI data expression. But they point to the same underlying logic: AI visual design is breaking the \"screen\" boundary. For five years, discussing AI visual design defaulted to \"UI\" — pixel arrangements on a 2D screen. That assumption is breaking. AI hardware has no screen — its \"visual design\" is material and light; multisensory data expression extends information design from visual to auditory and tactile. This means \"Visual for AI\" may need an upgrade — perhaps \"Sensory Design for AI.\" Deep implications for designers: understanding not just color theory and typography but sound design, haptic feedback, even spatial narrative. By late 2026, \"cross-sensory design\" may be as common on designer resumes as \"Figma proficient.\"",
       "date": "2026-04-26"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI CFO 助手 — 中小企业的自动化财务决策",
+      "body": "2026 Q2 最明确的 Fintech 产品趋势：面向 SMB 的 AI CFO 工具爆发。Brex、Ramp、Mercury 不再只是费用管理，而是在做「自动化财务决策」——现金流预测、供应商付款时机优化、税务规划建议。设计挑战：如何让非财务背景的创始人理解并信任 AI 做出的每一个财务决策？答案是「决策叙事化」——不给数字，给故事。",
+      "body_en": "Clearest Q2 2026 fintech product trend: AI CFO tools for SMBs exploding. Brex, Ramp, Mercury no longer just expense management — now doing 'automated financial decisions': cash flow forecasting, vendor payment timing optimization, tax planning. Design challenge: how to make non-finance founders understand and trust every AI financial decision? Answer: 'decision narrativization' — give stories, not numbers.",
+      "tags": [
+        "AI CFO",
+        "SMB",
+        "Decision Narrative",
+        "Cash Flow"
+      ],
+      "link": "https://dribbble.com/search/ai-cfo-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Tax Planning — 可视化税务优化路径",
+      "body": "AI 税务规划产品的界面设计。最巧妙的设计：用决策树可视化不同的税务策略路径，每条路径标注节省金额和风险等级。用户不需要理解税法，只需要选择「多省钱但激进」还是「稳妥但多交」。复杂决策的简化艺术。",
+      "body_en": "AI tax planning product UI. Cleverest design: decision tree visualizing different tax strategy paths, each annotated with savings amount and risk level. Users don't need to understand tax law — just choose 'save more but aggressive' vs 'safe but pay more.' The art of simplifying complex decisions.",
+      "tags": [
+        "Tax Planning",
+        "Decision Tree",
+        "Risk Viz",
+        "Simplification"
+      ],
+      "link": "https://dribbble.com/search/tax-planning-dashboard-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "实时汇率 AI 预测 — 交易时机可视化",
+      "body": "外汇交易产品的 AI 汇率预测界面。核心设计：「预测置信区间」的可视化——不是一条预测线，而是一个逐渐扩散的色带，越远越宽越透明，视觉上直觉传达「预测越远越不确定」。对不确定性的诚实表达，本身就是信任设计。",
+      "body_en": "AI exchange rate prediction UI for forex products. Core design: visualizing 'prediction confidence intervals' — not a single prediction line but a gradually widening color band, more transparent further out. Visually intuitive: further predictions = more uncertainty. Honest expression of uncertainty is itself trust design.",
+      "tags": [
+        "Forex",
+        "Confidence Interval",
+        "Uncertainty Viz",
+        "Prediction"
+      ],
+      "link": "https://dribbble.com/search/forex-ai-prediction",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10490089/file/original-00dbfc1b063756291ae74d908c8fa4d5.png?crop=41x30-1325x994&resize=1366x1024",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "AI CFO 工具的设计哲学揭示了 Fintech 的下一个十年逻辑：金融产品不再是「展示信息让你决策」，而是「替你决策然后解释为什么」。这个转变对设计的影响是根本性的——过去我们设计 dashboard 是为了帮用户看清数据后自己做判断；现在我们设计的是「AI 已经帮你判断了，这是理由」的解释性界面。税务决策树和汇率置信区间是同一个设计范式的两种表达：让用户理解 AI 的「思考过程」而非「思考结果」。信任不来自准确率（98% 和 96% 用户感知不出区别），信任来自透明度——我能看到你是怎么想的。这是 2026 年 Fintech UX 最重要的认知转变。",
+      "body_en": "AI CFO tools' design philosophy reveals fintech's next-decade logic: financial products shift from 'show info so you decide' to 'decide for you then explain why.' Fundamental design impact — we used to design dashboards for users to see data and judge; now we design explanatory interfaces for 'AI already judged, here's why.' Tax decision trees and forex confidence intervals are two expressions of the same paradigm: letting users understand AI's 'thinking process' not 'thinking result.' Trust doesn't come from accuracy (users can't perceive 98% vs 96%); trust comes from transparency — I can see how you think. The most important cognitive shift in 2026 Fintech UX.",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 游泳分析 — 水下动作追踪界面",
+      "body": "针对竞技游泳的 AI 动作分析产品。水下摄像头 + 骨骼识别 + AI 实时反馈。设计亮点：用「水波纹」作为数据可视化的隐喻——效率高的动作产生小而规则的波纹，效率低的动作产生大而杂乱的波纹。让抽象的生物力学数据变成直觉可理解的视觉语言。",
+      "body_en": "AI motion analysis for competitive swimming. Underwater camera + skeleton recognition + real-time AI feedback. Design highlight: 'ripple pattern' as data visualization metaphor — efficient strokes create small regular ripples, inefficient ones create large chaotic ripples. Turning abstract biomechanics into intuitively understandable visual language.",
+      "tags": [
+        "Swimming",
+        "Biomechanics",
+        "Metaphor Viz",
+        "Computer Vision"
+      ],
+      "link": "https://dribbble.com/search/swimming-analysis-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=1200&q=80",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动处方 — 医疗级运动推荐的产品化",
+      "body": "2026 Q2 运动科技与医疗健康的交叉地带爆发：AI 运动处方。不再是「每天走一万步」的通用建议，而是基于体检数据、基因检测、慢性病风险的个性化运动方案。Apple Watch + HealthKit + AI 推理 = 「你的膝盖不适合跑步，试试游泳，每周三次，每次 30 分钟，心率控制在 Zone 2」。设计挑战：如何让「医疗级严肃」和「运动 App 活力」在同一个界面上共存？",
+      "body_en": "Q2 2026 explosion at sports tech × healthcare intersection: AI exercise prescriptions. No longer 'walk 10k steps daily' generic advice, but personalized plans based on health checkup data, genetic testing, chronic disease risk. Apple Watch + HealthKit + AI reasoning = 'Your knees aren't suited for running, try swimming, 3x/week, 30min, heart rate in Zone 2.' Design challenge: how to make 'medical seriousness' and 'fitness app energy' coexist on one interface?",
+      "tags": [
+        "Exercise Prescription",
+        "Medical AI",
+        "Personalized",
+        "HealthKit"
+      ],
+      "link": "https://dribbble.com/search/health-fitness-prescription-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=80",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 冥想 × 运动恢复 — 呼吸引导界面",
+      "body": "运动后恢复 App 中的 AI 冥想引导界面。设计上完全摒弃运动 App 常见的数据密集风格：全屏渐变呼吸圆、极低信息密度、字号极大的单行指令。AI 根据当日训练强度自动生成冥想时长和呼吸节奏。安静到极致的界面，和训练界面形成刻意的对比。",
+      "body_en": "AI meditation guidance in post-workout recovery app. Design completely abandons typical fitness app data-dense style: full-screen gradient breathing circle, extremely low info density, single-line instructions in oversized type. AI auto-generates meditation duration and breathing rhythm based on day's training intensity. Quiet to the extreme, deliberate contrast with training interface.",
+      "tags": [
+        "Recovery",
+        "Meditation",
+        "Breathing UI",
+        "Calm Design"
+      ],
+      "link": "https://dribbble.com/search/meditation-breathing-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&q=80",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 正在经历一次「纵深扩展」：从通用健身下沉到细分运动（游泳生物力学分析），从健身上浮到医疗（AI 运动处方），从训练延伸到恢复（AI 冥想引导）。三个方向看似分散，但底层是同一件事：运动不再是一个 App 解决的事，而是一个「运动健康生态」。设计含义很明确：未来的运动产品不是设计一个 App 界面，而是设计一套「情境流」——训练前（准备）、训练中（激励+数据）、训练后（恢复+反思）三种完全不同的设计情绪在同一产品中切换。做得好就是 Apple 生态的体验一致性，做不好就是精神分裂。游泳分析用「水波纹」做数据隐喻特别值得学习：最好的运动数据可视化不是图表，而是和运动本身同构的视觉语言。",
+      "body_en": "Sports AI is undergoing 'vertical expansion': from generic fitness down to niche sports (swimming biomechanics), up to medical (AI exercise prescription), and sideways to recovery (AI meditation). Three directions seem scattered but share one truth: fitness is no longer a single-app problem but a 'sports health ecosystem.' Clear design implication: future sports products aren't about designing one interface but a 'context flow' — pre-training (prep), during (motivation+data), post (recovery+reflection) switching between entirely different design moods in one product. Done well = Apple ecosystem consistency; done poorly = split personality. Swimming analysis using 'ripple patterns' as data metaphor is especially worth studying: the best sports data visualization isn't charts but visual language isomorphic to the sport itself.",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 翻译 × 排版自适应 — 多语言内容设计系统",
+      "body": "多语言产品的内容设计系统：AI 翻译后自动调整排版参数。德语比英语长 30%？字号自动缩小、行宽自动加大。阿拉伯语 RTL？整个布局镜像翻转。日语竖排？网格系统 90° 旋转。不是简单的 i18n，而是「排版 AI」——理解每种语言的视觉特性后做排版决策。",
+      "body_en": "Multilingual content design system: AI auto-adjusts typography parameters post-translation. German 30% longer than English? Font size auto-shrinks, line width auto-expands. Arabic RTL? Entire layout mirrors. Japanese vertical? Grid rotates 90°. Not simple i18n but 'typography AI' — making layout decisions after understanding each language's visual characteristics.",
+      "tags": [
+        "i18n",
+        "Typography AI",
+        "Multilingual",
+        "Adaptive Layout"
+      ],
+      "link": "https://dribbble.com/search/multilingual-design-system",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&q=80",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 摘要卡片 — 信息压缩的设计艺术",
+      "body": "AI 自动摘要生成的「内容卡片」设计系统。一篇 5000 字长文被压缩成一张卡片：核心论点（1 行）、支撑证据（3 个 bullet）、原文链接、可信度评分。设计的核心思考：压缩率不是越高越好，而是要在「信息量」和「可操作性」之间找到 sweet spot。",
+      "body_en": "Design system for AI-generated summary cards. A 5000-word article compressed to one card: core thesis (1 line), supporting evidence (3 bullets), source link, credibility score. Core design thinking: compression ratio isn't 'higher is better' — it's finding the sweet spot between 'information volume' and 'actionability.'",
+      "tags": [
+        "Summary Card",
+        "Compression",
+        "Information Density",
+        "Actionable"
+      ],
+      "link": "https://dribbble.com/search/ai-summary-card-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "Context-Aware Typography — 排版随内容情绪变化",
+      "body": "2026 Q2 内容设计的前沿实验：上下文感知排版。AI 分析文章的情绪曲线，自动调整排版参数——紧张段落字间距收紧、行间距压缩；舒缓段落留白增大、字号放大。不是噱头，而是对「阅读节奏设计」的算法化探索。Literary fiction 类电子书已经开始商用这种技术。",
+      "body_en": "Cutting-edge Q2 2026 content design experiment: context-aware typography. AI analyzes article's emotional curve, auto-adjusting layout — tense paragraphs get tighter tracking and leading; relaxed passages get more whitespace and larger type. Not gimmick but algorithmic exploration of 'reading rhythm design.' Already commercialized in literary fiction ebooks.",
+      "tags": [
+        "Context-Aware",
+        "Emotional Typography",
+        "Reading Rhythm",
+        "Algorithmic"
+      ],
+      "link": "https://dribbble.com/search/dynamic-typography-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?w=1200&q=80",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Content Design 在 2026 年 Q2 正在经历一次「智能化跃迁」：从静态排版规则走向动态排版系统。三个信号——多语言排版 AI 证明了「一套规则打天下」的时代结束了，每种语言需要专属的视觉节奏；AI 摘要卡片定义了信息压缩的新标准，迫使设计师思考「一张卡片能承载多少意义」；Context-Aware Typography 则是最激进的——让排版本身成为叙事工具。这三个方向的交集是：排版不再是内容的容器，排版本身就是内容的一部分。当 AI 能理解文字的含义和情绪后，「字体、字号、间距」不再是设计师的静态选择，而是 AI 的实时决策。这对 Content Designer 意味着什么？你设计的不再是「版面」，而是「版面生成规则」——和去年讨论的可变字体趋势完全呼应。内容设计正在变成一种编程。",
+      "body_en": "Content Design in Q2 2026 is undergoing an 'intelligence leap': from static typography rules to dynamic typography systems. Three signals — multilingual typography AI proves 'one ruleset fits all' is over, each language needs its own visual rhythm; AI summary cards define new information compression standards, forcing designers to think 'how much meaning can one card hold'; Context-Aware Typography is the most radical — making typography itself a narrative tool. Intersection of all three: typography is no longer content's container, typography IS part of the content. When AI understands text's meaning and emotion, 'font, size, spacing' are no longer designer's static choices but AI's real-time decisions. What this means for Content Designers? You design 'layout generation rules' not 'layouts' — perfectly echoing last year's variable fonts discussion. Content design is becoming a form of programming.",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 人格可视化 — 从头像到行为语言",
+      "body": "一套为 AI Agent 设计人格化视觉系统的方法论。不只是给 Agent 画个头像，而是定义它的「视觉行为」：回答快时粒子加速、犹豫时光晕闪烁、出错时形态收缩。Agent 的「性格」通过微动效传达，而非文字描述。最好的 AI 人格设计让你在 AI 开口前就能感受到它的「心情」。",
+      "body_en": "Methodology for designing personified visual systems for AI Agents. Not just drawing avatars but defining 'visual behaviors': particles accelerate on fast answers, halo flickers on hesitation, form contracts on errors. Agent 'personality' conveyed through micro-motion, not text. The best AI personality design lets you sense the AI's 'mood' before it speaks.",
+      "tags": [
+        "AI Personality",
+        "Agent Design",
+        "Micro-Motion",
+        "Behavioral Viz"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-personality-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 协作白板 — 人机共创的空间设计",
+      "body": "人类和 AI 在同一块画布上协作的产品界面。设计上最值得关注的决策：AI 生成的内容用半透明 + 蓝色边框标注，人类内容用实色 + 无边框——让两种「作者身份」在空间上清晰可辨。拒绝了「AI 假装人类」的诱惑，选择了诚实的视觉区分。",
+      "body_en": "Product interface for human-AI collaboration on the same canvas. Most notable design decision: AI-generated content marked with semi-transparency + blue border, human content in solid + no border — making two 'authorships' spatially distinguishable. Rejecting the temptation of 'AI pretending to be human,' choosing honest visual differentiation.",
+      "tags": [
+        "Co-Creation",
+        "Whiteboard",
+        "Authorship",
+        "Transparency"
+      ],
+      "link": "https://dribbble.com/search/ai-collaboration-canvas",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46352831/file/765076f0eddc850ad448f605d7f93ba0.png?resize=1024x768&vertical=center",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「来源标注」设计规范化",
+      "body": "2026 Q2 正在形成行业共识：AI 生成内容必须有清晰的视觉标注。不是法规要求（虽然 EU AI Act 有相关条款），而是用户信任的设计最佳实践。Google、Anthropic、Adobe 都发布了各自的「AI 内容标注设计指南」。核心问题：标注要明显到什么程度？太隐蔽=欺骗，太醒目=打断体验。这个平衡点正在被无数 A/B 测试寻找中。",
+      "body_en": "Industry consensus forming in Q2 2026: AI-generated content needs clear visual attribution. Not just regulatory (though EU AI Act has provisions) but design best practice for user trust. Google, Anthropic, Adobe all published 'AI content attribution design guidelines.' Core question: how visible should attribution be? Too subtle = deceptive, too prominent = disruptive. This balance point is being found through countless A/B tests.",
+      "tags": [
+        "AI Attribution",
+        "Content Labeling",
+        "Trust Design",
+        "EU AI Act"
+      ],
+      "link": "https://dribbble.com/search/ai-content-attribution-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-04-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "Visual for AI 在 2026 年 4 月底出现了一个很有意思的主题汇聚：「诚实」。AI Agent 人格可视化是诚实——用动效而非伪装来表达 AI 的状态；协作白板的作者身份区分是诚实——不让 AI 冒充人类的创作；内容来源标注是诚实——告诉用户这段话是谁写的。这三个设计方向共同指向一个更大的叙事：2026 年的 AI 视觉设计正在从「让 AI 看起来很酷」进化到「让 AI 看起来很真」。Cool 是 2023-2024 年的命题（渐变、粒子、科幻感），True 是 2025-2026 年的命题（透明度、可溯源、可区分）。这个转变的驱动力不只是监管压力，更是用户审美的成熟——经历过 deepfake 和 AI 幻觉的用户，开始把「能看出它是 AI」当作一种安全感，而非缺陷。最好的 AI 视觉设计不再隐藏 AI 的身份，而是让这个身份本身变得优雅。",
+      "body_en": "Visual for AI in late April 2026 reveals an interesting thematic convergence: 'honesty.' AI Agent personality visualization is honesty — expressing states through motion, not disguise; collaboration whiteboard authorship distinction is honesty — not letting AI impersonate human creation; content attribution is honesty — telling users who wrote what. These three directions point to a larger narrative: 2026 AI visual design is evolving from 'making AI look cool' to 'making AI look true.' Cool was the 2023-2024 thesis (gradients, particles, sci-fi); True is the 2025-2026 thesis (transparency, traceability, distinguishability). This shift isn't just regulatory pressure but maturing user taste — users who've experienced deepfakes and AI hallucinations now find 'I can tell it's AI' reassuring, not a flaw. The best AI visual design no longer hides AI's identity but makes that identity itself elegant.",
+      "date": "2026-04-27"
     }
   ]
 }
