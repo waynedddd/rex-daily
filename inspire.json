@@ -6946,6 +6946,170 @@
       "body": "今天的两个 Visual for AI 发现汇聚成一个核心洞察：2026 年 AI 产品视觉设计的最大进步不是变得更酷，而是变得更安静。「可逆性信号」解决的是操作层面的安全感——用户知道可以撤回所以敢用；「降噪设计」解决的是认知层面的舒适感——界面不吵所以愿意用。两者结合，指向一个更深层的设计真理：最好的 AI 产品不让你觉得在「使用 AI」，而是让你觉得在「完成自己的事」。这和之前讨论的 Claude 的克制美学一脉相承——在一个 AI 产品都在比谁更炫的市场里，安静本身就是最强的差异化。大胆预测：2026 年度最佳 AI 产品设计奖会颁给一个「看起来不像 AI 产品」的产品。因为真正的智能不需要证明自己聪明。",
       "body_en": "Two Visual for AI findings converge on one core insight: the biggest 2026 AI product visual design progress isn't getting cooler — it's getting quieter. \"Reversibility signals\" address operational safety — users dare to use it because they can undo; \"noise reduction design\" addresses cognitive comfort — interface is calm so users want to use it. Combined, they point to a deeper design truth: the best AI product doesn't make you feel like you're \"using AI\" but like you're \"getting your thing done.\" Aligned with Claude's restraint aesthetics discussed earlier. Bold prediction: 2026's best AI product design award goes to something that \"doesn't look like an AI product.\" Because real intelligence doesn't need to prove it's smart.",
       "date": "2026-04-28"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 税务优化助手 — 个人财务的「自动驾驶」",
+      "body": "2026 年 Q2 出现的一批 AI 税务规划工具正在改变个人理财的最后一块「手动档」领域。核心设计：把全年消费数据实时映射到可抵扣项目上，用进度条可视化「已利用的减税额度」vs「剩余可用额度」。最聪明的交互：AI 在用户日常消费时就弹出微提示——「这笔教育支出可抵扣，已自动归类」。被动理财变成了主动的实时游戏化体验。",
+      "body_en": "Q2 2026 AI tax planning tools are transforming personal finance's last \"manual transmission\" area. Core design: real-time mapping of annual spending to deductible items, progress bars visualizing \"used deductions\" vs \"remaining allowance.\" Smartest interaction: AI surfaces micro-prompts during daily spending — \"This education expense is deductible, auto-categorized.\" Passive finance becomes an active, real-time gamified experience.",
+      "tags": [
+        "Tax AI",
+        "Gamification",
+        "Personal Finance",
+        "Progress UI"
+      ],
+      "link": "https://dribbble.com/search/tax-planning-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-04-29"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Agentic Finance — 当 AI Agent 获得交易权限",
+      "body": "2026 年 Fintech 最前沿的设计课题：AI Agent 不只分析和建议，而是直接代用户执行交易。Stripe 的 Agent Toolkit、Plaid 的 Agent API 正在让 AI 拥有「金融操作权」。设计挑战彻底变了——不是「怎么展示 AI 建议」而是「怎么让用户对 AI 的自主行为感到安心」。新 UI 模式：Agent Activity Feed（类似 GitHub commit log）让每笔 AI 操作透明可追溯。",
+      "body_en": "Most cutting-edge 2026 fintech design challenge: AI agents don't just analyze and suggest — they execute transactions on behalf of users. Stripe Agent Toolkit and Plaid Agent API are giving AI \"financial operating rights.\" The design challenge shifts entirely from \"how to show AI suggestions\" to \"how to make users comfortable with AI's autonomous actions.\" New UI pattern: Agent Activity Feed (like GitHub commit log) makes every AI operation transparent and traceable.",
+      "tags": [
+        "Agentic Finance",
+        "AI Agent",
+        "Autonomy UX",
+        "Activity Feed"
+      ],
+      "link": "https://www.behance.net/search/projects/ai%20agent%20finance%20dashboard",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-04-29"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Agentic Finance 是 2026 年 Fintech 设计的分水岭时刻。过去所有金融 AI 产品本质上都是「建议者」——它分析、它推荐、但你按按钮。现在 AI Agent 开始拿到「操作权」：自动转账、自动投资、自动税务优化。这把设计挑战从「信息架构」推到了「信任架构」的新高度。Activity Feed 模式很聪明——它借用了开发者熟悉的 commit log 隐喻，让每笔 AI 操作都有时间戳、原因、和一键回退。但更深层的问题是：用户愿意给 AI 多大的自主权？答案不是非此即彼，而是一条连续的光谱——从「每笔都确认」到「设限额后全自动」。最好的设计让用户自己选择在光谱上的位置，并且随信任积累逐渐向自动端滑动。这本质上是在设计一段渐进式的人机信任关系。",
+      "body_en": "Agentic Finance is 2026 fintech design's watershed moment. All previous financial AI products were fundamentally \"advisors\" — analyze, recommend, but you press the button. Now AI agents gain \"operating rights\": auto-transfer, auto-invest, auto-tax-optimize. This pushes design challenges from \"information architecture\" to a new level of \"trust architecture.\" Activity Feed is clever — borrowing the developer-familiar commit log metaphor, giving every AI operation a timestamp, reason, and one-click rollback. But the deeper question: how much autonomy will users grant AI? The answer isn't binary but a continuous spectrum — from \"confirm every action\" to \"set limits then full auto.\" Best design lets users choose their position on this spectrum and gradually slide toward autonomy as trust accumulates. This is fundamentally designing a progressive human-AI trust relationship.",
+      "date": "2026-04-29"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动损伤预防 — 从被动治疗到主动预警",
+      "body": "2026 年运动科技设计新赛道：AI 损伤预防系统。通过可穿戴传感器的步态数据+训练负荷历史，AI 在运动员受伤前 48 小时发出预警。界面用人体骨骼图叠加「疲劳热力图」——绿色安全、黄色疲劳、红色高危。最有价值的设计细节：不只告诉你「膝盖高危」，还给出具体的训练调整方案——「今天改游泳，让膝关节休息」。",
+      "body_en": "2026 sports tech new track: AI injury prevention. Wearable gait sensor data + training load history enables AI to warn athletes 48 hours before injury. Interface overlays a \"fatigue heatmap\" on a skeletal diagram — green safe, yellow fatigued, red high-risk. Most valuable design detail: not just \"knee at risk\" but specific training alternatives — \"swim today, rest the knee.\"",
+      "tags": [
+        "Injury Prevention",
+        "Predictive AI",
+        "Body Heatmap",
+        "Wearable"
+      ],
+      "link": "https://dribbble.com/search/sports-injury-prevention-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10325530/file/original-c8c3e27c8c9dfef1c6f15025ded9ea64.jpg?resize=1600x1200",
+      "date": "2026-04-29"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 群体运动动态 — 跑团/骑行团的智能编排",
+      "body": "面向跑团和骑行团的 AI 编排工具：根据每个成员的体能水平、目标、当天状态，自动生成分组方案和配速策略。界面核心是一个「队列编排视图」——像音乐 DAW 的多轨时间线，每条轨道是一个队员，颜色深浅表示强度。教练一眼看出谁在冲谁在恢复。社交运动+AI 的最佳结合。",
+      "body_en": "AI orchestration tool for running and cycling clubs: auto-generates grouping and pacing strategies based on each member's fitness, goals, and daily condition. Core UI: a \"formation editor\" like a multi-track DAW timeline — each track is a member, color intensity shows effort level. Coaches see instantly who's pushing and who's recovering. Social sports + AI at its best.",
+      "tags": [
+        "Group Fitness",
+        "Orchestration",
+        "DAW-style UI",
+        "Social Sports"
+      ],
+      "link": "https://dribbble.com/search/group-fitness-ai-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12083587/file/original-4f31bcadd6a85b02e1f61b5b24b90c5a.png?resize=1600x1200",
+      "date": "2026-04-29"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 设计正在经历一个有意义的转向：从「训练优化」走向「伤害预防」和「社交编排」。这反映了一个更深层的用户需求进化——当 AI 教练已经够好了，用户开始问两个新问题：「怎么让我不受伤？」和「怎么让我和朋友一起练得开心？」前者把运动 AI 从性能工具变成了健康守护者（责任更重，设计更需要谨慎——假阴性可能导致用户忽视真实伤害风险）；后者把个人工具变成了社交平台（设计逻辑从「数据仪表盘」变成「人群编排」）。DAW 式的队列编排界面特别有启发性——它暗示运动团体训练和音乐制作有结构性的相似：都是多个「轨道」在时间维度上的协调编排。跨领域的 UI 隐喻正在成为设计创新的最大来源。",
+      "body_en": "Sports AI design is undergoing a meaningful shift: from \"training optimization\" to \"injury prevention\" and \"social orchestration.\" Reflecting deeper user need evolution — when AI coaching is good enough, users ask two new questions: \"How do I stay uninjured?\" and \"How do I train happily with friends?\" The former transforms sports AI from performance tool to health guardian (higher stakes, design needs more caution — false negatives could lead users to ignore real injury risks). The latter turns personal tools into social platforms (design logic shifts from \"data dashboard\" to \"crowd orchestration\"). DAW-style formation UI is particularly inspiring — suggesting structural similarity between group training and music production: both are multi-track coordination over time. Cross-domain UI metaphors are becoming the biggest source of design innovation.",
+      "date": "2026-04-29"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 生成的个性化 Email Digest — 每人一份不同的排版",
+      "body": "2026 年 email newsletter 设计的终极进化：AI 根据每个订阅者的阅读行为生成个性化版面。快速扫描者收到要点列表版；深度阅读者收到长文展开版；视觉型用户收到大图+标题版。同一期内容，N 种排版。设计师的角色从「排版一个版本」变成「设计一套排版规则系统」。",
+      "body_en": "Ultimate 2026 email newsletter evolution: AI generates personalized layouts per subscriber reading behavior. Speed scanners get bullet-point versions; deep readers get expanded long-form; visual users get hero-image + headline versions. Same content, N layouts. Designer role shifts from \"typesetting one version\" to \"designing a typographic rule system.\"",
+      "tags": [
+        "Personalized Layout",
+        "Email Design",
+        "AI Typography",
+        "Rule System"
+      ],
+      "link": "https://dribbble.com/search/newsletter-personalized-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-04-29"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "Skeleton Screen 已死，「语义预加载」万岁",
+      "body": "2026 年 content loading 设计的新共识：Skeleton Screen（灰色占位块）已经过时。新模式是「语义预加载」——页面在数据加载前就能展示内容类型和结构信息。不是灰色方块，而是带有模糊标签的轻量级信息架构预览（如「正在加载 3 篇文章 + 1 个图表」）。用户在等待时就已经在构建心智模型。减少认知切换成本>减少等待感知时间。",
+      "body_en": "2026 content loading design consensus: Skeleton Screens (grey placeholder blocks) are outdated. New pattern: \"semantic preloading\" — pages show content type and structure before data arrives. Not grey boxes but lightweight information architecture previews with blurred labels (\"loading 3 articles + 1 chart\"). Users build mental models while waiting. Reducing cognitive switch cost > reducing perceived wait time.",
+      "tags": [
+        "Loading UX",
+        "Semantic Preview",
+        "Mental Model",
+        "Content Architecture"
+      ],
+      "link": "https://www.behance.net/search/projects/content%20loading%20design%20semantic",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-04-29"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "今天的两个 Content Design 发现指向一个共同主题：内容呈现正在从「一刀切」走向「上下文敏感」。个性化 newsletter 排版打破了「设计师做一版，所有人看同一版」的传统，把排版从手工艺变成了系统工程。语义预加载则重新定义了「空状态」——空白不再是「等一下」，而是「这里马上会有什么」。两者共同的底层逻辑：用户的认知资源是有限的，好的内容设计不是给更多信息，而是在正确的时机给正确的信息量。这和 AI 产品的「渐进式披露」异曲同工——先给结构，再给细节。设计师需要学会一项新技能：不是排版，而是「排版的时序编排」——什么先出现、什么后出现、什么只在需要时出现。",
+      "body_en": "Today's two Content Design finds point to a shared theme: content presentation moving from \"one-size-fits-all\" to \"context-sensitive.\" Personalized newsletter typography breaks the tradition of \"designer makes one version, everyone sees the same,\" turning typography from craft to systems engineering. Semantic preloading redefines \"empty states\" — blank is no longer \"wait\" but \"here's what's coming.\" Shared underlying logic: user cognitive resources are finite; good content design isn't more information but the right amount at the right moment. Same principle as AI products' progressive disclosure — structure first, details second. Designers need a new skill: not typography but \"temporal choreography of typography\" — what appears first, what appears later, what appears only when needed.",
+      "date": "2026-04-29"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 协作画布 — Figma × AI 的原生集成界面",
+      "body": "2026 年设计工具的 AI 集成不再是侧边栏聊天框，而是画布原生的。选中一组图层，右键菜单出现「AI 建议」——不是文字建议，而是直接在画布上叠加半透明的设计变体预览。用户拖动一个「创意滑块」在保守↔大胆之间调节 AI 建议的激进程度。这让 AI 从「外部顾问」变成了「画笔的一部分」。",
+      "body_en": "2026 design tool AI integration is no longer a sidebar chatbox but canvas-native. Select layers, right-click shows \"AI Suggestions\" — not text but semi-transparent design variant overlays directly on canvas. Users drag a \"creativity slider\" between conservative ↔ bold to adjust AI suggestion aggressiveness. AI transforms from \"external consultant\" to \"part of the brush.\"",
+      "tags": [
+        "Design Tools",
+        "Canvas AI",
+        "Figma",
+        "Creativity Slider"
+      ],
+      "link": "https://dribbble.com/search/figma-ai-design-tool",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46797862/file/still-97001c2f52a5da46dea8ac17bf3afb6e.png",
+      "date": "2026-04-29"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「意图感知」界面 — 从命令到直觉",
+      "body": "2026 年 Q2 最值得关注的 AI 界面趋势：意图感知。产品不再等用户明确发出指令，而是通过用户行为模式推断意图并预加载可能需要的功能。Notion AI 观察你在哪个区域停留超过 3 秒就预判你可能需要帮助；Cursor 在你选中代码时就已经在分析可能的重构方向。视觉设计上表现为「呼吸感」的预测性 UI——元素轻微亮起或微动来暗示「我准备好帮你了」，但不打断你的流程。",
+      "body_en": "Most notable Q2 2026 AI interface trend: intent sensing. Products no longer wait for explicit commands but infer intent from behavior patterns and preload needed capabilities. Notion AI detects 3-second hover to anticipate help needs; Cursor analyzes potential refactors the moment you select code. Visually expressed as \"breathing\" predictive UI — elements subtly illuminate or pulse to hint \"I'm ready to help\" without interrupting flow.",
+      "tags": [
+        "Intent Sensing",
+        "Predictive UI",
+        "Ambient Intelligence",
+        "Breathing UI"
+      ],
+      "link": "https://www.behance.net/search/projects/predictive%20AI%20interface%20design",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-04-29"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "AI 产品界面设计正在发生一次范式跃迁：从「命令-响应」到「感知-预判」。画布原生的 AI 集成说明 AI 不再是一个「功能」而是设计工具的「属性」——就像图层有透明度一样自然。意图感知界面更激进——产品开始「读你」，而不是等你「说话」。这带来一个微妙的设计伦理问题：AI 预判你的意图和 AI 监控你的行为，在技术实现上完全相同，在用户感知上却天壤之别。区别在哪？在「呼吸感」——好的预测性 UI 永远是「准备好了但不越界」的姿态，像一个好的助手站在门外等你叫，而不是自作主张走进来。这种克制比任何技术都难设计。另一个观察：创意滑块（conservative ↔ bold）是 AI 创意工具的杀手级交互模式。它解决了 AI 生成最大的用户焦虑——「AI 会不会改太多」。给用户一个控制旋钮，焦虑瞬间变成好奇心。",
+      "body_en": "AI product interface design is undergoing a paradigm leap: from \"command-response\" to \"sense-predict.\" Canvas-native AI integration shows AI is no longer a \"feature\" but a design tool's \"attribute\" — as natural as layers having opacity. Intent-sensing interfaces go further — products start \"reading you\" instead of waiting for you to \"speak.\" This raises a subtle design ethics question: AI predicting your intent and AI monitoring your behavior are technically identical but perceptually worlds apart. The difference? The \"breathing\" quality — good predictive UI always maintains a \"ready but not overstepping\" posture, like a good assistant waiting outside the door to be called, not walking in uninvited. This restraint is harder to design than any technology. Another observation: the creativity slider (conservative ↔ bold) is a killer interaction pattern for AI creative tools. It solves AI generation's biggest user anxiety — \"will AI change too much?\" Give users a control knob, and anxiety instantly becomes curiosity.",
+      "date": "2026-04-29"
     }
   ]
 }
