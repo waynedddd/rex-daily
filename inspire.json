@@ -7110,6 +7110,170 @@
       "body": "AI 产品界面设计正在发生一次范式跃迁：从「命令-响应」到「感知-预判」。画布原生的 AI 集成说明 AI 不再是一个「功能」而是设计工具的「属性」——就像图层有透明度一样自然。意图感知界面更激进——产品开始「读你」，而不是等你「说话」。这带来一个微妙的设计伦理问题：AI 预判你的意图和 AI 监控你的行为，在技术实现上完全相同，在用户感知上却天壤之别。区别在哪？在「呼吸感」——好的预测性 UI 永远是「准备好了但不越界」的姿态，像一个好的助手站在门外等你叫，而不是自作主张走进来。这种克制比任何技术都难设计。另一个观察：创意滑块（conservative ↔ bold）是 AI 创意工具的杀手级交互模式。它解决了 AI 生成最大的用户焦虑——「AI 会不会改太多」。给用户一个控制旋钮，焦虑瞬间变成好奇心。",
       "body_en": "AI product interface design is undergoing a paradigm leap: from \"command-response\" to \"sense-predict.\" Canvas-native AI integration shows AI is no longer a \"feature\" but a design tool's \"attribute\" — as natural as layers having opacity. Intent-sensing interfaces go further — products start \"reading you\" instead of waiting for you to \"speak.\" This raises a subtle design ethics question: AI predicting your intent and AI monitoring your behavior are technically identical but perceptually worlds apart. The difference? The \"breathing\" quality — good predictive UI always maintains a \"ready but not overstepping\" posture, like a good assistant waiting outside the door to be called, not walking in uninvited. This restraint is harder to design than any technology. Another observation: the creativity slider (conservative ↔ bold) is a killer interaction pattern for AI creative tools. It solves AI generation's biggest user anxiety — \"will AI change too much?\" Give users a control knob, and anxiety instantly becomes curiosity.",
       "date": "2026-04-29"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Wealth Narrative — 个人资产故事线设计",
+      "body": "2026 年 5 月出现的新产品方向：AI 把用户的全部资产（储蓄、投资、房产、养老金）编织成一条「财富故事线」——不是饼图和数字，而是时间轴叙事：「2019 年你开始定投，经历了 2020 疫情低谷但没有止损，这个决定让你今天多了 34 万。」把冰冷的资产配置变成有情感重量的人生叙事。Wealthfront 和 Betterment 都在测试类似功能。",
+      "body_en": "May 2026 product direction: AI weaves all user assets (savings, investments, property, pension) into a wealth storyline — not pie charts but timeline narrative. Transforming cold asset allocation into emotionally weighted life narrative. Wealthfront and Betterment both testing.",
+      "tags": [
+        "Wealth Narrative",
+        "Timeline UX",
+        "Emotional Finance",
+        "Storytelling"
+      ],
+      "link": "https://dribbble.com/search/wealth-management-ai-timeline",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-05-02"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 声誉评分 — 金融身份的社交化重构",
+      "body": "2026 年 5 月 Fintech 领域最有争议的新概念：基于链上行为、社交信号和消费模式的 AI 声誉评分。不同于传统信用分只看还款历史，声誉评分纳入了「你在哪些 DAO 有贡献」「你的专业社区评价」「你的消费品味一致性」。设计上最大挑战：如何让用户理解并信任一个多维度、动态变化、且部分基于社交数据的评分系统？答案可能是「评分考古」——让用户看到每一分是怎么来的，像 git blame 一样追溯每个评分因子。",
+      "body_en": "May 2026 most controversial fintech concept: AI reputation scores based on on-chain behavior, social signals, and consumption patterns. Design challenge: making users trust a multidimensional, dynamic, social-data-based scoring system. Answer: score archaeology — tracing every point like git blame.",
+      "tags": [
+        "Reputation Score",
+        "Social Finance",
+        "On-Chain",
+        "Trust Design"
+      ],
+      "link": "https://www.behance.net/search/projects/reputation%20score%20fintech%20AI",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/46352831/file/765076f0eddc850ad448f605d7f93ba0.png?resize=1024x768&vertical=center",
+      "date": "2026-05-02"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "五月金融设计的两个发现合在一起看到一个深层张力：一边是「财富叙事化」——把数字变成故事、把资产变成人生历程（温暖的、人性化的方向）；另一边是「信用社交化」——把社交行为量化为金融信号（冰冷的、监控式的方向）。这两个方向代表了 AI 金融设计的两种哲学：前者是「AI 帮你理解自己」，后者是「AI 帮别人评估你」。我的判断：2026 下半年，声誉评分类产品会遭遇巨大的隐私反弹（尤其在欧洲），而财富叙事类产品会因为情感连接而获得更高留存。设计一个让人「感受到自己的进步」的系统，永远比设计一个让人「被打分」的系统更可持续。",
+      "body_en": "May finance findings reveal a deep tension: wealth narrativization (warm, humanistic) vs credit socialization (cold, surveillance-like). Two philosophies: AI helps you understand yourself vs AI helps others evaluate you. Prediction: H2 2026, reputation scoring faces privacy backlash while wealth narrative gains retention through emotional connection.",
+      "date": "2026-05-02"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动心理教练 — 赛前焦虑的可视化干预",
+      "body": "2026 年 5 月出现的运动科技新方向：AI 心理教练。通过 HRV、皮肤电导、语音分析检测赛前焦虑水平，用「心理温度计」可视化当前状态。最聪明的设计不是告诉运动员「你焦虑了」，而是引导呼吸练习——界面变成一个缓慢膨胀收缩的圆，配合触觉反馈。从「数据展示」到「即时干预」的设计转向。视觉语言从运动 App 的高能量感切换为冥想 App 的静谧感。",
+      "body_en": "May 2026 sports tech: AI mental coaching. Detecting pre-competition anxiety via HRV, skin conductance, voice analysis. Smartest design: not telling athletes you are anxious but guiding breathing exercises — interface becomes a slowly expanding/contracting circle with haptic feedback.",
+      "tags": [
+        "Sports Psychology",
+        "Anxiety Viz",
+        "Breathing UI",
+        "Haptic"
+      ],
+      "link": "https://dribbble.com/search/meditation-breathing-app-sports",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-05-02"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动「数字孪生」— 你的虚拟身体副本",
+      "body": "2026 Q2 最前沿的运动科技概念：基于长期生物数据构建的「数字孪生」体。不是 3D 模型花哨动画，而是一个功能性的身体模拟器——可以预测「如果我接下来两周每天跑 10km 会怎样？」「如果我把蛋白质摄入提高 30% 会怎样？」设计上用简洁的「因果链」可视化：输入（训练计划调整）→ AI 模拟 → 输出（预测结果±置信区间）。",
+      "body_en": "Most cutting-edge Q2 2026 sports tech: digital twin body built from long-term biometric data. A functional body simulator predicting what-if scenarios. Design uses clean causal chain visualization: input → AI simulation → output with confidence intervals.",
+      "tags": [
+        "Digital Twin",
+        "Body Simulation",
+        "What-If",
+        "Predictive"
+      ],
+      "link": "https://www.behance.net/search/projects/digital%20twin%20sports%20AI%20simulation",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/12821657/file/original-5a25dd60b380c500c9f8e5df330f947b.jpg?resize=752x&vertical=center",
+      "date": "2026-05-02"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "五月运动 AI 的两个发现指向一个令人兴奋的方向：运动科技正在从「记录过去→优化现在」进化到「模拟未来」。数字孪生让运动员能在虚拟身体上先「试跑」一个训练方案，心理教练让运动员能在比赛前「预处理」焦虑情绪——两者都是在时间维度上向前延伸 AI 的价值。对设计的挑战是根本性的：预测永远有误差，如何设计一个「承认自己不确定」的运动 AI？置信区间不够——运动员不看统计数字。需要更直觉的表达：「最好情况/最可能/最坏情况」的三线并行可视化。",
+      "body_en": "May sports AI points to an exciting direction: sports tech evolving from record past to simulate future. Digital twins let athletes test-run plans on virtual bodies; mental coaching pre-processes anxiety. Both extend AI value forward in time. Design challenge: how to show uncertainty intuitively — three-line best/most-likely/worst visualization.",
+      "date": "2026-05-02"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 内容「保鲜度」标签 — 信息时效性可视化",
+      "body": "2026 年 5 月的一个值得关注的 Content Design 创新：给每篇文章添加 AI 生成的「保鲜度」指标。不是简单的发布日期，而是 AI 评估内容中的事实、数据、建议是否仍然有效——用渐变色条表示：深绿=完全时效、黄绿=大部分有效、橙色=部分过时、红色=严重过时。点击可看到具体哪些段落已经过时以及最新信息是什么。",
+      "body_en": "Notable May 2026 Content Design innovation: AI-generated freshness labels for articles. Gradient bar: dark green = fully current, yellow-green = mostly valid, orange = partially outdated, red = seriously outdated. Click to see which paragraphs are outdated and latest info.",
+      "tags": [
+        "Content Freshness",
+        "Trust Signal",
+        "Temporal Design",
+        "AI Audit"
+      ],
+      "link": "https://dribbble.com/search/content-freshness-indicator-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-05-02"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「内容编排 AI」— 从写作助手到发布策略师",
+      "body": "AI 内容工具在 2026 年 5 月完成了一次角色升级：不再只帮你「写好」一篇文章，而是帮你决定「什么时候发、发给谁、用什么格式」。基于受众行为数据和内容语义，AI 建议最佳发布时间、目标细分群体、标题 A/B 方案、甚至推荐在哪个章节插入 CTA。Content Design 的边界从「排版和文字」扩展到了「分发策略」。",
+      "body_en": "AI content tools complete a role upgrade in May 2026: no longer just helping write better but deciding when to publish, to whom, in what format. Content Design boundaries expand from typography to distribution strategy.",
+      "tags": [
+        "Content Strategy",
+        "Publishing AI",
+        "Distribution",
+        "Audience Design"
+      ],
+      "link": "https://www.behance.net/search/projects/content%20strategy%20AI%20publishing",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/10490089/file/original-00dbfc1b063756291ae74d908c8fa4d5.png?resize=1600x1200",
+      "date": "2026-05-02"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "五月 Content Design 的两个发现暴露了内容设计正在经历的一次「时间觉醒」。过去我们讨论的 Content Design 主要关注空间维度（排版、布局、密度、深度），但现在时间维度正在成为核心：保鲜度标签让内容的「衰变」可见（内容不是永恒的，它会变旧），发布策略 AI 让「何时呈现内容」成为设计决策的一部分。Content Design 的完整框架需要四个维度：空间（排版布局）、深度（信息层级）、文化（多语言适配）、时间（时效性+发布节奏）。大部分 Content Designer 只精通第一个维度——这是 2026 年 Content Design 人才缺口最大的地方。",
+      "body_en": "May Content Design findings expose a temporal awakening. Time is becoming core: freshness labels make content decay visible, publishing AI makes when to present a design decision. Content Design needs four dimensions: space, depth, culture, time. Most designers master only the first.",
+      "date": "2026-05-02"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 产品的「情绪镜像」界面 — 根据用户状态动态调整 UI",
+      "body": "2026 年 5 月出现的一个前沿设计实验：AI 通过摄像头/麦克风/打字速度检测用户情绪状态，动态微调界面参数。疲惫时界面对比度降低、字号增大、动效变慢；高效状态时信息密度增加、快捷键提示出现。不是主题切换，是连续的微调。隐私争议巨大，但设计理念值得记录。",
+      "body_en": "May 2026 cutting-edge experiment: AI detecting user emotional state via camera/mic/typing speed, dynamically micro-adjusting UI. Fatigued: lower contrast, larger type, slower animations. In-flow: increased density, shortcut hints. Massive privacy controversy but the design intuition is correct.",
+      "tags": [
+        "Emotion-Aware",
+        "Adaptive UI",
+        "Ambient Computing",
+        "Context Sensing"
+      ],
+      "link": "https://dribbble.com/search/adaptive-ui-emotion-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43031179/file/original-f059e3209673ba9874a301a18f233c88.png?resize=752x&vertical=center",
+      "date": "2026-05-02"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「成本透明」设计 — 让用户看到每次调用的代价",
+      "body": "2026 年 5 月一个正在成形的设计趋势：AI 产品开始向用户展示每次 AI 调用的「成本」——不是真实美元，而是用 token/能量/credits 的可视化让用户意识到 AI 并非免费。Cursor 的 token 计数器、ChatGPT 的用量仪表盘、Claude 的速率限制可视化。用「油量表」隐喻——满格绿色渐变到空格红色。透明的资源约束反而产生了更好的人机协作。",
+      "body_en": "May 2026 emerging trend: AI products showing cost of each call — token/energy/credits visualization. Fuel gauge metaphor. Transparent resource constraints actually produce better human-AI collaboration.",
+      "tags": [
+        "Cost Transparency",
+        "Token Viz",
+        "Resource UI",
+        "Usage Design"
+      ],
+      "link": "https://dribbble.com/search/ai-token-usage-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16456703/file/original-7df822057bc312ece5f828fa30af7656.png?resize=752x&vertical=center",
+      "date": "2026-05-02"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "五月 Visual for AI 的两个发现形成了一个有趣的对立：情绪镜像让 AI「更多地感知用户」（AI 向用户靠近），成本透明让用户「更多地感知 AI」（用户向 AI 靠近）。这是 2026 年人机关系设计的核心张力——双向的可见性。情绪镜像的隐私风险巨大，但它背后的设计直觉是对的：静态 UI 是工业时代的产物。成本透明则让我想到一个更深的问题：当用户知道 AI「有限」时，他们对 AI 的态度从消费变成了珍惜。这可能是对抗 AI 滥用最优雅的设计方案——不是限制功能，而是让成本可见。",
+      "body_en": "May Visual for AI findings form an opposition: emotion mirroring means AI sensing users more (AI moves toward user), cost transparency means users sensing AI more (user moves toward AI). Core tension: bidirectional visibility. Making costs visible may be the most elegant anti-abuse design — not restricting features but showing constraints.",
+      "date": "2026-05-02"
     }
   ]
 }
