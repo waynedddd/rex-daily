@@ -7274,6 +7274,170 @@
       "body": "五月 Visual for AI 的两个发现形成了一个有趣的对立：情绪镜像让 AI「更多地感知用户」（AI 向用户靠近），成本透明让用户「更多地感知 AI」（用户向 AI 靠近）。这是 2026 年人机关系设计的核心张力——双向的可见性。情绪镜像的隐私风险巨大，但它背后的设计直觉是对的：静态 UI 是工业时代的产物。成本透明则让我想到一个更深的问题：当用户知道 AI「有限」时，他们对 AI 的态度从消费变成了珍惜。这可能是对抗 AI 滥用最优雅的设计方案——不是限制功能，而是让成本可见。",
       "body_en": "May Visual for AI findings form an opposition: emotion mirroring means AI sensing users more (AI moves toward user), cost transparency means users sensing AI more (user moves toward AI). Core tension: bidirectional visibility. Making costs visible may be the most elegant anti-abuse design — not restricting features but showing constraints.",
       "date": "2026-05-02"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 合规仪表盘 — 监管科技的产品化设计",
+      "body": "RegTech 领域的设计新范式：把合规检查从后台 Excel 拉到前台可视化面板。实时合规状态用红绿灯系统，AI 自动扫描交易异常并生成合规报告草稿。最精妙的设计决策：把「合规风险」和「业务机会」放在同一视图里——左半屏是风险热力图，右半屏是被风控放行的优质交易推荐。合规不再是刹车，而是导航。",
+      "body_en": "RegTech design paradigm: pulling compliance from backend Excel to frontend visual dashboard. Real-time compliance status via traffic light system, AI auto-scanning anomalies and drafting compliance reports. Cleverest decision: putting 'compliance risk' and 'business opportunity' in one view — risk heatmap on the left, AI-approved quality trade recommendations on the right. Compliance as navigation, not brakes.",
+      "tags": [
+        "RegTech",
+        "Compliance UI",
+        "Risk Visualization",
+        "Dual View"
+      ],
+      "link": "https://dribbble.com/search/regtech-compliance-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-05-03"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Agentic Finance — AI Agent 自主理财的交互设计",
+      "body": "2026 年 Q2 Fintech 最热概念：用户不再手动操作金融 App，而是给 AI Agent 下达理财目标（「帮我在 6 个月内存够旅行基金」），Agent 自主执行预算调整、转账、投资微调。设计挑战从「怎么让用户操作」变成「怎么让用户监督」——进度报告卡片、Agent 决策日志、一键撤回机制。控制权的让渡需要极精细的信任设计。",
+      "body_en": "Q2 2026 hottest fintech concept: users give AI agents financial goals ('save enough for a trip in 6 months'), agents autonomously adjust budgets, transfers, investment tweaks. Design challenge shifts from 'how to let users operate' to 'how to let users supervise' — progress report cards, agent decision logs, one-click undo. Delegating control demands extremely granular trust design.",
+      "tags": [
+        "Agentic Finance",
+        "AI Agent",
+        "Goal-Based",
+        "Trust Delegation"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-finance-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17070953/file/original-44c1a00b9ee9e8447c7bf6b2d1bf5670.png?resize=1600x1200",
+      "date": "2026-05-03"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Agentic Finance 和 RegTech 看似两个不同话题，但底层设计逻辑完全一致：都在解决「人类如何信任 AI 替自己做决定」这个根本问题。RegTech 的答案是把合规过程可视化——你看得到 AI 在检查什么；Agentic Finance 的答案是把 Agent 决策透明化——你看得到 AI 为什么这样花你的钱。两者都指向同一个设计原则：AI 越自主，界面越需要「可审计性」。2026 年金融 UX 设计师最核心的能力不是画漂亮的图表，而是设计「信任的梯度」——从完全手动到完全自动之间，有多少级台阶？每级台阶上，用户需要看到什么才愿意再往下走一步？",
+      "body_en": "Agentic Finance and RegTech seem different but share identical design logic: how do humans trust AI to decide for them? RegTech answers with process visibility; Agentic Finance answers with decision transparency. Both point to one principle: the more autonomous AI gets, the more 'auditable' the interface must be. The core 2026 fintech UX skill isn't beautiful charts — it's designing 'trust gradients.' How many steps between fully manual and fully automatic? What must users see at each step to take one more?",
+      "date": "2026-05-03"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 群组训练 — 多人实时协作运动界面",
+      "body": "专为小型团体训练设计的 AI 教练 App。每位参与者的实时心率、消耗、疲劳度在教练视图里汇聚成一张「群体热力图」。AI 根据每个人的状态差异动态调整个人化难度——同一堂课，每个人做不同的变体。视觉上用彩色光环区分成员，脉动频率映射心率。把个人化训练和群体归属感统一在同一个界面里。",
+      "body_en": "AI coaching app for small group training. Real-time heart rate, calories, fatigue from each participant merged into a 'group heatmap' on coach view. AI dynamically adjusts individual difficulty based on state differences — same class, different variations per person. Color halos distinguish members, pulse frequency maps heart rate. Unifying personalized training and group belonging in one interface.",
+      "tags": [
+        "Group Training",
+        "Real-time Sync",
+        "Heart Rate Map",
+        "Personalized"
+      ],
+      "link": "https://dribbble.com/search/group-fitness-ai-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12083587/file/original-4f31bcadd6a85b02e1f61b5b24b90c5a.png?resize=1600x1200",
+      "date": "2026-05-03"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动损伤预防 — 预测性健康仪表盘",
+      "body": "运动损伤预防的 AI 产品设计：基于历史训练数据、睡眠质量、HRV 趋势预测受伤风险。视觉上用身体轮廓图标注高风险关节/肌群，颜色从绿到红渐变。最有价值的设计细节：「为什么」面板——AI 不只说「膝盖风险高」，还解释是因为连续 3 天大运动量 + 睡眠不足 + HRV 下降。可解释性在运动 AI 里和在金融 AI 里一样重要。",
+      "body_en": "AI injury prevention product: predicting injury risk from training history, sleep quality, HRV trends. Body silhouette annotates high-risk joints/muscles in green-to-red gradient. Most valuable detail: the 'why' panel — AI doesn't just say 'knee risk high,' it explains why (3 consecutive high-volume days + poor sleep + declining HRV). Explainability matters in sports AI as much as in finance AI.",
+      "tags": [
+        "Injury Prevention",
+        "Predictive Health",
+        "Body Map",
+        "Explainable AI"
+      ],
+      "link": "https://dribbble.com/search/sports-injury-prevention-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-05-03"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 产品正在从「记录过去」进化到「预测未来」。今天的两个案例代表了这个转变的两端：群组训练是实时的——AI 在「当下」读取每个人的状态并调整；损伤预防是预测的——AI 在「未来」看到你可能的风险。这两个方向最终会融合：想象一个 AI 教练在你训练时说「今天右膝负荷已经接近阈值，最后三组改用低冲击变体」。这不是幻想——Whoop 和 OURA 的数据已经足够支撑这种推理。真正的瓶颈是交互设计：如何在运动的高强度场景中，用最少的注意力成本传递最关键的信息？答案可能不在屏幕上，而在触觉（手环振动模式）和听觉（骨传导耳机的语音提示）。运动 AI 的下一代界面可能根本没有「界面」。",
+      "body_en": "Sports AI is evolving from 'recording the past' to 'predicting the future.' Today's cases represent both ends: group training is real-time (AI reads current state and adjusts), injury prevention is predictive (AI sees future risks). These will converge: imagine an AI coach saying mid-workout 'right knee load approaching threshold, switching last 3 sets to low-impact variants.' Not fantasy — Whoop and OURA data already supports this reasoning. The real bottleneck is interaction design: minimum attention cost for maximum critical info during high-intensity activity. The answer may not be on-screen but haptic (wristband vibration patterns) and auditory (bone conduction voice cues). Next-gen sports AI interface may have no 'interface' at all.",
+      "date": "2026-05-03"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 驱动的多语言内容排版 — 自适应版式引擎",
+      "body": "一个解决多语言内容设计痛点的系统：AI 根据目标语言自动调整排版参数——中文用更大的行高和字号，阿拉伯语自动 RTL 翻转布局，德语为长复合词预留额外的断字空间。不是简单翻译，而是「排版翻译」。每种语言都有自己的视觉节奏，好的多语言设计尊重这种差异而非强制统一。",
+      "body_en": "System solving multilingual content design pain: AI auto-adjusts typography per target language — larger line-height for Chinese, RTL layout flip for Arabic, extra hyphenation space for German compound words. Not just translation but 'typographic translation.' Every language has its own visual rhythm; good multilingual design respects these differences rather than forcing uniformity.",
+      "tags": [
+        "Multilingual",
+        "Adaptive Typography",
+        "i18n",
+        "AI Layout"
+      ],
+      "link": "https://dribbble.com/search/multilingual-typography-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-05-03"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "Spatial Content Design — 空间计算时代的内容架构",
+      "body": "Apple Vision Pro 2 发布在即，空间内容设计终于从概念进入实践。内容不再局限于矩形画布——文字可以环绕在用户周围，图片悬浮在空间中，阅读路径从线性变成三维。2026 年 Q2 最前沿的探索：如何在空间中保持内容的「阅读节奏」？在 2D 屏幕上，行距和段距控制节奏；在 3D 空间里，需要用深度、角度、和运动引导视线。内容设计的维度正在从 2 变成 3。",
+      "body_en": "With Apple Vision Pro 2 imminent, spatial content design moves from concept to practice. Content breaks free from rectangular canvas — text wrapping around users, images floating in space, reading paths from linear to 3D. Q2 2026 frontier: how to maintain 'reading rhythm' in space? On 2D screens, line and paragraph spacing control rhythm; in 3D, depth, angle, and motion guide the eye. Content design dimensions are going from 2 to 3.",
+      "tags": [
+        "Spatial Computing",
+        "Vision Pro",
+        "3D Typography",
+        "Content Architecture"
+      ],
+      "link": "https://dribbble.com/search/visionos-content-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-05-03"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "多语言排版和空间内容设计看似毫不相关，但它们挑战的是同一个假设：内容设计有一个「默认形态」。多语言设计打破的是「英语排版规则适用于所有语言」的假设；空间设计打破的是「内容存在于矩形画布中」的假设。2026 年的内容设计师需要一种新能力：抽象思维。不是在某一种排版里做到极致，而是理解排版的底层逻辑——节奏、层级、引导——然后把它适配到任何载体上。这和编程里的「接口 vs 实现」完全同构：定义好内容的语义结构（接口），排版规则只是实现层的一种。多语言是不同的实现，空间是另一种实现。内容设计正在变成真正的系统设计。",
+      "body_en": "Multilingual typography and spatial content design seem unrelated but challenge the same assumption: content design has a 'default form.' Multilingual breaks 'English typography rules apply universally'; spatial breaks 'content lives in rectangular canvas.' 2026 content designers need a new skill: abstract thinking. Not perfecting one typography but understanding typography's underlying logic — rhythm, hierarchy, guidance — then adapting to any medium. Isomorphic to programming's 'interface vs implementation': define content's semantic structure (interface), typography rules are just one implementation. Multilingual is one implementation, spatial is another. Content design is becoming true systems design.",
+      "date": "2026-05-03"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 身份系统 — 给每个 Agent 一张「脸」",
+      "body": "当用户同时和多个 AI Agent 交互（编程助手、写作助手、日程管理），如何视觉化区分它们？这个设计项目为不同功能的 Agent 设计了独立的视觉身份：编程 Agent 用等宽字体风格的几何图标 + 冷色调，写作 Agent 用衬线体风格的流线图标 + 暖色调。每个 Agent 有自己的「声音」（加载动画节奏不同）、「表情」（成功/失败/思考的微妙视觉变化）。多 Agent 时代需要多 Agent 视觉语言。",
+      "body_en": "When users interact with multiple AI agents simultaneously (coding, writing, scheduling), how to visually differentiate? This project designs distinct visual identities: coding agent uses monospace-style geometric icons + cool tones, writing agent uses serif-style flowing icons + warm tones. Each agent has its own 'voice' (different loading animation rhythms), 'expressions' (subtle visual variations for success/failure/thinking). Multi-agent era needs multi-agent visual language.",
+      "tags": [
+        "Multi-Agent",
+        "Agent Identity",
+        "Visual System",
+        "Personality Design"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-identity-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-05-03"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 置信度可视化 — 从确定到不确定的光谱设计",
+      "body": "AI 输出不是非黑即白的，但大多数界面把它当作黑白来设计。这个项目探索了如何可视化 AI 的置信度光谱：高置信的内容用实线边框 + 饱和色，中等置信用虚线 + 半透明，低置信用模糊边缘 + 去饱和。最巧妙的交互：悬停低置信区域会展开 AI 的推理链——「我不太确定，因为……」。让不确定性成为界面的一等公民。",
+      "body_en": "AI output isn't binary but most UIs treat it as such. This project explores visualizing AI confidence spectrum: high confidence = solid borders + saturated color, medium = dashed + semi-transparent, low = blurred edges + desaturated. Cleverest interaction: hovering low-confidence areas expands AI reasoning chain — 'I'm not sure because...' Making uncertainty a first-class citizen of the interface.",
+      "tags": [
+        "Confidence Viz",
+        "Uncertainty UX",
+        "AI Transparency",
+        "Spectrum Design"
+      ],
+      "link": "https://dribbble.com/search/ai-confidence-visualization",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-05-03"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "今天 Visual for AI 的两个案例指向 2026 年下半年 AI 产品设计的两大核心命题：身份和诚实。Agent 身份系统解决的是「谁在跟我说话」——随着多 Agent 协作成为常态（Cursor 有编程 Agent，Slack 有会议摘要 Agent，邮箱有写作 Agent），用户需要在视觉上立刻分辨「这是哪个 AI」。这和人类社会的逻辑完全一样：你认识一个人靠的是脸、声音、气质，不是名片上的职位。AI 也需要自己的「脸」。置信度可视化解决的是「它有多确定」——这可能是 2026 年最被低估的设计方向。当前 AI 界面的最大谎言就是把所有输出都呈现得同样自信。用视觉层级区分确定性和不确定性，不是削弱用户信任，恰恰是建立真正的信任。一个敢说「我不确定」的 AI，比一个永远自信满满的 AI 更值得信赖。这两个方向的交汇点在于：最好的 AI 视觉设计让 AI「更像人」——有辨识度、有个性、也有局限性。",
+      "body_en": "Two Visual for AI cases point to H2 2026's core AI product design themes: identity and honesty. Agent identity solves 'who's talking to me' — as multi-agent collaboration becomes normal, users need to visually distinguish agents instantly. Same as human social logic: you recognize people by face, voice, vibe — not business cards. AI needs its own 'face.' Confidence visualization solves 'how sure is it' — possibly 2026's most underrated design direction. Current AI interfaces' biggest lie: presenting all outputs with equal confidence. Visually distinguishing certainty from uncertainty doesn't weaken trust — it builds real trust. An AI that dares say 'I'm not sure' is more trustworthy than one that's always confident. The intersection: the best AI visual design makes AI 'more human' — recognizable, personality-driven, and honest about limitations.",
+      "date": "2026-05-03"
     }
   ]
 }
