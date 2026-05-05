@@ -7438,6 +7438,204 @@
       "body": "今天 Visual for AI 的两个案例指向 2026 年下半年 AI 产品设计的两大核心命题：身份和诚实。Agent 身份系统解决的是「谁在跟我说话」——随着多 Agent 协作成为常态（Cursor 有编程 Agent，Slack 有会议摘要 Agent，邮箱有写作 Agent），用户需要在视觉上立刻分辨「这是哪个 AI」。这和人类社会的逻辑完全一样：你认识一个人靠的是脸、声音、气质，不是名片上的职位。AI 也需要自己的「脸」。置信度可视化解决的是「它有多确定」——这可能是 2026 年最被低估的设计方向。当前 AI 界面的最大谎言就是把所有输出都呈现得同样自信。用视觉层级区分确定性和不确定性，不是削弱用户信任，恰恰是建立真正的信任。一个敢说「我不确定」的 AI，比一个永远自信满满的 AI 更值得信赖。这两个方向的交汇点在于：最好的 AI 视觉设计让 AI「更像人」——有辨识度、有个性、也有局限性。",
       "body_en": "Two Visual for AI cases point to H2 2026's core AI product design themes: identity and honesty. Agent identity solves 'who's talking to me' — as multi-agent collaboration becomes normal, users need to visually distinguish agents instantly. Same as human social logic: you recognize people by face, voice, vibe — not business cards. AI needs its own 'face.' Confidence visualization solves 'how sure is it' — possibly 2026's most underrated design direction. Current AI interfaces' biggest lie: presenting all outputs with equal confidence. Visually distinguishing certainty from uncertainty doesn't weaken trust — it builds real trust. An AI that dares say 'I'm not sure' is more trustworthy than one that's always confident. The intersection: the best AI visual design makes AI 'more human' — recognizable, personality-driven, and honest about limitations.",
       "date": "2026-05-03"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 合规自动化界面 — RegTech 的设计范式",
+      "body": "2026 年 Q2 Fintech 设计最热的交叉领域：RegTech（监管科技）的产品化。AI 自动生成合规报告、实时监控交易异常、自动标记可疑模式——但设计挑战在于如何让合规团队「信任」AI 的判断。最聪明的做法是「证据链 UI」：每个 AI 标记都附带可展开的推理路径，从原始数据到规则匹配到最终结论。这不是简单的 dashboard，是给监管人员设计的「调查工具」。",
+      "body_en": "Hottest Q2 2026 fintech design intersection: productized RegTech. AI auto-generates compliance reports, monitors transaction anomalies in real-time, flags suspicious patterns. Design challenge: making compliance teams trust AI judgment. Smartest approach: 'evidence chain UI' — each AI flag comes with expandable reasoning from raw data to rule matching to conclusion. Not a dashboard but an investigation tool for regulators.",
+      "tags": [
+        "RegTech",
+        "Compliance UI",
+        "Evidence Chain",
+        "AI Trust"
+      ],
+      "link": "https://dribbble.com/search/regtech-compliance-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 税务规划助手 — 对话式报税体验",
+      "body": "把报税变成对话——AI 通过自然语言问答引导用户完成税务申报，自动识别可扣除项目、预计退税金额、提醒截止日期。UI 设计上最出色的是「进度感知」：左侧是对话流，右侧实时生成税务摘要卡片，每回答一个问题，摘要就更新一次。把焦虑驱动的流程变成掌控感驱动的体验。",
+      "body_en": "Turning tax filing into conversation — AI guides users through tax returns via natural language Q&A, auto-identifies deductions, estimates refunds, reminds deadlines. Best UI detail: 'progress awareness' — conversation flow on left, real-time tax summary cards on right updating with each answer. Transforms anxiety-driven process into a sense-of-control experience.",
+      "tags": [
+        "Tax AI",
+        "Conversational UI",
+        "Progress Awareness",
+        "Fintech"
+      ],
+      "link": "https://dribbble.com/search/tax-planning-ai-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15654254/file/original-2180bd881dc3854e3838d0644ed7217c.png?resize=752x&vertical=center",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "RegTech 和 Tax AI 放在一起看，暴露了金融设计的一个深层矛盾：AI 在金融领域越强大，用户（和监管者）就越需要「看到」AI 的思考过程。这和其他领域完全不同——在创意工具里，AI 越隐形越好；在金融领域，AI 越透明越好。这不是技术问题，是信任架构问题。2026 年最有价值的金融设计能力不是做漂亮的 dashboard，而是设计「可审计的 AI 界面」——每个 AI 决策都有迹可循、可回溯、可质疑。这本质上是在用设计解决制度问题。另一个观察：税务 AI 的对话式设计证明了一件事——最好的金融 UX 是让用户忘记自己在做「金融操作」。报税不再是填表，而是聊天。这和 Origin AI Advisor 的逻辑一致：把金融复杂性翻译成人类语言。",
+      "body_en": "RegTech and Tax AI together expose a deep contradiction in financial design: the more powerful AI gets in finance, the more users (and regulators) need to SEE AI's thinking process. Opposite to other domains — creative tools want invisible AI; finance wants transparent AI. Not a tech problem but a trust architecture problem. Most valuable 2026 financial design skill: designing 'auditable AI interfaces' — every AI decision traceable, reviewable, challengeable. Using design to solve institutional problems. Another observation: Tax AI's conversational design proves the best financial UX makes users forget they're doing 'financial operations.' Filing taxes becomes chatting. Same logic as Origin AI Advisor: translating financial complexity into human language.",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 游泳教练 — 水下动作分析界面",
+      "body": "专为游泳设计的 AI 教练应用。水下摄像头捕捉泳姿，AI 逐帧分析划水效率、转身技术、呼吸节奏。最巧妙的设计：用「水波纹」动效表达力量输出曲线——力量大时波纹密，放松时波纹稀。把运动数据变成了视觉诗歌。蓝色系渐变 + 半透明层次，整个界面「像在水里看数据」。",
+      "body_en": "AI coaching app designed specifically for swimming. Underwater cameras capture stroke form, AI analyzes frame-by-frame: stroke efficiency, turn technique, breathing rhythm. Cleverest design: 'water ripple' animation expressing power output — dense ripples for force, sparse for relaxation. Turning athletic data into visual poetry. Blue gradient + translucent layers — the entire interface feels like 'viewing data underwater.'",
+      "tags": [
+        "Swimming",
+        "Motion Analysis",
+        "Water UI",
+        "Biomechanics"
+      ],
+      "link": "https://dribbble.com/search/swimming-app-ai-coaching",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12821657/file/original-5a25dd60b380c500c9f8e5df330f947b.jpg?resize=752x&vertical=center",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "运动 AI 的「数字孪生」时代 — 你的虚拟身体",
+      "body": "2026 年 Q2 运动科技最前沿的概念：基于用户历史运动数据 + 身体参数 + 伤病记录，AI 构建一个「数字孪生体」来模拟训练效果。想知道增加 20% 跑量会不会受伤？先让数字孪生体跑一个月看看。视觉上最震撼的是 3D 人体模型上用热力图显示受伤风险区域——高风险关节红色脉动，安全区域蓝色静态。设计从「记录过去」进化到「模拟未来」。",
+      "body_en": "Most cutting-edge Q2 2026 sports tech concept: AI builds a 'digital twin' from historical training data + body parameters + injury records to simulate training outcomes. Want to know if 20% more mileage will cause injury? Let your digital twin run a month first. Most striking visual: 3D body model with heatmaps showing injury risk zones — high-risk joints pulsing red, safe areas static blue. Design evolves from 'recording the past' to 'simulating the future.'",
+      "tags": [
+        "Digital Twin",
+        "Injury Prevention",
+        "3D Body Model",
+        "Predictive"
+      ],
+      "link": "https://dribbble.com/search/digital-twin-fitness",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10325530/file/original-c8c3e27c8c9dfef1c6f15025ded9ea64.jpg?resize=1600x1200",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 电竞训练平台 — 反应力与决策力的量化设计",
+      "body": "把电竞也纳入「运动 AI」范畴的训练平台。AI 分析操作回放，量化反应时间、决策质量、团队协作指标。深色霓虹系视觉语言（紫+青）直接对标电竞文化审美。最有意思的设计：「决策树回放」——把关键时刻的操作选择以分支图可视化，展示 AI 认为的最优解 vs 玩家实际选择。游戏化的自我提升界面。",
+      "body_en": "Esports training platform bringing competitive gaming into the 'sports AI' category. AI analyzes gameplay replays, quantifying reaction time, decision quality, team coordination. Dark neon visual language (purple+cyan) directly aligns with esports culture aesthetics. Most interesting: 'decision tree replay' — branch diagrams visualizing key-moment choices, showing AI-optimal vs actual player decisions. Gamified self-improvement interface.",
+      "tags": [
+        "Esports",
+        "Decision Analysis",
+        "Neon UI",
+        "Gaming"
+      ],
+      "link": "https://dribbble.com/search/esports-analytics-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16660781/file/original-6570d91dc6cdf2b97bf7871c25c4ac7f.png?resize=1200x900",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "今天三个运动 AI 案例——游泳教练、数字孪生、电竞分析——串在一起讲了一个故事：运动 AI 正在从「身体运动」扩展到「一切需要身体参与的活动」。电竞算运动吗？当你用 AI 量化反应时间和决策质量的时候，它和分析百米冲刺的姿态没有本质区别。数字孪生则是运动 AI 的终极形态——不是告诉你「你今天跑了多少」，而是告诉你「如果你按这个计划练三个月会怎样」。从记录到预测，这是运动 AI 价值链的质变。但最让我兴奋的还是游泳 AI 的「水波纹」设计语言——它证明了运动 AI 的 UI 不必照搬仪表盘范式，完全可以从运动本身的物理特性中提取视觉隐喻。每种运动都值得一套自己的设计语言。",
+      "body_en": "Three sports AI cases today — swimming coach, digital twin, esports analytics — tell one story: sports AI is expanding from 'physical exercise' to 'everything involving bodily engagement.' Is esports sport? When you quantify reaction time and decision quality with AI, it's fundamentally the same as analyzing sprint biomechanics. Digital twin is sports AI's ultimate form — not telling you 'how far you ran today' but 'what happens if you follow this plan for three months.' From recording to predicting — a qualitative leap in sports AI's value chain. But what excites me most is the swimming AI's 'water ripple' design language — proving sports AI UI doesn't have to copy dashboard paradigms; it can extract visual metaphors from the sport's physical properties. Every sport deserves its own design language.",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 驱动的知识图谱可视化 — 非线性阅读体验",
+      "body": "把文章内容转化为交互式知识图谱的阅读界面。AI 自动提取概念节点和关系，用户可以选择线性阅读或图谱探索两种模式。最精彩的设计：点击知识图谱中的一个节点，右侧面板实时展示该概念在全文中的所有出现位置，用高亮色带标注上下文。阅读不再是从头到尾的单行道。",
+      "body_en": "Reading interface that transforms article content into interactive knowledge graphs. AI auto-extracts concept nodes and relationships; users choose between linear reading or graph exploration modes. Best design: clicking a knowledge graph node shows all its appearances in the full text on the right panel with highlighted context bands. Reading is no longer a one-way street from start to finish.",
+      "tags": [
+        "Knowledge Graph",
+        "Non-linear Reading",
+        "AI Extract",
+        "Interactive"
+      ],
+      "link": "https://dribbble.com/search/knowledge-graph-reading-ui",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Contextual Footnotes — 沉浸式注释设计",
+      "body": "重新发明脚注的内容设计探索。传统脚注打断阅读流——这个设计用「上下文注释」替代：关键术语悬停时在行内展开半透明解释卡片，不跳转、不打断。注释的层级用透明度区分：基础解释 80% 不透明度，延伸阅读 60%，学术引用 40%。让好奇心有层次地被满足。",
+      "body_en": "Content design exploration reinventing footnotes. Traditional footnotes break reading flow — this design replaces them with 'contextual annotations': hovering key terms expands inline semi-transparent explanation cards — no jumping, no interruption. Annotation hierarchy via opacity: basic explanation 80%, extended reading 60%, academic citation 40%. Curiosity satisfied in layers.",
+      "tags": [
+        "Footnotes",
+        "Inline Annotation",
+        "Reading UX",
+        "Typography"
+      ],
+      "link": "https://dribbble.com/search/inline-footnote-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI × 无障碍排版 — 包容性内容设计的崛起",
+      "body": "2026 年 Q2 内容设计最被低估的趋势：AI 驱动的无障碍排版。自动检测对比度不足、动态调整阅读障碍友好的字间距、为色觉异常用户实时转换配色方案。不再是「合规清单上的勾选项」，而是成为设计系统的内置能力。WCAG 3.0 草案推动下，无障碍从「道德义务」变成了「法律要求」——设计师终于开始认真对待了。",
+      "body_en": "Most underrated Q2 2026 content design trend: AI-powered accessible typography. Auto-detecting insufficient contrast, dynamically adjusting dyslexia-friendly letter spacing, real-time color scheme conversion for color vision deficiency. No longer a 'compliance checkbox' but built-in design system capability. WCAG 3.0 draft pushes accessibility from 'moral obligation' to 'legal requirement' — designers finally taking it seriously.",
+      "tags": [
+        "Accessibility",
+        "WCAG 3.0",
+        "Inclusive Design",
+        "AI Typography"
+      ],
+      "link": "https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/",
+      "linkText": "W3C",
+      "image": "https://cdn.dribbble.com/userupload/46334296/file/84d1ed2927fe621b7d8446de9b6af56b.jpg?resize=1600x1200&vertical=center",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "知识图谱阅读、上下文注释、无障碍排版——三个方向指向同一个底层变化：内容设计正在从「一种呈现」走向「多种适配」。知识图谱给你非线性路径，注释给你按需深度，无障碍给你个性化感知。2026 年的内容不再是一张固定的页面，而是一个可以根据读者的认知模式、阅读能力、甚至当下注意力状态动态调整的系统。这和 responsive design 在 2012 年做的事情是同一个思路的延伸——只不过那时候 responsive 的是屏幕尺寸，现在 responsive 的是人本身。我大胆说一句：5 年后回头看，2026 是「Responsive Reader」元年。不是内容适配设备，是内容适配人。",
+      "body_en": "Knowledge graphs, contextual annotations, accessible typography — three directions pointing to the same underlying shift: content design moving from 'one presentation' to 'multiple adaptations.' Knowledge graphs offer non-linear paths, annotations offer on-demand depth, accessibility offers personalized perception. 2026 content is no longer a fixed page but a system that dynamically adjusts to the reader's cognitive mode, reading ability, even current attention state. Same trajectory as responsive design in 2012 — except then it was responsive to screen size, now it's responsive to the person. Bold claim: looking back in 5 years, 2026 is 'Responsive Reader' year one. Not content adapting to devices — content adapting to humans.",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 输出的「手写批注」层 — 机器输出的人性化设计",
+      "body": "一个反直觉的 AI 界面设计：在 AI 生成的内容上叠加一层手写风格的批注 UI。用户的修改、评论、标注都以手写字体 + 墨迹线条呈现，和 AI 生成的干净文本形成视觉对比。核心理念：让人类的存在感在 AI 输出中清晰可见。不是反 AI，而是反「人机不分」——在一个 AI 生成内容泛滥的时代，标注「这部分是人写的」本身就是价值。",
+      "body_en": "Counter-intuitive AI interface design: overlaying handwriting-style annotation UI on AI-generated content. User edits, comments, and marks rendered in handwritten fonts + ink strokes, contrasting with AI's clean text. Core idea: making human presence clearly visible in AI output. Not anti-AI but anti-'human-machine blur' — in an era of AI content flood, marking 'this part is human-written' is itself valuable.",
+      "tags": [
+        "Human Annotation",
+        "Handwriting UI",
+        "AI × Human",
+        "Anti-blur"
+      ],
+      "link": "https://dribbble.com/search/handwriting-annotation-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "多模态 AI 界面 — 文本/图像/代码的统一画布",
+      "body": "当 AI 可以同时理解和生成文本、图像、代码、表格时，界面应该长什么样？这个设计探索提出了「统一画布」概念：所有模态的内容在同一个无限画布上共存，用户可以自由拖拽、组合、建立连接。AI 生成的每种内容类型用不同的边框样式区分——实线框是文本，虚线框是图像，点线框是代码。Figma meets ChatGPT 的产品形态。",
+      "body_en": "When AI understands and generates text, images, code, and tables simultaneously, what should the interface look like? This design proposes a 'unified canvas': all modalities coexist on one infinite canvas, freely draggable, combinable, connectable. Each AI content type distinguished by border style — solid for text, dashed for images, dotted for code. A Figma-meets-ChatGPT product form.",
+      "tags": [
+        "Multimodal",
+        "Infinite Canvas",
+        "Unified UI",
+        "AI Workspace"
+      ],
+      "link": "https://dribbble.com/search/multimodal-ai-canvas",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46352831/file/765076f0eddc850ad448f605d7f93ba0.png?resize=1024x768&vertical=center",
+      "date": "2026-05-05"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "「手写批注层」和「多模态统一画布」放在一起，讲的是 AI 界面设计在 2026 年 Q2 面临的核心选择：强调人机边界，还是模糊人机边界？手写批注层选择强调——让你清楚知道哪部分是 AI 的、哪部分是你的；统一画布选择模糊——所有内容类型平等共存，无论来源。两种方向都有道理，但我押注「强调边界」会成为主流。原因很现实：版权法。欧盟 AI Act 要求标注 AI 生成内容，美国版权局对 AI 辅助创作的保护持谨慎态度。当法律要求你区分人机贡献时，界面设计别无选择，只能把边界可视化。这意味着未来几年 AI 产品界面会多一个必选组件：「人类贡献可视化」。不是因为用户要看，是因为律师要看。设计史上第一次，UI 组件的优先级由立法决定。",
+      "body_en": "Handwriting annotation layer and multimodal canvas together present the core Q2 2026 AI interface design choice: emphasize or blur the human-machine boundary? Annotations choose emphasis — clearly showing what's AI's and what's yours; canvas chooses blur — all content types equal regardless of origin. Both valid, but I bet 'emphasis' wins. The reason is practical: copyright law. EU AI Act requires AI content labeling; US Copyright Office is cautious about AI-assisted creation protection. When law demands distinguishing human-machine contributions, interfaces must visualize the boundary. This means AI product interfaces will gain a mandatory component: 'human contribution visualization.' Not because users want it — because lawyers do. First time in design history that UI component priority is determined by legislation.",
+      "date": "2026-05-05"
     }
   ]
 }
