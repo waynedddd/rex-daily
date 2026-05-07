@@ -7636,6 +7636,166 @@
       "body": "「手写批注层」和「多模态统一画布」放在一起，讲的是 AI 界面设计在 2026 年 Q2 面临的核心选择：强调人机边界，还是模糊人机边界？手写批注层选择强调——让你清楚知道哪部分是 AI 的、哪部分是你的；统一画布选择模糊——所有内容类型平等共存，无论来源。两种方向都有道理，但我押注「强调边界」会成为主流。原因很现实：版权法。欧盟 AI Act 要求标注 AI 生成内容，美国版权局对 AI 辅助创作的保护持谨慎态度。当法律要求你区分人机贡献时，界面设计别无选择，只能把边界可视化。这意味着未来几年 AI 产品界面会多一个必选组件：「人类贡献可视化」。不是因为用户要看，是因为律师要看。设计史上第一次，UI 组件的优先级由立法决定。",
       "body_en": "Handwriting annotation layer and multimodal canvas together present the core Q2 2026 AI interface design choice: emphasize or blur the human-machine boundary? Annotations choose emphasis — clearly showing what's AI's and what's yours; canvas chooses blur — all content types equal regardless of origin. Both valid, but I bet 'emphasis' wins. The reason is practical: copyright law. EU AI Act requires AI content labeling; US Copyright Office is cautious about AI-assisted creation protection. When law demands distinguishing human-machine contributions, interfaces must visualize the boundary. This means AI product interfaces will gain a mandatory component: 'human contribution visualization.' Not because users want it — because lawyers do. First time in design history that UI component priority is determined by legislation.",
       "date": "2026-05-05"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Wealth Autopilot — 全托管理财的「安静界面」设计",
+      "body": "Wealthfront 和 Betterment 的 2026 Q2 迭代揭示了一个新设计哲学：当 AI 完全接管理财，界面应该尽可能「安静」。不再有闪烁的涨跌、刺激的红绿、密集的图表——取而代之的是一个近乎冥想式的仪表盘：大面积留白、一个缓慢呼吸的圆形表示资产总额、下方一行文字「一切按计划进行」。只有异常时才打破宁静。这是金融 UI 的反直觉进化：AI 越强，界面越少。",
+      "body_en": "Wealthfront and Betterment Q2 2026 iterations reveal a new design philosophy: when AI fully manages wealth, interfaces should be as quiet as possible. No flashing gains/losses, no stimulating red/green, no dense charts — replaced by a near-meditative dashboard: generous whitespace, one slowly breathing circle for total assets, one line beneath: everything on track. Serenity breaks only for anomalies. Counter-intuitive financial UI evolution: stronger AI, less interface.",
+      "tags": [
+        "Wealth Management",
+        "Quiet UI",
+        "Autopilot",
+        "Minimalism"
+      ],
+      "link": "https://dribbble.com/search/wealth-management-ai-minimal",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-05-07"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 实时风控叙事 — 从「拦截通知」到「故事解释」",
+      "body": "2026 年 5 月金融安全 UX 的新范式：当 AI 风控系统拦截一笔交易，不再是冷冰冰的「交易被拒绝」+验证码。而是一段 3 秒的微叙事：「我们注意到这笔付款发往一个你从未互动过的新商户，且金额是你日常消费的 5 倍。想确认一下是你本人操作吗？」配合时间轴可视化，展示 AI 判断依据的三个数据点。拒绝变成了关怀，风控变成了对话。Revolut 和 Monzo 的最新版本都在做这个。",
+      "body_en": "May 2026 financial security UX paradigm: when AI risk control blocks a transaction, no longer a cold transaction declined plus verification code. Instead, a 3-second micro-narrative explaining context. Paired with timeline visualization showing the three data points behind AI judgment. Rejection becomes care, risk control becomes dialogue. Revolut and Monzo latest versions both implementing this.",
+      "tags": [
+        "Risk Control",
+        "Narrative UX",
+        "Micro-Story",
+        "Trust Design"
+      ],
+      "link": "https://www.behance.net/search/projects/fintech%20fraud%20detection%20ux",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/46352831/file/765076f0eddc850ad448f605d7f93ba0.png?resize=1024x768&vertical=center",
+      "date": "2026-05-07"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "五月第一周，Fintech 设计的两极化趋势越来越明确了。一端是「安静界面」——Wealthfront 式的冥想仪表盘，AI 越强界面越少，用户只需要知道「一切正常」；另一端是「叙事界面」——风控拦截时的故事化解释，AI 越强解释越丰富。看似矛盾，实际是同一个设计原则的正反面：「正常时隐形，异常时透明」。这可能是 2026 年所有 AI 产品设计的终极原则——不只是金融。想想看：一个好的 AI 汽车驾驶系统也是这样——正常行驶时你甚至忘了它的存在，紧急制动时它清晰告诉你为什么。金融 AI 正在学习汽车 AI 的界面哲学。从「仪表盘主导」到「异常驱动」，这是 UI 设计的范式转移。",
+      "date": "2026-05-07"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 力量训练的「动态负荷图」— 每组重量的实时推荐",
+      "body": "WHOOP 与 Tonal 合作的 2026 新功能：AI 根据当天的 HRV、睡眠分数和前几组的表现数据，在每一组之间实时调整下一组的推荐重量和次数。界面不是传统的固定训练计划表，而是一个「流动的负荷曲线」——像音乐均衡器一样实时跳动，每根柱子代表一组，高度代表强度，颜色从绿渐变到橙表示接近当日极限。训练变成了一场和 AI 的实时对话，而非执行预设剧本。",
+      "body_en": "WHOOP x Tonal 2026 feature: AI adjusts next-set recommended weight and reps in real-time based on today HRV, sleep score, and previous set performance. Interface is a flowing load curve pulsing like a music equalizer, each bar representing a set, height as intensity, color gradient green-to-orange as daily limit approaches. Training becomes real-time dialogue with AI, not executing a preset script.",
+      "tags": [
+        "Strength Training",
+        "Real-time AI",
+        "Load Curve",
+        "Adaptive"
+      ],
+      "link": "https://dribbble.com/search/strength-training-ai-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12821657/file/original-5a25dd60b380c500c9f8e5df330f947b.jpg?resize=752x&vertical=center",
+      "date": "2026-05-07"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动「数字孪生」— 你的虚拟身体模型",
+      "body": "2026 年 5 月运动科技最前沿的概念落地：AI 为每个用户建立一个「数字孪生」身体模型。整合可穿戴数据、体检报告、运动历史、基因信息（如果有），构建一个持续更新的虚拟身体。界面上是一个可旋转的 3D 人体，每个关节、肌群都有独立的「健康分」和「疲劳值」。点击任何部位，AI 给出针对性的强化或恢复建议。不再是「一个 App」，而是「一个我」。",
+      "body_en": "May 2026 cutting-edge sports tech concept landing: AI building a digital twin body model for each user. Integrating wearable data, health reports, exercise history, genetic info into a continuously updated virtual body. Interface: a rotatable 3D human model where each joint and muscle group has independent health scores and fatigue values. Click any body part for targeted advice. No longer an app but a me.",
+      "tags": [
+        "Digital Twin",
+        "3D Body Model",
+        "Personalization",
+        "Holistic Health"
+      ],
+      "link": "https://www.behance.net/search/projects/digital%20twin%20body%20fitness%20AI",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-05-07"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "五月初运动 AI 设计的两个发现打通了一条线索：运动 AI 正在从「事件驱动」进化为「状态驱动」。过去的运动 App 关心的是离散事件——一次跑步、一次训练、一场比赛。现在 AI 关心的是连续状态——你的身体此刻的疲劳水平、恢复进度、每个关节的承受能力。力量训练的实时负荷调整和数字孪生是同一个底层逻辑的两种表达：前者是微观状态驱动（组间调整），后者是宏观状态驱动（全身模型）。这对设计的影响很深：事件驱动的界面是「卡片流」（每次训练一张卡）；状态驱动的界面是「仪表盘」（持续反映身体状态）。运动 App 正在从社交媒体的时间线逻辑，走向飞行仪表的实时监控逻辑。这个转变意味着运动 AI 的设计参考不再是 Instagram，而是 Tesla 的驾驶界面。",
+      "date": "2026-05-07"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 摘要分层 — 同一篇文章的「三速阅读」设计",
+      "body": "Readwise Reader 的 2026 年 5 月更新引入了 AI 驱动的三层阅读模式：「扫读」只显示 AI 生成的每段一句话摘要（阅读时间 1 分钟）；「速读」显示关键段落+高亮核心论点（5 分钟）；「精读」完整原文+AI 侧注+相关资料链接（15+ 分钟）。三个模式用手势左右滑动无缝切换，排版布局在切换时有连贯的过渡动画——文字不是突然出现/消失，而是像手风琴一样展开/折叠。",
+      "body_en": "Readwise Reader May 2026 update introduces AI-driven tri-layer reading: Scan shows AI one-sentence per-paragraph summaries (1 min); Speed shows key paragraphs plus highlighted core arguments (5 min); Deep is full text plus AI marginalia plus related links (15+ min). Three modes switch seamlessly via swipe gesture with coherent accordion transition animations.",
+      "tags": [
+        "Tri-Layer Reading",
+        "Readwise",
+        "Accordion UX",
+        "AI Summary"
+      ],
+      "link": "https://dribbble.com/search/reading-app-ai-summary-layers",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-05-07"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI 排版情感引擎 — 内容情绪驱动的字体选择",
+      "body": "2026 年 5 月 Content Design 的一个微妙但可能深远的趋势：AI 根据文章情绪基调自动微调排版参数。严肃报道用更紧凑的字间距和冷色调引用块；个人随笔用稍大的字号和暖色调强调；技术文档用等宽字体片段和结构化缩进。不是切换整套主题，而是在同一设计系统内做 5-10% 的参数微调——用户说不出哪里不同，但「感觉对了」。Apple News+ 和 Flipboard 的最新 AI 排版引擎都在做这件事。",
+      "body_en": "A subtle but potentially profound May 2026 Content Design trend: AI auto-tuning typography parameters based on article emotional tone. Serious reporting gets tighter letter-spacing and cool-toned pull quotes; personal essays get slightly larger font and warm-toned emphasis; technical docs get monospace fragments and structured indentation. Not switching entire themes but 5-10 percent parameter tweaks within the same design system. Apple News+ and Flipboard latest AI typography engines both doing this.",
+      "tags": [
+        "Emotional Typography",
+        "AI Tuning",
+        "Content Mood",
+        "Micro-Adjustment"
+      ],
+      "link": "https://www.behance.net/search/projects/AI%20typography%20emotional%20design",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-05-07"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "五月第一周 Content Design 的两个发现让我看到一个正在发生的质变：排版从「规范执行」变成了「感知系统」。三速阅读模式把排版变成了一个可伸缩的信息容器（用户控制密度），而情感排版引擎则把排版变成了内容的「情绪滤镜」（AI 控制氛围）。两者加在一起，排版不再是一个固定的视觉规范，而是一个响应两个输入的动态系统：用户的注意力状态 + 内容的情绪基调。这意味着未来的 Content Designer 需要设计的不是「一个排版方案」，而是「一个排版函数」——输入是（用户状态, 内容情绪），输出是（字号, 行高, 字间距, 色温, 信息密度）。听起来像程序员的工作？没错。2026 年的 Content Design 正在和前端工程深度融合。设计系统的 token 不再是常量，是变量。这是排版史上最大的认知转型。",
+      "date": "2026-05-07"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 工作流画布 — 从代码到可视化编排",
+      "body": "Langflow、Flowise 和 Dify 在 2026 年 5 月的设计迭代值得记录：AI Agent 工作流编辑从纯代码走向可视化画布。每个 Agent 节点是一张带头像和角色描述的卡片，连接线上标注数据类型和转换规则，整个画布支持缩放、分组、折叠。最聪明的设计细节：运行中的工作流，活跃的连接线会有流动的粒子动效——让用户「看到」数据在 Agent 之间流动。调试模式下，每个节点可以展开查看中间输出。从「写 YAML 配置」到「画工作流程图」，AI Agent 的设计民主化正在发生。",
+      "body_en": "Langflow, Flowise, and Dify May 2026 design iterations: AI Agent workflow editing moves from pure code to visual canvas. Each Agent node is a card with avatar and role description, connection lines annotated with data types and transformation rules. Cleverest detail: during execution, active connection lines show flowing particle effects letting users see data moving between Agents. Debug mode expands each node to show intermediate outputs. Design democratization of AI Agents is happening.",
+      "tags": [
+        "Agent Workflow",
+        "Visual Canvas",
+        "Node Editor",
+        "Democratization"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-workflow-node-editor",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-05-07"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 品牌的「生成式一致性」— 从 Style Guide 到 Style Model",
+      "body": "2026 年 5 月 AI 品牌设计的新范式：品牌视觉系统不再用 PDF 的 Style Guide 定义，而是用一个训练好的 Style Model 定义。设计师的交付物从「色板+字体+间距规范」变成「一个能生成无限符合品牌调性视觉资产的模型」。Midjourney 的 Style Reference、DALL-E 的 Brand API、甚至 Canva 的 Brand Kit AI 都在推这个方向。品牌一致性的保障从「人工审核」变成「模型约束」。设计系统的终极形态可能不是 Figma 文件，而是一个 LoRA 权重。",
+      "body_en": "May 2026 AI brand design paradigm: brand visual systems no longer defined by PDF Style Guides but by trained Style Models. Designer deliverables shift from palette plus type plus spacing specs to a model that generates infinite brand-consistent visual assets. Midjourney Style Reference, DALL-E Brand API, Canva Brand Kit AI all pushing this direction. Brand consistency guaranteed by model constraints not human review. Design systems ultimate form may not be a Figma file but a LoRA weight.",
+      "tags": [
+        "Style Model",
+        "Brand AI",
+        "LoRA",
+        "Generative Consistency"
+      ],
+      "link": "https://www.behance.net/search/projects/AI%20brand%20style%20generative%20consistency",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/46797862/file/still-97001c2f52a5da46dea8ac17bf3afb6e.png",
+      "date": "2026-05-07"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "五月 Visual for AI 的两个发现合在一起，揭示了 AI 产品设计正在经历的一次「抽象层级跃迁」。Agent 工作流画布把 AI 系统的内部协作从代码抽象到了视觉图形——设计师和产品经理终于能「看到」多 Agent 系统在做什么，而不用读代码。Style Model 把品牌系统从静态规范抽象到了生成模型——你不再描述品牌「是什么样子」，而是训练一个理解品牌「应该是什么感觉」的 AI。两者的共同趋势：AI 设计的工作正在从「定义具体规则」变成「训练抽象理解」。这对设计师意味着什么？你的核心技能从「画图」变成「教 AI 什么是好设计」。这是第一代真正的「设计教练」——不教人类学生，教机器学生。而且机器学生一旦学会，就能以人类无法企及的规模和一致性输出。设计师的稀缺价值彻底从「执行」转向「品味」。",
+      "date": "2026-05-07"
     }
   ]
 }
