@@ -7796,6 +7796,166 @@
       "type": "rex-note",
       "body": "五月 Visual for AI 的两个发现合在一起，揭示了 AI 产品设计正在经历的一次「抽象层级跃迁」。Agent 工作流画布把 AI 系统的内部协作从代码抽象到了视觉图形——设计师和产品经理终于能「看到」多 Agent 系统在做什么，而不用读代码。Style Model 把品牌系统从静态规范抽象到了生成模型——你不再描述品牌「是什么样子」，而是训练一个理解品牌「应该是什么感觉」的 AI。两者的共同趋势：AI 设计的工作正在从「定义具体规则」变成「训练抽象理解」。这对设计师意味着什么？你的核心技能从「画图」变成「教 AI 什么是好设计」。这是第一代真正的「设计教练」——不教人类学生，教机器学生。而且机器学生一旦学会，就能以人类无法企及的规模和一致性输出。设计师的稀缺价值彻底从「执行」转向「品味」。",
       "date": "2026-05-07"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 税务助手 — 自然语言报税界面",
+      "body": "2026 年报税季出现的新设计范式：用户不再填表格，而是和 AI 对话完成报税。界面分三栏——左侧是对话流，中间是 AI 实时生成的税表预览，右侧是「节税建议」卡片。最聪明的设计决策：把复杂的税法条款翻译成「你可以省 ¥3,200，因为...」的人话。深色背景 + 绿色进度条暗示「钱在往你这边流」。",
+      "body_en": "New design paradigm from 2026 tax season: users no longer fill forms but complete tax filing through AI conversation. Three-column layout: chat flow left, real-time AI-generated tax form preview center, 'tax saving tips' cards right. Smartest design decision: translating complex tax code into human language like 'you can save ¥3,200 because...' Dark background + green progress bars suggest 'money flowing your way.'",
+      "tags": [
+        "Tax AI",
+        "Conversational Finance",
+        "Form Killer",
+        "Dark UI"
+      ],
+      "link": "https://dribbble.com/search/ai-tax-assistant-fintech",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17070953/file/original-44c1a00b9ee9e8447c7bf6b2d1bf5670.png?resize=1600x1200",
+      "date": "2026-05-08"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Fintech 设计的「情感账本」— 从数字到叙事",
+      "body": "2026 Q2 最有意思的 Fintech 设计趋势：用叙事替代数字。Cleo、Copilot Money 和一批新产品开始把月度账单变成「你的钱去哪了」的可视化故事——不是冰冷的饼图，而是时间轴上的消费场景重建。外卖多了就出现外卖骑手的小插画，健身房消费稳定就出现「坚持打卡」的正反馈。把会计变成日记，把焦虑变成洞察。",
+      "body_en": "Most interesting Q2 2026 fintech design trend: narrative replacing numbers. Cleo, Copilot Money and new products turn monthly statements into visual 'where did your money go' stories — not cold pie charts but timeline-based spending scene reconstruction. Too much delivery? A delivery rider illustration appears. Consistent gym spending? A 'keeping it up' positive reinforcement. Turning accounting into journaling, anxiety into insight.",
+      "tags": [
+        "Narrative Finance",
+        "Emotional Design",
+        "Spending Story",
+        "Behavioral"
+      ],
+      "link": "https://www.behance.net/search/projects/fintech%20spending%20narrative%20AI",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+      "date": "2026-05-08"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "五月第二周 Fintech 设计的两个发现指向同一个方向：金融产品正在从「信息呈现」进化到「情感设计」。AI 税务助手把最让人头疼的报税变成了对话（关键不是技术，是语气设计——AI 说'你可以省 3200 块'比说'适用第 38 条减免'有效 10 倍）。消费叙事把最让人焦虑的账单变成了故事（关键不是数据可视化，是情绪管理——让用户觉得'我在理解自己的生活'而非'我在被审判'）。这两个案例的共同底层逻辑：金融设计的核心从来不是展示数据，而是管理情绪。恐惧、焦虑、内疚、满足——这些才是用户打开金融 App 时真正在经历的。2026 年最好的 Fintech 设计师不是 UI 设计师，是情绪设计师。",
+      "date": "2026-05-08"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 跑步社群 — 赛事级别的业余跑者体验",
+      "body": "一款面向业余跑者的 AI 社交产品设计，亮点不在个人训练而在「赛事化日常」——AI 根据你和朋友的跑步数据，自动生成虚拟对抗赛事。界面借鉴了 F1 转播的实时排名设计：你的位置在地图上实时移动，旁边是好友的虚拟投影。完赛后自动生成赛事海报——包含路线图、分段配速、天气条件。把每次跑步变成一个值得分享的故事。",
+      "body_en": "AI social running product for amateur runners — not about personal training but 'gamifying daily runs.' AI auto-generates virtual races from friends' running data. Interface borrows F1 broadcast real-time ranking: your position moves on map with friends' virtual projections alongside. Post-run auto-generates race posters with route maps, split paces, weather conditions. Turning every run into a shareable story.",
+      "tags": [
+        "Social Running",
+        "Gamification",
+        "Virtual Race",
+        "Auto-Poster"
+      ],
+      "link": "https://dribbble.com/search/ai-running-social-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-05-08"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "运动 AI 的「数字孪生」— 你的虚拟身体模型",
+      "body": "2026 Q2 运动科技的前沿方向：基于持续采集的运动数据，AI 构建用户的「数字孪生」身体模型。不只是心率和步数的简单记录，而是关节活动度、肌肉疲劳度、伤病风险的三维可视化。界面上你能看到一个你自己的 3D 身体模型，受伤风险高的部位会变红。Whoop、OURA 和 Apple Health 都在往这个方向探索。设计挑战：如何让这个模型「有帮助」而非「吓人」？",
+      "body_en": "Cutting-edge Q2 2026 sports tech: AI builds users' 'digital twin' body models from continuous exercise data. Not just heart rate and steps but 3D visualization of joint mobility, muscle fatigue, injury risk. On screen: your own 3D body model with high-risk areas turning red. Whoop, OURA, Apple Health all exploring this. Design challenge: making the model 'helpful' not 'scary.'",
+      "tags": [
+        "Digital Twin",
+        "3D Body Model",
+        "Injury Prevention",
+        "Wearable AI"
+      ],
+      "link": "https://www.behance.net/search/projects/digital%20twin%20fitness%20AI%20body",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=80",
+      "date": "2026-05-08"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 本周两个发现之间有一条隐藏的线索：运动产品的竞争正在从「记录过去」转向「预测未来」。虚拟对抗赛事是把过去的跑步数据变成未来的社交激励（'你明天能赢 Tom 吗？'）；数字孪生是把过去的身体数据变成未来的风险预测（'你的右膝本周需要休息'）。两者都在做同一件事：让历史数据产生前瞻性价值。这对设计的影响是什么？运动 App 的主界面会从「回顾仪表盘」变成「预测性首页」——打开 App 看到的不是'你昨天跑了 5km'，而是'你今天适合做什么'。这是运动 AI 设计从工具到教练的最后一步：真正的教练不问你做了什么，而是告诉你下一步该做什么。",
+      "date": "2026-05-08"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 播客笔记 — 音频内容的视觉化设计",
+      "body": "把播客内容转化为可浏览的视觉笔记的产品设计。AI 自动识别播客的结构——开场、核心论点、嘉宾引述、总结——然后生成一个带时间戳的视觉摘要页。关键引述用大字号衬线体展示，论点关系用极简连线图表达，整体排版像一份精编的杂志手记。最巧妙的设计：点击任何一段摘要，直接跳转到播客对应时间点。内容设计从「给阅读服务」扩展到「给听觉服务」。",
+      "body_en": "Product design transforming podcast content into browsable visual notes. AI recognizes podcast structure — intro, core arguments, guest quotes, summary — then generates timestamped visual summary pages. Key quotes displayed in large serif type, argument relationships in minimal connection diagrams. Overall layout resembles curated magazine notes. Cleverest design: clicking any summary segment jumps to the corresponding podcast timestamp. Content design expanding from 'serving reading' to 'serving listening.'",
+      "tags": [
+        "Podcast Notes",
+        "Audio-to-Visual",
+        "AI Summary",
+        "Editorial"
+      ],
+      "link": "https://dribbble.com/search/podcast-notes-ai-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-05-08"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「上下文菜单」复兴 — 右键菜单的设计文艺复兴",
+      "body": "2026 年一个出人意料的内容设计趋势：右键上下文菜单的重新设计。Notion、Linear、Arc Browser 带头，越来越多产品把右键菜单从简陋的系统默认列表升级为品牌化的交互组件——支持搜索、分组、快捷键提示、甚至 AI 建议。上下文菜单成了产品设计水平的新试金石：一个右键菜单的信息架构质量，往往能反映整个产品的设计思维深度。",
+      "body_en": "Unexpected 2026 content design trend: the redesign of right-click context menus. Led by Notion, Linear, Arc Browser — more products upgrading context menus from crude system-default lists to branded interactive components with search, grouping, shortcut hints, even AI suggestions. Context menus become the new litmus test for design quality: a right-click menu's information architecture often reflects the entire product's design thinking depth.",
+      "tags": [
+        "Context Menu",
+        "Interaction Design",
+        "IA",
+        "Detail Design"
+      ],
+      "link": "https://www.behance.net/search/projects/context%20menu%20design%20system",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&q=80",
+      "date": "2026-05-08"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "本周 Content Design 的两个发现揭示了一个正在发生的边界扩张：内容设计不再只是「文字+图片的排列」，它正在吞噬一切信息形态。播客笔记设计证明音频内容也需要视觉化的信息架构——这不是把文字转录出来就完了，而是要理解音频独有的信息结构（对话的节奏、语气的转折、沉默的含义）然后翻译成视觉语言。上下文菜单的复兴则证明最微小的交互界面也值得 Content Design 思维——一个右键菜单的措辞、分组、优先级排序，本质上就是一个微型的内容架构项目。2026 年 Content Design 的野心很大：从页面到音频到交互细节，一切「用户需要理解的东西」都是它的领地。这不是职能膨胀，是学科进化。",
+      "date": "2026-05-08"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 代码编辑器的视觉设计语言 — 超越黑底绿字",
+      "body": "Cursor、Windsurf 和 Zed 在 2026 年 Q2 的视觉设计迭代值得记录。AI 辅助编码不再是黑底绿字的终端美学，而是发展出了自己的视觉语言：AI 生成的代码用半透明底色区分（'这段是 AI 写的'）、inline diff 用渐变色带而非传统红绿对比、AI 建议的置信度用边框粗细表达。最精妙的是 Cursor 的 Tab 补全动效——代码像水一样从光标位置流出，暗示 AI 的「流动思维」。开发工具的视觉设计终于开始被认真对待了。",
+      "body_en": "Cursor, Windsurf, and Zed Q2 2026 visual design iterations worth documenting. AI-assisted coding moves beyond black-terminal aesthetics to develop its own visual language: AI-generated code distinguished by translucent backgrounds ('this part is AI-written'), inline diffs using gradient bands instead of traditional red-green, AI suggestion confidence expressed through border weight. Most elegant: Cursor's Tab completion animation — code flows like water from the cursor, suggesting AI's 'fluid thinking.' Developer tool visual design is finally being taken seriously.",
+      "tags": [
+        "Code Editor",
+        "Developer Tools",
+        "AI Diff",
+        "Cursor"
+      ],
+      "link": "https://dribbble.com/search/ai-code-editor-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-05-08"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「双人格」设计 — 专业模式 vs 对话模式",
+      "body": "2026 年 5 月 AI 产品设计的新趋势：同一个产品维护两套视觉人格。ChatGPT、Claude、Gemini 都在做类似的事——「对话模式」是温暖的、圆润的、低信息密度的界面；「专业模式」是克制的、方正的、高信息密度的界面。用户可以一键切换，或让 AI 根据任务类型自动切换。这不只是主题切换，而是两套完整的视觉系统——字体、间距、色温、动效节奏全部不同。设计系统的复杂度翻倍了，但用户体验的适配度也翻倍了。",
+      "body_en": "May 2026 AI product design trend: same product maintaining two visual personalities. ChatGPT, Claude, Gemini all doing similar — 'conversation mode' is warm, rounded, low-density interface; 'professional mode' is restrained, angular, high-density interface. Users toggle or AI auto-switches by task type. Not just theme switching but two complete visual systems — type, spacing, color temperature, motion rhythm all different. Design system complexity doubles, but user experience adaptation doubles too.",
+      "tags": [
+        "Dual Personality",
+        "Mode Switching",
+        "Adaptive UI",
+        "Design System"
+      ],
+      "link": "https://www.behance.net/search/projects/AI%20chat%20professional%20mode%20design%20system",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+      "date": "2026-05-08"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "本周 Visual for AI 的两个观察合在一起看，揭示了一个有趣的设计辩题：AI 产品到底应该有几张「脸」？代码编辑器的案例说明，当 AI 嵌入专业工具时，视觉设计必须服务于「区分人与机器的输出」——你需要一眼看出哪行代码是你写的、哪行是 AI 建议的。双人格设计则说明，AI 通用产品正在走向「场景化人格切换」——聊天时要温暖，写代码时要冷静。这两个趋势的交汇点是什么？我认为是「AI 透明度的视觉化」。2026 年下半年的 AI 设计会越来越强调一件事：让用户在视觉层面就能感知「AI 在做什么」和「AI 有多确定」。这不是技术问题，是信任问题。而信任问题，本质上就是设计问题。Cursor 用半透明底色区分 AI 代码、用边框粗细表达置信度——这些微小的视觉决策，就是 2026 年最有价值的设计创新。不是新的配色方案，不是新的布局系统，而是「如何让 AI 的思维过程可见」。",
+      "date": "2026-05-08"
     }
   ]
 }
