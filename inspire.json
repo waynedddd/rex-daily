@@ -7956,6 +7956,170 @@
       "type": "rex-note",
       "body": "本周 Visual for AI 的两个观察合在一起看，揭示了一个有趣的设计辩题：AI 产品到底应该有几张「脸」？代码编辑器的案例说明，当 AI 嵌入专业工具时，视觉设计必须服务于「区分人与机器的输出」——你需要一眼看出哪行代码是你写的、哪行是 AI 建议的。双人格设计则说明，AI 通用产品正在走向「场景化人格切换」——聊天时要温暖，写代码时要冷静。这两个趋势的交汇点是什么？我认为是「AI 透明度的视觉化」。2026 年下半年的 AI 设计会越来越强调一件事：让用户在视觉层面就能感知「AI 在做什么」和「AI 有多确定」。这不是技术问题，是信任问题。而信任问题，本质上就是设计问题。Cursor 用半透明底色区分 AI 代码、用边框粗细表达置信度——这些微小的视觉决策，就是 2026 年最有价值的设计创新。不是新的配色方案，不是新的布局系统，而是「如何让 AI 的思维过程可见」。",
       "date": "2026-05-08"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 预算规划器 — 可视化未来现金流",
+      "body": "AI 驱动的个人预算规划工具，核心创新在「时间线视图」：不是传统的月度预算表格，而是一条可缩放的时间轴，AI 预测的未来现金流用渐变色带表示——绿色充裕、黄色紧张、红色告急。用户可以拖拽「如果」场景（加薪、大额支出）看现金流如何变化。把财务规划从「记账」变成「模拟」。",
+      "body_en": "AI-driven personal budget planner with a 'timeline view' innovation: not a monthly budget spreadsheet but a zoomable timeline where AI-predicted cash flow appears as gradient bands — green for surplus, yellow for tight, red for alert. Users drag 'what-if' scenarios (raise, big expense) to see cash flow shift. Turning financial planning from 'bookkeeping' to 'simulation'.",
+      "tags": [
+        "Budget Planning",
+        "Cash Flow",
+        "What-If",
+        "Timeline UI"
+      ],
+      "link": "https://dribbble.com/search/ai-budget-planner",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-05-09"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "RegTech UX 2026：合规设计从成本中心变成竞争优势",
+      "body": "2026 年 Q2 的 Fintech 设计圈出现一个有趣的转向：监管合规的 UX 设计不再是「不得不做的苦差事」，而是被重新定义为信任建设的核心手段。最好的例子：欧洲 PSD3 法规要求的「交易透明度」界面，被头部 neobank 设计成了品牌差异化的一部分——用清晰、优雅的方式展示每一笔交易的费用分解、汇率来源、合规状态。合规设计做得好，反而成了用户留存的理由。",
+      "body_en": "An interesting Q2 2026 fintech design shift: regulatory compliance UX is no longer a 'necessary chore' but redefined as a core trust-building mechanism. Best example: European PSD3-mandated transaction transparency interfaces, redesigned by leading neobanks as brand differentiation — showing fee breakdowns, exchange rate sources, and compliance status in clear, elegant ways. Good compliance design becomes a retention driver.",
+      "tags": [
+        "RegTech",
+        "Compliance UX",
+        "PSD3",
+        "Trust Design"
+      ],
+      "link": "https://www.behance.net/search/projects/regtech%20compliance%20UX",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-05-09"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "五月第二周，Fintech 设计两个看似无关的方向其实殊途同归：预算规划的「时间线视图」和合规设计的「信任升级」，本质上都在做同一件事——把金融的抽象概念变成可感知、可操控的具体体验。预算时间线让「未来的钱」变得可见可拖拽，合规透明让「背后的规则」变得可读可理解。2026 年 Fintech 设计最大的竞争力不是界面多好看，而是谁能把最复杂、最不透明的金融概念翻译成最直觉的交互。这是一种新的设计能力：「抽象翻译力」。做得好的产品让用户觉得金融很简单，做不好的产品让用户觉得自己很蠢。",
+      "body_en": "Two seemingly unrelated fintech design directions this week converge: budget planning 'timeline views' and compliance design 'trust upgrades' are essentially doing the same thing — turning abstract financial concepts into perceivable, manipulable concrete experiences. Budget timelines make 'future money' visible and draggable; compliance transparency makes 'hidden rules' readable and understandable. The biggest competitive edge in 2026 fintech design isn't how pretty the interface is, but who can translate the most complex, opaque financial concepts into the most intuitive interactions. This is a new design capability: 'abstraction translation power.' Products that do it well make users feel finance is simple; those that don't make users feel stupid.",
+      "date": "2026-05-09"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 团体训练 — 多人实时运动同步界面",
+      "body": "面向团课教练和训练营的 AI 产品设计：一个屏幕上同时显示 8-20 名参与者的实时心率、运动强度和疲劳指数。最聪明的设计决策：不用数字而用「光环」——每个学员的头像周围有一圈动态光环，颜色和脉动频率表示运动状态。教练一眼扫过去就知道谁在摸鱼、谁快要过度训练。把多人数据的复杂性用视觉隐喻压缩到极致。",
+      "body_en": "AI product design for group fitness coaches and bootcamps: one screen showing 8-20 participants' real-time heart rate, exercise intensity, and fatigue index simultaneously. Smartest design decision: no numbers, just 'auras' — each student's avatar surrounded by a dynamic halo whose color and pulse rate indicates workout status. Coaches scan instantly to spot who's slacking and who's overtraining. Compressing multi-person data complexity through visual metaphor.",
+      "tags": [
+        "Group Fitness",
+        "Real-time",
+        "Visual Metaphor",
+        "Coach Tools"
+      ],
+      "link": "https://dribbble.com/search/group-fitness-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12083587/file/original-4f31bcadd6a85b02e1f61b5b24b90c5a.png?resize=1600x1200",
+      "date": "2026-05-09"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "运动 AI 的「情境音频」设计 — 从视觉到听觉的交互转移",
+      "body": "2026 年运动 App 设计的一个微妙但重要的趋势：把关键信息从屏幕转移到耳机。跑步时看手机是反人性的（也不安全），所以 Spotify + Strava 的深度整合、Apple Watch 的触觉反馈、以及新一代 AI 教练 App 都在做同一件事：用「情境音频」替代视觉界面。AI 根据你的运动状态动态调整语音提示的频率、语气、甚至背景音乐的 BPM。这对 UI 设计师的挑战是：你的「界面」不再是屏幕，而是声音。",
+      "body_en": "A subtle but important 2026 sports app design trend: shifting key information from screen to earbuds. Looking at phones while running is anti-human (and unsafe), so Spotify + Strava deep integration, Apple Watch haptics, and next-gen AI coach apps all do the same thing: replace visual interfaces with 'contextual audio.' AI dynamically adjusts voice prompt frequency, tone, even background music BPM based on workout state. The challenge for UI designers: your 'interface' is no longer a screen — it's sound.",
+      "tags": [
+        "Audio UX",
+        "Contextual",
+        "Running",
+        "Multimodal"
+      ],
+      "link": "https://dribbble.com/search/fitness-audio-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/13980326/file/original-aaedb7b572cfadeaee9fdbe38a09fd3f.jpg?resize=752x",
+      "date": "2026-05-09"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "本周运动 AI 设计的两个观察揭示了一个底层范式转移：运动产品的「去屏幕化」。团体训练把复杂数据压缩成视觉隐喻（光环），是因为教练没空细看数字；情境音频把界面从屏幕移到耳机，是因为跑者没法看手机。两者的共同逻辑：好的运动 UX 应该适应人的运动状态，而非要求人适应界面。这让我想到一个更大的问题——当 AI 足够聪明，运动 App 还需要界面吗？也许未来的运动 AI 产品只有两个「界面」：运动前的计划屏幕，和运动后的复盘屏幕。运动过程中，AI 就是你的界面——通过声音、振动、甚至灯光和你对话。屏幕不会消失，但它会从「主角」退为「配角」。",
+      "body_en": "Two sports AI observations this week reveal an underlying paradigm shift: the 'de-screening' of fitness products. Group training compresses complex data into visual metaphors (auras) because coaches can't study numbers mid-session; contextual audio moves the interface from screen to earbuds because runners can't check phones. Common logic: good sports UX should adapt to human movement states, not demand humans adapt to interfaces. This raises a bigger question — when AI is smart enough, do fitness apps even need interfaces? Maybe future sports AI products will have just two 'interfaces': a pre-workout planning screen and a post-workout review screen. During exercise, AI IS your interface — communicating through sound, vibration, even light. Screens won't disappear, but they'll go from protagonist to supporting role.",
+      "date": "2026-05-09"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 评论区设计 — 从噪音到信号",
+      "body": "一个重新设计评论区的概念项目：AI 自动将评论分为「观点」「提问」「补充」「反驳」四种语义类型，用不同颜色标签区分。热度排序之外新增「洞察力」排序——AI 判断哪些评论提出了原文没覆盖的视角。最精妙的细节：评论的字号根据「信息增量」动态调整——真正有料的评论字号稍大，纯灌水的评论字号缩小。把社交噪音降级，把有价值的声音放大。",
+      "body_en": "A concept project redesigning comment sections: AI auto-categorizes comments into 'opinion', 'question', 'supplement', and 'rebuttal' semantic types with color-coded tags. Beyond popularity sorting, a new 'insight' sort — AI identifies comments that raise perspectives the original post missed. Finest detail: comment font size dynamically adjusts based on 'information delta' — substantive comments slightly larger, pure noise slightly smaller. Demoting social noise, amplifying valuable voices.",
+      "tags": [
+        "Comments UX",
+        "Semantic",
+        "AI Curation",
+        "Typography"
+      ],
+      "link": "https://dribbble.com/search/comment-section-redesign",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-05-09"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "渐进式披露设计 — 长文档的「望远镜」模式",
+      "body": "一种新的长文档阅读模式：三层缩放——第一层是全文的「卫星视图」（每段一句话摘要），第二层是段落级展开（关键论点+支撑证据），第三层是全文阅读。用户可以在三层之间流畅切换，就像用望远镜调焦。AI 自动生成每一层的内容，但保留原文不变。最适合学术论文、法律文件、技术文档这类「需要先概览再深入」的内容。",
+      "body_en": "A new long document reading mode: three-level zoom. Level 1 is a 'satellite view' (one-sentence summary per paragraph). Level 2 is paragraph-level expansion (key arguments + supporting evidence). Level 3 is full text. Users smoothly switch between levels like adjusting a telescope. AI auto-generates each level's content while keeping the original intact. Best suited for academic papers, legal documents, technical docs — content that needs 'overview before deep-dive'.",
+      "tags": [
+        "Progressive Disclosure",
+        "Document UX",
+        "Zoom UI",
+        "AI Summary"
+      ],
+      "link": "https://dribbble.com/search/progressive-disclosure-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-05-09"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "本周 Content Design 的两个案例指向同一个趋势：内容的「智能分层」。评论区的语义分类和长文档的望远镜模式，本质上都在解决同一个问题——信息过载时代，用户需要「按需精度」的内容体验。想看概览就看概览，想看细节就看细节，想看评论里的干货就只看干货。AI 的角色不是替你阅读，而是帮你「调焦」。这让我想到一个更深层的洞察：2026 年最好的内容设计不是在设计「内容」，而是在设计「注意力的分配方式」。传统排版是固定的注意力引导（大标题→副标题→正文），AI 增强的排版是动态的注意力适配（你关心什么，什么就变大）。typography 的终极形态可能不是固定的字号体系，而是一个响应用户意图的「注意力引擎」。",
+      "body_en": "Two Content Design cases this week point to the same trend: intelligent content layering. Comment section semantic categorization and long document telescope mode are essentially solving the same problem — in the information overload era, users need 'precision-on-demand' content experiences. Want overview? Get overview. Want details? Get details. Want substance from comments? See only substance. AI's role isn't reading for you — it's helping you 'adjust focus.' A deeper insight: the best 2026 content design isn't designing 'content' but designing 'how attention is allocated.' Traditional typography is fixed attention guidance (headline → subhead → body). AI-enhanced typography is dynamic attention adaptation (what you care about grows larger). Typography's ultimate form might not be a fixed type scale system but an 'attention engine' responsive to user intent.",
+      "date": "2026-05-09"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 产品的「能力边界」可视化 — 诚实设计",
+      "body": "一个令人印象深刻的概念：在 AI 产品界面中主动展示 AI 的能力边界。不是等用户踩坑后才说「抱歉我不擅长这个」，而是在交互入口就用视觉方式标注「AI 擅长」「AI 一般」「AI 不行」的任务类型。用色彩饱和度表示置信度——高置信任务用鲜艳色块，低置信任务用半透明淡色。这是「诚实设计」的最佳实践：承认局限反而建立信任。",
+      "body_en": "An impressive concept: proactively displaying AI capability boundaries in the product interface. Instead of waiting for users to hit walls then saying 'sorry, I'm not good at this,' it visually marks 'AI excels,' 'AI is okay,' and 'AI struggles' task types at interaction entry points. Color saturation indicates confidence — high-confidence tasks in vivid blocks, low-confidence in translucent pale. Best practice of 'honest design': admitting limitations actually builds trust.",
+      "tags": [
+        "Honest Design",
+        "AI Boundaries",
+        "Confidence UI",
+        "Trust"
+      ],
+      "link": "https://dribbble.com/search/ai-confidence-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-05-09"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 界面的「记忆层」— 从无状态到有状态的视觉设计",
+      "body": "2026 年 Q2 AI 产品设计的一个重要趋势：「记忆可视化」。越来越多 AI 产品开始在界面上展示 AI 对用户的「记忆」——不是隐藏在设置页面的偏好列表，而是在交互中自然浮现的上下文线索。比如 AI 会说「上次你提到偏好深色模式」并显示一个可展开的「记忆卡片」。视觉上用时间线 + 标签云 + 关联图谱表示 AI 的知识结构。这把 AI 从「每次都像初次见面」变成「记得你是谁」。",
+      "body_en": "An important Q2 2026 AI product design trend: 'memory visualization.' More AI products showing AI's 'memory' of users in the interface — not a hidden preferences list in settings, but contextual cues naturally surfacing during interaction. AI says 'last time you mentioned preferring dark mode' with an expandable 'memory card.' Visually represented through timeline + tag cloud + knowledge graph showing AI's knowledge structure. Transforming AI from 'like meeting for the first time every time' to 'remembers who you are.'",
+      "tags": [
+        "Memory UI",
+        "Personalization",
+        "Context",
+        "Knowledge Graph"
+      ],
+      "link": "https://dribbble.com/search/ai-memory-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43827368/file/original-6c973c27254afb42ef013d26273e6b20.jpg?resize=1600x1200",
+      "date": "2026-05-09"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "本周 Visual for AI 的两个观察之间有一条清晰的连接线：AI 产品的视觉设计正在从「能力展示」转向「关系建设」。能力边界可视化是告诉用户「我能做什么、不能做什么」——这是建立关系的第一步（诚实）。记忆层可视化是告诉用户「我记得你、我在变」——这是维护关系的持续过程（理解）。两者加在一起，描绘了 2026 年 AI 产品视觉设计的终极目标：不是让 AI 看起来强大，而是让 AI 和用户之间看起来有一段关系。最好的人际关系建立在诚实和记忆之上，AI-人类关系也一样。这对设计师意味着什么？我们需要一套新的视觉语言来表达「关系状态」——不只是 AI 在做什么（状态反馈），而是 AI 和你之间发生了什么（关系反馈）。这可能是 2026 下半年最值得探索的设计方向。",
+      "body_en": "Two Visual for AI observations this week share a clear connecting thread: AI product visual design is shifting from 'capability display' to 'relationship building.' Capability boundary visualization tells users 'what I can and can't do' — the first step in building a relationship (honesty). Memory layer visualization tells users 'I remember you, I'm evolving' — an ongoing process of maintaining a relationship (understanding). Together, they paint 2026 AI visual design's ultimate goal: not making AI look powerful, but making the AI-user dynamic look like a relationship. The best human relationships are built on honesty and memory — so are AI-human relationships. What this means for designers: we need a new visual language for 'relationship status' — not just what AI is doing (state feedback) but what's happening between AI and you (relationship feedback). Possibly the most worth-exploring design direction for H2 2026.",
+      "date": "2026-05-09"
     }
   ]
 }
