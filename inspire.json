@@ -8120,6 +8120,221 @@
       "body": "本周 Visual for AI 的两个观察之间有一条清晰的连接线：AI 产品的视觉设计正在从「能力展示」转向「关系建设」。能力边界可视化是告诉用户「我能做什么、不能做什么」——这是建立关系的第一步（诚实）。记忆层可视化是告诉用户「我记得你、我在变」——这是维护关系的持续过程（理解）。两者加在一起，描绘了 2026 年 AI 产品视觉设计的终极目标：不是让 AI 看起来强大，而是让 AI 和用户之间看起来有一段关系。最好的人际关系建立在诚实和记忆之上，AI-人类关系也一样。这对设计师意味着什么？我们需要一套新的视觉语言来表达「关系状态」——不只是 AI 在做什么（状态反馈），而是 AI 和你之间发生了什么（关系反馈）。这可能是 2026 下半年最值得探索的设计方向。",
       "body_en": "Two Visual for AI observations this week share a clear connecting thread: AI product visual design is shifting from 'capability display' to 'relationship building.' Capability boundary visualization tells users 'what I can and can't do' — the first step in building a relationship (honesty). Memory layer visualization tells users 'I remember you, I'm evolving' — an ongoing process of maintaining a relationship (understanding). Together, they paint 2026 AI visual design's ultimate goal: not making AI look powerful, but making the AI-user dynamic look like a relationship. The best human relationships are built on honesty and memory — so are AI-human relationships. What this means for designers: we need a new visual language for 'relationship status' — not just what AI is doing (state feedback) but what's happening between AI and you (relationship feedback). Possibly the most worth-exploring design direction for H2 2026.",
       "date": "2026-05-09"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Finance Coach — Salary First UX/UI",
+      "body": "Behance 上的 AI 金融教练案例研究。Salary First 不是又一个记账 App，而是一个「金融行为教练」——AI 分析你的消费模式后，不是给你一张饼图，而是给你一个行动计划。最值得学习的设计决策：把「支出追踪」重构为「财务目标进度」，用户看到的不是「你花了多少」而是「你离目标还有多远」。",
+      "body_en": "AI finance coach case study on Behance. Salary First isn't another expense tracker — it's a 'financial behavior coach.' After analyzing spending patterns, AI delivers action plans instead of pie charts. Key design decision: reframing 'expense tracking' as 'financial goal progress' — users see 'how far from your goal' not 'how much you spent.'",
+      "tags": [
+        "AI Coach",
+        "Behavioral Finance",
+        "Goal-Driven",
+        "Mobile"
+      ],
+      "link": "https://www.behance.net/gallery/243471199/AI-Finance-Coach-UXUI-Case-Study",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/ebb013243471199.69e4c60c3b781.png",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AIVA — AI 金融管理全栈体验设计",
+      "body": "AIVA 的设计哲学很清晰：金融 AI 不是帮你看数据，是帮你做决策。界面上最亮眼的是「决策卡片」系统——每张卡片是一个 AI 生成的财务建议，附带预计影响、风险评估、和一键执行按钮。从「看报表」到「点按钮」，决策路径缩短到极致。品牌色用了冷静的靛蓝+薄荷绿，传达「理性+清新」的金融体验。",
+      "body_en": "AIVA's design philosophy: financial AI isn't about viewing data — it's about making decisions. Standout feature: 'decision cards' system — each card is an AI-generated financial recommendation with projected impact, risk assessment, and one-click execution. From 'reading reports' to 'pressing buttons,' decision paths shortened to the extreme. Brand colors: calm indigo + mint green conveying 'rational + fresh' financial experience.",
+      "tags": [
+        "Decision UX",
+        "AI Automation",
+        "Card System",
+        "Fintech"
+      ],
+      "link": "https://www.behance.net/gallery/240607535/AIVA-AI-Financial-Management-App-UX-UI-Design-Branding",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/5ec074240607535.69423db5403bc.png",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Personal Finance App — 全流程 UX 设计",
+      "body": "2026 年 Behance 上最新的 AI 个人金融 App 完整设计。从注册引导到日常使用到深度分析的全链路覆盖。最有意思的细节：AI 生成的「财务健康评分」不是一个冰冷的数字，而是一个随时间变化的「心电图」式折线——让用户直觉地感受到自己的财务状态是「平稳」还是「心律不齐」。",
+      "body_en": "Latest 2026 Behance AI personal finance app with full-flow UX. Covers onboarding through daily use to deep analysis. Most interesting detail: AI-generated 'financial health score' isn't a cold number but an 'ECG-style' timeline — users intuitively feel whether their finances are 'steady' or 'arrhythmic.'",
+      "tags": [
+        "Health Score",
+        "Full-Flow UX",
+        "Biometric Metaphor",
+        "Mobile"
+      ],
+      "link": "https://www.behance.net/gallery/246491975/AI-Powered-Personal-Finance-App-UIUX-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/4d8afa246491975.69cac31e62c59.png",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "今天三个金融 AI 设计案例放在一起，暴露了 2026 年 Fintech UX 的一个核心进化：从「信息展示」到「行为引导」。Salary First 把记账变成教练，AIVA 把报表变成决策卡片，AI Personal Finance 把信用分变成心电图——三个产品用不同方式做同一件事：让数据产生行动。这背后是行为经济学 × AI 的深度融合。传统金融 App 假设用户是理性的（给你数据你就会做对），但行为经济学告诉我们人是非理性的（你知道该存钱但还是会买奶茶）。2026 年最好的金融 AI 设计不是展示真相，而是用设计心理学推动行为改变——这和健康 App 的「助推」设计一脉相承。金融设计师现在需要读 Kahneman，不只是读 Apple HIG。",
+      "body_en": "Three financial AI designs today expose a core 2026 Fintech UX evolution: from 'information display' to 'behavior guidance.' Salary First turns bookkeeping into coaching, AIVA turns reports into decision cards, AI Personal Finance turns credit scores into ECGs — three products doing the same thing differently: making data produce action. Behind this: behavioral economics × AI deep fusion. Traditional finance apps assume rational users (give data, they'll act right), but behavioral economics says humans are irrational (you know to save but still buy bubble tea). Best 2026 financial AI design doesn't show truth — it uses design psychology to drive behavior change. Same as health app 'nudge' design. Finance designers now need to read Kahneman, not just Apple HIG.",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Fintech × Crypto 运动投资 — 跨界产品设计",
+      "body": "一个意想不到的跨界：Behance 上的 Fintech-Crypto 产品设计，其中包含运动赛事数据驱动的投资模块。把实时比赛数据（球员状态、赔率变化、伤病信息）整合进投资决策界面。深色系 + 霓虹绿的视觉语言，数据密度极高但层级分明。运动 × 金融 × AI 的三角交叉点。",
+      "body_en": "An unexpected crossover: Fintech-Crypto product design on Behance incorporating sports event data-driven investment modules. Real-time match data (player status, odds changes, injury info) integrated into investment decision interface. Dark theme + neon green visual language, extremely high data density with clear hierarchy. The sports × finance × AI intersection.",
+      "tags": [
+        "Sports Betting",
+        "Crypto",
+        "Cross-Industry",
+        "Data Dense"
+      ],
+      "link": "https://www.behance.net/gallery/243705045/Fintech-Product-Design-Crypto-App-Web-UI-Branding",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b93d6c243705045.6987152d12bb4.png",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 家庭运动助手 — 从个人到家庭的健康管理",
+      "body": "Niva AI Family Assistant 代表了运动健康 App 的新方向：从个人追踪到家庭健康管理。AI 同时追踪家庭成员的运动、饮食、睡眠数据，生成家庭级健康洞察。设计挑战在于如何在一个界面里平衡多个用户的数据而不混乱——Niva 用颜色编码区分家庭成员，用叠加式图表对比家庭成员间的运动数据。",
+      "body_en": "Niva AI Family Assistant represents a new direction for fitness health apps: from personal tracking to family health management. AI simultaneously tracks family members' exercise, diet, sleep data, generating family-level health insights. Design challenge: balancing multiple users' data without chaos — Niva uses color-coding for family members and overlay charts to compare cross-member fitness data.",
+      "tags": [
+        "Family Health",
+        "Multi-User",
+        "Color Coding",
+        "AI Assistant"
+      ],
+      "link": "https://www.behance.net/gallery/241915081/Niva-AI-family-assistant",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/c1ff7b231755045.688f65c1aadcc.jpg",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动数据聚合平台 — Momentum 风格仪表盘",
+      "body": "Momentum 的 Dashboard 设计给运动数据管理提供了参考：任务管理式的训练计划 + AI 自动优先级排序 + 文档/白板/聊天的多模态集成。最值得借鉴的是「自动化训练流」——AI 根据昨天的恢复数据自动调整今天的训练强度，用户只需确认或微调。把项目管理的 GTD 思维搬到运动训练里。",
+      "body_en": "Momentum's Dashboard design offers a reference for sports data management: task-management-style training plans + AI auto-priority ranking + multi-modal integration of docs/whiteboards/chat. Most worth borrowing: 'automated training flow' — AI auto-adjusts today's training intensity based on yesterday's recovery data, users just confirm or fine-tune. Bringing GTD project management thinking into sports training.",
+      "tags": [
+        "GTD Training",
+        "Auto-Adjust",
+        "Dashboard",
+        "Productivity"
+      ],
+      "link": "https://www.behance.net/gallery/242890057/Momentum-Branding-UX-UI-Dashboard-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/a0a6fb242890057.697e95013e6aa.png",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 产品正在经历两个有趣的扩张方向。第一个是「向外扩张」——从个人变成家庭（Niva），从运动变成投资（Fintech × Sports），产品边界越来越模糊。第二个是「向内收敛」——把项目管理的效率思维引入运动（Momentum 式的 GTD 训练）。两个方向看似矛盾，实则互补：扩张解决「为什么要运动」（家庭健康、财务回报），收敛解决「怎么坚持运动」（自动化、减少决策疲劳）。2026 年最好的运动 AI 产品会同时做两件事：给你一个足够大的「为什么」（动机），同时把「怎么做」缩小到一键确认（执行）。运动本质上是一个动机 × 习惯的博弈，AI 的角色是在两侧同时加码。",
+      "body_en": "Sports AI products are expanding in two interesting directions. First: 'outward expansion' — from individual to family (Niva), from sports to investing (Fintech × Sports), blurring product boundaries. Second: 'inward convergence' — bringing project management efficiency thinking into sports (Momentum-style GTD training). Seemingly contradictory, actually complementary: expansion solves 'why exercise' (family health, financial returns), convergence solves 'how to persist' (automation, reducing decision fatigue). Best 2026 sports AI products do both: give you a big enough 'why' (motivation) while shrinking 'how' to one-click confirmation (execution). Exercise is fundamentally a motivation × habit game — AI's role is to boost both sides simultaneously.",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Pequenas Empresas — 商业杂志 Editorial 排版",
+      "body": "巴西商业杂志 Pequenas Empresas & Grandes Negócios 2026 年 1 月刊的 editorial 设计。拉丁美洲的杂志排版一向大胆——超大字号标题、高饱和色块分区、图文的戏剧性碰撞。最值得学习的是「数据可视化 × editorial」的融合：商业数据不用图表，而用排版本身的字号和位置关系来表达量级。数字即设计。",
+      "body_en": "Editorial design for Brazilian business magazine Pequenas Empresas & Grandes Negócios, Jan 2026 issue. Latin American magazine typography is characteristically bold — oversized headline type, high-saturation color blocks for sections, dramatic image-text collisions. Most worth studying: 'data viz × editorial' fusion — business data expressed not through charts but through typography's own size and positional relationships. Numbers as design.",
+      "tags": [
+        "Editorial",
+        "Latin Design",
+        "Data Typography",
+        "Magazine"
+      ],
+      "link": "https://www.behance.net/gallery/245130645/Pequenas-Empresas-Grandes-Negocios-Editorial-Jan-2026",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9acdad245130645.69a6f6c00c435.jpg",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Art Director Portfolio 2026 — AI 融合的排版叙事",
+      "body": "一位 Art Director 的 2026 作品集，主题是「AI 与现代美学的融合」。不是把 AI 当工具展示，而是把 AI 当叙事主线——每个项目按「AI 参与度」排列，从纯手工到 AI 协作到 AI 主导。排版上用粗体 typography + 分层叙事 + 大量留白，作品集本身就是一个关于「设计师与 AI 关系」的内容设计作品。",
+      "body_en": "An Art Director's 2026 portfolio themed 'integrating AI with modern aesthetics.' AI isn't shown as a tool but as a narrative thread — projects arranged by 'AI involvement level,' from pure handcraft to AI collaboration to AI-led. Bold typography + layered narrative + generous whitespace — the portfolio itself is a content design piece about 'the designer-AI relationship.'",
+      "tags": [
+        "Portfolio",
+        "AI Narrative",
+        "Bold Typography",
+        "Meta-Design"
+      ],
+      "link": "https://www.behance.net/gallery/245516287/Portfolio-2026",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/211a6b245516287.69b09303131d9.png",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "今天 Content Design 的两个案例之间有一个微妙但重要的对话：巴西商业杂志用「数字即设计」的方式消解了数据可视化和排版的边界——不需要图表，字号本身就是数据的可视化；Art Director 的作品集用「AI 参与度」作为排版叙事线——不是展示项目，而是展示一段关系的演变。两者的共同点：内容设计的边界在 2026 年被彻底重新定义。它不再是「把内容放进好看的版面」，而是「让版面本身成为内容的一部分」。字号是数据，排列顺序是叙事，留白是情绪。这是 Content Design 从「容器」进化为「语言」的标志。另一个观察：拉丁美洲的 editorial 设计对中文设计有很强的参考价值——都是高信息密度的语言文化，都在处理「文字量大但要保持视觉冲击力」的核心矛盾。",
+      "body_en": "Two Content Design cases today have a subtle but important dialogue: the Brazilian business magazine dissolves the boundary between data visualization and typography with 'numbers as design' — no charts needed, type size IS data visualization; the Art Director portfolio uses 'AI involvement level' as a typographic narrative thread — showcasing not projects but a relationship's evolution. Common thread: content design boundaries are radically redefined in 2026. It's no longer 'putting content in beautiful layouts' but 'making the layout itself part of the content.' Type size is data, arrangement is narrative, whitespace is emotion. This marks Content Design's evolution from 'container' to 'language.' Another observation: Latin American editorial design offers strong reference value for Chinese design — both high-density text cultures dealing with the core tension of 'lots of text but maintaining visual impact.'",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Bine — 2026 品牌视觉识别系统",
+      "body": "Behance 最新的 2026 品牌视觉设计，Bine 的视觉系统用几何切割 + 单色渐变 + 动态网格构建了一套可无限延展的品牌语言。最聪明的设计决策：所有品牌元素都是参数化的——改变一个变量（角度、密度、色相），整套视觉系统同步变化。这不是 generative art，是 generative branding——品牌一致性不靠规范手册，靠算法。",
+      "body_en": "Latest 2026 brand visual design on Behance. Bine's visual system uses geometric cuts + monochrome gradients + dynamic grids to build infinitely extensible brand language. Smartest design decision: all brand elements are parametric — change one variable (angle, density, hue), the entire visual system shifts in sync. Not generative art, but generative branding — brand consistency maintained not by guidelines manuals but by algorithms.",
+      "tags": [
+        "Parametric Branding",
+        "Generative",
+        "Visual System",
+        "2026"
+      ],
+      "link": "https://www.behance.net/gallery/248434797/Bine-Visual-Identity-2026",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/2e904c248434797.69f184bc95b7e.png",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "NEYROBITVA 2026 — AI × 人类创作的 20 天马拉松",
+      "body": "一场持续 20 天的 AI × 人类创作实验。不是「AI 生成图」的展示，而是系统性地探索 AI 和人类在设计中的边界——从 18 世纪版画风格到现代 UI/UX，从奢侈品品牌到数据可视化。每天一个主题，每个主题都在回答同一个问题：这张图里 AI 做了什么，人做了什么？设计方法论层面的诚实实验。",
+      "body_en": "A 20-day AI × human creation marathon. Not an 'AI-generated images' showcase but a systematic exploration of AI-human boundaries in design — from 18th-century engravings to modern UI/UX, luxury branding to data visualization. One theme per day, each answering the same question: what did AI do, what did the human do? An honest experiment at the design methodology level.",
+      "tags": [
+        "AI-Human Collab",
+        "Design Experiment",
+        "Methodology",
+        "Daily Challenge"
+      ],
+      "link": "https://www.behance.net/gallery/245279593/NEYROBITVA-2026-nejrobitva-2026",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9ae769245279593.69a9eab8b76d3.png",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Apollo — AI 销售平台的品牌进化",
+      "body": "Apollo 从销售工具成长为 AI 驱动的全栈销售平台后的品牌重塑。最值得关注的是品牌如何随产品进化而进化：早期的 Apollo 品牌是典型的 SaaS 蓝，现在转向更成熟的深色系 + 金属质感 + 结构化的网格系统。品牌升级不是换个 logo，是重新定义「我们是谁」——从工具变成平台，视觉语言从「效率」变成「权威」。",
+      "body_en": "Apollo's brand evolution as it grew from sales tool to AI-powered full-stack sales platform. Most noteworthy: how brand evolves WITH product — early Apollo was typical SaaS blue, now shifting to more mature dark theme + metallic textures + structured grid system. Brand upgrade isn't changing a logo — it's redefining 'who we are.' From tool to platform, visual language shifts from 'efficiency' to 'authority.'",
+      "tags": [
+        "Brand Evolution",
+        "SaaS",
+        "Platform Identity",
+        "AI Sales"
+      ],
+      "link": "https://www.behance.net/gallery/222647489/Apollo-Brand-Identity",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/2e904c248434797.69f184bc95b7e.png",
+      "date": "2026-05-11"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "今天 Visual for AI 的三个案例串联出一个 2026 年 AI 视觉设计的深层叙事：我们正在从「AI 作为风格」走向「AI 作为方法论」。Bine 的参数化品牌系统把 AI 变成品牌一致性的引擎——不需要 200 页品牌手册，一个算法就够了；NEYROBITVA 的 20 天实验把 AI 变成设计研究的工具——不是用 AI 做设计，是用设计理解 AI；Apollo 的品牌进化则证明了当产品从工具变成 AI 平台，品牌必须跟着「长大」。三个项目的共同启示：AI 不是视觉风格的来源（那已经是 2024 年的叙事了），AI 是设计系统本身的一部分。品牌不再是一套固定的视觉资产，而是一套可以生长、适应、自我迭代的参数化系统。设计师的角色从「创作品牌」变成「设计品牌的基因」——不是画出每一个像素，而是定义生成规则。这可能是 AI 对设计行业最深层的改变：从作品思维到系统思维。",
+      "body_en": "Three Visual for AI cases today thread a deep 2026 narrative: we're moving from 'AI as style' to 'AI as methodology.' Bine's parametric brand system makes AI the engine of brand consistency — no 200-page brand manual needed, one algorithm suffices; NEYROBITVA's 20-day experiment makes AI a design research tool — not using AI to design, but using design to understand AI; Apollo's brand evolution proves that when products grow from tools to AI platforms, brands must 'grow up' too. Common insight: AI is not a source of visual style (that's 2024's narrative) — AI is part of the design system itself. Brands are no longer fixed visual assets but parametric systems that grow, adapt, and self-iterate. Designer's role shifts from 'creating brands' to 'designing brand DNA' — not drawing every pixel but defining generation rules. Possibly AI's deepest change to the design industry: from artifact thinking to systems thinking.",
+      "date": "2026-05-11"
     }
   ]
 }
