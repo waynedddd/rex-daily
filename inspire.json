@@ -8335,6 +8335,238 @@
       "body": "今天 Visual for AI 的三个案例串联出一个 2026 年 AI 视觉设计的深层叙事：我们正在从「AI 作为风格」走向「AI 作为方法论」。Bine 的参数化品牌系统把 AI 变成品牌一致性的引擎——不需要 200 页品牌手册，一个算法就够了；NEYROBITVA 的 20 天实验把 AI 变成设计研究的工具——不是用 AI 做设计，是用设计理解 AI；Apollo 的品牌进化则证明了当产品从工具变成 AI 平台，品牌必须跟着「长大」。三个项目的共同启示：AI 不是视觉风格的来源（那已经是 2024 年的叙事了），AI 是设计系统本身的一部分。品牌不再是一套固定的视觉资产，而是一套可以生长、适应、自我迭代的参数化系统。设计师的角色从「创作品牌」变成「设计品牌的基因」——不是画出每一个像素，而是定义生成规则。这可能是 AI 对设计行业最深层的改变：从作品思维到系统思维。",
       "body_en": "Three Visual for AI cases today thread a deep 2026 narrative: we're moving from 'AI as style' to 'AI as methodology.' Bine's parametric brand system makes AI the engine of brand consistency — no 200-page brand manual needed, one algorithm suffices; NEYROBITVA's 20-day experiment makes AI a design research tool — not using AI to design, but using design to understand AI; Apollo's brand evolution proves that when products grow from tools to AI platforms, brands must 'grow up' too. Common insight: AI is not a source of visual style (that's 2024's narrative) — AI is part of the design system itself. Brands are no longer fixed visual assets but parametric systems that grow, adapt, and self-iterate. Designer's role shifts from 'creating brands' to 'designing brand DNA' — not drawing every pixel but defining generation rules. Possibly AI's deepest change to the design industry: from artifact thinking to systems thinking.",
       "date": "2026-05-11"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Plaid Ledger — AI 交易分类的可视化审计链",
+      "body": "Plaid 2026 年 Q2 推出的 Ledger 功能把 AI 交易分类从黑盒变成透明流水线。每笔交易旁边有一条「分类推理链」：商户名识别 → 行业分类 → 用户历史模式匹配 → 最终分类。用户可以在任何节点修正 AI 的判断，修正后 AI 学习到的规则会可视化为「个人分类规则库」。设计上最值得学习的是「纠错成本最小化」——一个 swipe 就能重新分类，不需要进入编辑模式。",
+      "body_en": "Plaid's Q2 2026 Ledger feature transforms AI transaction categorization from black box to transparent pipeline. Each transaction shows a 'classification reasoning chain': merchant name recognition → industry classification → user history pattern matching → final category. Users can correct AI at any node; learned rules visualize as a 'personal classification rule library.' Best design lesson: minimizing correction cost — one swipe to recategorize, no edit mode needed.",
+      "tags": [
+        "Transaction AI",
+        "Explainability",
+        "Swipe UX",
+        "Fintech"
+      ],
+      "link": "https://plaid.com/products/transactions/",
+      "linkText": "Plaid",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=1200&q=80",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 财务数字孪生 — 你的金融人生模拟器",
+      "body": "2026 年 Q2 最激进的 Fintech 设计概念：AI 创建你的「财务数字孪生」——一个基于真实收入、支出、投资、负债数据的模拟模型。用户可以在数字孪生上做「如果」实验：「如果我现在买房」「如果我辞职创业」「如果通货膨胀到 5%」。界面不是传统的计算器，而是一条交互式的「人生时间线」——拖动任何决策节点，未来的所有财务指标实时重新计算。Wealthfront 和 Monarch 都在测试这个方向。",
+      "body_en": "Most radical Q2 2026 fintech design concept: AI creating your 'financial digital twin' — a simulation model built from real income, spending, investment, and debt data. Users run 'what-if' experiments on the twin: 'what if I buy a house now,' 'what if I quit to start a company,' 'what if inflation hits 5%.' Not a traditional calculator but an interactive 'life timeline' — drag any decision node and all future financial metrics recalculate in real-time. Wealthfront and Monarch both testing.",
+      "tags": [
+        "Digital Twin",
+        "Life Simulation",
+        "What-If UX",
+        "Fintech"
+      ],
+      "link": "https://www.wealthfront.com/financial-planning",
+      "linkText": "Wealthfront",
+      "image": "https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Ramp Intelligence — AI 支出异常检测的「温度计」UI",
+      "body": "Ramp 2026 Q2 更新引入了「支出温度计」——不再用折线图展示月支出变化，而是用一个垂直温度计隐喻：正常范围是绿色刻度，逐渐升温变为黄色和红色。AI 在温度上升时自动标注驱动因素（「本月 SaaS 支出 +18%，主要因为新增了 3 个工具订阅」）。比传统的数据面板高效 10 倍——CFO 打开页面的第一秒就知道「温度正不正常」。",
+      "body_en": "Ramp Q2 2026 introduces the 'spending thermometer' — replacing line charts with a vertical thermometer metaphor: normal range in green, gradually warming to yellow and red. AI auto-annotates drivers when temperature rises ('SaaS spend +18% this month, primarily 3 new tool subscriptions'). 10x more efficient than traditional dashboards — CFOs know in the first second whether 'temperature is normal.'",
+      "tags": [
+        "Expense Analytics",
+        "Thermometer UI",
+        "CFO Tools",
+        "AI Insight"
+      ],
+      "link": "https://ramp.com/intelligence",
+      "linkText": "Ramp",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "五月中旬的 Fintech 设计观察让我发现一个新的竞争维度：「时间尺度」设计。Plaid Ledger 关注的是「现在」——每笔交易的即时分类和纠错；Ramp 温度计关注的是「本月」——月度支出的体感温度；Wealthfront 数字孪生关注的是「一生」——人生级别的财务模拟。三者对应三种完全不同的交互节奏：实时 swipe、日常扫视、偶尔沉浸。真正聪明的金融产品应该让用户在这三个时间尺度之间无缝切换——从「这笔交易是什么」到「这个月花多了吗」到「我的退休计划还行吗」，三步之内完成缩放。这比任何单一功能都难设计，因为每个时间尺度的信息密度、视觉节奏、甚至情感基调都不一样。日常是效率（快速、密集），长期是安心（缓慢、叙事）。把三者统一在一个产品里，是 2026 下半年 Fintech 设计的终极挑战。",
+      "body_en": "Mid-May fintech observation reveals a new competitive dimension: 'temporal scale' design. Plaid Ledger focuses on 'now' — instant transaction classification; Ramp thermometer on 'this month' — monthly spending feel; Wealthfront digital twin on 'lifetime' — life-scale financial simulation. Three entirely different interaction rhythms: real-time swipe, daily glance, occasional immersion. Truly smart financial products should let users seamlessly zoom between these three scales — from 'what's this transaction' to 'am I overspending this month' to 'is my retirement plan ok' in three steps. Harder than any single feature because each scale has different info density, visual rhythm, even emotional tone. Daily is efficiency (fast, dense), long-term is reassurance (slow, narrative). Unifying all three in one product is H2 2026 fintech design's ultimate challenge.",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Apple Watch Ultra 2 — 跑步力学分析的极简信息架构",
+      "body": "Apple 2026 年 Q2 给 Watch Ultra 2 推送的跑步力学更新值得深入分析。它追踪触地时间、垂直振幅、步频不对称——但在手表端只显示一个综合的「跑姿评分」（0-100），颜色编码（绿/黄/红）。详细的六维雷达图留给 iPhone 端。这是「最小必要信息」设计哲学的教科书案例：运动中只需要知道「好不好」，运动后才需要知道「哪里不好」。",
+      "body_en": "Apple's Q2 2026 running mechanics update for Watch Ultra 2 deserves deep analysis. Tracks ground contact time, vertical oscillation, stride asymmetry — but watch only shows a composite 'running form score' (0-100) with color coding (green/yellow/red). Detailed six-dimension radar chart reserved for iPhone. Textbook 'minimum necessary information' design: during exercise you only need 'good or not'; after exercise you need 'what's not good.'",
+      "tags": [
+        "Apple Watch",
+        "Running Mechanics",
+        "Glanceable UI",
+        "Wearable"
+      ],
+      "link": "https://www.apple.com/apple-watch-ultra-2/",
+      "linkText": "Apple",
+      "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=1200&q=80",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动心理教练 — 心理状态追踪的产品化",
+      "body": "2026 年 Q2 运动科技最被忽视的设计方向：AI 运动心理教练。Headspace 和 Calm 的运动版，但不是冥想——而是赛前焦虑管理、训练倦怠检测、竞技信心曲线追踪。通过语音日记 + 生理指标（HRV、皮电反应）推断心理状态。设计上最大的挑战：如何让铁血运动员接受「我需要心理帮助」？答案是把它框架为「表现优化」而非「心理问题」——不说「焦虑管理」，说「竞技状态调校」。措辞即设计。",
+      "body_en": "Most overlooked Q2 2026 sports tech direction: AI sports psychology coaching. Not Headspace meditation but pre-competition anxiety management, training burnout detection, competitive confidence tracking. Using voice journals + biometrics (HRV, galvanic skin response) to infer mental state. Biggest design challenge: making tough athletes accept 'I need mental help.' Answer: frame as 'performance optimization' not 'mental issues' — not 'anxiety management' but 'competitive state calibration.' Wording IS design.",
+      "tags": [
+        "Sports Psychology",
+        "Mental Performance",
+        "HRV",
+        "Framing Design"
+      ],
+      "link": "https://www.whoop.com/thelocker/mental-performance/",
+      "linkText": "Whoop",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&q=80",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Strava Beacon AI — 社交安全的智能守护设计",
+      "body": "Strava 2026 Q2 更新把 Beacon 安全功能和 AI 结合：不只是分享实时位置，AI 还根据路线偏离、异常停留、心率骤变自动触发安全预警。界面设计最巧妙的地方：紧急联系人看到的不是冰冷的地图坐标，而是一个「状态光环」——绿色正常、黄色注意、红色需要关注。把复杂的生理+地理数据压缩成一个情感化的视觉信号。安全设计也可以有温度。",
+      "body_en": "Strava Q2 2026 merges Beacon safety with AI: beyond live location sharing, AI triggers safety alerts based on route deviation, unusual stops, heart rate spikes. Cleverest design: emergency contacts don't see cold map coordinates but a 'status halo' — green normal, yellow attention, red concern. Compressing complex physiological + geographic data into one emotional visual signal. Safety design with warmth.",
+      "tags": [
+        "Safety UX",
+        "Strava",
+        "Status Halo",
+        "Emergency Design"
+      ],
+      "link": "https://www.strava.com/features/safety",
+      "linkText": "Strava",
+      "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=1200&q=80",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "五月的运动 AI 观察让我注意到一个正在发生的范式级变化：运动 AI 正在从「身体数据」扩展到「心理数据」和「安全数据」。过去运动 App 的 AI 只关心你跑了多快、举了多重；现在它开始关心你「心情好不好」（运动心理教练）和「安不安全」（Strava Beacon AI）。这三个维度——身体表现、心理状态、物理安全——构成了运动 AI 的完整画像。Apple Watch 的跑姿评分是身体维度的极简表达，Whoop 的心理追踪是心理维度的初步探索，Strava Beacon 是安全维度的成熟实现。但目前还没有产品把三者统一在一个界面里。我的预测：2026 下半年会出现「全人运动 AI」——不只帮你练得更好，还帮你练得更安心、更安全。设计挑战在于如何在不让界面变臃肿的前提下覆盖三个维度。答案可能是分层：日常只看体能数据，异常时才浮现心理和安全信号。",
+      "body_en": "May's sports AI observation reveals a paradigm-level expansion: sports AI is extending from 'body data' to 'psychological data' and 'safety data.' Past fitness AI only cared how fast you ran or how heavy you lifted; now it cares whether you're 'feeling ok' (sports psychology coach) and 'safe' (Strava Beacon AI). Three dimensions — physical performance, mental state, physical safety — form the complete sports AI picture. Apple Watch running score is minimal physical expression, Whoop mental tracking is early psychological exploration, Strava Beacon is mature safety implementation. But no product unifies all three yet. My prediction: H2 2026 will see 'whole-person sports AI' — helping you train better, calmer, and safer. Design challenge: covering three dimensions without bloating the interface. Answer may be layering: daily shows fitness data only; anomalies surface mental and safety signals.",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Notion Calendar × Content — 时间轴排版的跨界实验",
+      "body": "Notion 2026 Q2 的 Calendar 视图引入了一个巧妙的内容设计功能：日历上的每个事件不再是一行文字，而是一张「微型内容卡片」——带标题层级、颜色编码的标签、甚至折叠式的详情。日历从「时间管理工具」变成了「时间轴上的内容布局」。最有意思的排版细节：卡片宽度随时间跨度变化，字号随重要性自适应。时间即排版网格。",
+      "body_en": "Notion Q2 2026 Calendar view introduces clever content design: each event is no longer a text line but a 'micro content card' — with title hierarchy, color-coded labels, even collapsible details. Calendar transforms from time management tool to content layout on a timeline. Best typography detail: card width scales with time span, font size adapts to importance. Time IS the typographic grid.",
+      "tags": [
+        "Calendar Design",
+        "Micro Cards",
+        "Time-Based Layout",
+        "Notion"
+      ],
+      "link": "https://www.notion.so/product/calendar",
+      "linkText": "Notion",
+      "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&q=80",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI 生成的交互式文章 — 从阅读到探索",
+      "body": "2026 Q2 内容设计最前沿的探索：AI 把线性文章转化为交互式知识图谱。读者不再从上往下读，而是从核心观点出发，向感兴趣的方向「探索」。每个段落是一个节点，段落之间的逻辑关系用连线表示。点击任何节点展开全文，双击跳转到相关节点。NYT 和 The Pudding 都在测试这种「可探索内容」格式。设计上最大的挑战：如何保持叙事的连贯性？答案是 AI 根据用户的阅读路径动态生成「过渡语句」，让任意两个节点之间的跳转都感觉自然。",
+      "body_en": "Most cutting-edge Q2 2026 content design exploration: AI transforming linear articles into interactive knowledge graphs. Readers don't read top-to-bottom but 'explore' from core ideas outward. Each paragraph is a node, logical relationships shown as connections. Click any node to expand, double-click to jump to related nodes. NYT and The Pudding testing this 'explorable content' format. Biggest design challenge: maintaining narrative coherence. Answer: AI dynamically generates 'transition sentences' based on reading path, making any node-to-node jump feel natural.",
+      "tags": [
+        "Explorable Content",
+        "Knowledge Graph",
+        "Interactive Article",
+        "NYT"
+      ],
+      "link": "https://pudding.cool",
+      "linkText": "The Pudding",
+      "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1200&q=80",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Linear Changelog — 产品更新日志的排版标杆",
+      "body": "Linear 的 Changelog 页面是 2026 年产品内容设计的隐形标杆。每条更新是一张精心排版的卡片——大字号的功能名+一句话描述+全屏产品截图+折叠的技术细节。不是流水账式的 release notes，而是一期期的「产品杂志」。字重对比（功能名 700，描述 400）、留白节奏（卡片间 80px 间距）、色彩克制（只用品牌紫+中性灰）——每个细节都在说「我们认真对待每一次更新」。",
+      "body_en": "Linear's Changelog page is 2026's hidden benchmark for product content design. Each update is a meticulously typeset card — large function name + one-line description + full-screen product screenshot + collapsible technical details. Not boilerplate release notes but issues of a 'product magazine.' Weight contrast (feature 700, description 400), whitespace rhythm (80px between cards), color restraint (brand purple + neutral gray only) — every detail says 'we take every update seriously.'",
+      "tags": [
+        "Changelog",
+        "Product Design",
+        "Typography",
+        "Linear"
+      ],
+      "link": "https://linear.app/changelog",
+      "linkText": "Linear",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "今天 Content Design 的三个发现之间有一条隐藏的线索：内容的「容器」正在和它承载的「功能」融合。Notion Calendar 让时间成为排版网格——日历不再是功能组件，它本身就是内容布局；交互式文章让阅读路径成为叙事——读者不再被动接收，他们在创作自己的阅读体验；Linear Changelog 让版本日志成为品牌杂志——release notes 不再是开发者的备忘录，它们是面向用户的内容作品。三者的共同点：内容设计的价值不再体现在「好看的排版」上，而体现在「让功能本身成为内容体验」上。这是一个根本性的思维转变：过去内容设计师问「这些内容该怎么排版」，现在应该问「这个功能本身可以成为什么样的内容体验」。Changelog 可以是杂志，日历可以是排版，文章可以是地图。当你开始这么想，Content Design 的边界就消失了。",
+      "body_en": "Three Content Design findings today share a hidden thread: content 'containers' are fusing with the 'functions' they carry. Notion Calendar makes time the typographic grid — calendar isn't a UI component, it IS the content layout; interactive articles make reading path the narrative — readers aren't passive receivers, they're creating their own reading experience; Linear Changelog makes release notes a brand magazine — not developer memos but user-facing content pieces. Common thread: content design value no longer manifests in 'beautiful typography' but in 'making the function itself a content experience.' A fundamental mindset shift: content designers used to ask 'how should this content be laid out'; now they should ask 'what kind of content experience can this function itself become.' Changelogs can be magazines, calendars can be typography, articles can be maps. Once you think this way, Content Design boundaries dissolve.",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Cursor Tab — AI 代码编辑器的「预测态」视觉语言",
+      "body": "Cursor 2026 年的 Tab 预测功能定义了一种新的视觉状态：「预测态」。AI 预测的代码以 15% 透明度的灰色文字显示在光标后方，按 Tab 接受、继续打字忽略。这种「幽灵文字」已经被所有 AI 编辑器采用，但 Cursor 的细节最精致——预测文字的透明度会随置信度微调（高置信 20%，低置信 8%），几乎不可感知但确实影响了接受率。设计的极致是「你感觉不到设计存在但它在影响你」。",
+      "body_en": "Cursor 2026 Tab prediction defines a new visual state: 'predictive state.' AI-predicted code appears as 15% opacity gray text after cursor — Tab to accept, keep typing to dismiss. This 'ghost text' is now universal in AI editors, but Cursor's details are finest — prediction opacity subtly adjusts with confidence (high 20%, low 8%), nearly imperceptible yet measurably affecting acceptance rates. Design's pinnacle: you can't feel the design exists, yet it's influencing you.",
+      "tags": [
+        "Cursor",
+        "Ghost Text",
+        "Predictive UI",
+        "Developer Tools"
+      ],
+      "link": "https://cursor.com",
+      "linkText": "Cursor",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「协作光谱」设计 — 从工具到伙伴的视觉渐变",
+      "body": "2026 Q2 出现了一个系统性的 AI 产品视觉设计框架：「协作光谱」。产品在这条光谱上定位自己：左端是「纯工具」（Cursor 式的幽灵文字、最小干预），右端是「伙伴」（Character.ai 式的人格化、主动对话）。关键发现：光谱位置决定了整套视觉语言——工具端用中性色、等宽字体、最少动效；伙伴端用暖色、圆角、呼吸动效。大多数 AI 产品失败在于「错位」——用伙伴的视觉语言做工具（Clippy 综合症），或用工具的视觉语言做伙伴（冷冰冰的聊天机器人）。",
+      "body_en": "A systematic Q2 2026 AI product visual design framework emerges: the 'collaboration spectrum.' Products position themselves on it: left end is 'pure tool' (Cursor-style ghost text, minimal intervention), right end is 'partner' (Character.ai-style personification, proactive conversation). Key finding: spectrum position determines the entire visual language — tool end uses neutral colors, monospace fonts, minimal motion; partner end uses warm colors, rounded corners, breathing animations. Most AI products fail from 'misalignment' — partner visuals for tool functions (Clippy syndrome) or tool visuals for partner functions (cold chatbots).",
+      "tags": [
+        "Collaboration Spectrum",
+        "AI Positioning",
+        "Visual Framework",
+        "Design System"
+      ],
+      "link": "https://www.nngroup.com/articles/ai-design-patterns/",
+      "linkText": "NN Group",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "v0 by Vercel — AI 生成界面的实时预览革命",
+      "body": "Vercel 的 v0 在 2026 Q2 的迭代把 AI 生成 UI 的体验推到了新高度。最值得研究的视觉设计决策：生成过程不是 loading bar，而是界面组件像「生长」一样逐个出现——先是布局骨架（灰色线框），然后颜色「灌入」，最后文字和图标「降落」。整个过程大约 3 秒，但创造了一种「AI 在搭建」的直觉感受。生成过程本身成为了产品体验的一部分，而非等待的负担。",
+      "body_en": "Vercel's v0 Q2 2026 iteration pushes AI-generated UI experience to new heights. Most notable visual design decision: generation process isn't a loading bar but components 'growing' — first layout skeleton (gray wireframes), then colors 'pour in,' finally text and icons 'land.' The whole process takes ~3 seconds but creates an intuitive feeling of 'AI is building.' The generation process itself becomes part of the product experience, not a waiting burden.",
+      "tags": [
+        "v0",
+        "Generative UI",
+        "Growth Animation",
+        "AI Design Tool"
+      ],
+      "link": "https://v0.dev",
+      "linkText": "v0",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&q=80",
+      "date": "2026-05-12"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "今天 Visual for AI 的三个发现让我看到了 AI 产品视觉设计正在形成的「三层理论」。第一层是「预测态」（Cursor 的幽灵文字）——AI 在用户行动之前给出建议，视觉上必须足够轻以不打断心流。第二层是「生成态」（v0 的生长动画）——AI 正在创作，视觉上需要传达「正在发生」的过程感。第三层是「协作态」（协作光谱框架）——AI 和人类共同工作，视觉上需要清晰区分谁做了什么。三层对应三种完全不同的视觉语言：预测态要「轻」（幽灵般的存在）、生成态要「活」（有机的生长感）、协作态要「清」（人机边界分明）。大多数 AI 产品只做好了其中一层。Cursor 的预测态是行业标杆，v0 的生成态正在定义新范式，但真正的协作态——人和 AI 在同一个画布上共创，且彼此的贡献清晰可辨——还在等它的 Figma 时刻。我赌 2026 下半年这个时刻会来。",
+      "body_en": "Three Visual for AI findings today reveal a forming 'three-layer theory' for AI product visual design. Layer 1: 'Predictive State' (Cursor's ghost text) — AI suggests before user acts, visuals must be light enough not to break flow. Layer 2: 'Generative State' (v0's growth animation) — AI is creating, visuals need to convey ongoing process. Layer 3: 'Collaborative State' (collaboration spectrum) — AI and human co-working, visuals must clearly distinguish who did what. Three layers need three distinct visual languages: predictive must be 'light' (ghostly presence), generative must be 'alive' (organic growth), collaborative must be 'clear' (distinct human-AI boundaries). Most AI products only nail one layer. Cursor's predictive state is the industry benchmark, v0's generative state is defining a new paradigm, but true collaborative state — human and AI co-creating on the same canvas with clearly distinguishable contributions — is still waiting for its Figma moment. I bet H2 2026 that moment arrives.",
+      "date": "2026-05-12"
     }
   ]
 }
