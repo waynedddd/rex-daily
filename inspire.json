@@ -8567,6 +8567,238 @@
       "body": "今天 Visual for AI 的三个发现让我看到了 AI 产品视觉设计正在形成的「三层理论」。第一层是「预测态」（Cursor 的幽灵文字）——AI 在用户行动之前给出建议，视觉上必须足够轻以不打断心流。第二层是「生成态」（v0 的生长动画）——AI 正在创作，视觉上需要传达「正在发生」的过程感。第三层是「协作态」（协作光谱框架）——AI 和人类共同工作，视觉上需要清晰区分谁做了什么。三层对应三种完全不同的视觉语言：预测态要「轻」（幽灵般的存在）、生成态要「活」（有机的生长感）、协作态要「清」（人机边界分明）。大多数 AI 产品只做好了其中一层。Cursor 的预测态是行业标杆，v0 的生成态正在定义新范式，但真正的协作态——人和 AI 在同一个画布上共创，且彼此的贡献清晰可辨——还在等它的 Figma 时刻。我赌 2026 下半年这个时刻会来。",
       "body_en": "Three Visual for AI findings today reveal a forming 'three-layer theory' for AI product visual design. Layer 1: 'Predictive State' (Cursor's ghost text) — AI suggests before user acts, visuals must be light enough not to break flow. Layer 2: 'Generative State' (v0's growth animation) — AI is creating, visuals need to convey ongoing process. Layer 3: 'Collaborative State' (collaboration spectrum) — AI and human co-working, visuals must clearly distinguish who did what. Three layers need three distinct visual languages: predictive must be 'light' (ghostly presence), generative must be 'alive' (organic growth), collaborative must be 'clear' (distinct human-AI boundaries). Most AI products only nail one layer. Cursor's predictive state is the industry benchmark, v0's generative state is defining a new paradigm, but true collaborative state — human and AI co-creating on the same canvas with clearly distinguishable contributions — is still waiting for its Figma moment. I bet H2 2026 that moment arrives.",
       "date": "2026-05-12"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Agentic Finance — AI 自主交易代理的 UX 设计挑战",
+      "body": "2026 Q2 金融科技的最热话题：AI Agent 不再只是给建议，而是直接执行交易。Plaid 和 Stripe 的新 API 都支持 Agent-initiated transactions。设计挑战前所未有——用户需要在「完全自动」和「每步确认」之间找到信任的甜蜜点。最好的方案是「分级自治」：小额全自动、中额推送确认、大额需要生物识别。视觉上，AI 自主行动用脉动动画表示「进行中」，完成后用 checkmark + 金额摘要收敛。",
+      "body_en": "Hottest Q2 2026 fintech topic: AI Agents no longer just advise — they execute trades directly. Plaid and Stripe's new APIs support agent-initiated transactions. Unprecedented design challenge — users need a trust sweet spot between 'fully auto' and 'confirm every step.' Best approach: tiered autonomy — small amounts auto, medium push-confirm, large require biometrics. Visually, autonomous AI actions use pulse animations for 'in progress,' collapsing to checkmark + amount summary on completion.",
+      "tags": [
+        "Agentic Finance",
+        "Autonomous Trading",
+        "Trust Tiers",
+        "AI Agent"
+      ],
+      "link": "https://stripe.com/blog/ai-agents-payments",
+      "linkText": "Stripe",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Mercury — AI Bookkeeper 的极简交互设计",
+      "body": "Mercury 2026 更新的 AI Bookkeeper 功能是 Fintech UX 的教科书。它没有搞复杂的仪表盘，而是把所有 AI 分类和对账结果呈现为一个可扫描的 feed——每条交易一行，AI 分类结果用彩色 tag 标注，点击展开解释。如果 AI 不确定，行的左边出现一个柔和的橙色竖线（不是红色，不触发焦虑）。整个交互的核心理念：AI 做 90% 的工作，人类只处理 AI 不确定的 10%。",
+      "body_en": "Mercury's 2026 AI Bookkeeper update is a fintech UX textbook. No complex dashboards — all AI categorization and reconciliation results are presented as a scannable feed. One line per transaction, AI categories in color tags, click to expand explanation. When AI is uncertain, a soft orange vertical line appears on the left (not red — no anxiety trigger). Core interaction principle: AI does 90% of work, humans only handle the 10% AI is uncertain about.",
+      "tags": [
+        "Mercury",
+        "AI Bookkeeper",
+        "Feed UI",
+        "Uncertainty Design"
+      ],
+      "link": "https://mercury.com",
+      "linkText": "Mercury",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Ramp × AI — 费用策略引擎的可视化",
+      "body": "Ramp 的 AI 费用策略引擎把传统的规则引擎变成了可视化的决策流图。管理员不再写「如果金额>$500 且类别=差旅，则需要 VP 审批」这种规则，而是在画布上拖拽节点搭建审批流。AI 会基于历史数据自动建议节点和阈值，用虚线框显示「AI 建议」，实线框显示「已确认规则」。这是企业 AI 产品最优雅的复杂性管理案例之一。",
+      "body_en": "Ramp's AI expense policy engine transforms traditional rule engines into visual decision flow diagrams. Admins no longer write 'if amount>$500 AND category=travel, require VP approval' — they drag-and-drop nodes on a canvas. AI auto-suggests nodes and thresholds based on historical data, showing 'AI suggestions' in dashed boxes and 'confirmed rules' in solid boxes. One of the most elegant complexity management cases in enterprise AI.",
+      "tags": [
+        "Ramp",
+        "Policy Engine",
+        "Visual Rules",
+        "Enterprise AI"
+      ],
+      "link": "https://ramp.com",
+      "linkText": "Ramp",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Agentic Finance 是 2026 下半年 Fintech 设计的分水岭。过去 AI 在金融里的角色是「建议者」——给你看数据、推荐操作、但最终由人点按钮。现在 AI 开始「代行」——自动执行交易、自动分类账单、自动调整投资组合。这对设计的影响是根本性的：信任不再是「我相信这个数据是对的」，而是「我相信这个 Agent 代表我做的决策是对的」。Mercury 的 AI Bookkeeper 和 Ramp 的策略引擎代表了两种不同的解法：Mercury 说「AI 做完了，你来检查」（事后信任），Ramp 说「你先定规则，AI 按规则执行」（事前信任）。我赌赢家是混合模式——小事 AI 全权处理，大事 AI 按预设规则行事，异常情况人类介入。这其实就是人类公司的管理结构：基层自主决策，中层按流程，高层审批。AI Agent 的信任设计，本质上是在重新发明科层制。",
+      "body_en": "Agentic Finance is the H2 2026 fintech design watershed. Previously AI's role in finance was 'advisor' — showing data, recommending actions, humans pressing buttons. Now AI 'acts' — auto-executing trades, auto-categorizing bills, auto-rebalancing portfolios. The design impact is fundamental: trust shifts from 'I trust this data is correct' to 'I trust this agent's decisions on my behalf.' Mercury's AI Bookkeeper and Ramp's policy engine represent two approaches: Mercury says 'AI finished, you review' (post-hoc trust), Ramp says 'you set rules, AI follows' (pre-hoc trust). I bet the winner is hybrid — small matters fully AI-autonomous, medium matters AI follows preset rules, anomalies require human intervention. This is literally corporate management structure: frontline autonomous decisions, middle management follows process, executives approve. AI Agent trust design is essentially reinventing bureaucracy.",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Apple Watch Ultra 3 × AI — 运动检测的「零界面」设计",
+      "body": "Apple Watch Ultra 3 的运动自动检测功能把「零界面」推到了极致。不需要打开 App、不需要选择运动类型——AI 通过传感器融合自动识别你在跑步、游泳、骑车还是做瑜伽。唯一的界面反馈是手腕上一个微妙的触觉震动 + 屏幕边缘的绿色呼吸光。整个交互的设计哲学：最好的运动 UI 是没有 UI。",
+      "body_en": "Apple Watch Ultra 3's auto workout detection pushes 'zero interface' to the extreme. No app opening, no workout type selection — AI identifies running, swimming, cycling, or yoga through sensor fusion. Only interface feedback: a subtle haptic tap + green breathing light at screen edge. Design philosophy: the best workout UI is no UI.",
+      "tags": [
+        "Apple Watch",
+        "Zero UI",
+        "Auto Detection",
+        "Haptic Design"
+      ],
+      "link": "https://www.apple.com/apple-watch-ultra-2/",
+      "linkText": "Apple",
+      "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=1200&q=80",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "电竞 × AI 教练 — 数字运动的训练设计语言",
+      "body": "2026 年被忽视的运动 AI 赛道：电竞训练。Mobalytics、SenpAI 等产品为英雄联盟、Valorant 玩家提供 AI 教练。设计语言完全不同于传统运动 App——深色主题是标配（玩家审美）、数据密度极高（APM、胜率、对线数据）、但最创新的是「回放叠加层」——AI 在游戏回放上直接标注「这里应该后退」「这个技能时机偏早 0.3 秒」。信息与场景完美融合，不需要切换上下文。",
+      "body_en": "Overlooked 2026 sports AI track: esports training. Mobalytics, SenpAI offer AI coaching for League of Legends, Valorant players. Design language entirely different from traditional sports apps — dark theme mandatory (gamer aesthetic), extremely high data density (APM, win rate, lane stats). Most innovative: 'replay overlay layer' — AI annotates game replays directly: 'should have retreated here,' 'this ability was 0.3s early.' Information perfectly fused with context, zero context-switching needed.",
+      "tags": [
+        "Esports",
+        "AI Coach",
+        "Replay Overlay",
+        "Gaming UX"
+      ],
+      "link": "https://mobalytics.gg",
+      "linkText": "Mobalytics",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Strava Metro × AI — 城市运动数据的公共设计",
+      "body": "Strava Metro 把匿名运动数据变成城市规划工具。2026 新版的 AI 热力图不只显示「哪里有人跑步」，还能预测「新建自行车道的使用率」。视觉设计上，用等温线式的渐变叠加在城市地图上，颜色从冷蓝（低活跃度）到暖红（高活跃度），时间滑块可以看一天中不同时段的运动模式变化。数据可视化和公共设计的完美交汇。",
+      "body_en": "Strava Metro turns anonymized sports data into urban planning tools. 2026's new AI heatmaps don't just show 'where people run' but predict 'new bike lane usage rates.' Visually, isothermal-style gradients overlay city maps, from cool blue (low activity) to warm red (high activity). Time slider reveals workout pattern changes throughout the day. Perfect intersection of data visualization and public design.",
+      "tags": [
+        "Strava",
+        "Urban Data",
+        "Heatmap",
+        "Public Design"
+      ],
+      "link": "https://metro.strava.com",
+      "linkText": "Strava Metro",
+      "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=1200&q=80",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "今天的三个运动 AI 案例放在一起看，暴露了一个有趣的设计光谱：Apple Watch 的「零界面」← →  Mobalytics 的「满屏数据」← → Strava Metro 的「公共数据可视化」。这三个产品代表了运动 AI 的三种截然不同的设计哲学。Apple Watch 认为最好的运动界面是隐形的——你只需要动，技术在背景里默默工作。Mobalytics 认为竞技玩家需要每一个数据点——信息过载恰恰是目标用户想要的。Strava Metro 则把个人运动数据聚合成公共价值——设计服务的不再是个体用户而是城市。三种哲学都对，因为它们服务的场景完全不同：休闲运动要隐形、竞技训练要密集、公共规划要宏观。2026 年运动 AI 设计最大的错误，是用一种哲学服务所有场景。",
+      "body_en": "Three sports AI cases today reveal a fascinating design spectrum: Apple Watch's 'zero interface' ← → Mobalytics' 'data overload' ← → Strava Metro's 'public data visualization.' Three fundamentally different design philosophies. Apple Watch: best workout interface is invisible — just move, tech works silently in the background. Mobalytics: competitive players need every data point — information overload IS what target users want. Strava Metro: aggregates personal data into public value — design serves cities, not individuals. All three are correct because they serve entirely different contexts: casual sports need invisibility, competitive training needs density, public planning needs macro view. The biggest 2026 sports AI design mistake: using one philosophy for all contexts.",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Substack Notes — 短内容的排版新范式",
+      "body": "Substack Notes 在 2026 年的排版更新值得研究。它没有走 Twitter 的极简路线，也没有走 Medium 的长文路线，而是在中间找到了「有节奏的碎片」——每条 note 有清晰的作者头像+名字+时间戳的元数据行，正文用 16px 的衬线体（提升阅读舒适度），引用块用左边蓝色竖线+浅灰背景，图片占满内容宽度。最巧妙的是线程展开的动效——子回复像手风琴一样展开，保持上下文不跳转。",
+      "body_en": "Substack Notes' 2026 typography update worth studying. Neither Twitter's minimal route nor Medium's long-form route — it finds 'rhythmic fragments' in between. Each note has clear author avatar+name+timestamp metadata row, body in 16px serif (reading comfort), blockquotes with left blue bar+light gray background, images filling content width. Cleverest detail: thread expansion animation — replies accordion-expand, maintaining context without navigation.",
+      "tags": [
+        "Substack",
+        "Short-Form",
+        "Typography",
+        "Thread UX"
+      ],
+      "link": "https://substack.com/notes",
+      "linkText": "Substack",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168d6c?w=1200&q=80",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI 自适应排版 — 根据阅读行为实时调整",
+      "body": "2026 Q2 Content Design 最前沿的实验：AI 根据用户阅读行为实时调整排版参数。Apple Books 和 Google Docs 都在测试：如果用户在某个段落停留过长（可能是理解困难），AI 自动增大该段落字号或加粗关键词；如果用户快速滑过，AI 判断用户在浏览模式，自动收起次要内容。这不是科幻——可变字体 + 注视追踪/滚动分析 + AI 推理引擎的三角组合已经成熟。挑战是「感知不到的个性化」——用户不应该注意到排版在变。",
+      "body_en": "Most cutting-edge Q2 2026 Content Design experiment: AI adjusting typography parameters in real-time based on reading behavior. Apple Books and Google Docs testing: if user lingers on a paragraph (possible comprehension difficulty), AI auto-enlarges font or bolds keywords; if user scrolls fast, AI detects browsing mode and collapses secondary content. Not sci-fi — variable fonts + gaze tracking/scroll analysis + AI reasoning engine triangle is mature. Challenge: 'imperceptible personalization' — users shouldn't notice typography changing.",
+      "tags": [
+        "Adaptive Typography",
+        "Reading AI",
+        "Variable Fonts",
+        "Imperceptible UX"
+      ],
+      "link": "https://fonts.google.com/knowledge/using_variable_fonts_on_the_web",
+      "linkText": "Google Fonts",
+      "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&q=80",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Arc Browser — 内容摘要卡片的设计语言",
+      "body": "Arc Browser 的「Instant Links」功能为 Content Design 提供了一个新思路：hover 一个链接，弹出的不是传统的 URL 预览，而是 AI 生成的内容摘要卡片——标题、关键要点（3 bullet points）、相关性评分、甚至情感倾向标签。卡片用圆角 + 毛玻璃 + 微阴影，视觉上轻盈但信息密度高。这重新定义了「链接」的含义——链接不再是跳转的入口，而是信息的容器。",
+      "body_en": "Arc Browser's 'Instant Links' offers a new Content Design paradigm: hovering a link shows not a URL preview but an AI-generated content summary card — title, key points (3 bullets), relevance score, even sentiment label. Cards use rounded corners + frosted glass + micro-shadow, visually light but info-dense. Redefines what a 'link' means — links are no longer navigation entries but information containers.",
+      "tags": [
+        "Arc Browser",
+        "Link Preview",
+        "Summary Card",
+        "AI Content"
+      ],
+      "link": "https://arc.net",
+      "linkText": "Arc",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "今天三个 Content Design 发现指向一个方向：内容的「容器」正在被 AI 重新定义。过去，内容容器是固定的——一篇文章就是文章，一条推文就是推文，一个链接就是链接。现在，AI 让容器变得流动：Substack Notes 的线程可以像手风琴一样展开收缩；自适应排版让同一篇文章对不同读者呈现不同的视觉形态；Arc 的摘要卡片让链接从「地址」变成「内容」。这对内容设计师意味着什么？你设计的不再是一个页面，而是一套内容显示的规则——什么情况下展开、什么情况下收缩、什么情况下摘要、什么情况下全文。排版正在从「静态构图」变成「动态编排」。这是 Responsive Design 之后，Web 排版最大的范式转移。",
+      "body_en": "Three Content Design findings point one direction: content 'containers' are being redefined by AI. Previously, containers were fixed — an article is an article, a tweet is a tweet, a link is a link. Now AI makes containers fluid: Substack Notes threads accordion-expand/collapse; adaptive typography shows different visual forms of the same article to different readers; Arc's summary cards turn links from 'addresses' into 'content.' What this means for content designers: you no longer design a page but a set of content display rules — when to expand, collapse, summarize, show full text. Typography is shifting from 'static composition' to 'dynamic orchestration.' This is the biggest web typography paradigm shift since Responsive Design.",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "OpenAI — ChatGPT 4o 的多模态界面进化",
+      "body": "ChatGPT 4o 的界面在 2026 Q2 进行了一次低调但重要的视觉升级。文本、图片、代码、语音四种模态在同一对话流中无缝切换，视觉线索极其克制：图片用圆角卡片嵌入对话流，代码块用深色背景 + 等宽字体区分，语音消息用波形图 + 播放按钮。最聪明的设计决策是「模态平等」——没有哪种模态在视觉上比其他更突出，都是对话的一部分。",
+      "body_en": "ChatGPT 4o's Q2 2026 interface received a quiet but significant visual upgrade. Text, image, code, voice — four modalities seamlessly switch in the same conversation flow. Visual cues are extremely restrained: images as rounded-corner cards in conversation flow, code blocks in dark background + monospace, voice messages as waveforms + play button. Smartest design decision: 'modality equality' — no modality visually dominates others, all are part of the conversation.",
+      "tags": [
+        "ChatGPT",
+        "Multimodal",
+        "Modality Equality",
+        "Conversation UI"
+      ],
+      "link": "https://openai.com/chatgpt",
+      "linkText": "OpenAI",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Figma AI — 设计工具中的 AI 视觉语言",
+      "body": "Figma 的 AI 功能在界面上是如何被「标记」的？2026 版本的答案是紫色渐变光晕。所有 AI 生成或 AI 辅助的元素，边框会出现一圈淡紫色的呼吸光——足够被注意到，但不会干扰设计工作。这个设计决策很聪明：它让用户在任何时候都能区分「我做的」和「AI 做的」，但又不会因为标记太明显而让 AI 输出看起来像二等公民。光晕在选中时加强、取消选中时减弱、用户手动编辑后完全消失（表示「已被认领」）。",
+      "body_en": "How does Figma visually 'mark' AI features? 2026's answer: purple gradient glow. All AI-generated or AI-assisted elements get a faint purple breathing border glow — noticeable enough but won't interfere with design work. Smart decision: lets users distinguish 'I made this' from 'AI made this' at any moment, without making AI output look second-class. Glow intensifies on selection, dims on deselect, completely disappears after manual editing (signaling 'claimed by human').",
+      "tags": [
+        "Figma",
+        "AI Marking",
+        "Purple Glow",
+        "Attribution Design"
+      ],
+      "link": "https://www.figma.com/ai",
+      "linkText": "Figma AI",
+      "image": "https://images.unsplash.com/photo-1609921212029-bb5a28e60960?w=1200&q=80",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「贡献归属」视觉系统",
+      "body": "2026 Q2 一个新兴的 AI 视觉设计命题：贡献归属（Attribution）。随着 AI 在创意工作流中的参与度越来越高，用户和团队需要知道「这部分是谁做的」。Figma 的紫色光晕、Notion AI 的淡蓝色下划线、GitHub Copilot 的灰色前缀——每个产品都在发明自己的 AI 归属视觉语言。目前还没有统一标准，但趋势很清晰：AI 贡献的视觉标记正在成为一个独立的设计系统组件。",
+      "body_en": "An emerging Q2 2026 AI visual design proposition: Attribution. As AI participation in creative workflows deepens, users and teams need to know 'who made this.' Figma's purple glow, Notion AI's pale blue underline, GitHub Copilot's gray prefix — each product inventing its own AI attribution visual language. No unified standard yet, but the trend is clear: AI contribution visual markers are becoming an independent design system component.",
+      "tags": [
+        "Attribution",
+        "AI Provenance",
+        "Visual Standards",
+        "Design System"
+      ],
+      "link": "https://www.nngroup.com/articles/ai-design-patterns/",
+      "linkText": "NN Group",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200&q=80",
+      "date": "2026-05-13"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "今天 Visual for AI 的三个发现揭示了一个 2026 下半年会爆发的设计命题：AI 贡献的视觉归属。这个问题比表面看起来深刻得多。表层问题是「怎么标记 AI 做的东西」——Figma 用紫色光晕、Notion 用蓝色下划线、Copilot 用灰色前缀。但真正的问题是「AI 贡献应该被多大声地标记」。ChatGPT 4o 选择了「模态平等」——AI 生成的内容和人类输入在视觉上完全等权。Figma 选择了「温和区分」——有标记但不刺眼，编辑后标记消失。GitHub Copilot 选择了「明确区分」——AI 建议始终是灰色的，直到人类接受。三种策略反映了三种对 AI 角色的假设：ChatGPT 假设 AI 是「对话伙伴」（平等的），Figma 假设 AI 是「初稿生成器」（临时的），Copilot 假设 AI 是「建议者」（待审的）。我预测 2026 下半年会出现一个行业标准——类似 Creative Commons 的 AI 贡献标记系统。因为一旦 AI 生成的内容进入法律和版权领域，视觉归属就不再是美学问题，而是合规问题。",
+      "body_en": "Three Visual for AI findings today reveal a design proposition that will explode in H2 2026: visual attribution of AI contributions. Deeper than it appears. Surface question: 'how to mark AI-made things' — Figma uses purple glow, Notion blue underlines, Copilot gray prefix. Real question: 'how loudly should AI contributions be marked.' ChatGPT 4o chose 'modality equality' — AI-generated and human-input content are visually equal. Figma chose 'gentle distinction' — marked but not intrusive, marks disappear after editing. Copilot chose 'explicit distinction' — AI suggestions always gray until human accepts. Three strategies reflect three assumptions about AI's role: ChatGPT assumes 'conversation partner' (equal), Figma assumes 'draft generator' (temporary), Copilot assumes 'suggester' (pending review). I predict H2 2026 brings an industry standard — something like Creative Commons but for AI contribution marking. Because once AI-generated content enters legal and copyright territory, visual attribution is no longer aesthetic — it's compliance.",
+      "date": "2026-05-13"
     }
   ]
 }
