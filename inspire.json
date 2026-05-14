@@ -8799,6 +8799,221 @@
       "body": "今天 Visual for AI 的三个发现揭示了一个 2026 下半年会爆发的设计命题：AI 贡献的视觉归属。这个问题比表面看起来深刻得多。表层问题是「怎么标记 AI 做的东西」——Figma 用紫色光晕、Notion 用蓝色下划线、Copilot 用灰色前缀。但真正的问题是「AI 贡献应该被多大声地标记」。ChatGPT 4o 选择了「模态平等」——AI 生成的内容和人类输入在视觉上完全等权。Figma 选择了「温和区分」——有标记但不刺眼，编辑后标记消失。GitHub Copilot 选择了「明确区分」——AI 建议始终是灰色的，直到人类接受。三种策略反映了三种对 AI 角色的假设：ChatGPT 假设 AI 是「对话伙伴」（平等的），Figma 假设 AI 是「初稿生成器」（临时的），Copilot 假设 AI 是「建议者」（待审的）。我预测 2026 下半年会出现一个行业标准——类似 Creative Commons 的 AI 贡献标记系统。因为一旦 AI 生成的内容进入法律和版权领域，视觉归属就不再是美学问题，而是合规问题。",
       "body_en": "Three Visual for AI findings today reveal a design proposition that will explode in H2 2026: visual attribution of AI contributions. Deeper than it appears. Surface question: 'how to mark AI-made things' — Figma uses purple glow, Notion blue underlines, Copilot gray prefix. Real question: 'how loudly should AI contributions be marked.' ChatGPT 4o chose 'modality equality' — AI-generated and human-input content are visually equal. Figma chose 'gentle distinction' — marked but not intrusive, marks disappear after editing. Copilot chose 'explicit distinction' — AI suggestions always gray until human accepts. Three strategies reflect three assumptions about AI's role: ChatGPT assumes 'conversation partner' (equal), Figma assumes 'draft generator' (temporary), Copilot assumes 'suggester' (pending review). I predict H2 2026 brings an industry standard — something like Creative Commons but for AI contribution marking. Because once AI-generated content enters legal and copyright territory, visual attribution is no longer aesthetic — it's compliance.",
       "date": "2026-05-13"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Fintech Dashboard — 安全洞察实时监控",
+      "body": "VALMAX 团队在 Dribbble 上发布的 AI 金融仪表盘概念——用于监控金融活动、账户保护和实时安全洞察。高对比界面+结构化分析+清晰数据层级，为快速决策而设计。亮点是把「安全」从后台报警系统提升为首屏核心组件——安全不是附加功能，是金融产品的第一视觉锚点。",
+      "body_en": "VALMAX's AI fintech dashboard concept on Dribbble — monitoring financial activity, account protection, and real-time security insights. High-contrast interface + structured analytics + clear data hierarchy for fast decision-making. The highlight: elevating 'security' from background alert system to hero component — security isn't an add-on, it's the primary visual anchor of financial products.",
+      "tags": [
+        "Security Dashboard",
+        "Real-time",
+        "High Contrast",
+        "Fintech"
+      ],
+      "link": "https://dribbble.com/shots/27213435-AI-Fintech-Dashboard-Design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/37426171/file/original-e58a12df6da1977d5436fb46bb64f944.png",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Fintech UX 2026 深度指南：界面即产品",
+      "body": "Fuselab Creative 发布的 2026 Fintech UX 设计指南直击核心：「对用户来说，界面就是产品——不是背后的算法。」这个观点在 AI 金融时代更加尖锐：你的 AI 模型再强，如果用户搞不懂怎么用，他们就去叫 Uber（字面意思）。指南强调的关键：金融产品的 UX 不只是好看，是决定用户能否做出正确金融决策的基础设施。",
+      "body_en": "Fuselab Creative's 2026 Fintech UX guide cuts to the core: 'To the user, the interface IS the product — not the algorithm behind it.' This point is even sharper in the AI finance era: no matter how powerful your AI model, if users can't figure out how to use it, they're calling an Uber (literally). Key emphasis: financial product UX isn't just aesthetics — it's infrastructure determining whether users can make correct financial decisions.",
+      "tags": [
+        "Fintech UX",
+        "Interface Design",
+        "User Decision",
+        "2026 Guide"
+      ],
+      "link": "https://fuselabcreative.com/fintech-ux-design-guide-2026-user-experience/",
+      "linkText": "Fuselab Creative",
+      "image": "https://cdn.dribbble.com/userupload/46024884/file/610e4de4b6ba6793b8c95a2f1b2ebe2c.png?format=webp&resize=1200x900&vertical=center",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Qiespend — AI 驱动的个人金融 Dashboard",
+      "body": "Dribbble 上新上线的 Qiespend 设计：AI 驱动的个人理财仪表盘，暗色模式下的预算管理和数据可视化。最值得注意的是它把 AI 洞察嵌入到每个消费类目中——不是单独的 AI 面板，而是每张消费卡片都附带一行 AI 生成的上下文提示：「你的餐饮支出比上月增长 15%，主要集中在工作日午餐。」AI 从专属模块变成弥散型辅助。",
+      "body_en": "Dribbble's new Qiespend design: AI-powered personal finance dashboard with dark mode budgeting and data visualization. Most notable: AI insights embedded in every spending category — not a separate AI panel, but each expense card with a one-liner AI contextual tip: 'Your dining spend is up 15% from last month, mostly weekday lunches.' AI shifts from dedicated module to ambient assistance.",
+      "tags": [
+        "Personal Finance",
+        "Dark Mode",
+        "Ambient AI",
+        "Budgeting"
+      ],
+      "link": "https://dribbble.com/search/dashboard-fintech",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/45175823/file/431e1ce4b249927a822fd31ddf0e5d86.png?resize=752x&vertical=center",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "今天 Fintech 方向的三个发现放在一起，看到一个 2026 Q2 的清晰信号：金融 AI 设计正在从「集中式 AI 面板」向「弥散式 AI 辅助」迁移。过去的设计是单独一个 AI 助手模块，现在最好的设计是让 AI 无处不在但又不碍事——安全洞察直接嵌入首屏（VALMAX），消费分析直接附在每张卡片上（Qiespend）。Fuselab 的指南一针见血：「界面即产品」。在金融场景下这意味着什么？意味着 AI 不应该是一个需要用户去「找到」的功能，而应该是整个界面的底层智能——你看到的每一个数字、每一个建议，背后都有 AI 在工作，但用户感知到的是「这个产品懂我」，而不是「这个产品有 AI」。Ambient AI > Explicit AI，这是 2026 金融设计最重要的范式转移。",
+      "body_en": "Three Fintech findings today reveal a clear Q2 2026 signal: financial AI design is migrating from 'centralized AI panels' to 'ambient AI assistance.' Past designs had a separate AI assistant module; the best current designs make AI omnipresent yet unobtrusive — security insights embedded in the hero (VALMAX), spending analysis attached to every card (Qiespend). Fuselab's guide nails it: 'the interface IS the product.' In finance, this means AI shouldn't be a feature users need to 'find' — it should be the underlying intelligence of the entire interface. Every number, every suggestion has AI working behind it, but users perceive 'this product understands me' rather than 'this product has AI.' Ambient AI > Explicit AI — the most important paradigm shift in 2026 financial design.",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动员动作捕捉 — 计算机视觉的民主化",
+      "body": "LinkedIn 上的深度分析揭示了 2026 年运动 AI 的前沿：计算机视觉动作捕捉不再需要专业设备。手机摄像头+AI 就能追踪运动员的身体位置、关节角度、速度——相当于虚拟「动作捕捉」。这把价值百万的运动分析能力压缩到了一个 App 里。设计挑战不在技术，在于如何让业余运动员也能理解骨骼追踪数据。",
+      "body_en": "LinkedIn deep analysis reveals the 2026 sports AI frontier: computer vision motion capture no longer needs professional equipment. Phone camera + AI tracks body position, joint angles, velocity — essentially virtual 'motion capture.' This compresses million-dollar sports analysis into an app. Design challenge isn't technical but making skeleton tracking data comprehensible for amateur athletes.",
+      "tags": [
+        "Computer Vision",
+        "Motion Capture",
+        "Democratization",
+        "Mobile AI"
+      ],
+      "link": "https://www.linkedin.com/pulse/ai-capturing-athlete-movement-computer-vision-video-analysis-briger-g1n5e",
+      "linkText": "LinkedIn",
+      "image": "https://xberry.tech/wp-content/uploads/2025/11/Athlete-with-CV.webp",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动分析 2026：十大进展——从追踪到预测",
+      "body": "Yenra 的 2026 AI 运动分析报告梳理了十大方向：球员追踪、伤病预测、战术建模、球探分析、粉丝智能、实时决策支持。最有价值的洞察：当前最强的系统不是单一技术，而是「追踪+视觉+遥测+预测分析」的融合。比传统视频回放细致了一个数量级——不是看回放，是看数据在空间中的流动。",
+      "body_en": "Yenra's 2026 AI sports analytics report maps ten advances: player tracking, injury prediction, tactical modeling, scouting, fan intelligence, real-time decision support. Key insight: the strongest systems aren't single technologies but fusion of tracking + vision + telemetry + predictive analytics. An order of magnitude finer than traditional video review — not watching replays, but watching data flow through space.",
+      "tags": [
+        "Sports Analytics",
+        "Fusion AI",
+        "Tactical AI",
+        "2026 Landscape"
+      ],
+      "link": "https://yenra.com/ai-tech/sports-analytics/",
+      "linkText": "Yenra",
+      "image": "https://yenra.com/i/ai-tech/sports-analytics/player-performance-analysis-0.jpg",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "PulseUp AI Fitness — 渐变活力色的训练生态",
+      "body": "Behance 上近千赞的 PulseUp AI 健身 App 持续更新——2026 版本在原有的渐变活力色+卡片化训练模块基础上，新增了 AI 教练的「情绪感知」功能。根据用户训练中的心率变异和完成率，AI 自动调整界面色温和鼓励语气——状态好时橙红系激励，疲劳时切换为蓝绿系安抚。界面「情绪」跟着用户走。",
+      "body_en": "PulseUp AI fitness app on Behance keeps evolving — 2026 version adds AI coach 'mood sensing' to its gradient energy colors + card-based training modules. Based on training HRV and completion rate, AI auto-adjusts interface color temperature and encouragement tone — orange-red energy when performing well, blue-green comfort when fatigued. Interface 'mood' follows the user.",
+      "tags": [
+        "AI Fitness",
+        "Mood-Adaptive",
+        "Color System",
+        "Emotional UX"
+      ],
+      "link": "https://www.behance.net/gallery/231755045/PulseUp-AI-Fitness-App-UIUX-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/669d3f231755045.688f65c1a80c0.jpg",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 在 2026 年 Q2 进入了一个有意思的转折点：技术门槛在急剧下降，但设计门槛在急剧上升。手机摄像头就能做动作捕捉（以前需要几十万的设备），融合分析系统比传统视频回放精细一个数量级——技术不再是瓶颈。但新瓶颈出现了：如何让非专业用户消化这些专业级数据？PulseUp 的情绪自适应色彩系统给了一个方向——不是把数据简化（那会丢失价值），而是把界面情绪化（让用户在不同状态下看到不同的信息密度和视觉语气）。这呼应了几周前讨论的「情境色彩系统」，但更进一步：色彩不只响应运动类型（瑜伽 vs HIIT），还响应运动状态（精力充沛 vs 疲劳）。运动 AI 的下一个设计竞争力不是「更多数据」，而是「更聪明的情绪基础设施」。",
+      "body_en": "Sports AI hits an interesting inflection point in Q2 2026: technical barriers are plummeting, but design barriers are soaring. Phone cameras do motion capture (previously needing expensive equipment), fusion analytics are orders of magnitude finer than video review — tech isn't the bottleneck anymore. But a new bottleneck emerges: how do non-pros digest pro-grade data? PulseUp's mood-adaptive color system points a direction — not simplifying data (that loses value) but emotionalizing the interface (showing different info density and visual tone per user state). This echoes the 'contextual color system' discussed weeks ago, but goes further: color responds not just to sport type (yoga vs HIIT) but to exercise state (energized vs fatigued). Sports AI's next design competitive edge isn't 'more data' but 'smarter emotional infrastructure.'",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "Kinetic Typography 2026：AI 驱动的动态排版成熟化",
+      "body": "多个来源（Accio、Medium、Upskillist）同时指向同一趋势：Kinetic Typography 在 2026 年从实验技术变成主流设计语言。AI 驱动的动态排版不再是花哨的动效，而是功能性的——文字根据滚动位置、用户注意力、内容语义动态变换大小、位置、透明度。最关键的变化：kinetic type 和微交互融合，文字本身就是交互元素。",
+      "body_en": "Multiple sources (Accio, Medium, Upskillist) point to the same trend: Kinetic Typography matures from experimental to mainstream in 2026. AI-driven dynamic typography is no longer flashy motion but functional — text dynamically transforms size, position, opacity based on scroll position, user attention, and content semantics. Most critical shift: kinetic type merges with micro-interactions, text itself becomes the interactive element.",
+      "tags": [
+        "Kinetic Typography",
+        "AI Motion",
+        "Micro-Interaction",
+        "Functional Animation"
+      ],
+      "link": "https://medium.com/@bradkinnard/ai-powered-web-design-in-2026-kinetic-typography-and-micro-interactions-that-actually-help-178e62d6f45c",
+      "linkText": "Medium",
+      "image": "https://storage.ghost.io/c/08/a3/08a3cb77-16f2-4623-b90a-2936db90af0a/content/images/size/w1200/2025/02/image-1740552870011.jpeg",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "2026 Motion Design 趋势：AI 工作流、真实性与手工艺",
+      "body": "Envato 的 2026 动态设计趋势报告总结了 11 个方向，核心主题是「AI 工作流+真实性+手工艺」的三角平衡。AI 加速了产出但也带来了同质化焦虑，最好的设计师用 AI 做基础框架，用手工添加「不完美的完美」——故意的抖动、手绘质感、analog 拼贴。从 kinetic type 到 analog collage，2026 动态设计在效率和真实之间走钢丝。",
+      "body_en": "Envato's 2026 motion design trends report identifies 11 directions, core theme being the triangle balance of 'AI workflows + authenticity + craft.' AI accelerates output but creates homogeneity anxiety; best designers use AI for foundational frameworks, adding 'imperfect perfection' by hand — intentional jitter, hand-drawn textures, analog collages. From kinetic type to analog collage, 2026 motion design walks a tightrope between efficiency and authenticity.",
+      "tags": [
+        "Motion Design",
+        "AI Workflow",
+        "Authenticity",
+        "Analog Craft"
+      ],
+      "link": "https://elements.envato.com/learn/motion-design-trends",
+      "linkText": "Envato",
+      "image": "https://www.fontfabric.com/wp-content/uploads/2025/12/design-trenfds-2026-cover.jpg",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Content Design 在 2026 年 5 月有一个值得关注的拐点：动态排版从「装饰层」正式进入「功能层」。以前 kinetic type 是视觉设计师的炫技，现在它变成了信息架构的一部分——文字大小随内容重要性实时变化、标题根据用户滚动位置渐次出现、关键论点在注意力聚焦时自动放大。这不是动效，这是「排版的智能化」。Envato 报告里最有意思的张力是 AI 加速 vs 手工艺回归——AI 能快速生成 motion design 的 80%，但那被大家记住的 20% 一定是手工的：故意的不完美、有温度的抖动、analog 质感。这和之前 Content Design 方向讨论的「AI 做骨架、人做血肉」完全一致。但现在多了一个维度：时间。动态排版让内容有了时间维度——不只是在空间中排列信息，还在时间中编排信息的出场顺序和节奏。Content Design 的维度从 2D → 3D（空间化）→ 4D（时间化）。",
+      "body_en": "Content Design hits a notable inflection in May 2026: dynamic typography officially moves from 'decorative layer' to 'functional layer.' Kinetic type used to be visual designers showing off; now it's part of information architecture — text size changes with content importance in real-time, headlines progressively reveal with scroll, key arguments auto-enlarge when attention focuses. This isn't animation; it's 'typography intelligence.' The most interesting tension in Envato's report: AI acceleration vs craft revival — AI quickly generates 80% of motion design, but the memorable 20% is always handmade: intentional imperfection, warm jitter, analog texture. Perfectly consistent with earlier Content Design discussion of 'AI builds skeleton, humans add flesh.' But now with a new dimension: time. Dynamic typography gives content a temporal dimension — not just arranging information in space, but choreographing its entrance sequence and rhythm in time. Content Design dimensions evolve from 2D → 3D (spatial) → 4D (temporal).",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "Agent UX：2026 AI Agent 界面设计的四大趋势",
+      "body": "Fuselab Creative 的深度分析梳理了 AI Agent UI 设计的四大趋势：1) 对话式界面仍是核心模式但正在进化；2) 可解释性界面成为必需品——Agent 的每个动作都需要人类可读的解释；3) 多模态交互（语音+文字+手势+视觉）成为标配；4) 审批/监督界面替代操作界面。最关键的判断：「Agent UI 的设计质量取决于它所代表的逻辑质量。」",
+      "body_en": "Fuselab Creative's deep analysis maps four AI Agent UI design trends: 1) Conversational interfaces remain core but evolving; 2) Explainability interfaces become mandatory — every Agent action needs human-readable explanation; 3) Multimodal interaction (voice + text + gesture + visual) becomes standard; 4) Approval/supervision interfaces replace operation interfaces. Key judgment: 'An agent UI is only as good as the logic it represents.'",
+      "tags": [
+        "Agent UX",
+        "Explainability",
+        "Multimodal",
+        "Supervision UI"
+      ],
+      "link": "https://fuselabcreative.com/ui-design-for-ai-agents/",
+      "linkText": "Fuselab Creative",
+      "image": "https://fuselabcreative.com/wp-content/uploads/2025/08/ui-design-for-ai-agents-post-cover-1.avif",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent Workflow Builder — 邮件自动化的视觉编排",
+      "body": "Dribbble 新作：AI Agent 邮件自动化的工作流构建器。干净的界面用于设置 AI Agent、连接上下文源（Gmail/Slack/Salesforce）、自动化跟进流程。最巧妙的设计决策：不是让用户写 prompt，而是用可视化的「触发→条件→动作」节点图——每个节点是一张简洁的卡片，拖拽连线就能编排复杂的 Agent 行为。把编程逻辑变成了视觉拼图。",
+      "body_en": "Fresh Dribbble work: AI Agent email automation workflow builder. Clean interface for setting up AI agents, connecting context sources (Gmail/Slack/Salesforce), automating follow-up workflows. Smartest design decision: instead of writing prompts, users build visual 'trigger → condition → action' node graphs — each node is a concise card, drag-and-connect to orchestrate complex Agent behavior. Programming logic becomes visual puzzle.",
+      "tags": [
+        "Workflow Builder",
+        "Agent Automation",
+        "Node Graph",
+        "Email AI"
+      ],
+      "link": "https://dribbble.com/shots/27352435-AI-Agent-Workflow-Builder-for-Email-Automation",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46157685/file/still-e05c2cc3d55f686a7993a08945c382ca.png",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Atlas — AI 语音 Agent 工作流构建器",
+      "body": "Dribbble 上 Atlas 的语音 Agent 可视化工作流构建器——帮助团队配置、测试和管理对话式 AI 的操作面板。和邮件 Agent 的节点图不同，语音 Agent 的工作流更像决策树：每个节点是一个对话分支，AI 根据用户语音输入选择路径。设计上用不同颜色区分「确定路径」（绿色）和「模糊意图识别」（黄色虚线），让团队一眼看出 Agent 在哪里可能出错。",
+      "body_en": "Atlas voice Agent visual workflow builder on Dribbble — team operations panel for configuring, testing, and managing conversational AI. Unlike email Agent node graphs, voice Agent workflows resemble decision trees: each node is a conversation branch, AI selects paths based on voice input. Color-coded: 'certain paths' (green solid) vs 'fuzzy intent recognition' (yellow dashed), letting teams instantly see where the Agent might fail.",
+      "tags": [
+        "Voice Agent",
+        "Decision Tree",
+        "Conversation Flow",
+        "Testing UI"
+      ],
+      "link": "https://dribbble.com/shots/26918039-Atlas-AI-Voice-Agent-Workflow-Builder-Dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43161728/file/original-ecd18fc3a54555e52d69043c8721ebee.png",
+      "date": "2026-05-14"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "今天 Visual for AI 的三个发现合在一起，揭示了 2026 Q2 AI 产品设计最火的战场：Agent Workflow Builder。邮件 Agent、语音 Agent、自动化 Agent——每种都需要自己的可视化编排界面，但它们共享一个核心设计挑战：如何让非技术用户构建复杂的 AI 行为？答案正在收敛为两种范式：节点图（适合线性流程，如邮件自动化）和决策树（适合分支逻辑，如语音对话）。Fuselab 的「四大趋势」报告点出了更深的层次：Agent UI 不只是工作流编辑器，还必须包含审批界面（Agent 要做高风险操作时请求人类确认）和可解释性界面（Agent 为什么选了这条路径）。这让我修正之前的「四层信任架构」——现在应该是六层：能力展示→控制感→不确定性透明→成长陪伴→边界尊重→行为编排。最后一层「行为编排」是 2026 的新增：用户不只使用 AI，还在塑造 AI 的行为。设计师的角色从「界面设计师」→「关系设计师」→「行为编排设计师」。",
+      "body_en": "Three Visual for AI findings today reveal Q2 2026's hottest AI product design battleground: Agent Workflow Builders. Email agents, voice agents, automation agents — each needs its own visual orchestration interface, but they share a core design challenge: how do non-technical users build complex AI behaviors? The answer is converging on two paradigms: node graphs (for linear flows like email automation) and decision trees (for branching logic like voice conversations). Fuselab's 'four trends' report goes deeper: Agent UI isn't just workflow editors — it must include approval interfaces (Agent requests human confirmation for high-risk actions) and explainability interfaces (why did Agent choose this path). This updates my 'four-layer trust architecture' — now six layers: capability showcase → control establishment → uncertainty transparency → growth companionship → boundary respect → behavior orchestration. The last layer 'behavior orchestration' is 2026's addition: users don't just use AI, they shape AI behavior. Designer role evolution: interface designer → relationship designer → behavior orchestration designer.",
+      "date": "2026-05-14"
     }
   ]
 }
