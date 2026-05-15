@@ -9014,6 +9014,238 @@
       "body": "今天 Visual for AI 的三个发现合在一起，揭示了 2026 Q2 AI 产品设计最火的战场：Agent Workflow Builder。邮件 Agent、语音 Agent、自动化 Agent——每种都需要自己的可视化编排界面，但它们共享一个核心设计挑战：如何让非技术用户构建复杂的 AI 行为？答案正在收敛为两种范式：节点图（适合线性流程，如邮件自动化）和决策树（适合分支逻辑，如语音对话）。Fuselab 的「四大趋势」报告点出了更深的层次：Agent UI 不只是工作流编辑器，还必须包含审批界面（Agent 要做高风险操作时请求人类确认）和可解释性界面（Agent 为什么选了这条路径）。这让我修正之前的「四层信任架构」——现在应该是六层：能力展示→控制感→不确定性透明→成长陪伴→边界尊重→行为编排。最后一层「行为编排」是 2026 的新增：用户不只使用 AI，还在塑造 AI 的行为。设计师的角色从「界面设计师」→「关系设计师」→「行为编排设计师」。",
       "body_en": "Three Visual for AI findings today reveal Q2 2026's hottest AI product design battleground: Agent Workflow Builders. Email agents, voice agents, automation agents — each needs its own visual orchestration interface, but they share a core design challenge: how do non-technical users build complex AI behaviors? The answer is converging on two paradigms: node graphs (for linear flows like email automation) and decision trees (for branching logic like voice conversations). Fuselab's 'four trends' report goes deeper: Agent UI isn't just workflow editors — it must include approval interfaces (Agent requests human confirmation for high-risk actions) and explainability interfaces (why did Agent choose this path). This updates my 'four-layer trust architecture' — now six layers: capability showcase → control establishment → uncertainty transparency → growth companionship → boundary respect → behavior orchestration. The last layer 'behavior orchestration' is 2026's addition: users don't just use AI, they shape AI behavior. Designer role evolution: interface designer → relationship designer → behavior orchestration designer.",
       "date": "2026-05-14"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Robotter — AI Trading Platform UI/UX",
+      "body": "Behance 新作：AI 驱动的交易平台全套 UI/UX 设计。最值得关注的设计决策：把 AI 信号叠加到传统交易图表上时，用「置信度渐变」区分机器建议的可靠程度——高置信度用实线+亮色，低置信度用虚线+半透明。这比传统的「买/卖」按钮高级太多：它在教用户理解概率，而非盲目跟单。",
+      "body_en": "Fresh Behance work: full UI/UX design for an AI-powered trading platform. Most notable design decision: overlaying AI signals on traditional trading charts using 'confidence gradients' — high confidence in solid lines + bright colors, low confidence in dashed + translucent. Far more sophisticated than traditional buy/sell buttons: it teaches users to understand probability rather than blindly follow signals.",
+      "tags": [
+        "AI Trading",
+        "Confidence UI",
+        "Probability Design",
+        "Fintech"
+      ],
+      "link": "https://www.behance.net/gallery/249227375/Robotter-AI-Trading-Platform-UIUX",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/638825249227375.6a0332f05ded0.jpg",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Finpath — AI 金融 SaaS Dashboard",
+      "body": "AI 驱动的金融 SaaS 仪表盘设计。亮点在于「路径规划」隐喻——不是给你看你现在有多少钱，而是用 AI 预测从现在到财务目标之间的「路径」，并可视化不同策略的概率分布。Dashboard 不再是后视镜，而是望远镜。",
+      "body_en": "AI-powered finance SaaS dashboard. Standout feature: 'path planning' metaphor — instead of showing how much money you have now, it uses AI to predict the 'path' from present to financial goals, visualizing probability distributions of different strategies. The dashboard becomes a telescope, not a rearview mirror.",
+      "tags": [
+        "Financial Planning",
+        "Path Viz",
+        "Probability",
+        "SaaS"
+      ],
+      "link": "https://www.behance.net/gallery/248420885/Finpath-I-AI-Powered-Finance-SaaS-Dashboard-UIUX",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/acdf4e248420885.69f104d44d61c.png",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Fintech Dashboard 2026：从「数据展示」到「决策引擎」",
+      "body": "Behance 2026 年 Q2 的 Fintech Dashboard 项目出现了一个清晰的范式转移：dashboard 不再只是数据的被动容器，而是主动推送决策建议的引擎。Finpath 的路径规划、Robotter 的置信度信号、以及大量新项目中出现的「下一步行动」卡片——都在说同一件事：最好的金融仪表盘让你做决定，而不只是看数据。",
+      "body_en": "Behance Q2 2026 fintech dashboard projects reveal a clear paradigm shift: dashboards are no longer passive data containers but active decision-suggestion engines. Finpath's path planning, Robotter's confidence signals, and 'next action' cards across new projects all say the same thing: the best financial dashboards help you decide, not just observe.",
+      "tags": [
+        "Decision Engine",
+        "Active UI",
+        "Fintech Dashboard",
+        "Q2 2026"
+      ],
+      "link": "https://www.behance.net/gallery/249000259/Fintech-Dashboard-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f82cbe249000259.69fdd57071f38.png",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "把今天三个 Fintech 项目和之前的观察放在一起，一条进化线越来越清晰：金融 Dashboard 的设计语言正在从「报表逻辑」走向「导航逻辑」。过去的 Dashboard 像 Excel 的可视化升级——给你数据，自己看。现在的 Dashboard 像 Google Maps——不只告诉你在哪，还告诉你怎么走。Robotter 的置信度渐变是「路况信息」，Finpath 的路径规划是「导航路线」。这个隐喻转变意味着什么？设计师的思维模型要从「数据可视化」切换到「决策可视化」——不是 what is，而是 what if。之前说的「金融设计从视觉层下沉到信任层」，现在要再加一层：「从信任层上升到决策层」。用户不只需要信任你的数据，还需要你帮他做决定。这对 AI 的要求不是显示数据，而是解释因果。",
+      "body_en": "Connecting today's three fintech projects with prior observations reveals an increasingly clear evolution: financial dashboard design language is shifting from 'reporting logic' to 'navigation logic.' Old dashboards were visual upgrades of Excel — here's data, figure it out. New dashboards are like Google Maps — not just where you are, but how to get there. Robotter's confidence gradients are 'traffic info,' Finpath's path planning is 'navigation routes.' What does this metaphor shift mean? Designers must switch from 'data visualization' to 'decision visualization' — not what is, but what if. Previously I noted 'finance design sinking from visual layer to trust layer'; now add another: 'rising from trust layer to decision layer.' Users don't just need to trust your data — they need you to help them decide. This requires AI not to display data, but to explain causation.",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Athlevo — Athletic App UX/UI Case Study",
+      "body": "Behance 上一个完整的运动 App UX 案例研究。从用户调研到信息架构到最终界面的完整链路展示。最有价值的不是最终设计（虽然也很好），而是它展示的设计过程：如何从「运动员的一天」这个场景切入，推导出功能优先级。这种从场景到功能的设计方法论，比大多数只展示最终像素的项目有教育意义得多。",
+      "body_en": "A complete athletic app UX case study on Behance. Full chain from user research to information architecture to final interface. The most valuable part isn't the final design (though solid), but the process shown: deriving feature priorities from an 'athlete's day' scenario. This scenario-to-function methodology is far more educational than projects showing only final pixels.",
+      "tags": [
+        "Case Study",
+        "UX Process",
+        "Athletic",
+        "Scenario Design"
+      ],
+      "link": "https://www.behance.net/gallery/215604685/Athlevo-Athletic-App-UXUI-Case-study",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/272b3a215604685.69a84f167f52f.png",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "VYRO AI Glasses — 可穿戴 AI 运动设备网站设计",
+      "body": "AI 智能运动眼镜的产品网站设计。代表了运动可穿戴设备的下一个形态：从手腕（手表/手环）到面部（眼镜）。网站设计用沉浸式 3D 产品展示 + 场景化使用演示，把「戴眼镜运动」这个新行为习惯做了视觉上的正常化处理。产品网站不只卖产品，还在教育市场。",
+      "body_en": "Product website for AI smart sports glasses. Represents wearable sports tech's next form factor: from wrist (watches/bands) to face (glasses). Immersive 3D product showcase + contextual usage demos visually normalize the new behavior of 'exercising with smart glasses.' The product site isn't just selling — it's educating the market.",
+      "tags": [
+        "AI Glasses",
+        "Wearable",
+        "Product Site",
+        "3D Showcase"
+      ],
+      "link": "https://www.behance.net/gallery/245315057/VYRO-AI-Glasses-Website-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/49a519245315057.69aac08955cd5.jpg",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Caily — AI 健康追踪器",
+      "body": "AI 驱动的健康追踪 App 设计。视觉语言清新明亮，和大多数运动 App 的深色系形成鲜明对比。最巧妙的设计：用「心情日记」和「身体数据」双轨并行——左滑是客观数据（心率、步数），右滑是主观感受（心情、精力）。AI 把两者关联起来，发现用户自己注意不到的模式：「你每周三情绪低落，可能和周二晚睡有关」。",
+      "body_en": "AI-powered health tracker app. Fresh, bright visual language contrasting most dark-themed fitness apps. Cleverest design: dual-track 'mood journal' and 'body data' — swipe left for objective data (heart rate, steps), swipe right for subjective feelings (mood, energy). AI correlates both, discovering patterns users miss: 'Your Wednesday mood dips may relate to Tuesday late nights.'",
+      "tags": [
+        "Health Tracker",
+        "Mood + Data",
+        "Pattern Discovery",
+        "Bright UI"
+      ],
+      "link": "https://www.behance.net/gallery/233419915/Caily-AI-Tracker",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/203fc7233419915.68af2a3349d1e.jpg",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "今天运动方向的三个发现暴露了一个行业级的转型信号：运动 AI 正在从「单一维度追踪」走向「全人健康理解」。Athlevo 的场景化设计方法论说明最好的运动产品从「运动员的完整一天」而非「运动那一小时」出发；VYRO 的 AI 眼镜代表可穿戴从手腕向全身扩散的趋势；Caily 把主观情绪和客观数据双轨并行，才是真正的突破——因为运动和健康从来不只是心率和步数。一个大胆预测：2026 下半年，「情绪追踪」会成为运动 App 的标配功能，就像「睡眠追踪」在 2022 年变成标配一样。因为当所有 App 都能追踪你的身体数据时，唯一的差异化就是理解你的「感受」数据。谁先把主观和客观打通，谁就定义了下一代运动健康产品。",
+      "body_en": "Three sports findings today reveal an industry-level transformation signal: sports AI is moving from 'single-dimension tracking' to 'whole-person health understanding.' Athlevo's scenario-based design methodology shows the best sports products start from 'an athlete's full day,' not 'that one hour of exercise'; VYRO's AI glasses represent wearables expanding from wrist to whole body; Caily's dual-track subjective mood + objective data is the real breakthrough — because fitness and health were never just heart rate and steps. Bold prediction: H2 2026, 'mood tracking' becomes standard in fitness apps, just as 'sleep tracking' became standard in 2022. When every app can track your body data, the only differentiation is understanding your 'feeling' data. Whoever bridges subjective and objective first defines next-gen fitness-health products.",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Cruda Magazine — Editorial Design",
+      "body": "Behance 上的独立杂志编辑设计。纯粹的排版力量展示——没有花哨的动效和 3D 元素，全靠字体选择、字号对比、图文比例和留白节奏撑起整个视觉体验。在一个 AI 能快速生成任何视觉效果的时代，这种「回归基本功」的设计反而显得奢侈。每一页都像在说：排版本身就是设计。",
+      "body_en": "Independent magazine editorial design on Behance. Pure typographic power — no flashy animations or 3D, relying entirely on typeface selection, scale contrast, image-text ratio, and whitespace rhythm. In an era where AI can quickly generate any visual effect, this 'back to fundamentals' approach feels luxurious. Every page whispers: typography IS design.",
+      "tags": [
+        "Magazine",
+        "Pure Typography",
+        "Editorial",
+        "Fundamentals"
+      ],
+      "link": "https://www.behance.net/gallery/222596315/Cruda-Magazine-Editorial-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/553056222596315.67f69278e3e56.png",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Art Gallery Digital Platform — 文化内容的数字化表达",
+      "body": "艺术画廊的数字平台设计。把线下画廊的空间感转译到数字界面上——大面积留白模拟展厅空旷感，作品图片的尺寸和间距模拟观展距离，导航极度克制。这不是一个普通的图片展示网站，而是一次「数字空间设计」。对任何做文化/内容平台的设计师都有参考价值：内容的呈现节奏本身就是体验。",
+      "body_en": "Digital platform for art gallery. Translates offline gallery spatial experience to digital interface — generous whitespace simulates gallery emptiness, artwork image sizes and spacing simulate viewing distance, navigation is extremely restrained. Not an ordinary image gallery site but a 'digital spatial design' exercise. Reference for any cultural/content platform designer: content presentation rhythm IS the experience.",
+      "tags": [
+        "Art Gallery",
+        "Spatial Design",
+        "Cultural Platform",
+        "Whitespace"
+      ],
+      "link": "https://www.behance.net/gallery/243474905/Art-Gallery-Digital-Platform-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/e394c9243474905.69825530f020b.png",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Cambridge Audio — 品牌内容设计的教科书",
+      "body": "Cambridge Audio 的品牌网站/内容设计。英国老牌音频品牌的数字表达——用极致克制的排版和配色传达「音质至上」的品牌精神。最值得学习的是它如何用「留白即声场」的隐喻：页面越安静，你越能「听到」产品的价值主张。内容设计的最高境界：不是塞满信息，而是创造聆听的空间。",
+      "body_en": "Cambridge Audio brand website/content design. A British heritage audio brand's digital expression — extremely restrained typography and color conveying 'sound quality first' brand spirit. Most worth studying: the 'whitespace as soundstage' metaphor — the quieter the page, the more you 'hear' the value proposition. Content design at its peak: not filling with information but creating space for listening.",
+      "tags": [
+        "Brand Content",
+        "Audio",
+        "Restraint",
+        "Metaphor Design"
+      ],
+      "link": "https://www.behance.net/gallery/236085265/Cambridge-Audio",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/950193236085265.68e51f70286aa.jpg",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "今天 Content Design 方向的三个项目，合在一起讲了一个正在发生的故事：当 AI 让内容生产变得无限快、无限多的时候，最有价值的设计能力反而是「做减法」和「造空间」。Cruda Magazine 用纯排版证明了好的内容设计不需要任何装饰；Art Gallery 用数字空间设计证明了留白不是空白而是体验的一部分；Cambridge Audio 用「留白即声场」的隐喻证明了品牌内容的最高境界是创造感知空间而非堆砌信息。三个项目的共同点：它们都在做减法，而且减得极度自信。这就是 2026 年 Content Design 最重要的能力分水岭——AI 能帮你加，但只有人能帮你减。因为「减什么」需要判断，需要品味，需要对内容本质的理解。AI 是最好的排版助手，但最差的排版编辑。编辑的核心技能不是排列，是取舍。",
+      "body_en": "Three Content Design projects today tell a story unfolding right now: when AI makes content production infinitely fast and abundant, the most valuable design skill becomes 'subtraction' and 'space creation.' Cruda Magazine proves good content design needs zero decoration through pure typography; Art Gallery proves whitespace isn't emptiness but part of the experience through digital spatial design; Cambridge Audio proves peak brand content creates perceptual space rather than piling information through its 'whitespace as soundstage' metaphor. Common thread: all three subtract with extreme confidence. This is 2026's most important Content Design capability watershed — AI can help you add, but only humans can help you subtract. Because 'what to remove' requires judgment, taste, and understanding of content's essence. AI is the best typesetting assistant but the worst typesetting editor. An editor's core skill isn't arrangement — it's curation.",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Mosey AI Assistant — 友好型 AI 助手品牌设计",
+      "body": "Behance 上的 AI 助手产品设计。和大多数 AI 产品追求「科技感」不同，Mosey 选择了完全相反的方向——圆润、友好、近乎玩具感的视觉语言。配色温暖，图标有手绘质感，字体选择偏人文主义。这不是设计倒退，而是一个重要的定位选择：当 AI 服务日常消费者时，「不吓人」比「很先进」更重要。",
+      "body_en": "AI assistant product design on Behance. Unlike most AI products chasing 'tech sophistication,' Mosey goes the opposite direction — rounded, friendly, almost toy-like visual language. Warm colors, icons with hand-drawn texture, humanist typeface. Not a design regression but an important positioning choice: when AI serves everyday consumers, 'not scary' matters more than 'very advanced.'",
+      "tags": [
+        "Friendly AI",
+        "Consumer Product",
+        "Humanist Design",
+        "Anti-Tech"
+      ],
+      "link": "https://www.behance.net/gallery/245456025/Mosey-AI-Assistant",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/002173245456025.69ae93b009fe4.png",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Modern SaaS AI Platform — 网站 UI/UX 设计",
+      "body": "AI SaaS 平台的网站设计。视觉系统在「可信赖」和「有未来感」之间找到了微妙平衡：不用渐变粒子或科幻元素，而是用精准的网格系统、克制的蓝紫色调、高密度的功能展示建立专业感。像 Stripe 一样把复杂的 AI 能力解释得清楚明了。SaaS 网站设计的核心永远是：别让用户觉得产品很酷，让用户觉得自己用了会很酷。",
+      "body_en": "Website design for AI SaaS platform. Visual system finds subtle balance between 'trustworthy' and 'futuristic': no gradient particles or sci-fi elements, but precise grid systems, restrained blue-purple tones, high-density feature showcase building professionalism. Explains complex AI capabilities as clearly as Stripe does. SaaS website design's eternal core: don't make users think the product is cool — make them think THEY'LL be cool using it.",
+      "tags": [
+        "SaaS Website",
+        "Professional",
+        "Grid System",
+        "Blue-Purple"
+      ],
+      "link": "https://www.behance.net/gallery/245877227/Modern-SaaS-AI-Platform-Website-UIUX-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/e57f74245877227.69b7a6c6bde9b.png",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "ALKAN CIT @ AI Everything 2026 — 展览视觉设计",
+      "body": "AI Everything 2026 展会的品牌/展位视觉设计。把 AI 概念带入物理空间——展位设计用参数化几何结构 + LED 光带 + 交互屏幕构建沉浸式体验。最有趣的是它处理「AI 可见性」的方式：不展示代码或数据，而是用动态光影让参观者「感受」到 AI 的存在。线上品牌视觉如何转化为线下空间体验，这是一个被忽视但极具价值的设计课题。",
+      "body_en": "Brand/booth visual design for AI Everything 2026 exhibition. Bringing AI concepts into physical space — booth uses parametric geometry + LED light strips + interactive screens for immersive experience. Most interesting: how it handles 'AI visibility' — showing not code or data, but using dynamic light and shadow to let visitors 'feel' AI's presence. How online brand visuals translate to offline spatial experience is an overlooked yet highly valuable design topic.",
+      "tags": [
+        "Exhibition Design",
+        "Physical Space",
+        "Parametric",
+        "AI Event"
+      ],
+      "link": "https://www.behance.net/gallery/245064647/ALKAN-CIT-At-AI-Everything-2026-(APPROVED-DESIGN)",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/5f5285245064647.69a5a50ee9c4e.jpg",
+      "date": "2026-05-15"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "今天 Visual for AI 方向的三个项目揭示了 AI 视觉设计的一个新维度：「受众意识」正在分化设计语言。Mosey 的友好型设计服务日常消费者——圆润、温暖、去科技化；SaaS 平台的专业型设计服务企业用户——网格、克制、功能导向；ALKAN 的展览设计服务线下参观者——沉浸、体感、空间化。三个项目用完全不同的视觉语言表达同一个底层技术（AI），而它们都是「对的」。这证实了之前的判断：AI 视觉设计正在从「一种 AI 长一种样」走向「AI 长成用户需要的样子」。但今天多了一个洞察：物理空间中的 AI 视觉设计是一个几乎空白的领域。当 AI 从屏幕走进展厅、零售店、办公室，「AI 的物理存在感」怎么设计？光、材质、空间节奏——这些工业设计/建筑设计的工具会成为下一代 AI 视觉设计师的必备技能。",
+      "body_en": "Three Visual for AI projects today reveal a new dimension: 'audience awareness' is diverging design language. Mosey's friendly design serves everyday consumers — rounded, warm, de-teched; the SaaS platform's professional design serves enterprise — grid, restrained, function-oriented; ALKAN's exhibition design serves physical visitors — immersive, tactile, spatial. Three projects use completely different visual languages to express the same underlying technology (AI), and they're all 'correct.' This confirms prior judgment: AI visual design moves from 'one AI, one look' to 'AI looks like what users need.' But today adds an insight: AI visual design in physical space is a nearly blank field. As AI moves from screens into exhibition halls, retail stores, offices — how do you design 'AI's physical presence'? Light, material, spatial rhythm — industrial design and architecture tools will become essential for next-gen AI visual designers.",
+      "date": "2026-05-15"
     }
   ]
 }
