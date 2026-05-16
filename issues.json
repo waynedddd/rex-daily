@@ -3,6 +3,108 @@
     "date": "2026-05-16",
     "section": "design",
     "title": {
+      "zh": "Google Stitch「Vibe Design」正式宣战 Figma——免费 AI 设计平台让 Figma 股价跌 8.8%，AI 设计工具市场从「谁最强」变成「谁解决什么问题」",
+      "en": "Google Stitch 'Vibe Design' Declares War on Figma — Free AI Design Platform Tanks Figma Stock 8.8%, as AI Design Tool Market Shifts from 'Who's Best' to 'Who Solves What'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Google Stitch 3 月大更新后持续发酵：免费 AI-native 设计平台正在吃掉 Figma 的午餐</strong> — Google Stitch 自 2025 年 I/O 以「文本生成 UI」实验起步，3 月 18 日大更新后已进化为完整的 AI-native 设计平台：多屏生成、无限画布、语音交互（Voice Canvas）、4 种 AI 模式、即时可交互原型、DESIGN.md 设计系统导出、Agent Manager 并行探索多个设计方向。最关键的是——<strong>完全免费，无需信用卡</strong>。Figma 股价在公告后下跌 8.8%，投资者对 Google 以免费策略颠覆 $32 亿 UI 设计市场感到恐慌。NxCode 的对比分析指出：Stitch 主导 0-to-1 概念探索阶段，Figma 主导 1-to-100 精细化和设计系统阶段——两者正在划分领地而非直接替代。<br><small>来源：<a href=\"https://tech-insider.org/google-stitch-ai-design-tool-march-2026-update/\">Tech Insider</a> / <a href=\"https://www.nxcode.io/resources/news/google-stitch-complete-guide-vibe-design-2026\">NxCode</a> / <a href=\"https://www.nxcode.io/resources/news/google-stitch-vs-figma-ai-design-comparison-2026\">NxCode 对比分析</a></small></li><li><strong>AI 设计工具市场碎片化加速：Banani、Flowstep、Motiff、UX Pilot 各占赛道</strong> — toools.design 的深度评测揭示了 2026 年 AI 设计工具的真实格局：不再是「谁能做一切」，而是「谁在特定场景下最强」。Figma Make（$16/月，生态内 AI 生成）、Flowstep（多屏工作流 + 一键复制到 Figma）、Motiff（生产级 React/HTML 代码导出）、Banani（截图反向生成 UI + MCP 导出）、UX Pilot（研究到原型一站式）——每个工具解决不同痛点。Medium 上的 Bootcamp 评测也证实：这些工具不是在解决同一个问题，有的重速度，有的重结构，有的重代码质量。<br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">toools.design</a> / <a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">Medium Bootcamp</a></small></li><li><strong>Stitch 推出 DESIGN.md 导出——「可移植设计系统」概念正在改写设计师的交付物定义</strong> — Google Labs 博客 4 月 21 日发布了 Stitch DESIGN.md 功能的详细说明。设计师在 Stitch 中创建的设计系统可以导出为结构化 Markdown 文件，这个文件不仅人类可读，还能直接被 AI 编码工具（Claude Code、Google AI Studio）理解并生成前端代码。Banani 的指南也指出：2026 年 AI design-to-code 的核心不再是「导出像素完美的代码」，而是「导出 AI 和人类都能理解的设计意图」。<br><small>来源：<a href=\"https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/\">Google Labs Blog</a> / <a href=\"https://www.banani.co/blog/ai-design-to-code-tools\">Banani</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>免费 vs 付费的「设计工具战争 2.0」</strong>：Google 用免费 Stitch 搅局，Figma 需要证明协作和设计系统生态值 $13,200/年/20 人团队的价格</li><li><strong>AI 设计工具从「全能型」走向「专精型」</strong>：每个工具找到自己的 sweet spot，设计师需要组合使用而非选一个</li><li><strong>DESIGN.md 成为设计到代码的新标准</strong>：Markdown 正在成为设计系统的通用语言，连接 AI 生成和人类审核</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>Figma 股价跌 8.8% 背后，是一个更深层的问题：设计工具的价值锚点正在被 AI 重新定义。</strong></p><p>让我先说清楚一件事：Google Stitch 不会「杀死」Figma，但它正在从根基上动摇 Figma 的定价逻辑。Figma 的护城河从来不是「能画 UI」——而是协作生态、设计系统管理、和数千个插件构成的工作流锁定。但 Stitch 的免费策略在做的事情更阴险：它在改变设计师对「第一步」的习惯。当一个设计师习惯了「先在 Stitch 里用自然语言探索 10 个方向，再把最好的导入 Figma 精细化」，Figma 就从「设计的起点」退化成了「设计的终点站」。这对 Figma 的用户时长和心智占位是致命打击。</p><p>更让我兴奋的是工具市场的碎片化趋势。toools.design 的评测数据很有说服力：Figma Make 在生态内 AI 生成最顺滑、Flowstep 在多屏工作流最强、Motiff 导出的代码质量最高、Banani 的截图反向生成最实用、UX Pilot 的研究到原型链路最完整。<strong>这意味着 2026 年的设计师不再是选择「一个工具」，而是组装「一条工具链」。</strong>这和软件开发领域 10 年前的演变惊人地相似——从 IDE 一体化到 VS Code + 插件生态。设计工具的未来也是模块化的。</p><p>但我最想聊的是 DESIGN.md。上期日报提到了这个趋势，这周 Google Labs 正式发布了 Stitch 的 DESIGN.md 导出功能——设计系统以 Markdown 格式导出，AI 编码工具可以直接消费。加上 Banani 的 design-to-code 指南明确指出「2026 年的核心不是导出像素完美的代码，而是导出设计意图」，一个新范式正在形成：<strong>设计师的最终交付物不再是视觉稿，而是一份结构化的意图描述，由 AI 负责翻译成代码。</strong></p><p>这对设计师意味着什么？如果你的价值是「把需求翻译成界面」，AI 已经在抢你的活了。但如果你的价值是「定义什么样的界面才能解决问题」——选择哪个信息架构、什么交互模式能减少用户认知负担、哪种视觉层级能引导注意力——那 DESIGN.md 正在把你的判断力变成机器可执行的指令。<strong>Stitch 和 Figma 的竞争不是重点，重点是整个行业正在从「设计像素」转向「设计意图」。</strong>能用语言精确描述设计决策的人，将比只会用鼠标画图的人值钱十倍。</p></div>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Google Stitch's March Update Keeps Reverberating: Free AI-Native Design Platform Is Eating Figma's Lunch</strong> — Since launching at I/O 2025 as a text-to-UI experiment, Google Stitch evolved into a complete AI-native design platform after its March 18 update: multi-screen generation, infinite canvas, Voice Canvas, 4 AI modes, instant interactive prototypes, DESIGN.md export, and Agent Manager for parallel design exploration. Most critically — <strong>completely free, no credit card required</strong>. Figma stock dropped 8.8% post-announcement. NxCode's comparison analysis notes: Stitch dominates the 0-to-1 ideation phase while Figma dominates 1-to-100 refinement — they're carving territories, not directly replacing each other.<br><small>Source: <a href=\"https://tech-insider.org/google-stitch-ai-design-tool-march-2026-update/\">Tech Insider</a> / <a href=\"https://www.nxcode.io/resources/news/google-stitch-complete-guide-vibe-design-2026\">NxCode</a> / <a href=\"https://www.nxcode.io/resources/news/google-stitch-vs-figma-ai-design-comparison-2026\">NxCode Comparison</a></small></li><li><strong>AI Design Tool Market Fragments Rapidly: Banani, Flowstep, Motiff, UX Pilot Each Own Their Lane</strong> — toools.design's deep review reveals the real 2026 AI design tool landscape: it's no longer about \"who does everything\" but \"who's strongest in which scenario.\" Figma Make ($16/mo, in-ecosystem AI generation), Flowstep (multi-screen workflows + one-click Figma copy), Motiff (production-ready React/HTML export), Banani (screenshot-to-UI reverse engineering + MCP export), UX Pilot (research-to-prototype pipeline) — each solves different pain points.<br><small>Source: <a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">toools.design</a> / <a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">Medium Bootcamp</a></small></li><li><strong>Stitch Launches DESIGN.md Export — 'Portable Design Systems' Redefining What Designers Deliver</strong> — Google Labs published details on Stitch's DESIGN.md feature on April 21. Design systems created in Stitch export as structured Markdown files readable by both humans and AI coding tools (Claude Code, Google AI Studio). Banani's guide confirms: the 2026 design-to-code core isn't \"exporting pixel-perfect code\" but \"exporting design intent that both AI and humans understand.\"<br><small>Source: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/\">Google Labs Blog</a> / <a href=\"https://www.banani.co/blog/ai-design-to-code-tools\">Banani</a></small></li></ul><h3>🔄 Trends</h3><ul><li><strong>Free vs Paid 'Design Tool Wars 2.0'</strong>: Google disrupts with free Stitch; Figma must prove collaboration and design system ecosystem justifies $13,200/year for a 20-person team</li><li><strong>AI Design Tools Go from 'All-in-One' to 'Specialized'</strong>: Each tool finds its sweet spot; designers need tool chains, not a single tool</li><li><strong>DESIGN.md as New Design-to-Code Standard</strong>: Markdown becomes the universal language connecting AI generation and human review</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>Behind Figma's 8.8% stock drop lies a deeper question: AI is redefining the value anchor of design tools.</strong></p><p>Let me be clear: Google Stitch won't \"kill\" Figma, but it's shaking Figma's pricing logic at its foundation. Figma's moat was never \"can draw UI\" — it's the collaboration ecosystem, design system management, and thousands of plugins creating workflow lock-in. But Stitch's free strategy is doing something more insidious: changing designers' habits around \"the first step.\" When a designer gets used to \"explore 10 directions in Stitch with natural language first, then import the best to Figma for refinement,\" Figma degrades from \"where design starts\" to \"where design ends.\" That's devastating for user time-share and mindshare.</p><p>The market fragmentation excites me even more. toools.design's review data is compelling: Figma Make is smoothest for in-ecosystem AI generation, Flowstep strongest for multi-screen workflows, Motiff produces the highest code quality, Banani's screenshot reverse-engineering is most practical, UX Pilot has the most complete research-to-prototype pipeline. <strong>This means 2026 designers aren't choosing \"one tool\" — they're assembling \"a toolchain.\"</strong> This mirrors software development's evolution a decade ago from monolithic IDEs to VS Code + plugin ecosystems.</p><p>But DESIGN.md is what I really want to discuss. Last issue covered this trend; this week Google Labs officially shipped Stitch's DESIGN.md export. Combined with Banani's guide explicitly stating \"2026's core isn't pixel-perfect code export but design intent export,\" a new paradigm is forming: <strong>designers' final deliverable is no longer a visual spec but a structured intent description, with AI handling the translation to code.</strong></p><p>The Stitch vs Figma competition isn't the point. The point is the entire industry shifting from \"designing pixels\" to \"designing intent.\" Those who can precisely articulate design decisions in language will be worth ten times more than those who can only draw with a mouse.</p></div>"
+    },
+    "cover": "https://tech-insider.org/wp-content/uploads/2026/03/google-stitch-ai-design-tool-march-2026-update-1.jpg",
+    "sources": [
+      {
+        "url": "https://tech-insider.org/google-stitch-ai-design-tool-march-2026-update/",
+        "title": {
+          "zh": "Tech Insider: Google Stitch AI 设计工具 2026 年 3 月大更新",
+          "en": "Tech Insider: Google Stitch AI Design Tool March 2026 Update"
+        },
+        "image": "https://tech-insider.org/wp-content/uploads/2026/03/google-stitch-ai-design-tool-march-2026-update-1.jpg"
+      },
+      {
+        "url": "https://www.nxcode.io/resources/news/google-stitch-vs-figma-ai-design-comparison-2026",
+        "title": {
+          "zh": "NxCode: Google Stitch vs Figma 2026 对比",
+          "en": "NxCode: Google Stitch vs Figma 2026 Comparison"
+        },
+        "image": "https://www.nxcode.io/images/news/google-stitch-complete-guide-2026.svg"
+      },
+      {
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "title": {
+          "zh": "toools.design: 2026 年 9 款最佳 AI UI/UX 设计工具",
+          "en": "toools.design: 9 Best AI Tools for UI/UX Designers in 2026"
+        },
+        "image": ""
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/",
+        "title": {
+          "zh": "Google Labs: Stitch DESIGN.md 功能发布",
+          "en": "Google Labs: Stitch DESIGN.md Feature Launch"
+        },
+        "image": ""
+      },
+      {
+        "url": "https://www.banani.co/blog/ai-design-to-code-tools",
+        "title": {
+          "zh": "Banani: AI 设计到代码工具完整指南",
+          "en": "Banani: AI Design-to-Code Tools Complete Guide"
+        },
+        "image": "https://framerusercontent.com/images/X7STa0NAyIaUEyOCjBkAxLkNbTk.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "section": "tech",
+    "title": {
+      "zh": "美国商务部正式签约 Google、Microsoft、xAI 进行 AI 模型发布前安全测试，Q1 2026 全球 VC 融资破纪录达 $3000 亿——AI 监管和 AI 资本同时加速，这不是矛盾",
+      "en": "US Commerce Dept Signs Pre-Release AI Safety Testing Deals with Google, Microsoft, xAI; Q1 2026 Global VC Hits Record $300B — AI Regulation and AI Capital Accelerating Simultaneously Is Not a Contradiction"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>美国 CAISI 正式与 Google DeepMind、Microsoft、xAI 签署前沿 AI 安全测试协议</strong> — 美国商务部下属的 NIST CAISI（Center for AI Safety and Innovation）5 月 5 日宣布，已与 Google DeepMind、Microsoft 和 xAI 签署协议，将在 AI 模型公开发布前进行安全评估和针对性研究。这是对拜登时期 OpenAI 和 Anthropic 协议的扩展。BBC 报道指出，此举标志着特朗普政府对 AI 监管态度的微妙转变——从完全放手到选择性介入。Axios 报道白宫正在准备一项行政命令，可能建立针对所有新 AI 模型的审查体系，Anthropic 的 Mythos 模型被列为重点关注对象。CIO.com 分析称，CAISI 协议特别关注 agentic AI（自主 AI 代理）的安全性——这正是当下所有科技巨头全力推进的方向。<br><small>来源：<a href=\"https://www.bbc.com/news/articles/cgjp2we2j8go\">BBC</a> / <a href=\"https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety\">Axios</a> / <a href=\"https://www.politico.com/news/2026/05/05/microsoft-xai-google-caisi-safety-testing-00906529\">Politico</a> / <a href=\"https://www.theguardian.com/technology/2026/may/05/commerce-department-ai-agreements-google-microsoft-xai\">The Guardian</a></small></li><li><strong>Q1 2026 全球 VC 融资达 $3000 亿，创历史纪录——AI 占 81%，仅 4 家 AI 公司融 $1880 亿</strong> — Crunchbase 数据显示，2026 年 Q1 全球风险投资达到 $3000 亿，环比增长超 150%，同比增长 151%，刷新历史纪录。AI 占据全球投资的 81%。最惊人的数据：仅 4 家 AI 公司（推测为 OpenAI、Anthropic、xAI、以及一家基础设施公司）就融了 $1880 亿——占 Q1 总融资的 63%。Crunchbase 研究负责人 Gené Teare 指出，资本正在向两极集中：底层基础设施（芯片、数据中心、模型训练）和垂直应用层（行业特定 AI 解决方案），中间的通用工具层面临挤压。<br><small>来源：<a href=\"https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/\">Crunchbase</a> / <a href=\"https://news.crunchbase.com/venture/building-successful-startup-vertical-ai-schroder-mgv/\">Crunchbase 分析</a> / <a href=\"https://finance.yahoo.com/sectors/technology/articles/ai-startups-capture-242b-global-174530064.html\">Yahoo Finance</a></small></li><li><strong>Google I/O 2026 下周二开幕倒计时：Android XR 眼镜实机预览确认、Gemini 模型升级、AI 游戏体验预热</strong> — Google 确认将在 I/O 2026 上预览 Android XR 智能眼镜的消费者版本，展示 Gemini 驱动的可穿戴 AI 如何融入 Android 生态。Android Authority 预计还将有 Gemini 模型重大升级，可能包括新的多模态能力。同时，Google 发布了 I/O「Save the Date」AI 游戏体验——用 Gemini 构建的 5 款 AI 游戏，展示 AI 如何赋能游戏开发。Mashable 指出，去年 I/O 的 AI Mode 是最大新闻，今年预计 AI 搜索和 Agent 能力将是焦点。<br><small>来源：<a href=\"https://www.androidauthority.com/what-to-expect-from-google-io-2026-3664979/\">Android Authority</a> / <a href=\"https://mashable.com/article/google-io-2026-what-to-expect\">Mashable</a> / <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/io-save-the-date-2026-gemini/\">Google Blog</a></small></li><li><strong>OpenAI 与 Microsoft 正式解除独家合作协议，开放模型授权给第三方</strong> — Bloomberg 报道，OpenAI 和 Microsoft 已决定取消 AI 模型的独家授权关系。此举意味着 OpenAI 的模型（包括未来版本）将可授权给其他云服务商和企业。Reuters 同期报道，OpenAI CEO Sam Altman 正在法庭上为公司的营利化转型辩护，否认背叛 Elon Musk。这两件事叠加，显示 OpenAI 正在加速从「非营利 AI 实验室」向「全球 AI 平台公司」转型。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=qSBZbMSSwDc\">Bloomberg</a> / <a href=\"https://www.reuters.com/technology/artificial-intelligence/\">Reuters</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>AI 监管从「考虑」进入「执行」</strong>：CAISI 协议 + 白宫行政命令 = 美国建立了事实上的 AI 发布前审查体系</li><li><strong>VC 资本史无前例地集中于 AI</strong>：$3000 亿 Q1 融资中 81% 是 AI，4 家公司占 63%——这是历史上最极端的资本集中</li><li><strong>OpenAI 解锁「平台化」模式</strong>：解除 Microsoft 独家 = 多云分发 + 更大的市场覆盖 + 更高估值</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>当美国政府一边签协议审查 AI 模型、一边让五角大楼用同一批公司的 AI 做机密项目时，你看到的不是政策矛盾——你看到的是 21 世纪版的核技术治理模式。</strong></p><p>CAISI 协议的细节值得细看。它不只是「测测安全性」——CIO.com 的分析指出，重点关注的是 agentic AI 的安全评估。为什么是 agentic AI？因为当 AI 从「回答问题」进化到「自主执行多步骤任务」时，风险模型完全不同。一个会聊天的 AI 最多给你错误信息；一个能自主操作数据库、发送邮件、调用 API 的 Agent，如果失控，后果是实际的系统损害。<strong>CAISI 的介入时机精准——恰好在 SAP 推出 50+ Joule Agent、Google 推出 Gemini Intelligence、Microsoft 推出新一代 Copilot Agent 的节点上。</strong>政府不是在事后补救，而是在产业全面 Agent 化之前建立检查站。</p><p>$3000 亿 Q1 融资的数据表面上很疯狂，但如果你拆开看，其实很理性——或者说，理性地疯狂。81% 流向 AI，4 家公司拿走 63%。这说明资本已经形成了极度清晰的投资框架：<strong>要么投基础设施层的头部玩家（确定性高、赢者通吃），要么投垂直应用层的小公司（找到具体行业的 PMF）。</strong>Crunchbase 的分析也确认了这一点——中间的通用 AI 工具层正在被挤压。如果你既不是 OpenAI/Anthropic/xAI 级别的基础模型公司，又没有深入某个垂直行业，2026 年的融资环境对你非常不友好。</p><p>OpenAI 解除与 Microsoft 的独家协议是本周最被低估的新闻。表面上看是商业决策——多云分发能扩大市场覆盖。但深层逻辑是：<strong>OpenAI 正在从「Microsoft 的 AI 引擎」重新定位为「全球 AI 基础设施平台」。</strong>它的竞争对手不再只是 Google 和 Anthropic——而是 AWS、Azure、GCP 这些云平台本身。当 OpenAI 的模型可以在任何云上运行时，它就变成了一个跨云的「AI 操作系统」。这对 Microsoft 来说是利空（失去独家优势），对行业来说是利好（减少锁定），对 OpenAI 来说是豪赌（需要证明品牌和模型质量能在开放市场中赢）。</p><p>把这些串起来看，2026 年 5 月的 AI 产业画像是这样的：资本以前所未有的速度和集中度涌入（$3000 亿/季度）；政府以前所未有的速度建立监管框架（CAISI + 行政命令）；头部公司以前所未有的速度解锁新的商业模式（OpenAI 去独家化）；Google I/O 下周二可能再次重新定义消费级 AI 的形态。<strong>这不是泡沫——泡沫的特征是「所有人都在投同一个方向」。而现在，资本、政府、和公司正在同时从不同方向塑造 AI 的未来。</strong>这更像是 1990 年代末的互联网：确实有过热的部分，但基础性的结构变革是真实的。</p></div>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>US CAISI Formally Signs Pre-Release AI Safety Testing Agreements with Google DeepMind, Microsoft, and xAI</strong> — NIST's CAISI announced on May 5 that it signed agreements with Google DeepMind, Microsoft, and xAI for pre-deployment safety evaluations and targeted research on frontier AI models. This expands Biden-era agreements with OpenAI and Anthropic. BBC notes this marks a subtle shift in the Trump administration's approach — from complete hands-off to selective intervention. Axios reports the White House is preparing an executive order that could establish a vetting system for all new AI models, with Anthropic's Mythos model flagged as a key focus. CIO.com analysis highlights CAISI's specific focus on agentic AI safety.<br><small>Source: <a href=\"https://www.bbc.com/news/articles/cgjp2we2j8go\">BBC</a> / <a href=\"https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety\">Axios</a> / <a href=\"https://www.politico.com/news/2026/05/05/microsoft-xai-google-caisi-safety-testing-00906529\">Politico</a> / <a href=\"https://www.theguardian.com/technology/2026/may/05/commerce-department-ai-agreements-google-microsoft-xai\">The Guardian</a></small></li></ul>"
+    },
+    "cover": "https://ichef.bbci.co.uk/news/1024/branded_news/78a3/live/9a5fdc10-48b5-11f1-90e6-350a323e11ac.jpg",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/cgjp2we2j8go",
+        "title": {
+          "zh": "BBC: 美国将对 Google、Microsoft、xAI 新 AI 模型进行安全测试",
+          "en": "BBC: US to Safety Test New AI Models from Google, Microsoft, xAI"
+        },
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/78a3/live/9a5fdc10-48b5-11f1-90e6-350a323e11ac.jpg"
+      },
+      {
+        "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+        "title": {
+          "zh": "Crunchbase: Q1 2026 风险投资破纪录达 $3000 亿",
+          "en": "Crunchbase: Q1 2026 Shatters Venture Funding Records at $300B"
+        },
+        "image": ""
+      },
+      {
+        "url": "https://www.androidauthority.com/what-to-expect-from-google-io-2026-3664979/",
+        "title": {
+          "zh": "Android Authority: Google I/O 2026 值得期待的内容",
+          "en": "Android Authority: What to Expect from Google I/O 2026"
+        },
+        "image": ""
+      },
+      {
+        "url": "https://www.theguardian.com/technology/2026/may/05/commerce-department-ai-agreements-google-microsoft-xai",
+        "title": {
+          "zh": "The Guardian: 美国与科技公司签署 AI 模型审查协议",
+          "en": "The Guardian: US and Tech Firms Strike Deal to Review AI Models"
+        },
+        "image": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "section": "design",
+    "title": {
       "zh": "Figma「设计师现状 2026」报告：AI 不是在抢饭碗，而是在制造新岗位——91% 设计师说目标清晰才能做好工作，而 AI 正在让「工匠精神」重新值钱",
       "en": "Figma 'State of the Designer 2026': AI Isn't Taking Jobs, It's Creating Them — 91% Say Clear Goals Drive Best Work, and AI Is Making Craft Valuable Again"
     },
