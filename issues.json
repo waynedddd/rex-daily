@@ -1,5 +1,99 @@
 [
   {
+    "date": "2026-05-17",
+    "section": "design",
+    "title": {
+      "zh": "Figma「State of the Designer 2026」报告：AI 推动设计师需求上升而非取代——91% 设计师认为清晰目标是关键，craft 成为 AI 时代的终极差异化",
+      "en": "Figma's 'State of the Designer 2026' Report: AI Is Driving Designer Demand Up, Not Replacing Them — 91% Say Clear Goals Matter Most, Craft Becomes the Ultimate Differentiator in the AI Era"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma「State of the Designer 2026」：AI 正在推动设计招聘回暖</strong> — Figma 发布年度报告，核心发现令人意外：AI 并没有减少设计师岗位，反而在驱动设计招聘的新一轮增长。报告数据显示，91% 的设计师认为清晰的目标和期望有助于他们发挥最佳水平。配套分析「Why Demand for Designers Is on the Rise」指出：招聘经理正优先招聘具备 AI 技能的设计师。一位澳大利亚科技行业受访者直言：「所有新招聘都基于 AI 技能和知识。」在任何人都可以用 prompt 生成原型的时代，craft（工艺）成为产品差异化的关键。<br><small>来源：<a href=\"https://www.figma.com/blog/state-of-the-designer-2026/\">Figma Blog</a> / <a href=\"https://www.figma.com/blog/why-demand-for-designers-is-on-the-rise/\">Figma: Why Demand for Designers Is on the Rise</a></small></li><li><strong>Designlab「State of AI in UX & Product Design 2026」：设计不再只是画图</strong> — Designlab 同期发布的行业报告确认了 Figma 的发现：2026 年的设计已经从「画界面」转向「AI 增强工作流 + 数据驱动决策」。报告指出，设计师需要掌握 AI 工具来优化研究、原型设计和用户测试。toools.design 和 Designfest 的独立评测也列出了 2026 年设计师应该掌握的 AI 工具链：Figma Make（生态内 AI 生成）、UX Pilot（研究到原型一站式）、Visily（快速线框协作）、Flowstep（多屏工作流）——工具越来越专精，设计师需要组装工具链而非选一个「全能型」产品。<br><small>来源：<a href=\"https://designlab.com/blog/ai-in-ux-product-design-trends-2026\">Designlab</a> / <a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">toools.design</a> / <a href=\"https://designfest.framer.media/blogs/ai-tools-every-uiux-designer-should-try\">Designfest</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>AI 没有取代设计师，而是重新定义了「好设计师」的标准</strong>：会用 AI 工具 + 有 craft 的设计师供不应求</li><li><strong>设计招聘标准从「会 Figma」变成「会 AI + Figma」</strong>：AI 技能成为必备项而非加分项</li><li><strong>Craft 的回归</strong>：当 AI 让所有人都能生成「还行」的设计时，真正的工艺和审美判断变得更稀缺、更值钱</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>Figma 这份报告的时机和内容都很有意思——它本质上是 Figma 对「AI 取代设计师」恐慌叙事的官方回应，但里面藏着比 PR 稿更深的洞察。</strong></p><p>先说数据层面的核心发现：AI 正在推动设计招聘回暖。这乍一看违反直觉——AI 不是在自动化设计工作吗？为什么反而需要更多设计师？答案藏在报告的一句话里：「在任何人都可以用 AI prompt 出原型的时代，craft 是区分产品的关键。」翻译一下：<strong>正因为 AI 把设计的「执行门槛」降到了零，设计的「判断门槛」反而在升高。</strong>当产品经理都能用 Stitch 或 Figma Make 生成一个「看起来还行」的界面时，企业需要真正懂设计的人来判断：哪个方案解决了真正的用户问题？哪个交互模式减少了认知负担？哪种视觉语言传达了正确的品牌情感？</p><p>更有意思的是招聘侧的变化。「所有新招聘都基于 AI 技能和知识」——这句来自澳大利亚科技行业的受访者说的话，代表了一个正在全球蔓延的趋势。但这里的「AI 技能」不是指「会写 prompt」这么简单。我判断它指的是三层能力：1) 知道什么时候用 AI、什么时候不用（判断力）；2) 能用 AI 工具快速验证假设而不是漫无目的地生成（方法论）；3) 能把 AI 生成的结果提升到专业水准（craft）。<strong>Designlab 和 toools.design 的工具评测也在印证这一点——2026 年的设计师不是选一个工具，而是组装一条工具链</strong>：UX Pilot 做研究，Figma Make 做快速迭代，Motiff 导出代码，每个环节用最合适的 AI 工具。这和开发者的工作方式正在趋同。</p><p>把这份报告和上期日报的 Google Stitch、DESIGN.md 趋势连起来看，一个更大的图景正在浮现：<strong>设计行业正在经历一次「价值链重组」。</strong>底层的「像素推移」工作被 AI 自动化了（Stitch、Figma Make），中间的「设计意图描述」被结构化了（DESIGN.md），顶层的「战略判断和审美决策」变得更稀缺。Figma 的报告数据证实了这个判断——被淘汰的不是设计师，而是「只会执行不会判断的设计师」。如果你是一个能用语言精确描述设计决策、能组装 AI 工具链快速迭代、同时又有足够 craft 把最终产出做到专业水准的设计师，2026 年的市场对你来说从未如此好。反之，如果你的核心竞争力还是「会画 Figma」——抱歉，这个能力已经被 AI 商品化了。</p></div>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma's 'State of the Designer 2026': AI Is Driving Design Hiring Back Up</strong> — Figma's annual report delivers a counterintuitive finding: AI isn't reducing designer jobs — it's driving a new wave of design hiring. 91% of designers say clear goals and expectations help them do their best work. The companion analysis 'Why Demand for Designers Is on the Rise' notes that hiring managers are prioritizing designers with AI skills. An Australian tech respondent states: 'All new hiring is based on AI skills and knowledge.' In an era where anyone can prompt their way to a prototype, craft becomes the key product differentiator.<br><small>Source: <a href=\"https://www.figma.com/blog/state-of-the-designer-2026/\">Figma Blog</a> / <a href=\"https://www.figma.com/blog/why-demand-for-designers-is-on-the-rise/\">Figma: Why Demand for Designers Is on the Rise</a></small></li><li><strong>Designlab's 'State of AI in UX & Product Design 2026': Design Is No Longer Just Drawing</strong> — Designlab's industry report confirms Figma's findings: 2026 design has shifted from 'drawing interfaces' to 'AI-augmented workflows + data-driven decision making.' Designers need specialized AI toolchains: Figma Make for in-ecosystem generation, UX Pilot for research-to-prototype, Visily for rapid wireframing, Flowstep for multi-screen workflows.<br><small>Source: <a href=\"https://designlab.com/blog/ai-in-ux-product-design-trends-2026\">Designlab</a> / <a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">toools.design</a></small></li></ul><h3>🔄 Trends</h3><ul><li><strong>AI isn't replacing designers — it's redefining what a 'good designer' looks like</strong></li><li><strong>Hiring criteria shifting from 'knows Figma' to 'knows AI + Figma'</strong></li><li><strong>The return of craft</strong>: when AI makes 'decent' design accessible to everyone, true craftsmanship becomes scarcer and more valuable</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>Figma's report is strategically timed — it's their official counter to the 'AI replaces designers' panic narrative, but it contains deeper insights than typical PR.</strong></p><p>The core finding: AI is driving design hiring back up. This seems counterintuitive — isn't AI automating design work? The answer lies in one line: 'In an era where anyone can prompt their way to a prototype, craft is what sets products apart.' Translation: <strong>precisely because AI dropped the 'execution barrier' to zero, the 'judgment barrier' is rising.</strong> When PMs can generate a 'decent-looking' interface with Stitch or Figma Make, companies need real designers to determine: which solution actually solves the user problem? Which interaction pattern reduces cognitive load? Which visual language conveys the right brand emotion?</p><p>The hiring shift is even more telling. 'All new hiring is based on AI skills and knowledge' — this represents a global trend. But 'AI skills' doesn't just mean 'can write prompts.' It means three layers: 1) knowing when to use AI and when not to (judgment); 2) using AI tools to rapidly validate hypotheses (methodology); 3) elevating AI-generated output to professional standards (craft). <strong>The design industry is undergoing a 'value chain restructuring.'</strong> Pixel-pushing is automated, design intent is structured (DESIGN.md), and strategic judgment becomes scarcer. What's being eliminated isn't designers — it's 'designers who only execute without judging.'</p></div>"
+    },
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/8933b0df528b5ce8a07d94f60b731618c13646a7-3204x1800.png?w=1200&q=70&fit=max&auto=format",
+    "sources": [
+      {
+        "url": "https://www.figma.com/blog/state-of-the-designer-2026/",
+        "title": {
+          "zh": "Figma: State of the Designer 2026 报告",
+          "en": "Figma: State of the Designer 2026 Report"
+        },
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/8933b0df528b5ce8a07d94f60b731618c13646a7-3204x1800.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "url": "https://www.figma.com/blog/why-demand-for-designers-is-on-the-rise/",
+        "title": {
+          "zh": "Figma: 为什么设计师需求正在上升",
+          "en": "Figma: Why Demand for Designers Is on the Rise"
+        },
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/465e318397fd0d6a12569517893065ad17d5520f-1200x675.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "url": "https://designlab.com/blog/ai-in-ux-product-design-trends-2026",
+        "title": {
+          "zh": "Designlab: 2026 年 AI 在 UX 和产品设计中的现状",
+          "en": "Designlab: The State of AI in UX & Product Design 2026"
+        },
+        "image": "https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/699dd529de1ff42062385652_State%20of%20AI%20in%20UX%20%26%20Product%20Design_%202026%20(2)%20(1).webp"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-17",
+    "section": "tech",
+    "title": {
+      "zh": "Google I/O 2026 前瞻三连击：Gemini Intelligence 重塑 Android、OpenAI 准备起诉 Apple、Aluminium OS 今秋发布——三大巨头同时重新定义自己的位置",
+      "en": "Google I/O 2026 Triple Strike: Gemini Intelligence Reshapes Android, OpenAI Prepares Legal Action Against Apple, Aluminium OS Launching This Fall — Three Giants Simultaneously Redefining Their Positions"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Google I/O 2026 (5月19日) Android Show 前瞻：Gemini Intelligence 成为 Android 核心支柱</strong> — Google 在 I/O 前的 Android Show 上提前发布大量消息。最重磅的是 Gemini Intelligence——不再是一个 App 或功能，而是将成为 Android 的底层智能系统，可代理用户执行多步骤任务。同时发布 Gemini 3.1 Flash Live（语音优先 AI 模型）、Android XR 眼镜消费者版预览、Googlebooks 全新笔记本品类（运行 Aluminium OS，Acer/ASUS/Lenovo 首批合作）、Android 17、Material 3 Expressive、Magic Pointer（AI 驱动的上下文感知交互）。eWeek 报道暗示可能还有对标 GPT-5.5 的新 Gemini 模型，以及 always-on agent 方案。<br><small>来源：<a href=\"https://www.androidauthority.com/what-to-expect-from-google-io-2026-3664979/\">Android Authority</a> / <a href=\"https://mashable.com/article/google-io-2026-what-to-expect\">Mashable</a> / <a href=\"https://www.eweek.com/news/google-gemini-model-io-ai-agents/\">eWeek</a> / <a href=\"https://www.tomsguide.com/phones/live/the-android-show-google-i-o-edition-live-all-the-latest-android-gemini-ai-and-android-xr-news-as-it-happens\">Tom's Guide</a></small></li><li><strong>OpenAI 准备起诉 Apple：ChatGPT 集成未达预期，两年合作面临破裂</strong> — Bloomberg、NYT、TechCrunch 密集报道：OpenAI 对与 Apple 的两年 ChatGPT 集成合作极度失望。核心矛盾是 ChatGPT 在 iOS 中的集成未能带来预期的订阅用户增长——集成入口难以被用户发现，Siri 和 Visual Intelligence 中的 ChatGPT 调用路径太深。OpenAI 已聘请外部律所探索法律选项，可能发送违约通知。关键背景：Apple 今年 1 月宣布将使用 Google Gemini 为 Siri 提供 AI 能力，进一步边缘化了 OpenAI。目前讨论仍在探索阶段，未正式提起诉讼。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/\">TechCrunch</a> / <a href=\"https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html\">NYT</a> / <a href=\"https://www.trendingtopics.eu/openai-eyes-legal-action-against-apple-over-failed-chatgpt-integration/\">Trending Topics</a></small></li><li><strong>Aluminium OS 确认今秋发布：Google 正式挑战 MacBook</strong> — Google 高管 Sameer Samat 在 MWC 2026 上基本确认 Aluminium OS（Android + ChromeOS 合并）将于 2026 年下半年推出。I/O 前数小时泄露的 ARM64 版本截图显示，OS 明确将设备定义为「This computer」而非手机或平板。CNET 分析称，原生 Android App 支持 + 完整 Chrome 浏览器体验 = Google 史上最强大的操作系统平台。首批 Googlebooks 笔记本由 Acer、ASUS、Lenovo 推出，直接对标 MacBook。<br><small>来源：<a href=\"https://chromeunboxed.com/google-executive-basically-confirms-aluminium-os-is-launching-this-fall/\">Chrome Unboxed</a> / <a href=\"https://www.wired.com/story/google-aluminium-os-chromebook-successor-is-coming/\">WIRED</a> / <a href=\"https://www.cnet.com/tech/mobile/google-aluminum-os-android-chromeos-laptop-explainer/\">CNET</a> / <a href=\"https://aluminium-os.com/aluminium-os-leak-before-io-2026-event/\">AluminiumOS.com</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>AI Agent 成为操作系统级基础设施</strong>：Google Gemini Intelligence 不是 App，是 Android 的底层智能层</li><li><strong>AI 分发战争白热化</strong>：OpenAI vs Apple 的法律纠纷本质上是「谁控制 AI 分发入口」的争夺</li><li><strong>Google 三线作战</strong>：I/O 2026 同时推进 AI 模型（Gemini）、硬件平台（XR 眼镜 + Googlebooks）、操作系统（Aluminium OS）——这是十年来最激进的产品攻势</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>这周的三条新闻看起来是独立事件，但串起来看，它们指向同一个结论：AI 时代的平台战争已经从「谁的模型更强」升级到「谁控制 AI 与用户的接触面」。</strong></p><p>先说 OpenAI 起诉 Apple 这件事。表面上是合同纠纷——ChatGPT 在 iOS 里的入口太深，用户找不到，订阅增长不及预期。但深层逻辑更残酷：<strong>Apple 从一开始就没打算让 ChatGPT 成为 Siri 的核心，它只是 Apple 在自研 AI 能力不足时的过渡方案。</strong>今年 1 月 Apple 转向 Google Gemini 证实了这一点。OpenAI 以为拿到了 iPhone 的「黄金入口」，结果只是被当作了「备胎 API」。这给所有试图通过平台方分发的 AI 公司敲响了警钟：<strong>平台方永远不会让你成为不可替代的。</strong>Apple 对待 OpenAI 的方式，和它对待 Google Maps（被 Apple Maps 替代）、Intel 芯片（被 Apple Silicon 替代）如出一辙。</p><p>再看 Google I/O 2026。Gemini Intelligence 不是一个产品更新——它是 Google 对「AI 应该在操作系统中扮演什么角色」的回答。把 Gemini 从一个 App 升级为 Android 的底层智能系统，意味着 AI 不再需要用户主动打开某个入口——它就是操作系统本身。这和 OpenAI 在 Apple 上的困境形成了鲜明对比：<strong>OpenAI 在别人的平台上争入口深浅，Google 直接把 AI 变成了平台本身。</strong>再加上 Android XR 眼镜（AI 的物理分发载体）和 Googlebooks/Aluminium OS（AI 的桌面分发载体），Google 正在构建一个从手机到笔记本到眼镜的全平台 AI 分发网络。</p><p>Aluminium OS 是其中最被低估的一环。Android + ChromeOS 合并不只是「技术整合」——它意味着 Google 终于有了一个能跟 macOS 正面竞争的桌面操作系统。MacBook 的护城河从来不是硬件（Windows 笔记本硬件早已追上），而是 macOS + iOS 的生态闭环。Aluminium OS 第一次让 Google 有了对标这个闭环的可能：Android 手机 + Googlebooks 笔记本 + Android XR 眼镜，全部共享同一个应用生态和 Gemini 智能层。</p><p>把这三件事串起来：OpenAI 发现「没有平台就没有分发」；Apple 发现「AI 合作伙伴是可替换的」；Google 发现「控制平台 + AI + 硬件的全栈才是终极护城河」。<strong>2026 年的 AI 竞争不再是模型的竞争——它是分发渠道、操作系统和硬件形态的全面战争。</strong>如果你还在只关注 GPT vs Gemini vs Claude 的 benchmark 对比，你已经在看错方向了。真正的战场在「AI 以什么形态、通过什么入口、在什么设备上触达用户」。Google I/O 2026 给出的答案是：所有形态、所有入口、所有设备。</p></div>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Google I/O 2026 Android Show Preview: Gemini Intelligence Becomes Android's Core Pillar</strong> — Google pre-announced major news at the Android Show: Gemini Intelligence — no longer an app but Android's underlying intelligence system for agentic task execution. Also: Gemini 3.1 Flash Live (voice-first AI), Android XR glasses consumer preview, Googlebooks laptops (running Aluminium OS, with Acer/ASUS/Lenovo), Android 17, Material 3 Expressive, and Magic Pointer.<br><small>Source: <a href=\"https://www.androidauthority.com/what-to-expect-from-google-io-2026-3664979/\">Android Authority</a> / <a href=\"https://mashable.com/article/google-io-2026-what-to-expect\">Mashable</a> / <a href=\"https://www.eweek.com/news/google-gemini-model-io-ai-agents/\">eWeek</a></small></li><li><strong>OpenAI Preparing Legal Action Against Apple: ChatGPT Integration Failed to Deliver</strong> — Bloomberg, NYT, and TechCrunch report OpenAI is deeply frustrated with its two-year Apple partnership. ChatGPT's iOS integration failed to generate expected subscribers due to buried entry points. OpenAI has retained external counsel. Critical context: Apple switched to Google Gemini for Siri in January 2026.<br><small>Source: <a href=\"https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/\">TechCrunch</a> / <a href=\"https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html\">NYT</a></small></li><li><strong>Aluminium OS Confirmed for Fall Launch: Google Officially Challenges MacBook</strong> — Google's Sameer Samat essentially confirmed Aluminium OS (Android + ChromeOS merge) launches H2 2026. Pre-I/O leaks show ARM64 screenshots with 'This computer' identity. First Googlebooks from Acer, ASUS, Lenovo.<br><small>Source: <a href=\"https://chromeunboxed.com/google-executive-basically-confirms-aluminium-os-is-launching-this-fall/\">Chrome Unboxed</a> / <a href=\"https://www.wired.com/story/google-aluminium-os-chromebook-successor-is-coming/\">WIRED</a> / <a href=\"https://www.cnet.com/tech/mobile/google-aluminum-os-android-chromeos-laptop-explainer/\">CNET</a></small></li></ul><h3>🔄 Trends</h3><ul><li><strong>AI Agent becomes OS-level infrastructure</strong>: Gemini Intelligence isn't an app — it's Android's intelligence layer</li><li><strong>AI distribution war intensifies</strong>: OpenAI vs Apple is fundamentally about who controls AI's entry point to users</li><li><strong>Google's three-front offensive</strong>: I/O 2026 simultaneously advances AI models, hardware platforms, and operating systems</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>These three stories look independent but point to one conclusion: the AI platform war has escalated from 'whose model is better' to 'who controls AI's surface area with users.'</strong></p><p>The OpenAI vs Apple dispute isn't just a contract issue. Apple never intended ChatGPT to be Siri's core — it was a stopgap while Apple built its own AI capabilities. January's switch to Google Gemini confirmed this. OpenAI thought it got iPhone's 'golden entry point' but was treated as a 'backup API.' This echoes Apple's treatment of Google Maps (replaced by Apple Maps) and Intel (replaced by Apple Silicon). <strong>Platform owners never let you become irreplaceable.</strong></p><p>Google I/O 2026's Gemini Intelligence is Google's answer to 'what role should AI play in the OS.' Making Gemini Android's underlying intelligence layer means AI doesn't need users to open an app — it IS the platform. <strong>While OpenAI fights for entry point depth on someone else's platform, Google turned AI into the platform itself.</strong> Add Android XR glasses and Googlebooks/Aluminium OS, and Google is building a full-spectrum AI distribution network from phones to laptops to glasses.</p><p>The AI competition in 2026 is no longer about models — it's total war over distribution channels, operating systems, and hardware form factors. If you're still watching GPT vs Gemini vs Claude benchmarks, you're looking the wrong way.</p></div>"
+    },
+    "cover": "https://www.androidauthority.com/wp-content/uploads/2019/05/google-io-19-shoreline-sign.jpg",
+    "sources": [
+      {
+        "url": "https://www.androidauthority.com/what-to-expect-from-google-io-2026-3664979/",
+        "title": {
+          "zh": "Android Authority: Google I/O 2026 前瞻",
+          "en": "Android Authority: What to Expect from Google I/O 2026"
+        },
+        "image": "https://www.androidauthority.com/wp-content/uploads/2019/05/google-io-19-shoreline-sign.jpg"
+      },
+      {
+        "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+        "title": {
+          "zh": "TechCrunch: OpenAI 准备起诉 Apple",
+          "en": "TechCrunch: OpenAI Preparing Legal Action Against Apple"
+        },
+        "image": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.13.28PM.png?resize=1200,670"
+      },
+      {
+        "url": "https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html",
+        "title": {
+          "zh": "NYT: OpenAI 考虑对 Apple 采取法律行动",
+          "en": "NYT: OpenAI Considers Legal Action Against Apple"
+        },
+        "image": ""
+      },
+      {
+        "url": "https://chromeunboxed.com/google-executive-basically-confirms-aluminium-os-is-launching-this-fall/",
+        "title": {
+          "zh": "Chrome Unboxed: Google 高管确认 Aluminium OS 今秋发布",
+          "en": "Chrome Unboxed: Google Executive Confirms Aluminium OS Launching This Fall"
+        },
+        "image": "https://chromeunboxed.com/wp-content/uploads/2026/03/AluminiumOSSamirSamatChromeOSFall2026.webp"
+      },
+      {
+        "url": "https://www.cnet.com/tech/mobile/google-aluminum-os-android-chromeos-laptop-explainer/",
+        "title": {
+          "zh": "CNET: Google Aluminium OS 深度解读",
+          "en": "CNET: Google's Aluminium OS Explainer"
+        },
+        "image": ""
+      }
+    ]
+  },
+  {
     "date": "2026-05-16",
     "section": "design",
     "title": {
