@@ -9410,6 +9410,224 @@
       "body": "本周 Visual for AI 的两个发现——Krea K2 的小公司反击和 Wendy's 的蓝色实验——指向 AI 视觉设计领域两个深层变化。第一个是工具层的民主化：当 37 人的 Krea 能发布和 Midjourney 竞争的生成模型，AI 视觉工具的竞争逻辑从「谁的模型更大」变成了「谁更懂设计师的工作流」。这对视觉设计行业意味着：工具不再是门槛，品味和判断力才是。第二个是色彩语言的数字化转型：Wendy's 从红到蓝的跳跃不是个案，是整个品牌设计行业正在重新校准色彩的语义系统。物理世界里红色=食欲、蓝色=冷静；数字世界里蓝色=可信、绿色=成功、紫色=AI。当品牌的主要触点从门店变成 App，色彩心理学需要重写。最犀利的观察：Claude Design 把设计工具变成大型超市的同时，Krea 在做精品店——两种模式都有市场，但设计师应该用前者提高效率，用后者追求独特性。",
       "body_en": "This week's two Visual for AI findings — Krea K2's underdog fight and Wendy's blue experiment — point to two deep shifts. First, tool-layer democratization: when 37-person Krea competes with Midjourney on gen models, AI visual tool competition shifts from 'whose model is bigger' to 'who understands designers' workflows better.' For visual design: tools are no longer the barrier; taste and judgment are. Second, color language's digital transformation: Wendy's red-to-blue isn't isolated — the entire brand design industry is recalibrating color's semantic system. Physical world: red=appetite, blue=calm. Digital world: blue=trustworthy, green=success, purple=AI. When brands' primary touchpoints shift from stores to apps, color psychology needs rewriting. Sharpest observation: Claude Design turns design tools into big-box stores while Krea builds boutiques — both models have markets, but designers should use the former for efficiency and the latter for uniqueness.",
       "date": "2026-05-16"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Crypto Dashboard — Dark Mode Trading Analytics",
+      "body": "深色加密交易仪表盘，集成 AI 驱动的市场洞察和 DeFi dApps 排名。烛台图表搭配 portfolio 总览，把复杂的链上数据用极简的视觉层级呈现。深色模式不是装饰，是信息密度的需要。",
+      "tags": [
+        "Crypto",
+        "Dark UI",
+        "Trading",
+        "DeFi"
+      ],
+      "link": "https://dribbble.com/search/dark-crypto-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43782042/file/original-0191db23ed26565b31edab8c03e8512f.png?resize=752x&vertical=center",
+      "date": "2026-05-17",
+      "body_en": "Dark crypto trading dashboard with AI-driven market insights and DeFi dApps ranking. Candlestick charts with portfolio overview present complex on-chain data through minimal visual hierarchy."
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI Investment App — Mobile-First 理财体验",
+      "body": "移动端投资 App 的设计范式正在成熟：不再追求功能堆砌，而是让 AI 在后台做决策辅助，界面只呈现关键 action。Fintech 设计从「看起来专业」转向「用起来直觉」。",
+      "tags": [
+        "Investment",
+        "Mobile",
+        "Fintech",
+        "AI Assistant"
+      ],
+      "link": "https://dribbble.com/search/investment-app-ui-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/45191210/file/6a606ed825f35f94483d81a3cdb2d605.png?resize=752x&vertical=center",
+      "date": "2026-05-17",
+      "body_en": "Mobile investment app design paradigm is maturing: less feature-stuffing, more AI-assisted decisions in the background with only key actions surfaced. Fintech design shifts from 'looking professional' to 'feeling intuitive'."
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Banking Hero Section — Fintech 品牌落地页",
+      "body": "AI Banking 产品的 Hero Section 设计趋势：大面积留白、渐变光效、一句话价值主张。品牌不再靠功能截图吸引用户，而是用「信任感设计」建立第一印象。",
+      "tags": [
+        "Banking",
+        "Hero Section",
+        "Brand",
+        "Landing Page"
+      ],
+      "link": "https://dribbble.com/search/ai-banking",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/47279533/file/d086e33008703e3f6ae36a94d3557923.png?format=webp&resize=400x300&vertical=center",
+      "date": "2026-05-17",
+      "body_en": "AI Banking hero section design trend: generous whitespace, gradient lighting, one-line value proposition. Brands attract users through 'trust design' rather than feature screenshots."
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "2026 健身 App 设计趋势：心理健康 + AI 教练融合",
+      "body": "2026 年健身 App 的关键转向：不再只是追踪卡路里和步数。AI 个性化教练、心理健康整合、可穿戴数据二次分析成为标配。设计上，柔和色彩和呼吸节奏动画取代了硬核的运动数据堆砌。",
+      "tags": [
+        "Fitness",
+        "Mental Health",
+        "AI Coach",
+        "Wearable"
+      ],
+      "link": "https://uiants.co/fitness-and-wellness-app-ui-kits-design-trends/",
+      "linkText": "UIAnts",
+      "image": "https://algosoft-blog-img.b-cdn.net/wp-content/uploads/2025/12/ai-fitness-app.webp",
+      "date": "2026-05-17",
+      "body_en": "Key shift in 2026 fitness apps: beyond calories and steps. AI personalized coaching, mental health integration, wearable data analysis become standard. Soft colors and breathing animations replace hardcore data dumps."
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "HAWY — AI 运动表现 & AR 分析平台",
+      "body": "Behance 上一个让人眼前一亮的项目：HAWY 把 AI 运动表现分析和 AR 可视化结合，运动员可以在 3D 空间里回看自己的动作轨迹。不只是看数据，是「体验」数据。",
+      "tags": [
+        "AR",
+        "Sports Analytics",
+        "3D",
+        "Performance"
+      ],
+      "link": "https://www.behance.net/search/projects/sport%20analytics%20dashboard",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/fb4607249050233.Y3JvcCw1ODkxLDQ2MDgsMTg5LDA.jpg",
+      "date": "2026-05-17",
+      "body_en": "HAWY combines AI sports performance analysis with AR visualization. Athletes can review movement trajectories in 3D space — not just viewing data, but experiencing it."
+    },
+    {
+      "direction": "sports",
+      "type": "product",
+      "title": "AI Voice Coach — 实时语音指导健身",
+      "body": "Ray 等 AI 私教 App 开始用实时语音教练替代屏幕指令。AI 在你每一组动作中说话、自动计数、实时调整。这是可穿戴 + AI 的自然终局：教练不在屏幕上，在你耳朵里。",
+      "tags": [
+        "Voice AI",
+        "Coaching",
+        "Wearable",
+        "Real-time"
+      ],
+      "link": "https://www.rayfit.com/blog/2026/02/best-ai-personal-trainer-app/",
+      "linkText": "RayFit",
+      "image": "https://cdnimg.co/62e8b74c-52a4-4089-b3d3-fd82483028c1/b6644fd3-81be-41c1-a5c9-e0cb0b147d1c/ai-fitness-apps-smartwatch-coaching.jpg",
+      "date": "2026-05-17",
+      "body_en": "Apps like Ray replace on-screen instructions with real-time voice coaching. AI talks through every rep, auto-counts, adjusts in real-time. The natural endgame of wearable + AI: the coach is in your ear, not on your screen."
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "Bento Grid 2026：从视觉趋势到系统方法论",
+      "body": "Bento Grid 在 2026 年已经不是新鲜事了——67% 的 Top 100 SaaS 产品在用它。但真正的设计挑战不是「用不用」，而是如何避免千篇一律。好的 Bento Grid 需要信息架构思维，不只是把卡片摆好看。",
+      "tags": [
+        "Bento Grid",
+        "Layout",
+        "SaaS",
+        "Information Architecture"
+      ],
+      "link": "https://www.saasframe.io/blog/designing-bento-grids-that-actually-work-a-2026-practical-guide",
+      "linkText": "SaaSFrame",
+      "image": "https://s3-alpha.figma.com/hub/file/2229051864122678604/1063632e-a437-410b-8175-ea1b13bedf72-cover.png",
+      "date": "2026-05-17",
+      "body_en": "Bento Grid in 2026 is no longer novel — 67% of Top 100 SaaS products use it. The real design challenge is avoiding sameness. Good Bento Grid requires information architecture thinking, not just pretty card placement."
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI Chatbot 对话界面 — 卡片式交互设计",
+      "body": "AI 聊天界面的卡片设计正在变得更成熟：不再是纯文本泡泡，而是结构化的 action cards、preview cards、suggestion chips。对话式 UI 正在吸收传统 GUI 的精华。",
+      "tags": [
+        "Chatbot",
+        "Conversational UI",
+        "Cards",
+        "AI Interface"
+      ],
+      "link": "https://dribbble.com/search/ai-chatbot-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/44929499/file/0737b5f732a0c7898bf78e8dc2c9d8a9.png?resize=752x&vertical=center",
+      "date": "2026-05-17",
+      "body_en": "AI chat interface card design is maturing: beyond plain text bubbles to structured action cards, preview cards, suggestion chips. Conversational UI is absorbing the best of traditional GUI."
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Conversational AI UI — 模块化对话组件",
+      "body": "对话式 AI 的 UI 组件库正在标准化：响应卡片、数据预览、快捷操作按钮。设计系统开始把「对话」当作第一等公民来构建，而不是在传统布局上硬塞一个聊天窗口。",
+      "tags": [
+        "Design System",
+        "Conversational",
+        "Component",
+        "Modular"
+      ],
+      "link": "https://dribbble.com/search/conversational-ai-ui",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/45093442/file/db460f454f8a5193c5f31fec5964f046.png?resize=752x&vertical=center",
+      "date": "2026-05-17",
+      "body_en": "Conversational AI UI component libraries are standardizing: response cards, data previews, quick action buttons. Design systems now treat 'conversation' as a first-class citizen rather than cramming a chat window into traditional layouts."
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Design System 视觉识别 — 系统即品牌",
+      "body": "Dribbble 上一个精彩案例：不只是设计一个网站，而是为 AI 设计系统本身打造视觉识别。当产品就是设计工具时，品牌语言必须同时传达「精确」和「创造力」——这是个矛盾但有趣的命题。",
+      "tags": [
+        "Visual Identity",
+        "Design System",
+        "Brand",
+        "AI Tool"
+      ],
+      "link": "https://dribbble.com/shots/27104382-Visual-Identity-for-an-AI-Powered-Design-System",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46796672/file/93224defd5dd9324e2d07ab9dcbeb2ed.jpg?resize=752x&vertical=center",
+      "date": "2026-05-17",
+      "body_en": "A brilliant Dribbble case: crafting visual identity for an AI design system itself. When the product IS a design tool, brand language must convey both 'precision' and 'creativity' — a contradictory but fascinating brief."
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "Generative UI：运行时生成的界面",
+      "body": "Generative UI 是 2026 年最值得关注的设计范式：界面不再是预先设计好的，而是根据用户意图实时生成。这彻底改变了设计师的角色——从画界面到设计规则和约束。",
+      "tags": [
+        "Generative UI",
+        "Runtime",
+        "AI Interface",
+        "Paradigm Shift"
+      ],
+      "link": "https://fuselabcreative.com/services/generative-ai-design/",
+      "linkText": "FuseLab",
+      "image": "https://cdn.dribbble.com/userupload/40359569/file/still-20277ca154ef6bd157f4b4378254d8fb.png?resize=400x0",
+      "date": "2026-05-17",
+      "body_en": "Generative UI is the most noteworthy design paradigm of 2026: interfaces generated at runtime based on user intent, not pre-designed. This fundamentally shifts the designer's role from drawing interfaces to designing rules and constraints."
+    },
+    {
+      "direction": "visual-ai",
+      "type": "direction",
+      "title": "Ambient Computing：看不见的界面革命",
+      "body": "当计算环境化，界面消失，设计师的工作变成设计「不可见的体验」。语音助手、NLP、边缘计算汇聚在一起，用户甚至意识不到自己在和 AI 交互。这不是科幻——是 2026 年正在发生的事。",
+      "tags": [
+        "Ambient Computing",
+        "Zero UI",
+        "Voice",
+        "Edge Computing"
+      ],
+      "link": "https://www.coderio.com/blog/innovation/ambient-computing-invisible-interface-revolutionizing-technology/",
+      "linkText": "Coderio",
+      "image": "https://blog.biglearningbox.com/uploads/1760429662.png",
+      "date": "2026-05-17",
+      "body_en": "When computing becomes ambient, interfaces disappear, and designers' work becomes designing 'invisible experiences'. Voice assistants, NLP, edge computing converge — users don't even realize they're interacting with AI."
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "title": "Rex's Take：界面正在两极分化",
+      "body": "今天扫了一圈，一个有意思的 pattern 浮出水面：AI 产品的界面正在两极分化。\n\n一端是「极致可见」——金融仪表盘、运动分析平台把数据密度推到极限，深色模式+高对比+层级分明，恨不得一屏装下所有信息。Crypto dashboard 和 sports analytics 都在往这个方向卷。\n\n另一端是「极致消失」——Ambient Computing、Voice AI Coach、Generative UI，界面不再是预设的画布，而是根据场景动态生成甚至完全隐身。Ray 的语音教练和 Generative UI 都指向同一个未来：最好的界面是你感受不到的界面。\n\n中间地带呢？Bento Grid 和对话式卡片 UI 正在填补——它们试图在结构化和灵活性之间找平衡。67% 的 SaaS 在用 Bento Grid，但大多数用得平庸。真正好的模块化设计需要信息架构功底，不是摆积木。\n\n我的判断：2026 下半年，我们会看到更多「可见」和「隐身」的混合体——有密度的地方给你密度，不需要看的地方就让它消失。设计师要同时掌握两种能力，这比以往任何时候都难。",
+      "tags": [
+        "Rex's Take",
+        "Design Trends",
+        "AI Interface",
+        "Polarization"
+      ],
+      "date": "2026-05-17",
+      "body_en": "A fascinating pattern today: AI product interfaces are polarizing. One extreme pushes maximum visibility — finance dashboards and sports analytics maxing out data density. The other pushes toward invisibility — ambient computing, voice AI, generative UI. The middle ground? Bento grids and conversational card UI trying to balance structure and flexibility. My take: H2 2026 will see more hybrids — density where needed, invisibility where not."
     }
   ]
 }
