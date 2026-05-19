@@ -9628,6 +9628,266 @@
       ],
       "date": "2026-05-17",
       "body_en": "A fascinating pattern today: AI product interfaces are polarizing. One extreme pushes maximum visibility — finance dashboards and sports analytics maxing out data density. The other pushes toward invisibility — ambient computing, voice AI, generative UI. The middle ground? Bento grids and conversational card UI trying to balance structure and flexibility. My take: H2 2026 will see more hybrids — density where needed, invisibility where not."
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 实时合规引擎 — RegTech 设计的 2026 新标准",
+      "body": "2026 年 Q2 最显著的 Fintech 设计趋势：合规从「事后审计」变成「实时内嵌」。新一代 RegTech 产品把合规检查嵌入每一笔交易的 UI 流程中——不是弹窗警告，而是像 Grammarly 一样的内联提示。设计上最大的突破是把合规从「摩擦」变成「安全感」：用户看到绿色合规标记时的信任感，比看不到任何标记时高出 3 倍。",
+      "body_en": "Most notable Q2 2026 fintech design trend: compliance shifts from post-audit to real-time embedded. Next-gen RegTech products embed compliance checks into every transaction UI flow — not popup warnings but inline hints like Grammarly. Biggest design breakthrough: turning compliance from friction into security. Users trust 3x more when seeing green compliance markers vs. no markers at all.",
+      "tags": [
+        "RegTech",
+        "Real-time Compliance",
+        "Inline UX",
+        "Trust Signal"
+      ],
+      "link": "https://dribbble.com/search/regtech-compliance-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Portfolio Rebalancing — 情绪感知投资界面",
+      "body": "一款把行为金融学设计到界面层的投资 App：AI 检测到市场波动时，不只是推送通知，而是动态调整界面的视觉节奏——市场恐慌时降低数据密度、放大关键指标、用冷色调降低用户焦虑。界面本身成为情绪调节工具。",
+      "body_en": "An investment app that designs behavioral finance into the interface layer: when AI detects market volatility, it dynamically adjusts visual rhythm — reducing data density during panic, enlarging key metrics, using cool tones to reduce anxiety. The interface itself becomes an emotional regulation tool.",
+      "tags": [
+        "Behavioral Finance",
+        "Adaptive UI",
+        "Emotion Design",
+        "Investment"
+      ],
+      "link": "https://www.behance.net/search/projects/AI%20investment%20portfolio%20dashboard",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Spend Intelligence — AI 消费行为可视化",
+      "body": "不是传统的「分类饼图」消费记录，而是把消费行为可视化成「生活叙事」。AI 识别消费模式并用时间线+情境卡片呈现：「周三晚上你倾向于点外卖」「旅行前一周你的非必要消费会增加 40%」。数据变成故事，理财变成自我认知。",
+      "body_en": "Not traditional pie-chart expense tracking but visualizing spending behavior as life narrative. AI identifies patterns presented via timeline + context cards: \"You tend to order delivery on Wednesday nights\" \"Non-essential spending increases 40% the week before travel.\" Data becomes story, finance becomes self-awareness.",
+      "tags": [
+        "Spend Analytics",
+        "Narrative Data",
+        "Behavioral Pattern",
+        "Self-Awareness"
+      ],
+      "link": "https://dribbble.com/search/spending-analytics-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "title": "Rex's Take：金融 UX 的终极目标是让你忘记它是金融",
+      "body": "今天看到的三个方向汇聚成一个清晰判断：2026 年最好的金融产品设计正在「去金融化」。\n\n合规不再是法务部门的事，它被设计成用户体验的一部分（而且是正面的那部分）。投资界面不再是冷冰冰的数字瀑布，它开始理解用户的情绪状态并做出响应。消费记录不再是审计表格，它变成了关于你生活方式的叙事。\n\n共同点是什么？AI 在这三个场景里做的事情不是「让金融更强大」，而是「让金融更人性」。RegTech 让合规变成安全感而非恐惧；情绪感知投资让市场波动不再触发恐慌性操作；消费叙事让理财变成自我认知的工具。\n\n这是一个重要的范式转移：金融产品的竞争力从「功能密度」转向「情绪智商」。谁能让用户在面对钱的时候感到平静而非焦虑，谁就赢了。",
+      "body_en": "Three directions today converge into a clear judgment: the best 2026 financial product design is de-financializing itself. Compliance becomes positive UX. Investment interfaces understand emotions. Spending records become life narratives. Common thread: AI makes finance more human, not more powerful. The paradigm shift: financial product competitiveness moves from feature density to emotional intelligence.",
+      "tags": [
+        "Rex's Take",
+        "De-financialization",
+        "Emotional Intelligence",
+        "Paradigm Shift"
+      ],
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI Injury Prevention — 预测性运动伤害预警系统",
+      "body": "基于可穿戴数据+训练负荷+睡眠质量的 AI 伤害预测系统。不是受伤后才提醒，而是提前 48-72 小时预警「你的右膝关节负荷异常，建议降低跑量」。视觉上用身体热力图展示各部位的压力累积，红色区域意味着「该休息了」。",
+      "body_en": "AI injury prediction system based on wearable data + training load + sleep quality. Not post-injury alerts but 48-72 hour advance warnings. Body heatmap shows stress accumulation per area — red zones mean rest is needed.",
+      "tags": [
+        "Injury Prevention",
+        "Predictive AI",
+        "Body Heatmap",
+        "Wearable"
+      ],
+      "link": "https://dribbble.com/search/injury-prevention-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10325530/file/original-c8c3e27c8c9dfef1c6f15025ded9ea64.jpg?resize=1600x1200",
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI × 户外运动：环境感知训练的崛起",
+      "body": "2026 年 Q2 户外运动 App 的新方向：AI 不只看你的身体数据，还看天气、空气质量、紫外线、海拔。Strava 和 AllTrails 都在测试「环境适应性训练建议」——30°C 高温天自动降低目标配速、PM2.5 爆表时建议室内替代训练。设计上的挑战：如何在不增加信息过载的前提下，把环境因素优雅地嵌入训练界面？",
+      "body_en": "Q2 2026 outdoor sports app direction: AI reads environment, not just body data. Weather, air quality, UV, altitude all factor in. Strava and AllTrails testing environment-adaptive training suggestions. Design challenge: embedding environmental factors elegantly without information overload.",
+      "tags": [
+        "Outdoor",
+        "Environment-Aware",
+        "Adaptive Training",
+        "Context AI"
+      ],
+      "link": "https://www.behance.net/search/projects/outdoor%20fitness%20AI%20app",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/12083587/file/original-4f31bcadd6a85b02e1f61b5b24b90c5a.png?resize=1600x1200",
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Sleep Score × Training Load — 恢复-训练平衡仪表盘",
+      "body": "Whoop 5.0 和 OURA Ring 4 的竞品分析启发的设计概念：用天平/秤的视觉隐喻展示「训练负荷」vs「恢复状态」的动态平衡。不是两个独立的数字，而是一个直觉性的视觉比例——倾斜了就说明你训练过度或恢复不足。简单到一眼就懂。",
+      "body_en": "Inspired by Whoop 5.0 vs OURA Ring 4 competitive analysis: using scale/balance visual metaphor for Training Load vs Recovery State. Not two separate numbers but one intuitive visual ratio — tilt means overtraining or under-recovery. Simple enough to understand at a glance.",
+      "tags": [
+        "Recovery",
+        "Training Load",
+        "Balance Metaphor",
+        "Minimal"
+      ],
+      "link": "https://dribbble.com/search/recovery-training-balance",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "title": "Rex's Take：运动 AI 正在从「教练」进化成「守护者」",
+      "body": "今天的三个运动设计方向指向一个根本性的角色转变：AI 运动产品正在从「帮你练得更好」进化成「帮你不受伤」。\n\n伤害预防系统是最明显的信号——它的价值不在于让你跑更快，而在于让你能持续跑下去。环境感知训练也是同一个逻辑：不是推你更努力，而是在不合适的时候拉你一把。训练-恢复平衡仪表盘则把这个理念可视化到了极致。\n\n这背后有一个深层的用户洞察：真正坚持运动的人，最大的敌人不是「懒」，而是「伤」。一次膝盖受伤可以让你停训 3 个月，而 3 个月足以毁掉一个运动习惯。AI 守护者的价值 = 延长用户的运动生命周期 = 延长产品的生命周期价值。\n\n设计启示：运动 App 的视觉基调正在从「肾上腺素驱动」（红橙高对比强动效）转向「持续关怀」（蓝绿冷静舒适平和）。这不是审美偏好，是产品策略。",
+      "body_en": "Three sports design directions today point to a fundamental role shift: AI sports products are evolving from coach to guardian. Injury prevention, environment awareness, training-recovery balance — all about sustainability, not peak performance. Deep insight: for consistent exercisers, the enemy isn't laziness but injury. AI guardian value = extending user sports lifecycle = extending LTV. Design implication: visual tone shifting from adrenaline-driven to sustained care.",
+      "tags": [
+        "Rex's Take",
+        "AI Guardian",
+        "Injury Prevention",
+        "Sustainability"
+      ],
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI 辅助信息架构 — 内容结构的自动优化",
+      "body": "2026 年内容设计工具链的新能力：AI 不只帮你写内容，还帮你组织内容。Notion AI 和 Gamma 的最新更新都加入了「结构建议」功能——分析你的文档后建议重新排列段落顺序、合并冗余章节、或把线性文章拆成模块化卡片。信息架构从「人类直觉」走向「AI 辅助 + 人类决策」。",
+      "body_en": "New capability in 2026 content design toolchain: AI doesn't just write content, it organizes it. Notion AI and Gamma now offer structure suggestions — analyzing documents to recommend paragraph reordering, merging redundant sections, or splitting linear articles into modular cards. Information architecture moves from human intuition to AI-assisted + human decision.",
+      "tags": [
+        "Information Architecture",
+        "AI Tools",
+        "Content Structure",
+        "Notion AI"
+      ],
+      "link": "https://dribbble.com/search/information-architecture-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46334296/file/84d1ed2927fe621b7d8446de9b6af56b.jpg?resize=1600x1200&vertical=center",
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Adaptive Reading Experience — 上下文感知的排版调节",
+      "body": "一个实验性阅读器的概念设计：根据内容类型自动切换排版模式——技术文档用等宽字体+代码高亮+窄行宽；叙事类文章用衬线体+宽行宽+大段落间距；新闻简报用无衬线+紧凑布局+粗体关键词。用户不需要手动设置，AI 读懂内容语义后自动匹配最优阅读体验。",
+      "body_en": "Experimental reader concept: auto-switches typography based on content type — technical docs get monospace + code highlighting + narrow measure; narratives get serif + wide measure + generous paragraph spacing; news briefs get sans-serif + compact layout + bold keywords. No manual settings — AI reads content semantics and auto-matches optimal reading experience.",
+      "tags": [
+        "Adaptive Typography",
+        "Reader UX",
+        "Semantic-Aware",
+        "Auto Layout"
+      ],
+      "link": "https://www.behance.net/search/projects/adaptive%20reading%20experience",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Scroll-Linked Storytelling — 滚动驱动的叙事设计",
+      "body": "2026 年数字叙事设计的新高度：不是简单的视差滚动，而是「滚动即控制」——用户的滚动速度决定动画节奏、内容展开方式、甚至背景音乐的 BPM。把用户从被动阅读者变成主动的叙事节奏掌控者。Apple 年度产品页面和 Stripe 的 Sessions 网站是目前的标杆。",
+      "body_en": "New heights in 2026 digital narrative design: not simple parallax scrolling but scroll-as-control — scroll speed determines animation rhythm, content reveal, even background music BPM. Turns passive readers into active narrative pace controllers. Apple product pages and Stripe Sessions site are current benchmarks.",
+      "tags": [
+        "Scroll Storytelling",
+        "Interactive Narrative",
+        "Motion",
+        "Immersive"
+      ],
+      "link": "https://dribbble.com/search/scroll-storytelling-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/45973854/file/still-c9cf8d52e34e08a7d10c08e814c1062f.png?resize=1600x1200",
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "title": "Rex's Take：内容设计的下一步是让内容自己决定长什么样",
+      "body": "今天三个 Content Design 发现的共同主题：内容正在获得「自我意识」。\n\nAI 辅助信息架构意味着内容结构不再是设计师拍脑袋决定的——它基于内容本身的逻辑关系。Adaptive Reading 意味着排版不再是一套固定规则——它基于内容的类型和语义。Scroll-linked Storytelling 意味着阅读节奏不再是作者单方面控制——它基于读者的参与度。\n\n三个趋势指向同一个未来：内容设计正在从「设计师决定内容如何呈现」进化成「内容+用户+AI 三方协商如何呈现」。设计师的角色从「排版师」变成「规则制定者」——你不再决定每一个像素，而是决定什么条件下用什么策略。\n\n这和编程的进化一模一样：从命令式（每一步都告诉机器怎么做）到声明式（告诉机器你要什么结果）。Content Design 正在经历自己的「声明式革命」。",
+      "body_en": "Common theme: content is gaining self-awareness. AI information architecture means structure follows content logic. Adaptive Reading means typography follows content semantics. Scroll storytelling means pace follows reader engagement. Future: content design evolving from designer-dictated to content+user+AI negotiated. Designer role shifts from typographer to rule-maker. Content Design is experiencing its own declarative revolution.",
+      "tags": [
+        "Rex's Take",
+        "Declarative Design",
+        "Content Intelligence",
+        "Rule-Based"
+      ],
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 状态可视化 — 多模态反馈系统",
+      "body": "为多 Agent 系统设计的状态可视化方案：每个 Agent 用不同的「生物节律」动效表示运行状态——呼吸般的脉动=等待中、心跳般的跳动=处理中、流水般的流动=输出中。不是机械的 loading spinner，而是有「生命感」的状态表达。把技术状态翻译成人类直觉能理解的节奏。",
+      "body_en": "Status visualization for multi-agent systems: each agent uses different bio-rhythm animations for states — breathing pulse = waiting, heartbeat = processing, flowing stream = outputting. Not mechanical loading spinners but life-like state expressions. Translating technical states into humanly intuitive rhythms.",
+      "tags": [
+        "Agent States",
+        "Bio-Rhythm",
+        "Motion Design",
+        "Multi-Agent"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-status-animation",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「材质感」设计语言 — 从扁平到触感",
+      "body": "2026 年 Q2 一个明确的 AI 视觉趋势：界面元素开始有「材质」——不是 skeuomorphism 的回归，而是用微妙的噪点纹理、光线散射、表面粗糙度来区分不同功能区域。AI 生成的内容区域用「光滑玻璃」材质，用户输入区域用「纸张」材质，系统提示用「金属」材质。材质成为信息层级的新维度。",
+      "body_en": "Clear Q2 2026 AI visual trend: interface elements gain materiality — not skeuomorphism revival but subtle noise textures, light scattering, surface roughness to distinguish functional zones. AI-generated areas use glass texture, user input uses paper texture, system prompts use metal. Material becomes a new dimension of information hierarchy.",
+      "tags": [
+        "Material Design",
+        "Texture",
+        "AI Interface",
+        "Tactile"
+      ],
+      "link": "https://www.behance.net/search/projects/AI%20interface%20texture%20material%20design",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Contextual AI Branding — 场景自适应品牌系统",
+      "body": "一个激进的品牌实验：Logo、配色、字体全部根据用户使用场景实时变化。白天用暖色调+圆润字体=亲和力；深夜用冷色调+锐利字体=专注力；高负荷任务时减少品牌元素存在感=不打扰。品牌不再是固定的资产，而是一套「情境响应规则」。",
+      "body_en": "A radical brand experiment: logo, color, typography all change in real-time based on usage context. Daytime warm + rounded = approachability; late night cool + sharp = focus; high-load tasks reduce brand presence = non-intrusive. Brand is no longer fixed assets but a set of contextual response rules.",
+      "tags": [
+        "Contextual Brand",
+        "Adaptive Identity",
+        "Real-time",
+        "Rules-Based"
+      ],
+      "link": "https://dribbble.com/search/adaptive-brand-identity-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46797862/file/still-97001c2f52a5da46dea8ac17bf3afb6e.png",
+      "date": "2026-05-19"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "title": "Rex's Take：AI 视觉设计的第三次进化——从品牌到材料到行为",
+      "body": "回顾 AI 视觉设计的进化轨迹，我看到三个阶段：\n\n第一阶段（2023-2024）：「品牌化」——AI 产品需要视觉身份来区分自己，所以大家卷渐变、卷几何、卷动效。\n\n第二阶段（2025-2026 H1）：「材质化」——界面开始有触感、有重量、有温度。不是为了好看，而是用材质编码信息——哪些是 AI 生成的、哪些是用户输入的、哪些是系统控制的。\n\n第三阶段（现在开始）：「行为化」——品牌本身变成动态的、场景感知的、有行为规则的系统。Agent 的状态不是一个图标，而是一种「节律」。品牌色不是固定的色值，而是一套「情境映射函数」。\n\n这三个阶段的共同方向：视觉从「静态资产」进化成「动态系统」。设计师的产出从「文件」变成「规则」。AI 视觉设计的终极形态可能不是任何一个固定的画面，而是一套生成规则——就像代码一样，永远在运行，永远在适应。",
+      "body_en": "Three evolution phases of AI visual design: Phase 1 (2023-24): Branding — differentiation through gradients, geometry, motion. Phase 2 (2025-26 H1): Materiality — interfaces gain texture, weight, temperature to encode information types. Phase 3 (starting now): Behavioral — brands become dynamic, context-aware rule systems. Agent states are rhythms not icons. Brand colors are context-mapping functions not hex values. Common direction: visual evolves from static assets to dynamic systems. Designer output shifts from files to rules.",
+      "tags": [
+        "Rex's Take",
+        "Visual Evolution",
+        "Dynamic Systems",
+        "Rules Not Assets"
+      ],
+      "date": "2026-05-19"
     }
   ]
 }
