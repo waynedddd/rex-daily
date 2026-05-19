@@ -1,5 +1,99 @@
 [
   {
+    "date": "2026-05-19",
+    "section": "design",
+    "title": {
+      "zh": "NN/g 最新评估：AI 设计工具「只是略好了一点」——一年过去，设计师依然安全，但「窄工具」正在悄悄改变工作流",
+      "en": "NN/g's Latest Verdict: AI Design Tools Are 'Marginally Better' — One Year Later, Designers Are Still Safe, But Narrow Tools Are Quietly Reshaping Workflows"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Nielsen Norman Group 发布 AI 设计工具跟踪评估（第二期）：「略有进步，但离承诺还很远」</strong> — NN/g 对 AI 设计工具做了从 2024 年到 2025 年 5 月的纵向追踪。核心结论：AI 设计工具的可用性确实在提升，但「我们离被承诺的 AI 设计工具还很远，设计师也远未到被替代的危险」。最关键的发现是：<strong>真正被设计师日常采用的 AI 工具都是「窄工具」——专注于完成一个具体任务</strong>（如图层重命名、内容填充、图标生成），而非宣传中的「端到端 AI 设计」。Figma 的 AI 功能被特别提及，其根据图层内容和位置关系自动重命名的能力被认为是「窄但有用」的典范。<br><small>来源：<a href=\"https://www.nngroup.com/articles/ai-design-tools-update-2/\">Nielsen Norman Group</a></small></li><li><strong>2026 AI 设计工具全景：从 Figma Make 到 UX Pilot，10+ 工具争夺「AI 原生设计」定义权</strong> — Designfest、Guideflow、Mockuuups Studio 等多个评测平台同时发布 2026 年 AI 设计工具榜单。共识趋势：Figma Make 主导 prompt-to-UI 赛道；UX Pilot 定位「研究到原型」全链路；Visily 专攻快速线框协作；Galileo AI 和 Uizard 面向非设计师用户。Figma 官方也发布了「Top AI Tools for UX Designers」资源页，将自家 Make、Design 与第三方 Stitch、Jasper、Adobe Firefly、Attention Insight、UX Pilot、Khroma 并列推荐。<br><small>来源：<a href=\"https://designfest.framer.media/blogs/ai-tools-every-uiux-designer-should-try\">Designfest</a> / <a href=\"https://www.guideflow.com/blog/ai-design-tools\">Guideflow</a> / <a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers/\">Figma Resource Library</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>「窄工具」胜出，「全能 AI」未兑现</strong>：NN/g 的数据证实设计师在日常中使用的是单任务 AI，不是端到端方案</li><li><strong>Figma 构建生态护城河</strong>：通过官方资源页整合第三方 AI 工具，Figma 正在成为 AI 设计工具的 App Store</li><li><strong>评测机构与 hype cycle 的张力</strong>：NN/g 的冷静评估 vs 工具厂商的激进叙事，形成行业信息的两极</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>NN/g 这篇文章的标题——「Marginally Better」——是 2026 年 AI 设计领域最重要的三个词。</strong>不是因为它打击了谁的信心，而是因为它精确描述了一个所有人都感受到但没人愿意说出来的现实：AI 设计工具的进化速度，远慢于 AI 语言模型的进化速度。</p><p>为什么？因为设计是一个<strong>多模态、高语境、强约束</strong>的创造活动。写一篇邮件，AI 只需要理解文字语境；但设计一个 dashboard，AI 需要同时理解数据结构、视觉层级、交互逻辑、品牌调性、用户心智模型——这些维度的组合爆炸让「通用 AI 设计」变成了一个比「通用 AI 写作」难 10 倍的问题。</p><p>NN/g 的「窄工具」发现特别有意思。它暗示了一个反直觉的结论：<strong>AI 设计工具的未来可能不是一个大一统的「AI Designer」，而是 50 个各自精通一件事的小工具散布在你的工作流中。</strong>图层命名用 AI？好。配色建议用 AI？好。自动生成 placeholder 内容用 AI？好。但「帮我设计一个完整的产品」？2026 年依然做不好。</p><p>把这个和昨天的 Figma「State of the Designer 2026」报告对比看，叙事的张力就出来了：Figma 说「AI 正在让设计师做更有影响力的工作」，NN/g 说「AI 设计工具其实只是略好了一点」。两者都没有说谎——<strong>区别在于 Figma 在描述「设计师如何使用 AI」（包括 ChatGPT、Claude 等非设计专用工具），而 NN/g 在评估「AI 设计专用工具」的能力。</strong>这是一个关键区分：2026 年最帮设计师忙的 AI 可能根本不是设计工具，而是通用 AI 助手。</p><p>Figma 的生态策略也值得关注。他们发布官方「AI Tools for UX Designers」资源页，把 UX Pilot、Attention Insight 等第三方和自家 Make 并列——这不是利他，这是<strong>平台策略</strong>。就像 Apple 不怕 App Store 里有竞争对手的 app，Figma 不怕推荐第三方 AI 工具，因为所有这些工具都在 Figma 的画布上运行、都在 Figma 的生态内产生价值。「AI 设计工具的 App Store」这个定位，可能比「AI 设计工具本身」更有长期价值。</p><p>对设计师的实际建议：别追「下一个 AI 设计革命」了。找到 3-5 个解决你具体痛点的窄工具，把它们编进日常工作流。这才是 2026 年 AI 对设计师最现实的增益路径。</p></div>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Nielsen Norman Group Publishes AI Design Tools Tracking Assessment (Part 2): 'Marginally Better, Still Far From Promise'</strong> — NN/g's longitudinal tracking from 2024 to May 2025 delivers a sobering verdict: AI design tool usefulness has improved, but \"we're still nowhere near the AI-powered design tools we've been promised, nor are design professionals in danger of being replaced.\" The key finding: <strong>tools actually adopted by designers for daily work are decidedly narrow</strong> — focused on single tasks (layer renaming, content filling, icon generation) rather than end-to-end AI design. Figma's AI layer renaming is cited as an exemplar of \"narrow but useful.\"<br><small>Source: <a href=\"https://www.nngroup.com/articles/ai-design-tools-update-2/\">Nielsen Norman Group</a></small></li><li><strong>2026 AI Design Tool Landscape: 10+ Tools Compete to Define 'AI-Native Design'</strong> — Multiple review platforms publish simultaneous 2026 AI design tool rankings. Consensus: Figma Make dominates prompt-to-UI; UX Pilot owns research-to-prototype; Visily targets rapid wireframe collaboration; Galileo AI and Uizard serve non-designers. Figma's official resource page now recommends Make, Design alongside third-party Stitch, Jasper, Adobe Firefly, Attention Insight, UX Pilot, and Khroma.<br><small>Source: <a href=\"https://designfest.framer.media/blogs/ai-tools-every-uiux-designer-should-try\">Designfest</a> / <a href=\"https://www.guideflow.com/blog/ai-design-tools\">Guideflow</a> / <a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers/\">Figma Resource Library</a></small></li></ul><h3>🔄 Trends</h3><ul><li><strong>'Narrow tools' win, 'all-in-one AI' underdelivers</strong>: NN/g data confirms designers adopt single-task AI, not end-to-end solutions</li><li><strong>Figma builds ecosystem moat</strong>: Official resource page integrating third-party AI tools positions Figma as the App Store for AI design</li><li><strong>Research vs. hype tension</strong>: NN/g's sober assessment vs. vendor narratives creates information polarization</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>NN/g's title — 'Marginally Better' — is the most important phrase in AI design for 2026.</strong> Not because it deflates anyone, but because it precisely captures what everyone feels but no one says: AI design tools evolve far slower than AI language models.</p><p>Why? Design is a <strong>multimodal, high-context, heavily-constrained</strong> creative activity. Writing an email requires understanding text context; designing a dashboard requires simultaneously understanding data structure, visual hierarchy, interaction logic, brand tone, and user mental models — this combinatorial explosion makes 'general AI design' 10x harder than 'general AI writing.'</p><p>NN/g's 'narrow tools' finding is counterintuitive: <strong>the future of AI design tools may not be one unified 'AI Designer' but 50 single-purpose tools scattered through your workflow.</strong> AI for layer naming? Good. AI for color suggestions? Good. AI for placeholder content? Good. But 'design me a complete product'? Still not there in 2026.</p><p>Compare with yesterday's Figma 'State of the Designer 2026' report: Figma says 'AI helps designers do higher-impact work'; NN/g says 'AI design tools are only marginally better.' Both are true — <strong>the difference is Figma describes how designers use AI broadly (including ChatGPT, Claude), while NN/g evaluates design-specific tools.</strong> The most helpful AI for designers in 2026 may not be design tools at all, but general AI assistants.</p><p>Figma's ecosystem play deserves attention. Publishing an official 'AI Tools for UX Designers' page listing competitors alongside their own tools isn't altruism — it's <strong>platform strategy</strong>. Like Apple's App Store, Figma doesn't fear third-party AI tools because they all run on Figma's canvas. 'The App Store for AI design tools' may be more valuable long-term than any individual AI design tool.</p><p>Practical advice for designers: Stop chasing 'the next AI design revolution.' Find 3-5 narrow tools that solve your specific pain points and weave them into daily workflow. That's 2026's realistic AI augmentation path.</p></div>"
+    },
+    "cover": "https://media.nngroup.com/media/articles/opengraph_images/Social-Card-AI-Design-Tools-opengraph.jpg",
+    "sources": [
+      {
+        "url": "https://www.nngroup.com/articles/ai-design-tools-update-2/",
+        "title": {
+          "zh": "NN/g: AI 设计工具只是略好了一点——2025 状态更新",
+          "en": "NN/g: AI Design Tools Are Marginally Better: Status Update"
+        },
+        "image": "https://media.nngroup.com/media/articles/opengraph_images/Social-Card-AI-Design-Tools-opengraph.jpg"
+      },
+      {
+        "url": "https://designfest.framer.media/blogs/ai-tools-every-uiux-designer-should-try",
+        "title": {
+          "zh": "Designfest: 2026 年每个 UI/UX 设计师都该试试的 10 个 AI 工具",
+          "en": "Designfest: 10 AI Tools Every UI/UX Designer Should Try in 2026"
+        },
+        "image": ""
+      },
+      {
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers/",
+        "title": {
+          "zh": "Figma: 2026 年 UX 设计师的顶级 AI 工具",
+          "en": "Figma: Top AI Tools for UX Designers in 2026"
+        },
+        "image": ""
+      },
+      {
+        "url": "https://www.guideflow.com/blog/ai-design-tools",
+        "title": {
+          "zh": "Guideflow: 2026 年 15 大 AI 设计工具对比",
+          "en": "Guideflow: 15 Best AI Design Tools in 2026 Compared"
+        },
+        "image": "https://cdn.prod.website-files.com/66ccf78be99d9f56e3f51096/69dca4677d6c2a2b2ba2f1e9_generated_image_e50e93d3.avif"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "section": "tech",
+    "title": {
+      "zh": "Google I/O 2026 今日开幕 + Musk 诉 OpenAI 案被陪审团两小时驳回：AI 巨头的法庭与舞台同时开演",
+      "en": "Google I/O 2026 Opens Today + Jury Dismisses Musk's OpenAI Lawsuit in Two Hours: AI Giants' Courtroom and Stage Performances Unfold Simultaneously"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Google I/O 2026 今日开幕（5 月 19 日 10 AM PT）：Gemini Spark、Omni Video AI、Gemini 3.5 传闻汇总</strong> — Google I/O 2026 在 Mountain View Shoreline Amphitheatre 正式开幕。根据 Nokia Power User、Trending Topics 等多个信源的预测汇总：Google 将展示 Gemini 从聊天机器人进化为「AI 操作系统层」的全面布局——包括跨应用持久 AI Agent、原生视频生成能力（Veo 升级）、Gemini Spark（轻量级创意工具）以及可能的 Gemini 3.5 模型发布。Keynote 10 AM PT 开始，Developer Keynote 1:30 PM PT。<br><small>来源：<a href=\"https://nokiapoweruser.com/google-io-2026-gemini-spark-omni-gemini-3-5-rumors/\">Nokia Power User</a> / <a href=\"https://www.trendingtopics.eu/google-i-o-2026-ai-takes-center-stage-with-new-gemini-and-video-generator/\">Trending Topics</a> / <a href=\"https://io.google/\">Google I/O 官方</a></small></li><li><strong>陪审团不到两小时驳回 Musk 诉 OpenAI 全部诉求：「等得太久才起诉」</strong> — 加州联邦陪审团以极快速度驳回了 Elon Musk 对 Sam Altman 和 OpenAI 提起的全部索赔。陪审团认为 Musk 在知情后等待太久才提起诉讼（laches 抗辩成立）。法官 Yvonne Gonzalez Rogers 随即接受陪审团建议性裁决并正式驳回案件。这场持续数月的高调诉讼以戏剧性的两小时审议告终。BBC、NPR、多家媒体均确认判决。<br><small>来源：<a href=\"https://www.bbc.com/news/articles/cewpyv79pw1o\">BBC</a> / <a href=\"https://knpr.org/npr/2026-05-18/jury-dismisses-all-claims-in-elon-musks-lawsuit-against-openai-ceo-sam-altman\">NPR</a> / <a href=\"https://www.advocate-news.com/2026/05/18/musk-openai-trial-verdict/\">Advocate News</a></small></li></ul><h3>🔄 趋势</h3><ul><li><strong>Google 全力押注「Agentic AI」</strong>：从 Cloud Next 的 Agent Gallery 到 I/O 的 Gemini Intelligence，Google 的叙事统一指向 AI Agent</li><li><strong>OpenAI 法律风险清除</strong>：Musk 诉讼被驳回意味着 OpenAI 转型营利实体的最大法律障碍已消除</li><li><strong>AI 行业格局：法庭 + 产品 + 模型三线并行</strong>：一天之内同时发生法律判决和产品发布，反映行业进入全面加速期</li></ul><div class=\"rex-take\"><h3>🔍 Rex 的看法</h3><p><strong>今天是 2026 年 AI 行业最戏剧性的 24 小时之一：一边是 Google 在 Mountain View 开演年度最大产品发布会，一边是 Musk 在加州法庭输掉了他对 OpenAI 的「背叛之战」。两件事表面无关，但放在一起看，讲的是同一个故事——AI 行业的权力结构正在快速固化。</strong></p><p>先说 Musk 败诉。两小时审议就驳回全部诉求，这个速度本身就是一种羞辱。陪审团不是在说「Musk 说的不对」，而是在说「你早就知道了，但你等到对你有利的时候才来告」。Laches 抗辩成功意味着<strong>法院认定 Musk 在 OpenAI 转型的关键时期选择了沉默，现在反悔为时已晚。</strong>这对 OpenAI 的意义不只是赢了一场官司——它基本消除了 OpenAI 从非营利转为营利架构的最大法律不确定性。Sam Altman 现在可以更自由地推进 OpenAI 的商业化，包括可能的 IPO 路径。</p><p>再说 Google I/O。昨天的日报我分析了 Gemini Intelligence + Android XR + Flash Live 的「全栈策略」，今天就是验证时刻。根据泄漏信息，Gemini 3.5 可能会被公布但「落后于 Mythos 和 GPT-5.5」——如果属实，Google 面临的叙事挑战是：<strong>如何在模型不是最强的情况下，说服开发者你的平台是最值得投入的？</strong>答案可能是「生态 + 分发 + 集成深度」。Android 的十亿设备、Chrome 的数十亿用户、Gmail/Docs/Meet 的企业渗透——Google 的论点不是「我的模型最好」而是「我的 AI 能到达最多的人和场景」。</p><p>把两件事连在一起看：<strong>2026 年 5 月，AI 行业的竞争已经不在「谁的模型更好」这个单一维度了。</strong>OpenAI 在打法律仗清除商业化障碍；Google 在打生态仗争夺开发者注意力；Anthropic 在打安全叙事争取企业信任。模型是基础，但赢家将由生态、分发、信任和商业化速度共同决定。对于关注 AI × Design 的人来说，这意味着：不要只看谁发了新模型，要看谁的 AI 最快进入你每天打开的那个工具（Figma？Notion？VS Code？）。那才是真正的竞争终局。</p></div>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Google I/O 2026 Opens Today (May 19, 10 AM PT): Gemini Spark, Omni Video AI, Gemini 3.5 Rumors</strong> — Google I/O 2026 officially opens at Shoreline Amphitheatre. Multiple sources predict: Gemini evolving from chatbot to 'AI operating system layer' — persistent cross-app AI agents, native video generation (Veo upgrades), Gemini Spark (lightweight creative tool), and possible Gemini 3.5 model reveal. Keynote at 10 AM PT, Developer Keynote at 1:30 PM PT.<br><small>Source: <a href=\"https://nokiapoweruser.com/google-io-2026-gemini-spark-omni-gemini-3-5-rumors/\">Nokia Power User</a> / <a href=\"https://www.trendingtopics.eu/google-i-o-2026-ai-takes-center-stage-with-new-gemini-and-video-generator/\">Trending Topics</a> / <a href=\"https://io.google/\">Google I/O Official</a></small></li><li><strong>Jury Dismisses All Musk vs. OpenAI Claims in Under Two Hours: 'Waited Too Long to Sue'</strong> — A California federal jury swiftly dismissed all claims in Elon Musk's lawsuit against Sam Altman and OpenAI, finding Musk waited too long to file (laches defense). Judge Yvonne Gonzalez Rogers accepted the advisory verdict and formally dismissed the case. The months-long high-profile lawsuit ended with a dramatic two-hour deliberation.<br><small>Source: <a href=\"https://www.bbc.com/news/articles/cewpyv79pw1o\">BBC</a> / <a href=\"https://knpr.org/npr/2026-05-18/jury-dismisses-all-claims-in-elon-musks-lawsuit-against-openai-ceo-sam-altman\">NPR</a></small></li></ul><h3>🔄 Trends</h3><ul><li><strong>Google goes all-in on 'Agentic AI'</strong>: From Cloud Next's Agent Gallery to I/O's Gemini Intelligence — unified narrative around AI agents</li><li><strong>OpenAI legal risk cleared</strong>: Musk lawsuit dismissal removes the biggest legal obstacle to OpenAI's for-profit transition</li><li><strong>AI industry: courtroom + product + model races run simultaneously</strong>: Legal verdict and product launch same day reflects full acceleration</li></ul><div class=\"rex-take\"><h3>🔍 Rex's Take</h3><p><strong>Today is one of 2026's most dramatic 24 hours in AI: Google opens its biggest annual product show in Mountain View while Musk loses his 'betrayal war' against OpenAI in a California courtroom. Seemingly unrelated, together they tell the same story — AI's power structure is rapidly solidifying.</strong></p><p>The Musk verdict first. Two-hour dismissal is itself a humiliation. The jury isn't saying 'Musk was wrong' — they're saying 'you knew all along but waited until it suited you.' Laches success means <strong>the court found Musk chose silence during OpenAI's critical transition, and now it's too late to object.</strong> For OpenAI this isn't just winning a lawsuit — it essentially clears the biggest legal uncertainty around their nonprofit-to-profit conversion. Altman can now more freely pursue commercialization, including a potential IPO path.</p><p>Google I/O next. Yesterday's analysis of the Gemini Intelligence + Android XR + Flash Live 'full-stack strategy' gets tested today. Leaks suggest Gemini 3.5 may arrive but 'behind Mythos and GPT-5.5' — if true, Google's narrative challenge: <strong>how to convince developers your platform matters when your model isn't frontier?</strong> The answer: ecosystem + distribution + integration depth. Android's billion devices, Chrome's billions of users, Gmail/Docs/Meet enterprise penetration — Google's argument isn't 'best model' but 'AI that reaches the most people and contexts.'</p><p><strong>May 2026: AI competition has moved beyond 'who has the better model.'</strong> OpenAI fights legal battles to clear commercialization; Google fights ecosystem battles for developer attention; Anthropic fights safety narratives for enterprise trust. Models are table stakes — winners will be determined by ecosystem, distribution, trust, and commercialization velocity. For AI × Design people: don't just watch who releases new models. Watch whose AI arrives first in the tool you open every day. That's the real endgame.</p></div>"
+    },
+    "cover": "https://nokiapoweruser.com/wp-content/uploads/2026/05/Google-2026-event-teaser.jpg",
+    "sources": [
+      {
+        "url": "https://nokiapoweruser.com/google-io-2026-gemini-spark-omni-gemini-3-5-rumors/",
+        "title": {
+          "zh": "Nokia Power User: Google I/O 2026——Gemini Spark、Omni Video AI、Gemini 3.5 传闻汇总",
+          "en": "Nokia Power User: Google I/O 2026 — Gemini Spark, Omni Video AI, Gemini 3.5 Rumors"
+        },
+        "image": "https://nokiapoweruser.com/wp-content/uploads/2026/05/Google-2026-event-teaser.jpg"
+      },
+      {
+        "url": "https://www.bbc.com/news/articles/cewpyv79pw1o",
+        "title": {
+          "zh": "BBC: 陪审团驳回 Musk 对 OpenAI 和 Altman 的诉讼",
+          "en": "BBC: Jury Tosses Elon Musk's Lawsuit Against OpenAI and Sam Altman"
+        },
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c706/live/03fe60e0-52ef-11f1-89a3-d1f559421220.jpg"
+      },
+      {
+        "url": "https://www.trendingtopics.eu/google-i-o-2026-ai-takes-center-stage-with-new-gemini-and-video-generator/",
+        "title": {
+          "zh": "Trending Topics: Google I/O 2026——AI 占据舞台中心",
+          "en": "Trending Topics: Google I/O 2026 — AI Takes Center Stage"
+        },
+        "image": ""
+      },
+      {
+        "url": "https://io.google/",
+        "title": {
+          "zh": "Google I/O 2026 官方页面",
+          "en": "Google I/O 2026 Official"
+        },
+        "image": ""
+      }
+    ]
+  },
+  {
     "date": "2026-05-18",
     "section": "design",
     "title": {
