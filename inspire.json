@@ -9888,6 +9888,238 @@
         "Rules Not Assets"
       ],
       "date": "2026-05-19"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Subscription Intelligence — 订阅疲劳的设计解药",
+      "body": "针对订阅经济时代的 AI 财务工具设计。自动检测重复订阅、评估使用频率、计算 ROI 并建议取消/降级。视觉上最出彩的是「订阅健康度」热力图——颜色越深代表越值得保留，灰色意味着你上个月根本没用它。把决策从「要不要续费」简化为「看一眼颜色」。",
+      "body_en": "AI financial tool design for the subscription economy. Auto-detects overlapping subscriptions, evaluates usage frequency, calculates ROI, and suggests cancellations/downgrades. Visual highlight: subscription health heatmap — deeper color means more worth keeping, grey means you didn't use it last month. Simplifies decisions from \"should I renew\" to \"glance at the color.\"",
+      "tags": [
+        "Subscription",
+        "Heatmap",
+        "Decision UX",
+        "Cost Optimization"
+      ],
+      "link": "https://dribbble.com/search/subscription-management-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI × 小微企业财务：从记账到决策的飞跃",
+      "body": "2026 年 Q2 最被低估的 Fintech 设计赛道：面向小微企业的 AI 财务助手。不同于面向个人的「省钱」逻辑，小微企业需要的是「活下去」的决策支持——现金流预警、应收账款催收时机、税务筹划窗口。设计挑战：如何在极简界面里承载经营级别的复杂决策？Wave、FreshBooks 的新 AI 功能正在尝试用「情景卡片」替代传统报表。",
+      "body_en": "Most underrated Q2 2026 fintech design track: AI financial assistants for SMBs. Unlike personal finance \"save money\" logic, SMBs need \"survival\" decision support — cash flow alerts, receivables collection timing, tax planning windows. Design challenge: how to fit business-level complex decisions into minimal interfaces? Wave and FreshBooks' new AI features experiment with \"scenario cards\" replacing traditional reports.",
+      "tags": [
+        "SMB Finance",
+        "Scenario Cards",
+        "Cash Flow",
+        "Decision Support"
+      ],
+      "link": "https://www.behance.net/search/projects/small%20business%20finance%20AI%20dashboard",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/43574996/file/still-6f2195b47f626192918540485276674c.png?resize=1600x1200",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Financial Copilot — 对话式税务规划界面",
+      "body": "AI 税务规划产品的对话式界面设计。不是让用户填表格，而是通过自然对话逐步收集信息。最聪明的设计：对话过程中实时生成「税务地图」——一张可视化的决策树，展示不同选择对应的税负差异。每个节点可点击展开详细解释。把恐惧（税务）变成游戏（选择树）。",
+      "body_en": "Conversational interface design for AI tax planning. Instead of forms, information is collected through natural dialogue. Smartest design: real-time generation of a \"tax map\" during conversation — a visual decision tree showing tax liability differences for each choice. Each node is clickable for details. Turning fear (taxes) into a game (choice tree).",
+      "tags": [
+        "Tax Planning",
+        "Conversational UI",
+        "Decision Tree",
+        "Gamification"
+      ],
+      "link": "https://dribbble.com/search/tax-planning-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Rex's Take：金融 AI 设计正在经历一次有趣的「下沉」——从华尔街交易员的 Bloomberg Terminal 式体验，下沉到小微企业主的「我这个月能不能发出工资」式焦虑。这不只是用户群体的变化，是设计哲学的根本转向：高端金融设计追求信息密度最大化（越多越好），而小微企业设计追求决策路径最短化（越少越好）。订阅管理热力图和税务对话树都是同一个思路：把复杂的财务决策翻译成一个直觉动作——看一眼颜色、点一下节点。2026 年 Fintech 设计的真正前沿不在 Dashboard 的像素有多精致，而在「认知负荷削减率」有多高。",
+      "body_en": "Rex's Take: Financial AI design is experiencing an interesting \"downmarket shift\" — from Wall Street trader Bloomberg Terminal experiences to SMB owner \"can I make payroll this month\" anxiety. Not just a user group change, but a fundamental design philosophy pivot: high-end finance maximizes information density (more is better), while SMB design minimizes decision paths (less is better). Subscription heatmaps and tax conversation trees share one idea: translate complex financial decisions into one intuitive action — glance at a color, click a node. The real 2026 fintech design frontier isn't pixel perfection in dashboards — it's cognitive load reduction rate.",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 群体运动分析 — 业余足球队的战术民主化",
+      "body": "面向业余运动队的 AI 战术分析 App。只需要一个手机架在场边录像，AI 自动识别球员、追踪跑位、生成热力图和传球网络。界面设计的亮点：把专业级的 Opta 数据可视化简化为「三张卡片」——控球区域、关键传球、跑动对比。业余球队教练看一眼就能布置下半场战术。",
+      "body_en": "AI tactical analysis app for amateur sports teams. Just one phone recording from the sideline — AI auto-identifies players, tracks movement, generates heatmaps and pass networks. Design highlight: simplifying Opta-level data viz into \"three cards\" — possession zones, key passes, movement comparison. Amateur coaches can plan second-half tactics at a glance.",
+      "tags": [
+        "Team Analytics",
+        "Amateur Sports",
+        "Computer Vision",
+        "Simplified Data"
+      ],
+      "link": "https://dribbble.com/search/sports-analytics-mobile",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10325530/file/original-c8c3e27c8c9dfef1c6f15025ded9ea64.jpg?resize=1600x1200",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动心理教练 — 从身体数据到心理韧性",
+      "body": "2026 年 Q2 运动科技的新边疆：AI 心理教练。不再只关注 VO2max 和心率变异性，开始追踪「心理恢复指数」——通过语音情绪分析、训练日志文本分析、社交活动模式推断运动员的心理状态。Headspace 和 Calm 的运动员版本，结合 Whoop 的生理数据，形成身心一体的训练闭环。设计语言：渐变的暖色系+呼吸节奏的微动效+极低的信息密度。",
+      "body_en": "Q2 2026 sports tech frontier: AI mental coaches. Beyond VO2max and HRV, now tracking \"psychological recovery index\" via voice emotion analysis, training log text analysis, and social activity patterns. Headspace/Calm athlete editions combined with Whoop physiological data for mind-body training loops. Design language: warm gradients + breathing rhythm micro-animations + extremely low information density.",
+      "tags": [
+        "Sports Psychology",
+        "Emotional AI",
+        "Mental Health",
+        "Warm Design"
+      ],
+      "link": "https://www.behance.net/search/projects/mental%20health%20fitness%20app",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI Hydration Coach — 环境感知的补水提醒系统",
+      "body": "运动补水 AI 的界面设计。结合天气、运动强度、出汗率预测、历史数据生成个性化补水计划。最精妙的视觉设计：用「水位线」动画直观展示当前身体水合状态——蓝色水位从底部上升到健康线以上。简单到不需要任何文字解释，一眼就知道「该喝水了」还是「状态不错」。",
+      "body_en": "Hydration AI interface design. Combines weather, exercise intensity, sweat rate prediction, and history for personalized hydration plans. Most elegant visual: \"water level\" animation intuitively showing current hydration status — blue level rising from bottom toward the healthy line. Simple enough to need zero text — one glance tells you \"drink now\" or \"you're good.\"",
+      "tags": [
+        "Hydration",
+        "Ambient Awareness",
+        "Simple Viz",
+        "Wellness"
+      ],
+      "link": "https://dribbble.com/search/hydration-tracker-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15001875/file/original-f93b35305b53eb4cc1d89890b0dbed86.png?crop=0x0-4096x3072&resize=1600x1200",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "Rex's Take：运动 AI 正在经历第三次进化。第一代是「数据记录器」（Fitbit 时代：步数、卡路里）；第二代是「训练教练」（AI 规划训练、实时反馈）；第三代正在成形——「全人关怀者」（身体+心理+社交+环境的综合感知）。今天看到的三个方向都指向这个趋势：业余足球队的战术分析不只是数据，是社交凝聚力的工具；心理教练不只是 meditation，是训练系统的情感层；补水提醒不只是生理指标，是环境感知的入口。当运动 AI 开始理解「人是一个整体」而非「人是一堆指标」，设计语言也必须跟着变——从仪表盘走向故事，从数字走向感觉，从命令走向陪伴。",
+      "body_en": "Rex's Take: Sports AI is in its third evolution. Gen 1 was \"data recorders\" (Fitbit era: steps, calories); Gen 2 was \"training coaches\" (AI planning, real-time feedback); Gen 3 is forming — \"whole-person caregivers\" (body + mind + social + environment). Today's three directions all point here: amateur team analytics isn't just data, it's a social cohesion tool; mental coaching isn't just meditation, it's training's emotional layer; hydration isn't just physiology, it's an environmental awareness gateway. When sports AI starts understanding \"humans are whole\" rather than \"humans are metrics,\" design language must follow — from dashboards to stories, numbers to feelings, commands to companionship.",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 辅助的多语言内容设计系统",
+      "body": "为全球化产品设计的 AI 多语言内容系统。不是简单翻译，而是「文化自适应排版」——日文版自动增加行高、阿拉伯文版镜像布局、德文版因为单词长度自动缩小字号。最聪明的细节：AI 检测翻译后文本长度变化，自动调整按钮宽度和卡片尺寸，确保视觉节奏不因语言而崩坏。",
+      "body_en": "AI multilingual content system for global products. Not just translation but \"culturally adaptive typography\" — Japanese gets increased line height, Arabic mirrors layout, German auto-reduces font size for longer words. Smartest detail: AI detects translated text length changes, auto-adjusts button widths and card sizes to preserve visual rhythm across languages.",
+      "tags": [
+        "i18n",
+        "Adaptive Typography",
+        "Cultural Design",
+        "Global UX"
+      ],
+      "link": "https://dribbble.com/search/multilingual-design-system",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「空间排版」— 3D 环境中的内容设计新挑战",
+      "body": "Apple Vision Pro 和 Meta Quest 催生的新设计领域：空间排版。文字不再贴在平面上，而是悬浮在 3D 空间中——阅读距离、视角、环境光照都在变化。2026 年 Q2 的实验性作品开始探索：如何让文字在深度空间中保持可读性？答案不是「更大更粗」，而是「动态对比度」——字体根据背景深度自动调整描边和阴影。",
+      "body_en": "Apple Vision Pro and Meta Quest spawning a new design field: spatial typography. Text no longer sits on flat surfaces but floats in 3D space — reading distance, viewing angle, ambient lighting all variable. Q2 2026 experimental work explores: how to maintain text readability in depth space? Answer isn't \"bigger and bolder\" but \"dynamic contrast\" — type auto-adjusts stroke and shadow based on background depth.",
+      "tags": [
+        "Spatial Computing",
+        "XR Typography",
+        "Vision Pro",
+        "Dynamic Contrast"
+      ],
+      "link": "https://www.behance.net/search/projects/spatial%20typography%20visionOS",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/46334296/file/84d1ed2927fe621b7d8446de9b6af56b.jpg?resize=1600x1200&vertical=center",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Contextual Footnotes — AI 驱动的智能注释系统",
+      "body": "重新发明脚注的 AI 内容设计。传统脚注打断阅读流，而这个系统让注释「懂时机」——只在用户阅读速度放慢（暗示困惑）时才浮现解释；快速扫描时自动隐藏。视觉上用半透明的侧边浮层，不遮挡正文但随时可用。把脚注从「作者的补充」变成「读者的按需获取」。",
+      "body_en": "Reinventing footnotes with AI content design. Traditional footnotes interrupt reading flow; this system makes annotations \"context-aware\" — explanations surface only when reading speed slows (implying confusion); auto-hide during fast scanning. Semi-transparent side panels that don't obscure body text but are always available. Transforming footnotes from \"author's supplement\" to \"reader's on-demand access.\"",
+      "tags": [
+        "Smart Annotations",
+        "Reading UX",
+        "Context-Aware",
+        "Progressive Disclosure"
+      ],
+      "link": "https://dribbble.com/search/reading-annotation-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Rex's Take：Content Design 在 2026 年 Q2 面临两个截然相反的挑战，却指向同一个答案。挑战一：全球化——同一套内容要适配 20 种语言和文化，不只是翻译文字，是翻译视觉节奏。挑战二：空间化——同一套内容要从 2D 屏幕扩展到 3D 空间，不只是放大字号，是重新理解阅读行为。两者的共同答案是：内容设计必须从「静态制品」进化为「动态系统」。你设计的不再是一个页面，而是一套规则——这套规则能根据语言、文化、设备、环境、甚至读者的实时行为自我调节。智能注释就是这个方向的微观案例：内容的可见性不由设计师决定，而由读者的需求决定。这是内容设计从「广播」到「对话」的范式转移。",
+      "body_en": "Rex's Take: Content Design in Q2 2026 faces two opposite challenges pointing to the same answer. Challenge 1: Globalization — same content must adapt to 20 languages and cultures, not just translating words but visual rhythm. Challenge 2: Spatialization — same content must extend from 2D screens to 3D space, not just enlarging type but reimagining reading behavior. Shared answer: content design must evolve from \"static artifact\" to \"dynamic system.\" You design rules, not pages — rules that self-adjust based on language, culture, device, environment, even reader's real-time behavior. Smart annotations are a micro-case: content visibility determined not by designer but by reader need. This is content design's paradigm shift from \"broadcast\" to \"dialogue.\"",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 产品的「错误美学」— 把 Hallucination 变成设计语言",
+      "body": "一个大胆的视觉探索：不把 AI 的不确定性当作 bug，而当作设计材料。当 AI 不确定时，界面元素故意变得「模糊」——文字边缘发散、颜色不饱和、形状微微抖动。用视觉直觉让用户感知可信度，比文字标注「置信度 72%」更有效。把技术缺陷转化为交互语言。",
+      "body_en": "A bold visual exploration: treating AI uncertainty not as a bug but as design material. When AI is uncertain, interface elements intentionally blur — text edges diffuse, colors desaturate, shapes subtly vibrate. Visual intuition for credibility perception, more effective than text labels \"72% confidence.\" Turning technical flaws into interaction language.",
+      "tags": [
+        "Uncertainty Design",
+        "Hallucination UX",
+        "Visual Confidence",
+        "Bold Concept"
+      ],
+      "link": "https://dribbble.com/search/ai-uncertainty-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「呼吸感」界面 — 从响应式到自主式动效",
+      "body": "2026 年 Q2 AI 界面设计的新共识：AI 产品需要「呼吸」。不是用户触发的动画，而是 AI 自主的微动效——空闲时缓慢的色彩流动、处理中的脉搏式闪烁、完成时的舒展。这些「环境动效」让 AI 产品感觉像一个活的存在而非死的工具。Anthropic、Perplexity、Arc 都在用这种设计模式——区别只在节奏和振幅。",
+      "body_en": "Q2 2026 AI interface design consensus: AI products need to \"breathe.\" Not user-triggered animations but AI-autonomous micro-motions — slow color flow when idle, pulse-like flicker when processing, expansion when complete. These \"ambient animations\" make AI feel like a living presence rather than a dead tool. Anthropic, Perplexity, Arc all using this pattern — differing only in rhythm and amplitude.",
+      "tags": [
+        "Ambient Motion",
+        "Living Interface",
+        "AI Presence",
+        "Micro-Animation"
+      ],
+      "link": "https://dribbble.com/search/ai-breathing-animation-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46797862/file/still-97001c2f52a5da46dea8ac17bf3afb6e.png",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Multi-Agent Collaboration UI — AI 团队协作的可视化",
+      "body": "当一个任务由多个 AI Agent 协作完成时，界面如何展示这个过程？这个设计方案用「接力赛」视觉隐喻——每个 Agent 是一个色块，任务在它们之间流动时颜色渐变过渡。用户能清楚看到「是哪个 Agent 在处理这一步」「上一步由谁完成」「下一步交给谁」。透明性和美感兼得。",
+      "body_en": "When multiple AI agents collaborate on a task, how does the interface show the process? This design uses a \"relay race\" visual metaphor — each agent is a color block, tasks gradient-transition between them as they flow. Users clearly see \"which agent handles this step,\" \"who finished the previous step,\" \"who gets it next.\" Transparency and beauty combined.",
+      "tags": [
+        "Multi-Agent",
+        "Process Viz",
+        "Relay Metaphor",
+        "Transparency"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-workflow-collaboration",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43827368/file/original-6c973c27254afb42ef013d26273e6b20.jpg?resize=1600x1200",
+      "date": "2026-05-20"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "Rex's Take：今天三个 Visual for AI 方向有一个共同的底层哲学——把 AI 的「内在状态」外化为视觉。不确定性变成模糊、运行状态变成呼吸、多 Agent 协作变成接力。这不只是美学选择，是认知设计的必然：当 AI 越来越复杂，文字描述已经不够用了（没人想读「Agent-3 正在执行步骤 7/12，置信度 0.83」），视觉隐喻成为唯一可扩展的沟通方式。最有意思的是「错误美学」这个方向——它挑战了一个根深蒂固的设计假设：界面必须清晰确定。当我们接受 AI 本质上是概率性的，「模糊」就不再是缺陷而是诚实。2026 年最好的 AI 视觉设计，是那些敢于说「我不确定」并且把这种不确定变成设计语言的产品。",
+      "body_en": "Rex's Take: Today's three Visual for AI directions share an underlying philosophy — externalizing AI's \"internal states\" as visual. Uncertainty becomes blur, running state becomes breathing, multi-agent collaboration becomes relay. Not just aesthetic choice but cognitive design necessity: as AI grows complex, text descriptions fail (nobody wants to read \"Agent-3 executing step 7/12, confidence 0.83\"), visual metaphors become the only scalable communication method. Most interesting: \"error aesthetics\" — challenging a deep-rooted design assumption that interfaces must be clear and certain. When we accept AI is fundamentally probabilistic, \"blur\" is no longer a defect but honesty. The best 2026 AI visual design dares to say \"I'm not sure\" and turns that uncertainty into design language.",
+      "date": "2026-05-20"
     }
   ]
 }
