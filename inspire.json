@@ -10352,6 +10352,238 @@
       "body": "Rex's Take：今天 Visual for AI 方向的三个线索拼出一个很清晰的画面——2026 年 AI 视觉设计的核心命题从「好看」变成了「可控」。置信度色彩谱把 AI 的内在不确定性外化为用户可理解的视觉信号；记忆气泡让用户直接操控 AI 的认知状态；可逆性设计让每个 AI 决策都有退路。三者的共同底层逻辑：让用户感觉自己在「驾驭」AI 而非「被 AI 驾驭」。这是一次设计价值观的根本转变——从「AI 越智能越好」变成「用户越有控制感越好」。最讽刺的是，给予用户更多控制感的产品，用户反而会让 AI 做更多事。就像方向盘和刹车让人敢开 120 码——不是因为想刹车，而是因为知道可以刹车。AI 产品的视觉设计师，现在的核心任务是「设计安全感」。",
       "body_en": "Rex's Take: Three Visual for AI signals today paint a clear picture — 2026 AI visual design's core proposition shifts from 'beautiful' to 'controllable.' Confidence color spectrums externalize AI's internal uncertainty into user-understandable visual signals; memory bubbles let users directly manipulate AI's cognitive state; reversibility design gives every AI decision an exit. Common logic: making users feel they're 'driving' AI rather than 'being driven by AI.' A fundamental value shift: from 'smarter AI is better' to 'more user control is better.' The irony: products giving more control see users actually letting AI do MORE. Like steering wheels and brakes letting people drive 120km/h — not because they want to brake, but because they know they CAN. AI visual designers' core task now: 'designing safety.'",
       "date": "2026-05-21"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Runo — AI-Powered Fintech Platform UX/UI",
+      "body": "2026 年 5 月 Behance 新作。完整的 AI 驱动 Fintech 平台设计，从仪表盘到交易流到 AI 洞察生成。最值得注意的设计决策：把 AI 推荐的「置信度」用进度条而非百分比呈现——降低了认知负荷，用户不需要理解「87% 置信」是什么意思，只需要看到一根快满的绿色条。",
+      "body_en": "Fresh May 2026 Behance work. Complete AI-driven fintech platform design — from dashboard to transaction flow to AI insight generation. Most notable design decision: displaying AI recommendation 'confidence' as progress bars rather than percentages — reducing cognitive load. Users don't need to understand what '87% confidence' means, just see a nearly-full green bar.",
+      "tags": [
+        "Fintech Platform",
+        "Confidence UI",
+        "AI Insight",
+        "Full Product"
+      ],
+      "link": "https://www.behance.net/gallery/247987115/Runo-AI-powered-Fintech-Platform-UXUI-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/064d5c247987115.69e9364742ab4.png",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Personal Finance Management Platform — 全生命周期",
+      "body": "个人财务管理的全生命周期设计：从日常记账到投资组合到退休规划。AI 不是独立功能模块而是贯穿所有页面的「底层智能」——每个数字旁边都有一个微小的 AI 解释图标。最聪明的设计：财务健康分用「心率图」隐喻呈现，让金融数据有了生命体征的直觉。",
+      "body_en": "Full lifecycle personal finance management: from daily tracking to portfolio to retirement planning. AI isn't a standalone module but 'underlying intelligence' permeating every page — tiny AI explanation icons beside every number. Smartest design: financial health score presented as 'heartbeat chart' metaphor, giving financial data the intuition of vital signs.",
+      "tags": [
+        "Personal Finance",
+        "Lifecycle Design",
+        "Heartbeat Metaphor",
+        "AI Pervasive"
+      ],
+      "link": "https://www.behance.net/gallery/248710675/AI-Personal-Finance-Management-Platform-UX-UI-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/706a01248710675.69f8452f63887.png",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Finpath — AI Finance SaaS Dashboard",
+      "body": "面向中小企业的 AI 财务 SaaS 面板。设计亮点：「异常检测」不用红色警告而用柔和的琥珀色高亮 + 自然语言解释——「本月营销支出比上月高 23%，主要来自 Q2 campaign 投放」。把告警变成对话，把恐慌变成理解。",
+      "body_en": "AI financial SaaS dashboard for SMBs. Design highlight: 'anomaly detection' uses soft amber highlights + natural language explanations instead of red alerts — 'Marketing spend is 23% above last month, primarily from Q2 campaign.' Turns alerts into conversations, panic into understanding.",
+      "tags": [
+        "SaaS Dashboard",
+        "Anomaly Detection",
+        "SMB",
+        "Conversational Alert"
+      ],
+      "link": "https://www.behance.net/gallery/248420885/Finpath-I-AI-Powered-Finance-SaaS-Dashboard-UIUX",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/acdf4e248420885.69f104d44d61c.png",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Rex's Take：今天三个 Fintech 设计案例暴露了一个正在成型的设计范式——「AI 解释权的分配」。Runo 用进度条替代百分比、Personal Finance 用心率图替代数字评分、Finpath 用自然语言替代红色警告——三者做的都是同一件事：把 AI 的专业判断翻译成普通人的直觉。这是 2026 年 Fintech UX 最深层的转变：过去的金融界面假设用户有金融素养，现在的金融界面假设 AI 有金融素养而用户只需要「感觉」。但这里有一个危险的悖论——如果用户永远只看「感觉」而不理解数字，当 AI 判断出错时，用户连质疑的能力都没有。最好的设计应该是：默认给直觉，点击给解释，深挖给原始数据。三层，一个都不能少。",
+      "body_en": "Rex's Take: Three fintech designs today expose an emerging design paradigm — 'distribution of AI explanation rights.' Runo replaces percentages with progress bars, Personal Finance replaces numeric scores with heartbeat charts, Finpath replaces red alerts with natural language — all doing the same thing: translating AI's professional judgment into ordinary human intuition. This is 2026 fintech UX's deepest shift: past financial interfaces assumed users had financial literacy; current ones assume AI has literacy while users only need 'feelings.' But there's a dangerous paradox — if users only ever see 'feelings' without understanding numbers, they lose the ability to question AI errors. The best design should be: intuition by default, explanation on click, raw data on deep dive. Three layers, none optional.",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Athlevo — Athletic Performance App Case Study",
+      "body": "Behance 高赞运动表现 App 完整案例研究。从用户研究到信息架构到最终 UI 的完整流程展示。最值得学习的：它把「运动员类型」作为整个 IA 的顶层分类——而不是「功能模块」。跑者看到跑者的世界，举重者看到举重的世界。AI 个性化不是在 UI 层做皮肤切换，而是在信息架构层重组整个产品。",
+      "body_en": "High-appreciation Behance athletic performance app — complete case study from user research to IA to final UI. Most worth learning: it uses 'athlete type' as the top-level IA taxonomy rather than 'feature modules.' Runners see a runner's world, lifters see a lifter's world. AI personalization isn't skin-switching at UI level — it's restructuring the entire product at the IA level.",
+      "tags": [
+        "Case Study",
+        "Sports IA",
+        "Personalization",
+        "Athlete-First"
+      ],
+      "link": "https://www.behance.net/gallery/215604685/Athlevo-Athletic-App-UXUI-Case-study",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_808_webp/3ad334213013991.Y3JvcCwyNjcyLDIwODksMCw2.jpg",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI × 运动社交：从「个人量化」到「集体智能」",
+      "body": "2026 年 5 月运动科技的最新趋势：AI 不再只服务于个人训练优化，而是开始驱动运动社群的「集体智能」。新一代 App 把团队成员的训练数据聚合分析，AI 自动发现「谁和谁适合配对训练」「哪个时间段社区最活跃」「哪种团体挑战完成率最高」。设计上的关键创新：把个人数据仪表盘变成「社交网络图谱」——你不只是在看自己的数据，而是看到自己在社区中的位置。",
+      "body_en": "May 2026's latest sports tech trend: AI no longer serves just individual training optimization but drives 'collective intelligence' in sports communities. New apps aggregate team training data — AI auto-discovers 'who pairs well for training,' 'when the community is most active,' 'which group challenges have highest completion rates.' Key design innovation: transforming personal dashboards into 'social network graphs' — you see not just your data but your position within the community.",
+      "tags": [
+        "Collective Intelligence",
+        "Sports Social",
+        "Community AI",
+        "Network Graph"
+      ],
+      "link": "https://dribbble.com/search/social-fitness-community-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12083587/file/original-4f31bcadd6a85b02e1f61b5b24b90c5a.png?resize=1600x1200",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI Wellness & Aging Care — 运动恢复的极简设计",
+      "body": "把运动恢复、情绪追踪、用药提醒整合进一个极简界面。Behance 上 Wellness × AI 的代表作。设计语言极度克制：低饱和色系、大量留白、每屏只呈现一个核心信息。证明了运动健康类 App 不需要「活力四射」的视觉语言——有时候，安静就是最好的设计。",
+      "body_en": "Integrating recovery, mood tracking, and medication reminders into one minimal interface. A standout Wellness × AI work on Behance. Extremely restrained design language: desaturated palette, generous whitespace, one core message per screen. Proves fitness-health apps don't need 'energetic' visual language — sometimes quiet is the best design.",
+      "tags": [
+        "Wellness",
+        "Minimal",
+        "Recovery",
+        "Calm Design"
+      ],
+      "link": "https://www.behance.net/gallery/242023175/UIUX-for-Wellness-Aging-Care-Mood-Meds-Tracking-app",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_808_webp/241906198818789.Y3JvcCwxMDM4LDgxMiwxMjMsNTE.png",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "Rex's Take：运动 AI 设计在 2026 年 5 月呈现出一个清晰的分化——产品层面从「个人工具」走向「社区平台」，但视觉层面反而从「热血激昂」走向「安静克制」。Athlevo 用信息架构层的个性化替代了 UI 层的花哨；Wellness App 用极简主义证明健康 App 不需要尖叫；社交化趋势把数据从「镜子」（看自己）变成「窗户」（看他人）。这三个信号指向同一个结论：2026 年最好的运动 AI 产品不是让你更努力地训练，而是让你更聪明地融入一个运动社区。孤独是运动坚持最大的敌人，AI 终于开始解决这个真正的问题了。但有一个设计陷阱需要警惕——社交化容易变成竞争化，而过度竞争是让普通用户流失的第一杀手。最好的运动社交设计应该是「协作性」的而非「排名性」的。",
+      "body_en": "Rex's Take: Sports AI design in May 2026 shows clear divergence — product-level moves from 'personal tool' to 'community platform,' but visual-level moves from 'pumped up' to 'quiet restraint.' Athlevo uses IA-level personalization instead of UI-level flashiness; Wellness App proves health apps don't need to shout; social trends transform data from 'mirror' (seeing yourself) to 'window' (seeing others). Three signals, one conclusion: 2026's best sports AI products don't make you train harder — they make you smarter about belonging to a fitness community. Loneliness is exercise's biggest enemy, and AI is finally addressing the real problem. But one design trap to watch: socialization easily becomes competition, and excessive competition is the #1 churn driver for casual users. The best sports social design should be 'collaborative' not 'ranking-based.'",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Shibari — 情感边界的编辑式设计",
+      "body": "Behance 上极具艺术性的编辑式设计项目。把日本绳艺的主题用极度克制的排版处理——大面积黑色负空间、衬线体标题、身体曲线与字母曲线的隐喻对应。证明了 editorial design 的核心不是「排得好看」而是「让内容的情感通过排版传达」。内容越敏感，排版越需要克制。",
+      "body_en": "Highly artistic editorial design project on Behance. Treating Japanese rope art with extremely restrained typography — vast black negative space, serif headlines, metaphorical correspondence between body curves and letterforms. Proves editorial design's core isn't 'looking good' but 'conveying content emotion through typography.' The more sensitive the content, the more restrained the layout must be.",
+      "tags": [
+        "Editorial Art",
+        "Negative Space",
+        "Serif",
+        "Emotional Typography"
+      ],
+      "link": "https://www.behance.net/gallery/235117783/Shibari-The-Art-of-Emotions-and-Boundaries-Editorial",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_808_webp/243eff232759773.Y3JvcCwzODM1LDMwMDAsOTQsMA.jpg",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AVRIL 2026 — 数字杂志排版新标杆",
+      "body": "2026 年度数字杂志排版设计。可变字体 + 动态网格 + 响应式排版的三位一体实践。最亮眼的细节：标题字重随滚动距离实时变化（从 Light 到 Bold 的连续过渡），让阅读变成一种「触感」体验。不是 gimmick——它通过字重变化暗示了内容的重要性层级。",
+      "body_en": "2026 digital magazine typography design. Variable fonts + dynamic grid + responsive typography trinity in practice. Most striking detail: headline weight changes in real-time with scroll distance (continuous Light to Bold transition), making reading a 'tactile' experience. Not a gimmick — weight variation implies content importance hierarchy.",
+      "tags": [
+        "Variable Fonts",
+        "Dynamic Typography",
+        "Digital Magazine",
+        "Scroll Interaction"
+      ],
+      "link": "https://www.behance.net/gallery/243460905/AVRIL-2026",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_808_webp/0b1737239249555.6926ec3d9213c.jpg",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI × Editorial：自动化排版的「最后一公里」问题",
+      "body": "2026 年中内容设计领域的核心讨论：AI 排版工具（Framer AI、Relume、Figma AI）已经能生成 80 分的版面，但剩下的 20 分——节奏感、意外感、情感温度——仍然是人类编辑的领地。行业开始区分「AI 排版」（效率工具）和「Editorial Design」（创意行为）。最好的工作流不是 AI 替代人类，而是 AI 处理 60% 的重复排版决策，让人类把 100% 精力花在那 40% 的创意决策上。",
+      "body_en": "Mid-2026's core content design discussion: AI layout tools (Framer AI, Relume, Figma AI) can generate 80-point pages, but the remaining 20 — rhythm, surprise, emotional temperature — remains human editorial territory. Industry distinguishing 'AI layout' (efficiency tool) from 'Editorial Design' (creative act). Best workflow isn't AI replacing humans but AI handling 60% of repetitive layout decisions so humans spend 100% energy on the 40% creative decisions.",
+      "tags": [
+        "AI Layout",
+        "Editorial vs Auto",
+        "Last Mile",
+        "Creative Workflow"
+      ],
+      "link": "https://dribbble.com/search/editorial-design-2026",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Rex's Take：今天 Content Design 方向的三个发现讲的是一个关于「克制」的故事。Shibari 项目用黑色负空间和衬线体处理一个极度敏感的主题——证明了排版的最高境界是「退后一步让内容呼吸」；AVRIL 2026 用可变字体的连续字重变化创造了一种新的阅读体感——但它之所以有效是因为只在标题用，正文保持稳定；AI 排版的「最后一公里」问题本质上也是克制的问题——AI 不知道什么时候该打破规则。三者共同指向一个老生常谈但永远正确的原则：最好的内容设计是有纪律的克制 + 有目的的打破。AI 能学会规则，但学不会什么时候打破规则。这就是 2026 年 content designer 的不可替代性所在。",
+      "body_en": "Rex's Take: Three Content Design findings today tell a story about 'restraint.' Shibari uses black negative space and serif type for an extremely sensitive subject — proving typography's highest form is 'stepping back to let content breathe'; AVRIL 2026 creates new reading tactility through variable font weight transitions — effective because it's only on headlines while body stays stable; AI layout's 'last mile' problem is essentially a restraint problem — AI doesn't know when to break rules. All three point to an evergreen truth: the best content design is disciplined restraint + purposeful rule-breaking. AI can learn rules but can't learn when to break them. That's the 2026 content designer's irreplaceability.",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "OZY — AI 3D Hardware Design UI & Visual Identity",
+      "body": "Behance 新作：把 AI 硬件产品的 3D 渲染与 UI 界面设计无缝融合。最前沿的设计探索——产品实体和数字界面不再是两个独立的设计维度，而是一个连续的视觉系统。硬件的材质质感延伸到 UI 的按钮触感，UI 的色彩方案反过来定义硬件的配色。AI 硬件的下一个设计命题：物理和数字的统一。",
+      "body_en": "Fresh Behance work: seamlessly fusing AI hardware product 3D rendering with UI design. Cutting-edge exploration — physical product and digital interface are no longer separate design dimensions but one continuous visual system. Hardware material texture extends to UI button tactility; UI color scheme defines hardware colorway. Next design proposition for AI hardware: physical-digital unity.",
+      "tags": [
+        "Hardware-Software Unity",
+        "3D",
+        "AI Hardware",
+        "Visual System"
+      ],
+      "link": "https://www.behance.net/gallery/246044411/OZY-AI-3D-Hardware-Design-UI-Visual-Identity",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_808_webp/739330246827729.Y3JvcCw1NzYwLDQ1MDUsMCwyOA.jpg",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Crunch — AI Platform UX/UI 系统设计",
+      "body": "企业级 AI 平台的完整 UX/UI 系统设计。不是单一功能，而是一个支撑多个 AI 能力（NLP、CV、预测）的统一设计系统。最值得研究的设计决策：用「能力卡片」替代传统的功能菜单——每个 AI 能力是一张可组合的卡片，用户通过拖拽组合来构建自己的 AI 工作流。把复杂的 AI 能力编排降维到乐高积木的认知模型。",
+      "body_en": "Complete UX/UI system design for enterprise AI platform. Not a single feature but a unified design system supporting multiple AI capabilities (NLP, CV, prediction). Most noteworthy design decision: 'capability cards' replace traditional feature menus — each AI capability is a composable card, users drag-and-combine to build custom AI workflows. Reduces complex AI capability orchestration to LEGO-brick cognitive model.",
+      "tags": [
+        "Enterprise AI",
+        "Design System",
+        "Composable Cards",
+        "Platform UX"
+      ],
+      "link": "https://www.behance.net/gallery/223584647/AI-Platform-UXUI-AI-Crunch",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_808_webp/61eb67242152985.Y3JvcCwyNDI0LDE4OTYsMCww.jpg",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Nexa — AI Analytics Dashboard & AI Assistant",
+      "body": "最新 Behance 热门项目：AI 分析仪表盘 + 内嵌 AI 助手的双模态设计。当用户在仪表盘上遇到不理解的数据时，可以直接框选区域然后呼出 AI 助手进行解释——不是跳转到另一个页面，而是就地展开解释气泡。把「数据浏览」和「数据理解」两种模式的切换成本降到零。",
+      "body_en": "Latest trending Behance project: AI analytics dashboard + embedded AI assistant dual-mode design. When users encounter unclear data, they can directly select a region and summon AI assistant for explanation — no page jump, just an in-place explanation bubble. Reduces switching cost between 'data browsing' and 'data understanding' to zero.",
+      "tags": [
+        "Dual Mode",
+        "In-Place AI",
+        "Analytics",
+        "Zero Switch Cost"
+      ],
+      "link": "https://www.behance.net/gallery/248123949/Nexa-AI-Analytics-Dashboard-AI-Assistant",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_808_webp/862b03248123949.Y3JvcCwxMTUwLDkwMCwwLDA.png",
+      "date": "2026-05-22"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "Rex's Take：今天 Visual for AI 的三个案例分别代表了 AI 产品设计的三个前沿方向——OZY 探索的是「物理-数字统一体」，当 AI 同时存在于硬件和软件中时，视觉系统怎么跨越两个世界；AI Crunch 探索的是「能力编排的认知降维」，用乐高积木的心智模型让非技术用户也能组装 AI 工作流；Nexa 探索的是「就地理解」，消灭数据浏览和数据分析之间的模态切换。三者的共同主题：降低 AI 的认知门槛，但方式完全不同。OZY 靠物理直觉（你摸过硬件就理解 UI），AI Crunch 靠空间直觉（拖拽组合就像搭积木），Nexa 靠上下文直觉（就在你看数据的地方解释数据）。2026 年 AI 产品设计的核心竞争力不是「功能多不多」，而是「门槛低不低」。但门槛不是越低越好——太低会让用户失去对复杂系统的敬畏，在关键决策时犯下不可逆的错误。最好的设计是：入门门槛低，进阶门槛明确，高风险操作门槛刻意拉高。",
+      "body_en": "Rex's Take: Three Visual for AI cases today represent three frontier directions — OZY explores 'physical-digital unity' when AI exists in both hardware and software; AI Crunch explores 'cognitive reduction for capability orchestration' with LEGO mental models for non-technical users; Nexa explores 'in-place understanding' eliminating modal switches between browsing and analyzing data. Common theme: lowering AI's cognitive barrier, but through entirely different means. OZY uses physical intuition (touching hardware = understanding UI), AI Crunch uses spatial intuition (drag-and-drop = building blocks), Nexa uses contextual intuition (explain data right where you're looking). 2026 AI product design's core competitiveness isn't 'how many features' but 'how low the threshold.' But lower isn't always better — too low makes users lose respect for complex systems, leading to irreversible mistakes on critical decisions. Best design: low entry threshold, clear progression threshold, deliberately elevated high-risk operation threshold.",
+      "date": "2026-05-22"
     }
   ]
 }
