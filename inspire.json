@@ -10584,6 +10584,238 @@
       "body": "Rex's Take：今天 Visual for AI 的三个案例分别代表了 AI 产品设计的三个前沿方向——OZY 探索的是「物理-数字统一体」，当 AI 同时存在于硬件和软件中时，视觉系统怎么跨越两个世界；AI Crunch 探索的是「能力编排的认知降维」，用乐高积木的心智模型让非技术用户也能组装 AI 工作流；Nexa 探索的是「就地理解」，消灭数据浏览和数据分析之间的模态切换。三者的共同主题：降低 AI 的认知门槛，但方式完全不同。OZY 靠物理直觉（你摸过硬件就理解 UI），AI Crunch 靠空间直觉（拖拽组合就像搭积木），Nexa 靠上下文直觉（就在你看数据的地方解释数据）。2026 年 AI 产品设计的核心竞争力不是「功能多不多」，而是「门槛低不低」。但门槛不是越低越好——太低会让用户失去对复杂系统的敬畏，在关键决策时犯下不可逆的错误。最好的设计是：入门门槛低，进阶门槛明确，高风险操作门槛刻意拉高。",
       "body_en": "Rex's Take: Three Visual for AI cases today represent three frontier directions — OZY explores 'physical-digital unity' when AI exists in both hardware and software; AI Crunch explores 'cognitive reduction for capability orchestration' with LEGO mental models for non-technical users; Nexa explores 'in-place understanding' eliminating modal switches between browsing and analyzing data. Common theme: lowering AI's cognitive barrier, but through entirely different means. OZY uses physical intuition (touching hardware = understanding UI), AI Crunch uses spatial intuition (drag-and-drop = building blocks), Nexa uses contextual intuition (explain data right where you're looking). 2026 AI product design's core competitiveness isn't 'how many features' but 'how low the threshold.' But lower isn't always better — too low makes users lose respect for complex systems, leading to irreversible mistakes on critical decisions. Best design: low entry threshold, clear progression threshold, deliberately elevated high-risk operation threshold.",
       "date": "2026-05-22"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Astra — AI 预算规划器的情境化建议界面",
+      "body": "新一代 AI 预算规划器，把 AI 建议嵌入用户实际花钱的场景：当你刷外卖 App 时，侧边推送一条「本月餐饮已超预算 22%」的温和提醒。设计上最聪明的一点是用透明度变化而非弹窗来传递信息——不打断，只提醒。",
+      "body_en": "Next-gen AI budget planner embedding advice into real spending contexts: when you open a food delivery app, a gentle sidebar nudge says 'dining is 22% over budget this month.' Cleverest design choice: using opacity changes instead of popups — informing without interrupting.",
+      "tags": [
+        "Contextual AI",
+        "Budget",
+        "Non-Intrusive",
+        "Mobile"
+      ],
+      "link": "https://dribbble.com/search/ai-budget-planner",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Agentic Finance — AI Agent 自主执行金融操作",
+      "body": "2026 年 Q2 最火的 Fintech 概念：Agentic Finance。不再是 AI 给建议然后等用户点确认，而是 AI Agent 在用户设定的规则范围内自主执行操作——自动转存多余现金、自动再平衡投资组合、自动申请更低利率。设计挑战：如何让用户信任一个「自己会动的」金融系统？答案是「透明日志 + 可逆操作 + 渐进授权」。",
+      "body_en": "Hottest Q2 2026 fintech concept: Agentic Finance. AI no longer advises and waits for confirmation — agents autonomously execute within user-set rules: auto-sweep excess cash, auto-rebalance portfolios, auto-apply for lower rates. Design challenge: how to trust a financial system that 'moves on its own'? Answer: transparent logs + reversible actions + progressive authorization.",
+      "tags": [
+        "Agentic Finance",
+        "Autonomous",
+        "Trust Design",
+        "Progressive Auth"
+      ],
+      "link": "https://www.behance.net/search/projects/agentic%20finance%20AI",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Split — AI 驱动的 AA 制智能分账",
+      "body": "社交金融 App，AI 自动识别消费场景并建议分账规则：聚餐按人头、合租按面积、旅行按实际消费。界面设计融合了社交 App 的轻松感和金融 App 的精确感——emoji 头像 + 精确到分的金额 + 一键催款的温和措辞。",
+      "body_en": "Social finance app where AI auto-detects spending contexts and suggests splitting rules: dining by headcount, rent by area, travel by actual spend. UI merges social app playfulness with financial precision — emoji avatars + cent-accurate amounts + gentle nudge-to-pay copy.",
+      "tags": [
+        "Social Finance",
+        "Bill Split",
+        "Context-Aware",
+        "Playful"
+      ],
+      "link": "https://dribbble.com/search/bill-splitting-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15654254/file/original-2180bd881dc3854e3838d0644ed7217c.png?resize=752x&vertical=center",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Rex's Take：Fintech 设计在 2026 年 Q2 正式进入「Agentic」时代——AI 不再是顾问，而是执行者。这带来一个全新的设计挑战：「代理权界面」。过去金融 App 的核心交互是「我操作，系统执行」；现在变成了「系统操作，我监督」。监督型交互和操作型交互的 UX 模式完全不同。监督需要的是：清晰的活动日志（我能看到 AI 做了什么）、一键撤销（我能反悔）、渐进式信任（先小额授权，再逐步放权）。最有趣的案例是情境化预算提醒——它代表了一种新的 AI 干预哲学：不是在金融 App 里等你来看，而是在你花钱的那个瞬间出现。AI 正在从「仪表盘里的分析师」变成「跟在你身边的理财管家」。但边界在哪里？当 AI 在你刷信用卡的时候说「别买了」，你是感恩还是烦躁？这个度的拿捏，就是 2026 年 Fintech UX 设计师的核心功力。",
+      "body_en": "Rex's Take: Fintech design officially enters the 'Agentic' era in Q2 2026 — AI is no longer advisor but executor. This creates an entirely new design challenge: 'agency interfaces.' Previously the core interaction was 'I act, system executes'; now it's 'system acts, I supervise.' Supervisory UX patterns differ completely from operational ones. Supervision needs: clear activity logs (seeing what AI did), one-click undo (I can reverse), progressive trust (start small, expand gradually). Most interesting: contextual budget nudges represent a new AI intervention philosophy — not waiting in a finance app, but appearing at the moment of spending. AI is evolving from 'analyst in the dashboard' to 'financial butler walking beside you.' But where's the line? When AI says 'don't buy this' as you swipe your card — grateful or annoyed? Calibrating that threshold is the core skill for 2026 fintech UX designers.",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "FlowState — AI 冥想 × 运动恢复的跨界 App",
+      "body": "把冥想和运动恢复合并的 AI App。根据今天的训练强度、心率数据、睡眠质量，AI 动态生成个性化冥想引导——高强度训练后推荐「身体扫描」，睡眠不足推荐「能量恢复」。视觉语言极静——深蓝渐变、呼吸节奏动效、近乎无界面的极简设计。",
+      "body_en": "App merging meditation with sports recovery. Based on today's training intensity, HR data, and sleep quality, AI dynamically generates personalized meditation guides — 'body scan' after intense training, 'energy recovery' for sleep-deprived days. Ultra-calm visual language: deep blue gradients, breathing rhythm animations, near-zero-UI minimalism.",
+      "tags": [
+        "Meditation",
+        "Recovery",
+        "Adaptive",
+        "Calm UI"
+      ],
+      "link": "https://dribbble.com/search/meditation-fitness-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12821657/file/original-5a25dd60b380c500c9f8e5df330f947b.jpg?resize=752x&vertical=center",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动相机 × 自动剪辑：运动内容创作自动化",
+      "body": "2026 年运动科技和内容创作的交叉点：AI 运动相机（如 Insta360 的新品）自动识别精彩瞬间并生成分享级剪辑。设计不止是 App UI，而是整个从拍摄到分享的工作流。核心 UX 洞察：运动中不可能操作手机，所以 AI 必须完全自主——事后只需确认「发布还是删除」。",
+      "body_en": "2026 intersection of sports tech and content creation: AI sports cameras (like Insta360's new products) auto-detect highlight moments and generate share-ready edits. Design isn't just app UI but the entire capture-to-share workflow. Core UX insight: can't operate phone during sports, so AI must be fully autonomous — post-activity just confirm 'publish or delete.'",
+      "tags": [
+        "AI Camera",
+        "Auto-Edit",
+        "Content Creation",
+        "Zero-Input"
+      ],
+      "link": "https://www.behance.net/search/projects/sports%20camera%20AI%20app",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "GymBro — AI 力量训练的「组间休息」交互设计",
+      "body": "一个被忽视的设计细节：力量训练 App 在组间休息时该展示什么？GymBro 的答案是：30 秒倒计时 + 下一组动作预览 + AI 基于前几组表现的实时调整建议（「上一组 RPE 偏高，建议减重 5%」）。大字体数字 + 极简背景 + 单手可操作——因为用户满手是汗。",
+      "body_en": "An overlooked design detail: what to show during rest intervals in strength training? GymBro's answer: 30s countdown + next set preview + AI real-time adjustment based on previous sets ('last set RPE was high, suggest -5% weight'). Large type numbers + minimal background + one-hand operable — because users' hands are sweaty.",
+      "tags": [
+        "Strength Training",
+        "Rest Interval",
+        "Micro-Moment",
+        "Sweat-Proof"
+      ],
+      "link": "https://dribbble.com/search/gym-workout-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/13980326/file/original-aaedb7b572cfadeaee9fdbe38a09fd3f.jpg?resize=752x",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "Rex's Take：今天三个运动 AI 案例代表了三个完全不同的交互时态——FlowState 是「训练后」（恢复），AI Camera 是「训练中」（记录），GymBro 是「组间」（微决策）。最有意思的观察：运动 AI 的设计颗粒度正在急剧细化。过去一个健身 App 覆盖从计划到执行到分析的全流程，现在越来越多产品聚焦在运动体验中一个极其微小的时间切片上做到极致。「组间休息的 30 秒」是一个绝佳的设计案例——时间极短、注意力有限、身体状态特殊（心率高、手汗）、但决策价值极高（要不要加重？下一组调整什么？）。AI Camera 的零输入设计哲学更激进：运动过程中完全不需要用户交互，AI 自主完成一切，用户只在事后做「策展」。这是 AI 产品设计的终极形态：不是让交互更简单，而是消灭交互本身。",
+      "body_en": "Rex's Take: Three sports AI cases today represent three completely different interaction temporalities — FlowState is 'post-training' (recovery), AI Camera is 'during training' (recording), GymBro is 'between sets' (micro-decisions). Most interesting observation: sports AI design granularity is sharpening dramatically. A fitness app used to cover plan-to-execution-to-analysis full cycle; now products increasingly focus on one ultra-narrow time slice of the athletic experience, perfecting it. The '30 seconds between sets' is a brilliant design case: extremely short, limited attention, unusual body state (high HR, sweaty hands), but high decision value (add weight? adjust next set?). AI Camera's zero-input design philosophy is even more radical: zero user interaction during activity, AI handles everything autonomously, user only 'curates' afterward. This is AI product design's ultimate form: not making interaction simpler, but eliminating interaction itself.",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Substack Notes 重设计 — 短内容的排版美学",
+      "body": "对 Substack Notes（短帖子格式）的重设计概念。核心洞察：短内容不等于低设计投入。每条 Note 是一张精心排版的卡片——引用块用衬线体、正文用 sans-serif、附图有微妙的阴影和圆角。把 Twitter 的即时性和 Newsletter 的排版质感结合。",
+      "body_en": "Redesign concept for Substack Notes (short-form posts). Core insight: short content ≠ low design investment. Each Note is a carefully typeset card — pullquotes in serif, body in sans-serif, images with subtle shadows and rounded corners. Combining Twitter's immediacy with newsletter's typographic quality.",
+      "tags": [
+        "Short-Form",
+        "Card Design",
+        "Typography",
+        "Substack"
+      ],
+      "link": "https://dribbble.com/search/substack-redesign",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI × CMS — 内容管理系统的智能化革命",
+      "body": "2026 年 CMS 领域最大的变化：AI 原生内容管理。Notion AI、Sanity 的 AI Assist、以及新创公司如 Kontent.ai 正在重新定义「内容管理」——不只是存储和发布，而是 AI 自动生成 metadata、建议内部链接、检测内容过时程度、甚至预测内容表现。对内容设计师来说，这意味着工作重心从「生产内容」转向「策展和质控」。",
+      "body_en": "2026's biggest CMS shift: AI-native content management. Notion AI, Sanity's AI Assist, startups like Kontent.ai redefining 'content management' — not just storage and publishing but AI auto-generating metadata, suggesting internal links, detecting content staleness, even predicting content performance. For content designers, work shifts from 'producing content' to 'curation and quality control.'",
+      "tags": [
+        "CMS",
+        "AI-Native",
+        "Metadata",
+        "Content Ops"
+      ],
+      "link": "https://www.behance.net/search/projects/AI%20CMS%20content%20management",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Kinetic Typography — 动态排版在落地页中的复兴",
+      "body": "动态排版（Kinetic Typography）在 2026 年 web 设计中强势回归。不是十年前 Flash 时代的花哨动画，而是克制的、有节奏的、服务于叙事的文字动效——滚动触发的字重渐变、视口进入时的逐字显现、hover 时的间距呼吸。Awwwards 上近一个月最佳站点中超过 60% 使用了动态排版。",
+      "body_en": "Kinetic Typography makes a strong 2026 web comeback. Not Flash-era flashiness but restrained, rhythmic, narrative-serving text motion — scroll-triggered weight transitions, viewport-entry letter reveals, hover-triggered spacing breathing. Over 60% of recent Awwwards site-of-the-day winners use kinetic typography.",
+      "tags": [
+        "Kinetic Type",
+        "Motion",
+        "Web Animation",
+        "Scroll"
+      ],
+      "link": "https://dribbble.com/search/kinetic-typography-web",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/45973854/file/still-c9cf8d52e34e08a7d10c08e814c1062f.png?resize=1600x1200",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Rex's Take：Content Design 在 2026 年 Q2 出现了一个有趣的「分层」现象——底层是 AI 驱动的内容基础设施（CMS 自动化、metadata 生成、内容生命周期管理），中层是经典的排版工艺（字体选择、间距控制、阅读节奏），顶层是感性的动态表达（kinetic typography、微动效、scroll storytelling）。三层缺一不可：只有底层=高效但无聊；只有顶层=花哨但空洞；三层协同=内容体验的最高境界。Substack Notes 的重设计概念说明了一个被低估的真理：越短的内容，排版越重要。一条 280 字符的推文在纯文本和精心排版之间的感知差距，远大于一篇 5000 字文章。短内容是排版的压力测试——每一个设计决策都暴露在外，无处可藏。",
+      "body_en": "Rex's Take: Content Design shows an interesting 'stratification' in Q2 2026 — base layer is AI-driven content infrastructure (CMS automation, metadata generation, content lifecycle management), middle layer is classic typographic craft (font choice, spacing control, reading rhythm), top layer is emotive dynamic expression (kinetic typography, micro-motion, scroll storytelling). All three are essential: base only = efficient but boring; top only = flashy but hollow; all three synced = peak content experience. Substack Notes redesign illustrates an underrated truth: the shorter the content, the more typography matters. The perceptual gap between plain text and carefully typeset for a 280-character tweet is far greater than for a 5000-word article. Short content is typography's stress test — every design decision is exposed, nowhere to hide.",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Cursor Tab 2.0 — AI 代码编辑器的「幽灵代码」视觉设计",
+      "body": "Cursor 最新版的 AI 代码补全视觉设计值得单独分析：幽灵代码（ghost code）用 30% 透明度显示 AI 建议、Tab 键接受后渐显至 100%、拒绝后淡出消失。这套视觉系统解决了 AI 代码编辑器的核心 UX 问题：如何在不干扰阅读流的情况下展示建议？答案是把 AI 变成「文本的影子」。",
+      "body_en": "Cursor's latest AI code completion visual design deserves standalone analysis: ghost code at 30% opacity for AI suggestions, fading to 100% on Tab accept, fading out on reject. This visual system solves the core UX problem for AI code editors: how to show suggestions without disrupting reading flow? Answer: make AI 'the text's shadow.'",
+      "tags": [
+        "Code Editor",
+        "Ghost UI",
+        "Opacity",
+        "Developer Tools"
+      ],
+      "link": "https://www.cursor.com",
+      "linkText": "Cursor",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「置信度可视化」成为设计标配",
+      "body": "2026 年 Q2 一个已经从趋势变成标配的设计 pattern：AI 输出的置信度可视化。从 ChatGPT 的「我不确定但...」到 Perplexity 的来源数量标注，再到医疗 AI 的风险色带、金融 AI 的信号强度条——用户已经被训练成期望看到 AI 对自己答案「有多确定」。没有置信度展示的 AI 产品开始让人不安。",
+      "body_en": "A design pattern that went from trend to table stakes in Q2 2026: AI output confidence visualization. From ChatGPT's 'I'm not sure but...' to Perplexity's source count badges, medical AI's risk color bands, financial AI's signal strength bars — users now expect to SEE how confident AI is about its own answers. AI products without confidence display now feel unsettling.",
+      "tags": [
+        "Confidence UI",
+        "Trust",
+        "AI Transparency",
+        "Table Stakes"
+      ],
+      "link": "https://dribbble.com/search/ai-confidence-score",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Claude Artifacts — AI 生成内容的「舞台」设计",
+      "body": "Anthropic Claude 的 Artifacts 面板是 2026 年最被低估的 AI UI 创新之一。把 AI 生成的内容从聊天流中「升级」到独立的可交互画布——代码可运行、图表可编辑、文档可协作。视觉上是一个简洁的白色面板，但其设计哲学深刻：AI 的输出不只是「回复」，而是「作品」，值得一个舞台。",
+      "body_en": "Anthropic Claude's Artifacts panel is one of 2026's most underrated AI UI innovations. Elevating AI-generated content from chat flow to an independent interactive canvas — code runs, charts edit, docs collaborate. Visually a clean white panel, but profound design philosophy: AI output isn't just a 'reply' — it's a 'creation' that deserves a stage.",
+      "tags": [
+        "Artifacts",
+        "Canvas UI",
+        "AI Output",
+        "Anthropic"
+      ],
+      "link": "https://www.anthropic.com",
+      "linkText": "Anthropic",
+      "image": "https://cdn.dribbble.com/userupload/43031179/file/original-f059e3209673ba9874a301a18f233c88.png?resize=752x&vertical=center",
+      "date": "2026-05-23"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "Rex's Take：今天三个 Visual for AI 案例串联起来，讲的是一个关于「AI 可见性光谱」的故事。Cursor 的 ghost code 代表光谱的「隐性」端——AI 存在但几乎不可见，像影子一样跟随；置信度可视化代表光谱的「显性」端——AI 主动告诉你它有多确定；Claude Artifacts 代表一个新维度——AI 的输出获得独立存在的空间。三种设计哲学对应三种人机关系：影子（我辅助你）、对话者（我告诉你我的状态）、创作者（我的作品值得独立展示）。2026 年最好的 AI 产品不是只选一种，而是在不同场景中流畅切换。写代码时 AI 是影子，做决策时 AI 是显性对话者，生成内容时 AI 是独立创作者。这种「AI 角色的动态切换」可能是下半年最值得关注的交互设计方向。",
+      "body_en": "Rex's Take: Three Visual for AI cases today tell a story about the 'AI visibility spectrum.' Cursor's ghost code represents the 'implicit' end — AI exists but is nearly invisible, following like a shadow; confidence visualization represents the 'explicit' end — AI proactively declares its certainty; Claude Artifacts represents a new dimension — AI output gains independent existence space. Three design philosophies for three human-AI relationships: shadow (I assist you), interlocutor (I tell you my state), creator (my work deserves its own stage). The best 2026 AI products don't pick one but fluidly switch between them. Coding: AI is shadow. Decision-making: AI is explicit interlocutor. Content generation: AI is independent creator. This 'dynamic AI role-switching' may be H2's most important interaction design direction.",
+      "date": "2026-05-23"
     }
   ]
 }
