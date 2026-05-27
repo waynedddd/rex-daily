@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-05-27",
+    "section": "design",
+    "title": {
+      "zh": "Jony Ive 的法拉利电动车设计引发争议——当顶级设计师遇上新品类，「克制」是勇气还是失误？",
+      "en": "Jony Ive's Ferrari EV Design Proves Divisive — When Top Designers Meet New Categories, Is Restraint Courage or Misstep?"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>法拉利首款电动车 Luce 发布，Jony Ive 主导设计引发市场震荡</strong> — Ferrari 发布其首款纯电动车 Luce，由前 Apple 首席设计官 Jony Ive 操刀外观设计。然而发布后股价下跌，市场和车迷对其设计语言产生严重分歧。Ive 标志性的极简主义被批评「太像家电」「丢失了法拉利的攻击性」，但支持者认为这正是电动时代需要的新设计语言——不再用假进气格栅伪装内燃机时代的遗产。<br><small>来源：<a href=\"https://www.theguardian.com/business/2026/may/26/ferrari-luce-ev-jony-ive-design-sports-car\">The Guardian: Ferrari shares fall after launch of first EV as Jony Ive design proves divisive</a></small></li><li><strong>「用 AI 慢慢写好代码」登顶 HN（1136 分）——对 Vibe Coding 的最强反击</strong> — Nolan Lawson 的博文挑战了当前「AI 让一切更快」的叙事。他提出：AI 最大的价值不是加速，而是帮助你更深入地理解问题。用 AI 逐行解释代码、探索替代方案、验证假设——速度变慢了，但质量和理解深度大幅提升。这对设计领域同样适用：AI 的最佳用法可能不是「5 秒出图」，而是「5 分钟内理解 50 种可能性后做出更好的判断」。<br><small>来源：<a href=\"https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\">Nolan Lawson: Using AI to write better code more slowly</a></small></li><li><strong>Minicor (YC P26): Windows 桌面自动化规模化方案</strong> — 新一代 AI 自动化工具 Minicor 亮相 HN，专注于 Windows 桌面操作的 agent 化。虽然面向企业自动化，但其「视觉理解 + 操作执行」的模式本质上就是设计系统与 AI agent 的交汇点——AI 需要「读懂界面」才能操作界面，这倒逼了 UI 可理解性（machine-readability）成为新的设计考量。<br><small>来源：<a href=\"https://www.minicor.com/\">Minicor (YC P26) – Windows desktop automations at scale</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天最有意思的故事是 Jony Ive 的法拉利，但最有深度的洞察藏在 Nolan Lawson 那篇 1136 分的帖子里。</p><p>先说法拉利：Ive 做了一件设计史上经典的事——<strong>拒绝用旧范式的视觉语言来包装新技术</strong>。iPhone 没有物理键盘，MacBook Air 没有光驱，现在 Luce 没有攻击性的进气格栅。问题是，法拉利品牌的情感价值很大程度上建立在「攻击性」和「机械暴力美学」上。Ive 面临的挑战不是技术问题，是品牌身份的存在主义危机：当「引擎咆哮」消失后，什么才是法拉利？他的回答是「光」（Luce 在意大利语中意为光）——这是一个大胆但危险的设计策略。短期股价下跌几乎是必然的，但 5 年后回看，这可能是定义电动超跑设计语言的关键时刻。</p><p>再说 Lawson 的文章：这可能是 2026 年对设计行业最有启发的技术文章之一，尽管它表面上讲的是代码。他的核心论点是 <strong>AI 的价值不在于「替你做」，而在于「帮你想」</strong>。对设计师而言，这意味着最好的 AI 工作流不是「输入 prompt → 出图 → 交付」，而是「用 AI 快速探索可能性空间 → 建立更深的问题理解 → 做出更有信心的设计决策」。速度是副产品，不是目标。这跟哈佛设计杂志昨天说的「AI 作为设计媒介」完全呼应——AI 正在改变的不是产出速度，而是思考质量。</p><p>把这两件事放在一起看：Ive 对法拉利的重新定义，本质上就是「慢思考」的产物——他没有抄捷径去做一个「电动版 F40」，而是从第一性原理出发问「电动时代的美是什么」。AI 工具能帮你更快地到达这种深度，但前提是你得有耐心去用它思考，而不是用它赶工。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Ferrari's first EV Luce launches with Jony Ive design, stock drops amid divided reactions</strong> — Ive's minimalist approach ditches aggressive styling, sparking debate about whether electric supercars need a new design language or should preserve brand DNA.</li><li><strong>\"Using AI to write better code more slowly\" tops HN with 1136 points</strong> — The strongest counter-narrative to Vibe Coding: AI's real value is deeper understanding, not faster output. Directly applicable to design workflows.</li><li><strong>Minicor (YC P26) launches Windows desktop automation at scale</strong> — AI agents that \"read\" interfaces to operate them, making machine-readability a new design consideration.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "The Guardian: Ferrari EV Jony Ive design",
+        "url": "https://www.theguardian.com/business/2026/may/26/ferrari-luce-ev-jony-ive-design-sports-car",
+        "image": "https://i.guim.co.uk/img/media/6610d06cd656a02d2ee1545898942b8eb7dc2a75/689_0_2697_2160/master/2697.jpg"
+      },
+      {
+        "title": "Nolan Lawson: Using AI to write better code more slowly",
+        "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+        "image": ""
+      },
+      {
+        "title": "Minicor - Windows desktop automations",
+        "url": "https://www.minicor.com/",
+        "image": ""
+      }
+    ],
+    "cover": "https://i.guim.co.uk/img/media/6610d06cd656a02d2ee1545898942b8eb7dc2a75/689_0_2697_2160/master/2697.jpg"
+  },
+  {
+    "date": "2026-05-27",
+    "section": "tech",
+    "title": {
+      "zh": "Uber 高管公开质疑 AI 投入 ROI、Stack Overflow 论坛已死但公司活了——AI 泡沫论进入「体感验证期」",
+      "en": "Uber Exec Questions AI ROI, Stack Overflow Forum Dead But Company Alive — AI Bubble Debate Enters the 'Reality Check' Phase"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Uber COO 公开表示 AI 支出「越来越难证明合理」</strong> — Uber 总裁 Andrew Macdonald 在采访中透露，公司一个季度就烧完了原定 AI 预算，主要花在 Claude 等 LLM token 上。他直言「tokenmaxxing」（疯狂消耗 token）的 ROI 令人怀疑。这是首次有 Fortune 500 高管公开对 AI 消费模式表达质疑，信号意义重大。<br><small>来源：<a href=\"https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify\">The Verge: Uber president says AI spending is getting harder to justify</a> / <a href=\"https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/\">Fortune</a></small></li><li><strong>Stack Overflow 论坛已死，但公司靠 AI 转型活了下来</strong> — Sherwood News 报道，Stack Overflow 的社区问答流量已基本归零（被 ChatGPT/Copilot 取代），但公司通过向企业出售结构化知识库和 AI 训练数据实现了转型。这是「被 AI 颠覆」和「靠 AI 转型」同时发生在一家公司身上的典型案例。<br><small>来源：<a href=\"https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/\">Sherwood News: Stack Overflow forum dead but company still kicking</a></small></li><li><strong>Cory Doctorow：「AI 泡沫和互联网泡沫不一样」</strong> — 科幻作家兼科技评论家 Doctorow 发文论证：互联网泡沫破裂后留下了真实的基础设施（光纤、数据中心），但 AI 泡沫可能只留下电费账单和过时的 GPU。他认为 AI 的价值提取模式（依赖持续消耗 token）与互联网的「建设一次、使用无限次」模式根本不同。<br><small>来源：<a href=\"https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves\">Pluralistic: The AI bubble isn't like the internet bubble</a></small></li><li><strong>MIT Technology Review：对 AI 抢工作歇斯底里的现实检验</strong> — 长文分析了实际就业数据，结论是：AI 对就业的影响远没有媒体渲染的那么戏剧性，但正在以更微妙的方式重塑工作内容（而非消灭岗位）。<br><small>来源：<a href=\"https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/\">MIT Tech Review: A reality check on the AI jobs hysteria</a></small></li><li><strong>「外包 + 本地 AI」将比前沿实验室更经济</strong> — SignalBloom 的分析文章预测，随着开源模型质量提升和部署成本下降，「人类外包 + 本地 AI 辅助」的组合将在 2026 下半年开始比纯用 GPT-4/Claude API 更划算。这对 AI 商业模式格局影响深远。<br><small>来源：<a href=\"https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/\">SignalBloom: Outsourcing plus local AI will soon become more economical</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天的科技新闻形成了一个完美的叙事闭环：<strong>AI 产业正在从「信仰驱动」进入「账本驱动」阶段</strong>。</p><p>Uber 那条是转折点信号。当一个年收入 400 亿美元的公司的 COO 公开说「钱花得不值」时，这不是一个人的观点，这是一个阶层的共识开始浮出水面。注意他用的词——「tokenmaxxing」——这个词本身就带着讽刺和反思。2024 年大家抢着买 GPU，2025 年大家抢着用 API，2026 年开始有人问「然后呢？」</p><p>Stack Overflow 的故事更耐人寻味。社区死了，公司活了——这不是悖论，这是 AI 时代商业模式转型的模板。你的用户被 AI 吃掉了？那就把你的数据卖给 AI。残酷但有效。问题是，这种模式的天花板在哪里？当所有公司都在卖数据给 AI 时，谁在创造新数据？这是一个正在形成的「知识生态系统坍塌」风险。</p><p>Doctorow 那篇文章补上了理论框架：互联网泡沫留下了 infrastructure，AI 泡沫留下了 invoices。这个比喻尖锐但不完全公平——开源模型、训练方法论、RLHF 技术确实是有持久价值的基础设施。但他的核心洞察是对的：<strong>AI 的边际成本不趋近于零</strong>，这和互联网根本不同。每次推理都要花钱，这意味着 AI 产品的规模经济远没有 SaaS 好。</p><p>SignalBloom 那篇则指出了可能的出路：如果前沿模型太贵，那就用「人+本地模型」的混合方案。这不是技术倒退，这是经济理性的回归。对创业者的启示很清晰：别再 all-in frontier API，开始认真评估 open-weight 模型 + 人类专家的组合方案。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Uber COO says AI spending \"harder to justify\"</strong> — Blew through quarterly AI budget on Claude tokens, questions ROI of \"tokenmaxxing\".</li><li><strong>Stack Overflow forum dead, company pivots to AI data licensing</strong> — Community traffic zeroed out by ChatGPT, but enterprise knowledge licensing keeps company alive.</li><li><strong>Doctorow: AI bubble ≠ internet bubble</strong> — Internet left infrastructure; AI may only leave invoices. Marginal cost never approaches zero.</li><li><strong>MIT Tech Review: AI jobs hysteria reality check</strong> — Actual employment data shows reshaping of work content, not mass elimination.</li><li><strong>\"Outsourcing + local AI\" becoming more economical than frontier labs</strong> — Open-weight models + human experts may beat pure API approaches by H2 2026.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "The Verge: Uber AI spending hard to justify",
+        "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg"
+      },
+      {
+        "title": "Sherwood: Stack Overflow still kicking",
+        "url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/",
+        "image": ""
+      },
+      {
+        "title": "Pluralistic: AI bubble vs internet bubble",
+        "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves",
+        "image": ""
+      },
+      {
+        "title": "MIT Tech Review: AI jobs reality check",
+        "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+        "image": ""
+      },
+      {
+        "title": "SignalBloom: Local AI economics",
+        "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+        "image": ""
+      }
+    ],
+    "cover": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg"
+  },
+  {
     "date": "2026-05-25",
     "section": "design",
     "title": {
