@@ -3,6 +3,66 @@
     "date": "2026-05-27",
     "section": "design",
     "title": {
+      "zh": "YouTube 自动标注 AI 生成视频 + ClickUp 裁员换 AI——「AI 标签」和「AI 替代」正在重塑创意产业的信任与就业",
+      "en": "YouTube Auto-Labels AI Videos + ClickUp Replaces Staff with AI Agents — Trust and Employment in Creative Industries Under Siege"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>YouTube 将自动标注 AI 生成的写实视频</strong> — YouTube 不再依赖创作者自行披露，将主动检测并标注包含「重大写实 AI 内容」的视频，且 AI 标签将更加醒目。这是平台级 AI 内容治理的里程碑——当生成式 AI 让「以假乱真」成为默认能力时，平台被迫接管信任基础设施。对设计师的启示：未来所有视觉内容平台都将需要「AI 生成声明」的 UI 模式，这是一个全新的设计领域。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/\">TechCrunch: YouTube will now automatically label AI videos</a></small></li><li><strong>ClickUp 大裁员：用数千个 AI Agent 替代数百名员工</strong> — 9 年历史的项目管理工具 ClickUp 宣布大规模裁员，同时部署数千个 AI agent 接管被裁员工的职能。这不是「AI 辅助人类」，而是赤裸裸的「AI 替代人类」——而且发生在一家以「提升工作效率」为卖点的公司身上，讽刺感拉满。对设计行业的警示信号：如果连产品经理和客服都能被 agent 替代，设计师的执行层工作（切图、组件维护、标注）还能撑多久？<br><small>来源：<a href=\"https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/\">TechCrunch: What ClickUp's mass layoff tells us about the future of work</a></small></li><li><strong>DuckDuckGo 安装量暴涨 30%：用户正在逃离 Google AI Search</strong> — Google I/O 2026 用 AI agent 取代蓝色链接后遭遇强烈反弹。用户不是反对 AI，而是反对「被强制喂 AI 结果」。这是 UX 设计中「用户控制感」原则的经典反面教材：再强大的 AI 功能，如果剥夺了用户的选择权，就会引发逃离。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/\">TechCrunch: DuckDuckGo installs up 30% as users reject Google AI Search</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这三条新闻看似各自独立，其实在讲同一个故事：<strong>AI 正在强制重写创意产业的社会契约</strong>——关于信任、关于就业、关于用户主权。</p><p>YouTube 的自动标注系统是一个分水岭。还记得 2024 年大家在争论「AI 生成内容要不要标注」吗？现在不是要不要的问题了，是平台直接接管了标注权。这背后的逻辑很清晰：当 AI 生成的视觉内容质量已经超越了人类平均水平，「真实性」成了奢侈品，而「证明真实」的成本被转嫁给了平台。作为设计师，我们需要开始思考一个全新的设计范式——<strong>「可信度界面」（Trust UI）</strong>：如何在视觉上帮助用户快速判断内容的来源和真实性？这可能是 2026-2027 年最重要的 UI 设计挑战之一。</p><p>ClickUp 的裁员则是「AI 替代人类」叙事从理论变为现实的标志性事件。注意细节：不是裁员后慢慢引入 AI，而是<strong>同时宣布裁员和部署 AI agent</strong>。这种赤裸裸的「人→机」替换，在 2024 年只是硅谷的梗，2025 年是小公司的偷偷摸摸，2026 年已经成了上规模公司的公开策略。对设计师的启示不是恐慌，而是清醒：<strong>你的工作中有多少是 agent 能替代的？</strong>如果你每天的工作是接收 Jira ticket → 按规范出图 → 标注交付，那你就是 ClickUp 下一轮要替换的人。但如果你的工作是定义问题、研究用户、做出非显而易见的设计决策，agent 目前还做不到。</p><p>DuckDuckGo 的故事则从用户端补完了这个叙事。Google 犯了一个经典的 UX 错误：把「技术上更先进」等同于「用户体验更好」。AI Overviews 确实能回答问题，但它剥夺了用户「自己判断信息来源」的权利。30% 的安装量增长说明：<strong>在 AI 时代，「选择权」本身就是产品差异化</strong>。这对所有在产品中集成 AI 的设计师都是提醒——永远给用户一个「关掉 AI」的按钮，否则你就是在帮竞争对手获客。</p><p>三条新闻的共同主线：AI 不再是「赋能」的美好叙事，它正在成为一种需要被设计、被管理、被制衡的力量。设计师的角色正在从「让 AI 更好用」扩展到「让 AI 更可控」。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>YouTube will auto-label photorealistic AI videos</strong> — Platform takes over AI content labeling from creators, signaling a new era of 'Trust UI' design.</li><li><strong>ClickUp mass layoff: replacing hundreds of staff with AI agents</strong> — A productivity tool company openly replacing humans with agents, the irony is not lost.</li><li><strong>DuckDuckGo installs spike 30% as users flee Google's AI Search</strong> — Users reject being force-fed AI results, proving 'user control' is a key competitive advantage.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "TechCrunch: YouTube auto-labels AI videos",
+        "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+        "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800"
+      },
+      {
+        "title": "TechCrunch: ClickUp mass layoff and AI agents",
+        "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1247853635.jpg?resize=1200,800"
+      },
+      {
+        "title": "TechCrunch: DuckDuckGo installs up 30%",
+        "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784"
+      }
+    ],
+    "cover": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800"
+  },
+  {
+    "date": "2026-05-27",
+    "section": "tech",
+    "title": {
+      "zh": "Robinhood 开放 AI Agent 炒股 + CEO「AI 精神病」+ OpenRouter 估值翻倍——AI Agent 经济的狂热与清醒",
+      "en": "Robinhood Opens AI Agent Trading + CEO 'AI Psychosis' + OpenRouter Doubles Valuation — The Mania and Sobriety of the AI Agent Economy"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Robinhood 开放 AI Agent 自动交易股票</strong> — Robinhood 宣布用户可以创建独立账户，预充值后让 AI agent 自主交易。这不是 AI 辅助决策，而是 AI 独立执行。当 meme stock 时代的散户平台遇上 agentic AI，要么诞生新的交易范式，要么制造新的金融灾难。最可能：两者同时发生。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/\">TechCrunch: Robinhood now lets your AI agents trade stocks</a></small></li><li><strong>Box CEO：科技 CEO 们正在患上「AI 精神病」</strong> — Box CEO Aaron Levie 撰文指出，许多科技公司 CEO 对 AI 生产力提升有一种「近乎宗教性的信仰」，完全脱离实际数据。他将这种现象称为「AI psychosis」——不是基于证据的乐观，而是基于恐惧（怕被淘汰）和从众（别人都在投）的非理性行为。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/\">TechCrunch: Tech CEOs are apparently suffering from AI psychosis</a></small></li><li><strong>OpenRouter 估值一年翻倍至 13 亿美元</strong> — AI 模型路由平台 OpenRouter 完成 1.13 亿美元 B 轮融资，6 个月内用量增长 5 倍。在「多模型未来」的共识下，中间层基础设施正在成为新的价值高地。这印证了一个趋势：<strong>AI 的价值正在从「造模型」向「调度模型」转移</strong>。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/\">TechCrunch: OpenRouter more than doubles valuation to $1.3B</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Robinhood + AI agent 交易这条新闻，初看是金融科技新闻，往深一层是整个 agent 经济的缩影。</p><p>想想这意味着什么：一个普通用户，可以给 AI 一笔钱，说「帮我炒股」，然后 AI 自主决策买卖。这是 <strong>agent 经济的「Hello World」时刻</strong>——不是让 AI 帮你写邮件（低风险），而是让 AI 替你做有实际经济后果的决策（高风险）。如果这个模式跑通了（或者至少不出大事故），下一步就是 AI agent 帮你买房、帮你投资、帮你管理退休金。整个金融中介行业的存在逻辑将被动摇。</p><p>但 Aaron Levie 的「AI 精神病」论恰好提供了反面视角。他说的不只是 CEO，而是整个生态系统的集体非理性：投资人怕错过所以投、CEO 怕落后所以买、员工怕被替代所以学。这种「恐惧驱动的采用」和「价值驱动的采用」会导向完全不同的结果。Robinhood 的 AI 交易功能，到底是因为用户真的需要，还是因为公司需要一个「AI narrative」来支撑股价？</p><p>OpenRouter 的故事则揭示了更底层的逻辑：当市面上有 GPT-4o、Claude、Gemini、Llama、Mistral 等几十个模型时，<strong>「选哪个模型」本身就成了一个需要被 AI 解决的问题</strong>。OpenRouter 6 个月 5 倍增长说明：开发者已经放弃了「押注一个模型」的策略，转向「动态路由最优模型」。这对所有 AI 产品的架构设计都有影响——硬编码某个 LLM 的产品正在变成技术债。</p><p>把三条放在一起：我们正处于 agent 经济的「信仰期」和「验证期」的交界处。Robinhood 代表信仰（让 agent 管钱！），Levie 代表质疑（你们疯了吧？），OpenRouter 代表务实（不管你信不信，基础设施先建起来）。历史经验告诉我们：<strong>基础设施层的赢家通常比应用层先确定</strong>。AWS 在互联网泡沫后崛起，OpenRouter 可能在 AI 泡沫后屹立。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Robinhood lets AI agents autonomously trade stocks</strong> — Users can pre-fund accounts for AI-driven trading. The agent economy's 'Hello World' moment for high-stakes decisions.</li><li><strong>Box CEO coins 'AI psychosis' for tech leaders</strong> — Fear-driven adoption vs. value-driven adoption is creating collective irrationality in the C-suite.</li><li><strong>OpenRouter hits $1.3B valuation, 5x growth in 6 months</strong> — The multi-model future is here; value shifts from 'building models' to 'routing models'.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "TechCrunch: Robinhood AI agent trading",
+        "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agentic-trading-feat.jpg?resize=1200,675"
+      },
+      {
+        "title": "TechCrunch: Tech CEOs AI psychosis",
+        "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+        "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1265000101.jpg?resize=1200,857"
+      },
+      {
+        "title": "TechCrunch: OpenRouter $1.3B valuation",
+        "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776"
+      }
+    ],
+    "cover": "https://techcrunch.com/wp-content/uploads/2026/05/Agentic-trading-feat.jpg?resize=1200,675"
+  },
+  {
+    "date": "2026-05-27",
+    "section": "design",
+    "title": {
       "zh": "Jony Ive 的法拉利电动车设计引发争议——当顶级设计师遇上新品类，「克制」是勇气还是失误？",
       "en": "Jony Ive's Ferrari EV Design Proves Divisive — When Top Designers Meet New Categories, Is Restraint Courage or Misstep?"
     },
