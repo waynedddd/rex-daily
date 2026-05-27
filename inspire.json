@@ -11263,6 +11263,238 @@
       "body": "Rex's Take：今天 Visual for AI 三个案例放在一起看，讲的是 AI 产品视觉设计正在进入「第二代成熟期」。Claude 4 的品牌进化是微调而非重做——从「安静」到「有方向感的安静」，说明第一代 AI 品牌设计（2023-2024）的基础选择是对的，现在进入精细化阶段。Agent 状态动效语言的兴起说明 AI 产品的视觉复杂度在增加——不再是静态界面，而是有「生命节律」的动态系统。Figma Make 的变形动画则暗示了一个更深的设计哲学变化：在 AI 时代，设计和开发不是「两个工种的交接」而是「同一个过程的两种视角」。三个案例的共同点：都在用「运动」而非「形状」来传达信息。静态设计的时代正在结束——不是因为动效更酷，而是因为 AI 系统天然是动态的（它在思考、在执行、在变化），静态界面无法忠实表达一个动态系统的状态。AI 产品的视觉设计必须「活着」。",
       "body_en": "Rex's Take: Three Visual for AI cases today tell a story of AI product visual design entering \"second-generation maturity.\" Claude 4's brand evolution is refinement not redesign — from \"quiet\" to \"directionally quiet\" — proving first-gen AI brand design choices (2023-2024) were correct, now entering fine-tuning phase. Agent state motion language shows AI product visual complexity is increasing — no longer static interfaces but dynamic systems with \"life rhythms.\" Figma Make's morphing animation hints at a deeper design philosophy: in the AI era, design and development aren't \"two roles handing off\" but \"two perspectives on the same process.\" Common thread: all communicating through \"motion\" not \"shape.\" The static design era is ending — not because motion is cooler, but because AI systems are inherently dynamic (thinking, executing, changing), and static interfaces cannot faithfully represent a dynamic system's state. AI product visual design must be \"alive.\"",
       "date": "2026-05-26"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 订阅管理器 — 被动支出的主动治理",
+      "body": "Trim 和 Rocket Money 2026 年中更新的 AI 订阅管理界面。核心创新：不是简单列出你的订阅，而是用「价值热力图」衡量每个订阅的使用频率 vs 支出比。颜色从深绿（高频使用、物超所值）到深红（几乎没用过、在烧钱），一眼看出哪些该砍。AI 甚至能预测「如果取消 Netflix 改用免费替代品，你每年省 ¥1,800 但可能错过 3 部你会喜欢的剧」。把决策的机会成本可视化了。",
+      "body_en": "Trim and Rocket Money mid-2026 update for AI subscription management. Core innovation: not just listing subscriptions but a \"value heatmap\" measuring usage frequency vs spend ratio. Colors from deep green (high use, great value) to deep red (barely used, burning money). AI even predicts \"canceling Netflix for free alternatives saves ¥1,800/year but you might miss 3 shows you would like.\" Visualizing the opportunity cost of decisions.",
+      "tags": [
+        "Subscription",
+        "Value Heatmap",
+        "Decision UX",
+        "Passive Spend"
+      ],
+      "link": "https://dribbble.com/search/subscription-management-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 金融「情绪护栏」— 行为金融学的产品化",
+      "body": "2026 年 Q2 最有趣的 Fintech 设计方向：AI 检测用户的情绪状态并调整界面行为。当市场暴跌时，AI 识别到用户频繁刷新（焦虑信号），主动插入「冷静屏」——降低数据密度、隐藏实时涨跌、展示长期趋势线。Wealthfront 和 Betterment 都在测试这种「情绪护栏」设计：不是阻止用户操作，而是在冲动操作前增加一层「你确定吗？这是你的长期计划」的反思提示。行为金融学终于从学术论文变成了 UI 组件。",
+      "body_en": "Most interesting Q2 2026 fintech design direction: AI detecting user emotional states and adjusting interface behavior. During market crashes, AI identifies frequent refreshing (anxiety signal) and inserts \"cool-down screens\" — reducing data density, hiding real-time gains/losses, showing long-term trend lines. Wealthfront and Betterment testing this \"emotional guardrail\" design: not blocking user actions but adding a reflection prompt before impulsive trades. Behavioral finance finally moves from academic papers to UI components.",
+      "tags": [
+        "Behavioral Finance",
+        "Emotional UX",
+        "Guardrail Design",
+        "Market Anxiety"
+      ],
+      "link": "https://www.behance.net/search/projects/fintech%20behavioral%20design%20AI",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 家庭财务共享面板 — 多角色协作理财",
+      "body": "针对家庭财务管理的 AI 产品设计。创新点在于「角色化视图」——同一组财务数据，给父母看的是总览+风险控制，给年轻成员看的是个人预算+储蓄目标，给老人看的是简化版大字体+语音播报。AI 根据家庭成员的金融素养自动调整信息密度和呈现方式。权限系统用「家庭树」可视化——谁能看什么、谁能操作什么，一目了然。",
+      "body_en": "AI product design for family financial management. Innovation: \"role-based views\" — same financial data, parents see overview + risk control, young members see personal budget + savings goals, elderly see simplified large-font + voice narration. AI auto-adjusts information density based on each member financial literacy. Permission system visualized as a \"family tree\" — who sees what, who controls what, all visible at a glance.",
+      "tags": [
+        "Family Finance",
+        "Multi-Role",
+        "Accessibility",
+        "Permission Viz"
+      ],
+      "link": "https://dribbble.com/search/family-finance-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Rex's Take：今天三条 Fintech 信息放在一起看到一个深层趋势：金融 AI 设计正在从「个体理性」走向「关系理性」。订阅管理器处理的是你和服务商之间的关系（这个订阅值不值）；情绪护栏处理的是你和自己之间的关系（冲动时的你 vs 理性时的你）；家庭共享面板处理的是你和家人之间的关系（不同角色的不同需求）。三者的共同点：金融决策从来不是纯数学题，它是关系题。传统金融产品只对着一个「理性经济人」设计，但 2026 年的产品终于承认了一个事实——用户不是理性的，用户是有情绪的、有家庭的、有冲动的复杂人。最好的金融 AI 不是帮你计算最优解，而是在你不理性的时候帮你守住底线。「情绪护栏」这个概念值得所有 AI 产品学习——不只金融领域，任何高风险决策场景都需要。",
+      "body_en": "Rex's Take: Three fintech signals today reveal a deep trend: financial AI design is moving from \"individual rationality\" to \"relational rationality.\" Subscription managers handle your relationship with services (is this worth it); emotional guardrails handle your relationship with yourself (impulsive you vs rational you); family panels handle your relationship with family (different roles, different needs). Common thread: financial decisions are never pure math — they are relationship problems. Traditional finance designed for one \"rational economic agent,\" but 2026 products finally admit users are emotional, familial, impulsive complex beings. The best financial AI doesn't calculate optimal solutions — it guards your baseline when you're irrational. \"Emotional guardrails\" deserves adoption across all AI products — not just finance, any high-stakes decision scenario needs it.",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动社交竞赛 — 异步对抗的设计语言",
+      "body": "2026 年 Q2 运动 App 的热门设计模式：异步竞赛。不要求两人同时在线，而是 AI 生成「虚拟对手」——基于朋友上周的跑步数据，在你今天的路线上叠加 ta 的配速作为「幽灵跑者」。界面用半透明的蓝色轮廓表示虚拟对手的位置，距离差距用一条弹性彩带可视化（领先=绿色拉伸，落后=红色收缩）。Apple Watch Ultra 上的实现尤其优雅——只用一个弧形指针表示你和对手的相对位置。",
+      "body_en": "Hot sports app design pattern Q2 2026: async competition. No need for simultaneous online presence — AI generates a \"virtual opponent\" based on a friend's last week running data, overlaying their pace as a \"ghost runner\" on your route today. Semi-transparent blue contour shows virtual opponent position, gap visualized as an elastic color band (leading = green stretch, trailing = red compress). Apple Watch Ultra implementation is especially elegant — single arc pointer showing relative position.",
+      "tags": [
+        "Ghost Runner",
+        "Async Competition",
+        "Social Fitness",
+        "Apple Watch"
+      ],
+      "link": "https://dribbble.com/search/fitness-competition-ghost-runner",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动「数字孪生」— 身体模型的产品化",
+      "body": "2026 年 Q2 运动科技最前沿的概念：个人身体数字孪生。Whoop、OURA、Apple Health 的数据被 AI 整合为一个持续更新的「你的身体模型」——不只是当前状态快照，而是一个有历史记忆、能预测未来的动态模型。界面设计用 3D 人体模型展示各系统状态（心血管=蓝色脉动、肌骨骼=绿色骨架、神经系统=紫色电弧），用户可以「旋转」查看不同维度。最关键的设计决策：模型的视觉精细度随健康状况变化——状态好时模型清晰锐利，状态差时模型边缘模糊柔和（暗示不确定性增加）。",
+      "body_en": "Most cutting-edge sports tech concept Q2 2026: personal body digital twin. Whoop, OURA, Apple Health data AI-integrated into a continuously updated \"model of your body\" — not just a current state snapshot but a dynamic model with historical memory that predicts the future. Interface uses 3D body model showing system states (cardiovascular = blue pulse, musculoskeletal = green skeleton, nervous = purple arcs), rotatable. Key design decision: model visual sharpness varies with health — good state = crisp and sharp, poor state = soft blurry edges (implying increased uncertainty).",
+      "tags": [
+        "Digital Twin",
+        "Body Model",
+        "3D Visualization",
+        "Predictive Health"
+      ],
+      "link": "https://www.behance.net/search/projects/digital%20twin%20health%20AI",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/5497626/file/original-b40209fda0ba25b367b02d463917d293.png?resize=752x&vertical=center",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 户外探险风险评估 — 登山/越野的安全决策界面",
+      "body": "面向登山和越野跑的 AI 安全评估工具。结合实时天气、地形数据、用户体能状态和历史事故数据，生成「路线风险评分」。界面亮点是「风险时间线」——不是给整条路线一个笼统评分，而是按时间段拆解：8:00-10:00 低风险（绿色），10:00-12:00 中风险（因为预计起风），12:00 后高风险（雷暴概率上升）。用户据此调整出发时间和路线选择。配色采用地形风格——等高线纹理+户外感的深棕绿色系。",
+      "body_en": "AI safety assessment tool for mountaineering and trail running. Combines real-time weather, terrain data, user fitness status, and historical accident data to generate \"route risk scores.\" Interface highlight: \"risk timeline\" — not one crude score for the entire route but time-segmented: 8-10 AM low risk (green), 10-12 AM medium (wind expected), after 12 PM high risk (thunderstorm probability rising). Users adjust departure time and route accordingly. Topographic color scheme — contour textures + outdoor deep brown-green palette.",
+      "tags": [
+        "Outdoor Safety",
+        "Risk Timeline",
+        "Adventure",
+        "Weather AI"
+      ],
+      "link": "https://dribbble.com/search/outdoor-hiking-ai-safety",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1461896836934-bd45ba8fcf9b?w=1200&q=80",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "Rex's Take：运动 AI 设计在 5 月末显现出一个清晰的方向变化：从「记录和优化个人表现」走向「管理风险和关系」。异步竞赛把运动从孤独的自我挑战变成了社交游戏（但不需要同步在线，这很关键）；数字孪生把碎片化的传感器数据变成了一个可理解的整体模型；户外风险评估则把 AI 从「帮你变强」的教练变成了「帮你活着回来」的安全员。三者共同指向一个更成熟的产品哲学：运动 AI 的终极价值不是「让你跑更快」，而是「让你运动更久」——因为受伤、因为孤独、因为意外，大多数人放弃运动不是因为不够努力，而是因为不够安全或不够有趣。Ghost Runner 的设计特别优雅——用半透明蓝色轮廓而非实体 avatar，暗示这是一个「可能性」而非「对手」。竞争感有了，压迫感没了。好的运动社交设计应该让你想赢，但输了也不会难受。",
+      "body_en": "Rex's Take: Sports AI design in late May shows a clear directional shift: from \"recording and optimizing personal performance\" to \"managing risk and relationships.\" Async competition transforms exercise from lonely self-challenge to social game (without requiring sync — crucial); digital twins turn fragmented sensor data into one comprehensible whole-body model; outdoor risk assessment turns AI from a \"make you stronger\" coach into a \"keep you alive\" safety officer. All three point to a more mature product philosophy: sports AI's ultimate value isn't \"run faster\" but \"exercise longer\" — because of injury, loneliness, or accidents, most people quit sports not from insufficient effort but insufficient safety or fun. Ghost Runner design is particularly elegant — semi-transparent blue contour rather than solid avatar implies a \"possibility\" not an \"opponent.\" Competition without oppression. Good sports social design should make you want to win, but not feel bad when you lose.",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 自适应文章分段 — 根据注意力动态重组内容",
+      "body": "2026 年 Q2 出现的阅读体验新范式：AI 根据用户的阅读行为（滚动速度、停留时间、回看频率）动态调整文章的段落长度和信息密度。读得快的段落自动合并为更长的块，反复回看的段落自动展开更多细节。视觉上用左侧边的「脉搏条」实时反映注意力强度——粗条=高注意力区域，细条=快速扫过的区域。这不是改变内容，是改变内容的「呼吸节奏」。",
+      "body_en": "New reading experience paradigm Q2 2026: AI dynamically adjusts article paragraph length and information density based on reading behavior (scroll speed, dwell time, re-reading frequency). Fast-read paragraphs auto-merge into longer blocks; re-visited paragraphs auto-expand with more detail. Visually: left-side \"pulse bar\" reflects attention intensity in real-time — thick = high attention zone, thin = quickly scanned area. Not changing content but changing content's \"breathing rhythm.\"",
+      "tags": [
+        "Adaptive Reading",
+        "Attention AI",
+        "Dynamic Layout",
+        "Pulse Bar"
+      ],
+      "link": "https://dribbble.com/search/adaptive-reading-experience",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI 内容「情绪映射」排版 — 文字的温度可视化",
+      "body": "一个小众但极具前瞻性的排版实验：AI 分析文本的情感倾向，用排版参数「映射」情绪。积极段落的行间距稍微放松（呼吸感）、紧张段落的字间距微微收紧（压迫感）、沉思段落用更大的段落间距（留白=思考空间）。变化幅度控制在 5-10% 以内——不是让读者「看到」差异，而是让读者「感受到」差异。这是 AI 排版从「机械调参」走向「情绪设计」的信号。",
+      "body_en": "A niche but visionary typography experiment: AI analyzes text emotional tone and \"maps\" emotions through typography parameters. Positive paragraphs get slightly relaxed line-height (breathing room); tense paragraphs get subtly tightened letter-spacing (compression); contemplative paragraphs get larger paragraph spacing (whitespace = thinking space). Changes stay within 5-10% — not for readers to \"see\" the difference but to \"feel\" it. A signal of AI typography moving from \"mechanical parameter tuning\" to \"emotional design.\"",
+      "tags": [
+        "Emotion Typography",
+        "Sentiment Mapping",
+        "Subtle UX",
+        "AI Typesetting"
+      ],
+      "link": "https://www.behance.net/search/projects/emotional%20typography%20AI%20design",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 摘要卡片系统 — 长文的「电梯演讲」层",
+      "body": "面向信息过载用户的内容设计方案：每篇长文顶部生成一张「30 秒摘要卡片」——不是传统的 TL;DR 文字块，而是一张视觉精美的信息卡片，包含核心论点（一句话）、关键数字（2-3 个）、情绪标签（「深度分析」「观点争议」「数据驱动」）。卡片设计借鉴了 Apple Music 的专辑封面卡片美学——圆角、微妙阴影、品牌色彩提取自文章主图。用户可以只消费卡片层，也可以点击展开全文。",
+      "body_en": "Content design for information-overloaded users: each long article gets a \"30-second summary card\" at top — not traditional TL;DR text but a visually polished info card with core argument (one sentence), key numbers (2-3), mood tags (\"deep analysis,\" \"opinion debate,\" \"data-driven\"). Card design borrows Apple Music album cover aesthetics — rounded corners, subtle shadows, brand colors extracted from article hero image. Users can consume at card level or tap to expand full text.",
+      "tags": [
+        "Summary Card",
+        "TL;DR Design",
+        "Information Density",
+        "Card UI"
+      ],
+      "link": "https://dribbble.com/search/article-summary-card-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46334296/file/84d1ed2927fe621b7d8446de9b6af56b.jpg?resize=1600x1200&vertical=center",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "Rex's Take：今天 Content Design 三个发现指向同一个深层命题：排版正在从「静态的视觉规则」进化为「动态的感知系统」。注意力自适应分段把阅读节奏的控制权从作者转移给了读者（更准确地说，是交给了读者和 AI 的协作）；情绪映射排版则在文字和感受之间架起了一座潜意识的桥——你不知道为什么这段读起来特别紧张，但那 3% 的字间距收紧确实在你的神经系统里留下了痕迹；摘要卡片系统则重新定义了「阅读的最小单位」——不再是句子或段落，而是一张卡片。三者合在一起看到一个激进的结论：2026 年的内容设计正在变成「认知界面设计」——你设计的不是页面的样子，而是信息进入大脑的方式。这比传统排版的野心大了一个数量级。但也有风险：当排版变得太聪明，用户是否会感到被操控？情绪映射排版和「暗模式」（dark pattern）之间的边界在哪里？",
+      "body_en": "Rex's Take: Three Content Design findings today point to one deep thesis: typography is evolving from \"static visual rules\" to \"dynamic perceptual systems.\" Attention-adaptive segmentation transfers reading pace control from author to reader (more precisely: to reader-AI collaboration); emotion-mapped typography builds a subconscious bridge between text and feeling — you don't know why this paragraph feels tense, but that 3% letter-spacing tightening left traces in your nervous system; summary cards redefine \"the minimum unit of reading\" — no longer sentences or paragraphs but a card. Together: a radical conclusion — 2026 content design is becoming \"cognitive interface design\" — you're designing not how pages look but how information enters the brain. Ambition orders of magnitude beyond traditional typography. But risks exist: when typography gets too smart, will users feel manipulated? Where's the boundary between emotion-mapped typography and dark patterns?",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 协作的「对话拓扑」可视化",
+      "body": "多 Agent 协作系统的创新界面设计：不用传统的线性对话流，而是用「拓扑图」展示 Agent 之间的对话关系。每个 Agent 是一个节点，对话流向用有方向的弧线表示，线条粗细=信息量，颜色=话题类型。当多个 Agent 讨论同一个问题时形成「聚合区」（视觉上是节点靠拢+光晕重叠）。整个系统看起来像一个有机体的神经网络在思考——但每条连线都可点击查看具体对话内容。宏观是美学，微观是功能。",
+      "body_en": "Innovative interface for multi-agent collaboration systems: instead of linear conversation flow, a \"topology graph\" shows dialogue relationships between agents. Each agent is a node, conversation flow shown as directed arcs, line thickness = info volume, color = topic type. When multiple agents discuss the same problem they form \"convergence zones\" (nodes clustering + halo overlap). The whole system looks like an organism's neural network thinking — but every connection is clickable to view actual conversation content. Macro is aesthetics, micro is function.",
+      "tags": [
+        "Multi-Agent",
+        "Topology Graph",
+        "Conversation Viz",
+        "Organic UI"
+      ],
+      "link": "https://dribbble.com/search/multi-agent-ai-collaboration",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「能力退化」透明设计 — 诚实的降级体验",
+      "body": "2026 年 Q2 一个被忽视但极其重要的 AI 产品设计趋势：当 AI 能力下降时如何视觉化告知用户。API 限流、模型过载、上下文窗口耗尽——过去这些情况只是「回复变慢了」或「回答质量下降」，用户完全不知道发生了什么。现在 Anthropic、OpenAI 的新界面开始引入「能力仪表盘」——用一个微妙的弧形指标显示当前 AI 的「可用能力百分比」。满格=全力输出，半格=部分降级（会标注哪些能力受限），空格=建议稍后再试。诚实退化比无声退化更赢信任。",
+      "body_en": "An overlooked but critical Q2 2026 AI product design trend: visually communicating when AI capability degrades. API rate limits, model overload, context window exhaustion — previously just \"slower responses\" or \"lower quality\" with zero user visibility. Now Anthropic, OpenAI introducing \"capability meters\" — a subtle arc indicator showing current AI \"available capability percentage.\" Full = max output, half = partial degradation (annotating which capabilities limited), empty = suggest trying later. Honest degradation wins more trust than silent degradation.",
+      "tags": [
+        "Graceful Degradation",
+        "AI Transparency",
+        "Capability Meter",
+        "Trust Design"
+      ],
+      "link": "https://dribbble.com/search/ai-loading-capability-state",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 产品的「创意置信度」频谱 — 从精确到创意的连续体",
+      "body": "一个极具洞察的设计方案：AI 输出不再用单一的「置信度」标注，而是区分「精确度」和「创意度」两个维度。事实性回答标注精确度（这个数据 95% 确定是对的）；创意性输出标注创意度（这个方案 80% 是安全的+60% 是新颖的）。视觉上用一个双轴色带表达——水平轴从「保守」到「大胆」，垂直轴从「不确定」到「确定」。让用户理解 AI 不是在「对或错」的二元世界里工作，而是在一个连续光谱上做权衡。",
+      "body_en": "An insightful design solution: AI output no longer tagged with single \"confidence\" but distinguishes \"accuracy\" and \"creativity\" as two dimensions. Factual answers show accuracy (95% sure this data is correct); creative outputs show creativity (80% safe + 60% novel). Visually: a dual-axis color band — horizontal from \"conservative\" to \"bold,\" vertical from \"uncertain\" to \"certain.\" Helping users understand AI doesn't work in a binary \"right or wrong\" world but makes tradeoffs across a continuous spectrum.",
+      "tags": [
+        "Dual Confidence",
+        "Creative AI",
+        "Spectrum UI",
+        "Uncertainty Design"
+      ],
+      "link": "https://dribbble.com/search/ai-confidence-creative-spectrum",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46352831/file/765076f0eddc850ad448f605d7f93ba0.png?resize=1024x768&vertical=center",
+      "date": "2026-05-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "Rex's Take：今天 Visual for AI 的三个发现继续推进上周提出的「AI 产品视觉设计必须活着」的论点，但引入了一个新维度：「诚实的活着」。Agent 对话拓扑图让复杂系统的内部运作可见——这是「过程透明」；能力退化仪表盘在 AI 状态不佳时主动告知——这是「局限透明」；创意置信度频谱承认 AI 在精确和创意之间的取舍——这是「决策透明」。三种透明合在一起形成了我认为 2026 年 AI 视觉设计最重要的设计原则：「可视化诚实」。过去的产品设计追求「看起来完美」，AI 产品必须追求「看起来真实」。一个永远表现完美的 AI 是不可信的，因为用户知道 AI 会犯错——当它不承认时反而更可怕。能力仪表盘的天才之处在于：它把 AI 的脆弱性变成了信任的来源——就像一个说「这个问题我不太确定」的医生比一个信誓旦旦的庸医更值得信赖。AI 品牌设计的下一步不是更酷、更科技感，而是更诚实。",
+      "body_en": "Rex's Take: Three Visual for AI findings today continue last week's thesis that \"AI product visual design must be alive\" but introduce a new dimension: \"honestly alive.\" Agent conversation topology makes complex system internals visible — process transparency; capability degradation meter proactively informs when AI is suboptimal — limitation transparency; creative confidence spectrum acknowledges AI's accuracy-creativity tradeoff — decision transparency. Three transparencies form what I consider 2026's most important AI visual design principle: \"visualized honesty.\" Past product design pursued \"looking perfect\"; AI products must pursue \"looking real.\" An AI that always appears perfect is untrustworthy because users know AI makes mistakes — when it won't admit them, it becomes scarier. The capability meter's genius: turning AI vulnerability into a trust source — like a doctor saying \"I'm not sure about this\" being more trustworthy than a confident quack. Next step for AI brand design isn't cooler or more tech — it's more honest.",
+      "date": "2026-05-27"
     }
   ]
 }
