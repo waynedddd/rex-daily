@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-05-28",
+    "section": "design",
+    "title": {
+      "zh": "ElevenLabs 音乐模型跨风格无缝切换 + Google AI 连拼写都搞不定——生成式 AI 的「创意天花板」和「基础地板」同时暴露",
+      "en": "ElevenLabs Music V2 Switches Genres Mid-Track + Google AI Can't Even Spell — Generative AI's Creative Ceiling and Basic Floor Exposed Simultaneously"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>ElevenLabs 发布 Music v2：可在同一首歌内跨风格无缝切换</strong> — 新模型能从歌剧切到重金属再切回来，支持快速 rap 不丢连贯性，还能在音轨中插入非音乐音效。更关键的是支持分段生成（intro/verse/chorus）再拼接，以及局部重生成——这意味着音乐创作的工作流正在从「一次性生成」进化到「可编辑的生成」。对设计师的启示：AI 创意工具的竞争已经从「能不能生成」转向「能不能精确控制生成结果」，这和 Figma 从画图工具进化到设计系统的逻辑一模一样。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/\">TechCrunch: ElevenLabs' new music-generation model can switch genres mid-track</a></small></li><li><strong>Google AI 连「Google 有几个 P」都答不对</strong> — Google 的 AI Overview 声称 Google 有两个 P，poop 只有一个 r，journalism 有两个 d。这不是一次偶发 bug，而是暴露了当前 LLM 在字符级推理上的系统性缺陷。讽刺的是，这正是 Google 大力推进 AI Search 替代传统搜索的时候。对设计的启示：当我们把 AI 嵌入产品时，需要设计「graceful degradation」——AI 出错时的体验不应该比没有 AI 更差。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/\">TechCrunch: Why Google's AI can't spell Google (or anything else)</a></small></li><li><strong>Meta 推出 Instagram/Facebook/WhatsApp 付费订阅，含 AI 功能计划</strong> — Meta 全球上线消费者订阅（Instagram Plus $3.99/月、Facebook Plus $3.99/月、WhatsApp Plus $2.99/月），提供个性化定制、超级表情、故事洞察等功能，并预告将推出 Meta AI 付费版。这标志着社交平台正式进入「AI 功能分层收费」时代——免费用户用基础 AI，付费用户用高级 AI。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/\">TechCrunch: Meta launches subscriptions including AI plans</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天把 ElevenLabs 和 Google 拼写 bug 放在一起看，是因为它们代表了生成式 AI 的两个极端：<strong>创意表达的惊人进步</strong>和<strong>基础认知的荒谬失败</strong>同时存在于同一代技术中。</p><p>ElevenLabs Music v2 的「分段生成+局部重生成」是一个被低估的里程碑。大部分人会关注「能跨风格切换」这个炫技点，但真正重要的是它引入了<strong>「编辑性」（editability）</strong>。回想 AI 图像生成的进化：从 Midjourney v1 的「一次性生成碰运气」到现在 Photoshop Generative Fill 的「精确控制某个区域」，这个进化花了三年。ElevenLabs 在音乐领域用不到一年就走完了同样的路径。这说明什么？<strong>AI 创意工具的进化速度在加快，而且进化方向是一致的——从「生成」走向「可控的生成」，最终走向「协作式创作」。</strong></p><p>对比之下，Google AI 连字母计数都搞错，暴露的是 LLM 的一个结构性盲区：它们是在 token 级别工作的，不是字符级别。这不是微调能解决的问题，而是架构层面的局限。但 Google 的问题不在于 AI 有局限——所有技术都有局限——而在于它选择把一个有明显缺陷的系统放到了最高曝光度的位置（Search 首页），且没有做足够的 graceful degradation 设计。作为设计师，这是一个教科书级别的反面案例：<strong>AI 产品设计的核心挑战不是「AI 能做什么」，而是「AI 做不到的时候怎么办」。</strong></p><p>Meta 的订阅故事则揭示了另一个趋势：AI 功能正在成为 SaaS 化收费的新载体。$3.99/月买 Instagram Plus 的人不是为了「去广告」，而是为了更强的 AI 个性化。这意味着<strong>设计师需要开始思考「AI 功能的分层体验」——同一个功能，免费版和付费版应该有怎样不同的交互深度？</strong>这是一个全新的 UX 设计挑战，类似于游戏设计中的 F2P 经济设计。</p><p>三条新闻的共同启示：我们正在进入一个需要<strong>「AI UX 设计」作为独立学科</strong>的阶段。不是把 AI 塞进现有产品，而是为 AI 的能力和局限设计全新的交互范式。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>ElevenLabs Music v2: genre-switching mid-track with section-based editing</strong> — The evolution from 'generate once' to 'editable generation' mirrors Figma's journey from drawing tool to design system.</li><li><strong>Google AI can't count letters in 'Google'</strong> — A structural LLM limitation exposed at maximum visibility, a textbook case of failed graceful degradation in AI product design.</li><li><strong>Meta launches $3.99/mo subscriptions with AI features planned</strong> — Social platforms enter the 'AI feature tiering' era, creating new UX challenges around free vs. paid AI experiences.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "TechCrunch: ElevenLabs Music v2",
+        "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669"
+      },
+      {
+        "title": "TechCrunch: Why Google's AI can't spell",
+        "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?resize=1200,675"
+      },
+      {
+        "title": "TechCrunch: Meta launches subscriptions including AI plans",
+        "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024"
+      }
+    ],
+    "cover": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669"
+  },
+  {
+    "date": "2026-05-28",
+    "section": "tech",
+    "title": {
+      "zh": "Cognition（Devin）$250 亿估值融 $10 亿 + Snowflake 与 AWS 签 $60 亿 AI 芯片协议 + 中国 AI 人才加速内循环——AI 军备竞赛进入「重资本」阶段",
+      "en": "Cognition (Devin) Raises $1B at $25B + Snowflake Signs $6B AWS AI Chip Deal + China Retains AI Talent — The AI Arms Race Enters Heavy Capital Phase"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Cognition（Devin）以 $250 亿估值融资 $10 亿</strong> — AI 编程公司 Cognition 完成超 10 亿美元融资，估值 250 亿美元，8 个月内从 102 亿翻了近 2.5 倍。Devin 是那个号称「自主 AI 软件工程师」的产品。这个估值意味着市场对「AI 替代程序员」的信仰已经到了疯狂的程度——一家成立不到两年的公司，估值超过了 Figma 被 Adobe 收购时的价格。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/\">TechCrunch: AI coding startup Cognition raises $1B at $25B</a></small></li><li><strong>Snowflake 与 AWS 签署 $60 亿 AI CPU 芯片协议</strong> — 数据云公司 Snowflake 与 AWS 签署 60 亿美元的 AI 芯片采购协议，显示 AI 基础设施的资本投入已经进入「数十亿美元起步」的阶段。这不是创业公司能玩的游戏了。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/\">TechCrunch: Snowflake signs $6B deal with AWS for AI CPU chips</a></small></li><li><strong>中国正在加速留住顶尖 AI 人才</strong> — 报道指出中国 AI 人才的外流正在显著减少，顶尖研究者越来越倾向于留在国内发展。这背后是国内 AI 公司薪资竞争力提升、政策支持加码、以及地缘政治因素导致的「被动内循环」。AI 人才的全球分布格局正在被重塑。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/\">TechCrunch: China is increasingly keeping its best AI talent to itself</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Cognition 250 亿美元的估值是今天最值得深挖的数字。让我们做个对比：Figma 在 2022 年被 Adobe 以 200 亿美元收购时，已经有超过 400 万付费用户、数亿美元 ARR、十年的产品迭代。Cognition 成立不到两年，产品仍在早期阶段，估值就超过了 Figma 交易价。这不是「AI 泡沫」的证据吗？</p><p>不完全是。更准确地说，这是市场在为<strong>「AI 替代人力的总可寻址市场」</strong>定价。全球软件工程师的薪资总额大约是 1.5 万亿美元/年。如果 Devin 能替代哪怕 5% 的编程工作量，那就是 750 亿美元的 TAM。从这个角度看，250 亿估值意味着市场认为 Cognition 有 1/3 的概率成为这个赛道的赢家。疯狂吗？也许。但这就是 VC 的数学。</p><p>更有意思的是把 Cognition 和昨天的 ClickUp 裁员放在一起看：ClickUp 用 AI agent 替代员工是「需求侧」的信号，Cognition 融 10 亿是「供给侧」的信号。<strong>两侧同时加速，说明「AI 替代知识工作者」已经从愿景变成了正在发生的事实。</strong></p><p>Snowflake 的 60 亿美元芯片协议则揭示了一个容易被忽略的现实：AI 竞争正在变成<strong>资本密集型</strong>游戏。训练大模型需要数十亿美元的计算资源，推理也需要海量芯片。这意味着 AI 的未来可能不属于最聪明的研究者，而属于最有钱的公司。小团队可以在模型架构上创新（如 DeepSeek），但在规模化部署上，资本壁垒正在快速升高。</p><p>中国 AI 人才内循环的加速，则为这场军备竞赛增加了地缘政治维度。以前硅谷的优势是「全球人才虹吸」——中国最好的 AI 研究者去 Google Brain、OpenAI。现在这个管道正在收窄。短期内这对中国有利（人才留在国内），长期对全球 AI 生态有害（减少了跨国知识流动）。对创业者的启示：<strong>未来的 AI 产品可能需要在中美两个独立的生态中分别构建</strong>，而不是做一个全球通用版本。</p><p>总结：AI 行业正在从「谁的论文最好」的学术竞赛，转向「谁的资本最厚、谁的人才最多、谁的芯片最够」的工业化竞争。这对小玩家不是好消息，但对做基础设施和工具的公司（包括设计工具公司）来说，意味着客户的预算正在膨胀。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Cognition (Devin) raises $1B at $25B valuation</strong> — 2.5x valuation jump in 8 months for the 'autonomous AI software engineer', surpassing Figma's acquisition price.</li><li><strong>Snowflake signs $6B AI chip deal with AWS</strong> — AI infrastructure competition enters the 'billions to play' phase, raising capital barriers.</li><li><strong>China increasingly retaining top AI talent domestically</strong> — The global AI talent pipeline is narrowing, with geopolitical implications for product strategy.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "TechCrunch: Cognition raises $1B at $25B",
+        "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/08/Screenshot-2025-08-05-at-11.02.07AM.png?resize=1200,645"
+      },
+      {
+        "title": "TechCrunch: Snowflake $6B AWS AI chip deal",
+        "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+        "image": ""
+      },
+      {
+        "title": "TechCrunch: China retaining AI talent",
+        "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/china-flag-shanghai.jpg?resize=1200,801"
+      }
+    ],
+    "cover": "https://techcrunch.com/wp-content/uploads/2025/08/Screenshot-2025-08-05-at-11.02.07AM.png?resize=1200,645"
+  },
+  {
     "date": "2026-05-27",
     "section": "design",
     "title": {
