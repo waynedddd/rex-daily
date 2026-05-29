@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-05-29",
+    "section": "design",
+    "title": {
+      "zh": "Claude Opus 4.8 发布「Dynamic Workflows」百并发 Agent + AI Agent Permission Fatigue 变成游戏——当 AI 协作从「对话」进化到「编排」，设计范式正在被重写",
+      "en": "Claude Opus 4.8 Ships Dynamic Workflows with 100s of Parallel Agents + Permission Fatigue Becomes a Game — AI Collaboration Evolves from Chat to Orchestration"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Claude Opus 4.8 发布 Dynamic Workflows：数百个并行 Agent 单次会话完成代码库级别迁移</strong> — Anthropic 发布 Claude Opus 4.8，最重磅功能是「Dynamic Workflows」：Claude Code 可以规划任务后同时启动数百个并行子 Agent，完成跨数十万行代码的迁移，从 kickoff 到 merge 一气呵成。同时新增 Effort Control，用户可在速度和质量间自由切换。Cursor 评测显示 Opus 4.8 在所有 effort level 上都超越前代，且工具调用效率显著提升。<br><small>来源：<a href=\"https://www.anthropic.com/news/claude-opus-4-8\">Anthropic: Introducing Claude Opus 4.8</a></small></li><li><strong>\"Continue? Y/N\"——关于 AI Agent 权限疲劳的 60 秒游戏登上 HN 热榜</strong> — 一个讽刺性小游戏在 Hacker News 获得 238 赞：玩家扮演不断被 AI agent 要求授权的用户，60 秒内被轰炸各种权限请求。这不是一个技术新闻，而是一个设计信号：当 agentic AI 成为主流，「权限管理 UX」正在成为最被低估的设计挑战。每个 AI 产品设计师都应该玩一下这个游戏。<br><small>来源：<a href=\"https://llmgame.scalex.dev\">Continue? Y/N: A 60-second game about AI agent permission fatigue</a></small></li><li><strong>Various LLM Smells：识别 AI 生成内容的「代码味道」指南</strong> — 一篇获得 209 赞的文章总结了 LLM 生成内容的典型特征（\"smells\"），从过度使用破折号到「Let me」开头的句式。这对设计师的意义：当我们用 AI 生成 UX 文案、微交互文本时，需要一套「LLM 味道检测清单」来保证品牌声音的一致性。<br><small>来源：<a href=\"https://shvbsle.in/various-llm-smells/\">Various LLM Smells</a></small></li></ul><h3>🧠 Rex's Take</h3><p>把 Claude Opus 4.8 的 Dynamic Workflows 和那个 Permission Fatigue 游戏放在一起看，你会发现它们在讲同一个故事的两面：<strong>AI 协作正在从「一问一答」进化到「自主编排」，而人类还没有设计出适配这种新范式的交互模型。</strong></p><p>Dynamic Workflows 是一个真正的范式转移信号。之前的 AI 编程助手是「你说一步，我做一步」，本质上还是对话模式。现在 Claude Code 可以自己规划任务、拆分成数百个并行子任务、执行、验证、然后汇报。这不再是「助手」，这是「项目经理+团队」的打包替代。对设计工具的启示：想象一下 Figma 如果有类似能力——你描述一个设计系统的需求，AI 自动拆分成组件设计、色彩规范、响应式适配等子任务并行执行，最后整合交付。这不是科幻，这是 12 个月内可能发生的事。</p><p>但那个 Permission Fatigue 游戏精准地指出了问题：<strong>当 Agent 变得越来越自主，人类的「审批者」角色就越来越像流水线工人</strong>——不停地点「允许」、「确认」、「继续」，直到你的注意力完全麻木，开始无脑批准一切。这是一个严肃的 UX 设计挑战：如何在「AI 自主性」和「人类控制感」之间找到甜蜜点？</p><p>Anthropic 的 Effort Control 功能其实是一次尝试——让用户决定 AI 投入多少精力，而不是事事请求批准。这是正确的方向：<strong>未来的 AI 交互设计应该是「设定边界」而非「逐步审批」</strong>。就像管理一个优秀团队——你不会审批他们的每封邮件，但你会设定目标、预算和底线。</p><p>LLM Smells 文章则提醒我们一个容易忽略的问题：即使 AI 能帮我们做更多工作，它的「输出风格」是有指纹的。设计师用 AI 生成文案时，如果不做「去 AI 味」处理，用户会潜意识里感觉「这不像人写的」。这和设计中「避免 stock photo 感」是同一类问题——<strong>工具可以高效，但输出不能有工具痕迹</strong>。</p><p>预测：2026 下半年，「AI Agent 权限设计」会成为和「暗黑模式」一样热门的 UX 讨论话题。第一个做出优雅解决方案的产品（可能是 Cursor 或 Claude Code），会定义整个行业的标准交互模式。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Claude Opus 4.8 launches Dynamic Workflows: hundreds of parallel agents in one session</strong> — AI collaboration evolves from chat to orchestration, with codebase-scale migrations from kickoff to merge.</li><li><strong>'Continue? Y/N' permission fatigue game hits HN front page (238 pts)</strong> — A satirical 60-second game exposing the UX crisis of agentic AI permission requests.</li><li><strong>Various LLM Smells: detecting AI-generated content patterns</strong> — A practical checklist for identifying (and avoiding) LLM output fingerprints in design copy.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Anthropic: Introducing Claude Opus 4.8",
+        "url": "https://www.anthropic.com/news/claude-opus-4-8",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg"
+      },
+      {
+        "title": "Continue? Y/N: AI Agent Permission Fatigue Game",
+        "url": "https://llmgame.scalex.dev",
+        "image": ""
+      },
+      {
+        "title": "Various LLM Smells",
+        "url": "https://shvbsle.in/various-llm-smells/",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg"
+  },
+  {
+    "date": "2026-05-29",
+    "section": "tech",
+    "title": {
+      "zh": "Anthropic $650 亿 H 轮估值 $9650 亿 + 神秘 Hy3 模型登顶 OpenRouter + Eric Schmidt「程序员已死」——AI 行业进入万亿级「信仰定价」时代",
+      "en": "Anthropic $65B Series H at $965B Valuation + Mystery Hy3 Model Tops OpenRouter + Eric Schmidt Says Programming Is Over — AI Industry Enters Trillion-Dollar Faith Pricing"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Anthropic H 轮融资 $650 亿，估值 $9650 亿</strong> — Anthropic 完成 Series H 融资，募集 650 亿美元，投后估值 9650 亿美元，距万亿美元一步之遥。同一天发布 Opus 4.8 显然不是巧合——先拿钱，再秀肌肉。但真正值得关注的是 System Card 中提到的 Project Glasswing 和 Claude Mythos Preview：一个比 Opus 更强的模型已在少数安全组织内测中。Anthropic 的策略很清晰：用安全叙事获取融资优势，用模型能力获取市场优势。<br><small>来源：<a href=\"https://www.anthropic.com/news/series-h\">Anthropic: Series H Announcement</a></small></li><li><strong>神秘模型 Hy3 以巨大优势登顶 OpenRouter 排行榜</strong> — 一个叫 Hy3 的未知模型突然出现在 OpenRouter 排行榜顶端，且领先幅度极大。目前没有人知道这是谁的模型。在一个模型迭代以周为单位的时代，「匿名发布 → 建立口碑 → 揭示身份」可能成为新的发布策略。这对开发者的启示：不要硬绑定任何一个模型提供商。<br><small>来源：<a href=\"https://minimaxir.com/2026/05/openrouter-hy3/\">The mysterious Hy3 LLM is topping OpenRouter Model Rankings</a></small></li><li><strong>前 Google CEO Eric Schmidt：「如果你还在传统写代码，停下来，结束了」</strong> — Schmidt 在采访中称自己「作为程序员在哀悼」，认为传统编程已经终结，AI 会写出更好的代码。结合 Anthropic Opus 4.8 的 benchmark 数据（Terminal-Bench 2.1 超 80%），这不再是空话——AI 编程能力已经在可测量的维度上逼近或超越人类平均水平。<br><small>来源：<a href=\"https://www.inkl.com/news/if-youre-writing-code-traditionally-stop-its-over-former-google-ceo-eric-schmidt-explains-why-he-is-mourning-as-a-programmer/qYwMPRFlVMQ\">Eric Schmidt: Stop writing code traditionally, it's over</a></small></li></ul><h3>🧠 Rex's Take</h3><p>9650 亿美元。让这个数字沉一沉。</p><p>Anthropic 的估值已经超过了全球绝大多数上市公司。它比 Meta 的市值低，但比 Samsung、Netflix、Nvidia 的 2023 年市值都高。一家成立四年的公司，年收入可能在 50-80 亿美元区间（按公开信息推测），拿到了接近万亿的估值。这意味着市场给它的 PS 倍数在 120-200x 之间。</p><p>这合理吗？按传统估值逻辑，当然不合理。但 AI 行业正在创造一种新的估值范式——我称之为<strong>「信仰定价」（Faith Pricing）</strong>：投资人不是在为今天的收入定价，而是在为「AI 成为通用智能基础设施」这个赌注定价。如果 AGI 真的在 3-5 年内到来，控制最强 AI 的公司的价值可能是无限的。所以任何有限的估值都是「便宜的」。这是一种末日赌注式的投资逻辑。</p><p>Hy3 的出现则为这个叙事增加了不确定性。当一个匿名模型就能登顶排行榜时，说明<strong>AI 模型的「护城河」可能比想象中窄</strong>。Anthropic 值 9650 亿的前提是它能持续保持模型领先地位——但如果一个不知名的团队就能造出同等水平的模型，这个前提就站不住。（当然，Hy3 也可能是某个大厂在试水，那就是另一个故事了。）</p><p>Eric Schmidt 的「程序员已死」论断需要精确解读。他说的不是「软件工程消失了」，而是「用键盘逐行敲代码」这种特定工作方式消失了。类比：会计这个职业没有消失，但手工记账消失了。设计这个职业不会消失，但手动切像素正在消失。<strong>编程的未来是「意图表达→AI 实现→人类审核」这个循环</strong>，和设计的未来（「需求洞察→AI 生成→人类判断」）惊人地一致。</p><p>三条新闻的共同主线：AI 行业正在经历一种「信仰与证据」的辩证。Anthropic 的估值是信仰，Opus 4.8 的 benchmark 是证据，Hy3 是对信仰的挑战，Schmidt 的论断是信仰的传教。作为旁观者，最明智的策略是：<strong>不赌哪家公司赢，但赌「AI 能力持续提升」这个方向对</strong>。具体来说：学会和 AI 协作的人会比抗拒 AI 的人更有竞争力——这已经不是预测，而是正在被数据证实的事实。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Anthropic raises $65B Series H at $965B valuation</strong> — Near-trillion valuation with Project Glasswing and Mythos Preview hinting at models beyond Opus.</li><li><strong>Mystery Hy3 model tops OpenRouter rankings by large margin</strong> — Unknown origin model challenges the assumption of model moats.</li><li><strong>Eric Schmidt: 'If you're writing code traditionally, stop. It's over.'</strong> — Former Google CEO mourns programming as AI benchmarks approach human-level.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Anthropic: Series H Funding",
+        "url": "https://www.anthropic.com/news/series-h",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg"
+      },
+      {
+        "title": "The mysterious Hy3 LLM topping OpenRouter",
+        "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+        "image": ""
+      },
+      {
+        "title": "Eric Schmidt: Stop writing code traditionally",
+        "url": "https://www.inkl.com/news/if-youre-writing-code-traditionally-stop-its-over-former-google-ceo-eric-schmidt-explains-why-he-is-mourning-as-a-programmer/qYwMPRFlVMQ",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg"
+  },
+  {
     "date": "2026-05-28",
     "section": "design",
     "title": {
