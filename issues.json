@@ -3,6 +3,66 @@
     "date": "2026-05-29",
     "section": "design",
     "title": {
+      "zh": "AI 正在重演前端「失落的十年」+ Vicki Boykis：我们应该比模型更累——当去技能化从前端蔓延到整个编程，设计师的手艺困境再次浮现",
+      "en": "AI Is Repeating Frontend's Lost Decade + \"We Should Be More Tired Than the Model\" — As Deskilling Spreads from Frontend to All Programming, the Craft Crisis Returns"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>「AI 正在重演前端失落的十年」：框架去技能化的历史正在以 AI 的形式重演</strong> — Mastro 创始人 Mauro Bieg 撰文指出，AI 对编程的影响和 JavaScript 框架对前端的影响如出一辙：都是通过降低门槛实现「去技能化」（deskilling），让原本需要深度专业知识的工作可以被通才完成。文章引用 Alex Russell 的「前端失落十年」概念，指出 React 等框架把浏览器当作编译目标，导致 accessibility、性能等专业知识被边缘化。现在 AI 正在对整个编程做同样的事。最精彩的类比：Bauhaus 运动如何应对工业化——不是对抗机器，而是重新定义「好设计」在工业生产中的位置。<br><small>来源：<a href=\"https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/\">Is AI causing a repeat of Frontend's Lost Decade?</a></small></li><li><strong>Vicki Boykis：「我们应该比模型更累」——在 AI 编码中刻意加入摩擦力</strong> — 前 Tumblr/Samsung ML 工程师 Vicki Boykis 分享了她在 agentic coding session 后「大脑一片空白」的体验。她发现问题本质是：AI 生成代码绕过了人脑的工作记忆处理过程，导致「看起来写了代码，实际上什么都没学到」。她的解决方案包括：先自己写初始实现再让 agent review、用 AI 提问而非生成、花 20 分钟独立思考后再启动 agent。核心观点：AI 的 UX 暗示了「拉杆机」式的即时满足，我们需要主动设计摩擦来对抗它。<br><small>来源：<a href=\"https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/\">We should be more tired than the model</a></small></li><li><strong>Cloudflare 公开 AI Code Review 架构：7 个专业化 Agent 编排取代单一大 prompt</strong> — Cloudflare 详细披露了内部 AI 代码审查系统的设计：不是用一个大模型+大 prompt 审代码，而是启动最多 7 个专业审查 Agent（安全、性能、代码质量、文档、发布管理、合规），由一个 coordinator agent 去重、判断严重性、生成单一结构化 review。这是目前公开的最详细的「多 agent 编排在工程实践中落地」的案例之一。<br><small>来源：<a href=\"https://blog.cloudflare.com/ai-code-review/\">Cloudflare: Orchestrating AI Code Review at scale</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这三篇文章讲的是同一件事：<strong>AI 正在改变「做事」和「理解事」之间的关系，而我们还没有找到平衡点。</strong></p><p>Mauro Bieg 的文章是我今年读到的最有洞察力的 AI 评论之一，因为他找到了一个完美的历史类比。前端的故事大家都知道：React/Next.js 让任何后端程序员都能「做前端」，但代价是整个行业丢失了 semantic HTML、accessibility、渐进增强等核心知识。结果？2024 年的 web 比 2014 年的 web 更慢、更不可访问、更依赖 JavaScript。框架降低了门槛，但也降低了地板。</p><p>AI 现在对整个编程做着同样的事。Vicki Boykis 的亲身体验精确描述了这个过程的微观机制：当你拉一下 AI 的「拉杆」就得到可运行的代码时，你的大脑跳过了「理解」这个步骤。短期看你更快了，长期看你的专业判断力在退化。她把 AI coding 比作老虎机的比喻绝妙——<strong>产品设计的本质是设计激励结构，而当前 AI 工具的 UX 激励的是「不思考」</strong>。</p><p>但 Cloudflare 的多 agent 审查系统指向了一个更有建设性的方向：不是让人来做 AI 不擅长的事（这是 Vicki 的方案，本质上是个人纪律），而是<strong>用多个专业化 AI 互相检查来替代人的审核负担</strong>。7 个 agent 各司其职 + 1 个 coordinator 去重判断，这个架构模式会成为未来 AI 系统设计的标准范式。</p><p>把三者串起来的 Bauhaus 隐喻最有意思：工业化（或 AI 化）不一定导致质量下降，但前提是我们要像 Bauhaus 一样，<strong>主动重新定义「好」在新生产方式下的标准</strong>。Dieter Rams 不是反对工业生产，而是证明了工业生产也能出杰作。同理，AI 辅助设计/编程不一定产出垃圾——但只有在我们主动设计「质量守护机制」的前提下。Cloudflare 的多 agent review 就是一种。Vicki 的「20 分钟规则」是另一种。</p><p>我的预测：未来 6 个月内，「AI literacy」会取代「AI adoption」成为行业讨论焦点。问题不再是「你用不用 AI」，而是「你怎么用 AI 才不会变蠢」。设计师应该比任何人都关心这个问题——因为设计的本质就是判断力，而判断力正是 AI 最容易偷走的东西。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>\"AI Is Repeating Frontend's Lost Decade\"</strong> — Deskilling via AI mirrors how JS frameworks deskilled frontend: lower barriers, but also lower floors. The Bauhaus analogy offers a path forward.</li><li><strong>Vicki Boykis: \"We should be more tired than the model\"</strong> — AI coding's UX resembles a slot machine, bypassing working memory. The antidote: deliberate friction.</li><li><strong>Cloudflare's multi-agent code review architecture</strong> — 7 specialized AI reviewers + 1 coordinator, the most detailed public case of multi-agent orchestration in production engineering.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Is AI causing a repeat of Frontend's Lost Decade?",
+        "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+        "image": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/og.png"
+      },
+      {
+        "title": "We should be more tired than the model",
+        "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+        "image": "https://vickiboykis.com/images/logo.png"
+      },
+      {
+        "title": "Cloudflare: Orchestrating AI Code Review at scale",
+        "url": "https://blog.cloudflare.com/ai-code-review/",
+        "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3g2Vqql5biqvjvXwxhDb3b/b0c7fd707437eff2a7acb9d3172368e4/BLOG-3284_OG.png"
+      }
+    ],
+    "cover": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/og.png"
+  },
+  {
+    "date": "2026-05-29",
+    "section": "tech",
+    "title": {
+      "zh": "LLM 事实核查分歧率高达 30% + 标准 GPU 实现 3000 tokens/s 推理 + GitHub 封禁 Windows 零日研究者——AI 的「可信度危机」和「算力民主化」同步上演",
+      "en": "Frontier LLMs Disagree on 30% of Fact-Checks + 3000 tokens/s on Standard GPUs + GitHub Bans Zero-Day Researcher — AI's Trust Crisis and Compute Democratization in Parallel"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>研究：顶尖 LLM 在事实核查任务上 30% 的结论互相矛盾</strong> — lenz.io 发布研究显示，GPT-4、Claude、Gemini 等前沿模型在真实世界事实核查任务上存在大量分歧，约 30% 的判断互相矛盾。这意味着依赖单一 LLM 做事实判断的产品（如 AI 搜索、内容审核）本质上是在掷硬币。HN 热度 492 分，引发关于 AI 在高风险决策中角色的激烈讨论。<br><small>来源：<a href=\"https://lenz.io/research/llm-disagreement\">Disagreement among frontier LLMs on real-world fact-checks</a></small></li><li><strong>标准 GPU 实现 3000 tokens/s 实时 LLM 推理</strong> — kog.ai 团队展示了在标准（非 H100/A100）GPU 上实现每请求 3000 tokens/s 的 LLM 推理方案。这个数字是当前主流云推理服务的 10-50 倍。如果可规模化，意味着 LLM 推理成本可能在短期内再下降一个数量级，中小团队自托管高性能模型不再是天方夜谭。<br><small>来源：<a href=\"https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/\">Real-time LLM Inference on Standard GPUs: 3k tokens/s per request</a></small></li><li><strong>GitHub 封禁发布 Windows 零日漏洞的安全研究者，被批「报复性行为」</strong> — 微软旗下 GitHub 封禁了一位持续发布 Windows 零日漏洞的安全研究者账号。研究者声称微软「毁了他的生活」，专家称此举具有报复性质。此事引发 462 分 HN 热议：平台权力 vs 安全研究自由。这不只是安全社区的事——当 AI 代码审查（如 Cloudflare 的方案）成为主流，「谁有权决定什么代码可以存在」的问题会变得更尖锐。<br><small>来源：<a href=\"https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation\">GitHub bans security researcher who posted zero-day Windows exploits</a></small></li></ul><h3>🧠 Rex's Take</h3><p>把 LLM 分歧研究和 3000 tokens/s 推理放在一起，你看到的是 AI 行业的一个根本矛盾：<strong>我们在让 AI 跑得更快，但还没搞清楚它跑的方向对不对。</strong></p><p>30% 的事实核查分歧率是一个被严重低估的数字。想想它的含义：如果你用 Claude 核实一条新闻，有接近 1/3 的概率 GPT-4 会给出相反结论。这不是「哪个模型更好」的问题——这是说<strong>当前的 LLM 架构在「事实判断」这个任务上根本不可靠</strong>。Google 把 AI 放在搜索首页、新闻平台用 AI 做内容审核、企业用 AI 做合规检查——所有这些应用的前提是「AI 的判断大致正确」，但这个前提在 30% 的情况下不成立。</p><p>讽刺的是，Cloudflare 的多 agent 方案恰好提供了一种缓解思路：不信任任何单一模型的输出，让多个模型互相校验。但这也意味着推理成本至少翻 3-7 倍。所以 kog.ai 的 3000 tokens/s 方案就变得格外重要——<strong>如果推理足够便宜，「多模型交叉验证」就可以成为默认架构，而不是奢侈品</strong>。这是算力进步如何间接解决可信度问题的一个例子。</p><p>GitHub 封禁安全研究者的事件则触及了一个更深层的问题：在 AI 越来越多地参与代码审查和安全决策的未来，<strong>「平台 + AI」的联合裁判权力会比现在更大</strong>。想象一下：如果 Cloudflare 式的 AI 代码审查成为行业标准，而审查规则由平台（GitHub/GitLab）控制，那么「什么代码被允许合并」这个决定就不再完全在人的手里。安全研究者发布漏洞代码是为了迫使厂商修复——如果 AI 审查系统自动阻止这类代码的发布，是保护了安全还是掩盖了问题？</p><p>三条新闻的共同主线是<strong>信任和权力</strong>。我们信任 AI 的事实判断吗？（研究说不应该。）我们信任平台对代码存亡的裁决吗？（社区说不应该。）我们愿意为「更可信的 AI」付出更多算力吗？（kog.ai 说成本可以降下来。）2026 下半年，「可信 AI」会成为比「更强 AI」更重要的产品卖点。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Frontier LLMs disagree on ~30% of fact-check conclusions</strong> — Single-model reliance for factual judgment is fundamentally unreliable.</li><li><strong>3000 tokens/s inference on standard GPUs</strong> — 10-50x faster than mainstream cloud inference, potentially enabling affordable multi-model verification.</li><li><strong>GitHub bans Windows zero-day researcher</strong> — Platform power vs security research freedom, foreshadowing AI-mediated code governance debates.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Disagreement among frontier LLMs on real-world fact-checks",
+        "url": "https://lenz.io/research/llm-disagreement",
+        "image": ""
+      },
+      {
+        "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s",
+        "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+        "image": ""
+      },
+      {
+        "title": "GitHub bans security researcher for Windows zero-day posts",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+        "image": ""
+      }
+    ],
+    "cover": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3g2Vqql5biqvjvXwxhDb3b/b0c7fd707437eff2a7acb9d3172368e4/BLOG-3284_OG.png"
+  },
+  {
+    "date": "2026-05-29",
+    "section": "design",
+    "title": {
       "zh": "Claude Opus 4.8 发布「Dynamic Workflows」百并发 Agent + AI Agent Permission Fatigue 变成游戏——当 AI 协作从「对话」进化到「编排」，设计范式正在被重写",
       "en": "Claude Opus 4.8 Ships Dynamic Workflows with 100s of Parallel Agents + Permission Fatigue Becomes a Game — AI Collaboration Evolves from Chat to Orchestration"
     },
