@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-05-30",
+    "section": "design",
+    "title": {
+      "zh": "Adobe Firefly AI Assistant 被评「平庸实习生」+ Figma Make 直连生产代码库——AI 设计工具的两极：一个在追赶人类，一个在消灭边界",
+      "en": "Adobe Firefly AI Assistant Called a \"Mediocre Design Intern\" + Figma Make Now Edits Production Code — AI Design Tools: One Chasing Humans, One Erasing Boundaries"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Adobe Firefly AI Assistant：会话式 AI 代理被评为「平庸的设计实习生」</strong> — The Verge 详细评测了 Adobe 新推出的 Firefly AI Assistant，一个可以通过对话指令操作 Photoshop、Illustrator 等 Creative Cloud 工具的 AI 代理。结论犀利：「它不如专业人类设计师或照片编辑，但看着它工作挺有趣的。」Assistant 可以理解自然语言指令、执行多步骤编辑操作，但在精确控制、审美判断和复杂构图上仍然力不从心。<br><small>来源：<a href=\"https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern\">Adobe's conversational AI agent is a mediocre design intern — The Verge</a></small></li><li><strong>Figma Make 正式支持编辑生产代码库：设计和开发的最后一道墙正在倒塌</strong> — Figma 宣布 Make（其 AI 应用构建器）现在可以通过桌面应用连接生产或沙箱代码仓库，让团队直接在 Figma 的可视化界面中编辑真实软件。同时新增精确编辑面板，支持布局、颜色、字体大小等细粒度调整。这意味着 Figma 不再只是设计工具——它正在成为可视化的代码编辑器。<br><small>来源：<a href=\"https://www.theverge.com/tech/938803/figma-make-can-edit-your-production-codebase-now\">Figma Make can edit your production codebase now — The Verge</a></small></li><li><strong>Amazon 取消内部 AI 使用排行榜：员工为刷榜而「toxenmaxxing」，浪费大量算力</strong> — Amazon 关闭了追踪员工 AI 使用频率的内部排行榜。原因：员工为了冲榜开始让 AI agent 执行无意义任务，导致 token 消耗飙升但没有产出实际价值。高管 Dave Treadwell 告诫：「不要为了用 AI 而用 AI。」这是企业 AI 采用中「仪表板驱动行为」的经典案例。<br><small>来源：<a href=\"https://www.theverge.com/tech/939454/dont-use-ai-just-for-the-sake-of-using-ai\">\"Don't use AI just for the sake of using AI\" — The Verge</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天的三条新闻合在一起，画出了 AI 设计工具在 2026 年中的真实图景：<strong>工具的野心远远跑在能力前面，而企业的采用又远远跑在理解前面。</strong></p><p>Adobe Firefly AI Assistant 和 Figma Make 代表了 AI 设计工具的两种截然不同的策略。Adobe 的路径是「AI 作为人的替身」——你告诉它做什么，它尝试模仿人类设计师的操作。The Verge 的评价（「平庸实习生」）精准点出了这条路的根本问题：<strong>模仿人类工作流的 AI 永远会被拿来和人类比较，而且永远会输。</strong>因为人类设计师的核心价值不是「执行指令」，而是「知道该执行什么指令」——审美判断、上下文理解、创意直觉，这些 Firefly Assistant 统统没有。</p><p>Figma 的策略聪明得多：它不是让 AI 替代设计师，而是<strong>让设计师的输出直接变成代码</strong>。Make 连接生产代码库意味着 Figma 正在系统性地消灭「设计 → 开发交付」这个环节。这不是 AI 在做设计，这是设计工具在吞噬开发工具的地盘。对设计师来说，这是一个微妙但重大的权力转移：你不再需要「请求」开发者实现你的设计，你直接 push 到 repo。</p><p>Amazon 的「toxenmaxxing」事件则是一记响亮的警钟。当企业用量化指标（AI 使用频率）来衡量「AI 转型进度」时，员工会很理性地 game the system——就像当年的 SEO 关键词堆砌。<strong>真正的 AI 采用应该衡量产出质量的提升，而非 token 消耗量。</strong>这对设计团队也有直接启示：如果你的设计总监开始数谁用了多少次 Figma AI 或 Midjourney，赶紧跑。好的 AI 采用指标应该是「设计迭代周期是否缩短」「用户测试通过率是否提升」，而不是「谁生成了更多变体」。</p><p>我的判断：Adobe 的 AI Agent 路线在未来 12 个月内会经历「期望破灭谷底」——人们会意识到会话式 AI 在精确创意工作中的天花板很低。而 Figma 的「设计即代码」路线会继续扩张，最终迫使整个行业重新定义「设计师」的工作边界。赢家不是做得最像人类的 AI，而是让人类变得更强大的工具。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Adobe Firefly AI Assistant reviewed as a \"mediocre design intern\"</strong> — Conversational AI agent can execute multi-step edits but lacks aesthetic judgment and precise control.</li><li><strong>Figma Make connects to production codebases</strong> — Design-to-code boundary dissolves as Figma becomes a visual code editor with precise editing panels.</li><li><strong>Amazon kills AI usage leaderboard after \"toxenmaxxing\"</strong> — Employees gamed AI metrics with pointless tasks; a cautionary tale for design team AI adoption metrics.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Adobe's conversational AI agent is a mediocre design intern",
+        "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "title": "Figma Make can edit your production codebase now",
+        "url": "https://www.theverge.com/tech/938803/figma-make-can-edit-your-production-codebase-now",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Figma-make-codebase-visual-editor.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "title": "\"Don't use AI just for the sake of using AI\"",
+        "url": "https://www.theverge.com/tech/939454/dont-use-ai-just-for-the-sake-of-using-ai",
+        "image": ""
+      }
+    ],
+    "cover": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "date": "2026-05-30",
+    "section": "tech",
+    "title": {
+      "zh": "Anthropic 估值 9000 亿美元超越 OpenAI + Illinois 通过最严 AI 安全法 + AI 清洁创业公司免费打扫你家来训练机器人——AI 军备竞赛的钱、法律、和身体",
+      "en": "Anthropic's 00B Valuation Surpasses OpenAI + Illinois Passes Strictest AI Safety Law + AI Startup Offers Free Home Cleaning to Train Robots — Money, Law, and Bodies in the AI Arms Race"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Anthropic 完成 650 亿美元 H 轮融资，估值 9000 亿美元超越 OpenAI</strong> — Anthropic 宣布完成 Series H 融资，估值达到 9650 亿美元，超越 OpenAI 此前 7300 亿美元的估值。这笔资金将用于安全研究、扩展算力和产品规模化。一年前 Anthropic 估值还是 180 亿，12 个月内翻了 50 倍以上。这是 AI 史上最疯狂的估值膨胀。<br><small>来源：<a href=\"https://www.theverge.com/ai-artificial-intelligence/939216/anthropic-raised-a-funding-round-valuing-it-at-nearly-1-trillion\">Anthropic raised a funding round valuing it at nearly  trillion — The Verge</a></small></li><li><strong>Illinois 即将签署全美最严格 AI 安全法：要求独立审计和吹哨人保护</strong> — Illinois 州长 JB Pritzker 宣布将签署州议会通过的 AI 安全法案，要求 AI 公司接受独立第三方审计，并提供吹哨人保护。这些要求超越了纽约和加州的现行法律。AI 监管正在从「自愿承诺」走向「强制合规」，而 Illinois 的法律可能成为其他州的模板。<br><small>来源：<a href=\"https://www.theverge.com/policy/939410/illinois-is-close-to-enacting-an-ai-safety-law-with-broader-mandates-than-other-states\">Illinois is close to enacting an AI safety law with broader mandates — The Verge</a></small></li><li><strong>AI 机器人创业公司 Shift 免费帮你打扫房屋，用「魔法帽」录制清洁工的操作来训练未来机器人</strong> — 创业公司 Shift 提供免费家庭清洁服务，条件是清洁工戴着配有摄像头的「magic hat」在你家工作，录制的数据用于训练家庭服务机器人。这是继 Tesla 用车主驾驶数据训练自动驾驶后，又一个「用户变数据源」的模式。<br><small>来源：<a href=\"https://www.theverge.com/ai-artificial-intelligence\">This AI startup will clean your home for free to train future robots — The Verge</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天的三条新闻，分别代表了 AI 军备竞赛的三个维度：<strong>钱（Anthropic）、法律（Illinois）、和物理世界的数据（Shift）。</strong>放在一起看，你会发现 2026 年的 AI 竞争已经远远超出了「模型谁更强」的范畴。</p><p>先说钱。Anthropic 在一年内估值从 180 亿涨到 9650 亿，这个增速是人类商业史上前所未有的。但更值得注意的是时机：这发生在 Claude Opus 4.8 刚发布的同一周。市场在赌什么？不是当前营收（Anthropic 年营收大概在 20-30 亿美元，远不匹配万亿估值），而是<strong>「AI 基础设施公司」的赢家通吃效应</strong>。投资人的逻辑是：如果 AI agent 真的成为企业运营的核心，那么提供底层模型的公司就是新时代的 AWS。但这里有个悖论——Anthropic 一直强调安全优先，而安全研究是成本中心不是利润中心。9000 亿估值给了它继续投入安全研究的资本，但也给了它必须证明商业回报的压力。</p><p>Illinois 的 AI 安全法案是这个压力的制度化表达。独立审计 + 吹哨人保护，实质上是在说：<strong>我们不信任 AI 公司的自我监管。</strong>这对 Anthropic 来说其实是利好——如果你真的在做安全研究，外部审计不应该吓到你。但对那些「嘴上说安全、实际上赶工发布」的公司来说，合规成本会很高。我预测：独立 AI 安全审计会在 18 个月内成为一个 10 亿美元级别的新兴行业。</p><p>Shift 的「免费清洁换数据」模式则把 AI 竞争带入了物理世界。Tesla 证明了「服务换数据」模式在自动驾驶领域的可行性（你买车的同时成为数据生产者），现在这个逻辑被应用到了家庭机器人。关键问题是：<strong>当你的客厅成为训练数据集，你的隐私值多少钱？</strong>答案似乎是「一次免费清洁」。这个定价暴露了一个更大的问题：在 AI 时代，个人数据的交换价值正在以惊人的速度下降——因为每个公司都在竞争获取数据，而用户还没有建立起对自己数据的合理定价意识。</p><p>三条新闻的深层联系：<strong>AI 正在从数字世界溢出到物理世界和制度空间</strong>，而我们应对这种溢出的工具（法律、隐私意识、估值模型）都还停留在上一个时代。Illinois 的法律是追赶式的，Shift 的数据获取是灰色的，Anthropic 的估值是信仰式的。2026 年下半年，这三个维度的冲突会加剧。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Anthropic closes 5B Series H at 00B+ valuation, surpassing OpenAI</strong> — 50x valuation growth in 12 months signals market betting on AI infrastructure winner-take-all dynamics.</li><li><strong>Illinois passes strictest US AI safety law</strong> — Mandatory independent audits and whistleblower protections; moving from voluntary commitments to enforced compliance.</li><li><strong>AI startup Shift offers free home cleaning to capture robot training data</strong> — Cleaners wear camera-equipped \"magic hats\"; the Tesla data-flywheel model enters domestic spaces.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Anthropic raised a funding round valuing it at nearly  trillion",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/939216/anthropic-raised-a-funding-round-valuing-it-at-nearly-1-trillion",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "title": "Illinois is close to enacting an AI safety law with broader mandates",
+        "url": "https://www.theverge.com/policy/939410/illinois-is-close-to-enacting-an-ai-safety-law-with-broader-mandates-than-other-states",
+        "image": ""
+      },
+      {
+        "title": "This AI startup will clean your home for free to train future robots",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&strip=all&crop=9.6834763948498,0,80.6330472103,100"
+      }
+    ],
+    "cover": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&strip=all&crop=9.6834763948498,0,80.6330472103,100"
+  },
+  {
     "date": "2026-05-29",
     "section": "design",
     "title": {
