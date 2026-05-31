@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-05-31",
+    "section": "design",
+    "title": {
+      "zh": "AI「数字黑脸」在 TikTok 卖货 + OpenAI Codex 操控桌面应用 + Microsoft 超级应用整合 AI 工具——当 AI 开始操纵情感、操控界面、吞噬工具链",
+      "en": "AI Digital Blackface Sells on TikTok + OpenAI Codex Controls Desktop Apps + Microsoft Super App Merges AI Tools — When AI Manipulates Emotions, Interfaces, and Toolchains"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>AI 生成「数字黑脸」头像在 TikTok Shop 卖货，引发伦理风暴</strong> — TikTok Shop 上出现大量 AI 生成的黑人形象虚拟头像，用哭泣/情感化表情触发共情购买 Shein 廉价商品。这是 AI 生成内容在电商设计中的极端案例：当「情感设计」被 AI 武器化，用来利用种族身份和内疖感进行操纵性营销。<br><small>来源：<a href=\"https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping\">AI avatars in digital blackface want to sell you this belt buckle — The Verge</a></small></li><li><strong>OpenAI Codex 大更新：可操控 macOS 应用，直接挑战 Claude Code</strong> — Codex 新增 computer use 能力，可在本机操控应用完成编码任务。这是 AI 编码工具从「文本补全」到「全环境操控」的跨越——当 AI 可以直接拖拽 Figma 组件、点击按钮、切换窗口，设计师和开发者的工作界面将被彻底重定义。<br><small>来源：<a href=\"https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos\">OpenAI's big Codex update is a direct shot at Claude Code — The Verge</a></small></li><li><strong>Microsoft 正在打造「超级应用」：整合编码、聊天和 AI 工具到一个界面</strong> — 新任 Copilot 负责人 Jacob Andreou 主导超级应用项目，将分散的 AI 工具整合为统一体验。这是「工具融合」趋势的典型案例：当每个工具都想成为「唯一入口」，UI 设计的核心挑战从「功能如何展示」变成了「复杂性如何隐藏」。<br><small>来源：<a href=\"https://fortune.com/2026/05/29/microsoft-working-on-super-app/\">Microsoft is building a super app — Fortune</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天三条设计相关新闻的共同主题是：<strong>AI 正在从「辅助设计」演变为「操控界面」，而这个转变的伦理边界正在被快速突破。</strong></p><p>TikTok 的「数字黑脸」案例是我见过的最令人不安的 AI 设计应用。这不是简单的「深度伪造」问题——它揭示了 AI 生成内容在电商 UX 中的一个黑暗模式：<strong>情感设计（emotional design）被武器化为操纵性营销。</strong>Don Norman 当年提出 emotional design 是为了让产品更人性化，但现在 AI 可以大规模生产「精确触发情感反应」的虚拟人物——而且是利用种族身份来触发内疖感。这是「暗模式」（dark pattern）的进化版——我们可以称之为「深度暗模式」（deep dark pattern）：不只是误导用户点击，而是通过 AI 生成的形象来操纵深层情感反应。设计伦理学需要紧急更新。</p><p>OpenAI Codex 的 computer use 和 Microsoft 超级应用则代表了另一个趋势：<strong>AI 不再是「工具中的功能」，而是「操控工具的代理」。</strong>当 Codex 可以直接操作 macOS 应用，它就不再受限于任何单一工具的 API 边界。这对设计师意味着什么？想象一下：你的 AI 助手可以同时操作 Figma、Photoshop、浏览器和终端，在不同工具间无缝切换。这不是「插件」层面的集成，而是「操作系统」层面的接管。Figma Make 连接代码库是从设计工具向下打穿，Codex computer use 是从 AI 向上包围——两者最终会在中间汇合。</p><p>Microsoft 的超级应用则是这个趋势的企业版本。当所有 AI 工具都想成为「唯一入口」时，真正的 UX 挑战是：<strong>如何让「无限能力」不变成「无限复杂」？</strong>这是接下来 18 个月 UI 设计的核心命题。我的预测：最终胜出的不会是功能最多的超级应用，而是最懂得「不展示什么」的那个。好的 AI UI 设计是减法而不是加法。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>AI-generated \"digital blackface\" avatars sell cheap goods on TikTok Shop</strong> — Weaponized emotional design using AI-generated racial identity for manipulative commerce.</li><li><strong>OpenAI Codex can now control macOS apps</strong> — Computer use capability transforms coding AI from text completion to full-environment control.</li><li><strong>Microsoft building a \"super app\" merging all Copilot AI tools</strong> — Tool convergence trend raises the core UX challenge: hiding complexity without hiding capability.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "AI avatars in digital blackface want to sell you this belt buckle",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268550_Crying_AI_avatars_AParkin_2.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613&w=1200"
+      },
+      {
+        "title": "OpenAI's big Codex update is a direct shot at Claude Code",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&strip=all&crop=0,8.7994481637149,100,83.384081972391&w=1200"
+      },
+      {
+        "title": "Microsoft is building a super app",
+        "url": "https://fortune.com/2026/05/29/microsoft-working-on-super-app/",
+        "image": ""
+      }
+    ],
+    "cover": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268550_Crying_AI_avatars_AParkin_2.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613&w=1200"
+  },
+  {
+    "date": "2026-05-31",
+    "section": "tech",
+    "title": {
+      "zh": "Nvidia N1X 笔记本处理器即将发布 + AI 公司争相付费拍摄你做家务 + SpaceX IPO 的 memestock 隐悧——算力、数据、资本：AI 军备竞赛的三条战线全面开打",
+      "en": "Nvidia N1X Laptop Chip Imminent + AI Companies Pay to Film Your Chores + SpaceX IPO Memestock Concerns — Compute, Data, Capital: All Fronts of the AI Arms Race Now Open"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Nvidia N1X 笔记本处理器：Nvidia、Microsoft、Arm 三方联合预热，Computex 周日晊主题演讲揭晓</strong> — Nvidia 即将在 Computex 发布基于 ARM 架构的 N1X 笔记本处理器，直接挑战 Apple Silicon 和 Qualcomm Snapdragon X。这是 Nvidia 首次进入 PC CPU 市场，意味着笔记本将同时拥有 Nvidia GPU 和 CPU，对本地 AI 计算能力有重大提升。<br><small>来源：<a href=\"https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser\">Nvidia, Microsoft, and Arm are all teasing Nvidia's new N1X laptop processors — The Verge</a></small></li><li><strong>AI 公司争相付费拍摄你做家务：机器人训练数据争夺战升级</strong> — 继 Shift 的「免费清洁换数据」后，更多创业公司开始直接付费录制人类日常操作数据。物理世界数据成为 AI 竞争新战场，估计未来 12 个月将形成数十亿美元的新市场。<br><small>来源：<a href=\"https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data\">Tech companies desperately want to film you doing chores — The Verge</a></small></li><li><strong>SpaceX IPO 分析：对 Musk 是好消息，对散户可能是灶难</strong> — The Verge 质疑 SpaceX IPO 的估值结构可能成为「联邦级 memestock 救市」，内部人士利益与散户风险严重不对称。这与 AI 公司估值泡沫有直接关联——当技术公司估值基于「未来潜力」而非当前营收时，散户永远是最后知道真相的人。<br><small>来源：<a href=\"https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai\">The SpaceX IPO is great for Elon Musk and terrible for you — The Verge</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天三条科技新闻分别代表 AI 军备竞赛的三条战线：<strong>算力（Nvidia N1X）、数据（家务录制）、资本（SpaceX IPO）。</strong>它们之间的联系比表面看起来更紧密。</p><p>Nvidia 进入笔记本 CPU 市场不只是芯片竞争——它的战略目标是让<strong>每台笔记本都成为 AI 训练/推理节点</strong>。当 N1X 把 Nvidia GPU 和 ARM CPU 封装在一起，本地 AI 计算能力将有质的飞跃。这直接影响到 AI 设计工具的未来——当本地算力足够强时，Stable Diffusion、本地 LLM、实时 AI 渲染都可以在笔记本上流畅运行，云端依赖会大幅降低。这对 Adobe、Figma 这样依赖云端 AI 的公司是威胁。</p><p>家务数据录制的升级则显示了 AI 行业对「具身数据」（embodied data）的饥渴已经到了愿意直接付费的程度。这和上周报道的 Shift（免费清洁换数据）相比是一个进化——<strong>从「以服务换数据」到「直接买数据」，说明市场已经开始对物理世界数据定价。</strong>我预测在未来 12 个月，「具身 AI 数据」将形成一个独立的数十亿美元市场，就像当年的数据标注行业一样。</p><p>SpaceX IPO 的故事则是 AI 资本泡沫的一个缩影。当技术公司的估值完全基于「未来可能性」时，就会出现信息不对称：内部人知道技术的真实状态，散户只知道 PR 稿和 demo。这与 AI 公司估值的逻辑完全一致——Anthropic 9000 亿估值背后也是同样的「未来赌注」。不同的是，Anthropic 确实在生产有价值的产品，而 SpaceX IPO 的问题在于其估值结构本身是否为内部人设计。<strong>对普通投资者的建议：当一家公司的故事比其报表更吸引人时，谨慎。</strong></p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Nvidia N1X ARM laptop processor teased for Computex keynote</strong> — First Nvidia CPU enters PC market, promising unified GPU+CPU for local AI compute.</li><li><strong>AI companies now paying people to record household chores</strong> — Physical world data acquisition evolves from service-for-data to direct purchase.</li><li><strong>SpaceX IPO raises memestock bailout concerns</strong> — Insider-favoring valuation structure mirrors AI company bubble dynamics.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia's new N1X laptop processors",
+        "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+        "image": ""
+      },
+      {
+        "title": "Tech companies desperately want to film you doing chores",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613&w=1200"
+      },
+      {
+        "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613&w=1200"
+      }
+    ],
+    "cover": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613&w=1200"
+  },
+  {
     "date": "2026-05-30",
     "section": "design",
     "title": {
