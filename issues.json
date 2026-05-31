@@ -3,6 +3,71 @@
     "date": "2026-05-31",
     "section": "design",
     "title": {
+      "zh": "Adobe AI 助手沦为\"平庸实习生\" + OpenAI 砍掉 Canvas + Microsoft 365 Copilot 重设计——当 AI 设计工具集体撞墙，谁在做减法？",
+      "en": "Adobe AI Agent Is a Mediocre Design Intern + OpenAI Kills Canvas + Microsoft 365 Copilot Redesign — When AI Design Tools Hit the Wall, Who Is Doing Subtraction?"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Adobe Firefly AI 助手被评为“平庸的设计实习生”</strong> — The Verge 上手测评 Adobe 新推出的对话式 AI 设计助手，结论是：只能做小活，重要工作别交给它。这是“AI 设计工具期望值 vs 实际产出”差距的又一案例。<br><small>来源：<a href=\"https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern\">Adobe's conversational AI agent is a mediocre design intern — The Verge</a></small></li><li><strong>OpenAI 宣布关停 ChatGPT Canvas 界面</strong> — 曾被宣传为“文本/代码协作新范式”的 Canvas 将被关停。从产品设计角度看，这说明“在聊天界面上叠加编辑器”的交互模式并未获得用户验证。<br><small>来源：<a href=\"https://www.theverge.com/ai-artificial-intelligence/940028/openai-is-sunsetting-chatgpts-canvas-interface\">OpenAI is sunsetting ChatGPT's Canvas interface — The Verge</a></small></li><li><strong>Microsoft 365 Copilot 重设计：更快、更简洁、更结构化</strong> — 新设计强调“结构化响应”，从“大段文字”转向更易扫描的格式。这是 AI UI 设计的重要信号：用户不想读长文，他们想要可操作的结构。<br><small>来源：<a href=\"https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign\">Microsoft 365 Copilot gets a speed boost and cleaner design — The Verge</a></small></li><li><strong>《生命之书》创作者退出 Amazon AI 动画制作项目</strong> — 知名动画导演退出 Amazon 的 AI 生产计划，信号明确：创意人对 AI 替代制作流程的抵触从口头抱怨转向了实际行动。<br><small>来源：<a href=\"https://www.theverge.com/entertainment/939973/the-book-of-life-creator-exits-amazons-ai-production-program\">The Book of Life creator exits Amazon's AI production program — The Verge</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天四条新闻有一个共同主题：<strong>AI 设计工具正在经历“幻灭期”，而最大的设计挑战是如何让 AI 的输出变得“可用”而不只是“能用”。</strong></p><p>Adobe Firefly AI 助手的“平庸实习生”评价打脸的不只是 Adobe——它揭示了整个行业的困境：<strong>“对话式设计”的交互范式本身可能就是错的。</strong>设计是视觉-空间思维，你不能用线性文字指令来驱动一个本质上非线性的创作过程。这就是为什么 Figma 的 Make 走的是“从设计稿直接生成代码”而不是“从文字描述生成设计”——前者是“用 AI 加速已有工作流”，后者是“用 AI 替代工作流”，两者的用户接受度天差地别。</p><p>OpenAI 砥掉 Canvas 更是一个有趣的产品信号。Canvas 的失败证明了一件事：<strong>“聊天 + 编辑器”不等于“协作工具”。</strong>用户的心智模型里，聊天是聊天，编辑是编辑，强行融合反而增加认知负担。相比之下，Cursor/Windsurf 这类工具成功是因为它们从编辑器出发加入 AI，而不是从 AI 出发加入编辑器。方向决定命运。</p><p>Microsoft 365 Copilot 的重设计则代表了正确方向：<strong>不是增加功能，而是改善输出形式。</strong>用户抱怨 AI 回复太冗长、不可操作，所以 Microsoft 转向结构化、可扫描的格式。这其实是一个古老的信息设计问题——“信息层级”（information hierarchy）——只不过现在应用在 AI 输出上。我预测接下来 6 个月，“AI 输出设计”将成为一个独立的设计子领域，就像当年“微交互”（microinteraction）成为专门领域一样。</p><p>《生命之书》导演的退出则是创意行业抵抗的升级。从编剧工会罢工到现在导演主动退出 AI 制作项目，<strong>创意人的态度从“担忧”变成了“拒绝”</strong>。这会迫使 Amazon、Netflix 这类公司重新思考 AI 内容生产的定位——不是“替代创作者”，而是“增强创作者”。最终，最好的 AI 内容工具不会是“替代导演”而是“让导演能用 1/10 的预算实现 10 倍的创意试验”。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Adobe's Firefly AI Assistant reviewed as \"mediocre design intern\"</strong> — Conversational design paradigm hits reality check.</li><li><strong>OpenAI sunsetting ChatGPT Canvas</strong> — Chat+editor hybrid fails user validation.</li><li><strong>Microsoft 365 Copilot redesign: faster, cleaner, structured</strong> — AI output design becomes its own discipline.</li><li><strong>Book of Life creator exits Amazon AI animation program</strong> — Creative resistance escalates from words to action.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Adobe's conversational AI agent is a mediocre design intern",
+        "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      },
+      {
+        "title": "OpenAI is sunsetting ChatGPT's Canvas interface",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/940028/openai-is-sunsetting-chatgpts-canvas-interface",
+        "image": ""
+      },
+      {
+        "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+        "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+      },
+      {
+        "title": "The Book of Life creator exits Amazon's AI production program",
+        "url": "https://www.theverge.com/entertainment/939973/the-book-of-life-creator-exits-amazons-ai-production-program",
+        "image": ""
+      }
+    ],
+    "cover": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "date": "2026-05-31",
+    "section": "tech",
+    "title": {
+      "zh": "Anthropic 估值近万亿美元 + Illinois AI 安全法案超越其他州 + Microsoft Copilot Health 分析病历——当 AI 的“责任”问题从商业论文变成立法现实",
+      "en": "Anthropic Valued Near T + Illinois AI Safety Law Goes Further + Microsoft Copilot Health Analyzes Medical Records — When AI Accountability Moves From Papers to Law"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Anthropic 完成新一轮融资，估值接近 1 万亿美元</strong> — 这是 AI 公司估值的新里程碑。一家成立不到 4 年的公司估值达到万亿级别，说明资本市场对 AI 基础设施层的信心仍在加速而非减速。<br><small>来源：<a href=\"https://www.theverge.com/ai-artificial-intelligence/939216/anthropic-raised-a-funding-round-valuing-it-at-nearly-1-trillion\">Anthropic raised a funding round valuing it at nearly  trillion — The Verge</a></small></li><li><strong>Illinois 即将通过比其他州更严格的 AI 安全法案</strong> — 该法案要求更广泛的透明度、影响评估和责任机制，超越加州 SB-53 的范围。这标志着美国 AI 监管从“透明度”转向“问责制”。<br><small>来源：<a href=\"https://www.theverge.com/policy/939410/illinois-is-close-to-enacting-an-ai-safety-law-with-broader-mandates-than-other-states\">Illinois is close to enacting an AI safety law with broader mandates — The Verge</a></small></li><li><strong>Microsoft 发布 Copilot Health AI 预览版，可分析病历记录</strong> — AI 正式进入医疗健康领域的消费端。当 AI 可以读懂你的全部病历并给出建议，医疗 AI 的责任边界问题变得极为尖锐。<br><small>来源：<a href=\"https://www.theverge.com/ai-artificial-intelligence/939986/microsoft-launches-preview-of-copilot-health-ai-that-can-analyze-your-medical-records\">Microsoft launches preview of Copilot Health AI — The Verge</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天的科技新闻围绕一个核心议题：<strong>AI 的“责任”问题正在从抽象讨论变成具体的法律、商业和伦理现实。</strong></p><p>Anthropic 万亿估值的意义不只是数字大——它意味着资本市场认为 AI 基础设施层的“胜者”已经确定，而且只有两三家。这种“赢家通吃”的市场结构与云计算时代的 AWS/Azure/GCP 三头垂断如出一辙。但有一个关键区别：Anthropic 的估值基于“安全 AI”叙事，而 Illinois 法案正在把这种叙事变成法律义务。<strong>如果你的卖点是“负责任的 AI”，当政府开始立法定义“负责任”时，你要么符合标准变成竞争优势，要么不符合标准变成品牌危机。</strong></p><p>Illinois 法案本身值得深入关注。加州 SB-53 主要要求“透明度”（你在和 AI 对话时必须被告知），而 Illinois 的新法要求“影响评估”和“问责机制”——不只是告诉用户“这是 AI”，而是要求公司证明“AI 没有伤害用户”。这是“举证责任”的反转。对 AI 产品设计的影响：未来每个 AI 功能可能都需要内置“影响评估”模块，就像现在每个网站都有 cookie 同意弹窗一样。</p><p>Microsoft Copilot Health 则是“责任”问题的最尖锐场景。当 AI 分析你的全部病历并给出健康建议时，“谁负责”的问题变得生死攻关——字面意义上的。如果 AI 误读了你的检验报告导致延误治疗，是 Microsoft 负责、医院负责、还是你自己负责？<strong>我的判断：Copilot Health 会成为推动 AI 责任立法的强力催化剂</strong>——第一个因为 AI 健康建议出事的案例，将重塑整个行业的合规框架。这不是假设性讨论——这是 6-12 个月内必然会发生的事。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Anthropic valued near  trillion in new funding round</strong> — Capital markets signal AI infrastructure winners are locked in.</li><li><strong>Illinois nears AI safety law with broader mandates than other states</strong> — Regulation shifts from transparency to accountability.</li><li><strong>Microsoft launches Copilot Health AI to analyze medical records</strong> — Sharpest accountability test: life-and-death AI recommendations.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Anthropic raised a funding round valuing it at nearly $1 trillion",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/939216/anthropic-raised-a-funding-round-valuing-it-at-nearly-1-trillion",
+        "image": ""
+      },
+      {
+        "title": "Illinois is close to enacting an AI safety law with broader mandates",
+        "url": "https://www.theverge.com/policy/939410/illinois-is-close-to-enacting-an-ai-safety-law-with-broader-mandates-than-other-states",
+        "image": ""
+      },
+      {
+        "title": "Microsoft launches preview of Copilot Health AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/939986/microsoft-launches-preview-of-copilot-health-ai-that-can-analyze-your-medical-records",
+        "image": ""
+      }
+    ],
+    "cover": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "date": "2026-05-31",
+    "section": "design",
+    "title": {
       "zh": "AI「数字黑脸」在 TikTok 卖货 + OpenAI Codex 操控桌面应用 + Microsoft 超级应用整合 AI 工具——当 AI 开始操纵情感、操控界面、吞噬工具链",
       "en": "AI Digital Blackface Sells on TikTok + OpenAI Codex Controls Desktop Apps + Microsoft Super App Merges AI Tools — When AI Manipulates Emotions, Interfaces, and Toolchains"
     },
