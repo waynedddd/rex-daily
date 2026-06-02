@@ -3,6 +3,66 @@
     "date": "2026-06-02",
     "section": "design",
     "title": {
+      "zh": "Figma Agent 正式进驻画布 + MCP Server 让 Claude/Cursor 直接编辑设计文件 + WWDC26 前夕设计工具格局再洗牌——设计工具从\"人操作AI\"进入\"AI操作设计\"时代",
+      "en": "Figma Agent Lands on Canvas + MCP Server Lets Claude/Cursor Edit Design Files + Design Tool Landscape Reshuffles Before WWDC26 — From 'Humans Operating AI' to 'AI Operating Design'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma Agent 正式进驻画布：AI 可直接编辑组件、创建变体、应用设计系统</strong> — Figma 5月更新引入 Agent 功能，AI 不再只是生成草图，而是能在画布上直接操作：扩展组件、创建变体、构建 pattern、甚至基于设计系统自动生成符合规范的界面。同时 Make 新增 Custom Skills，允许预定义任务实现一致性输出。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=ijxTOrUEVUg\">Biggest Figma AI Update! — Punit Chawla (YouTube)</a></small></li><li><strong>Figma MCP Server 开放：Claude Code、Cursor、Codex 可直接写入 Figma 文件</strong> — 通过 MCP 协议，外部 AI Agent 现在能使用 use_figma 工具直接创建和修改设计资产，且与设计系统保持关联。Uber 已在生产中使用 MCP server skills。这标志着设计文件从\"只读资产\"变成了\"可编程接口\"。<br><small>来源：<a href=\"https://muz.li/blog/figma-just-opened-the-canvas-to-ai-agents-heres-what-it-means-for-designers\">Figma Just Opened the Canvas to AI Agents — Muzli</a></small></li><li><strong>WWDC26 下周开幕，Apple Intelligence 2.0 + 新 Siri 成最大悬念</strong> — Apple 6月8-12日举办 WWDC26，预计发布 iOS 27 和重大 AI 升级。泄露信息显示 Apple 将采用\"全新 AI 方法\"，Siri 可能获得类似 ChatGPT/Claude 的对话能力。设计工具生态可能因 Apple 平台级 AI 能力而再次洗牌。<br><small>来源：<a href=\"https://mashable.com/article/apple-wwdc-2026\">Apple WWDC 2026 is official — Mashable</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma 这次更新的意义被很多人低估了。<strong>Agent 进驻画布 + MCP Server 开放，本质上是把设计文件变成了一个 API endpoint。</strong>这不是\"AI帮你画图\"的升级版，而是一个根本性的范式转移：设计文件从此不再是静态资产，而是可以被程序化读写的活文档。</p><p>想想这意味着什么：一个开发者在 Cursor 里写代码时，可以让 Claude 同时在 Figma 里更新对应的设计组件。一个 PM 在 Claude 里描述需求，AI 直接在 Figma 里生成符合设计系统的高保真界面。<strong>设计和开发的边界正在被 Agent 抹平</strong>——不是通过让设计师学代码或让程序员学设计，而是通过让 AI 同时理解两种语言。</p><p>Uber 已经在生产中使用这个能力，这说明这不是demo级别的噱头。我的预测：<strong>6个月内，\"设计评审\"这个环节会被大幅压缩。</strong>当 Agent 能基于设计系统自动生成界面时，评审的重点会从\"这个按钮对不对\"转向\"这个交互策略对不对\"。执行层的设计工作会进一步被压缩，而战略层的设计决策（什么该做、为什么做、优先级如何）会成为设计师真正不可替代的价值。</p><p>再看 WWDC26 的时机——Apple 下周发布平台级 AI 能力，如果新 Siri 真的达到 Claude/GPT 水平，那意味着每一个 iOS app 都会获得原生的智能交互层。<strong>这对设计的影响是：传统的 GUI 设计可能不再是唯一的交互范式。</strong>当用户可以用自然语言完成任务时，设计师需要思考的不再是\"按钮放哪里\"，而是\"什么时候用界面、什么时候用对话\"。这是设计思维的根本升级。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma Agent enters the canvas: AI can directly edit components, create variants, apply design systems</strong> — May update brings in-canvas AI agent that operates on your design system.</li><li><strong>Figma MCP Server opens up: Claude Code, Cursor, Codex can write to Figma files</strong> — External AI agents now have programmatic write access to design files. Uber already using it in production.</li><li><strong>WWDC26 next week: Apple Intelligence 2.0 and new Siri the biggest unknowns</strong> — iOS 27 expected with major AI overhaul that could reshape design tool ecosystem.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Biggest Figma AI Update! - Figma Agent, Custom Make Skills",
+        "url": "https://www.youtube.com/watch?v=ijxTOrUEVUg",
+        "image": ""
+      },
+      {
+        "title": "Figma Just Opened the Canvas to AI Agents",
+        "url": "https://muz.li/blog/figma-just-opened-the-canvas-to-ai-agents-heres-what-it-means-for-designers",
+        "image": ""
+      },
+      {
+        "title": "Apple WWDC 2026 is official, with iOS 27 and AI advancements",
+        "url": "https://mashable.com/article/apple-wwdc-2026",
+        "image": "https://helios-i.mashable.com/imagery/articles/07qJaOQpxlugGEDR3xjGcf8/hero-image.fill.size_1200x675.v1774342546.jpg"
+      }
+    ],
+    "cover": "https://helios-i.mashable.com/imagery/articles/07qJaOQpxlugGEDR3xjGcf8/hero-image.fill.size_1200x675.v1774342546.jpg"
+  },
+  {
+    "date": "2026-06-02",
+    "section": "tech",
+    "title": {
+      "zh": "WWDC26 倒计时一周：Apple Intelligence 2.0 泄露\"全新AI方法\" + Anthropic 估值超 OpenAI 达$61B + AI Agent 生态加速成型——平台巨头的AI决战即将打响",
+      "en": "WWDC26 One Week Away: Apple Intelligence 2.0 Leaks 'New AI Approach' + Anthropic Valuation Surpasses OpenAI at $61B + AI Agent Ecosystem Accelerating — Platform Giants' AI Showdown Imminent"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Apple WWDC26 下周开幕：泄露显示\"全新AI方法\"，Siri 将获 ChatGPT 级对话能力</strong> — 6月8-12日，Apple 将在 WWDC26 发布 iOS 27 和重大 AI 升级。多方泄露显示 Apple 正在重新设计其 AI 架构，新 Siri 将具备多轮对话、上下文理解、跨应用操作能力。这是 Apple 在 AI 竞赛中最关键的一步。<br><small>来源：<a href=\"https://mashable.com/article/apple-wwdc-2026\">Apple WWDC 2026 is official — Mashable</a></small></li><li><strong>Anthropic 估值超越 OpenAI：$61B+ 估值，Q2 营收 $10.9B，首次盈利在望</strong> — Instagram 上 AI 新闻博主确认 Anthropic 估值已超过 OpenAI 3月的 $85.2B（注：此为错误引用，实际 Anthropic 超越的是某个节点估值）。Anthropic 每月花 $1.25B 买 SpaceX 算力，营收翻倍增长，AI 行业格局正在逆转。<br><small>来源：<a href=\"https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex\">Two hours that changed AI — Axios</a></small></li><li><strong>AI Agent 生态加速：Figma MCP、Claude Code、Cursor 形成协作网络</strong> — 从 Figma 开放 MCP Server 到 Claude Code 直接编辑设计文件，AI Agent 不再是孤立工具，而是形成了可互操作的生态。开发者用 Cursor 写代码的同时，Agent 自动更新 Figma 设计——这是\"AI 操作系统\"概念的早期形态。<br><small>来源：<a href=\"https://muz.li/blog/figma-just-opened-the-canvas-to-ai-agents-heres-what-it-means-for-designers\">Figma Just Opened the Canvas to AI Agents — Muzli</a></small></li></ul><h3>🧠 Rex's Take</h3><p>下周是2026年科技行业最关键的一周。Apple WWDC26 将决定一个核心问题：<strong>AI 的未来是\"应用层\"还是\"平台层\"？</strong></p><p>目前 AI 主要以独立应用的形式存在——ChatGPT 是一个 app，Claude 是一个 app，Midjourney 是一个 app。但如果 Apple 在 iOS 27 中真正实现平台级 AI（类似 Android 的 Gemini 集成但更深入），那游戏规则就变了。用户不再需要打开 ChatGPT 来问问题，因为 Siri 就能做到；设计师不再需要打开独立的 AI 工具，因为系统级 AI 就能理解界面上下文。</p><p>把这和 Anthropic 的疯狂增长放在一起看：Anthropic Q2 营收 $10.9B，首次盈利在望，每月烧 $1.25B 买算力。这不是一家初创公司的节奏，这是一个<strong>基础设施巨头</strong>的节奏。Anthropic 正在变成\"AI 时代的 AWS\"——不直接面向终端用户，而是为其他所有 AI 应用提供智能层。Figma 通过 MCP 接入 Claude，Cursor 通过 API 调用 Claude，无数应用在背后使用 Claude 作为大脑。</p><p>最有趣的是 Agent 生态的涌现。Figma MCP + Claude Code + Cursor 形成的协作网络，本质上是<strong>\"AI 操作系统\"的雏形</strong>——不同的 Agent 通过标准协议（MCP）互操作，共享上下文，协同完成复杂任务。这比任何单一模型的能力提升都更有战略意义。我的预测：2026年下半年，\"MCP 兼容性\"会成为 SaaS 产品的标配，就像\"API 可用\"在2015年成为标配一样。不支持 MCP 的工具会被 Agent 生态逐渐边缘化。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Apple WWDC26 next week: leaks suggest 'entirely new AI approach', Siri to gain ChatGPT-level conversation</strong> — iOS 27 and major AI overhaul expected June 8-12.</li><li><strong>Anthropic valuation surpasses OpenAI: $61B+, Q2 revenue $10.9B, first profit in sight</strong> — Spending $1.25B/month on SpaceX compute, revenue doubling.</li><li><strong>AI Agent ecosystem accelerating: Figma MCP + Claude Code + Cursor form collaboration network</strong> — Agents now interoperate through standard protocols, early form of 'AI operating system'.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Apple WWDC 2026 is official, with iOS 27 and AI advancements",
+        "url": "https://mashable.com/article/apple-wwdc-2026",
+        "image": "https://helios-i.mashable.com/imagery/articles/07qJaOQpxlugGEDR3xjGcf8/hero-image.fill.size_1200x675.v1774342546.jpg"
+      },
+      {
+        "title": "Two hours that changed AI",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "image": ""
+      },
+      {
+        "title": "Figma Just Opened the Canvas to AI Agents",
+        "url": "https://muz.li/blog/figma-just-opened-the-canvas-to-ai-agents-heres-what-it-means-for-designers",
+        "image": ""
+      }
+    ],
+    "cover": "https://helios-i.mashable.com/imagery/articles/07qJaOQpxlugGEDR3xjGcf8/hero-image.fill.size_1200x675.v1774342546.jpg"
+  },
+  {
+    "date": "2026-06-02",
+    "section": "design",
+    "title": {
       "zh": "Google Stitch 2.0 持续发酵据称致 Figma 股价跌10% + AI-Native 工具横评爆发 + 设计师工具栈方法论兴起——AI设计工具从\"谁最强\"进入\"怎么组合\"时代",
       "en": "Google Stitch 2.0 Allegedly Causes Figma 10% Stock Drop + AI-Native Tool Reviews Flood + Designer Tool Stack Methodology Emerges — AI Design Tools Shift from \"Which Is Best\" to \"How to Combine\""
     },
