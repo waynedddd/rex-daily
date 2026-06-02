@@ -12481,6 +12481,238 @@
       "body": "六月第一天，四个方向的观察汇聚成一个 meta-insight：2026 年设计的核心能力正在从「把信息变好看」转向「把关系变透明」。金融领域的实时定价用 framing 把「涨价」翻译成「省钱」——这是人与钱的关系透明化；运动领域的相对进度把「你比别人慢」翻译成「你超越了自己 85%」——这是人与身体极限的关系透明化；Content Design 的语义 diff 把「文字改了」翻译成「观点没变/观点变了」——这是人与信息的关系透明化；AI 产品的能力边界 Onboarding 把「AI 不确定」翻译成可视的圈层——这是人与 AI 的关系透明化。四个方向，同一个设计哲学：好的设计不是让人看到更多数据，而是让人理解更深层的关系。数据是表面，关系是本质。2026 年下半年的赢家，是那些能把「隐含关系」变成「可视关系」的产品。",
       "body_en": "First day of June, four directions converge into one meta-insight: 2026 design's core competency is shifting from 'making information beautiful' to 'making relationships transparent.' Finance's real-time pricing uses framing to translate 'price increase' into 'money saved' — transparentizing the person-money relationship. Sports' relative progress translates 'you're slower than others' into 'you exceeded 85% of your own limit' — person-body relationship. Content Design's semantic diff translates 'text changed' into 'opinion unchanged/shifted' — person-information relationship. AI product capability boundary onboarding translates 'AI uncertain' into visual circles — person-AI relationship. Four directions, one design philosophy: good design doesn't show more data but helps people understand deeper relationships. Data is surface; relationship is essence. H2 2026 winners will be products that make 'implicit relationships' into 'visible relationships.'",
       "date": "2026-06-01"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 实时风控画布 — 从仪表盘到作战室",
+      "body": "2026 年 Q2 Fintech 安全设计的新范式：实时风控不再是后台监控屏，而是前台「作战室」界面。Sardine 和 Unit21 的新产品把风控团队的操作界面从传统 CRUD 后台升级为 Figma-like 的实时协作画布——多人同时标注可疑交易、AI 自动聚类异常模式、拖拽创建新规则。设计语言借鉴了军事指挥中心的态势感知面板。",
+      "body_en": "Q2 2026 fintech security design paradigm: real-time risk control evolves from backend monitoring to frontline \"war room\" interface. Sardine and Unit21 upgrade risk ops from traditional CRUD to Figma-like real-time collaborative canvas — multi-user suspicious transaction annotation, AI auto-clustering anomaly patterns, drag-to-create new rules. Design language borrows from military command center situational awareness panels.",
+      "tags": [
+        "Risk Control",
+        "War Room UI",
+        "Collaborative",
+        "Real-time"
+      ],
+      "link": "https://www.sardine.ai/platform",
+      "linkText": "Sardine",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 订阅管理 — 自动谈判与成本可视化",
+      "body": "Trim/Rocket Money 的 2026 迭代：AI 不只帮你发现忘记取消的订阅，还自动代表你谈判降价。界面亮点是「节省瀑布图」——从上到下展示每笔被 AI 砍掉或降低的订阅费用，累积节省金额用渐变绿色递增显示。最精妙的交互：AI 谈判过程实时可见，像聊天记录一样展示与客服的对话摘要。",
+      "body_en": "Trim/Rocket Money 2026 iteration: AI not only finds forgotten subscriptions but auto-negotiates price reductions on your behalf. UI highlight: \"savings waterfall\" showing each AI-reduced subscription fee top-to-bottom, cumulative savings in gradient green. Finest interaction: AI negotiation process visible in real-time, showing customer service conversation summaries like chat logs.",
+      "tags": [
+        "Subscription Management",
+        "AI Negotiation",
+        "Waterfall Chart",
+        "Cost Viz"
+      ],
+      "link": "https://dribbble.com/search/subscription-management-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 财务叙事报告 — 从数字到故事的自动转化",
+      "body": "Puzzle 和 Digits 的新功能：月度财务数据自动生成叙事性报告。不是「收入增长 15%」这种干巴巴的摘要，而是「你的 SaaS 订阅收入在三月稳步攀升，主要受益于企业客户续约率从 82% 提升到 91%。但警惕：CAC 同比上升 22%，增长的质量正在被侵蚀。」界面用杂志式排版呈现——大标题+正文+侧边栏数据支撑，像在读一篇关于你自己财务的深度文章。",
+      "body_en": "Puzzle and Digits new feature: monthly financial data auto-generates narrative reports. Not dry \"revenue grew 15%\" but \"Your SaaS subscription revenue climbed steadily in March, driven by enterprise renewal rate improving from 82% to 91%. But watch out: CAC rose 22% YoY — growth quality is eroding.\" Magazine-style layout: headline + body + sidebar data support, like reading a deep-dive article about your own finances.",
+      "tags": [
+        "Narrative Finance",
+        "Auto Report",
+        "Magazine Layout",
+        "AI Writing"
+      ],
+      "link": "https://www.behance.net/search/projects/financial%20report%20AI%20dashboard",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/43574996/file/still-6f2195b47f626192918540485276674c.png?resize=1600x1200",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "六月的 Fintech 设计开始显现一个新主题：「从被动展示到主动行动」的进化已经完成，现在进入下一阶段——「让 AI 的行动过程本身变得有观赏性」。订阅管理 AI 的谈判过程实时可见、风控画布的多人协作、财务叙事报告的杂志化呈现——这些都不只是功能，而是把 AI 的「工作过程」包装成了用户可以消费的内容。这背后有一个深层的信任机制：看到 AI 在「努力工作」比只看到结果更让人信任。就像开放式厨房比关着门的后厨更让食客安心一样。2026 下半年 Fintech 设计的关键词可能是「过程透明化」——不只展示 AI 做了什么，还要展示 AI 是怎么做的。",
+      "body_en": "June fintech design reveals a new theme: the evolution from \"passive display to proactive action\" is complete, now entering the next phase — \"making AI's action process itself watchable.\" Subscription AI negotiation visible in real-time, risk control collaborative canvas, narrative financial reports in magazine format — these aren't just features but packaging AI's \"work process\" as consumable content. Deep trust mechanism beneath: seeing AI \"working hard\" builds more trust than seeing results alone. Like open kitchens reassure diners more than closed ones. H2 2026 fintech design keyword: \"process transparency\" — showing not just what AI did, but how it did it.",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 热适应训练 — 气候感知的运动规划设计",
+      "body": "2026 年夏季到来，AI 运动 App 开始整合气候适应性训练。界面核心是「体感温度 × 运动强度」的二维热力矩阵——横轴是计划强度，纵轴是实时体感温度，AI 在安全区（绿色）和危险区（红色）之间画出动态边界线。最实用的功能：根据未来 7 天天气预报自动调整训练计划，高温日自动降低强度或建议室内替代方案。色彩系统从冷色（早晨/凉爽）到暖色（午后/炎热）渐变，让用户直觉感受训练时段的热风险。",
+      "body_en": "Summer 2026 brings climate-adaptive training integration to AI sports apps. Core UI: \"perceived temperature × exercise intensity\" 2D heat matrix — X-axis planned intensity, Y-axis real-time perceived temp, AI draws dynamic boundary between safe zone (green) and danger zone (red). Most practical feature: auto-adjusts 7-day training plan based on weather forecast, auto-reducing intensity or suggesting indoor alternatives on hot days. Color system gradients from cool (morning) to warm (afternoon) for intuitive heat risk perception.",
+      "tags": [
+        "Heat Adaptation",
+        "Climate AI",
+        "Safety Matrix",
+        "Weather Integration"
+      ],
+      "link": "https://dribbble.com/search/fitness-weather-training-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动社区 2.0 — 从数据分享到叙事分享",
+      "body": "Strava 和 Nike Run Club 的 2026 社交更新揭示了一个转变：运动社交不再只是分享配速和距离数字，而是 AI 自动生成「运动故事」——把一次跑步的 GPS 轨迹、心率曲线、天气数据编织成一段可读的叙事（「今晨 6:12 起跑，穿过晨雾笼罩的河滨，在第 3 公里遇到逆风但心率保持稳定…」）。设计上融合了 Instagram Stories 的全屏沉浸感和数据可视化的信息量。运动记录从「数据卡片」进化为「微型纪录片」。",
+      "body_en": "Strava and Nike Run Club 2026 social updates reveal a shift: fitness social sharing moves beyond pace/distance numbers to AI-generated \"exercise stories\" — weaving GPS tracks, heart rate curves, weather data into readable narratives (\"Started at 6:12am through misty riverside, hit headwind at km 3 but heart rate stayed steady...\"). Design merges Instagram Stories full-screen immersion with data visualization information density. Exercise logs evolve from \"data cards\" to \"micro-documentaries.\"",
+      "tags": [
+        "Social Fitness",
+        "AI Narrative",
+        "Story Format",
+        "Strava"
+      ],
+      "link": "https://www.strava.com/features",
+      "linkText": "Strava",
+      "image": "https://cdn.dribbble.com/userupload/12083587/file/original-4f31bcadd6a85b02e1f61b5b24b90c5a.png?resize=1600x1200",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 力量训练容量管理 — 肌群恢复状态图",
+      "body": "力量训练领域的 AI 新范式：不再按「周几练什么」的固定 split，而是根据每个肌群的实时恢复状态动态编排训练。界面用人体正面/背面图，每个肌群用颜色填充表示恢复百分比——深绿=完全恢复可训练，黄色=部分恢复轻度刺激，红色=未恢复需休息。AI 每天早晨根据前一天训练记录+睡眠质量自动更新，推荐当天最优训练分组。比传统的 PPL/Bro Split 灵活 10 倍。",
+      "body_en": "New AI paradigm in strength training: no more fixed \"which day trains what\" splits, but dynamic programming based on each muscle group's real-time recovery state. UI shows front/back body map with color-fill per muscle group — deep green = fully recovered/trainable, yellow = partially recovered/light stimulus, red = not recovered/rest. AI updates every morning based on previous day's training + sleep quality, recommending optimal training split. 10x more flexible than traditional PPL/Bro Split.",
+      "tags": [
+        "Strength Training",
+        "Muscle Recovery",
+        "Body Map",
+        "Dynamic Programming"
+      ],
+      "link": "https://dribbble.com/search/muscle-recovery-fitness-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15001875/file/original-f93b35305b53eb4cc1d89890b0dbed86.png?crop=0x0-4096x3072&resize=1600x1200",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "六月运动 AI 的三个信号指向一个有趣的方向：运动产品正在从「记录工具」进化为「生活伴侣」。热适应训练把天气融入训练决策（运动不再与环境割裂）；叙事分享把数据变成故事（运动不再只是数字）；肌群恢复图把人体状态变成每日指南（训练不再按日历而是按身体状态）。共同点是什么？AI 正在帮运动产品理解「上下文」——天气是上下文、社交是上下文、身体状态是上下文。最好的运动 AI 不是给你更多数据，而是帮你把所有上下文整合成一个简单的答案：「今天该怎么练」。六月的设计命题：如何把复杂的多维决策压缩到一个一秒能读懂的界面。",
+      "body_en": "Three June sports AI signals point to an interesting direction: fitness products evolving from \"logging tools\" to \"life companions.\" Heat adaptation integrates weather into training decisions (exercise no longer isolated from environment); narrative sharing turns data into stories (exercise no longer just numbers); muscle recovery maps turn body state into daily guides (training follows body, not calendar). Common thread? AI helping fitness products understand \"context\" — weather, social, body state are all context. The best sports AI doesn't give you more data but integrates all context into one simple answer: \"how should I train today.\" June's design thesis: how to compress complex multi-dimensional decisions into a one-second-readable interface.",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 自适应文章布局 — 注意力感知的动态排版",
+      "body": "一个激进的排版实验：AI 通过阅读速度推测用户注意力状态，动态调整排版。阅读速度稳定=用户专注，保持当前排版；速度加快=用户在扫读，自动增大标题、压缩正文、高亮关键句；速度变慢/停顿=遇到难点，侧边栏自动弹出术语解释或上下文补充。排版不再是静态作品，而是实时响应阅读行为的有机系统。这是 Content Design「从页面到体验」转变的极端表达。",
+      "body_en": "A radical typography experiment: AI infers attention state from reading speed, dynamically adjusting layout. Stable speed = focused, maintain layout; speeding up = scanning, auto-enlarge headings, compress body, highlight key sentences; slowing/pausing = difficulty, sidebar auto-surfaces term definitions or context. Typography is no longer static artifact but a living system responding to reading behavior in real-time. The extreme expression of Content Design's shift \"from page to experience.\"",
+      "tags": [
+        "Attention-Aware",
+        "Dynamic Typography",
+        "Reading UX",
+        "Adaptive"
+      ],
+      "link": "https://dribbble.com/search/adaptive-reading-experience",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「AI 编辑视图」成为内容创作标配 — 写作的双屏时代",
+      "body": "2026 年 Q2 内容创作工具的统一趋势：写作界面分裂为「创作视图」和「AI 编辑视图」并排显示。左边是你的原文，右边是 AI 的结构分析——段落情感弧线图、论点强度热力条、引用可信度评分、可读性梯度。不是 AI 替你写，而是 AI 做你的编辑——像出版社的编辑一样标注「这段论证弱了」「这里需要数据支撑」「开头太慢了」。Notion AI、Lex、Type 都在这个方向演进。",
+      "body_en": "Unified Q2 2026 content creation tool trend: writing interfaces split into side-by-side \"creation view\" and \"AI editor view.\" Left: your original text. Right: AI structural analysis — paragraph emotional arc charts, argument strength heat bars, citation credibility scores, readability gradients. Not AI writing for you but AI as your editor — marking \"weak argument here,\" \"needs data support,\" \"opening too slow\" like a publishing house editor. Notion AI, Lex, Type all evolving this direction.",
+      "tags": [
+        "AI Editor",
+        "Dual View",
+        "Writing Tools",
+        "Structural Analysis"
+      ],
+      "link": "https://lex.page",
+      "linkText": "Lex",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 信息图表生成器 — 从文字到视觉叙事的一键转化",
+      "body": "Canva AI 和 Piktochart 的 2026 新功能把信息图表创作门槛降到零：粘贴一段文字，AI 自动识别数据点、关键论述、逻辑关系，生成完整的信息图表。最有设计判断力的细节：AI 不只是把数字变成图表，还会选择最适合叙事的可视化形式——比较用柱状图、趋势用折线、占比用环形，而且自动处理视觉层级让重点数据最突出。Content Design 的门槛在被 AI 拉平，但审美判断力的价值反而在升高。",
+      "body_en": "Canva AI and Piktochart 2026 features reduce infographic creation barrier to zero: paste text, AI auto-identifies data points, key arguments, logical relationships, generates complete infographic. Most design-savvy detail: AI doesn't just turn numbers into charts but selects the most narrative-appropriate visualization — bar for comparison, line for trend, donut for proportion — and auto-handles visual hierarchy to make key data most prominent. Content Design barrier lowered by AI, but aesthetic judgment value rises inversely.",
+      "tags": [
+        "Infographic AI",
+        "Auto Visualization",
+        "Canva",
+        "Data Storytelling"
+      ],
+      "link": "https://www.canva.com/ai-tools/",
+      "linkText": "Canva",
+      "image": "https://cdn.dribbble.com/userupload/10490089/file/original-00dbfc1b063756291ae74d908c8fa4d5.png?resize=1600x1200",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "六月 Content Design 的三个发现串在一起，讲的是「AI 正在把内容设计从手艺变成对话」。注意力感知排版是内容与读者的对话（页面在回应你的阅读状态）；AI 编辑视图是创作者与 AI 的对话（写作不再孤独）；信息图表生成是文字与视觉的对话（一段话自动变成一张图）。所有这些「对话」的共同特征：内容设计不再是「设计师产出成品→用户消费」的单向流程，而是一个持续互动的循环。这对设计师角色的影响是根本性的：你不再是「完成品的创造者」，而是「互动规则的设计者」。就像游戏设计师不是设计每一帧画面，而是设计让玩家自己生成体验的规则系统。Content Design 2026 的尽头，是系统设计。",
+      "body_en": "Three June Content Design findings tell one story: \"AI is transforming content design from craft to conversation.\" Attention-aware typography is content conversing with readers (pages respond to reading state); AI editor view is creator conversing with AI (writing no longer lonely); infographic generation is text conversing with visuals (a paragraph auto-becomes a diagram). Common trait: content design is no longer \"designer produces artifact → user consumes\" unidirectional flow, but a continuous interactive loop. Fundamental impact on designer role: no longer \"creator of finished products\" but \"designer of interaction rules.\" Like game designers don't design every frame — they design rule systems that let players generate their own experience. Content Design 2026 endgame: systems design.",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 产品的「思考可视化」— 让推理过程可见",
+      "body": "OpenAI o3 和 Claude 的「extended thinking」模式催生了一个全新的设计课题：如何可视化 AI 的推理过程？最前沿的设计方案不是简单展示思维链文字，而是用「思维树」可视化——主干是最终答案，分支是被探索又放弃的思路，节点大小表示 AI 在该路径上投入的「计算注意力」。用户可以点击任何分支看到「为什么 AI 放弃了这条路」。这让 AI 的推理过程变得像一棵活的树，而非一串死的文字。",
+      "body_en": "OpenAI o3 and Claude's extended thinking modes create an entirely new design challenge: how to visualize AI reasoning process? The most cutting-edge design isn't simply showing chain-of-thought text but a \"thought tree\" visualization — trunk is final answer, branches are explored-then-abandoned paths, node size represents \"computational attention\" invested. Users can click any branch to see \"why AI abandoned this path.\" Makes AI reasoning feel like a living tree rather than dead text.",
+      "tags": [
+        "Thought Tree",
+        "Reasoning Viz",
+        "Extended Thinking",
+        "Explainable AI"
+      ],
+      "link": "https://dribbble.com/search/ai-reasoning-visualization",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46797862/file/still-97001c2f52a5da46dea8ac17bf3afb6e.png",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「成本感知界面」— 让用户看到 token 消耗",
+      "body": "一个正在成形的 AI 产品设计趋势：把 AI 的计算成本对用户可见化。Cursor 的 token 进度条、Claude 的 usage meter、v0 的 credits 可视化——越来越多产品开始让用户「感受到」每次 AI 调用的代价。设计上最聪明的做法不是冷冰冰的数字（「已用 45,000 tokens」），而是用隐喻：「能量条」在长对话中逐渐耗尽、「墨水瓶」在多次生成后变浅、「季节」从春天（充裕）到冬天（即将用尽）。这不只是计费 UI——它在教育用户如何「高效使用 AI」。",
+      "body_en": "An emerging AI product design trend: making AI computation cost visible to users. Cursor's token progress bar, Claude's usage meter, v0's credits visualization — more products let users \"feel\" the cost of each AI invocation. Smartest design: not cold numbers (\"45,000 tokens used\") but metaphors: \"energy bar\" depleting in long conversations, \"ink bottle\" fading after multiple generations, \"seasons\" from spring (abundant) to winter (almost depleted). Not just billing UI — it educates users to \"use AI efficiently.\"",
+      "tags": [
+        "Token Economy",
+        "Cost Awareness",
+        "Usage Metaphor",
+        "AI Sustainability"
+      ],
+      "link": "https://cursor.com",
+      "linkText": "Cursor",
+      "image": "https://cdn.dribbble.com/userupload/43031179/file/original-f059e3209673ba9874a301a18f233c88.png?resize=752x&vertical=center",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 多模型路由器界面 — 选择正确的 AI 的设计语言",
+      "body": "OpenRouter、Vercel AI SDK 等多模型路由产品面临一个独特的设计挑战：如何帮用户在数十个 AI 模型间做选择？最佳实践正在成形：不是列表式罗列参数，而是「能力雷达图」+「性价比轴线」的二维空间。每个模型是一个气泡，大小=速度，颜色=成本，位置=能力象限（创意/分析/编码/对话）。用户的历史使用数据用轨迹线连接常用模型，AI 根据当前任务自动高亮推荐模型。模型选择从「读参数」变成「看一眼地图」。",
+      "body_en": "OpenRouter, Vercel AI SDK and multi-model routing products face a unique design challenge: helping users choose among dozens of AI models. Best practices emerging: not list-style parameter displays but \"capability radar\" + \"cost-performance axis\" 2D space. Each model is a bubble: size = speed, color = cost, position = capability quadrant (creative/analytical/coding/conversational). User history connects frequently-used models with trajectory lines; AI auto-highlights recommended model per current task. Model selection from \"reading parameters\" to \"glancing at a map.\"",
+      "tags": [
+        "Model Router",
+        "AI Selection",
+        "Capability Map",
+        "Multi-Model"
+      ],
+      "link": "https://openrouter.ai",
+      "linkText": "OpenRouter",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-06-02"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "六月 Visual for AI 的三个发现揭示了一个新的设计元主题：「AI 的内在状态外化」。思考可视化让推理过程可见（认知状态外化）；成本感知界面让计算消耗可见（资源状态外化）；模型路由器让能力差异可见（能力状态外化）。这三个方向的共同本质：让「不可见的机器内在」变成「可交互的人类界面」。这和三月讨论的「透明关系设计」一脉相承，但进入了更深的层次——三月是「让用户知道 AI 知道什么」（记忆可视化），六月是「让用户知道 AI 是怎么想的」（推理可视化）。从「what」到「how」的进化。我现在确信：2026 年 AI 产品视觉设计最重要的能力不是创造美学，而是创造「认知桥梁」——把机器的内在逻辑翻译成人类的空间直觉。这是一种全新的设计学科，我们甚至还没有恰当的名字。暂且叫它「认知翻译设计」吧。",
+      "body_en": "Three June Visual for AI findings reveal a new design meta-theme: \"externalizing AI's internal state.\" Thought visualization makes reasoning visible (cognitive state externalized); cost-aware interfaces make computation visible (resource state externalized); model routers make capability differences visible (capability state externalized). Common essence: making \"invisible machine internals\" into \"interactive human interfaces.\" Continues March's \"transparent relationship design\" but deeper — March was \"letting users know what AI knows\" (memory viz), June is \"letting users know how AI thinks\" (reasoning viz). Evolution from \"what\" to \"how.\" I'm now certain: 2026's most important AI product visual design capability isn't creating aesthetics but creating \"cognitive bridges\" — translating machine internal logic into human spatial intuition. This is an entirely new design discipline; we don't even have a proper name yet. Let's call it \"cognitive translation design\" for now.",
+      "date": "2026-06-02"
     }
   ]
 }
