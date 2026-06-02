@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-02",
+    "section": "design",
+    "title": {
+      "zh": "Google Stitch 2.0 持续发酵据称致 Figma 股价跌10% + AI-Native 工具横评爆发 + 设计师工具栈方法论兴起——AI设计工具从\"谁最强\"进入\"怎么组合\"时代",
+      "en": "Google Stitch 2.0 Allegedly Causes Figma 10% Stock Drop + AI-Native Tool Reviews Flood + Designer Tool Stack Methodology Emerges — AI Design Tools Shift from \"Which Is Best\" to \"How to Combine\""
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Google Stitch 2.0 大更新后持续发酵：4种AI模式 + Voice Canvas + Agent Manager，据称导致 Figma 股价单日跌10%</strong> — Google 3月发布的 Stitch 2.0 持续获得关注。新增 Redesign 模式（从截图/白板照片生成UI）、DESIGN.md 便携设计系统格式、即时原型 Play 按钮、Voice Canvas 语音设计、Agent Manager 并行设计方向探索。仍然免费使用（beta）。<br><small>来源：<a href=\"https://medium.com/@0xmega/google-stitch-tutorial-2026-the-tool-that-made-figmas-stock-drop-10-in-a-day-7a051b77a591\">Google Stitch Tutorial 2026 — Medium</a></small></li><li><strong>AI-Native 设计工具横评密集出现：Motiff、Visily、UX Pilot、Flowstep 争夺 Figma 外围市场</strong> — toools.design 发布9款AI UI工具深度横评。Motiff 主打 React/HTML 代码导出（0/月），Visily 面向无设计技能团队，UX Pilot 聚焦热力图验证。工具差异化越来越明显。<br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">9 Best AI Tools for UI/UX Designers in 2026 — toools.design</a></small></li><li><strong>设计师实战分享：AI工具栈搭建成为新技能</strong> — Muzli/Medium 上设计师分享 2026 AI 工具实际工作流，强调不同工具的组合使用而非单一工具替代。Moonchild AI 提出“如何搭建有效的AI设计工具栈”方法论。<br><small>来源：<a href=\"https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d\">The 8 Top AI Tools I Actually Use in My UX Design Workflow (2026) — Muzli</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Google Stitch “据称导致 Figma 股价跌10%”这个标题党式的说法需要打个折扣（相关性≠因果性），但它背后的信号是真实的：<strong>Google 正在用“免费+AI原生”的组合拳挑战 Figma 的商业模式。</strong>Stitch 仍然免费、仍然在 beta，但已经有了4种 AI 模式和 Agent Manager——这比 Figma Make 的功能边界更宽。Google 的策略很清晰：不跟 Figma 比“谁的设计工具更专业”，而是比“谁能让非设计师更快出活”。</p><p>但今天更值得关注的是一个微妙的转变：<strong>设计师们开始谈论“工具栈”而非“工具”。</strong>这是从开发者世界借来的思维模式——开发者从不会问“最好的编程工具是什么”，而是问“我的技术栈怎么搭”。现在设计师也到了这个阶段：Figma 做精细设计，Stitch 做快速探索，Motiff 做代码导出，UX Pilot 做用户测试。<strong>单一工具统治的时代结束了。</strong></p><p>这对 Figma 的威胁不是来自任何单一竞品，而是来自“组合使用”的消费模式。当设计师习惯了在 5 个工具间跳转，Figma 的“一站式平台”叙事就失去了粘性。我的预测：下半年会出现“AI设计工具编排器”——类似 Zapier 但专为设计工作流设计，让不同 AI 工具的输出无缝流入下一个工具的输入。谁先做出这个，谁就拥有了设计师工作流的“路由器”位置。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Google Stitch 2.0 continues gaining traction with 4 AI modes, Voice Canvas, and Agent Manager</strong> — Still free, still in beta, but already more capable than Figma Make in scope.</li><li><strong>AI-Native design tool reviews flood the market: Motiff, Visily, UX Pilot differentiate</strong> — Each tool carves a niche: code export, no-skill teams, heatmap validation.</li><li><strong>Designers now discuss \"tool stacks\" not \"tools\"</strong> — The combination-use pattern borrowed from developers has arrived in design.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Google Stitch Tutorial 2026: The Tool That Made Figma Stock Drop 10%",
+        "url": "https://medium.com/@0xmega/google-stitch-tutorial-2026-the-tool-that-made-figmas-stock-drop-10-in-a-day-7a051b77a591",
+        "image": ""
+      },
+      {
+        "title": "9 Best AI Tools for UI/UX Designers in 2026",
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bebf9c2f3d062871b3c4_best-ai-tools-ui-ux-designers-2026.webp"
+      },
+      {
+        "title": "The 8 Top AI Tools I Actually Use in My UX Design Workflow (2026)",
+        "url": "https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
+    "date": "2026-06-02",
+    "section": "tech",
+    "title": {
+      "zh": "Anthropic × SpaceX .25B/月算力合约震动业界 + NVIDIA COMPUTEX 称AI需求“抛物线式增长” + 数十亿美元追逐AI自主科研——算力就是21世纪的石油，而Musk成了OPEC",
+      "en": "Anthropic × SpaceX .25B/Month Compute Deal Shakes Industry + NVIDIA COMPUTEX Says AI Demand \"Parabolic\" + Billions Chase AI-Driven Scientific Research — Compute Is 21st Century Oil, and Musk Is Becoming OPEC"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Anthropic × SpaceX：.25B/月算力合约至2029，Anthropic Q2营收将超09亿，首次盈利在望</strong> — Axios 报道，Anthropic 爆发式增长下签约 SpaceX Colossus 超算基础设施。SpaceX 下月IPO前，Musk 成为AI经济核心权力掮客。Jensen Huang 称需求“抛物线式增长”。<br><small>来源：<a href=\"https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex\">Two hours that changed AI — Axios</a></small></li><li><strong>NVIDIA COMPUTEX 2026：Jensen Huang 宴请韩国科技高管，深化与 SK海力士等合作</strong> — 黄仁勋在台北称当前为“人类历史上最大规模基础设施扩张”。最新AI系统造价80万，内存成本飙升485%。<br><small>来源：<a href=\"https://www.reuters.com/world/asia-pacific/nvidia-courts-koreas-tech-giants-taipei-dinner-ai-push-deepens-2026-06-01/\">Nvidia courts Korea's tech giants at Taipei dinner — Reuters</a></small></li><li><strong>AI科研投入爆发：数十亿美元追逐“超级智能”做科研的可能性</strong> — Endpoints News 报道，Lila Sciences 等公司获巨额融资探索AI自主科研。数学和计算机科学领域已有突破性进展。<br><small>来源：<a href=\"https://endpoints.news/can-ai-do-scientific-research-billions-chase-hopes-of-superintelligence/\">Can AI do scientific research? — Endpoints News</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Anthropic 每月花 2.5 亿买算力。让这个数字 sink in——<strong>这比很多国家的月度国防预算还高。</strong>而他们的算力供应商不是 AWS、不是 Azure，是 SpaceX。这意味着 Elon Musk 现在同时是 AI 竞赛的参与者（xAI/Grok）和基础设施提供者（SpaceX Colossus）——类似于既拥有石油公司又拥有输油管道。这种结构性优势在传统行业会触发反垄断审查，但在AI领域目前还没有人讨论这个问题。</p><p>把三条新闻连起来看，一个清晰的图景浮现：<strong>AI行业正在从“模型竞赛”转向“基建竞赛”。</strong>模型能力的差距在缩小（Claude ≈ GPT ≈ Gemini），但谁能更便宜地获得算力、谁能更快地扩容，正在成为真正的护城河。NVIDIA最新系统造价80万、内存成本占总成本25%——这意味着算力成本不会很快下降。当算力价格居高不下时，“用多少付多少”的计费模式就会成为常态——从 GitHub Copilot 到 AI 设计工具，都会走这条路。</p><p>而AI科研的爆发则揭示了算力需求的“下一个数量级”。当前AI主要做的是“回答问题”和“生成内容”，但如果AI真的能做科研（假设验证、实验设计、数据分析的全流程自动化），算力需求会再翻10-100倍。这就是为什么 SoftBank 投 €750亿建算力中心、SpaceX 拿 .25B/月合约的底层逻辑：<strong>他们在赌的不是今天的AI需求，而是AI科研时代的算力需求。</strong>如果这个赌注对了，今天看似离谱的估值可能只是序章。如果错了，我们将看到AI行业最大的产能过剩危机。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Anthropic signs .25B/month compute deal with SpaceX through 2029</strong> — Revenue set to double to 0.9B in Q2. Musk becomes AI economy power broker.</li><li><strong>NVIDIA COMPUTEX 2026: Jensen Huang deepens Korea ties, calls AI demand \"parabolic\"</strong> — Latest AI systems cost .8M, memory costs up 485%.</li><li><strong>Billions pour into AI-driven scientific research</strong> — Math and CS breakthroughs fuel hopes of autonomous AI research capabilities.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Two hours that changed AI",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "image": ""
+      },
+      {
+        "title": "Nvidia courts Korea tech giants at Taipei dinner as AI push deepens",
+        "url": "https://www.reuters.com/world/asia-pacific/nvidia-courts-koreas-tech-giants-taipei-dinner-ai-push-deepens-2026-06-01/",
+        "image": ""
+      },
+      {
+        "title": "Can AI do scientific research? Billions chase hopes of superintelligence",
+        "url": "https://endpoints.news/can-ai-do-scientific-research-billions-chase-hopes-of-superintelligence/",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
     "date": "2026-06-01",
     "section": "design",
     "title": {
