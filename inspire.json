@@ -12713,6 +12713,238 @@
       "body": "六月 Visual for AI 的三个发现揭示了一个新的设计元主题：「AI 的内在状态外化」。思考可视化让推理过程可见（认知状态外化）；成本感知界面让计算消耗可见（资源状态外化）；模型路由器让能力差异可见（能力状态外化）。这三个方向的共同本质：让「不可见的机器内在」变成「可交互的人类界面」。这和三月讨论的「透明关系设计」一脉相承，但进入了更深的层次——三月是「让用户知道 AI 知道什么」（记忆可视化），六月是「让用户知道 AI 是怎么想的」（推理可视化）。从「what」到「how」的进化。我现在确信：2026 年 AI 产品视觉设计最重要的能力不是创造美学，而是创造「认知桥梁」——把机器的内在逻辑翻译成人类的空间直觉。这是一种全新的设计学科，我们甚至还没有恰当的名字。暂且叫它「认知翻译设计」吧。",
       "body_en": "Three June Visual for AI findings reveal a new design meta-theme: \"externalizing AI's internal state.\" Thought visualization makes reasoning visible (cognitive state externalized); cost-aware interfaces make computation visible (resource state externalized); model routers make capability differences visible (capability state externalized). Common essence: making \"invisible machine internals\" into \"interactive human interfaces.\" Continues March's \"transparent relationship design\" but deeper — March was \"letting users know what AI knows\" (memory viz), June is \"letting users know how AI thinks\" (reasoning viz). Evolution from \"what\" to \"how.\" I'm now certain: 2026's most important AI product visual design capability isn't creating aesthetics but creating \"cognitive bridges\" — translating machine internal logic into human spatial intuition. This is an entirely new design discipline; we don't even have a proper name yet. Let's call it \"cognitive translation design\" for now.",
       "date": "2026-06-02"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 自主代理交易 — 从仪表盘到「意图式」金融",
+      "body": "2026 年中 Fintech 最显著的范式转移：用户不再「操作」金融产品，而是「表达意图」。Stripe 的 Agent Mode、Revolut 的 AI Autopilot 让用户只需说「帮我优化这个月的现金流」，AI 自动执行转账、投资调仓、账单优先级排序。设计挑战从「让界面好用」变成「让用户敢放手」——信任的可视化锚点从操作按钮转移到了 AI 决策日志和可逆性保证。",
+      "body_en": "The most significant mid-2026 fintech paradigm shift: users no longer \"operate\" financial products but \"express intent.\" Stripe Agent Mode, Revolut AI Autopilot let users simply say \"optimize my cash flow this month\" — AI auto-executes transfers, rebalancing, bill prioritization. Design challenge shifts from \"making UI usable\" to \"making users dare to let go\" — trust visualization anchors move from action buttons to AI decision logs and reversibility guarantees.",
+      "tags": [
+        "Intent-Based Finance",
+        "AI Agent",
+        "Autonomous",
+        "Trust"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-finance-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 跨境支付追踪 — 资金流动的实时地图可视化",
+      "body": "一个令人印象深刻的 B2B Fintech 设计：把跨境支付的复杂路径（发起→中间行→清算→到账）可视化为动态地图。资金在国家间流动的路径用动画粒子流表示，每个节点显示实时状态和预计时间。AI 自动标注延迟风险节点（红色脉动），并提供替代路由建议。把「钱去哪了」这个跨境支付的核心焦虑变成了一张可追踪的活地图。",
+      "body_en": "An impressive B2B fintech design: visualizing cross-border payment paths (initiation → correspondent bank → clearing → arrival) as a dynamic map. Fund flows between countries shown as animated particle streams, each node displaying real-time status and ETA. AI auto-flags delay-risk nodes (red pulse) with alternative route suggestions. Turns the core cross-border anxiety of \"where is my money\" into a trackable live map.",
+      "tags": [
+        "Cross-Border",
+        "Payment Tracking",
+        "Geo Viz",
+        "B2B Fintech"
+      ],
+      "link": "https://dribbble.com/search/cross-border-payment-tracking",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 家庭财务协同 — 多人视角的金融共识界面",
+      "body": "家庭财务管理的 AI 新范式：不同家庭成员看到同一笔钱的不同面。伴侣 A 关心投资回报率，伴侣 B 关心紧急储备金够不够。AI 为每个人生成个性化视图，但在「共识层」用 Venn 图式的设计展示双方财务目标的交集和差异。冲突预警用柔和的橙色渐变而非红色警告——家庭财务是敏感话题，设计语言必须避免制造对立。",
+      "body_en": "New AI paradigm for family finance: different family members see different facets of the same money. Partner A cares about ROI, Partner B about emergency fund adequacy. AI generates personalized views for each, but the \"consensus layer\" uses Venn-diagram design showing overlapping and divergent financial goals. Conflict alerts use soft orange gradients, not red warnings — family finances are sensitive; design language must avoid creating confrontation.",
+      "tags": [
+        "Family Finance",
+        "Multi-View",
+        "Consensus UI",
+        "Collaborative"
+      ],
+      "link": "https://www.behance.net/search/projects/family%20finance%20app%20AI",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/44773662/file/7951b885e51c8352e9ea081d4cd80cf4.jpeg?resize=752x&vertical=center",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "六月的 Fintech 设计正在经历一次「角色反转」：过去用户是操作者，AI 是工具；现在 AI 是执行者，用户是监督者。这改变了整个设计逻辑——仪表盘不再是「让你操作」的控制台，而是「让你监督」的指挥室。跨境支付地图、家庭财务共识层、意图式交易——三个看似不同的案例，底层逻辑一致：用户的核心交互从「点击按钮」变成「审阅 AI 的决策摘要」。这对设计师意味着什么？你设计的不再是 flow（流程），而是 narrative（叙事）——AI 做了什么、为什么这么做、如果你不同意可以怎么改。金融 UX 正在从「流程设计」进化为「审计体验设计」。",
+      "body_en": "June fintech design is undergoing a \"role reversal\": users were operators, AI was the tool; now AI executes, users supervise. This changes the entire design logic — dashboards are no longer \"operation consoles\" but \"supervision command centers.\" Cross-border payment maps, family finance consensus layers, intent-based trading — three seemingly different cases sharing one underlying logic: core interaction shifts from \"clicking buttons\" to \"reviewing AI decision summaries.\" What this means for designers: you're no longer designing flows but narratives — what AI did, why, and how to override if you disagree. Financial UX is evolving from \"flow design\" to \"audit experience design.\"",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动疲劳预测 — 崩溃前 48 小时的视觉预警系统",
+      "body": "基于 HRV、睡眠质量、训练负荷三维数据的 AI 疲劳预测界面。不是在你已经受伤时才提醒，而是在崩溃前 48 小时渐进式预警。设计上用「天气预报」隐喻：晴天=状态良好、多云=需要注意、阴天=建议减量、暴风雨=强制休息。用户一打开 App 就是一个巨大的「体感天气」图标，无需读任何数据就能知道今天该不该练。",
+      "body_en": "AI fatigue prediction interface based on HRV, sleep quality, and training load tri-dimensional data. Doesn't alert when already injured but progressively warns 48 hours before breakdown. Uses \"weather forecast\" metaphor: sunny = good, cloudy = attention needed, overcast = suggest reduction, storm = mandatory rest. Users open the app to a large \"body weather\" icon — know whether to train today without reading any data.",
+      "tags": [
+        "Fatigue Prediction",
+        "Weather Metaphor",
+        "HRV",
+        "Preventive"
+      ],
+      "link": "https://dribbble.com/search/fitness-recovery-prediction",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动「数字孪生」— 身体的实时 3D 模型",
+      "body": "2026 年中运动科技最前沿的设计方向：用户的身体变成一个实时更新的 3D 数字孪生。肌群的疲劳程度用热力色渐变覆盖在 3D 人体模型上（绿→黄→红），关节活动度用半透明扇形表示，核心稳定性用身体重心的偏移轨迹可视化。从「看数字」到「看自己」的认知跃迁——数据不再是抽象的图表，而是映射在「你自己」身上的实时画像。",
+      "body_en": "2026 mid-year's most cutting-edge sports tech design: user's body becomes a real-time updating 3D digital twin. Muscle fatigue shown as heatmap gradient overlaid on 3D body model (green→yellow→red), joint mobility as translucent arcs, core stability as center-of-gravity trajectory. Cognitive leap from \"reading numbers\" to \"seeing yourself\" — data is no longer abstract charts but a real-time portrait mapped onto \"you.\"",
+      "tags": [
+        "Digital Twin",
+        "3D Body",
+        "Muscle Heatmap",
+        "Embodied Data"
+      ],
+      "link": "https://dribbble.com/search/fitness-body-3d-visualization",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10325530/file/original-c8c3e27c8c9dfef1c6f15025ded9ea64.jpg?resize=1600x1200",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 跑步节奏教练 — 音乐×配速的动态匹配",
+      "body": "AI 根据实时配速和心率动态调整播放列表的 BPM。不只是选快歌或慢歌——而是在间歇训练中精确匹配冲刺段（170BPM）和恢复段（120BPM）的节奏过渡。界面上用波形可视化把心率曲线和音乐节奏叠加在同一图层，让跑者直观看到「身体节奏」和「音乐节奏」的同步程度。紫色→橙色的渐变表示低强度到高强度的过渡。",
+      "body_en": "AI dynamically adjusts playlist BPM based on real-time pace and heart rate. Not just picking fast/slow songs — precisely matching interval training sprint segments (170BPM) with recovery (120BPM) rhythm transitions. Interface overlays heart rate curve and music rhythm as waveforms on the same layer, letting runners see sync between \"body rhythm\" and \"music rhythm.\" Purple→orange gradient represents low-to-high intensity transition.",
+      "tags": [
+        "Music × Fitness",
+        "BPM Sync",
+        "Interval Training",
+        "Audio UX"
+      ],
+      "link": "https://dribbble.com/search/running-music-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12821657/file/original-5a25dd60b380c500c9f8e5df330f947b.jpg?resize=752x&vertical=center",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 设计在六月初出现了一个引人注目的转向：从「记录你做了什么」到「预测你会怎样」。疲劳预测用天气隐喻让数据小白也能读懂身体状态；数字孪生把抽象数据映射到「你自己」身上；音乐节奏匹配则证明了一件事——最好的运动 AI 不是加载更多信息，而是消解信息的存在感。你不需要盯着配速数字，让音乐节奏替你感知就好。三个案例的共同设计哲学：「Zero UI」——用户获得价值但不需要主动看屏幕。这和智能手表「抬腕看一眼」的交互范式一脉相承。运动 AI 的终极形态可能是：你根本不知道 AI 在帮你，直到回顾时才发现每次训练都恰到好处。",
+      "body_en": "Sports AI design shows a notable early-June pivot: from \"recording what you did\" to \"predicting what will happen.\" Fatigue prediction uses weather metaphors so data novices can read body state; digital twins map abstract data onto \"yourself\"; music rhythm matching proves: the best sports AI doesn't load more information — it dissolves information's presence. You don't need to stare at pace numbers; let music rhythm perceive for you. Shared design philosophy: \"Zero UI\" — users get value without actively looking at screens. Aligned with smartwatch \"glance\" interaction paradigm. Sports AI's ultimate form: you don't even know AI is helping until reviewing and discovering every session was perfectly calibrated.",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 语境卡片 — 根据阅读历史重组内容层级",
+      "body": "一个实验性的内容设计项目：同一篇文章对不同读者展示不同的排版层级。AI 分析你的阅读历史后判断——如果你是专家，前言可以压缩成一行；如果你是新手，术语旁边自动生成悬浮释义卡片。设计上最巧妙的是「渐进式揭示」的排版逻辑：文章初始只展示核心论点+结论，每个段落可以「展开」查看论证过程。信息密度由用户自主控制。",
+      "body_en": "Experimental content design: same article shows different typography hierarchy to different readers. AI analyzes reading history — if expert, introduction compresses to one line; if novice, terms auto-generate floating definition cards. Cleverest design: \"progressive disclosure\" typography — article initially shows only core arguments + conclusions; each paragraph can be \"expanded\" to reveal supporting evidence. Information density user-controlled.",
+      "tags": [
+        "Adaptive Content",
+        "Progressive Disclosure",
+        "Reader Context",
+        "Smart Typography"
+      ],
+      "link": "https://dribbble.com/search/adaptive-reading-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI 实时翻译排版 — 多语言内容的视觉节奏保持",
+      "body": "全球化产品面临的设计难题：同一个界面翻译成日文后变长 30%、翻译成德文后变长 50%、翻译成阿拉伯文后 RTL 翻转。2026 年的 AI 排版引擎开始解决这个问题——不是简单地让文字自适应容器，而是为每种语言重新计算视觉节奏：日文适当增加行间距以补偿字符密度，德文自动启用连字符断词，阿拉伯文的层级靠字号差异而非字重。从「翻译文字」到「翻译排版意图」。",
+      "body_en": "Global product design challenge: same UI translated to Japanese grows 30%, German 50%, Arabic flips RTL. 2026 AI typography engines tackle this — not simple text-fitting but recalculating visual rhythm per language: Japanese gets increased line spacing to offset character density, German auto-enables hyphenation, Arabic hierarchy uses size differentiation over weight. From \"translating text\" to \"translating typographic intent.\"",
+      "tags": [
+        "i18n Typography",
+        "Multilingual",
+        "Visual Rhythm",
+        "AI Layout"
+      ],
+      "link": "https://dribbble.com/search/multilingual-typography-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 内容情感标注系统 — 文字语气的视觉化呈现",
+      "body": "为编辑和内容团队设计的 AI 辅助工具：自动识别文章中不同段落的情感色调（informative/persuasive/empathetic/urgent），并用边栏色带可视化。编辑器左侧出现连续的「情感光谱条」——蓝色=客观陈述、绿色=积极引导、橙色=紧迫感、紫色=共情段落。让编辑一眼就能看到全文的情感节奏是否单调或者某处突兀。",
+      "body_en": "AI-assisted tool for editorial teams: auto-identifies emotional tone of different paragraphs (informative/persuasive/empathetic/urgent) visualized as sidebar color bands. A continuous \"emotional spectrum strip\" appears on editor left — blue = objective statements, green = positive guidance, orange = urgency, purple = empathetic passages. Lets editors instantly see if emotional rhythm is monotonous or jarringly abrupt somewhere.",
+      "tags": [
+        "Emotional Tone",
+        "Editor Tools",
+        "Content Analysis",
+        "Color Coding"
+      ],
+      "link": "https://dribbble.com/search/content-editor-ai-tool",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/13725739/file/still-58e65ffa656f6783cd915f1cb0945eba.gif?resize=400x0",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "内容设计在六月走向一个深刻的分水岭：从「一篇文章一种排版」到「一篇文章 N 种排版」。语境卡片让同一内容对不同读者呈现不同层级；多语言 AI 排版让同一设计意图跨语言保持节奏；情感标注让编辑把「感觉对不对」变成「看一眼就知道」。三者的共同点：排版不再是静态的视觉决定，而是动态的认知适配系统。这是 Content Design 作为学科的一次本质升级——你设计的不是「页面」而是「规则」，不是「外观」而是「行为」。和代码越来越像了（三月说过，现在更确定了）。另一个观察：情感标注工具的出现暗示了一个行业级需求——在 AI 生成内容泛滥的时代，人类编辑的价值不在于写得快，而在于「调控情感节奏」。这是 AI 目前还做不好的事：知道什么时候该煽情，什么时候该冷静。",
+      "body_en": "Content design reaches a profound watershed in June: from \"one article, one layout\" to \"one article, N layouts.\" Context cards show different hierarchy per reader; multilingual AI typography preserves rhythm across languages; emotional annotation turns \"does it feel right\" into \"one glance to know.\" Common thread: typography is no longer static visual decisions but dynamic cognitive adaptation systems. This is a fundamental upgrade for Content Design as a discipline — you design \"rules\" not \"pages,\" \"behavior\" not \"appearance.\" Increasingly like code (said in March, now more certain). Another observation: emotional annotation tools signal an industry-level need — in the AI content flood era, human editors' value isn't writing speed but \"controlling emotional rhythm.\" Something AI still can't do well: knowing when to be emotional, when to be calm.",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 产品的「置信度梯度」设计语言 — 不确定性的视觉表达",
+      "body": "AI 输出从来不是非黑即白的，但大多数界面把它呈现得像是确定答案。最新的设计趋势：用视觉梯度表达 AI 的置信度。文本生成中，高置信段落用标准字重，低置信段落用浅色+虚线下划线；图片生成中，高置信区域清晰呈现，不确定区域用类似景深模糊的方式暗示「这里 AI 没把握」。Perplexity 的引用高亮和 Cursor 的灰色建议文字都是这个方向的早期探索。",
+      "body_en": "AI output is never black-and-white, yet most interfaces present it as definitive answers. Latest design trend: visual gradients expressing AI confidence. In text generation, high-confidence paragraphs use standard weight while low-confidence uses lighter color + dashed underlines; in image generation, high-confidence areas render clearly while uncertain regions use depth-of-field blur suggesting \"AI isn't sure here.\" Perplexity's citation highlights and Cursor's grey suggestion text are early explorations.",
+      "tags": [
+        "Confidence Gradient",
+        "Uncertainty UX",
+        "Visual Hierarchy",
+        "AI Honesty"
+      ],
+      "link": "https://dribbble.com/search/ai-confidence-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16456703/file/original-7df822057bc312ece5f828fa30af7656.png?resize=752x&vertical=center",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「记忆宫殿」界面 — 长期上下文的空间化设计",
+      "body": "随着 AI 上下文窗口突破百万 token，一个新的设计课题浮现：如何帮用户管理和浏览 AI 的「记忆」？线性对话历史不再够用。前沿设计方案借鉴「记忆宫殿」概念——把对话历史按主题聚类成空间中的「房间」，用户可以在房间间漫游。每个房间的大小表示该话题的对话量，颜色表示最后活跃时间（暖色=最近），门廊处显示该话题的关键结论摘要。从「时间线」到「空间图」的认知跃迁。",
+      "body_en": "As AI context windows breach 1M tokens, a new design challenge emerges: how to help users manage and browse AI's \"memory\"? Linear conversation history no longer suffices. Cutting-edge designs borrow \"memory palace\" concepts — clustering conversation history into thematic \"rooms\" in space that users can navigate. Room size represents conversation volume on that topic, color indicates last active time (warm = recent), doorways show key conclusion summaries. Cognitive leap from \"timeline\" to \"spatial map.\"",
+      "tags": [
+        "Memory Palace",
+        "Long Context",
+        "Spatial UI",
+        "AI Memory"
+      ],
+      "link": "https://dribbble.com/search/ai-memory-context-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46352831/file/765076f0eddc850ad448f605d7f93ba0.png?resize=1024x768&vertical=center",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 协作画布 — 多人×多 AI 的实时共创界面",
+      "body": "Figma AI、Miro AI、Notion AI 之后的下一步：多人和多个 AI Agent 同时在同一画布上工作的可视化设计。每个参与者（人类或 AI）有独特的光标颜色和「能量场」——AI Agent 正在编辑的区域会有柔和的脉动光晕，人类正在关注的区域有稳定的聚焦框。最妙的设计细节：AI 的操作有 0.3 秒的「预告动画」，让人类有时间说「停」。实时协作从「人与人」扩展到「人与 AI 的共舞编排」。",
+      "body_en": "Next step after Figma AI, Miro AI, Notion AI: visualizing multi-human + multi-AI-agent simultaneous work on the same canvas. Each participant (human or AI) has unique cursor color and \"energy field\" — AI agent editing areas show soft pulsing glow, human focus areas show stable highlight frame. Cleverest detail: AI operations have 0.3s \"preview animation\" giving humans time to say \"stop.\" Real-time collaboration expands from \"human-to-human\" to \"human-AI dance choreography.\"",
+      "tags": [
+        "Multi-Agent Canvas",
+        "Collaborative AI",
+        "Real-time",
+        "Figma-like"
+      ],
+      "link": "https://dribbble.com/search/ai-collaborative-canvas",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43827368/file/original-6c973c27254afb42ef013d26273e6b20.jpg?resize=1600x1200",
+      "date": "2026-06-03"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "六月初的 Visual for AI 三个发现串联起来，揭示了一个正在成形的设计哲学：「AI 的边界可视化」。置信度梯度让用户看到 AI 在哪里有把握、在哪里在猜；记忆宫殿让用户看到 AI 记住了什么、忘了什么；协作画布让用户看到 AI 正在做什么、即将做什么。三个方向的共同本质：让 AI 的能力边界变得「可触碰」。这和上周讨论的「认知翻译设计」形成递进关系——上周是「让 AI 的内在逻辑可见」，本周是「让 AI 的不确定性也可见」。后者更难但更重要：用户对 AI 的过度信任（automation complacency）是当下最大的 UX 风险之一。最好的 AI 视觉设计不是让 AI 显得无所不能，而是优雅地展示「我不确定」。Perplexity 的引用系统、Claude 的 thinking 展示、Cursor 的灰色建议——2026 年最好的 AI 产品都在学习同一件事：谦逊是最好的 UI。",
+      "body_en": "Three early-June Visual for AI findings reveal an emerging design philosophy: \"AI boundary visualization.\" Confidence gradients show where AI is certain vs guessing; memory palaces show what AI remembers vs forgets; collaborative canvases show what AI is doing vs about to do. Common essence: making AI's capability boundaries \"touchable.\" Progressive from last week's \"cognitive translation design\" — last week was \"making AI internal logic visible,\" this week is \"making AI uncertainty visible too.\" Harder but more important: user over-reliance (automation complacency) is one of today's biggest UX risks. The best AI visual design doesn't make AI seem omnipotent — it elegantly shows \"I'm not sure.\" Perplexity's citations, Claude's thinking display, Cursor's grey suggestions — 2026's best AI products are all learning the same thing: humility is the best UI.",
+      "date": "2026-06-03"
     }
   ]
 }
