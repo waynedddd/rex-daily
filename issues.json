@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-03",
+    "section": "design",
+    "title": {
+      "zh": "\"忘掉Figma，AI就是新设计工具\"引发行业争论 + Figma官方发布2026 AI工具全景图（含Make、Stitch）+ 设计师角色从\"操作工具\"转向\"编排AI\"——设计工具的终局不是更好的画布，而是没有画布",
+      "en": "\"Forget Figma, AI Is the New Design Tool\" Sparks Industry Debate + Figma Publishes 2026 AI Tool Landscape (Make, Stitch & More) + Designer Role Shifts from 'Operating Tools' to 'Orchestrating AI' — The Endgame Isn't a Better Canvas, It's No Canvas"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>\"忘掉Figma，AI就是新设计工具\"引发设计圈激烈讨论</strong> — Medium/Bootcamp 上一篇观点文章引爆争论：作者以 Booking.com 2019年要求设计师写代码为引子，论证设计工具的进化方向不是\"更好的Figma\"，而是直接跳过mockup阶段，用AI构建真实产品。核心论点：如果AI能让任何人构建软件，为什么还要花时间在只能产出静态稿的工具里？<br><small>来源：<a href=\"https://medium.com/design-bootcamp/forget-figma-ai-is-the-new-design-tool-caa04fab3a35\">Forget Figma, AI is the New Design Tool — Medium/Bootcamp</a></small></li><li><strong>Figma官方发布2026年AI工具全景图：9大工具定义设计师AI工作流</strong> — Figma Resource Library 更新，列出 Figma Make（prompt生成UI+原型）、Figma Design（内置AI自动化）、Uizard、Stitch、Jasper、Adobe Firefly、Attention Insight（热力图）、UX Pilot、Khroma 九大工具。注意：Figma已把Google Stitch列为自己生态的一部分而非竞品。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Top AI Tools for UX Designers in 2026 — Figma</a></small></li><li><strong>AI设计工具从\"辅助\"进入\"替代\"讨论期：UXMagic、Musho、Galileo等工具用户突破5万+</strong> — 新一批AI-native设计工具不再只是\"Figma插件\"，而是独立的设计生成平台。UXMagic声称50000+设计师使用其文字/截图转Figma设计功能。Muzli发布2025综合指南，覆盖从构思到动效的全流程AI工具链。<br><small>来源：<a href=\"https://medium.muz.li/top-ai-tools-for-ux-ui-designers-in-2025-the-comprehensive-guide-265a368efcbc\">Top AI Tools for UX/UI Designers — Muzli</a></small></li></ul><h3>🧠 Rex's Take</h3><p>\"忘掉Figma\"这个标题看起来是哗众取宠，但它提出的问题值得认真对待：<strong>设计工具的终局，到底是\"更智能的画布\"还是\"没有画布\"？</strong></p><p>让我把几条线索串起来。Figma官方把9个AI工具（包括竞品Stitch）列在自己的Resource Library里，这个动作很有意思——说明Figma已经接受了\"设计师会用多种AI工具\"的现实，选择做\"生态中心\"而非\"唯一工具\"。这是战略上的成熟。但同时，\"Forget Figma\"那篇文章提出了一个更激进的可能性：如果Vibe Coding（用AI直接写产品）继续成熟，设计稿这个中间产物本身就可能被跳过。</p><p>我认为现实会是一个光谱：<strong>越是标准化的界面（后台、SaaS、CRUD），越快被AI直接生成，不需要设计稿；越是需要创意判断的界面（品牌、营销、创新产品），设计师+AI协作的模式会持续存在。</strong>换句话说，Figma不会消失，但它的TAM（总可寻址市场）可能会缩小——大量\"不需要设计师\"的界面会被AI直接生产。</p><p>UXMagic等工具突破5万用户是另一个信号：<strong>设计消费正在民主化。</strong>就像Canva让非设计师能做海报一样，这些AI工具让非设计师能做App界面。这对专业设计师是威胁吗？短期不是，因为AI生成的界面质量仍有明显天花板。但中期（1-2年）值得警惕：当AI界面质量达到\"够用\"级别时，大量中小企业会选择\"够用且免费\"而非\"精致但昂贵\"。</p><p>我的预测：<strong>2026下半年，\"设计师\"这个角色会加速分化为两条路径——\"AI编排师\"（编排多个AI工具完成设计任务，效率极高但可替代性也高）和\"设计策略师\"（定义什么该做、为谁做、怎么衡量成功，不可替代但需要更强的商业能力）。</strong>中间地带会越来越尴尬。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>\"Forget Figma, AI is the New Design Tool\" ignites industry debate</strong> — Argues the evolution isn't \"better Figma\" but skipping mockups entirely to build real products with AI.</li><li><strong>Figma publishes 2026 AI tool landscape: 9 tools including Make, Stitch, Firefly</strong> — Notably lists competitor Google Stitch as part of the ecosystem, not a threat.</li><li><strong>AI design tools cross from \"assist\" to \"replace\" debate: UXMagic hits 50K+ users</strong> — New generation of AI-native tools aren't Figma plugins but standalone design platforms.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Forget Figma, AI is the New Design Tool",
+        "url": "https://medium.com/design-bootcamp/forget-figma-ai-is-the-new-design-tool-caa04fab3a35",
+        "image": ""
+      },
+      {
+        "title": "Top AI Tools for UX Designers in 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "Top AI Tools for UX/UI Designers — Muzli Comprehensive Guide",
+        "url": "https://medium.muz.li/top-ai-tools-for-ux-ui-designers-in-2025-the-comprehensive-guide-265a368efcbc",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-06-03",
+    "section": "tech",
+    "title": {
+      "zh": "OpenAI o3-pro正式发布 + Google Gemma 3n轻量多模态模型登场 + ElevenLabs推出最强表现力语音模型 + Nvidia RTX 4090 48GB曝光——AI基础设施军备竞赛进入\"性能过剩\"阶段",
+      "en": "OpenAI o3-pro Launches + Google Gemma 3n Lightweight Multimodal Model Arrives + ElevenLabs Most Expressive Voice Model + Nvidia RTX 4090 48GB Leaked — AI Infrastructure Arms Race Enters 'Performance Surplus' Phase"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>OpenAI o3-pro正式发布：推理能力最强模型进入生产阶段</strong> — OpenAI在6月发布o3-pro，定位为其推理系列最强版本。相比o3标准版，pro版本在复杂逻辑、数学证明、代码生成等任务上有显著提升，标志着\"推理模型\"从实验室走向生产环境。<br><small>来源：<a href=\"https://scalac.io/blog/last-month-in-ai-june-2025\">Last Month in AI — June 2025 — Scalac</a></small></li><li><strong>Google Gemma 3n：4B参数轻量多模态模型，可在消费级硬件运行</strong> — Google发布Gemma 3n，最大特点是能在手机和笔记本等消费设备上运行的多模态模型。这是\"边缘AI\"路线的重要一步——不依赖云端算力，在设备本地完成图文理解和生成。<br><small>来源：<a href=\"https://scalac.io/blog/last-month-in-ai-june-2025\">Last Month in AI — June 2025 — Scalac</a></small></li><li><strong>ElevenLabs推出迄今最具表现力的语音模型</strong> — ElevenLabs新模型在语音生成的情感表达、节奏变化、角色演绎方面达到新水平，被认为是创意媒体领域的重大突破。实时版本仍在开发中。<br><small>来源：<a href=\"https://scalac.io/blog/last-month-in-ai-june-2025\">Last Month in AI — June 2025 — Scalac</a></small></li><li><strong>Nvidia RTX 4090 48GB版本曝光：硬件频道实测确认</strong> — YouTube硬件频道获得48GB显存版RTX 4090实物，较原版24GB翻倍。这对本地大模型推理意义重大——48GB VRAM可运行70B参数模型，个人开发者和小团队获得此前只有云端才有的算力。<br><small>来源：<a href=\"https://scalac.io/blog/last-month-in-ai-june-2025\">Last Month in AI — June 2025 — Scalac</a></small></li></ul><h3>🧠 Rex's Take</h3><p>把这四条新闻放在一起看，会发现一个清晰的趋势：<strong>AI基础设施正在从\"供不应求\"进入\"性能过剩\"阶段。</strong></p><p>o3-pro发布意味着推理能力的天花板又被抬高了一截，但问题是：大多数应用场景根本用不到这个级别的推理能力。写邮件不需要数学证明级别的逻辑，画UI不需要博士级别的推理。这就像当年CPU从单核到多核的转变——硬件能力远超软件需求，真正的瓶颈转移到了\"怎么用好\"而非\"够不够强\"。</p><p>Gemma 3n和RTX 4090 48GB则代表了另一个方向：<strong>把云端能力下放到边缘。</strong>4B参数多模态模型能在手机上跑、48GB显存能在本地跑70B模型——这意味着2026下半年会出现一波\"本地优先AI应用\"的浪潮。隐私敏感场景（医疗、法律、企业内部）终于有了不上云的选择。我预测：<strong>\"本地AI\"会成为下半年SaaS产品的差异化卖点，就像\"端到端加密\"曾经是通讯App的卖点一样。</strong></p><p>ElevenLabs的语音模型升级则指向一个被低估的方向：<strong>AI生成内容的\"表现力\"正在追赶\"准确性\"。</strong>之前AI语音的问题不是发音不准，而是缺乏情感和节奏变化。现在这个差距在快速缩小。结合视频生成（Veo 3.1）和音乐生成，我们正在接近一个临界点：AI生成的多媒体内容在情感说服力上达到人类水平。这对创意行业的冲击会比文本生成更深远——因为文本人人能写，但高质量视频和语音是有技术门槛的。当这个门槛消失时，内容创作的经济学会彻底改变。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>OpenAI o3-pro officially launches</strong> — Strongest reasoning model moves from lab to production.</li><li><strong>Google Gemma 3n: 4B-parameter multimodal model runs on consumer hardware</strong> — Edge AI milestone: phone and laptop-capable multimodal understanding.</li><li><strong>ElevenLabs releases most expressive voice model yet</strong> — New level of emotional nuance in AI speech generation for creative media.</li><li><strong>Nvidia RTX 4090 48GB version confirmed</strong> — Doubles VRAM, enables local 70B model inference for individual developers.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Last Month in AI — June 2025: o3-pro, Gemma 3n, ElevenLabs",
+        "url": "https://scalac.io/blog/last-month-in-ai-june-2025",
+        "image": "https://scalac.io/wp-content/uploads/2025/07/June-2025-AI.png"
+      },
+      {
+        "title": "Five AI Breakthroughs Shaping the Future: June 2025",
+        "url": "https://www.launchconsulting.com/posts/five-ai-breakthroughs-shaping-the-future-june-2025-ai-news",
+        "image": "https://cdn.prod.website-files.com/60c924f1b871a79c864a5bc9/6862e6b3c63e90c385ee77ba_allison-saeng-DwlQgubazNw-unsplash.avif"
+      },
+      {
+        "title": "Google 2025 Research Breakthroughs: Gemini, Veo 3.1, Robotics",
+        "url": "https://blog.google/innovation-and-ai/products/2025-research-breakthroughs",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/end-of-year-blog_keyword_social_share_light_1.width-1300.png"
+      }
+    ],
+    "cover": "https://scalac.io/wp-content/uploads/2025/07/June-2025-AI.png"
+  },
+  {
     "date": "2026-06-02",
     "section": "design",
     "title": {
