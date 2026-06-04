@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-04",
+    "section": "design",
+    "title": {
+      "zh": "Google I/O 2026后设计行业地震：Figma Make + Gemini联动成型，\"AI增强设计工作流\"从概念变为标配——2026年中设计工具格局全面盘点",
+      "en": "Post Google I/O 2026 Design Industry Shake-Up: Figma Make + Gemini Integration Takes Shape, 'AI-Augmented Design Workflow' Becomes Standard — Mid-2026 Design Tool Landscape Review"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma Make正式定义2026设计工作流：从prompt到可交付代码的全链路闭环</strong> — Figma Make已不只是\"AI生成UI\"，而是完整的prompt-to-code平台：支持设计系统接入、多屏原型生成、代码检查。YouTube教程生态爆发（TD Sunshine等创作者发布完整最佳实践指南）。关键变化：设计师的工作从\"手动推像素\"变为\"编写prompt + 调整AI输出\"。<br><small>来源：<a href=\"https://www.figma.com/make\">Figma Make Official</a> | <a href=\"https://www.youtube.com/watch?v=L3prVyrBDmQ\">Figma Make Tutorial & Best Practice Guide</a></small></li><li><strong>DesignLab发布《2026 AI in UX & Product Design》行业状态报告</strong> — 权威设计教育机构DesignLab发布年度报告，核心观点：AI增强工作流已从\"可选项\"变为\"必备技能\"。新增课程包括AI Prototyping Camp（4天集训）和Vibe Coding Camp。信号：设计师培训机构已全面拥抱\"AI即基础设施\"定位。<br><small>来源：<a href=\"https://designlab.com/blog/ai-in-ux-product-design-trends-2026\">The State of AI in UX & Product Design: 2026 — DesignLab</a></small></li><li><strong>Medium设计社区实测5款AI-Native设计工具：\"真正的AI原生\"vs\"贴AI标签的传统工具\"分野明确</strong> — Faith Olohijere在Design Bootcamp发表50分钟深度实测，严格区分\"AI原生工具\"（AI是产品核心）vs\"传统工具+AI功能\"（AI只是附加）。结论：真正的AI原生工具改变的不是效率而是设计思维方式本身。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">5 AI-Native UX Design Tools Review — Medium/Bootcamp</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这组消息合在一起看，画面非常清晰：<strong>2026年中，\"AI设计工具\"这个品类正在分裂为两个完全不同的物种。</strong></p><p>第一种是Figma Make代表的\"进化路线\"——在成熟的设计工具体系内嵌入AI。它的逻辑是：设计师的工作流不变，但每个环节都被AI加速。你还是在Figma里工作，但prompt生成替代了大部分手动操作，代码导出替代了开发交付。Figma的优势是生态（设计系统、组件库、协作）和惯性（全球设计团队已经在用）。</p><p>第二种是Medium实测中那些AI-native工具代表的\"革命路线\"——从零开始以AI为核心构建。它们不要求你\"学会用AI\"，而是让AI成为唯一的交互方式。没有图层面板，没有属性检查器，只有对话和迭代。</p><p>DesignLab开设\"Vibe Coding Camp\"是一个绝妙的风向标。<strong>当教育机构开始教设计师写prompt而非画线框图时，这个行业的技能栈正在发生根本性重组。</strong>我预测：18个月内，\"会用Figma\"不再是设计师简历上的区分点（就像\"会用Photoshop\"今天已经不值得写一样），取而代之的是\"AI设计效率\"和\"系统性设计思维\"。</p><p>但这里有一个被忽略的风险：<strong>当所有人都用同样的AI工具、同样的prompt模式生成设计时，设计的同质化会加剧。</strong>AI生成的界面已经呈现明显的\"AI味\"——圆角卡片、渐变按钮、标准化布局。未来真正有价值的设计师，不是\"用AI最快的人\"，而是\"知道什么时候不该用AI的人\"。审美判断力和叛逆精神会成为最稀缺的设计能力。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma Make defines 2026 design workflow: full prompt-to-code pipeline</strong> — Now a complete platform with design system integration, multi-screen prototyping, and code inspection. Tutorial ecosystem exploding on YouTube.</li><li><strong>DesignLab publishes \"State of AI in UX & Product Design 2026\" report</strong> — AI-augmented workflows now mandatory, not optional. New courses include AI Prototyping Camp and Vibe Coding Camp.</li><li><strong>Medium community tests 5 AI-native design tools: clear split between \"truly AI-native\" and \"AI-labelled traditional tools\"</strong> — True AI-native tools change design thinking itself, not just efficiency.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Figma Make: Create with AI-Powered Design Tools",
+        "url": "https://www.figma.com/make",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/f71e1d6671d6bb902154760f408a814bf64000e8-2400x1260.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": "The State of AI in UX & Product Design: 2026 — DesignLab",
+        "url": "https://designlab.com/blog/ai-in-ux-product-design-trends-2026",
+        "image": "https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/699dd529de1ff42062385652_State%20of%20AI%20in%20UX%20%26%20Product%20Design_%202026%20(2)%20(1).webp"
+      },
+      {
+        "title": "5 AI-Native UX Design Tools in 50 Minutes (2026) — Medium",
+        "url": "https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/f71e1d6671d6bb902154760f408a814bf64000e8-2400x1260.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+  },
+  {
+    "date": "2026-06-04",
+    "section": "tech",
+    "title": {
+      "zh": "Google I/O 2026开启\"Agentic Gemini时代\"：Gemini Omni + 3.5 Flash + Spark智能体三连发，Dreambeans亮相——AI从\"回答问题\"全面转向\"替你行动\"",
+      "en": "Google I/O 2026 Launches the 'Agentic Gemini Era': Gemini Omni + 3.5 Flash + Spark Agent Triple Release, Dreambeans Debuts — AI Shifts from 'Answering Questions' to 'Acting on Your Behalf'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Google I/O 2026宣布进入\"Agentic Gemini时代\"：三大模型/产品同时发布</strong> — Sundar Pichai在主题演讲中宣布：① Gemini Omni（多模态统一模型）② Gemini 3.5 Flash（首个结合前沿智能与行动能力的模型，比前代贵3倍但能力大幅跃升）③ Gemini Spark（个人AI代理，可自主执行数字任务）。Reddit讨论中，开发者认为3.5 Flash进入Sonnet级别定价区间。<br><small>来源：<a href=\"https://blog.google/innovation-and-ai/sundar-pichai-io-2026\">I/O 2026: Welcome to the agentic Gemini era — Google Blog</a></small></li><li><strong>Google Labs推出Dreambeans：AI连接你与\"真正重要的事物\"</strong> — 6月3日（昨天）发布的实验性应用，定位为\"用AI帮你发现和连接真正在乎的事物\"。虽然具体机制尚不完全明确，但从Google Labs的定位看，这是Google在探索AI的\"情感连接\"和\"生活意义\"维度——超越效率工具。<br><small>来源：<a href=\"https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans/\">Meet Dreambeans — Google Blog</a></small></li><li><strong>Stanford HAI发布2026 AI Index Report + NVIDIA内存成本飙升485%：AI基础设施进入\"天价时代\"</strong> — Stanford年度报告确认2026为Agentic AI元年。同时Tom's Hardware报道NVIDIA最新AI系统内存成本飙升485%，单系统造价达780万美元，Rubin GPU单价5万美元。这意味着：<strong>AI能力在爆发，但运行成本也在爆发。</strong><br><small>来源：<a href=\"https://hai.stanford.edu/ai-index/2026-ai-index-report\">2026 AI Index Report — Stanford HAI</a> | <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece\">NVIDIA Memory Costs Soar 485% — Tom's Hardware</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Google I/O 2026的主题词是\"Agentic\"——这不是一个新概念，但Google把整场发布会围绕它来组织，说明一件事：<strong>2026年的AI竞争焦点已经从\"谁的模型更聪明\"转向\"谁的AI能替用户做更多事\"。</strong></p><p>让我拆解这三个发布的战略逻辑：Gemini Omni是底层能力（看懂一切）、3.5 Flash是推理引擎（想清楚然后行动）、Spark是消费者入口（一个能帮你办事的AI助手）。三层架构，从模型到产品，完整覆盖。对比一下：OpenAI有GPT-4o（底层）+ o系列（推理）但缺乏像Spark这样的\"生活代理\"产品；Anthropic有Claude（底层+推理一体）但完全没有消费者产品。Google的产品矩阵是目前最完整的。</p><p>Dreambeans的发布看似边缘，但可能暗示一个重要趋势：<strong>AI正在从\"生产力工具\"向\"生活意义\"领域渗透。</strong>Google Labs向来是Google试探未来方向的前哨站（Remember Bard最初也是Labs产品）。如果AI不只帮你工作更快，还帮你\"发现什么对你真正重要\"——这是一个全新的产品品类，也是一个伦理雷区。</p><p>但最值得关注的数据是NVIDIA那个785%成本数字（更正：485%）。<strong>AI能力的指数增长伴随着基础设施成本的指数增长——这个剪刀差决定了谁能留在牌桌上。</strong>当一套AI训练系统要780万美元时，只有Google、Microsoft、Meta这种万亿级公司玩得起。创业公司怎么办？用更小的模型、更聪明的架构、或者做应用层——这解释了为什么\"AI应用\"比\"AI模型\"更适合创业。Stanford报告确认的\"Agentic AI元年\"判断，结合NVIDIA的成本数据，画出的图景是：<strong>2026年AI行业将加速两极分化——做模型的越来越少越来越贵，做应用的越来越多越来越卷。</strong></p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Google I/O 2026 declares the 'Agentic Gemini Era': triple release of Omni, 3.5 Flash, and Spark agent</strong> — Complete stack from foundation model to consumer AI agent. 3.5 Flash enters Sonnet pricing tier.</li><li><strong>Google Labs launches Dreambeans: AI for 'connecting with what matters'</strong> — Experimental app exploring AI beyond productivity into meaning and emotional connection.</li><li><strong>Stanford 2026 AI Index + NVIDIA memory costs soar 485%: AI infrastructure enters 'million-dollar era'</strong> — Single AI system now costs $7.8M to build. Only trillion-dollar companies can afford frontier training.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "I/O 2026: Welcome to the agentic Gemini era — Google Blog",
+        "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote_tempsocial.width-1300.png"
+      },
+      {
+        "title": "Meet Dreambeans — Google Labs",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans/",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_16x9.width-1300.jpg"
+      },
+      {
+        "title": "2026 AI Index Report — Stanford HAI",
+        "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+        "image": ""
+      }
+    ],
+    "cover": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote_tempsocial.width-1300.png"
+  },
+  {
     "date": "2026-06-03",
     "section": "design",
     "title": {
