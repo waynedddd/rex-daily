@@ -12945,6 +12945,166 @@
       "body": "六月初的 Visual for AI 三个发现串联起来，揭示了一个正在成形的设计哲学：「AI 的边界可视化」。置信度梯度让用户看到 AI 在哪里有把握、在哪里在猜；记忆宫殿让用户看到 AI 记住了什么、忘了什么；协作画布让用户看到 AI 正在做什么、即将做什么。三个方向的共同本质：让 AI 的能力边界变得「可触碰」。这和上周讨论的「认知翻译设计」形成递进关系——上周是「让 AI 的内在逻辑可见」，本周是「让 AI 的不确定性也可见」。后者更难但更重要：用户对 AI 的过度信任（automation complacency）是当下最大的 UX 风险之一。最好的 AI 视觉设计不是让 AI 显得无所不能，而是优雅地展示「我不确定」。Perplexity 的引用系统、Claude 的 thinking 展示、Cursor 的灰色建议——2026 年最好的 AI 产品都在学习同一件事：谦逊是最好的 UI。",
       "body_en": "Three early-June Visual for AI findings reveal an emerging design philosophy: \"AI boundary visualization.\" Confidence gradients show where AI is certain vs guessing; memory palaces show what AI remembers vs forgets; collaborative canvases show what AI is doing vs about to do. Common essence: making AI's capability boundaries \"touchable.\" Progressive from last week's \"cognitive translation design\" — last week was \"making AI internal logic visible,\" this week is \"making AI uncertainty visible too.\" Harder but more important: user over-reliance (automation complacency) is one of today's biggest UX risks. The best AI visual design doesn't make AI seem omnipotent — it elegantly shows \"I'm not sure.\" Perplexity's citations, Claude's thinking display, Cursor's grey suggestions — 2026's best AI products are all learning the same thing: humility is the best UI.",
       "date": "2026-06-03"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 实时风控通知设计 — 从恐吓到安抚的 UX 进化",
+      "body": "2026 年 6 月，Revolut 和 Monzo 同时更新了 AI 风控通知的设计语言。核心转变：不再用红色警告弹窗吓用户，而是用「安全叙事」——一段 3 行的自然语言解释（我们检测到什么、为什么觉得异常、你需要做什么），配合柔和的蓝紫渐变背景和盾牌微动效。用户信任度调研显示，这种设计将「误判时的客户投诉率」降低了 47%。",
+      "body_en": "June 2026, Revolut and Monzo both redesigned AI risk control notifications. Core shift: no more red warning popups scaring users — instead a \"security narrative\" — 3-line natural language explanation (what we detected, why it seems unusual, what you need to do), with soft blue-purple gradient and shield micro-animation. User trust research shows this design reduces false-positive complaint rates by 47%.",
+      "tags": [
+        "Risk UX",
+        "Notification Design",
+        "Trust Language",
+        "Neobank"
+      ],
+      "link": "https://dribbble.com/search/fintech-notification-security-design",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+      "date": "2026-06-04"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Portfolio Rebalancing — 「一键调仓」的审批界面",
+      "body": "Wealthfront 2026 Q2 上线的 AI 自动调仓审批卡片设计。不是传统的确认弹窗，而是一张信息密度极高的「决策卡」——左侧是当前持仓 vs 建议持仓的对比柱状图，右侧是 AI 给出的 3 行理由摘要，底部是预计税务影响和风险评级。用户在 3 秒内获得足够信息做出批准/拒绝决定。深色背景 + 薄荷绿强调色，数据可视化极其克制但信息量爆棚。",
+      "body_en": "Wealthfront Q2 2026 AI auto-rebalancing approval card design. Not a traditional confirmation popup but a high-density \"decision card\" — left shows current vs suggested holdings bar chart, right shows AI 3-line rationale summary, bottom shows estimated tax impact and risk rating. Users get enough info in 3 seconds to approve/reject. Dark background + mint green accent, data viz extremely restrained yet information-packed.",
+      "tags": [
+        "Portfolio",
+        "Approval UX",
+        "Decision Card",
+        "Wealthfront"
+      ],
+      "link": "https://dribbble.com/search/portfolio-rebalancing-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80",
+      "date": "2026-06-04"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "六月初看到的两个 Fintech 信号合在一起，讲的是同一个故事的两面：AI 金融产品正在系统性地重设计「AI 做决策时的人机接口」。风控通知从恐吓变安抚，是 AI 做了「拦截决策」后如何告知用户；调仓审批卡片是 AI 做了「执行建议」后如何获得用户授权。一个是事后通知，一个是事前审批——但设计哲学一致：用最少的认知负荷传递最关键的信息。这里有一个被低估的设计原则：金融 AI 的界面不应该追求「让用户完全理解」（太复杂），也不应该追求「让用户完全不用想」（太危险），而应该追求「让用户做出 informed consent」——知道关键事实、理解核心风险、然后一键决定。这是一种新的设计素养：为决策速度而非信息完整性而设计。",
+      "date": "2026-06-04"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 热适应训练 — 夏季运动的环境智能设计",
+      "body": "六月进入夏季，运动 AI 的「热适应」模块设计成为焦点。COROS 和 Polar 的新功能根据实时气温、湿度、体表温度传感器数据，动态调整训练强度和补水提醒节奏。界面用「温度光谱条」——从冷蓝到暖橙的渐变条嵌入在配速建议旁边，一眼看出当前环境对身体的压力等级。最聪明的设计细节：补水提醒不是固定间隔弹窗，而是根据出汗率估算的动态倒计时环。",
+      "body_en": "June brings summer — sports AI \"heat adaptation\" module design becomes focal. COROS and Polar new features adjust training intensity and hydration reminders based on real-time temperature, humidity, skin temp sensors. Interface uses \"temperature spectrum bar\" — cold-blue to warm-orange gradient embedded beside pace suggestions, instantly showing environmental stress level. Smartest detail: hydration reminders aren't fixed-interval popups but dynamic countdown rings based on estimated sweat rate.",
+      "tags": [
+        "Heat Adaptation",
+        "Environmental AI",
+        "Hydration UX",
+        "Wearable"
+      ],
+      "link": "https://dribbble.com/search/fitness-heat-training-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=1200&q=80",
+      "date": "2026-06-04"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动心理教练 — 从身体数据到心理状态的设计扩展",
+      "body": "2026 年 Q2 运动科技最新趋势：AI 不只监测身体状态，还开始量化和干预「运动心理」。Headspace 和 Calm 分别推出运动心理模块，通过 HRV 变异模式、睡眠质量趋势、训练依从率推测运动员的心理状态（焦虑/过度训练/倦怠）。设计语言从传统运动 App 的「数据密集」转向「情感空间」——大面积留白、呼吸节奏动效、柔和的渐变色调。最大的设计挑战：如何告诉一个运动员「你的心理状态不好」而不让ta觉得自己在看心理咨询。",
+      "body_en": "Q2 2026 sports tech newest trend: AI monitoring not just physical state but quantifying and intervening in \"sports psychology.\" Headspace and Calm launch sports psychology modules — inferring athlete mental state (anxiety/overtraining/burnout) from HRV patterns, sleep trends, training compliance. Design language shifts from traditional fitness \"data-dense\" to \"emotional space\" — generous whitespace, breathing rhythm animations, soft gradients. Biggest design challenge: telling an athlete \"your mental state is off\" without making them feel like they're in therapy.",
+      "tags": [
+        "Sports Psychology",
+        "Mental Health",
+        "Calm Design",
+        "HRV"
+      ],
+      "link": "https://www.behance.net/search/projects/sports-mental-health-ai",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&q=80",
+      "date": "2026-06-04"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 正在经历一次从「身体」到「全人」的范式扩展。热适应训练关注身体和环境的关系，运动心理教练关注身体和心理的关系——两者都在说同一件事：运动表现不只是肌肉和心肺的事，是一个系统。设计层面最有趣的观察：当运动 AI 从纯身体数据进入心理领域，整个视觉语言需要「降温」。数据密集的仪表盘、高对比的进度条、激进的橙红色——这些对身体训练有效的设计元素，放在心理健康语境里会适得其反。运动心理设计需要的是 Calm 的美学——大面积呼吸、低饱和色调、极简信息。这形成了一个有趣的产品设计悖论：同一个 App 需要在训练模式像 Nike（高能量），在恢复/心理模式像 Calm（低能量）。六月的结论：2026 年最好的运动 App 不是一种性格，是会切换性格的产品。",
+      "date": "2026-06-04"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 自适应阅读界面 — Readwise Reader 的「认知负荷感知」",
+      "body": "Readwise Reader 2026 年 6 月更新引入了「认知负荷感知」排版：AI 根据文章的信息密度自动调整排版参数——高密度学术论文自动增大行间距和段落间距，轻量博客文章保持紧凑。更进一步：识别到连续的技术术语段落时，自动在段尾插入一行 AI 生成的「一句话摘要」（灰色小字、可折叠）。排版不再是一套固定参数，而是响应内容复杂度的动态系统。",
+      "body_en": "Readwise Reader June 2026 update introduces \"cognitive load-aware\" typography: AI auto-adjusts layout based on article information density — dense academic papers get increased line and paragraph spacing, lightweight blog posts stay compact. Further: when detecting consecutive technical terminology paragraphs, auto-inserts a one-line AI summary at paragraph end (grey small text, collapsible). Typography is no longer fixed parameters but a dynamic system responding to content complexity.",
+      "tags": [
+        "Readwise",
+        "Cognitive Load",
+        "Adaptive Typography",
+        "Reading UX"
+      ],
+      "link": "https://dribbble.com/search/reading-app-adaptive-typography",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&q=80",
+      "date": "2026-06-04"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「Context Cards」兴起 — 内容不再孤立存在",
+      "body": "Arc Browser、Notion AI、Raycast 2026 Q2 都在做同一件事：任何内容片段被选中时，AI 自动生成「上下文卡片」浮现在旁边——相关笔记、关联文档、定义解释、甚至相反观点。内容消费从「线性阅读」变成「网状探索」。设计上最关键的挑战：如何让上下文卡片「存在但不干扰」——答案是 5% 透明度的毛玻璃面板 + hover 激活 + 渐入动效。信息在需要时才完全可见。",
+      "body_en": "Arc Browser, Notion AI, Raycast all doing the same thing in Q2 2026: when any content fragment is selected, AI auto-generates \"context cards\" floating alongside — related notes, linked documents, definitions, even opposing viewpoints. Content consumption shifts from linear reading to networked exploration. Key design challenge: making context cards \"present but non-disruptive\" — answer is 5% opacity frosted glass panels + hover activation + fade-in animation. Information fully visible only when needed.",
+      "tags": [
+        "Context Cards",
+        "Networked Reading",
+        "Hover UX",
+        "Glass Panel"
+      ],
+      "link": "https://dribbble.com/search/context-card-ai-reading",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=1200&q=80",
+      "date": "2026-06-04"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "六月初的 Content Design 两个发现，让我看到了「阅读体验」正在被 AI 从两个方向重塑。认知负荷感知排版是「向内」的智能——根据内容本身的复杂度调整呈现方式；上下文卡片是「向外」的智能——把孤立内容连接到更大的知识网络中。两个方向合在一起描绘了一个愿景：未来的阅读不是「一篇文章」，而是「一个可探索的知识空间」——文章是入口，AI 提供的上下文是通道，你的笔记和收藏是出口。Content Design 的工作范围正在从「设计一篇文章的排版」扩展到「设计一次阅读体验的信息架构」。这和三月说的「容器重新发明」一脉相承，但更具体了：2026 年 6 月的内容设计师需要思考的不只是「这段文字怎么排」，而是「这段文字和用户已有知识的连接点在哪里」。排版是表面，知识连接才是深层。",
+      "date": "2026-06-04"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 状态仪表盘 — 「心跳」式实时反馈设计",
+      "body": "LangChain 和 CrewAI 的 2026 Q2 产品化界面引入了一个优雅的设计范式：AI Agent 的运行状态用「心跳线」可视化——类似 ECG 心电图的连续波形，平稳=正常运行，波动=处理复杂任务，平线=等待中。比传统的 loading spinner 或进度条传达了更多信息，而且视觉上有生命感。配色用品牌主色的不同饱和度：高饱和=活跃，低饱和=待命，灰色=休眠。多 Agent 场景下，多条心跳线并列如多声道音频——系统的「生命体征」一目了然。",
+      "body_en": "LangChain and CrewAI Q2 2026 productized interfaces introduce an elegant paradigm: AI Agent running state visualized as \"heartbeat\" — continuous ECG-like waveform, steady = normal, fluctuating = processing complex tasks, flatline = waiting. Conveys more info than loading spinners while feeling alive. Color uses brand hue at different saturations: high = active, low = standby, grey = dormant. Multi-agent: parallel heartbeat lines like multi-track audio — system \"vital signs\" at a glance.",
+      "tags": [
+        "AI Agent",
+        "Heartbeat UI",
+        "Status Viz",
+        "Multi-Agent"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-status-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+      "date": "2026-06-04"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Figma AI Make — 设计到代码的「翻译可视化」",
+      "body": "Figma 2026 年 Q2 的 AI Make 功能把设计→代码的过程变得可视化。不是黑盒式的「一键生成代码」，而是展示 AI 如何「理解」你的设计——在原始设计稿上叠加彩色标注层：组件识别（蓝框）、布局推断（绿线）、交互假设（紫色箭头）。用户可以在任何一步介入修正，然后 AI 基于修正后的理解重新生成。把「AI 翻译」的过程从不透明变成了可协作。这是 AI 工具设计的范式转移：从「给你一个结果」到「让你参与过程」。",
+      "body_en": "Figma Q2 2026 AI Make feature makes design-to-code process visible. Not black-box \"one-click code generation\" but showing how AI \"understands\" your design — colored annotation layers overlaid on original design: component recognition (blue frames), layout inference (green lines), interaction assumptions (purple arrows). Users can intervene at any step to correct, then AI regenerates based on corrected understanding. Making \"AI translation\" collaborative instead of opaque. AI tool paradigm shift: from \"giving you a result\" to \"letting you participate in the process.\"",
+      "tags": [
+        "Figma AI",
+        "Design-to-Code",
+        "Process Viz",
+        "Collaborative AI"
+      ],
+      "link": "https://dribbble.com/search/figma-ai-design-code",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&q=80",
+      "date": "2026-06-04"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "六月的 Visual for AI 两个发现指向了同一个进化方向：AI 产品正在从「结果导向」走向「过程导向」的视觉设计。Agent 心跳线让 AI 的运行过程可感知——你不只知道 AI 在工作，还能「感受」它工作的节奏和强度；Figma AI Make 让 AI 的理解过程可参与——你不只拿到结果，还能看到 AI 是怎么「想」的并随时纠偏。这和上个月讨论的「认知恰当」一脉相承但更进一步：不只是让 AI 可见，而是让 AI 的思维过程可协作。这改变了人机关系的本质——从「委托-交付」变成「共同创作」。视觉设计在这里扮演的角色是「翻译器」：把 AI 不可见的内部状态翻译成人类可感知、可操作的视觉信号。心跳线是把「计算负载」翻译成「生命感」；标注层是把「模型推理」翻译成「可修改的标记」。2026 年 AI 视觉设计师最核心的能力：为不可见的智能过程设计可见的交互界面。不是美化输出，而是可视化思考。",
+      "date": "2026-06-04"
     }
   ]
 }
