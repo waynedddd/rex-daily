@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-05",
+    "section": "design",
+    "title": {
+      "zh": "Figma Make Embeds正式发布：AI原型可嵌入设计文件/白板/演示文稿——设计协作从\"描述想法\"进入\"展示想法\"时代",
+      "en": "Figma Make Embeds Launch: AI Prototypes Now Embeddable in Design Files, Boards & Slides — Design Collaboration Enters 'Show Don't Tell' Era"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma Make Embeds正式发布：AI生成的交互原型可直接嵌入Figma Design/FigJam/Slides</strong> — Figma宣布Make原型嵌入功能上线：设计师可将Figma Make生成的交互原型以可播放窗口形式嵌入任何Figma文件。粘贴Make文件URL即可自动生成预览缩略图，点击play按钮可直接在文件内交互体验。配合新增的Select to Edit编辑工具，Make从\"生成demo\"升级为\"协作论证工具\"。<br><small>来源：<a href=\"https://www.figma.com/blog/introducing-figma-make-embeds\">Show Don't Tell: Embed Make Prototypes — Figma Blog</a></small></li><li><strong>Figma官方发布\"2026年UX设计师9大AI工具\"指南：Figma Make居首，UX Pilot紧随</strong> — Figma资源库新文章系统梳理2026年AI×UX工具格局：Figma Make（prompt-to-code）、UX Pilot（UX研究+预测热力图）、Uizard等。关键信息：Figma将Make定位为\"AI+设计+开发一体化\"平台，强调\"从想法到生产无需切换应用\"。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Top AI Tools for UX Designers in 2026 — Figma</a></small></li><li><strong>UXMagic突破5万用户：AI UI生成器赛道持续验证市场需求</strong> — UXMagic（文本/草图/截图→Figma UI设计）宣布用户突破50,000。AI设计生成从\"好奇尝鲜\"阶段进入\"日常使用\"阶段。<br><small>来源：<a href=\"https://uxmagic.ai\">UXMagic: AI UI Generator</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma Make Embeds看似是一个小功能更新，但它解决的是设计协作中最古老的痛点：<strong>\"我说的你听不懂，因为你没法亲手玩到。\"</strong></p><p>想想设计评审会上发生了什么：设计师分享一个静态截图或录屏，PM说\"能不能点那个按钮试试\"，设计师说\"这只是mockup\"，讨论陷入僵局。Make Embeds让设计师可以直接在Design文件、白板甚至演示文稿里放一个<strong>可交互的AI原型</strong>——利益相关者自己点、自己滑、自己体验，然后提出有意义的反馈。这是从\"描述想法\"到\"展示想法\"的质变。</p><p>但更深层的战略意义在于：<strong>Figma正在用Make把自己从\"设计工具\"重新定义为\"产品论证平台\"。</strong>当PM可以在FigJam里直接体验AI生成的原型、工程师可以在Design文件里直接看到交互逻辑时——Figma不再只服务设计师，它变成了整个产品团队的工作台。这是一个市场扩张策略：把付费座位从\"设计师\"扩展到\"所有产品构建者\"。</p><p>UXMagic的5万用户数据则揭示另一个趋势：<strong>AI设计生成已经过了\"novelty\"阶段，进入\"utility\"阶段。</strong>5万不是一个爆发数字，但它是一个\"日常使用\"的信号——人们不再因为好奇而用，而是因为真的需要快速出图。这对传统设计接单市场（Fiverr、99designs）是慢性毒药：当客户可以花几秒钟AI生成一个\"够用\"的设计时，为什么要花$500等三天？</p><p>我的预测：到2026年底，Figma会推出\"Make for Stakeholders\"——一个让非设计师（PM、创始人）直接用prompt生成可评审原型的独立入口。设计师的角色将进一步从\"制作者\"转向\"质量把关者\"和\"系统架构师\"。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma Make Embeds: AI prototypes now embeddable in Design/FigJam/Slides</strong> — Paste Make URL to embed playable interactive prototypes. New Select to Edit tools upgrade Make from demo generator to collaboration tool.</li><li><strong>Figma publishes '9 Top AI Tools for UX Designers 2026' guide</strong> — Figma Make leads, followed by UX Pilot. Positioning: 'AI + design + development in one place.'</li><li><strong>UXMagic crosses 50,000 users</strong> — AI UI generation moves from novelty to daily utility.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Show Don't Tell: Embed Make Prototypes — Figma Blog",
+        "url": "https://www.figma.com/blog/introducing-figma-make-embeds",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/3ae03aad38e24a5225db9c3b7950f1e891159a1b-3200x1800.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "Top AI Tools for UX Designers in 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": ""
+      },
+      {
+        "title": "UXMagic: AI UI Generator",
+        "url": "https://uxmagic.ai",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/3ae03aad38e24a5225db9c3b7950f1e891159a1b-3200x1800.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-06-05",
+    "section": "tech",
+    "title": {
+      "zh": "Google六月AI密集发布：Gemini CLI开源（每日1000次免费调用）+ Imagen 4 + AlphaGenome + Gemma 4——开发者工具全面AI化，DeepMind科研突破不断",
+      "en": "Google's June AI Blitz: Gemini CLI Open-Source (1000 Free Daily Calls) + Imagen 4 + AlphaGenome + Gemma 4 — Developer Tools Go Full AI, DeepMind Research Breakthroughs Continue"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Google发布Gemini CLI：开源AI coding agent，个人用户每日1000次Gemini 2.5 Pro免费调用</strong> — Google正式推出Gemini CLI，一个开源命令行AI代理。核心卖点：① 完全开源（GitHub可查代码、可贡献）② 个人Google账号每日1000次免费请求（碾压Claude Code和Codex CLI的免费额度）③ 支持MCP服务器扩展 ④ 与VS Code的Gemini Code Assist深度集成。对比：Claude Code需订阅，Codex CLI有限免费——Google直接用\"免费+开源\"抢开发者市场。<br><small>来源：<a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-cli-open-source-ai-agent\">Gemini CLI: your open-source AI agent — Google Blog</a> | <a href=\"https://github.com/google-gemini/gemini-cli\">GitHub: google-gemini/gemini-cli</a></small></li><li><strong>Imagen 4开放开发者访问 + Gemma 4 12B发布 + Kaggle本地Benchmark工具</strong> — Google在6月初密集推出：Imagen 4（最新图像生成模型）通过Gemini API和AI Studio对开发者开放；Gemma 4 12B开源模型发布（6月3日）；Kaggle推出本地AI benchmark构建工具。Google的策略清晰：<strong>用免费/开源的开发者工具建立生态锁定。</strong><br><small>来源：<a href=\"https://blog.google/innovation-and-ai/products/google-ai-updates-june-2025\">The latest AI news we announced in June — Google Blog</a></small></li><li><strong>DeepMind发布AlphaGenome + Gemini Robotics On-Device：AI从数字世界向物理世界和生命科学同时扩张</strong> — AlphaGenome用AI理解人类基因组（继AlphaFold之后又一生命科学突破）；Gemini Robotics On-Device将AI模型部署到本地机器人设备（解决延迟和隐私问题）。DeepMind的研究组合暗示：<strong>Google认为AI的下一个十年在生物和物理世界，不只是聊天机器人。</strong><br><small>来源：<a href=\"https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/\">AlphaGenome — DeepMind</a> | <a href=\"https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/\">Gemini Robotics On-Device — DeepMind</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Google这周的动作让我想到一个词：<strong>\"铺路\"</strong>。不是发布一个惊天产品，而是系统性地在每个开发者触点都放上Google的AI。终端里有Gemini CLI，IDE里有Code Assist，浏览器里有AI Studio，模型有Gemma开源系列——Google正在复制Android的策略：<strong>用免费+开源构建无处不在的存在感，然后通过生态锁定变现。</strong></p><p>Gemini CLI的定价策略是今天最值得分析的决策。每日1000次免费Gemini 2.5 Pro调用——这不是\"试用\"，这是\"日常工作完全够用\"的额度。对比一下：Claude Code需要$20/月订阅才能用，OpenAI Codex有使用限制。Google直接说：\"来用我的，免费，开源，你甚至可以看代码。\"这是用亏损换市场份额的经典互联网打法。<strong>但代价是什么？</strong>你的代码、你的项目结构、你的开发习惯——全部流入Google的数据飞轮。当一年后你的整个工作流都依赖Gemini CLI时，迁移成本就是锁定。</p><p>DeepMind那边的两个发布则揭示Google的长期赌注。AlphaGenome和Gemini Robotics On-Device看起来毫无关联，但它们指向同一个方向：<strong>AI的价值不在于生成文字和图片，而在于理解和操控物理现实。</strong>生物（基因组）和物理（机器人）是AI真正能创造万亿美元价值的领域——相比之下，所有的chatbot和coding assistant都只是\"热身赛\"。这也解释了为什么Google愿意把Gemini CLI免费送出去：开发者工具是引流品，生命科学和机器人才是利润中心。</p><p>对开发者的实际建议：Gemini CLI值得立刻试用。1000次/天的免费额度+开源+MCP扩展，性价比目前无敌。但要有心理准备：Google的免费午餐从来都有保质期。等生态建立起来后，定价一定会变。趁现在免费，建立工作流但不要深度耦合。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Google launches Gemini CLI: open-source AI coding agent with 1000 free daily Gemini 2.5 Pro calls</strong> — Crushes Claude Code and Codex CLI on free tier. Supports MCP servers, GitHub integration, VS Code.</li><li><strong>Imagen 4 + Gemma 4 12B + Kaggle local benchmarks</strong> — Systematic developer ecosystem play: free/open-source tools to build lock-in.</li><li><strong>AlphaGenome + Gemini Robotics On-Device</strong> — AI expands from digital to physical world and life sciences simultaneously.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Gemini CLI: your open-source AI agent — Google Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-cli-open-source-ai-agent",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_CLI_Hero_Final.width-1300.png"
+      },
+      {
+        "title": "The latest AI news in June — Google Blog",
+        "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-june-2025",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_AI_Recap_social-share.width-1300.png"
+      },
+      {
+        "title": "AlphaGenome — DeepMind",
+        "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+        "image": ""
+      }
+    ],
+    "cover": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_CLI_Hero_Final.width-1300.png"
+  },
+  {
     "date": "2026-06-04",
     "section": "design",
     "title": {
