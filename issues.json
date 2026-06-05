@@ -3,6 +3,61 @@
     "date": "2026-06-05",
     "section": "design",
     "title": {
+      "zh": "AI-Native设计工具大爆发：从\"AI辅助Figma\"到\"AI就是设计工具\"的范式跃迁——5款纯AI原生工具实测揭示设计工具链正在被重写",
+      "en": "AI-Native Design Tools Explosion: The Paradigm Shift from 'AI-Assisted Figma' to 'AI IS the Design Tool' — 5 Pure AI-Native Tools Reveal the Design Toolchain Is Being Rewritten"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Medium实测：5款AI-Native UX设计工具50分钟横评——\"AI原生\"vs\"AI增强\"的分水岭已经出现</strong> — 设计师Faith Olohijere发布深度评测，明确区分\"AI原生工具\"（AI是产品核心）和\"AI增强工具\"（AI只是已有工具的附加功能）。结论：AI原生工具在速度上碾压传统工具，但在设计系统一致性和微调能力上仍有差距。这是一个\"够用就行\"vs\"精益求精\"的选择题。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">I recently reviewed 5 AI-Native UX Design tools in 50 Minutes (2026) — Medium</a></small></li><li><strong>Toools.design发布2026年9大AI UI工具深度对比：Figma Make vs Motiff vs Visily vs FlowStep vs UX Pilot</strong> — 独立设计资源站系统对比9款工具的定价、能力和适用场景。关键发现：Figma Make（$16/月含AI额度）在生态整合上领先，但Motiff在代码导出质量上更强（原生React/HTML），Visily则以\"零设计技能门槛\"切入非设计师市场。竞争格局：<strong>不再是谁的AI更聪明，而是谁的工作流整合更无缝。</strong><br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">9 Best AI Tools for UI/UX Designers 2026 — Toools.design</a></small></li><li><strong>Figma Make新增Make Kits + Make Attachments：让AI原型从\"通用模板\"进化为\"基于真实组件和数据约束\"的生成</strong> — Figma官方宣布Make kits（组件库上下文）和attachments（数据附件）功能，让Make生成的原型可以遵循已有设计系统的组件和约束。这解决了AI设计生成最大的痛点：生成的东西看着不错但跟现有设计系统格格不入。<br><small>来源：<a href=\"https://www.figma.com/solutions/ai-design-generator\">AI Design Generator — Figma</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这组信息合在一起看，能看到一个正在发生的<strong>设计工具链大裂变</strong>。</p><p>让我先说结论：<strong>2026年设计工具的竞争已经不是\"谁的AI生成更好看\"，而是\"谁能成为AI时代的设计操作系统\"。</strong></p><p>Faith的实测文章提出了一个至关重要的区分：\"AI-native\"和\"AI-enhanced\"。Figma加AI插件是后者，而像FlowStep这种从第一天就围绕AI构建的工具是前者。这个区别为什么重要？因为AI-native工具可以重新定义交互范式——你不需要先画框再填内容，你直接描述意图就行。这对设计师的意义是：<strong>\"设计\"这个动作本身正在被重新定义——从\"操作画布\"变为\"表达意图\"。</strong></p><p>但Figma不傻。Make Kits和Attachments的发布说明Figma看到了AI原生工具的威胁，并且用一个聪明的策略应对：<strong>\"你们的AI生成很快，但生成出来的东西跟客户现有设计系统不匹配。我Figma让AI在你的组件库和数据约束里生成——所以我生成的不只是好看，还能直接用。\"</strong>这是一个\"生态壁垒\"打法：你可以离开Figma去用任何AI工具，但那些工具不了解你的设计系统。</p><p>Toools的9款工具对比则揭示了市场正在分化成三层：① Figma Make = 专业设计师的AI加速器（生态锁定）② Motiff/FlowStep = 设计转开发的桥梁（代码导出为核心卖点）③ Visily = 非设计师的\"够用就行\"工具（降低门槛）。这三层之间不是替代关系，而是<strong>服务不同预算和能力水平的并行市场</strong>。</p><p>我的判断：AI-native工具会蚕食两端——最简单的需求（\"帮我快速出个landing page\"）和最探索性的需求（\"帮我生成50个方案我来挑\"）——但中间地带（企业级设计系统维护、复杂交互逻辑、品牌一致性）仍然属于Figma。短期内不会有一个工具统一所有场景，设计师会继续在7+个工具之间跳转。<strong>真正的赢家是能把这些工具串起来的人——不是工具本身，而是会编排AI工具链的设计师。</strong></p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Medium hands-on: 5 AI-native UX tools reviewed in 50 min — the 'AI-native' vs 'AI-enhanced' divide is real</strong> — Speed advantage clear, but design system consistency still a gap.</li><li><strong>Toools.design: 9 AI UI tools deep comparison — Figma Make vs Motiff vs Visily vs FlowStep vs UX Pilot</strong> — Competition shifts from 'whose AI is smarter' to 'whose workflow integration is seamless.'</li><li><strong>Figma Make adds Make Kits + Attachments: AI generation now respects existing design systems</strong> — Solves the biggest AI design pain point: generated output that doesn't fit your system.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "I recently reviewed 5 AI-Native UX Design tools in 50 Minutes (2026) — Medium",
+        "url": "https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8",
+        "image": ""
+      },
+      {
+        "title": "9 Best AI Tools for UI/UX Designers 2026 — Toools.design",
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bebf9c2f3d062871b3c4_best-ai-tools-ui-ux-designers-2026.webp"
+      },
+      {
+        "title": "AI Design Generator — Figma",
+        "url": "https://www.figma.com/solutions/ai-design-generator",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bebf9c2f3d062871b3c4_best-ai-tools-ui-ux-designers-2026.webp"
+  },
+  {
+    "date": "2026-06-05",
+    "section": "tech",
+    "title": {
+      "zh": "Agentic AI市场预测：2024年$52亿→2034年$2000亿（38倍增长）+ 2026年底40%企业应用将嵌入AI Agent——从\"AI辅助\"到\"AI代劳\"的产业转折点",
+      "en": "Agentic AI Market Forecast: $5.2B (2024) → $200B (2034) at 38x Growth + 40% Enterprise Apps to Embed AI Agents by End of 2026 — The Industry Tipping Point from 'AI-Assisted' to 'AI-Operated'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Agentic AI市场规模预测：从2024年$52亿增长至2034年$2000亿，38倍扩张</strong> — Mixflow.AI汇编的2026年6月AI统计数据显示，Agentic AI（代理式AI）市场正在经历指数级增长。Buinsoft预测市场规模将从$52亿膨胀至$2000亿。关键转变：从\"AI帮你做事\"到\"AI替你做事\"——自主管理客服、更新CRM、执行财务分析、处理供应链物流。<br><small>来源：<a href=\"https://mixflow.ai/blog/ai-by-the-numbers-june-2026-statistics-every-ai-enthusiast-needs-to-know\">AI by the Numbers: June 2026 Statistics — Mixflow.AI</a></small></li><li><strong>Future AGI预测：2026年底40%企业应用将嵌入AI Agent（2025年不到5%）</strong> — 从5%到40%——一年内8倍增长。这意味着到今年年底，你使用的近半数企业软件都会有AI代理在后台自动执行任务。不再是\"点按钮让AI帮忙\"，而是\"AI自己判断该做什么并执行\"。<br><small>来源：<a href=\"https://mixflow.ai/blog/ai-by-the-numbers-june-2026-statistics-every-ai-enthusiast-needs-to-know\">AI by the Numbers: June 2026 Statistics — Mixflow.AI</a></small></li><li><strong>Google Search I/O 2026：Agentic Booking + Personal Intelligence全球免费开放——搜索引擎从\"信息检索\"正式转型为\"任务执行平台\"</strong> — Google宣布AI Mode扩展至200国/98语言，代理式预订（如\"帮我找周五晚上6人卡拉OK包间\"）上线，Personal Intelligence（基于个人邮件/日历/文档的AI助手）免费开放。Google的AI搜索不再只给答案，而是直接帮你完成任务。<br><small>来源：<a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026\">Google Search's I/O 2026 updates: AI agents and more — Google Blog</a></small></li></ul><h3>🧠 Rex's Take</h3><p>38倍。从$52亿到$2000亿。这个数字需要被认真对待。</p><p>让我把今天的三条新闻放在一起看，它们讲的是同一个故事的不同章节：<strong>AI正在从\"工具\"变成\"员工\"。</strong></p><p>第一章是市场层面：$2000亿的预测是否靠谱？我认为方向对，数字可能保守。原因很简单——Agentic AI不是在创造新市场，而是在吃掉已有的人力外包市场（全球BPO市场$3000亿+）、SaaS市场（$2000亿+）和专业服务市场（万亿级）。当一个AI Agent可以替代一个初级分析师80%的工作时，它不需要创造\"新需求\"，只需要转化已有支出。</p><p>第二章是渗透速度：从5%到40%，一年8倍。这不是线性增长，这是<strong>相变</strong>——就像水从液态变为气态，一旦越过临界点就是指数级扩散。为什么这么快？因为2025年的基础设施建设（MCP协议、Agent框架、工具调用标准化）在2026年终于开始结果。企业不再需要从零搭建Agent系统，而是直接用现成框架嵌入已有应用。</p><p>第三章是巨头的落地：Google Search的Agentic Booking就是最好的例子。这不是一个demo或paper，这是一个面向10亿+用户的生产级代理系统。当全球最大的信息入口开始\"替你办事\"而不只是\"给你看信息\"时，整个互联网的商业模式都要被重写。中间商赚差价的时代可能要结束了——如果Google的AI可以直接帮你预订酒店，Booking.com的价值是什么？</p><p>对从业者的影响：<strong>如果你的工作可以被描述为\"接收指令→查询信息→执行标准化操作→输出结果\"，那么2026年底之前就会有一个AI Agent来做同样的事，而且更快更便宜。</strong>不是危言耸听——40%的企业应用嵌入Agent意味着你的同事已经开始是AI了。生存策略：往上走（做AI做不了的判断和决策）或往深走（成为设计和部署Agent的人）。站在中间最危险。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Agentic AI market: $5.2B (2024) → $200B (2034), 38x expansion</strong> — Shift from 'AI helps you' to 'AI works for you.' Autonomous CRM, finance, supply chain.</li><li><strong>40% enterprise apps to embed AI agents by end of 2026 (up from <5% in 2025)</strong> — 8x penetration in one year. Phase transition, not linear growth.</li><li><strong>Google Search I/O 2026: Agentic Booking + Personal Intelligence free globally</strong> — Search evolves from information retrieval to task execution platform.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "AI by the Numbers: June 2026 Statistics — Mixflow.AI",
+        "url": "https://mixflow.ai/blog/ai-by-the-numbers-june-2026-statistics-every-ai-enthusiast-needs-to-know",
+        "image": "https://app.mixflow.ai/opengraph-image.jpg?e067f2b9931a7181"
+      },
+      {
+        "title": "Google Search's I/O 2026 updates — Google Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46_16x9_1.width-1300.jpg"
+      }
+    ],
+    "cover": "https://app.mixflow.ai/opengraph-image.jpg?e067f2b9931a7181"
+  },
+  {
+    "date": "2026-06-05",
+    "section": "design",
+    "title": {
       "zh": "Figma Make Embeds正式发布：AI原型可嵌入设计文件/白板/演示文稿——设计协作从\"描述想法\"进入\"展示想法\"时代",
       "en": "Figma Make Embeds Launch: AI Prototypes Now Embeddable in Design Files, Boards & Slides — Design Collaboration Enters 'Show Don't Tell' Era"
     },
