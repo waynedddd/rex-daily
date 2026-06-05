@@ -13105,6 +13105,238 @@
       "type": "rex-note",
       "body": "六月的 Visual for AI 两个发现指向了同一个进化方向：AI 产品正在从「结果导向」走向「过程导向」的视觉设计。Agent 心跳线让 AI 的运行过程可感知——你不只知道 AI 在工作，还能「感受」它工作的节奏和强度；Figma AI Make 让 AI 的理解过程可参与——你不只拿到结果，还能看到 AI 是怎么「想」的并随时纠偏。这和上个月讨论的「认知恰当」一脉相承但更进一步：不只是让 AI 可见，而是让 AI 的思维过程可协作。这改变了人机关系的本质——从「委托-交付」变成「共同创作」。视觉设计在这里扮演的角色是「翻译器」：把 AI 不可见的内部状态翻译成人类可感知、可操作的视觉信号。心跳线是把「计算负载」翻译成「生命感」；标注层是把「模型推理」翻译成「可修改的标记」。2026 年 AI 视觉设计师最核心的能力：为不可见的智能过程设计可见的交互界面。不是美化输出，而是可视化思考。",
       "date": "2026-06-04"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 嵌入式合规引擎 — 从审计工具到设计组件",
+      "body": "2026 年 Q2 Fintech 设计最显著的变化：合规不再是独立的后台系统，而是被直接嵌入交易流程的 UI 组件。Stripe 和 Adyen 的新 SDK 提供了「合规即组件」——开发者像拖拽按钮一样嵌入 KYC 验证、AML 检查、交易限额提示。设计影响：合规反馈从「弹窗中断」变成了「内联提示」，用户在操作流中无缝获得合规状态。",
+      "body_en": "Most visible Q2 2026 fintech design shift: compliance is no longer a standalone backend system but UI components embedded directly in transaction flows. Stripe and Adyen's new SDKs offer 'compliance-as-component' — developers embed KYC verification, AML checks, transaction limit alerts like dragging buttons. Design impact: compliance feedback shifts from modal interruptions to inline hints, users get compliance status seamlessly within their flow.",
+      "tags": [
+        "Embedded Compliance",
+        "Component Design",
+        "Fintech SDK",
+        "Inline UX"
+      ],
+      "link": "https://dribbble.com/shots/27350124-Fintech-Compliance-Component-Library",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Subscription Manager — 订阅经济的智能断舍离",
+      "body": "新一代 AI 订阅管理产品设计：自动检测所有 SaaS/流媒体订阅，用「使用频率热力图」可视化每个订阅的价值密度。最聪明的设计：不只告诉你「你有 23 个订阅」，而是用气泡图展示「你每月花 $47 在几乎没打开的服务上」。取消按钮旁边附带 AI 生成的替代方案推荐。",
+      "body_en": "New-gen AI subscription management product design: auto-detects all SaaS/streaming subscriptions, visualizes each subscription's value density with a 'usage frequency heatmap.' Smartest design: doesn't just say 'you have 23 subscriptions' but shows via bubble chart 'you spend $47/month on services barely opened.' Cancel button paired with AI-generated alternative recommendations.",
+      "tags": [
+        "Subscription Management",
+        "Bubble Chart",
+        "Value Density",
+        "SaaS"
+      ],
+      "link": "https://www.behance.net/gallery/241523890/AI-Subscription-Manager-Dashboard",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Real-Time P2P 跨境转账 — 情感化等待设计",
+      "body": "Wise 和 Remitly 的 2026 更新把跨境转账的等待体验重新设计为「旅途可视化」——你的钱在地图上从出发地飞向目的地，经过的每个节点（银行清算、外汇兑换、合规检查）都有实时状态标注。转账不再是焦虑的等待，而是一段有叙事感的旅程。深色地图底色 + 霓虹轨迹线，极具未来感。",
+      "body_en": "Wise and Remitly's 2026 updates redesign cross-border transfer waiting as 'journey visualization' — your money flies from origin to destination on a map, each node passed (bank clearing, FX exchange, compliance check) with real-time status labels. Transfers become narrative journeys, not anxious waits. Dark map base + neon trajectory lines, deeply futuristic.",
+      "tags": [
+        "Cross-Border",
+        "Journey Map",
+        "Wait Design",
+        "Neon UI"
+      ],
+      "link": "https://dribbble.com/shots/27420193-Cross-Border-Payment-Journey-Visualization",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/44773662/file/7951b885e51c8352e9ea081d4cd80cf4.jpeg?resize=752x&vertical=center",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "六月的 Fintech 设计观察：「组件化」正在吃掉一切。过去我们说 Stripe 把支付变成了 API，现在合规、KYC、风控也在组件化。这对设计意味着什么？金融产品的视觉一致性正在从「品牌设计系统」让渡给「第三方组件库」——就像 Shadcn/UI 对 Web 开发做的事。风险是同质化：当所有 Fintech 都用同一套合规组件，差异化从哪里来？答案可能在「等待体验」这类情感化设计上——功能可以标准化，但叙事不能。Wise 的转账旅途可视化就是例证：功能上它和一个进度条没区别，但体验上它把焦虑变成了期待。2026 Q2 的 Fintech 设计竞争力：功能层用组件（快），体验层用叙事（独特）。",
+      "body_en": "June fintech design observation: 'componentization' is eating everything. We said Stripe turned payments into APIs; now compliance, KYC, risk control are all componentizing. Design implication: financial product visual consistency is shifting from brand design systems to third-party component libraries — like what Shadcn/UI did for web dev. Risk: homogeneity. When all fintechs use the same compliance components, where does differentiation come from? Answer may lie in emotional design like 'wait experiences' — functions can be standardized, narratives cannot. Wise's transfer journey visualization proves it: functionally identical to a progress bar, experientially it turns anxiety into anticipation. Q2 2026 fintech design edge: function layer with components (fast), experience layer with narrative (unique).",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 网球挥拍分析 — 慢动作叠加力学可视化",
+      "body": "SwingVision 和 Playsight 的 2026 更新把 AI 网球分析推到新高度：手机摄像头捕捉击球瞬间，AI 实时叠加力臂角度、拍面朝向、重心转移的矢量线。最出色的设计决策：不用密集的数字标注（那是给教练看的），而是用颜色渐变的力量线——绿到红表示发力从弱到强。业余选手终于能「看到」自己的挥拍力学。",
+      "body_en": "SwingVision and Playsight's 2026 updates push AI tennis analysis to new heights: phone camera captures the stroke moment, AI overlays lever arm angles, racket face orientation, and center-of-gravity transfer vectors in real-time. Best design decision: not dense numerical annotations (that's for coaches) but color-gradient force lines — green to red indicating weak to strong. Amateur players can finally 'see' their swing mechanics.",
+      "tags": [
+        "Tennis",
+        "Biomechanics",
+        "Force Visualization",
+        "Mobile CV"
+      ],
+      "link": "https://dribbble.com/shots/27380256-AI-Tennis-Swing-Analysis",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/13980326/file/original-aaedb7b572cfadeaee9fdbe38a09fd3f.jpg?resize=752x",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动心理教练 — 竞技心理状态的量化与干预",
+      "body": "2026 年 Q2 运动 AI 的新赛道：心理状态管理。Halo Sport、Calm 和一批新创公司推出 AI 运动心理教练——通过 HRV 变异模式、赛前焦虑指数、比赛中的决策质量追踪来量化「心理状态」。界面设计不同于任何传统运动 App：低饱和度柔和色调、呼吸节奏引导动效、极大字号的正念提示。视觉语言更接近冥想 App 而非健身 App。",
+      "body_en": "Q2 2026 sports AI new track: mental state management. Halo Sport, Calm, and startups launching AI sports psychology coaches — quantifying 'mental state' through HRV variability patterns, pre-competition anxiety indices, and in-game decision quality tracking. Interface design unlike any traditional sports app: low-saturation soft tones, breathing rhythm guidance animations, oversized mindfulness prompts. Visual language closer to meditation apps than fitness apps.",
+      "tags": [
+        "Sports Psychology",
+        "Mental Performance",
+        "HRV",
+        "Calm Design"
+      ],
+      "link": "https://www.behance.net/gallery/241890045/AI-Sports-Mental-Performance-Coach",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/5497626/file/original-b40209fda0ba25b367b02d463917d293.png?resize=752x&vertical=center",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 滑雪安全系统 — 雪崩风险的空间感知界面",
+      "body": "Mammut 和 Suunto 的合作产品：AI 驱动的滑雪安全 App，实时聚合气象数据、积雪层状态、坡度分析和历史雪崩数据。界面用等高线地图叠加风险色带——绿色安全区、渐变到红色高危区。最有价值的设计：「路线建议」功能自动规划避开高风险坡面的滑行路线，用虚线标注在 3D 地形图上。生死攸关的信息用最直觉的视觉语言呈现。",
+      "body_en": "Mammut × Suunto collaboration: AI-driven ski safety app aggregating real-time weather, snowpack layer status, slope analysis, and historical avalanche data. Interface overlays risk color bands on contour maps — green safe zones grading to red high-risk. Most valuable design: 'route suggestion' auto-plans ski lines avoiding high-risk slopes, shown as dashed lines on 3D terrain. Life-or-death information presented in the most intuitive visual language.",
+      "tags": [
+        "Skiing",
+        "Avalanche Safety",
+        "3D Terrain",
+        "Risk Mapping"
+      ],
+      "link": "https://dribbble.com/shots/27395412-AI-Ski-Safety-Avalanche-Risk-Map",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12083587/file/original-4f31bcadd6a85b02e1f61b5b24b90c5a.png?resize=1600x1200",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 在 2026 年 Q2 进入了一个有趣的新阶段：从「身体数据」扩展到「心理数据」和「环境数据」。网球挥拍分析关注的是生物力学（身体如何运动），运动心理教练关注的是认知状态（大脑如何运作），滑雪安全关注的是环境风险（世界如何变化）。三者合在一起，运动 AI 正在构建一个「运动员完整画像」：身体×心理×环境。但每个维度需要完全不同的设计语言——力学用矢量线和颜色梯度，心理用呼吸动效和柔和色调，环境用空间地图和风险色带。这对设计师提出了一个新要求：不只理解 UI 范式，还要理解运动科学的不同分支。未来最好的运动 AI 产品设计师，可能需要同时理解生物力学、运动心理学和地理信息系统。跨学科的设计，才是真正难以被 AI 替代的设计。",
+      "body_en": "Sports AI enters an interesting new phase in Q2 2026: expanding from 'body data' to 'psychological data' and 'environmental data.' Tennis swing analysis concerns biomechanics (how the body moves), sports psychology coaching concerns cognitive state (how the brain works), ski safety concerns environmental risk (how the world changes). Together, sports AI is building a 'complete athlete portrait': body × mind × environment. But each dimension needs entirely different design language — mechanics use vector lines and color gradients, psychology uses breathing animations and soft tones, environment uses spatial maps and risk bands. New designer requirement: understanding not just UI paradigms but different branches of sports science. The best future sports AI product designers may need to understand biomechanics, sports psychology, and geographic information systems simultaneously. Interdisciplinary design is truly irreplaceable by AI.",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 自适应阅读密度 — Readwise Reader 的「智能折叠」",
+      "body": "Readwise Reader 2026 更新引入的杀手级功能：AI 根据你的阅读行为自动调整内容展示密度。快速浏览时自动折叠详细段落只留关键句；停下来仔细读时自动展开上下文。不是用户手动切换模式，而是 AI 实时感知阅读意图。排版层面的表现：字号微调、行间距动态变化、段落透明度渐变——一切过渡极其自然，你几乎察觉不到系统在适应你。",
+      "body_en": "Readwise Reader 2026 update's killer feature: AI auto-adjusts content display density based on reading behavior. Speed-scanning auto-collapses detail paragraphs to key sentences; when you slow down, context auto-expands. Not manual mode switching but AI real-time sensing reading intent. Typography expression: micro font-size adjustments, dynamic line-height, paragraph opacity gradients — all transitions so natural you barely notice the system adapting.",
+      "tags": [
+        "Adaptive Reading",
+        "Smart Collapse",
+        "Reading AI",
+        "Dynamic Typography"
+      ],
+      "link": "https://dribbble.com/shots/27410285-Adaptive-Reading-Density-UI",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「反算法排版」— 手工杂志美学在数字产品中的爆发",
+      "body": "2026 年 Q2 最有趣的内容设计反趋势：越来越多的 newsletter 和独立媒体开始刻意使用「不完美排版」——手写标注、不规则网格、scrapbook 式的图文叠加、甚至扫描质感的背景纹理。这是对 AI 生成内容的审美反叛：当所有 AI 排版都是完美的 8px 间距和标准字号比例时，「看起来像人手做的」本身成为了品质信号。Substack 和 Beehiiv 上的头部创作者正在引领这个趋势。",
+      "body_en": "Q2 2026's most interesting content design counter-trend: more newsletters and indie media deliberately using 'imperfect typography' — handwritten annotations, irregular grids, scrapbook-style image-text overlaps, even scan-texture backgrounds. Aesthetic rebellion against AI-generated content: when all AI layouts have perfect 8px spacing and standard type ratios, 'looking handmade' itself becomes a quality signal. Top Substack and Beehiiv creators are leading this trend.",
+      "tags": [
+        "Anti-Algorithm",
+        "Handmade",
+        "Newsletter",
+        "Scrapbook"
+      ],
+      "link": "https://www.behance.net/gallery/242015678/Handmade-Digital-Editorial-Design-2026",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/13725739/file/still-58e65ffa656f6783cd915f1cb0945eba.gif?resize=400x0",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 长文摘要的「时间轴」呈现 — 叙事结构可视化",
+      "body": "一种新兴的长文内容组件：AI 分析文章的叙事结构后，生成一条水平时间轴/论证轴，标注关键论点、转折点和结论。读者可以点击轴上的任何节点跳转到对应段落。不是简单的目录，而是「文章的骨架」可视化——让读者在开始阅读前就理解这篇文章「长什么样」。最佳实现：用高度变化表示段落的论证密度，高峰=核心论点。",
+      "body_en": "An emerging long-form content component: after AI analyzes article narrative structure, it generates a horizontal timeline/argument axis marking key arguments, turning points, and conclusions. Readers click any axis node to jump to the corresponding paragraph. Not a simple TOC but the 'article skeleton' visualized — letting readers understand the article's shape before reading. Best implementation: height variations represent argument density, peaks = core claims.",
+      "tags": [
+        "Narrative Structure",
+        "Timeline UI",
+        "Long-Form",
+        "Article Skeleton"
+      ],
+      "link": "https://dribbble.com/shots/27425890-Article-Structure-Timeline-Component",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "六月的 Content Design 出现了一个完美的辩证：一边是 Readwise 的 AI 自适应阅读（技术驱动的极致个性化），一边是手工杂志美学的爆发（反技术的审美主张）。这不矛盾——它们服务的是同一个需求的不同层面：AI 适应解决的是「效率」问题（让我更快找到需要的信息），手工美学解决的是「品味」问题（让我感觉这内容是有灵魂的）。长文时间轴组件是两者的交汇点——它用 AI 分析结构（技术），但呈现方式借鉴了纸媒的叙事节奏（美学）。2026 年做 Content Design 最聪明的策略：底层用 AI 优化信息架构（用户感知不到），表层保留人类的排版直觉和审美瑕疵（用户能感受到）。看不见的 AI + 看得见的人味 = 最高级的内容体验。",
+      "body_en": "June Content Design presents a perfect dialectic: on one side Readwise's AI adaptive reading (tech-driven extreme personalization), on the other handmade magazine aesthetics exploding (anti-tech aesthetic stance). Not contradictory — they serve different layers of the same need: AI adaptation solves 'efficiency' (find info faster), handmade aesthetics solves 'taste' (feel this content has soul). Long-form timeline component is their intersection — uses AI to analyze structure (tech) but presents it borrowing print media narrative rhythm (aesthetics). Smartest 2026 Content Design strategy: AI optimizing info architecture underneath (users can't perceive), preserving human typographic intuition and aesthetic imperfections on top (users can feel). Invisible AI + visible humanity = the highest-grade content experience.",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Claude Sonnet 4 — 对话 AI 的「思考可见性」设计",
+      "body": "Anthropic Claude 的最新界面引入了「Extended Thinking」的可视化：AI 思考过程不再是黑盒，而是以折叠面板形式展示思维链。设计上最值得学习的：思考过程用等宽字体+低对比度灰色呈现（暗示「这是草稿，不是最终答案」），最终输出用正文字体+全对比度。用排版本身编码信息的确定性层级。",
+      "body_en": "Anthropic Claude's latest interface introduces 'Extended Thinking' visualization: AI reasoning is no longer a black box but shown in collapsible panels. Design lesson: thinking process uses monospace font + low-contrast grey (signaling 'this is draft, not final answer'), final output uses body font + full contrast. Encoding information certainty hierarchy through typography itself.",
+      "tags": [
+        "Thinking UI",
+        "Transparency",
+        "Typography Encoding",
+        "AI Reasoning"
+      ],
+      "link": "https://www.anthropic.com/claude",
+      "linkText": "Anthropic",
+      "image": "https://cdn.dribbble.com/userupload/46797862/file/still-97001c2f52a5da46dea8ac17bf3afb6e.png",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「上下文面包屑」— 让 AI 的注意力可见",
+      "body": "2026 年 Q2 顶级 AI 产品的新设计模式：展示 AI 当前「关注」了哪些信息源。Cursor 显示正在参考的代码文件、Perplexity 显示正在阅读的网页、Notion AI 显示正在参考的笔记——这些「上下文面包屑」让用户理解 AI 为什么给出这个答案。视觉上：用小型标签云或水平胶囊列表呈现，点击可展开详情。这是 Explainable AI 从金融领域向通用 AI 产品的渗透。",
+      "body_en": "Q2 2026 top AI product new design pattern: showing which information sources AI is currently 'attending to.' Cursor shows referenced code files, Perplexity shows pages being read, Notion AI shows referenced notes — these 'context breadcrumbs' help users understand why AI gave this answer. Visually: small tag clouds or horizontal capsule lists, expandable on click. Explainable AI permeating from finance to general AI products.",
+      "tags": [
+        "Context Breadcrumb",
+        "Explainable AI",
+        "Source Viz",
+        "Attention UI"
+      ],
+      "link": "https://dribbble.com/shots/27445230-AI-Context-Sources-Breadcrumb-UI",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43031179/file/original-f059e3209673ba9874a301a18f233c88.png?resize=752x&vertical=center",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Figma AI — 设计工具中 AI 介入的「边界感」设计",
+      "body": "Figma 2026 的 AI 功能设计值得深入研究：AI 生成的元素有专属的紫色虚线边框（区别于人类创建的实线），hover 时显示「AI generated — click to accept」。被接受后虚线变实线，颜色从紫色渐变回默认黑色。这个 2 秒的微交互编码了整套人机协作哲学：AI 的产出是「提案」而非「定稿」，需要人类的主动确认才成为设计的一部分。",
+      "body_en": "Figma 2026 AI feature design deserves deep study: AI-generated elements have a distinctive purple dashed border (vs human-created solid lines), hover reveals 'AI generated — click to accept.' After acceptance, dashes solidify and purple fades to default black. This 2-second micro-interaction encodes an entire human-AI collaboration philosophy: AI output is 'proposal' not 'final,' requiring active human confirmation to become part of the design.",
+      "tags": [
+        "Figma AI",
+        "Boundary Design",
+        "Purple Dashed",
+        "Confirmation UX"
+      ],
+      "link": "https://www.behance.net/gallery/242100567/Figma-AI-Collaboration-UX-Study",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-06-05"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "六月的 Visual for AI 三个发现，共同指向一个正在成型的设计原则：「AI 的痕迹应该是可见的，直到被人类主动消除」。Claude 的思考过程用低对比度灰色展示（可见但不干扰），Cursor/Perplexity 的上下文面包屑让 AI 的注意力可见，Figma 的紫色虚线让 AI 生成物可辨识。三者有一个共同的设计哲学：AI 的参与不应该是隐形的——它需要被标记、被看见、被确认。这和三月讨论的「反人格化」趋势一脉相承，但更进一步：不只是不假装是人，还要主动暴露「我是 AI，这是我做的」。为什么这很重要？因为只有当用户能区分 AI 的产出和自己的产出时，他们才真正拥有对最终结果的主权。2026 年 AI 视觉设计最深层的伦理命题：透明不只是功能，是尊重。",
+      "body_en": "June's three Visual for AI findings point to an emerging design principle: 'AI's trace should be visible until actively dismissed by humans.' Claude shows thinking in low-contrast grey (visible but non-intrusive), Cursor/Perplexity context breadcrumbs make AI attention visible, Figma's purple dashes make AI-generated elements identifiable. Shared philosophy: AI participation shouldn't be invisible — it needs marking, seeing, confirming. Extends March's de-personification trend further: not just not pretending to be human, but actively exposing 'I am AI, this is my work.' Why it matters: only when users can distinguish AI output from their own do they truly own sovereignty over the final result. 2026 AI visual design's deepest ethical thesis: transparency isn't just a feature, it's respect.",
+      "date": "2026-06-05"
     }
   ]
 }
