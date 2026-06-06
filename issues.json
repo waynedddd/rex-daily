@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-06-06",
+    "section": "design",
+    "title": {
+      "zh": "2026年AI设计工具格局定型：Figma Make生态锁定、Motiff代码导出、Visily零门槛——三层市场并行，\"设计师工具栈\"概念正式诞生",
+      "en": "2026 AI Design Tool Landscape Crystallizes: Figma Make Ecosystem Lock-in, Motiff Code Export, Visily Zero-Barrier — Three Parallel Markets Emerge, 'Designer Tool Stack' Concept Is Born"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma官方定义2026年AI设计工具格局：Make居首，强调\"AI+设计+开发一体化\"闭环</strong> — Figma资源库发布权威指南，将Figma Make定位为\"prompt-to-code generation\"工具，强调设计系统集成和高级编辑工具。UX Pilot紧随其后，提供UX研究、AI设计评审和预测热力图。值得注意的是：Figma正在<strong>定义品类标准</strong>——当平台方自己写\"行业工具指南\"时，它既是裁判又是选手。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Top AI Tools for UX Designers in 2026 — Figma</a></small></li><li><strong>独立深度对比：9款AI UI工具实测——Figma Make $16/月 vs Motiff $20/月 vs Visily $14/月，三种定位三种战略</strong> — Toools.design独立评测揭示竞争格局已分化：Figma Make靠生态整合（设计系统+团队协作），Motiff靠代码质量（原生React/HTML导出），Visily靠低门槛（1500+模板、截图转设计）。核心洞察：<strong>价格差异只有$6/月，真正的差异化在于\"你是谁\"——专业设计师、开发者、还是非设计背景的PM。</strong><br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">9 Best AI Tools for UI/UX Designers in 2026 — Toools.design</a></small></li><li><strong>Medium设计师实战分享：\"我实际在UX工作流中使用的8款AI工具\"——从研究到原型到测试全链路AI化</strong> — 设计师Tolulope分享完整AI工作流栈：不是\"哪个工具最好\"，而是\"如何把多个AI工具串成流水线\"。这标志着设计行业正在从\"选一个AI工具\"进化为\"构建AI工具栈\"——类似开发者从\"选一个IDE\"进化为\"配置开发环境\"。<br><small>来源：<a href=\"https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d\">The 8 Top AI Tools I Actually Use in My UX Design Workflow (2026) — Muzli</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这三篇文章放在一起看，讲的是同一个故事：<strong>AI设计工具市场已经过了\"百花齐放\"阶段，格局正在定型。</strong></p><p>让我用一个类比：2010年代的设计工具是\"Sketch vs Figma vs Adobe XD\"的三国杀，最终Figma通过协作和浏览器优势统一了市场。2026年的AI设计工具不会重复这个模式——不会有一个工具统一所有场景。为什么？因为AI改变了\"工具\"的定义。</p><p>过去，设计工具是一个\"画布\"——你在上面完成所有操作。现在，AI设计工具更像是\"专家\"——每个专家擅长不同的事。Figma Make擅长\"在你现有设计系统里快速迭代\"，Motiff擅长\"把设计直接变成可用的React代码\"，UX Pilot擅长\"用AI做可用性预测\"。你不会只雇一个专家，你会雇一个团队。</p><p><strong>这就是为什么\"AI工具栈\"的概念正在诞生。</strong>Tolulope的分享不是在推荐\"最好的工具\"，而是在展示如何把8个工具编排成一条流水线。这对设计师的要求变了：过去你需要精通一个工具（Figma），现在你需要精通<strong>工具编排</strong>——知道什么场景用什么工具，如何让它们的输出互相衔接。</p><p>Figma的策略最值得警惕。当它自己写\"行业AI工具指南\"并把Make放在第一位时，它在做的事是：<strong>在用户心智中建立\"Figma = AI设计平台\"的等式，同时把竞争对手定义为\"细分工具\"。</strong>如果你接受了Figma的叙事，那Motiff就只是\"一个代码导出工具\"，Visily就只是\"一个给非设计师用的简化版\"。这是平台权力的体现：不只是做产品，还要定义品类。</p><p>我的预测：6个月内会出现\"AI Design Stack Manager\"类产品——帮你管理多个AI设计工具之间的工作流编排，就像Zapier管理SaaS工具之间的数据流。谁先做出来，谁就抓住了\"设计工具碎片化\"的红利。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma defines the 2026 AI design tool landscape: Make leads, emphasizing 'AI + design + dev' closed loop</strong> — Platform becomes both referee and player by publishing industry tool guides.</li><li><strong>Independent comparison: 9 AI UI tools — $16 vs $20 vs $14/month, three positions, three strategies</strong> — Differentiation isn't price, it's 'who you are' — pro designer, developer, or non-design PM.</li><li><strong>Designer workflow share: 8 AI tools in actual UX workflow — full pipeline from research to prototype to testing</strong> — Industry evolving from 'pick one tool' to 'build a tool stack.'</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Top AI Tools for UX Designers in 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "9 Best AI Tools for UI/UX Designers 2026 — Toools.design",
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bebf9c2f3d062871b3c4_best-ai-tools-ui-ux-designers-2026.webp"
+      },
+      {
+        "title": "The 8 Top AI Tools I Actually Use in My UX Design Workflow (2026) — Muzli",
+        "url": "https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-06-06",
+    "section": "tech",
+    "title": {
+      "zh": "Apple×Google联姻尘埃落定：Gemini成为Siri底层AI引擎，OpenAI出局——AI平台战进入\"基础设施绑定\"新阶段",
+      "en": "Apple × Google Marriage Sealed: Gemini Becomes Siri's AI Foundation, OpenAI Sidelined — AI Platform War Enters 'Infrastructure Lock-in' Phase"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Apple正式选择Google Gemini作为新版Siri的AI基础引擎：多年合作协议，预计每年支付$10亿+</strong> — Apple和Google宣布多年期合作，Gemini将成为未来Siri的基础AI技术。Apple计划使用1.2万亿参数的定制Gemini模型。这意味着全球超过20亿台Apple设备的AI能力将由Google提供底层支撑。对OpenAI是重大打击——Apple曾使用OpenAI模型驱动部分Apple Intelligence功能，但现在选择了Google作为主要合作伙伴。<br><small>来源：<a href=\"https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html\">Apple picks Google's Gemini to run AI-powered Siri — CNBC</a></small></li><li><strong>Fortune分析：Google-Apple交易为什么让OpenAI陷入困境——平台分发才是AI竞争的终极壁垒</strong> — Fortune深度分析指出：模型能力差距正在缩小，真正的竞争壁垒是<strong>分发渠道</strong>。Google通过搜索（全球90%份额）+Android（30亿设备）+现在的Apple Siri，实现了AI模型的\"无处不在\"。OpenAI有最好的品牌认知，但缺少硬件和系统级入口。<br><small>来源：<a href=\"https://fortune.com/2026/01/13/apple-ai-deal-with-google-gemini-means-for-google-apple-openai\">Why Google wins big in Apple AI deal — Fortune</a></small></li><li><strong>Anthropic与Microsoft合作Maia 200 AI芯片 + NVIDIA AI系统成本飙升至$780万/台（内存成本占25%）</strong> — AI基础设施层面两条重要动态：Anthropic选择与Microsoft的定制AI芯片Maia 200合作（降低对NVIDIA依赖）；NVIDIA最新AI系统单台成本达$780万，其中内存成本暴增485%。信号：<strong>AI竞赛正在从\"谁的模型更好\"转向\"谁能承担得起基础设施成本\"。</strong><br><small>来源：<a href=\"https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html\">Anthropic-Microsoft Maia 200 AI chip collaboration — CNBC</a> | <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece\">NVIDIA AI system costs soar — Tom's Hardware</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Apple选Google弃OpenAI这件事，表面是一个商业合作新闻，底下是AI行业权力格局的重新排列。让我拆解为什么这比\"谁的模型更强\"重要得多。</p><p><strong>第一层：分发 > 模型。</strong>OpenAI的ChatGPT可能是最知名的AI品牌，GPT系列模型在能力上也不逊于Gemini。但Apple选了Google。为什么？因为Google能提供的不只是模型——它有云基础设施（GCP）、有搜索数据飞轮、有Android生态经验、有在设备端部署AI的技术积累（Tensor芯片）。OpenAI有的是模型和品牌，但<strong>缺少系统级整合能力</strong>。这给所有AI创业者一个残酷的教训：在AI商业化阶段，\"最好的模型\"不等于\"最大的市场份额\"。分发渠道、系统集成、商业关系——这些\"无聊\"的东西比论文里的benchmark分数值钱得多。</p><p><strong>第二层：Google的\"Android策略\"正在AI领域重演。</strong>回忆一下：Google如何赢得移动互联网？不是做最好的手机，而是把Android免费给所有OEM，然后通过搜索+Play Store变现。现在同样的剧本：把Gemini（几乎）免费给Apple、给开发者（每日1000次调用）、给所有需要AI的终端——然后通过数据、广告和生态变现。对比OpenAI的商业模式（$20/月订阅+API按量付费），Google的打法更具规模效应。</p><p><strong>第三层：基础设施成本是新的准入门槛。</strong>NVIDIA单台AI系统$780万、内存成本暴增485%——这些数字说明：<strong>AI竞赛正在变成一场资本密集型战争。</strong>小玩家即使有好模型，也未必能承担推理基础设施成本。Anthropic选择Microsoft的Maia芯片正是为了降低对NVIDIA的依赖——但这也意味着它在基础设施层面更深地绑定了Microsoft。每一个AI公司都在被迫选边站：你用谁的芯片、谁的云、谁的分发渠道——这些选择将在未来5年决定谁活下来。</p><p>我的判断：2026年底之前，AI行业会从\"千模大战\"收敛为3-4个全栈平台（Google、Microsoft+OpenAI/Anthropic、Meta、可能加上Amazon）。独立AI公司的生存空间正在被系统性压缩。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Apple officially picks Google Gemini for next-gen Siri: multi-year deal, ~$1B/year</strong> — 2B+ Apple devices to run on Google AI. Major blow to OpenAI's platform ambitions.</li><li><strong>Fortune analysis: distribution > model quality in AI competition</strong> — Google's moat is Search + Android + now Siri. OpenAI has brand but lacks system-level access.</li><li><strong>Anthropic-Microsoft Maia 200 chip + NVIDIA systems hit $7.8M each (memory costs +485%)</strong> — AI race shifts from 'who has better models' to 'who can afford infrastructure.'</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Apple picks Google's Gemini to run AI-powered Siri — CNBC",
+        "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108251190-1768231661465-gettyimages-2252639381-dellatorre-notitle251222_npwev.jpeg?v=1769815846&w=1920&h=1080"
+      },
+      {
+        "title": "Why Google wins big in Apple AI deal — Fortune",
+        "url": "https://fortune.com/2026/01/13/apple-ai-deal-with-google-gemini-means-for-google-apple-openai",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-1500910680-e1768339061314.jpg?resize=1200,600"
+      },
+      {
+        "title": "Anthropic-Microsoft Maia 200 AI chip — CNBC",
+        "url": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
+        "image": ""
+      },
+      {
+        "title": "NVIDIA AI system costs soar — Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+        "image": ""
+      }
+    ],
+    "cover": "https://image.cnbcfm.com/api/v1/image/108251190-1768231661465-gettyimages-2252639381-dellatorre-notitle251222_npwev.jpeg?v=1769815846&w=1920&h=1080"
+  },
+  {
     "date": "2026-06-05",
     "section": "design",
     "title": {
