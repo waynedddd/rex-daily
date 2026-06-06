@@ -3,6 +3,66 @@
     "date": "2026-06-06",
     "section": "design",
     "title": {
+      "zh": "Figma Weave正式发布：从设计工具到AI媒体生产平台——20+工作流覆盖图像/视频/音频，设计师的角色边界再次被重新定义",
+      "en": "Figma Weave Officially Launches: From Design Tool to AI Media Production Platform — 20+ Workflows Covering Image/Video/Audio, Designer Role Boundaries Redefined Again"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma正式发布Weave：收购Weavy后的AI-Native媒体生产平台，20+工作流覆盖图像、视频、音频生成</strong> — Figma通过收购Weavy推出Figma Weave，定位为\"AI workflows for imagery, video, audio, and more\"。核心理念：prompt不是终点，而是起点——用户可以组合多个AI模型、控制每一步、并规模化生产。创始人Itay Schiff表示：\"我们看到了媒体生产的新范式需求。\"<br><small>来源：<a href=\"https://itwire.com/guest-articles/company-news/reintroducing-figma-weave-with-20-new-workflows-for-ai-native-design\">Reintroducing Figma Weave with 20+ new workflows — iTWire</a></small></li><li><strong>LogRocket深度评测：2026年Figma AI全景——内容生成、图像编辑、智能搜索、UI起稿、代码交付、全站创建六大能力矩阵</strong> — 完整梳理Figma 2026年AI功能栈：Replace Content（内容填充）、Make an Image（图像生成）、First Draft（UI起稿）、Add Interactions（交互自动化）、Figma Sites（全站发布）。结论：Figma已从\"设计协作工具\"进化为\"AI驱动的产品构建平台\"。<br><small>来源：<a href=\"https://blog.logrocket.com/ux-design/figma-ai-2026-quick-overview\">Figma AI in 2026: Everything it can do — LogRocket</a></small></li><li><strong>LinkedIn热议：Figma收购Weavy意味着AI从\"灵感火花\"变为\"生产级工具\"——设计与内容生产的边界正在消失</strong> — 多位设计师在LinkedIn讨论：过去AI是\"good enough\"的灵感来源，现在Figma+Weavy要让AI达到\"production-ready\"标准。核心变化：设计师不再只是界面设计者，而是<strong>AI媒体生产流水线的编排者</strong>。<br><small>来源：<a href=\"https://www.linkedin.com/posts/mehmetturan_figma-acquires-weavy-a-workflow-tool-with-activity-7390312100587302912-6h3P\">Figma x Weavy LinkedIn讨论</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma Weave的发布让我想到一个问题：<strong>设计工具公司到底想成为什么？</strong></p><p>回顾Figma的进化路径：2016年它是\"浏览器里的Sketch\"，2020年变成\"设计协作平台\"，2024年加了AI变成\"AI辅助设计工具\"，现在2026年通过Weave变成了\"AI媒体生产平台\"。每一步都在扩张设计师的能力边界——但同时也在模糊\"设计师\"这个角色的定义。</p><p>Weave的关键词不是\"设计\"，而是\"生产\"(production)。它覆盖图像、视频、音频——这些传统上属于摄影师、视频编辑、音效师的领地。Figma的野心很清晰：<strong>它不想只服务设计师，它想服务所有\"创造视觉和媒体内容\"的人。</strong>这和Adobe的战略直接撞车。</p><p>但更深层的变化在于工作流的本质改变。过去的设计工具是\"画布+工具栏\"——你手动操作每一个像素。Weave的模式是\"工作流编排\"——你定义步骤、选择模型、设置参数，然后AI批量执行。这不是\"用AI辅助设计\"，这是\"把设计变成一条可编程的生产线\"。</p><p>对设计师的影响是双面的。好的一面：你的产出速度和范围大幅扩张，一个设计师可以同时产出UI、营销图片、产品视频。坏的一面：如果你的核心竞争力只是\"能熟练操作工具\"，你的护城河正在被填平——因为\"编排AI工作流\"的技能门槛远低于\"精通Photoshop+Premiere+After Effects\"。</p><p>我的预测：12个月内，\"Design Engineer\"这个角色会进一步分化为两个方向——\"AI Design Orchestrator\"（擅长编排多个AI模型的工作流）和\"Craft Specialist\"（在特定领域保持人工精度的手艺人）。大多数商业设计工作会流向前者，后者会成为高端定制市场的溢价技能。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma launches Weave: AI-native media production platform with 20+ workflows for image, video, audio</strong> — Prompts are starting points, not endpoints. Designers become production pipeline orchestrators.</li><li><strong>LogRocket review: Figma AI 2026 full landscape — six capability pillars from content gen to full-site creation</strong> — Figma evolved from design collaboration tool to AI-driven product building platform.</li><li><strong>LinkedIn buzz: Figma × Weavy means AI moves from 'inspiration spark' to 'production-ready'</strong> — The boundary between design and content production is dissolving.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Reintroducing Figma Weave with 20+ new workflows — iTWire",
+        "url": "https://itwire.com/guest-articles/company-news/reintroducing-figma-weave-with-20-new-workflows-for-ai-native-design",
+        "image": "https://itwire.com/media/i/4d/89/8d922fab91cbb76585bbcc41.jpg"
+      },
+      {
+        "title": "Figma AI in 2026: Everything it can do — LogRocket",
+        "url": "https://blog.logrocket.com/ux-design/figma-ai-2026-quick-overview",
+        "image": "https://blog.logrocket.com/wp-content/uploads/2024/07/Figma-AI-A-quick-overview-1.png"
+      },
+      {
+        "title": "Figma x Weavy — LinkedIn Discussion",
+        "url": "https://www.linkedin.com/posts/mehmetturan_figma-acquires-weavy-a-workflow-tool-with-activity-7390312100587302912-6h3P",
+        "image": ""
+      }
+    ],
+    "cover": "https://itwire.com/media/i/4d/89/8d922fab91cbb76585bbcc41.jpg"
+  },
+  {
+    "date": "2026-06-06",
+    "section": "tech",
+    "title": {
+      "zh": "AI编程大战白热化：Claude Opus 4.8发布、Microsoft/Google正面挑战Anthropic/OpenAI——代码能力成为模型竞争的核心战场",
+      "en": "AI Coding War Intensifies: Claude Opus 4.8 Launches, Microsoft/Google Directly Challenge Anthropic/OpenAI — Coding Becomes the Core Model Battleground"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Anthropic发布Claude Opus 4.8：编码和推理能力全面升级，巩固\"AI编程之王\"地位</strong> — 5月28日发布的Opus 4.8在编码、推理和复杂任务处理上全面提升。Anthropic的策略越来越清晰：不追求通用AGI叙事，而是深耕编程这个最先产生商业价值的垂直场景。<br><small>来源：<a href=\"https://www.anthropic.com/news\">Introducing Claude Opus 4.8 — Anthropic Newsroom</a></small></li><li><strong>CNBC：Microsoft和Google正面进军AI编程模型，直接挑战Anthropic和OpenAI的统治地位</strong> — CNBC报道指出，AI竞争正从\"通用聊天\"转向\"编程生产力\"。原因：编程是目前AI最能直接变现的场景——企业愿意为提升开发者效率付费。Microsoft（通过GitHub Copilot生态）和Google（通过Gemini Code）正在加大投入，不再甘心只做\"API分发平台\"。分析师引述：\"Anthropic之所以all-in编程，是因为他们理解AI前沿正在向代码方向移动。\"<br><small>来源：<a href=\"https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html\">Microsoft and Google take on Anthropic and OpenAI in AI coding models — CNBC</a></small></li><li><strong>GPT-5.5与Gemini Spark同期曝光：三大AI巨头同步升级，\"模型迭代周期\"从半年压缩到6-8周</strong> — YouTube科技频道梳理：Claude 4.8、GPT-5.5、Gemini Spark几乎同时出现，标志着AI模型迭代进入\"军备竞赛\"加速阶段。值得关注的不只是单个模型的能力提升，而是<strong>迭代节奏本身在加快</strong>——这对下游开发者和企业意味着更高的适配成本。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=zBmbETfTAG4\">Claude 4.8, Gemini Spark & GPT-5.5 Explained — YouTube</a></small></li></ul><h3>🧠 Rex's Take</h3><p>\"编程是AI的killer app\"——这句话在2026年6月已经从预测变成了共识。但共识背后的博弈比表面更复杂。</p><p><strong>为什么所有人都在抢编程？</strong>答案很简单：这是目前唯一一个AI能直接产生可量化商业回报的场景。一个企业用ChatGPT写营销文案，很难算清ROI。但一个开发团队用AI编程助手把开发效率提升30%——这直接反映在人力成本节省上。所以编程成了AI商业化的\"第一战场\"。</p><p><strong>Anthropic的策略值得细品。</strong>当OpenAI追求\"AGI\"叙事、Google追求\"everywhere\"策略时，Anthropic选择了一条更窄但更深的路：<strong>成为开发者最信赖的AI编程伙伴。</strong>Claude Opus 4.8不是在所有benchmark上都第一，但在复杂代码推理和大型项目理解上持续领先。这是一种\"专家品牌\"策略——不做所有人的工具，做最好开发者的首选工具。这解释了为什么Wayne等重度开发者用的就是Claude。</p><p><strong>Microsoft和Google的入场改变了什么？</strong>过去Anthropic和OpenAI在AI编程领域几乎是\"双寡头\"（Claude + ChatGPT/Copilot）。但Microsoft正在把Copilot从\"VSCode插件\"升级为\"全栈开发AI\"，Google的Gemini Code也在快速迭代。区别在于：<strong>Microsoft和Google有分发优势（Azure/GCP + IDE生态），而Anthropic有模型质量优势。</strong>这和设计工具领域的格局惊人相似——平台方（Figma）vs 专精工具（Motiff）的战争，在AI编程领域以更大规模重演。</p><p>模型迭代加速到6-8周一个版本，对整个行业意味着什么？<strong>选择AI供应商变得越来越像选择\"不断更新的操作系统\"而非\"买一个固定产品\"。</strong>企业需要的不是\"最好的模型\"，而是\"最稳定的进化节奏+最低的迁移成本\"。这正是Microsoft的长期优势——没人比它更懂企业级软件的升级管理。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Anthropic launches Claude Opus 4.8: major coding and reasoning upgrades</strong> — Doubling down on programming as AI's first commercially viable vertical.</li><li><strong>CNBC: Microsoft and Google enter AI coding model war against Anthropic/OpenAI</strong> — Competition shifts from 'general chat' to 'developer productivity.' Distribution vs model quality battle.</li><li><strong>GPT-5.5 and Gemini Spark emerge simultaneously: model iteration cycle compresses to 6-8 weeks</strong> — The arms race itself is accelerating, raising adaptation costs for downstream developers.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Introducing Claude Opus 4.8 — Anthropic Newsroom",
+        "url": "https://www.anthropic.com/news",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+      },
+      {
+        "title": "Microsoft and Google take on Anthropic and OpenAI in AI coding models — CNBC",
+        "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108314167-1780095631300-gettyimages-2262969404-20090101260225-"
+      },
+      {
+        "title": "Claude 4.8, Gemini Spark & GPT-5.5 Explained — YouTube",
+        "url": "https://www.youtube.com/watch?v=zBmbETfTAG4",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+  },
+  {
+    "date": "2026-06-06",
+    "section": "design",
+    "title": {
       "zh": "2026年AI设计工具格局定型：Figma Make生态锁定、Motiff代码导出、Visily零门槛——三层市场并行，\"设计师工具栈\"概念正式诞生",
       "en": "2026 AI Design Tool Landscape Crystallizes: Figma Make Ecosystem Lock-in, Motiff Code Export, Visily Zero-Barrier — Three Parallel Markets Emerge, 'Designer Tool Stack' Concept Is Born"
     },
