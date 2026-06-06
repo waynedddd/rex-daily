@@ -13337,6 +13337,170 @@
       "body": "六月的 Visual for AI 三个发现，共同指向一个正在成型的设计原则：「AI 的痕迹应该是可见的，直到被人类主动消除」。Claude 的思考过程用低对比度灰色展示（可见但不干扰），Cursor/Perplexity 的上下文面包屑让 AI 的注意力可见，Figma 的紫色虚线让 AI 生成物可辨识。三者有一个共同的设计哲学：AI 的参与不应该是隐形的——它需要被标记、被看见、被确认。这和三月讨论的「反人格化」趋势一脉相承，但更进一步：不只是不假装是人，还要主动暴露「我是 AI，这是我做的」。为什么这很重要？因为只有当用户能区分 AI 的产出和自己的产出时，他们才真正拥有对最终结果的主权。2026 年 AI 视觉设计最深层的伦理命题：透明不只是功能，是尊重。",
       "body_en": "June's three Visual for AI findings point to an emerging design principle: 'AI's trace should be visible until actively dismissed by humans.' Claude shows thinking in low-contrast grey (visible but non-intrusive), Cursor/Perplexity context breadcrumbs make AI attention visible, Figma's purple dashes make AI-generated elements identifiable. Shared philosophy: AI participation shouldn't be invisible — it needs marking, seeing, confirming. Extends March's de-personification trend further: not just not pretending to be human, but actively exposing 'I am AI, this is my work.' Why it matters: only when users can distinguish AI output from their own do they truly own sovereignty over the final result. 2026 AI visual design's deepest ethical thesis: transparency isn't just a feature, it's respect.",
       "date": "2026-06-05"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 实时风险叙事 — 从数字到故事的金融 UX 进化",
+      "body": "2026 年 6 月，Goldman Sachs 和 JPMorgan 的零售投资平台同时上线了「AI 风险叙事」功能：不再用百分比和标准差吓人，而是用自然语言讲述投资组合的「天气预报」——「你的组合目前处于平稳期，类似 2024 年 Q3 的市场状态。历史上这种状态平均持续 6-8 周后进入波动期。建议检查你的止损设置。」视觉上用天气图标系统替代传统的红绿箭头——晴天/多云/暴风雨比 +2.3%/-1.7% 更直觉。",
+      "body_en": "June 2026: Goldman Sachs and JPMorgan retail investment platforms both launch AI Risk Narrative — replacing percentages and standard deviations with natural language portfolio weather forecasts. Visual weather icon system replaces traditional red/green arrows — sunny/cloudy/stormy is more intuitive than +2.3%/-1.7%.",
+      "tags": [
+        "Risk Narrative",
+        "Weather Metaphor",
+        "Natural Language Finance",
+        "Retail Investing"
+      ],
+      "link": "https://dribbble.com/search/ai-risk-dashboard-finance",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80",
+      "date": "2026-06-06"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 订阅管理器 — 隐形支出的可视化审计",
+      "body": "Rocket Money 和 Trim 的 2026 设计更新把 AI 订阅管理推向新高度：不只列出你的订阅，而是用「堆叠时间轴」可视化每笔订阅的累积成本。最震撼的设计：一个动画把你过去 12 个月的 Netflix+Spotify+iCloud+各种 SaaS 的总支出从月付视角切换到年付视角——当 ¥29/月 变成 ¥348/年 再乘以 12 个订阅，数字冲击力完全不同。AI 自动标注「使用频率低于 2 次/月」的订阅，用渐淡的透明度暗示「这个可能不值」。",
+      "body_en": "Rocket Money and Trim 2026 updates push AI subscription management to new heights. Stacked timeline visualizes cumulative cost. Most impactful design: animation switching from monthly to annual view — when ¥29/month becomes ¥348/year × 12 subscriptions, the numerical impact is completely different. AI auto-flags subscriptions used less than 2x/month with fading opacity suggesting not worth keeping.",
+      "tags": [
+        "Subscription Management",
+        "Cost Visualization",
+        "Timeline Stack",
+        "Behavioral Nudge"
+      ],
+      "link": "https://dribbble.com/search/subscription-management-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+      "date": "2026-06-06"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "六月初 Fintech 设计观察到的一个微妙转变：金融产品的「时间尺度设计」正在成为核心差异化。同样一笔支出，月视角和年视角给用户的感受天差地别。订阅管理器用时间轴切换制造「心理冲击」，风险叙事用天气预报的时间框架（未来 6-8 周）替代实时波动——都是在操控用户的「时间感知」来驱动行为。这不是新概念（行为经济学的「现时偏好」），但 AI 让它的执行精度提升了一个数量级：AI 知道什么时候给你看年度视角最有效（刚发工资时）、什么时候切换到日视角最不焦虑（市场平稳期）。金融 AI 设计的下一个战场不是「展示什么数据」，而是「在什么时间尺度上展示数据」。",
+      "body_en": "Early June fintech observation: financial products time-scale design is becoming core differentiation. Same expense feels completely different in monthly vs annual view. Subscription managers use timeline switching for psychological impact; risk narratives use weather forecast timeframes (next 6-8 weeks) to replace real-time volatility. Both manipulate users time perception to drive behavior. AI makes execution precision an order of magnitude better: knowing when annual view is most effective (just after payday), when daily view causes least anxiety (stable markets). Next fintech AI design battleground: not what data to show but at what time scale to show it.",
+      "date": "2026-06-06"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 热适应训练 — 气候智能的运动 UX",
+      "body": "六月高温季催生了一批「热适应训练」AI App。核心功能：根据实时温度、湿度、体感温度自动调整训练强度和补水提醒节奏。界面设计最聪明的地方：用「热力渐变条」实时叠加在训练时间轴上——从蓝色（安全）到橙色（注意）到红色（危险），让跑者在出门前就能看到今天哪个时段最适合训练。补水提醒不是固定间隔，而是 AI 根据出汗率模型动态计算的个性化节奏。",
+      "body_en": "June heat season spawns heat adaptation training AI apps. Core: auto-adjust intensity and hydration reminders based on real-time temperature/humidity. Smartest design: heat gradient bar overlaid on training timeline — blue (safe) to orange (caution) to red (danger), showing runners which time slots are best before they head out. Hydration reminders are AI-calculated personalized intervals based on sweat rate models, not fixed timers.",
+      "tags": [
+        "Heat Training",
+        "Climate AI",
+        "Hydration UX",
+        "Environmental Awareness"
+      ],
+      "link": "https://dribbble.com/search/weather-fitness-app-heat",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1523875194681-bedd468c58bf?w=1200&q=80",
+      "date": "2026-06-06"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动处方 — 医疗级健身推荐的设计合规",
+      "body": "2026 年 Q2 运动科技最重要的趋势：AI 运动处方正式进入医疗器械监管视野。当 AI 不只说「你应该多跑步」而是说「基于你的 HbA1c 指标，建议每周 150 分钟中等强度有氧+2 次抗阻训练」——这就从「健身建议」变成了「医疗处方」。设计层面的挑战：如何在界面上清晰区分「AI 健身建议」（免责）和「AI 运动处方」（医疗级），同时不让用户困惑？目前的方案是用徽章系统——带医疗认证标志的建议有不同的视觉权重和交互确认流程。",
+      "body_en": "Q2 2026 most important sports tech trend: AI exercise prescription enters medical device regulatory scope. When AI says based on your HbA1c, recommend 150min/week moderate aerobic + 2x resistance instead of you should run more — it becomes medical prescription. Design challenge: clearly distinguishing AI fitness advice (disclaimer) from AI exercise prescription (medical-grade) without confusing users. Current solution: badge system with different visual weight and confirmation flows for medically-certified recommendations.",
+      "tags": [
+        "Exercise Prescription",
+        "Medical AI",
+        "Regulatory Design",
+        "Badge System"
+      ],
+      "link": "https://www.behance.net/search/projects/AI%20health%20exercise%20medical",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=80",
+      "date": "2026-06-06"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 进入「医疗化」阶段是 2026 年最值得关注的行业转折点。过去运动 App 躲在「这不是医疗建议」的免责声明后面随便说；现在当 AI 真的能基于血液指标给出运动处方，监管就来了。这对设计的影响是根本性的——不只是加个 disclaimer 的问题，而是整个信息架构需要区分两种完全不同的内容等级。热适应训练 App 则暴露了另一个被忽视的设计维度：环境。过去运动 App 活在真空里——只关心用户的身体数据，不关心外部环境。但人不是在实验室里跑步的，气温、空气质量、紫外线指数都直接影响训练效果和安全。最好的运动 AI 设计需要从「身体传感器」扩展到「环境传感器」——用户的身体 × 外部世界的交叉才是完整的训练图景。",
+      "body_en": "Sports AI entering medicalization is 2026 most important industry inflection point. Previously fitness apps hid behind this is not medical advice disclaimers; now when AI genuinely prescribes exercise based on blood markers, regulation arrives. Design impact is fundamental — not just adding disclaimers but entire information architecture needs two distinct content tiers. Heat training apps reveal another overlooked dimension: environment. Past fitness apps existed in vacuum — only caring about body data, ignoring external environment. But people dont run in labs. Temperature, air quality, UV index directly affect training effectiveness and safety. Best sports AI design must expand from body sensors to environment sensors.",
+      "date": "2026-06-06"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 内容分层仪表盘 — 编辑团队的「信息温度计」",
+      "body": "大型内容团队开始用 AI 仪表盘监控内容生态的「健康度」。核心可视化：内容新鲜度热力图（哪些页面超过 90 天未更新）、主题覆盖度雷达图（竞对覆盖了什么你没写的）、用户停留时间分布（哪些内容被跳过）。最值得学习的设计决策：把三种数据用「温度」隐喻统一——热门内容是红色脉动，冷门内容是蓝色静止，过期内容用灰色碎裂纹理。整个仪表盘一眼就能感受内容生态的「活力状态」。",
+      "body_en": "Large content teams using AI dashboards to monitor content ecosystem health. Core visualizations: content freshness heatmap (pages not updated in 90+ days), topic coverage radar (what competitors cover that you dont), dwell time distribution (which content gets skipped). Best design decision: unifying three data types with temperature metaphor — hot content pulses red, cold content sits blue, stale content shows grey cracking texture. Entire dashboard communicates content ecosystem vitality at a glance.",
+      "tags": [
+        "Content Health",
+        "Editorial Dashboard",
+        "Freshness Heatmap",
+        "Temperature Metaphor"
+      ],
+      "link": "https://dribbble.com/search/content-dashboard-editorial-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80",
+      "date": "2026-06-06"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "AI 写作助手的「风格一致性引擎」— 品牌声音的自动化守护",
+      "body": "2026 年 Q2 内容设计工具的杀手功能：AI 风格一致性检测。不是 Grammarly 式的语法检查，而是检测「这段话听起来像你们品牌吗」。Writer.com 和 Jasper 的新引擎能识别语气偏移（正式→随意）、术语不一致（同一概念用了不同叫法）、甚至节奏断裂（前面短句密集、突然来一段长段落）。视觉上用波形图展示文章的「节奏轮廓」——好的品牌写作应该有一致的节奏签名，AI 帮你找到偏离的地方。",
+      "body_en": "Q2 2026 content tool killer feature: AI style consistency detection. Not grammar checking but detecting does this sound like your brand. Writer.com and Jasper engines identify tone drift (formal→casual), terminology inconsistency (same concept different names), rhythm breaks (dense short sentences then suddenly a long paragraph). Waveform visualization shows articles rhythm profile — good brand writing has a consistent rhythm signature, AI finds deviations.",
+      "tags": [
+        "Brand Voice",
+        "Style Consistency",
+        "Waveform Viz",
+        "Writing AI"
+      ],
+      "link": "https://www.behance.net/search/projects/AI%20writing%20brand%20voice%20consistency",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&q=80",
+      "date": "2026-06-06"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "内容设计在 2026 年 Q2 出现了一个有意思的「元设计」趋势：不只设计内容本身，而是设计「内容的监控和维护系统」。内容分层仪表盘和风格一致性引擎都是「meta-content design」——它们的用户不是读者，而是创作者和编辑。这意味着内容设计师的工作正在分裂为两层：第一层是「面向读者的内容设计」（排版、结构、可读性），第二层是「面向团队的内容运营设计」（仪表盘、工作流、质量标准可视化）。后者过去被归为「产品设计」或「数据分析」，但它本质上是内容设计的延伸——因为只有深度理解内容的人才能设计出真正有用的内容监控系统。波形图展示写作节奏是一个特别精妙的隐喻：它把主观的「品牌感觉」翻译成了客观的视觉模式，让「这篇文章不太对劲但我说不清哪里不对」变成了「第三段的节奏频率明显偏离了品牌基线」。",
+      "body_en": "Content design in Q2 2026 shows an interesting meta-design trend: not just designing content itself but designing content monitoring and maintenance systems. Content health dashboards and style consistency engines are meta-content design — their users arent readers but creators and editors. Content designers work is splitting into two layers: Layer 1 reader-facing content design (typography, structure, readability), Layer 2 team-facing content operations design (dashboards, workflows, quality standard visualization). The latter was previously bucketed as product design or data analytics but is essentially content design extension — only those who deeply understand content can design truly useful content monitoring systems.",
+      "date": "2026-06-06"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 的「人格光谱」视觉系统 — 从千篇一律到各有性格",
+      "body": "OpenAI GPTs、Claude Projects、Gemini Gems 的 2026 更新都开始支持自定义 AI Agent 的视觉人格。不再是统一的圆形头像+品牌色，而是一套「人格光谱」系统：严谨型 Agent 用几何线条+冷色+衬线体；创意型用有机形态+暖色+手写字体；分析型用网格+中性色+等宽字体。消息气泡的形状、动效的节奏、甚至打字速度都随人格变化。视觉人格不是装饰，是认知线索——用户靠视觉第一时间判断「这个 Agent 擅长什么」。",
+      "body_en": "OpenAI GPTs, Claude Projects, Gemini Gems 2026 updates support custom AI agent visual personality. No longer uniform circular avatars + brand color but a personality spectrum system: rigorous agents use geometric lines + cool colors + serif; creative types use organic shapes + warm colors + handwriting; analytical uses grid + neutral + monospace. Message bubble shape, animation rhythm, even typing speed change with personality. Visual personality isnt decoration — its cognitive cue for users to instantly judge what this agent is good at.",
+      "tags": [
+        "Agent Personality",
+        "Visual Spectrum",
+        "Cognitive Cue",
+        "Customization"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-personality-visual-design",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+      "date": "2026-06-06"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「注意力经济」可视化 — Token 消耗的透明设计",
+      "body": "随着 AI API 按 token 计费成为主流，2026 年 Q2 出现了一个新的 UI 模式：token 消耗可视化。Cursor、Windsurf 和 Replit 都在界面中加入了「token 仪表盘」——不是隐藏在设置里的余额数字，而是实时展示每次操作的 token 开销。设计上用「墨水瓶」隐喻——每次 AI 操作消耗一些墨水，复杂操作消耗多、简单操作消耗少。这把抽象的 API 成本变成了用户可以「感受」到的资源。意外的好处：用户开始学会「节约使用」——知道哪些操作贵、哪些便宜，形成更高效的 AI 使用习惯。",
+      "body_en": "As AI API token-based billing becomes mainstream, Q2 2026 sees new UI pattern: token consumption visualization. Cursor, Windsurf, Replit add token dashboards — not hidden balance numbers in settings but real-time display of each operation token cost. Ink bottle metaphor — each AI operation uses some ink, complex operations use more. Turns abstract API costs into resources users can feel. Unexpected benefit: users learn economy — knowing which operations are expensive shapes more efficient AI usage habits.",
+      "tags": [
+        "Token Economy",
+        "Usage Viz",
+        "Ink Metaphor",
+        "Cost Awareness"
+      ],
+      "link": "https://dribbble.com/search/ai-token-usage-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&q=80",
+      "date": "2026-06-06"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "六月的 Visual for AI 观察延续了一个核心主题：AI 产品正在从「功能差异化」走向「人格差异化」和「成本透明化」。Agent 人格光谱是上个月讨论的「反人格化 vs 人格化」辩论的第三条路——不是不给 AI 人格，也不是给它一个固定人格，而是让人格成为可配置的功能。这本质上是把「AI 的性格」从品牌决策降格为用户偏好设置——很聪明，因为不同用户对 AI 的期待本来就不同。Token 可视化则揭示了一个更深层的设计问题：当 AI 的「注意力」是有限且付费的资源，用户和 AI 的关系从「免费工具」变成了「按次付费的顾问」。这改变了一切——用户开始权衡「值不值得问 AI」，而界面需要帮助他们做这个判断。墨水瓶隐喻很妙：它把 token 的「消耗」变成了视觉上的「流失」，创造了天然的节约心理。最好的 AI 产品设计不只帮用户用好 AI，还帮用户用对 AI。",
+      "body_en": "June Visual for AI observations continue a core theme: AI products moving from feature differentiation to personality differentiation and cost transparency. Agent personality spectrum is a third path beyond last months personification debate — not no personality or fixed personality but personality as configurable feature. Essentially demoting AI character from brand decision to user preference setting. Token visualization reveals deeper design issue: when AI attention is limited and paid, the user-AI relationship shifts from free tool to pay-per-use consultant. Users start weighing is it worth asking AI and interfaces must help that judgment. Ink bottle metaphor is brilliant: it turns token consumption into visual depletion creating natural conservation psychology.",
+      "date": "2026-06-06"
     }
   ]
 }
