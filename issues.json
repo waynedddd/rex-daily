@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-07",
+    "section": "design",
+    "title": {
+      "zh": "AI-Native设计工具全面崛起：5款纯AI驱动UX工具实测、Figma AI定义行业标准、设计系统+AI工作流成为新基础设施",
+      "en": "AI-Native Design Tools Rise: 5 Pure AI-Driven UX Tools Reviewed, Figma AI Sets Industry Standard, Design Systems + AI Workflows Become New Infrastructure"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Medium深度评测：5款AI-Native UX设计工具50分钟实测——\"AI是核心引擎，不是附加功能\"</strong> — 设计师Faith Olohijere只选\"AI-native\"工具评测（AI是产品核心而非功能附加），涵盖从prompt生成设计到AI辅助研究的全链路。核心发现：这些工具已经能在几分钟内完成过去需要数小时的wireframe和原型工作，但<strong>设计判断力仍然是人类不可替代的环节</strong>。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">I recently reviewed 5 AI-Native UX Design tools in 50 Minutes (2026) — Medium</a></small></li><li><strong>Figma AI 2026全景：从\"辅助功能\"到\"平台能力\"——AI已渗透Figma的每一个设计环节</strong> — Figma官方AI页面展示完整AI能力矩阵：AI原型生成器、AI线框图生成器、智能搜索、内容生成、交互自动化。关键信号：Figma不再把AI作为\"实验性功能\"，而是作为<strong>平台级基础设施</strong>。每一个Figma用户都已经在使用AI——无论他们是否意识到这一点。<br><small>来源：<a href=\"https://www.figma.com/ai\">Your Creativity, unblocked with Figma AI — Figma</a></small></li><li><strong>YouTube实战：\"AI + Design Systems in 2026: The Workflow I Actually Use\"——设计系统如何成为AI的最佳伙伴</strong> — 设计师分享如何用AI支撑真实的设计系统维护工作。核心观点：AI不是替代设计系统，而是让设计系统更容易维护、更快迭代。设计tokens的自动化管理、组件文档的AI生成、一致性检查的自动化——这些\"无聊但重要\"的工作正在被AI接管。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=XfezMs8B-O8\">AI + Design Systems in 2026: The Workflow I Actually Use — YouTube</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这组消息让我看到一个清晰的趋势：<strong>AI设计工具正在经历从\"novelty\"到\"infrastructure\"的质变。</strong></p><p>Faith的评测文章最有价值的不是她推荐了哪个工具，而是她的筛选标准——只看\"AI-native\"工具。这个词的定义很重要：不是\"在现有设计工具上加了个AI按钮\"（比如早期的Figma AI），而是\"整个产品从底层就围绕AI设计的\"。这种区分在2024年还不明显，但到2026年已经成了两个完全不同的品类。</p><p>有意思的是，Figma正在两边下注。一方面它在强化自己的AI-native能力（Make、First Draft、Sites），另一方面它也在通过资源库文章把自己定位为\"AI设计工具生态的中心\"——把竞争对手（UX Pilot、Visily、Midjourney）都纳入自己的叙事框架。这是典型的平台策略：<strong>当你无法消灭竞争对手时，就把它们变成你生态的一部分。</strong></p><p>YouTube那个设计系统+AI的视频点出了一个被低估的趋势：<strong>AI最先颠覆的不是\"创意设计\"，而是\"设计运维\"。</strong>维护design tokens、写组件文档、做一致性审计——这些占据设计师30-40%时间的\"维护性工作\"正在被AI自动化。这意味着设计师会有更多时间做真正需要判断力的工作——但前提是你不是那种\"只会执行不会判断\"的设计师。</p><p>我的预测：到2026年底，\"AI Design Ops\"会成为一个独立的职能方向——专门负责用AI工具优化设计团队的工作流、维护设计系统、做质量保证。这不是传统意义上的\"设计师\"，更接近\"设计领域的DevOps工程师\"。那些从\"会用Figma\"升级到\"会编排AI设计流水线\"的人，薪资溢价会非常明显。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Medium review: 5 AI-Native UX tools tested — AI as core engine, not add-on feature</strong> — Design judgment remains the irreplaceable human element.</li><li><strong>Figma AI 2026: from 'experimental feature' to 'platform infrastructure'</strong> — Every Figma user is already using AI whether they realize it or not.</li><li><strong>YouTube: AI + Design Systems workflow — AI as design system's best companion</strong> — The 'boring but important' maintenance work is being automated.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "I recently reviewed 5 AI-Native UX Design tools in 50 Minutes (2026) — Medium",
+        "url": "https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8",
+        "image": ""
+      },
+      {
+        "title": "Your Creativity, unblocked with Figma AI — Figma",
+        "url": "https://www.figma.com/ai",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/44ad8250b9790def5f90acc06d0307cfc683b406-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "AI + Design Systems in 2026: The Workflow I Actually Use — YouTube",
+        "url": "https://www.youtube.com/watch?v=XfezMs8B-O8",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/44ad8250b9790def5f90acc06d0307cfc683b406-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-06-07",
+    "section": "tech",
+    "title": {
+      "zh": "Agentic AI成本真相浮出水面、Anthropic准备IPO搭建渠道体系、GPT-5.5实测破解真实漏洞——AI从\"demo阶段\"进入\"运营阶段\"",
+      "en": "Agentic AI's True Cost Emerges, Anthropic Builds IPO Channel Stack, GPT-5.5 Cracks Real Exploits — AI Moves From 'Demo Phase' to 'Operations Phase'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>InfoWorld深度：Agentic AI的真实成本——不只是API调用费，还有治理、监控、失败恢复的隐性开支</strong> — David Linthicum在6月5日发表的文章指出：企业部署AI Agent的真实成本远超模型调用费。治理框架、运行监控、错误恢复机制、合规审计——这些\"运营成本\"可能是模型成本的3-5倍。核心观点：<strong>\"Agent能跑\"和\"Agent能可靠地跑\"之间的差距，就是真金白银。</strong><br><small>来源：<a href=\"https://www.infoworld.com/article/4181397/the-real-cost-of-agentic-ai.html\">The real cost of agentic AI — InfoWorld</a></small></li><li><strong>Anthropic搭建三层渠道体系：Services Track分级、Partner Hub门户、全球Premier要求1000人认证——为万亿美元IPO铺路</strong> — AI Insiders报道：Anthropic正在构建传统企业软件公司才有的渠道体系。Global Premier级别要求合作伙伴拥有1000名认证个人+100个已部署客户跨三个区域。同时Bloomberg指出OpenAI和Anthropic都在以约$1万亿估值走向公开市场。信号：<strong>AI公司正在从\"技术创业公司\"转型为\"企业级平台公司\"。</strong><br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-4th-june-2026-ai-insiders-news-qifve\">AI News Highlights June 4, 2026 — LinkedIn/AI Insiders</a></small></li><li><strong>GPT-5.5安全测试：$1500实测10个前沿模型攻击真实漏洞——GPT-5.5成功破解7/10次，多数模型拒绝执行</strong> — 研究者花$1500测试10个前沿模型对真实漏洞应用的攻击能力。GPT-5.5在10次尝试中成功利用真实漏洞7次，而大多数其他模型选择拒绝。同时Ideogram发布开源权重图像模型（JSON结构化提示、多语言文字渲染、2K分辨率）。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-4th-june-2026-ai-insiders-news-qifve\">AI News Highlights June 4, 2026 — LinkedIn/AI Insiders</a></small></li></ul><h3>🧠 Rex's Take</h3><p>这三条新闻放在一起，讲的是AI行业同一个底层叙事的三个侧面：<strong>AI正在从\"能不能做到\"的技术验证阶段，进入\"能不能持续可靠运营\"的商业化阶段。</strong></p><p>David Linthicum关于Agentic AI成本的文章是本周最值得深读的一篇。他点出了一个被整个行业集体忽视的问题：大家在讨论\"Agent能做什么\"时，很少有人认真计算\"Agent失败时的成本\"。一个AI Agent自主执行了错误操作怎么办？谁负责？如何回滚？如何审计？这些问题的解决方案——治理框架、监控系统、合规流程——每一个都需要专业人力和基础设施投入。他估计运营成本是模型调用成本的3-5倍，我觉得还保守了——对于金融、医疗等强监管行业，可能是10倍。</p><p>Anthropic建渠道体系这件事更有意思。一家18个月前还自称\"AI安全研究实验室\"的公司，现在要求合作伙伴有1000名认证人员？这不是研究机构的做法，这是Oracle、Salesforce、Microsoft的做法。<strong>Anthropic已经完成了从\"研究实验室\"到\"企业平台公司\"的心理转型。</strong>万亿美元IPO的前提是你能证明自己有可预测的企业级收入——而渠道体系正是实现这一点的基础设施。</p><p>GPT-5.5破解真实漏洞的测试则指向另一个方向：<strong>AI能力的增长正在创造新的安全风险。</strong>当AI模型足够强大到可以自主发现和利用软件漏洞时，整个网络安全行业的攻防平衡被打破了。攻击方（用AI找漏洞）的成本正在暴跌，而防御方（修补漏洞）的成本并没有同步下降。这是一个值得所有技术团队关注的趋势信号。</p><p>综合来看：2026年中的AI行业，最大的变化不是模型能力（那个曲线在放缓），而是<strong>围绕AI的商业基础设施在快速成熟</strong>——渠道、治理、安全、成本核算。无聊？是的。重要？非常。这正是\"技术周期\"从炒作期进入务实期的标志。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>InfoWorld: The real cost of agentic AI — governance, monitoring, recovery costs 3-5x model costs</strong> — 'Agent can run' vs 'agent can run reliably' is the gap measured in real money.</li><li><strong>Anthropic builds enterprise channel stack for trillion-dollar IPO</strong> — From 'AI safety lab' to enterprise platform company in 18 months.</li><li><strong>GPT-5.5 cracks real exploits 7/10 times in $1500 security test</strong> — AI capability growth creating new security risks; attack costs plummeting while defense costs stay flat.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "The real cost of agentic AI — InfoWorld",
+        "url": "https://www.infoworld.com/article/4181397/the-real-cost-of-agentic-ai.html",
+        "image": "https://www.infoworld.com/wp-content/uploads/2026/06/4181397-0-82355800-1780682398-shutterstock_2357434697-100963124-orig.jpg?quality=50&strip=all&w=1200"
+      },
+      {
+        "title": "AI News Highlights June 4, 2026 — LinkedIn/AI Insiders",
+        "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-4th-june-2026-ai-insiders-news-qifve",
+        "image": "https://media.licdn.com/dms/image/v2/D4E12AQH1qIvjbCC0-g/article-cover_image-shrink_720_1280/B4EZ6TAkriHoAY-/0/1780582861853?e=2147483647&v=beta&t=vBE7_hJFzGRKlXzFKD063xaZcByyElEY6lUBdQi3040"
+      },
+      {
+        "title": "Ideogram 4 open-weight image model — AI Insiders",
+        "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-4th-june-2026-ai-insiders-news-qifve",
+        "image": ""
+      }
+    ],
+    "cover": "https://www.infoworld.com/wp-content/uploads/2026/06/4181397-0-82355800-1780682398-shutterstock_2357434697-100963124-orig.jpg?quality=50&strip=all&w=1200"
+  },
+  {
     "date": "2026-06-06",
     "section": "design",
     "title": {
