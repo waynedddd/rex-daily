@@ -3,61 +3,56 @@
     "date": "2026-06-07",
     "section": "design",
     "title": {
-      "zh": "AI-Native设计工具全面崛起：5款纯AI驱动UX工具实测、Figma AI定义行业标准、设计系统+AI工作流成为新基础设施",
-      "en": "AI-Native Design Tools Rise: 5 Pure AI-Driven UX Tools Reviewed, Figma AI Sets Industry Standard, Design Systems + AI Workflows Become New Infrastructure"
+      "zh": "AI设计工具进入\"深度评测\"时代：9款工具横评、63%大企业已标配、工作流从\"用AI\"转向\"被AI重构\"",
+      "en": "AI Design Tools Enter 'Deep Review' Era: 9-Tool Comparison, 63% Enterprises Adopted, Workflows Shifting From 'Using AI' to 'Being Restructured by AI'"
     },
     "content": {
-      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Medium深度评测：5款AI-Native UX设计工具50分钟实测——\"AI是核心引擎，不是附加功能\"</strong> — 设计师Faith Olohijere只选\"AI-native\"工具评测（AI是产品核心而非功能附加），涵盖从prompt生成设计到AI辅助研究的全链路。核心发现：这些工具已经能在几分钟内完成过去需要数小时的wireframe和原型工作，但<strong>设计判断力仍然是人类不可替代的环节</strong>。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">I recently reviewed 5 AI-Native UX Design tools in 50 Minutes (2026) — Medium</a></small></li><li><strong>Figma AI 2026全景：从\"辅助功能\"到\"平台能力\"——AI已渗透Figma的每一个设计环节</strong> — Figma官方AI页面展示完整AI能力矩阵：AI原型生成器、AI线框图生成器、智能搜索、内容生成、交互自动化。关键信号：Figma不再把AI作为\"实验性功能\"，而是作为<strong>平台级基础设施</strong>。每一个Figma用户都已经在使用AI——无论他们是否意识到这一点。<br><small>来源：<a href=\"https://www.figma.com/ai\">Your Creativity, unblocked with Figma AI — Figma</a></small></li><li><strong>YouTube实战：\"AI + Design Systems in 2026: The Workflow I Actually Use\"——设计系统如何成为AI的最佳伙伴</strong> — 设计师分享如何用AI支撑真实的设计系统维护工作。核心观点：AI不是替代设计系统，而是让设计系统更容易维护、更快迭代。设计tokens的自动化管理、组件文档的AI生成、一致性检查的自动化——这些\"无聊但重要\"的工作正在被AI接管。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=XfezMs8B-O8\">AI + Design Systems in 2026: The Workflow I Actually Use — YouTube</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这组消息让我看到一个清晰的趋势：<strong>AI设计工具正在经历从\"novelty\"到\"infrastructure\"的质变。</strong></p><p>Faith的评测文章最有价值的不是她推荐了哪个工具，而是她的筛选标准——只看\"AI-native\"工具。这个词的定义很重要：不是\"在现有设计工具上加了个AI按钮\"（比如早期的Figma AI），而是\"整个产品从底层就围绕AI设计的\"。这种区分在2024年还不明显，但到2026年已经成了两个完全不同的品类。</p><p>有意思的是，Figma正在两边下注。一方面它在强化自己的AI-native能力（Make、First Draft、Sites），另一方面它也在通过资源库文章把自己定位为\"AI设计工具生态的中心\"——把竞争对手（UX Pilot、Visily、Midjourney）都纳入自己的叙事框架。这是典型的平台策略：<strong>当你无法消灭竞争对手时，就把它们变成你生态的一部分。</strong></p><p>YouTube那个设计系统+AI的视频点出了一个被低估的趋势：<strong>AI最先颠覆的不是\"创意设计\"，而是\"设计运维\"。</strong>维护design tokens、写组件文档、做一致性审计——这些占据设计师30-40%时间的\"维护性工作\"正在被AI自动化。这意味着设计师会有更多时间做真正需要判断力的工作——但前提是你不是那种\"只会执行不会判断\"的设计师。</p><p>我的预测：到2026年底，\"AI Design Ops\"会成为一个独立的职能方向——专门负责用AI工具优化设计团队的工作流、维护设计系统、做质量保证。这不是传统意义上的\"设计师\"，更接近\"设计领域的DevOps工程师\"。那些从\"会用Figma\"升级到\"会编排AI设计流水线\"的人，薪资溢价会非常明显。</p>",
-      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Medium review: 5 AI-Native UX tools tested — AI as core engine, not add-on feature</strong> — Design judgment remains the irreplaceable human element.</li><li><strong>Figma AI 2026: from 'experimental feature' to 'platform infrastructure'</strong> — Every Figma user is already using AI whether they realize it or not.</li><li><strong>YouTube: AI + Design Systems workflow — AI as design system's best companion</strong> — The 'boring but important' maintenance work is being automated.</li></ul>"
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>toools.design 深度评测：9款最佳AI UI/UX设计工具横向对比——\"prompt-to-UI\"和\"设计系统集成\"两大阵营分化</strong> — 全面对比 Flowstep、UX Pilot、Figma Make、Banani、Magic Patterns、Motiff 等工具。核心发现：AI设计工具市场已分化为两类——\"prompt-to-UI生成器\"（从文本直接生成完整用户旅程）和\"设计系统集成工具\"（将AI嵌入现有设计系统工作流）。Figma Make的优势在于生态锁定（$16/月含在Pro计划），而Banani和Motiff在代码导出能力上更强——多屏流程、MCP/React导出、Figma集成。<strong>关键信号：竞争焦点已从\"能不能生成UI\"转向\"生成的UI能不能直接进入生产流水线\"。</strong><br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">9 Best AI Tools for UI/UX Designers in 2026: Deep Dive — toools.design</a></small></li><li><strong>BCG数据：63%跨国大企业已在UI/UX中使用至少一款AI工具——从\"尝鲜\"到\"标配\"的质变</strong> — aivancity.ai引用BCG 2025年调研数据，显示AI设计工具已完成从先锋团队试用到企业级标配的跨越。2026年的市场已高度结构化，覆盖界面生成、线框图、用户行为分析、前端代码输出的完整设计周期。这不再是\"要不要用AI\"的问题，而是\"用哪些AI组合\"的问题。<br><small>来源：<a href=\"https://aivancity.ai/en/blog/ui-ux-notre-selection-des-meilleurs-outils-ia-generatives-de-2026\">UI/UX: Our Selection of the Best Generative AI Tools of 2026 — aivancity.ai</a></small></li><li><strong>Designlab发布《AI in UX & Product Design 2026》现状报告——产品设计师的角色正在被重新定义</strong> — 行业全景扫描报告，关注AI如何改变产品设计师的角色定位和日常工作流。当AI能在几秒内生成Figma-ready的UI设计时，设计师的价值到底在哪里？<br><small>来源：<a href=\"https://designlab.com/blog/ai-in-ux-product-design-trends-2026\">The State of AI in UX & Product Design: 2026 — Designlab</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这组设计领域的内容让我注意到一个有趣的拐点：<strong>AI设计工具市场正在从\"哪个工具最酷\"的novelty阶段，进入\"哪个工具最能融入我现有工作流\"的务实阶段。</strong></p><p>toools.design这篇9工具横评的价值不在于它推荐了谁，而在于它揭示的市场分化逻辑。两年前，所有AI设计工具都在比\"生成速度\"和\"视觉质量\"。现在竞争焦点变了：<strong>代码导出质量、设计系统兼容性、团队协作能力</strong>。Motiff能直接导出production-ready的React/HTML代码；Banani支持MCP协议和多屏流程生成；Magic Patterns能导入你自己的design system然后用Tailwind输出。这些能力指向同一个方向——<strong>AI设计工具正在从\"灵感生成器\"变成\"设计-开发流水线的一部分\"。</strong></p><p>BCG那个63%的数字更值得深思。当超过六成的大企业已经在用AI设计工具时，竞争优势不再是\"我们团队用了AI\"，而是\"我们团队用AI的方式比别人更聪明\"。这就像2010年代中期所有人都用了Sketch/Figma之后，差异化来自于design system的质量和设计流程的效率，而不是工具本身。</p><p>我的预测：接下来6个月，AI设计工具市场会经历一轮\"整合期\"。那些只做prompt-to-UI但没有代码导出和团队协作能力的工具会被淘汰或被收购。Figma凭借生态锁定会继续吃最大一块蛋糕，但真正有意思的创新会来自那些专注\"设计到代码最后一英里\"的垂直工具。对设计师来说，现在最该投资学习的不是\"如何用AI生成更好的mockup\"，而是<strong>\"如何用AI重新设计你的整个工作流——从研究到交付\"</strong>。单点工具的掌握已经不够了，系统性地编排AI设计流水线才是下一阶段的核心竞争力。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>toools.design: 9 Best AI UI/UX Tools compared — market splits into 'prompt-to-UI' vs 'design system integration'</strong> — Competition shifts from 'can it generate UI' to 'can generated UI enter production pipelines directly.'</li><li><strong>BCG data: 63% of large enterprises now use AI tools for UI/UX — from 'early adopter' to 'standard toolkit'</strong> — The question is no longer whether to use AI, but which AI combination to use.</li><li><strong>Designlab: The State of AI in UX & Product Design 2026 report</strong> — When AI generates Figma-ready designs in seconds, where does designer value actually lie?</li></ul>"
     },
     "sources": [
       {
-        "title": "I recently reviewed 5 AI-Native UX Design tools in 50 Minutes (2026) — Medium",
-        "url": "https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8",
-        "image": ""
+        "title": "9 Best AI Tools for UI/UX Designers in 2026: Deep Dive — toools.design",
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bebf9c2f3d062871b3c4_best-ai-tools-ui-ux-designers-2026.webp"
       },
       {
-        "title": "Your Creativity, unblocked with Figma AI — Figma",
-        "url": "https://www.figma.com/ai",
-        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/44ad8250b9790def5f90acc06d0307cfc683b406-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        "title": "UI/UX: Our Selection of the Best Generative AI Tools of 2026 — aivancity.ai",
+        "url": "https://aivancity.ai/en/blog/ui-ux-notre-selection-des-meilleurs-outils-ia-generatives-de-2026",
+        "image": "https://aivancity.ai/en/blog/wp-content/uploads/2026/01/Design-sans-titre2-3.png"
       },
       {
-        "title": "AI + Design Systems in 2026: The Workflow I Actually Use — YouTube",
-        "url": "https://www.youtube.com/watch?v=XfezMs8B-O8",
-        "image": ""
+        "title": "The State of AI in UX & Product Design: 2026 — Designlab",
+        "url": "https://designlab.com/blog/ai-in-ux-product-design-trends-2026",
+        "image": "https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/699dd529de1ff42062385652_State%20of%20AI%20in%20UX%20%26%20Product%20Design_%202026%20(2)%20(1).webp"
       }
     ],
-    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/44ad8250b9790def5f90acc06d0307cfc683b406-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+    "cover": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bebf9c2f3d062871b3c4_best-ai-tools-ui-ux-designers-2026.webp"
   },
   {
     "date": "2026-06-07",
     "section": "tech",
     "title": {
-      "zh": "Agentic AI成本真相浮出水面、Anthropic准备IPO搭建渠道体系、GPT-5.5实测破解真实漏洞——AI从\"demo阶段\"进入\"运营阶段\"",
-      "en": "Agentic AI's True Cost Emerges, Anthropic Builds IPO Channel Stack, GPT-5.5 Cracks Real Exploits — AI Moves From 'Demo Phase' to 'Operations Phase'"
+      "zh": "WWDC前夜AI格局巨变：Apple多模型策略终结OpenAI独占、Sanders和Trump都要政府持股AI、xAI一周三连发全栈化",
+      "en": "AI Landscape Shifts Before WWDC: Apple's Multi-Model Strategy Ends OpenAI Exclusivity, Sanders & Trump Both Want Government AI Stakes, xAI Goes Full-Stack in One Week"
     },
     "content": {
-      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>InfoWorld深度：Agentic AI的真实成本——不只是API调用费，还有治理、监控、失败恢复的隐性开支</strong> — David Linthicum在6月5日发表的文章指出：企业部署AI Agent的真实成本远超模型调用费。治理框架、运行监控、错误恢复机制、合规审计——这些\"运营成本\"可能是模型成本的3-5倍。核心观点：<strong>\"Agent能跑\"和\"Agent能可靠地跑\"之间的差距，就是真金白银。</strong><br><small>来源：<a href=\"https://www.infoworld.com/article/4181397/the-real-cost-of-agentic-ai.html\">The real cost of agentic AI — InfoWorld</a></small></li><li><strong>Anthropic搭建三层渠道体系：Services Track分级、Partner Hub门户、全球Premier要求1000人认证——为万亿美元IPO铺路</strong> — AI Insiders报道：Anthropic正在构建传统企业软件公司才有的渠道体系。Global Premier级别要求合作伙伴拥有1000名认证个人+100个已部署客户跨三个区域。同时Bloomberg指出OpenAI和Anthropic都在以约$1万亿估值走向公开市场。信号：<strong>AI公司正在从\"技术创业公司\"转型为\"企业级平台公司\"。</strong><br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-4th-june-2026-ai-insiders-news-qifve\">AI News Highlights June 4, 2026 — LinkedIn/AI Insiders</a></small></li><li><strong>GPT-5.5安全测试：$1500实测10个前沿模型攻击真实漏洞——GPT-5.5成功破解7/10次，多数模型拒绝执行</strong> — 研究者花$1500测试10个前沿模型对真实漏洞应用的攻击能力。GPT-5.5在10次尝试中成功利用真实漏洞7次，而大多数其他模型选择拒绝。同时Ideogram发布开源权重图像模型（JSON结构化提示、多语言文字渲染、2K分辨率）。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-4th-june-2026-ai-insiders-news-qifve\">AI News Highlights June 4, 2026 — LinkedIn/AI Insiders</a></small></li></ul><h3>🧠 Rex's Take</h3><p>这三条新闻放在一起，讲的是AI行业同一个底层叙事的三个侧面：<strong>AI正在从\"能不能做到\"的技术验证阶段，进入\"能不能持续可靠运营\"的商业化阶段。</strong></p><p>David Linthicum关于Agentic AI成本的文章是本周最值得深读的一篇。他点出了一个被整个行业集体忽视的问题：大家在讨论\"Agent能做什么\"时，很少有人认真计算\"Agent失败时的成本\"。一个AI Agent自主执行了错误操作怎么办？谁负责？如何回滚？如何审计？这些问题的解决方案——治理框架、监控系统、合规流程——每一个都需要专业人力和基础设施投入。他估计运营成本是模型调用成本的3-5倍，我觉得还保守了——对于金融、医疗等强监管行业，可能是10倍。</p><p>Anthropic建渠道体系这件事更有意思。一家18个月前还自称\"AI安全研究实验室\"的公司，现在要求合作伙伴有1000名认证人员？这不是研究机构的做法，这是Oracle、Salesforce、Microsoft的做法。<strong>Anthropic已经完成了从\"研究实验室\"到\"企业平台公司\"的心理转型。</strong>万亿美元IPO的前提是你能证明自己有可预测的企业级收入——而渠道体系正是实现这一点的基础设施。</p><p>GPT-5.5破解真实漏洞的测试则指向另一个方向：<strong>AI能力的增长正在创造新的安全风险。</strong>当AI模型足够强大到可以自主发现和利用软件漏洞时，整个网络安全行业的攻防平衡被打破了。攻击方（用AI找漏洞）的成本正在暴跌，而防御方（修补漏洞）的成本并没有同步下降。这是一个值得所有技术团队关注的趋势信号。</p><p>综合来看：2026年中的AI行业，最大的变化不是模型能力（那个曲线在放缓），而是<strong>围绕AI的商业基础设施在快速成熟</strong>——渠道、治理、安全、成本核算。无聊？是的。重要？非常。这正是\"技术周期\"从炒作期进入务实期的标志。</p>",
-      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>InfoWorld: The real cost of agentic AI — governance, monitoring, recovery costs 3-5x model costs</strong> — 'Agent can run' vs 'agent can run reliably' is the gap measured in real money.</li><li><strong>Anthropic builds enterprise channel stack for trillion-dollar IPO</strong> — From 'AI safety lab' to enterprise platform company in 18 months.</li><li><strong>GPT-5.5 cracks real exploits 7/10 times in $1500 security test</strong> — AI capability growth creating new security risks; attack costs plummeting while defense costs stay flat.</li></ul>"
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Apple WWDC 2026前瞻：$10亿/年许可Gemini驱动Siri + 多模型Extensions系统让用户自选ChatGPT/Gemini/Claude</strong> — Tim Cook最后一届WWDC。Apple用1.2万亿参数定制Gemini模型重建Siri，同时推出Extensions系统让用户在三大AI模型间自由切换。iOS 27将终结OpenAI对iPhone的AI独占地位。<strong>Apple不做自己的前沿模型，而是做AI的\"瑞士\"——这是科技界目前最反直觉的战略赌注。</strong><br><small>来源：<a href=\"https://www.buildfastwithai.com/blogs/ai-news-today-june-7-2026\">AI News Today June 7, 2026: 16 Biggest Stories — BuildFastWithAI</a></small></li><li><strong>政治光谱两端罕见趋同：Sanders提50%AI股权税法案，Trump同日表态\"让政府成为AI革命合伙人\"</strong> — Sanders的《美国AI主权财富基金法案》要求OpenAI/Anthropic/xAI以股票形式缴纳50%税。Trump表示支持政府持股概念。时机极其微妙：Anthropic同日秘密提交IPO申请（估值$9650亿），OpenAI也在与高盛和摩根士丹利筹备IPO。<br><small>来源：<a href=\"https://www.buildfastwithai.com/blogs/ai-news-today-june-7-2026\">AI News Today June 7, 2026 — BuildFastWithAI</a></small></li><li><strong>xAI一周三连发：Grok政府合同$0.42/机构18个月 + Grok Build终端编码Agent + Grok Web Connectors支持MCP</strong> — xAI从SpaceX收购后完成从模型实验室到完整企业AI栈的转型。Grok Build直接挑战Claude Code和Copilot；Web Connectors打通SharePoint/Outlook/Notion/GitHub，支持MCP协议意味着为Claude生态构建的工具也能在Grok上运行。<br><small>来源：<a href=\"https://www.buildfastwithai.com/blogs/ai-news-today-june-7-2026\">AI News Today June 7, 2026 — BuildFastWithAI</a></small></li><li><strong>Anthropic发出\"刹车踏板\"警告：自我改进AI可能即将到来，呼吁行业开发紧急制动机制</strong> — Anthropic罕见公开警告其系统可能很快能在无人类监督下自我改进。现有安全评估框架是为训练间隙改进的模型设计的，对部署期间自我更新的模型可能完全失效。<br><small>来源：<a href=\"https://www.buildfastwithai.com/blogs/ai-news-today-june-7-2026\">AI News Today June 7, 2026 — BuildFastWithAI</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天的科技新闻讲的是同一个故事的四个维度：<strong>AI行业正在同时经历商业化冲刺和政治化加速，两股力量正在以令人不安的速度碰撞。</strong></p><p>Apple的多模型策略是本周最值得细品的战略决策。当OpenAI、Anthropic、Google都在烧几百亿美元训练自己的前沿模型时，Apple花$10亿/年买了个许可证，然后说\"让用户自己选\"。这看起来像认输，实际上是一步精妙的棋——<strong>Apple把自己从\"AI军备竞赛的参赛者\"变成了\"AI军备竞赛的裁判和分发渠道\"</strong>。当你的平台同时接入三个最强模型时，你实际上拥有了最强的谈判筹码：任何一家模型提供商都不敢得罪你，因为你可以随时把默认选项切给竞争对手。这是纯粹的平台权力。</p><p>但更有意思的是政治面。Sanders的50%股权税法案本身不会通过——这个所有人都知道。但它的Overton Window效应是巨大的：当\"政府是否应该持有AI公司股权\"从一个荒谬提议变成两党都在讨论的合法话题时，AI公司的估值模型需要开始计入\"政治风险溢价\"了。想象一下你是Anthropic的IPO承销商，你怎么向机构投资者解释\"我们估值$9650亿，但有参议员提案要拿走我们50%的股权\"？这对IPO定价的压力是实实在在的。</p><p>xAI的三连发则展示了一个完全不同的策略：<strong>用极端低价（$0.42/机构！）抢占政府市场，用MCP协议兼容性寄生在竞争对手的生态上，用编码Agent正面挑战最拥挤的赛道。</strong>这是典型的Elon Musk式打法——不是精打细算地进入一个细分市场，而是同时在五个方向发起进攻，赌的是其中至少两三个会赢。联想到SpaceX下周三（6月12日）就要IPO，这周的产品密集发布显然是为了在IPO前最大化\"叙事面积\"。</p><p>最后说Anthropic的\"刹车踏板\"警告。一家正在以$9650亿估值冲刺IPO的公司，公开警告自己的技术可能很快失控——这到底是真诚的安全关切，还是精心计算的监管套利？我倾向于认为两者兼有。Anthropic的商业模式本质上就是\"我们是最负责任的那个AI公司\"，所以发安全警告既是品牌建设，也确实反映了他们内部的技术判断。但客观效果是：如果政府因此出台更严格的AI监管，受影响最大的是资源较少的竞争对手，而不是已经建好合规体系的Anthropic。<strong>安全倡导和竞争壁垒，在这个行业里正在变成同一件事。</strong></p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Apple WWDC 2026: Gemini-powered Siri + multi-model Extensions system — users choose between ChatGPT, Gemini, Claude</strong> — Apple becomes the 'Switzerland of AI wars' by not building its own frontier model.</li><li><strong>Sanders' 50% AI equity tax + Trump endorses government AI stakes — rare bipartisan convergence</strong> — IPO roadshows with government ownership discussions in headlines are not ideal for investor sentiment.</li><li><strong>xAI triple launch: $0.42/agency government contract + Grok Build coding agent + Web Connectors with MCP</strong> — From model lab to full enterprise AI stack, timed perfectly before SpaceX IPO on June 12.</li><li><strong>Anthropic's 'brake pedal' warning: self-improving AI may be imminent</strong> — Safety advocacy and competitive moats becoming the same thing in this industry.</li></ul>"
     },
     "sources": [
       {
-        "title": "The real cost of agentic AI — InfoWorld",
-        "url": "https://www.infoworld.com/article/4181397/the-real-cost-of-agentic-ai.html",
-        "image": "https://www.infoworld.com/wp-content/uploads/2026/06/4181397-0-82355800-1780682398-shutterstock_2357434697-100963124-orig.jpg?quality=50&strip=all&w=1200"
+        "title": "AI News Today June 7, 2026: 16 Biggest Stories — BuildFastWithAI",
+        "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-7-2026",
+        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/2ea72603-244d-482c-8714-5abf5c6b4933.png"
       },
       {
-        "title": "AI News Highlights June 4, 2026 — LinkedIn/AI Insiders",
-        "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-4th-june-2026-ai-insiders-news-qifve",
-        "image": "https://media.licdn.com/dms/image/v2/D4E12AQH1qIvjbCC0-g/article-cover_image-shrink_720_1280/B4EZ6TAkriHoAY-/0/1780582861853?e=2147483647&v=beta&t=vBE7_hJFzGRKlXzFKD063xaZcByyElEY6lUBdQi3040"
-      },
-      {
-        "title": "Ideogram 4 open-weight image model — AI Insiders",
-        "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-4th-june-2026-ai-insiders-news-qifve",
+        "title": "Apple to let users choose between Anthropic, Google, and OpenAI models — Sherwood News",
+        "url": "https://sherwood.news/tech/apple-to-let-users-choose-between-anthropic-google-and-openai-models",
         "image": ""
       }
     ],
-    "cover": "https://www.infoworld.com/wp-content/uploads/2026/06/4181397-0-82355800-1780682398-shutterstock_2357434697-100963124-orig.jpg?quality=50&strip=all&w=1200"
+    "cover": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/2ea72603-244d-482c-8714-5abf5c6b4933.png"
   },
   {
     "date": "2026-06-06",
