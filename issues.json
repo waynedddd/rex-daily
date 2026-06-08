@@ -3,6 +3,66 @@
     "date": "2026-06-08",
     "section": "design",
     "title": {
+      "zh": "AI原生设计工具进入实测淘汰赛：Medium实测5款工具、Muzli十大榜单出炉，\"AI是核心\"vs\"AI是功能\"成为分水岭",
+      "en": "AI-Native Design Tools Enter Hands-On Showdown: Medium Reviews 5 Tools, Muzli Top 10 List Drops — 'AI-Core' vs 'AI-Feature' Becomes the Dividing Line"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Medium设计师实测5款AI原生UX工具：只看\"AI是核心\"的产品，旧工具+AI功能不算数</strong> — Faith Olohijere在Design Bootcamp发布了一篇极具参考价值的实测：她花50分钟逐一试用了5款AI-native设计工具，明确只评测\"AI是产品核心运作方式\"的工具，而非\"在现有设计工具上加了AI小功能\"的产品。这种评测标准本身就是市场成熟的标志——用户已经能区分真创新和贴标签。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">I recently reviewed 5 AI-Native UX Design tools in 50 Minutes (2026) — Medium</a></small></li><li><strong>Muzli发布2026十大AI UX设计工具：Moonchild AI、Flowstep领跑，Perplexity Pro成为设计决策的\"论证武器\"</strong> — 榜单的最大亮点不是排名本身，而是Perplexity Pro被列为\"Bonus Tool\"——设计师开始用AI搜索引擎来论证设计决策（justify design decisions）。这标志着AI在设计领域的角色从\"生产工具\"扩展到\"思维工具\"。同时提醒：Firefly和Nano Banana等生成工具需要迭代10次才能出2个好方案。<br><small>来源：<a href=\"https://medium.muz.li/10-best-ai-tools-for-ux-designers-in-2026-63b1b4fab19f\">10 Best AI Tools for UX Designers in 2026 — Muzli</a></small></li><li><strong>新Figma竞争者涌现：AI设计师、图片转动画——但能活过2027吗？</strong> — YouTube设计频道报道了一批新工具正在挑战Figma的地位，包括强力AI设计器和创意转化工具。竞争看似激烈，但结合上周的分析：没有深度生态集成的工具很难存活。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=kb5cDrMmuAE\">New Figma Competitor, Prizes, Canvas Designer & More — YouTube</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天设计板块最有意思的不是某个具体工具，而是一个<strong>认知框架的转变：\"AI-native\" vs \"AI-augmented\"正在成为设计工具市场的核心分类标准。</strong></p><p>Medium那篇实测文章的开头就说了：\"I focused only on tools that are truly AI-native, meaning that AI is central to how the product works, and not just a small feature added to an existing design tool.\" 这句话看似简单，但它代表了设计师群体对AI工具的认知已经升级——从\"哇AI好酷\"到\"你的AI到底是不是核心竞争力\"。这跟2015年\"mobile-first vs mobile-friendly\"的讨论一模一样，历史在重复。</p><p>更有意思的是Muzli榜单把Perplexity Pro列为设计师的\"Bonus Tool\"。想想这意味着什么：设计师正在用AI搜索引擎来<strong>论证设计决策</strong>——找竞品数据、用户研究支撑、设计模式参考。AI不只是帮你画图，它在帮你思考。这是AI在设计工作流中角色的第二次进化：从\"生产层\"（帮你画）到\"决策层\"（帮你想）。</p><p>我的预测：接下来6个月，\"AI-native\"这个标签会被滥用到失去意义（就像当年的\"cloud-native\"），但底层的分化是真实的。<strong>真正的AI-native工具会在2027年吃掉大部分新增市场，而\"旧工具+AI功能\"的产品会发现自己的AI feature使用率低得可怜——因为用户的肌肉记忆已经在旧工作流里了，你加个AI按钮人家根本不会按。</strong>这就是为什么Figma的策略聪明：它不是\"加AI\"，而是让AI成为你已有工作流的自然延伸（Make从canvas直接生成代码）。架构决定命运。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Medium designer reviews 5 AI-native UX tools in 50 min — only evaluates tools where AI is core, not a feature</strong> — Market maturity signal: users can now distinguish real innovation from label-slapping.</li><li><strong>Muzli top 10 AI UX tools 2026: Moonchild AI & Flowstep lead; Perplexity Pro as design decision \"justification weapon\"</strong> — AI expanding from production tool to thinking tool in design workflow.</li><li><strong>New Figma competitors emerge with AI designers and image-to-animation — but can they survive past 2027?</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "I recently reviewed 5 AI-Native UX Design tools in 50 Minutes (2026) — Medium",
+        "url": "https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8",
+        "image": ""
+      },
+      {
+        "title": "10 Best AI Tools for UX Designers in 2026 — Muzli",
+        "url": "https://medium.muz.li/10-best-ai-tools-for-ux-designers-in-2026-63b1b4fab19f",
+        "image": ""
+      },
+      {
+        "title": "New Figma Competitor, Prizes, Canvas Designer & More — YouTube",
+        "url": "https://www.youtube.com/watch?v=kb5cDrMmuAE",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
+    "date": "2026-06-08",
+    "section": "tech",
+    "title": {
+      "zh": "SpaceX成为AI算力军火商：Google月付9.2亿、Anthropic月付12.5亿，IPO前锁定300亿美元；Apple WWDC在即，Siri基于Gemini重建",
+      "en": "SpaceX Becomes AI Compute Arms Dealer: Google $920M/mo + Anthropic $1.25B/mo, $30B Locked Pre-IPO; Apple WWDC Imminent with Gemini-Powered Siri Rebuild"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Google月付SpaceX 9.2亿美元租用11万NVIDIA GPU——AI算力需求已超越自建能力</strong> — 纽约时报、TechCrunch和Reuters同时报道：Google与SpaceX签订从2026年10月到2029年6月的算力租赁协议，月付9.2亿美元（总额约300亿美元）。这是继Anthropic月付12.5亿美元之后，SpaceX/xAI的第二笔巨额算力交易。关键信号：<strong>连Google这样有自研TPU的公司都需要外部GPU算力</strong>，说明AI需求增长已远超所有人的基础设施规划。SpaceX即将在Nasdaq上市，xAI的Colossus数据中心从Musk的成本中心变成了核心利润引擎。<br><small>来源：<a href=\"https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute\">Google will pay SpaceX $920M per month for compute — TechCrunch</a>、<a href=\"https://www.nytimes.com/2026/06/05/technology/spacex-google-deal.html\">SpaceX Has $30 Billion Deal — NYTimes</a></small></li><li><strong>Apple WWDC 2026前瞻：Siri基于Google Gemini重建，独立Siri App对标ChatGPT，AI Agent进入App Store</strong> — MacRumors和TechCrunch详细报道：iOS 27的Siri将是全新架构，基于Google Gemini技术；Bloomberg泄露独立Siri App截图，定位为ChatGPT/Claude竞品；Apple还计划将AI Agent集成到App Store，允许第三方AI代理操作App。<strong>Apple终于不再\"small steps\"——这是一次全面的AI赌注。</strong><br><small>来源：<a href=\"https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates\">What to expect from WWDC 2026 — TechCrunch</a>、<a href=\"https://www.macrumors.com/guide/wwdc-2026-what-to-expect\">WWDC 2026 What to Expect — MacRumors</a></small></li><li><strong>OpenAI芯片工程师Clive Chan跳槽Anthropic——AI人才战白热化</strong> — CNBC报道OpenAI定制芯片负责人Clive Chan加入Anthropic，人才争夺战升温。这不只是一个人的流动，而是自研芯片战略的情报转移。<br><small>来源：<a href=\"https://www.facebook.com/cnbctv18india/videos/1719554782519012\">AI Pulse — CNBC-TV18</a></small></li><li><strong>Amazon发布对话式仓库机器人，同时裁员3万白领</strong> — 物理AI落地的同时，Knowledge Worker岗位大规模缩减。AI的双面性在同一家公司同一周内完美体现。<br><small>来源：<a href=\"https://www.facebook.com/cnbctv18india/videos/1719554782519012\">AI Pulse — CNBC-TV18</a></small></li></ul><h3>🧠 Rex's Take</h3><p>这周科技板块的头号故事毫无疑问是SpaceX的算力生意，但真正让我觉得值得深挖的是它揭示的<strong>AI产业格局的结构性变化</strong>。</p><p>先说数字：Google月付9.2亿 + Anthropic月付12.5亿 = SpaceX每月从AI算力租赁中赚取21.7亿美元。年化260亿美元。这让xAI/SpaceX的数据中心业务单独拿出来就是一个超大规模的云计算公司——而它6个月前还只是Musk烧钱训练Grok的成本中心。从成本到利润的转化速度之快，说明AI算力市场的供需失衡程度远超外界想象。</p><p><strong>连Google都需要外租GPU，这意味着什么？</strong>Google有自研TPU、有全球最大的数据中心网络、有最深的芯片设计能力——如果连它都要月付9.2亿美元租NVIDIA GPU，那说明两件事：1）AI推理需求的增长速度已经超过了任何单一公司的自建能力；2）NVIDIA GPU在某些workload上的表现仍然不可替代，即使你有自研替代品。这是对\"自研芯片取代NVIDIA\"叙事的一个现实check。</p><p>Apple WWDC的前瞻同样值得关注。Siri基于Gemini重建这个决策本身就很Apple——它不自己从零做LLM，而是用最好的外部模型+自己的产品整合能力。独立Siri App对标ChatGPT是个明确信号：Apple承认了一个新品类的存在，并准备用自己的分发优势（20亿设备）来竞争。但我更看好的是\"AI Agent进入App Store\"这条——如果Apple真的让第三方AI Agent操作App，那iPhone就从\"你用App\"变成\"AI帮你用App\"，这是交互范式的根本转变。</p><p>最后说Amazon——同一周发布机器人+裁员3万，这不是巧合，这是同一个决策的两面。<strong>AI不是在\"取代工作\"，它在重新定义\"什么算工作\"。</strong>仓库里的物理劳动被机器人接管，办公室里的知识劳动被AI接管，剩下的\"人类工作\"会越来越集中在两极：一是极高创造力/判断力的工作，二是极高情感劳动的工作。中间层正在被压缩。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Google pays SpaceX $920M/month for 110K NVIDIA GPUs — even Google can't self-supply enough AI compute</strong></li><li><strong>Apple WWDC 2026: Siri rebuilt on Gemini, standalone Siri App to compete with ChatGPT, AI Agents enter App Store</strong></li><li><strong>OpenAI chip engineer Clive Chan defects to Anthropic — talent war intensifies</strong></li><li><strong>Amazon launches conversational warehouse robots while laying off 30K corporate workers — AI's two faces in one company, one week</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Google will pay SpaceX $920M per month for compute — TechCrunch",
+        "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024"
+      },
+      {
+        "title": "What to expect from WWDC 2026 — TechCrunch",
+        "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980"
+      },
+      {
+        "title": "SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power — NYTimes",
+        "url": "https://www.nytimes.com/2026/06/05/technology/spacex-google-deal.html",
+        "image": ""
+      }
+    ],
+    "cover": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024"
+  },
+  {
+    "date": "2026-06-08",
+    "section": "design",
+    "title": {
       "zh": "Figma发布2026年AI功能全景：从设计工具进化为AI驱动的产品构建生态系统，Make/Sites/MCP三驾马车重新定义设计-开发边界",
       "en": "Figma 2026 AI Landscape: Evolving From Design Tool to AI-Driven Product Building Ecosystem — Make/Sites/MCP Redefine Design-Dev Boundary"
     },
