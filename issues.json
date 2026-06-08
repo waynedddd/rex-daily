@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-06-08",
+    "section": "design",
+    "title": {
+      "zh": "Figma发布2026年AI功能全景：从设计工具进化为AI驱动的产品构建生态系统，Make/Sites/MCP三驾马车重新定义设计-开发边界",
+      "en": "Figma 2026 AI Landscape: Evolving From Design Tool to AI-Driven Product Building Ecosystem — Make/Sites/MCP Redefine Design-Dev Boundary"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma官方更新2026 AI工具矩阵：Make（prompt-to-code）、First Draft、Replace Content、Sites全站发布——从设计协作工具到产品构建平台的质变</strong> — Figma官方资源库系统性展示了其2026年AI能力全景。核心变化：Figma Make已从\"生成UI mockup\"进化为\"prompt-to-code generation\"，直接输出可用代码；配合Design System集成、Dev Mode、Code Connect和MCP Server，形成从设计到工程的完整AI桥梁。设计师可以在几秒内生成UI布局，而不是花费数小时。<strong>关键信号：Figma不再只是设计工具，它在成为AI辅助的产品构建平台。</strong><br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Top AI Tools for UX Designers in 2026 — Figma</a>、<a href=\"https://blog.logrocket.com/ux-design/figma-ai-2026-quick-overview\">Figma AI in 2026: Everything it can do — LogRocket</a></small></li><li><strong>Unite.AI评选2026年7大AI UX/UI工具：UX Pilot、Banani领跑\"prompt-to-design\"赛道，Figma Export成为新标配</strong> — UX Pilot以AI生成UI布局+线框图+预测热力图的全栈能力领跑；Banani则强在快速概念生成+响应式布局+Figma导出。趋势明确：<strong>所有独立AI设计工具都在向Figma生态靠拢</strong>，\"导出到Figma\"已成为必备功能而非加分项。<br><small>来源：<a href=\"https://www.unite.ai/best-ai-ux-ui-design-tools\">7 Best AI UX and UI Design Tools (May 2026) — Unite.AI</a></small></li><li><strong>Eleken发布40款UX AI工具全景指南：工具数量爆炸但核心能力趋同——自动化重复任务、预测分析、用户洞察挖掘三大方向</strong> — 40款工具的全景扫描揭示一个悖论：工具越来越多，但差异化越来越难。大多数工具都在做相同的事——自动化重复任务和从大数据中提取用户洞察。真正的差异化来自与现有工作流的深度集成。<br><small>来源：<a href=\"https://www.eleken.co/blog-posts/ux-ai-tools\">40 UX AI Tools to Master in 2026 — Eleken</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天设计领域的内容让我看到一个正在加速的趋势：<strong>AI设计工具市场正在经历\"向心力\"时刻——所有东西都在向Figma生态系统引力中心坠落。</strong></p><p>看数据：Unite.AI评选的7大工具中，几乎每一个都把\"Figma Export\"列为核心功能。Eleken列举的40款工具里，能脱离Figma独立存活的屈指可数。这不是巧合，这是平台效应的经典表现——当一个平台足够大时，整个生态系统的创新都会围绕它的API和文件格式展开。2010年代是\"Everything is a Sketch plugin\"，现在是\"Everything exports to Figma\"。</p><p>但Figma自己的进化更值得关注。LogRocket那篇深度评测揭示了一个关键转向：Figma Make已经不是\"生成好看的mockup\"了，它是\"prompt-to-code generation\"——直接输出代码。加上MCP Server（让AI Agent能直接操作Figma文件）和Code Connect（设计token直通代码库），Figma正在做的事情是<strong>消灭\"设计稿交付给开发\"这个环节本身</strong>。</p><p>这对设计师意味着什么？我的判断是：<strong>\"设计交付\"作为一个独立工作环节正在消亡，但\"设计决策\"的价值在上升。</strong>当AI能在几秒内生成20个布局方案并直接输出生产代码时，设计师的价值不在于\"画得好\"或\"标注得清\"，而在于\"选得对\"——哪个方案最适合用户需求、商业目标和技术约束。这是一个从\"手艺人\"到\"决策者\"的角色转型。</p><p>40款工具的数量爆炸也暗示了一个即将到来的洗牌：当所有工具都在做同样的事（自动化+预测+洞察），市场无法支撑40个玩家。我预测：12个月内，这40款中至少一半会被收购、关停或边缘化。胜出的会是那些在某个垂直场景做到极致深度的——比如UX Pilot的预测热力图，这种需要大量领域数据训练的功能才是真护城河，而不是又一个\"text-to-UI\"。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma 2026 AI matrix: Make (prompt-to-code), First Draft, Sites — from design collaboration to product building platform</strong> — Figma Make now outputs production code directly, paired with MCP Server and Code Connect for full design-to-engineering bridge.</li><li><strong>Unite.AI top 7 AI UX/UI tools 2026: UX Pilot and Banani lead, \"Figma Export\" now table stakes</strong> — All independent AI design tools gravitating toward Figma ecosystem.</li><li><strong>Eleken's 40 UX AI tools guide reveals paradox: more tools, less differentiation</strong> — True moats come from deep workflow integration, not another text-to-UI generator.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Top AI Tools for UX Designers in 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/cec0bbe8ac8f86b3ba2b7af836693b5c0db890ca-720x720.png"
+      },
+      {
+        "title": "Figma AI in 2026: Everything it can do — LogRocket",
+        "url": "https://blog.logrocket.com/ux-design/figma-ai-2026-quick-overview",
+        "image": "https://blog.logrocket.com/wp-content/uploads/2024/07/Figma-AI-A-quick-overview-1.png"
+      },
+      {
+        "title": "7 Best AI UX and UI Design Tools (May 2026) — Unite.AI",
+        "url": "https://www.unite.ai/best-ai-ux-ui-design-tools",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/cec0bbe8ac8f86b3ba2b7af836693b5c0db890ca-720x720.png"
+  },
+  {
+    "date": "2026-06-08",
+    "section": "tech",
+    "title": {
+      "zh": "ChatGPT月活破10亿、DeepSeek融资74亿美元、Generalist AI获4亿美元推进物理AGI——AI行业进入\"超级规模化\"阶段",
+      "en": "ChatGPT Hits 1B MAU, DeepSeek Raises $7.4B, Generalist AI Gets $400M for Physical AGI — AI Industry Enters Hyper-Scaling Phase"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>ChatGPT月活用户突破10亿——从工具到基础设施的临界点</strong> — David Akpovi在Medium周报中确认：ChatGPT已达10亿月活用户里程碑。这个数字意味着ChatGPT已跻身全球前十大互联网产品，与Instagram和YouTube同级别。从2022年11月发布到2026年6月达到10亿MAU，仅用3.5年——比Instagram快2年，比YouTube快4年。<strong>当一个AI产品的用户基数达到这个量级时，它不再是\"工具\"，而是\"基础设施\"。</strong><br><small>来源：<a href=\"https://medium.com/@davidakpovi/ai-news-week-of-june-1-to-june-7-2026-7957940c805a\">AI NEWS: Week of June 1 to June 7, 2026 — Medium</a></small></li><li><strong>DeepSeek首轮融资接近74亿美元——中国AI的\"OpenAI时刻\"</strong> — Bloomberg报道DeepSeek首轮融资即将以接近74亿美元收盘。这是中国AI公司有史以来最大的单轮融资，也标志着全球AI资本市场的\"双极格局\"正式形成：美国有OpenAI/Anthropic，中国有DeepSeek。更深层的信号：机构投资者开始认真押注\"AI ROI\"问题已有答案。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-4th-june-2026-ai-insiders-news-qifve\">AI News Highlights from 4th of June, 2026 — LinkedIn</a></small></li><li><strong>OpenAI为Codex发布六大企业插件：销售、数据分析等——从消费级聊天到企业级工作流的战略转向</strong> — OpenAI为Codex推出涵盖销售、数据分析等领域的六个商业插件，标志着其商业化从\"ChatGPT订阅\"向\"企业AI工作流平台\"的明确转向。这直接对标Microsoft Copilot和Salesforce Einstein的企业AI定位。<br><small>来源：<a href=\"https://www.marketingprofs.com/opinions/2026/54909/ai-update-june-5-2026-ai-news-and-views-from-the-past-week\">AI Update, June 5, 2026 — MarketingProfs</a></small></li><li><strong>Generalist AI获4亿美元融资推进\"物理AGI\"——AI从数字世界向物理世界的扩张加速</strong> — Generalist AI拿到4亿美元用于推进物理AI/AGI研发。这代表了AI投资的新前沿：从语言模型和代码生成，转向能操控物理世界的通用智能。机器人、自动驾驶、工业自动化——物理AI的商业化路径正在被资本市场重新定价。<br><small>来源：<a href=\"https://radicaldatascience.wordpress.com/2026/06/04/ai-news-briefs-bulletin-board-for-june-2026\">AI News Briefs for June 2026 — Radical Data Science</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这组科技新闻的核心叙事是：<strong>AI行业已经跨过了\"能不能做\"的验证期，进入了\"谁能做得最大\"的规模化竞赛。</strong>每一条新闻都指向同一个方向——更多用户、更多资本、更广的应用场景。</p><p>ChatGPT 10亿MAU这个数字需要放在语境里理解。2024年初它还在2亿MAU徘徊，到2025年底是5亿，半年后翻倍到10亿。这种增长曲线已经不是\"产品增长\"了，这是\"范式扩散\"——类似于互联网本身在2000年代的普及曲线。当10亿人每月使用一个AI产品时，它对经济和社会的影响已经不亚于搜索引擎或社交媒体。这也解释了为什么Sanders要提50%股权税——当一个产品触及10亿人，它就不再只是一家公司的事了。</p><p>DeepSeek 74亿美元的融资是另一个信号弹。注意这是\"首轮\"融资——意味着DeepSeek之前完全靠自有资金或小规模投资运营。能在首轮就拿到这个数字，说明两件事：1）机构投资者对中国AI的技术能力有了根本性的重新评估（DeepSeek V3和R1的表现功不可没）；2）全球AI资本市场已经明确分化为\"中美双极\"——在美国投OpenAI/Anthropic，在中国投DeepSeek，这正在成为机构的标准配置。</p><p>OpenAI的企业插件和Generalist AI的物理AGI融资则代表了AI商业化的两个方向。OpenAI在做\"深度\"——让AI更深地嵌入企业现有工作流（销售、数据分析、客服）。Generalist AI在做\"广度\"——让AI从数字世界扩张到物理世界。这两个方向并不矛盾，它们是同一个故事的不同章节：<strong>AI正在从\"一个你打开的应用\"变成\"一个无处不在的能力层\"，覆盖从屏幕上的对话到工厂里的机器人。</strong></p><p>我的预测：到2026年底，\"你的产品用了AI吗\"这个问题会变得像\"你的产品上网了吗\"一样荒谬——答案永远是yes，问题变成了\"你用AI做了什么别人做不到的事\"。10亿MAU的ChatGPT就是这个拐点的标志。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>ChatGPT hits 1 billion MAU — crossing from tool to infrastructure</strong> — 3.5 years from launch to 1B, faster than Instagram or YouTube.</li><li><strong>DeepSeek closes ~$7.4B first round — China's \"OpenAI moment\"</strong> — Global AI capital market now formally bipolar: US (OpenAI/Anthropic) vs China (DeepSeek).</li><li><strong>OpenAI launches 6 enterprise plugins for Codex — pivoting from consumer chat to enterprise workflow platform</strong> — Directly competing with Microsoft Copilot and Salesforce Einstein positioning.</li><li><strong>Generalist AI raises $400M for physical AGI — AI expansion from digital to physical world accelerates</strong> — Robotics, autonomous driving, industrial automation being repriced by capital markets.</li></ul>"
+    },
+    "sources": [
+      {
+        "title": "AI NEWS: Week of June 1 to June 7, 2026 — Medium (David Akpovi)",
+        "url": "https://medium.com/@davidakpovi/ai-news-week-of-june-1-to-june-7-2026-7957940c805a",
+        "image": ""
+      },
+      {
+        "title": "AI News Highlights from 4th of June, 2026 — LinkedIn",
+        "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-4th-june-2026-ai-insiders-news-qifve",
+        "image": ""
+      },
+      {
+        "title": "AI Update, June 5, 2026 — MarketingProfs",
+        "url": "https://www.marketingprofs.com/opinions/2026/54909/ai-update-june-5-2026-ai-news-and-views-from-the-past-week",
+        "image": ""
+      },
+      {
+        "title": "AI News Briefs for June 2026 — Radical Data Science",
+        "url": "https://radicaldatascience.wordpress.com/2026/06/04/ai-news-briefs-bulletin-board-for-june-2026",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
     "date": "2026-06-07",
     "section": "design",
     "title": {
