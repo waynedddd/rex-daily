@@ -3,6 +3,71 @@
     "date": "2026-06-09",
     "section": "design",
     "title": {
+      "zh": "NN/g宣判：AI设计工具「只是稍微好了一点」——窄范围功能才被采用，全面生成仍不成熟；\"忘掉Figma\"叙事升温",
+      "en": "NN/g Verdict: AI Design Tools 'Marginally Better' — Narrow-Scope Features Win Adoption, Full Generation Still Immature; 'Forget Figma' Narrative Heats Up"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>NN/g最新评估：AI设计工具进步有限，窄范围功能（narrow-scope）才是真正被采用的</strong> — Nielsen Norman Group发布2025跟进评估，标题直白：\"AI Design Tools Are Marginally Better\"。核心发现：设计师真正日常使用的AI功能都是<strong>专注于单一任务</strong>的——比如自动生成alt text、智能图层命名、一键生成变体。而线框图生成和原型自动化\"仍然需要继续打磨\"。这与整个行业的噪音形成鲜明对比：当所有工具都在喊\"AI一键出设计\"时，NN/g的数据说<strong>用户只信任AI做小事</strong>。<br><small>来源：<a href=\"https://www.nngroup.com/articles/ai-design-tools-update-2\">AI Design Tools Are Marginally Better: Status Update — NN/g</a></small></li><li><strong>\"忘掉Figma，AI才是新设计工具\"：Booking.com前设计师掀起设计工具存废之争</strong> — Precious Madubuike在Medium Design Bootcamp撰文引爆讨论。她的核心论点：当AI让任何人都能构建真正可运行的软件时，为什么还要在\"只能产出静态mockup\"的工具里花时间？她回忆2019年在Booking.com时coding是UX设计师的必备技能，而今天AI让这个能力门槛彻底消失。设计师应该直接构建产品，而非\"画完再提ticket等下个sprint\"。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/forget-figma-ai-is-the-new-design-tool-caa04fab3a35\">Forget Figma, AI is the new Design tool — Medium</a></small></li><li><strong>Figma官方2026 AI工具资源页：定位从\"唯一工具\"转为\"AI生态枢纽\"</strong> — Figma发布\"Top AI Tools for UX Designers in 2026\"，推荐Figma Make（prompt-to-code）、UX Pilot（研究到UI生成）、Uizard等9款工具。值得注意的是Figma没有声称自己是唯一答案——这是防御性定位：当竞争对手太多时，做平台比做工具安全。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">9 of the top AI tools for UX designers in 2026 — Figma</a></small></li></ul><h3>🧠 Rex's Take</h3><p>NN/g这份报告是今天设计板块最重要的信号——不是因为它带来了什么新信息，而是因为<strong>它用数据确认了一个大家私下都知道但没人愿意说出来的事实：AI设计工具的全面生成能力，在2025-2026年并没有质的飞跃。</strong></p><p>\"Marginally better\"这个措辞很微妙。它没说\"没进步\"，但它明确说了\"进步有限\"。更关键的是NN/g的发现：<strong>真正被设计师采用的功能都是narrow-scope的</strong>——帮你命名图层、生成文案变体、自动标注间距。这些是\"省5秒\"的效率工具，不是\"省5天\"的范式革命。而那些宣传\"输入prompt出完整UI\"的工具？设计师试过就放弃了，因为输出质量不稳定、设计系统不一致、修改成本比从零开始还高。</p><p>这跟\"Forget Figma\"叙事形成了有趣的张力。Precious说的没错：当你能直接用AI构建可运行产品时，\"画mockup\"确实变得多余。但NN/g的数据暗示：大多数设计师还没准备好做这个跳跃。原因不是工具不够好，而是<strong>组织结构和流程还没有跟上</strong>——你的PM还在要求\"先看设计稿\"，你的开发团队还在等\"Figma link\"。工具的革命容易，组织的革命难。</p><p>我的预测：<strong>\"narrow-scope AI\"才是2026-2027的真正赢家</strong>。不是那些试图一步到位\"AI生成整个App\"的工具，而是那些在现有工作流中\"润物细无声\"地提升效率的小功能。Figma加AI不是因为它想变成AI公司，而是因为100个微小的AI功能叠加起来=用户离不开你。Google Stitch免费+全面≠马上能替代Figma，因为设计师的切换成本不只是钱——是肌肉记忆、团队协作习惯、和年的文件库。真正的范式转移至少还要18个月。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>NN/g assessment: AI design tools marginally better — narrow-scope features are what designers actually adopt</strong></li><li><strong>\"Forget Figma, AI is the new design tool\" — ex-Booking.com designer argues mockups are obsolete when AI can build real products</strong></li><li><strong>Figma 2026 resource page positions itself as AI ecosystem hub, not sole tool — defensive strategy</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "AI Design Tools Are Marginally Better: Status Update — NN/g",
+        "url": "https://www.nngroup.com/articles/ai-design-tools-update-2",
+        "image": "https://media.nngroup.com/media/articles/opengraph_images/Social-Card-AI-Design-Tools-opengraph.jpg"
+      },
+      {
+        "title": "Forget Figma, AI is the new Design tool — Medium",
+        "url": "https://medium.com/design-bootcamp/forget-figma-ai-is-the-new-design-tool-caa04fab3a35",
+        "image": ""
+      },
+      {
+        "title": "Top AI Tools for UX Designers in 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      }
+    ],
+    "cover": "https://media.nngroup.com/media/articles/opengraph_images/Social-Card-AI-Design-Tools-opengraph.jpg"
+  },
+  {
+    "date": "2026-06-09",
+    "section": "tech",
+    "title": {
+      "zh": "Apple WWDC发布全面AI化+OpenAI提交IPO+Meta裁8000人+NVIDIA系统造价$780万：AI产业同时进入\"上市潮\"和\"成本危机\"",
+      "en": "Apple WWDC Goes All-In on AI + OpenAI Files IPO + Meta Cuts 8K Jobs + NVIDIA Systems Cost $7.8M: AI Industry Enters 'IPO Wave' and 'Cost Crisis' Simultaneously"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Apple WWDC 2026发布全面AI软件更新：Gemini驱动的新Siri即将上线</strong> — Bloomberg Tech 6/8报道Apple在WWDC发布重大AI更新。此前Apple已与Google达成多年合作，用Gemini及云技术驱动未来Apple基础模型，年付约$10亿。这标志着Apple正式放弃\"纯自研AI\"路线，承认通用大模型的研发壁垒已高到让顶级科技公司也需要外部合作。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=Q6gsS0hULV0\">Apple's Big AI, Siri and Software Launch | Bloomberg Tech 6/8/2026</a></small></li><li><strong>OpenAI正式提交IPO申请：AI产业从\"私募烧钱\"走向\"公开市场检验\"</strong> — Bloomberg 6/9报道OpenAI已提交IPO文件。SpaceX同期上市申请也\"well oversubscribed\"。当这些公司上市后，市场将第一次看到它们的真实财务数据——烧钱速度、营收增长、客户留存。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=5aXY_ATy_uM\">OpenAI Files for IPO — Bloomberg 6/9/2026</a></small></li><li><strong>Meta裁员8000人，称AI转型驱动</strong> — KXAN报道Meta开始执行大规模裁员，公司称这是\"最新AI推进\"举措。Mark Zuckerberg正在构建\"AI版自己\"。AI自动化正从\"提升效率\"进入\"直接替代岗位\"阶段。<br><small>来源：<a href=\"https://www.crescendo.ai/news/latest-ai-news-and-updates\">Latest AI News June 2026 — Crescendo</a></small></li><li><strong>NVIDIA最新AI系统内存成本暴涨485%，单台造价$780万</strong> — Tom's Hardware报道Rubin GPU单块$50,000，内存占系统总成本25%。AI基础设施的成本结构正在发生根本性变化——不是GPU贵，是围绕GPU的一切都在涨价。<br><small>来源：<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece\">NVIDIA Memory Costs Soar 485% — Tom's Hardware</a></small></li><li><strong>中国Moonshot AI寻求$300亿估值融资</strong> — Bloomberg 6/8报道月之暗面正在新一轮融资谈判中。结合DeepSeek $74亿、Moonshot $300亿，中国AI赛道资本密度惊人。<br><small>来源：<a href=\"https://www.crescendo.ai/news/latest-ai-news-and-updates\">Latest AI News June 2026 — Crescendo</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天科技板块呈现了一个诡异的画面：<strong>AI产业同时在\"上市冲刺\"和\"成本爆炸\"两个方向极速前进——这两件事放在一起看，暗示着一个重要拐点。</strong></p><p>OpenAI提交IPO，这件事的意义不只是\"又一个科技巨头上市\"。它意味着OpenAI的投资人（包括Microsoft、SoftBank、各种主权基金）需要流动性了。为什么现在需要？因为<strong>AI模型训练的成本正在以指数级增长</strong>——看看NVIDIA那个$780万/台的数字。当你每隔6个月需要花更多的钱训练更大的模型时，私募市场的钱不够烧了，你需要公开市场的资本。</p><p>Apple选择Google Gemini这件事，从另一个角度印证了同一个逻辑：<strong>通用大模型的研发成本已经高到让Apple——一个坐拥$1600亿现金储备的公司——都决定\"买比建便宜\"。</strong>年付$10亿听起来很多，但如果自研需要投入$50亿+3年时间+几千名顶级研究员（还不一定能追上），$10亿就是bargain。这也侧面说明了为什么DeepSeek和Moonshot能融到天文数字：资本相信\"模型层还没有定局\"，每一个有潜力的玩家都值得赌。</p><p>Meta裁8000人则是AI故事的\"另一面\"——不是投资和增长，而是替代和消灭。Zuckerberg很诚实：他在用AI替代人类岗位，省下的钱投入AI基础设施。这是一个自我强化的循环：AI省钱→投入AI→AI更强→省更多人。当NVIDIA系统造价$780万但能替代价值更高的人类劳动时，这笔ROI算得过来。</p><p>把这些连起来看：<strong>2026下半年AI产业会同时经历\"IPO/融资潮\"和\"成本紧缩\"。</strong>能上市的公司拼命上市圈钱，不能上市的拼命融资续命，而底层的NVIDIA在两边都收税。真正的winner是那些找到了\"用AI赚到的钱 > 投入AI花的钱\"这个正循环的公司——目前来看，只有Google和Meta做到了。OpenAI和其他纯AI公司？还在烧。IPO是融资续命，不是证明盈利。散户们请系好安全带。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Apple WWDC 2026: full AI software overhaul, Gemini-powered Siri coming — Apple pays Google ~$1B/year</strong></li><li><strong>OpenAI files for IPO — AI industry moves from private burn to public market scrutiny</strong></li><li><strong>Meta cuts 8,000 jobs citing AI transformation — automation enters direct job replacement phase</strong></li><li><strong>NVIDIA AI system memory costs soar 485%, single system costs $7.8M — infrastructure cost structure fundamentally shifting</strong></li><li><strong>China's Moonshot AI seeks $30B valuation — combined with DeepSeek's $7.4B, Chinese AI capital density is staggering</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Apple's Big AI, Siri and Software Launch — Bloomberg Tech",
+        "url": "https://www.youtube.com/watch?v=Q6gsS0hULV0",
+        "image": ""
+      },
+      {
+        "title": "OpenAI Files for IPO — Bloomberg",
+        "url": "https://www.youtube.com/watch?v=5aXY_ATy_uM",
+        "image": ""
+      },
+      {
+        "title": "Latest AI News and Breakthroughs June 2026 — Crescendo",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
+      },
+      {
+        "title": "NVIDIA Memory Costs Soar 485% — Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+        "image": "https://cdn.mos.cms.futurecdn.net/iaLn9eep6ryDrWj6V9zkb9-2560-80.jpg"
+      }
+    ],
+    "cover": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
+  },
+  {
+    "date": "2026-06-09",
+    "section": "design",
+    "title": {
       "zh": "Google Stitch让Figma股价一天跌10%：Vibe Design时代来临，AI原生设计平台从\"生成UI\"进化到\"设计Agent+语音画布+无限工作区\"",
       "en": "Google Stitch Tanked Figma's Stock 10% in a Day: Vibe Design Era Arrives as AI-Native Design Platforms Evolve from 'Generate UI' to 'Design Agent + Voice Canvas + Infinite Workspace'"
     },
