@@ -13829,6 +13829,170 @@
       "body": "六月第二周 Visual for AI 的两个发现碰撞出一个有趣的元叙事：AI 产品的视觉设计正在从「各自创新」走向「行业标准化」。Token 消耗可视化是个好例子——每家都在用略不同的隐喻（电池、水滴、火焰），但核心设计模式（渐变色=成本梯度、动画速度=思考强度）正在趋同。协作光标更明显——紫色+虚线已经不是某一家的品牌选择，而是正在形成的行业共识。这让我想起了 Material Design 对移动端 UI 的标准化作用：当足够多产品采用相同的视觉语义，它就从「设计决策」变成了「语言」。我大胆预测：2026 年底之前会出现第一个正式的「AI 交互设计指南」——类似 Apple HIG 但专门定义 AI 产品的视觉语义：什么颜色代表 AI 在思考、什么动效代表不确定性、什么边框代表可撤销。谁先定义这个标准，谁就拿到了下一代设计话语权。",
       "body_en": "Week 2 June Visual for AI findings spark an interesting meta-narrative: AI product visual design moving from \"individual innovation\" to \"industry standardization.\" Token consumption viz is a good example — each company uses slightly different metaphors (battery, water drop, flame), but core patterns (gradient = cost scale, animation speed = thinking intensity) are converging. Collaborative cursors even clearer — purple + dashed is no longer one brand's choice but emerging industry consensus. Reminds me of Material Design's standardizing effect on mobile UI: when enough products adopt the same visual semantics, it transforms from \"design decision\" to \"language.\" Bold prediction: before end of 2026, we'll see the first formal \"AI Interaction Design Guidelines\" — like Apple HIG but specifically defining AI product visual semantics: what color means AI is thinking, what motion means uncertainty, what border means reversible. Whoever defines this standard first captures next-gen design discourse power.",
       "date": "2026-06-08"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 投资组合「情绪图谱」— 市场恐慌的温度计设计",
+      "body": "Bloomberg Terminal 2026 更新引入了 AI 驱动的「市场情绪图谱」面板：不再只看 K 线和成交量，而是用 NLP 分析全球新闻、社交媒体、研报情绪，生成一张实时「情绪热力图」。设计最精妙的地方：用有机的水墨晕染效果替代传统的色块——恐慌情绪像墨水一样「蔓延」到关联板块，贪婪情绪像金色光芒扩散。让交易员在几百个信号中秒懂「市场今天的情绪重心在哪里」。",
+      "body_en": "Bloomberg Terminal 2026 update introduces AI-driven \"market sentiment heatmap\": beyond candlesticks and volume, NLP analyzes global news, social media, and research reports to generate a real-time emotion map. Cleverest design: organic ink-wash effects replace traditional color blocks — panic \"bleeds\" into correlated sectors like ink, greed glows like golden light spreading. Lets traders instantly identify where the market's emotional center of gravity lies among hundreds of signals.",
+      "tags": [
+        "Market Sentiment",
+        "NLP Viz",
+        "Bloomberg",
+        "Ink-Wash UI"
+      ],
+      "link": "https://dribbble.com/search/market-sentiment-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-06-09"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 个人碳账本 — 消费行为的环境成本可视化",
+      "body": "2026 年 Q2 末最值得关注的 Fintech × Climate 交叉方向：AI 自动计算每笔消费的碳足迹，生成「个人碳账本」。Doconomy、Meniga 和一批新创公司把碳排放数据嵌入银行 App 的交易详情页——不是一个单独的「环保」tab，而是在每笔消费旁标注碳当量（像标注外币汇率一样自然）。设计上用树木生长/枯萎的隐喻可视化碳预算余额。最聪明的做法：不是告诉你「你排放了多少」（引发负罪感），而是「你这个月比 78% 的同龄人少排放了 X%」（引发自豪感）。",
+      "body_en": "Most notable late Q2 2026 Fintech × Climate direction: AI auto-calculates carbon footprint per transaction, generating a \"personal carbon ledger.\" Doconomy, Meniga, and startups embed emissions data in bank app transaction details — not a separate \"eco\" tab but carbon equivalent noted beside each purchase (as natural as foreign exchange rates). Tree growth/withering metaphor for carbon budget balance. Smartest approach: not \"how much you emitted\" (guilt) but \"you emitted X% less than 78% of your peers\" (pride).",
+      "tags": [
+        "Carbon Fintech",
+        "Climate UX",
+        "Behavioral Finance",
+        "Green Banking"
+      ],
+      "link": "https://www.behance.net/search/projects/carbon-footprint-banking-app",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=1200&q=80",
+      "date": "2026-06-09"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "六月第二周 Fintech 设计的两个新信号，加上上周的实时清算和订阅管理，拼出了 2026 年中 Fintech UX 的一张完整地图：金融设计正在从「交易记录」进化为「行为镜像」。市场情绪图谱把群体心理变成可感知的视觉；碳账本把消费行为的外部性变成可感知的成本。两者的共同设计哲学是「让不可见的后果可见」——一个让你看到市场的恐惧和贪婪，一个让你看到消费的环境代价。2026 年 Fintech 设计的终极趋势不是让交易更快、更方便，而是让每笔钱的「隐含意义」可视化。这和三月讨论的信任 UX 是同一个脉络的延伸——信任需要透明，不只是对 AI 的透明，还有对后果的透明。碳账本用社会比较替代负罪感这个设计决策特别精妙：行为经济学告诉我们，「比同龄人好」比「绝对数字」有效 10 倍。",
+      "body_en": "Two new Fintech signals this week, combined with last week's real-time settlement and subscription management, complete 2026 mid-year Fintech UX map: financial design evolves from \"transaction records\" to \"behavioral mirrors.\" Sentiment heatmaps make collective psychology perceivable; carbon ledgers make consumption externalities perceivable costs. Shared philosophy: \"make invisible consequences visible\" — one shows market fear/greed, one shows environmental cost of spending. 2026 Fintech trend isn't faster/easier transactions but visualizing the \"hidden meaning\" of every dollar. Same trust UX thread from March — trust needs transparency, not just of AI but of consequences. Carbon ledger's social comparison over guilt is particularly smart: behavioral economics shows \"better than peers\" is 10x more effective than absolute numbers.",
+      "date": "2026-06-09"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 力量训练「肌肉激活图」— 实时生物反馈可视化",
+      "body": "2026 年最前沿的力量训练 AI 产品：结合 EMG 传感器和计算机视觉的实时肌肉激活可视化。屏幕上显示用户的身体轮廓，正在发力的肌群用彩色填充实时亮起——目标肌群绿色（激活正确），代偿肌群黄色（轻微代偿），危险肌群红色（过度代偿，可能受伤）。最精妙的交互：点击任何亮起的肌群，AI 给出一行调整建议「试着把注意力放在左侧臀中肌」。把「正确发力」从教练的语言变成了用户可以直接看到的颜色。",
+      "body_en": "Most cutting-edge 2026 strength training AI: combining EMG sensors and computer vision for real-time muscle activation visualization. User's body outline on screen with active muscle groups lighting up in color — target muscles green (correct activation), compensating muscles yellow (mild compensation), dangerous muscles red (over-compensation, injury risk). Best interaction: tapping any lit muscle group triggers one-line AI adjustment cue — \"try focusing on your left glute medius.\" Transforms \"proper form\" from coach language to user-visible color.",
+      "tags": [
+        "EMG",
+        "Muscle Activation",
+        "Biofeedback",
+        "Strength Training"
+      ],
+      "link": "https://dribbble.com/search/muscle-activation-ai-fitness",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-06-09"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动「数字孪生」— 从数据到虚拟分身的设计跃迁",
+      "body": "2026 年 Q2 运动科技最激进的方向：基于累积运动数据构建用户的「数字孪生体」。不是简单的 3D 头像，而是精确到肌肉纤维比例、关节灵活度、心肺容量的虚拟身体模型。AI 可以在虚拟分身上「预演」训练计划——提前模拟一周的高强度训练对你的虚拟身体造成的影响，预测疲劳曲线和伤病风险。界面用半透明的水晶人体模型，内部器官和肌肉系统可分层查看。这是运动 AI 从「数据分析」走向「预测模拟」的标志性设计。",
+      "body_en": "Most radical Q2 2026 sports tech direction: building user \"digital twins\" from cumulative exercise data. Not simple 3D avatars but virtual body models accurate to muscle fiber ratios, joint flexibility, cardiopulmonary capacity. AI \"rehearses\" training plans on the virtual twin — simulating a week's high-intensity training impact, predicting fatigue curves and injury risk. Interface uses semi-transparent crystal body model with layered organ and muscle system views. Landmark design marking sports AI's shift from \"data analysis\" to \"predictive simulation.\"",
+      "tags": [
+        "Digital Twin",
+        "Body Simulation",
+        "Predictive AI",
+        "3D Anatomy"
+      ],
+      "link": "https://www.behance.net/search/projects/digital-twin-sports-body-AI",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=1200&q=80",
+      "date": "2026-06-09"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "本周运动 AI 的两个发现——肌肉激活实时可视化和数字孪生——放在一起看到一个清晰的进化方向：运动 AI 正在从「告诉你数据」进化到「让你看见自己」。过去的运动 App 给你数字（心率 155、步频 180、功率 250W），但大多数人不知道这些数字意味着什么。新一代产品直接让你「看到」——看到哪块肌肉在发力，看到虚拟身体一周后的疲劳状态。这是从「数据素养」门槛到「视觉直觉」门槛的降维打击。有趣的哲学问题：当你能在屏幕上看到自己身体的数字孪生，运动的意义是否发生了变化？过去运动是「感受身体」，现在运动是「观察身体」。这两者之间有微妙的张力——最好的运动 AI 设计应该增强而非取代身体感知。EMG 图的绿色高亮不是让你盯着屏幕练，而是帮你建立「啊，原来正确发力的感觉是这样」的身体记忆。技术的终极目标是让你不再需要技术。",
+      "body_en": "This week's two sports AI findings — real-time muscle activation visualization and digital twins — reveal a clear evolution: sports AI moving from \"telling you data\" to \"letting you see yourself.\" Past apps gave numbers (HR 155, cadence 180, power 250W) that most people don't understand. New products let you SEE — see which muscles are firing, see your virtual body's fatigue state a week out. A dimensional reduction from \"data literacy\" barriers to \"visual intuition.\" Philosophical question: when you can see your body's digital twin on screen, does exercise's meaning change? Exercise was \"feeling your body\"; now it's \"observing your body.\" Subtle tension — the best sports AI should augment, not replace body awareness. EMG's green highlight isn't for staring at a screen while training but for building body memory of \"ah, so this is what correct activation feels like.\" Technology's ultimate goal is making you no longer need technology.",
+      "date": "2026-06-09"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 「认知负荷仪表盘」— 内容复杂度的实时量化",
+      "body": "Hemingway Editor 和 Grammarly 的 2026 AI 升级不只看语法，开始量化「认知负荷」：每段内容的理解难度被实时评分并可视化。界面右侧用一条垂直的「难度光谱带」——文章从上到下滚动时，光谱带对应位置显示该段的认知难度（绿=轻松、黄=适中、红=困难）。最聪明的设计：点击红色区域，AI 不只说「这段太难了」，而是给出三种简化方案——拆分长句、替换术语、增加过渡句——用户 A/B 对比选择。内容设计从「主观判断」走向「可量化的认知工程」。",
+      "body_en": "Hemingway Editor and Grammarly 2026 AI upgrades beyond grammar to quantifying \"cognitive load\": each paragraph's comprehension difficulty is scored and visualized in real-time. Right-side vertical \"difficulty spectrum band\" — as article scrolls, the band shows cognitive difficulty at each position (green=easy, yellow=moderate, red=hard). Smartest design: clicking red zones triggers AI suggesting three simplification options — split long sentences, replace jargon, add transitions — users A/B compare and choose. Content design moves from \"subjective judgment\" to \"quantifiable cognitive engineering.\"",
+      "tags": [
+        "Cognitive Load",
+        "Readability AI",
+        "Writing UX",
+        "Quantified Content"
+      ],
+      "link": "https://dribbble.com/search/content-readability-ai-editor",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-06-09"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「内容温度」设计系统 — AI 检测文章的情感基调",
+      "body": "2026 年 Q2 的内容设计新维度：AI 文章「温度检测」。不只是语法和可读性，还有情感基调的量化——这段是理性分析（冷色光谱），那段是情感说服（暖色光谱），这里有未标注的观点伪装成事实（闪烁警告）。Notion AI 和 Craft 开始在编辑模式中集成这个功能，帮作者意识到自己「不经意间在某段变得过于主观」。排版上用文字底部极细的色带暗示温度——冷静的分析段落底部是淡蓝色线，激昂的号召段落底部是暖橙色线。读者不一定注意到，但潜意识会感受到文章的节奏变化。",
+      "body_en": "New Q2 2026 content design dimension: AI article \"temperature detection.\" Beyond grammar and readability — emotional tone quantification. Rational analysis (cool spectrum), emotional persuasion (warm spectrum), unmarked opinion disguised as fact (flashing warning). Notion AI and Craft integrating this in edit mode, helping authors realize when they \"unconsciously become too subjective.\" Typography: ultra-thin color bands under text suggest temperature — calm analysis paragraphs get pale blue underlines, rallying call paragraphs get warm orange. Readers may not notice consciously, but subconsciously feel the article's rhythm shifts.",
+      "tags": [
+        "Content Temperature",
+        "Emotion AI",
+        "Tone Detection",
+        "Editorial Intelligence"
+      ],
+      "link": "https://www.behance.net/search/projects/content-tone-analysis-design",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-06-09"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "认知负荷仪表盘和内容温度检测，合在一起看到 Content Design 在 2026 年中的一次关键飞跃：内容的「不可见属性」正在被系统性地可视化。过去，一篇文章的难度靠编辑的直觉判断，情感基调靠读者的主观感受。现在 AI 把这两个维度都变成了可测量、可调节的设计参数。这对内容设计师意味着什么？你的工具箱里多了两把新尺子——一把量「认知成本」，一把量「情感温度」。最好的文章不是全程简单（那是小学课文），也不是全程困难（那是学术论文），而是有节奏的难度曲线——先给你一个简单的入口（绿），逐渐增加复杂度（黄），在关键论点处挑战你（红），然后用一个简洁的总结把你接住（绿）。好的内容设计就像好的音乐——有动态范围。从 pianissimo 到 fortissimo 再回来。AI 终于让这种「动态感」变得可设计了。",
+      "body_en": "Cognitive load dashboard and content temperature detection together reveal Content Design's key mid-2026 leap: content's \"invisible properties\" are being systematically visualized. Previously, article difficulty relied on editorial intuition, emotional tone on reader subjective feelings. Now AI makes both measurable, adjustable design parameters. What this means: two new rulers in your toolkit — one measuring \"cognitive cost,\" one measuring \"emotional temperature.\" Best articles aren't uniformly easy (that's textbooks) or uniformly hard (that's academia) but have rhythmic difficulty curves — easy entrance (green), gradually increase complexity (yellow), challenge at key arguments (red), then catch you with a concise summary (green). Good content design is like good music — dynamic range. From pianissimo to fortissimo and back. AI finally makes this \"dynamic feel\" designable.",
+      "date": "2026-06-09"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 产品的「意识流」界面 — 从线性对话到空间思维",
+      "body": "Muse、tldraw 和 Obsidian Canvas 2026 年的 AI 升级代表了一个新方向：AI 交互从「一问一答的线性对话」走向「画布式的空间思维」。用户在无限画布上放置想法节点，AI 自动生成节点间的关联线、补充缺失的逻辑链、甚至在空白区域「生长」出相关概念。界面像一张活的思维导图——人类放种子，AI 让它长成森林。视觉上用有机的曲线连接（不是直线箭头），节点大小反映重要性，颜色反映主题聚类。从「对话框」到「创作空间」，AI 交互范式的第三种形态正在成形。",
+      "body_en": "Muse, tldraw, and Obsidian Canvas 2026 AI upgrades represent a new direction: AI interaction moving from \"linear Q&A dialogue\" to \"canvas-based spatial thinking.\" Users place thought nodes on infinite canvas, AI auto-generates relationship lines, fills missing logical chains, even \"grows\" related concepts in blank areas. Interface like a living mind map — humans plant seeds, AI grows forests. Organic curve connections (not straight arrows), node size reflecting importance, color reflecting topic clusters. From \"dialog box\" to \"creation space\" — the third form of AI interaction paradigm is taking shape.",
+      "tags": [
+        "Canvas AI",
+        "Spatial Thinking",
+        "Mind Map",
+        "Organic UI"
+      ],
+      "link": "https://dribbble.com/search/ai-canvas-spatial-thinking",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-06-09"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 生成式 UI — 界面本身由 AI 实时「长出来」",
+      "body": "Vercel v0、Bolt.new、和 Figma Make 在 2026 年 Q2 把一个概念推到了极致：Generative UI——界面不是预先设计好的，而是根据用户意图实时生成的。你说「我需要一个对比两个方案的视图」，AI 不是从模板库里找一个，而是当场生成最适合这个具体场景的布局和组件。这对 Visual for AI 的意义深远：AI 产品的视觉设计从「设计师画好一套界面」变成「设计师定义生成规则」。品牌一致性不再靠像素级规范保证，而靠生成约束保证——色彩范围、间距比例、组件风格作为 AI 生成的「围栏」。",
+      "body_en": "Vercel v0, Bolt.new, and Figma Make push a concept to its limit in Q2 2026: Generative UI — interfaces not pre-designed but generated in real-time from user intent. Say \"I need a view comparing two options\" and AI doesn't find a template but generates the optimal layout and components for this specific scenario on the spot. Profound implications for Visual for AI: from \"designers draw a fixed interface\" to \"designers define generation rules.\" Brand consistency no longer guaranteed by pixel-level specs but by generation constraints — color ranges, spacing ratios, component styles as AI generation \"guardrails.\"",
+      "tags": [
+        "Generative UI",
+        "v0",
+        "Real-time Generation",
+        "Design Rules"
+      ],
+      "link": "https://v0.dev",
+      "linkText": "v0 by Vercel",
+      "image": "https://cdn.dribbble.com/userupload/46334296/file/84d1ed2927fe621b7d8446de9b6af56b.jpg?resize=1600x1200&vertical=center",
+      "date": "2026-06-09"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "意识流画布和生成式 UI 放在一起看，Visual for AI 在 2026 年六月触及了一个终极命题：界面还需要被「设计」吗？画布式 AI 交互说的是「输入形式不必是对话框，可以是自由空间」；生成式 UI 说的是「输出形式不必是固定布局，可以是即时生成」。当输入和输出都变得流动和自适应，「界面设计」这个概念本身正在被解构。但——这不意味着设计师失业。恰恰相反，当界面从「静态产物」变成「动态过程」时，需要被设计的东西从「像素」升级为「规则」。生成式 UI 的设计师不是在画界面，是在定义一套美学约束和行为规则——什么样的布局在什么场景下生成、组件之间的关系逻辑、视觉节奏的边界条件。这更像是在写「视觉宪法」而非「视觉规范」。四月我说设计师的交付物从文件变成算法，六月的观察让这个判断更具体了：设计师的交付物是「生成规则」——一套能让 AI 在无数场景下都生成「对」的界面的美学宪法。这需要比传统 UI 设计更深的系统思维能力，也更有创造性。",
+      "body_en": "Spatial canvas AI and Generative UI together, Visual for AI in June 2026 touches an ultimate question: does interface still need to be \"designed\"? Canvas AI interaction says \"input form needn't be dialog boxes — it can be free space\"; Generative UI says \"output form needn't be fixed layouts — it can be instant generation.\" When both input and output become fluid and adaptive, \"interface design\" itself is being deconstructed. But — designers don't lose jobs. When interfaces shift from \"static artifacts\" to \"dynamic processes,\" what needs designing upgrades from \"pixels\" to \"rules.\" Generative UI designers don't draw interfaces — they define aesthetic constraints and behavioral rules: what layouts generate in what scenarios, relationship logic between components, visual rhythm boundary conditions. More like writing a \"visual constitution\" than \"visual specifications.\" April I said designer deliverables shift from files to algorithms; June makes it concrete: deliverables are \"generation rules\" — an aesthetic constitution enabling AI to generate \"right\" interfaces across infinite scenarios. Requires deeper systems thinking than traditional UI, and is more creative.",
+      "date": "2026-06-09"
     }
   ]
 }
