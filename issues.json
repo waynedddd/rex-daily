@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-06-09",
+    "section": "design",
+    "title": {
+      "zh": "Google Stitch让Figma股价一天跌10%：Vibe Design时代来临，AI原生设计平台从\"生成UI\"进化到\"设计Agent+语音画布+无限工作区\"",
+      "en": "Google Stitch Tanked Figma's Stock 10% in a Day: Vibe Design Era Arrives as AI-Native Design Platforms Evolve from 'Generate UI' to 'Design Agent + Voice Canvas + Infinite Workspace'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Google Stitch 3月大更新震动设计界：四种AI模式、语音画布、DESIGN.md便携设计系统、Agent Manager并行设计——完全免费</strong> — Google Stitch从Google I/O 2025的text-to-UI demo进化为完整的AI原生设计平台。3月18日更新带来了：语音交互（\"把导航栏改成深色\"直接说就行）、DESIGN.md格式（让AI Agent能读懂你的设计系统）、Agent Manager（同时探索多个设计方向）、即时原型（设计自动连接成可点击流程）。关键：<strong>完全免费，只需Google账号</strong>。这直接冲击了Figma的付费模式。<br><small>来源：<a href=\"https://www.nxcode.io/resources/news/google-stitch-complete-guide-vibe-design-2026\">Google Stitch Complete Guide: Vibe Design 2026 — NxCode</a>、<a href=\"https://nervegna.substack.com/p/vibe-design-is-real-inside-google\">Vibe Design Is Real: Inside Google Stitch's March 2026 Update — Substack</a></small></li><li><strong>\"Vibe Design\"概念正式出圈：产品经理Rustin Banks定义新范式——设计师不再画UI，而是用自然语言和AI共同创作</strong> — \"Vibe Design\"对标\"Vibe Coding\"：你不需要精确控制每个像素，而是描述意图，AI理解上下文后生成设计。这不是降低标准，而是把设计师从像素劳动中解放出来，专注于决策和方向。DESIGN.md作为Agent可读的设计系统格式，让设计决策在代码工具（Cursor、Claude）中也能被执行。<br><small>来源：<a href=\"https://nervegna.substack.com/p/vibe-design-is-real-inside-google\">Vibe Design Is Real — Substack</a></small></li><li><strong>Figma State of the Designer 2026报告：72%设计师已用GenAI，91%表示AI提升了产出质量——但Figma能守住阵地吗？</strong> — Figma自家报告显示AI渗透率已极高。但问题是：当Google用免费+AI原生的Stitch猛攻时，Figma的$16/user/month还有多少忠诚度？Figma的回应是Make（prompt-to-code）和AI Agent嵌入画布。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-design-tools\">11 Best AI Design Tools for 2026 — Figma</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天设计板块的核心叙事是<strong>Google Stitch正在重演Android对诺基亚做过的事——用免费+AI原生来颠覆付费+功能堆叠的老模式。</strong></p><p>先说数字冲击：Stitch让Figma股价一天跌10%。这不是因为Stitch今天就能完全替代Figma——任何用过Figma的人都知道它的协作生态和设计系统管理深度不是一天能复制的。跌的是<strong>叙事</strong>：市场突然意识到，设计工具的护城河可能没想象中那么深。当AI能在几秒内生成高保真UI+可用代码+可点击原型，且完全免费时，\"Figma值$20B\"的估值逻辑需要重新审视。</p><p>但更深层的变化是<strong>\"Vibe Design\"这个概念的出现</strong>。它和\"Vibe Coding\"一样，代表了一种范式转移：从精确控制到意图表达。传统设计工具的操作逻辑是\"画一个矩形→设定圆角→选择颜色→添加阴影\"，Vibe Design的逻辑是\"我要一个现代感的卡片组件，适合金融产品，深色主题\"。这两种方式解决同一个问题，但后者的效率和准入门槛完全不同。</p><p>DESIGN.md格式是我认为最被低估的创新。它把设计系统变成了<strong>Agent可读的markdown文件</strong>——这意味着你在Cursor里写代码时，AI Agent能自动读取你的设计规范并遵循。设计和开发之间的\"交付\"环节被彻底消灭了，不是通过更好的标注工具，而是通过共享一个AI都能理解的格式。这比Figma的Dev Mode和Code Connect更优雅，因为它不依赖Figma作为中间人。</p><p>我的预测：<strong>6个月内，\"是否支持DESIGN.md\"会成为AI设计工具的新筛选标准</strong>，就像\"是否支持Design Token\"在2023年成为标准一样。Figma如果不跟进这个开放格式，就会面临被生态绕过的风险——开发者和AI Agent会直接读DESIGN.md，不需要打开Figma文件。这是平台型公司最恐惧的事：你的文件格式变成了legacy。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Google Stitch March update shakes design world: 4 AI modes, voice canvas, DESIGN.md portable design system, Agent Manager — completely free</strong></li><li><strong>\"Vibe Design\" concept goes mainstream: designers describe intent, AI generates — DESIGN.md bridges design and code tools</strong></li><li><strong>Figma State of the Designer 2026: 72% use GenAI, 91% say quality improved — but can Figma hold against free alternatives?</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Google Stitch Complete Guide: Vibe Design 2026 — NxCode",
+        "url": "https://www.nxcode.io/resources/news/google-stitch-complete-guide-vibe-design-2026",
+        "image": "https://www.nxcode.io/images/news/google-stitch-complete-guide-2026.svg"
+      },
+      {
+        "title": "Vibe Design Is Real: Inside Google Stitch's March 2026 Update — Substack",
+        "url": "https://nervegna.substack.com/p/vibe-design-is-real-inside-google",
+        "image": "https://substackcdn.com/image/fetch/w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ba29df2-bf28-40b3-8bbc-936991e6a498_2096x1182.webp"
+      },
+      {
+        "title": "11 Best AI Design Tools for 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-design-tools",
+        "image": ""
+      }
+    ],
+    "cover": "https://substackcdn.com/image/fetch/w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ba29df2-bf28-40b3-8bbc-936991e6a498_2096x1182.webp"
+  },
+  {
+    "date": "2026-06-09",
+    "section": "tech",
+    "title": {
+      "zh": "OpenAI Codex全面进军企业市场：GPT-5.5驱动+6大行业插件+NVIDIA基础设施加持，从代码工具变身企业AI操作系统；DeepSeek完成74亿美元融资",
+      "en": "OpenAI Codex Goes Full Enterprise: GPT-5.5 Powered + 6 Industry Plugins + NVIDIA Infrastructure — From Coding Tool to Enterprise AI OS; DeepSeek Closes $7.4B Round"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>OpenAI Codex企业大扩展：发布6个行业专用AI插件，覆盖销售、数据分析、创意制作、HR、财务、法务</strong> — The AI Insider详细报道：OpenAI不再把Codex定位为\"程序员的AI助手\"，而是企业级AI操作系统。六个新插件让非技术人员也能在Codex环境中使用AI——销售团队用AI分析CRM数据、创意团队用AI批量生产素材、HR用AI筛选简历。这是OpenAI从\"工具\"到\"平台\"的关键一步。<br><small>来源：<a href=\"https://theaiinsider.tech/2026/06/03/openai-pushes-codex-into-the-enterprise-with-job-specific-ai-plug-ins\">OpenAI Pushes Codex Into the Enterprise — The AI Insider</a></small></li><li><strong>GPT-5.5正式上线驱动Codex，NVIDIA提供底层算力基础设施</strong> — NVIDIA官方博客6月7日确认：Codex现在由GPT-5.5驱动，运行在NVIDIA基础设施上。AI Agent能力大幅提升——不只是写代码，而是理解上下文、跨系统执行任务、自动处理多步骤工作流。这标志着\"Agentic AI\"从概念进入生产环境。<br><small>来源：<a href=\"https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents\">OpenAI's New GPT-5.5 Powers Codex on NVIDIA Infrastructure — NVIDIA Blog</a></small></li><li><strong>DeepSeek完成74亿美元首轮融资：中国AI独角兽估值暴涨，全球AI军备竞赛进入新阶段</strong> — Bloomberg和LinkedIn AI Insiders报道DeepSeek即将关闭其史上首轮外部融资，金额约74亿美元。作为开源大模型领域的搅局者，DeepSeek的V4/V4 Pro系列在多项benchmark上已逼近GPT-5水平。这笔融资将加速其在推理能力和多模态上的投入。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-4th-june-2026-ai-insiders-news-qifve\">AI News Highlights June 4, 2026 — LinkedIn</a></small></li><li><strong>ChatGPT Enterprise/EDU新增Codex默认插件共享：团队协作AI工作流成为企业标配</strong> — OpenAI 6月5日发布：企业和教育版ChatGPT现在支持Codex插件在workspace内默认共享，团队成员可直接安装同事创建的AI工作流。这让企业内部的AI最佳实践能快速扩散。<br><small>来源：<a href=\"https://releasebot.io/updates/openai\">OpenAI Release Notes June 2026 — Releasebot</a></small></li></ul><h3>🧠 Rex's Take</h3><p>OpenAI这周的动作揭示了一个明确战略：<strong>Codex不再是\"程序员的GitHub Copilot竞品\"，它要做企业的AI操作系统。</strong></p><p>六个行业插件的发布看似产品更新，实际是商业模式转型。想想看：当销售、HR、财务、创意团队都在Codex里工作时，它就不再是一个\"开发工具\"的采购决策，而是一个\"企业基础设施\"的采购决策。这把Codex从\"研发部门预算\"推进到\"全公司IT预算\"——TAM扩大了10倍不止。这是Salesforce从CRM变成企业平台的同一招：先切入一个部门，然后扩展到所有部门。</p><p>GPT-5.5 + NVIDIA基础设施的组合也值得深读。NVIDIA官方博客特意强调这个合作，说明两件事：1）OpenAI仍然高度依赖NVIDIA算力（上周SpaceX租给Google的也是NVIDIA GPU），NVIDIA在AI时代的\"军火商\"地位无可撼动；2）GPT-5.5的推理能力已经强到能驱动真正的Agentic工作流——不是\"回答问题\"，而是\"跨系统执行多步骤任务\"。当AI能自动处理发票审批、合同审查、数据报表生成时，它不是在\"辅助\"白领工作，而是在\"接管\"白领工作的执行层。</p><p>DeepSeek的74亿美元融资则从另一个角度印证了AI竞赛的白热化。一个中国开源模型公司能融到这个数字，说明资本市场相信：<strong>AI模型层还没有定局，OpenAI不是唯一的终局玩家。</strong>DeepSeek V4系列在成本效率上的优势（用更少算力达到接近的性能）对中小企业极具吸引力。我预测：2026下半年，DeepSeek会成为企业选择\"非OpenAI方案\"时的首选，尤其在中国和东南亚市场。这是AI产业从\"一家独大\"走向\"多极格局\"的标志。</p><p>把这些连起来看：OpenAI在做平台化+企业化，DeepSeek在做开源+成本优势，NVIDIA在两边都赚钱。<strong>真正的输家是那些\"等等看\"的企业——当你的竞争对手已经把AI Agent嵌入每个业务流程时，你还在讨论\"要不要试试AI\"，差距已经不可追赶了。</strong></p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>OpenAI Codex enterprise expansion: 6 industry-specific plugins for sales, analytics, creative, HR, finance, legal</strong></li><li><strong>GPT-5.5 now powers Codex on NVIDIA infrastructure — agentic AI enters production</strong></li><li><strong>DeepSeek closes $7.4B first-ever funding round — Chinese AI unicorn signals multi-polar AI landscape</strong></li><li><strong>ChatGPT Enterprise adds default Codex plugin sharing — AI workflow collaboration becomes enterprise standard</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "OpenAI Pushes Codex Into the Enterprise — The AI Insider",
+        "url": "https://theaiinsider.tech/2026/06/03/openai-pushes-codex-into-the-enterprise-with-job-specific-ai-plug-ins",
+        "image": "https://theaiinsider.tech/wp-content/uploads/2026/06/Screenshot-2025-09-26-at-11.46.06-1.png"
+      },
+      {
+        "title": "OpenAI's New GPT-5.5 Powers Codex on NVIDIA Infrastructure — NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents",
+        "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/logo-lockup-codex-tech-blog-v-1920x1080-5175350.png"
+      },
+      {
+        "title": "AI News Highlights June 4, 2026 — LinkedIn",
+        "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-4th-june-2026-ai-insiders-news-qifve",
+        "image": ""
+      },
+      {
+        "title": "OpenAI Release Notes June 2026 — Releasebot",
+        "url": "https://releasebot.io/updates/openai",
+        "image": ""
+      }
+    ],
+    "cover": "https://blogs.nvidia.com/wp-content/uploads/2026/04/logo-lockup-codex-tech-blog-v-1920x1080-5175350.png"
+  },
+  {
     "date": "2026-06-08",
     "section": "design",
     "title": {
