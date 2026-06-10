@@ -3,6 +3,66 @@
     "date": "2026-06-10",
     "section": "design",
     "title": {
+      "zh": "AI设计工具2026年中盘点：UX Pilot、Banani、Uizard三足鼎立，\"AI生成+人类精修\"成为标准工作流；Google Stitch悄悄入场搅局",
+      "en": "AI Design Tools Mid-2026 Landscape: UX Pilot, Banani, Uizard Lead; \"AI Generate + Human Refine\" Becomes Standard Workflow; Google Stitch Enters Quietly"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Unite.AI发布2026年5月最佳AI UX/UI设计工具榜单：UX Pilot、Banani、Uizard占据前三</strong> — 完整评测涵盖7款工具，核心发现是：最受好评的工具都不是\"一键生成整个App\"的全能型，而是在特定环节（布局生成、原型搭建、设计系统对齐）做到极致。UX Pilot的预测热力图功能让设计师在build之前就能看到用户注意力分布，这是AI真正有价值的地方——不是替代设计决策，而是用数据辅助决策。<br><small>来源：<a href=\"https://www.unite.ai/best-ai-ux-ui-design-tools\">7 Best AI UX and UI Design Tools (May 2026) — Unite.AI</a></small></li><li><strong>Muzli盘点15款\"真正改变工作方式\"的AI设计工具：Figma AI + Cursor成为solo设计师最佳组合</strong> — 文章按角色推荐工具栈：solo设计师用Figma AI+Cursor，设计主管加Maze+Frontitude，创意总监用Midjourney+Firefly+UX Pilot。最关键的判断标准是：\"如果一个工具创造的review工作量大于它省下的生产工作量，就该扔掉它。\"这是对AI工具泡沫最精准的筛选标准。<br><small>来源：<a href=\"https://muz.li/blog/best-ai-design-tools-for-ui-ux-designers-in-2026\">15 AI Design Tools That Actually Change How You Work in 2026 — Muzli</a></small></li><li><strong>Google Stitch以\"实验性免费工具\"身份入场：prompt生成多屏幕UX流程，直接瞄准Figma腹地</strong> — 在Unite.AI评测中，Google Stitch被定位为\"早期UX流程构思\"工具，支持prompt生成多屏幕场景和布局建议。虽然目前是实验阶段，但Google的免费策略+Gemini模型能力意味着它一旦成熟，将对Figma的AI功能形成直接威胁。<br><small>来源：<a href=\"https://www.unite.ai/best-ai-ux-ui-design-tools\">7 Best AI UX and UI Design Tools — Unite.AI</a></small></li></ul><h3>🧠 Rex's Take</h3><p>连续观察AI设计工具生态三天，一个清晰的格局已经定型：<strong>2026年的AI设计工具不再是\"能不能用\"的问题，而是\"怎么组合\"的问题。</strong></p><p>Muzli的角色化工具栈推荐揭示了一个重要趋势：AI设计工具正在走向<strong>专业分化</strong>，就像摄影器材一样——没有人用同一台相机拍风光、人像和微距。solo设计师的Figma AI+Cursor组合，本质上是\"设计+出码\"的最短路径；而创意总监的Midjourney+UX Pilot组合，是\"探索方向+快速验证\"的决策加速器。工具的价值不在于它能做什么，而在于它能帮你<strong>跳过哪个环节</strong>。</p><p>UX Pilot的预测热力图是我最看好的方向。传统流程是：设计→开发→上线→收集数据→发现用户根本不看你精心设计的那个区域→改版。现在AI可以在设计阶段就预测注意力分布，这不是省时间，是<strong>避免错误决策</strong>。一个方向错误的设计，做得再快也是浪费。</p><p>Google Stitch的入场值得警惕。Google的打法一贯是：免费工具培养习惯→用户形成依赖→生态锁定。当Stitch的prompt-to-flow能力成熟到可以覆盖80%的早期设计需求时，Figma的AI故事就会面临一个尴尬：凭什么用户要为Figma AI付费，当Google免费给你同样的东西？Figma的护城河在设计系统深度整合和团队协作——但Google也有Workspace生态。这场仗在2026下半年会越来越激烈。我预测：到年底会出现第一轮AI设计工具的整合潮（收购或关停），因为市场无法同时养活这么多相似的工具。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Unite.AI ranks top AI UX/UI tools for 2026: UX Pilot, Banani, Uizard lead with focused capabilities</strong></li><li><strong>Muzli recommends role-based AI tool stacks: Figma AI + Cursor for solo designers, Midjourney + UX Pilot for creative directors</strong></li><li><strong>Google Stitch enters as experimental free tool targeting early UX flow ideation — direct threat to Figma AI</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "7 Best AI UX and UI Design Tools (May 2026) — Unite.AI",
+        "url": "https://www.unite.ai/best-ai-ux-ui-design-tools",
+        "image": "https://www.unite.ai/wp-content/uploads/2025/11/ChatGPT-Image-Nov-30-2025-02_26_04-PM.png"
+      },
+      {
+        "title": "15 AI Design Tools That Actually Change How You Work in 2026 — Muzli",
+        "url": "https://muz.li/blog/best-ai-design-tools-for-ui-ux-designers-in-2026",
+        "image": ""
+      },
+      {
+        "title": "Design Tool of the Month News June 2026 — Mean CEO",
+        "url": "https://blog.mean.ceo/design-tool-of-the-month-news-june-2026",
+        "image": ""
+      }
+    ],
+    "cover": "https://www.unite.ai/wp-content/uploads/2025/11/ChatGPT-Image-Nov-30-2025-02_26_04-PM.png"
+  },
+  {
+    "date": "2026-06-10",
+    "section": "tech",
+    "title": {
+      "zh": "Apple WWDC 2026重磅：Siri基于Google Gemini重建、OpenAI合作扩展至iOS 27；SpaceX即将IPO；Amazon裁员3万同时发布仓库对话机器人",
+      "en": "Apple WWDC 2026: Siri Rebuilt on Google Gemini, OpenAI Partnership Expands to iOS 27; SpaceX IPO Imminent; Amazon Cuts 30K Jobs While Launching Warehouse Robot"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Apple WWDC 2026：Siri在Google Gemini上重建，OpenAI合作扩展至iOS 27——Apple正式承认自研AI不够用</strong> — NPR、Bloomberg、CNBC多家媒体报道：Apple在WWDC 2026上宣布Siri将基于Google Gemini重建，同时OpenAI合作进一步深化。这意味着Apple做出了一个历史性的战略选择：<strong>放弃自研大模型追赶，转而成为AI模型的\"最佳集成商\"</strong>。Apple每年向Google支付10亿美元使用Gemini——这个数字听起来很大，但对比自研一个frontier model的成本（估计50-100亿/年），这可能是Tim Cook做过的最精明的ROI计算。<br><small>来源：<a href=\"https://www.npr.org/2026/06/08/nx-s1-5847937/apple-wwdc-2026-siri-ai-tim-cook\">Hey, Siri: Apple just announced a long-awaited AI update — NPR</a></small></li><li><strong>Google每月付SpaceX 9.2亿美元租用AI算力——当自家TPU不够用时</strong> — 尽管拥有自研TPU，Google仍需向SpaceX支付巨额费用获取额外算力。这揭示了一个行业现实：<strong>AI算力需求的增长速度已经超过了任何单一公司的基础设施扩张速度</strong>，即使是Google。<br><small>来源：<a href=\"https://www.instagram.com/reel/DZUZDyloTMF\">AI Pulse: Updates from Google, SpaceX, Apple — CNBC-TV18</a></small></li><li><strong>SpaceX 6月12日IPO：AI三大IPO（SpaceX、Anthropic、OpenAI）同季度登陆，机构投资者面临消化压力</strong> — Build Fast with AI分析：三家近万亿美元级AI公司在同一季度IPO是前所未有的。SpaceX先行（6/12），其定价将为Anthropic和OpenAI设定基准。如果SpaceX表现强劲，后两者受益；如果失望，整个AI IPO市场都会承压。<br><small>来源：<a href=\"https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026\">AI News Today June 8, 2026 — Build Fast with AI</a></small></li><li><strong>Amazon裁员3万企业岗位，同时发布对话式仓库机器人——AI替代的不只是白领</strong> — Amazon在大规模裁员的同时推出AI驱动的仓库机器人，直白地展示了AI对劳动力市场的双重冲击：<strong>上层裁人（AI替代管理/协调工作），下层自动化（机器人替代体力劳动）</strong>。中间层——需要判断力但不需要创造力的岗位——正在被两面夹击。<br><small>来源：<a href=\"https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026\">AI News Today June 8, 2026 — Build Fast with AI</a></small></li><li><strong>OpenAI芯片工程师Clive Chan跳槽Anthropic——人才争夺战的风向标</strong> — OpenAI自研芯片团队核心成员转投Anthropic，暗示Anthropic可能在加速自己的芯片/硬件战略。当AI公司开始抢芯片人才时，说明它们都意识到了同一件事：<strong>模型能力的天花板最终由硬件决定</strong>。<br><small>来源：<a href=\"https://www.instagram.com/reel/DZUZDyloTMF\">AI Pulse — CNBC-TV18</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天科技板块的核心叙事是<strong>\"巨头的选择\"</strong>——每家公司都在做关于AI的生死抉择，而这些选择正在重塑整个产业格局。</p><p>Apple的决定最具标志性意义。全球市值最高的公司，拥有2000亿美元现金储备，却选择每年付Google 10亿美元用别人的模型——这不是\"不能\"，是\"不该\"。Tim Cook的逻辑很清晰：Apple的核心竞争力从来不是\"从零开始造最好的技术\"，而是\"把最好的技术整合成最好的用户体验\"。iPhone不是第一个智能手机，但它是第一个好用的智能手机。同理，Siri不需要是最好的模型，它需要是最好的<strong>AI体验</strong>。让Google烧钱训练模型，Apple只需要在上面包一层无与伦比的交互设计和隐私保护——这是典型的Apple式打法。</p><p>但这里有一个致命风险：<strong>当你的核心产品体验依赖供应商的模型能力时，你的差异化从何而来？</strong>如果Google决定给Pixel手机的Gemini一个\"优先级\"，或者给Apple一个\"延迟版本\"，Apple怎么办？这就是为什么OpenAI合作同时存在——Apple在做对冲。但长期来看，一个不控制自己AI引擎的Apple，就像一个不控制自己芯片的Apple——等等，Apple确实自己做了芯片（M系列）。所以问题是：Apple会在什么时候决定自研模型？我的预测是2027年WWDC，Apple会宣布\"Apple Intelligence Foundation Model\"，因为到那时候对Google/OpenAI的依赖会让Apple的product team越来越痛苦。</p><p>Amazon的裁员+机器人组合则是对所有行业的警告：<strong>AI不是只替代\"低端\"或只替代\"高端\"工作——它同时压缩两端</strong>。仓库机器人替代搬运工，AI Agent替代中层管理者协调工作。最安全的位置反而是两个极端：要么是做最高层决策的人（需要全局判断和责任承担），要么是做AI无法模仿的创意/手艺工作。中间的\"按流程执行\"层——无论是蓝领还是白领——都面临被压缩的命运。SpaceX的IPO定价将是今年AI市场信心的晴雨表，6月12日值得重点关注。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Apple WWDC 2026: Siri rebuilt on Google Gemini, OpenAI partnership expands — Apple officially concedes self-built AI isn't enough</strong></li><li><strong>Google pays SpaceX 20M/month for AI compute despite owning TPU infrastructure</strong></li><li><strong>SpaceX IPO June 12: Three near-trillion-dollar AI IPOs in same quarter creates unprecedented pressure</strong></li><li><strong>Amazon cuts 30K corporate jobs while launching conversational warehouse robots — AI squeezes both ends</strong></li><li><strong>OpenAI chip engineer Clive Chan defects to Anthropic — talent war signals hardware strategy shift</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Hey, Siri: Apple just announced a long-awaited AI update — NPR",
+        "url": "https://www.npr.org/2026/06/08/nx-s1-5847937/apple-wwdc-2026-siri-ai-tim-cook",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4993x2809+0+260/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fab%2Fa2%2F835323164d51b494c2875ec67ee9%2Fap26159614947448.jpg"
+      },
+      {
+        "title": "AI News Today June 8, 2026: 16 Biggest Stories — Build Fast with AI",
+        "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/b5f45e55-886b-4de9-89ed-1155c3dacd3b.png"
+      },
+      {
+        "title": "AI Pulse: Updates from Google, SpaceX, Apple — CNBC-TV18",
+        "url": "https://www.instagram.com/reel/DZUZDyloTMF",
+        "image": ""
+      }
+    ],
+    "cover": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4993x2809+0+260/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fab%2Fa2%2F835323164d51b494c2875ec67ee9%2Fap26159614947448.jpg"
+  },
+  {
+    "date": "2026-06-10",
+    "section": "design",
+    "title": {
       "zh": "Figma Make重新定义设计师角色：从\"画界面\"到\"Prompt-to-Code\"；AI插件生态爆发，但设计师真正需要的只是\"省5秒\"的窄功能",
       "en": "Figma Make Redefines Designer Role: From 'Drawing UI' to 'Prompt-to-Code'; AI Plugin Ecosystem Explodes, But Designers Only Trust AI for '5-Second Saves'"
     },
