@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-10",
+    "section": "design",
+    "title": {
+      "zh": "Figma Make重新定义设计师角色：从\"画界面\"到\"Prompt-to-Code\"；AI插件生态爆发，但设计师真正需要的只是\"省5秒\"的窄功能",
+      "en": "Figma Make Redefines Designer Role: From 'Drawing UI' to 'Prompt-to-Code'; AI Plugin Ecosystem Explodes, But Designers Only Trust AI for '5-Second Saves'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma Make正式成为Figma AI战略核心：prompt-to-code让设计师直接生成可部署代码</strong> — Figma在2026资源库中将Make定位为首推AI工具，能力从\"prompt生成UI\"升级到\"prompt生成可运行代码\"，集成设计系统、支持高级编辑。这标志着Figma的竞争策略从\"设计协作平台\"转向\"设计到生产一站式平台\"。与Google Stitch的免费策略不同，Figma押注的是\"在你现有工作流里无缝升级\"——用户不需要换工具，只需要在Figma里多用一个功能。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">9 of the top AI tools for UX designers in 2026 — Figma</a></small></li><li><strong>UX Design Institute盘点2025最佳Figma AI插件：从自动标注到智能原型，narrow-scope功能才是日常刚需</strong> — 评测涵盖文案生成、设计审查、图层重命名、变体自动化等十余款插件。与\"AI一键出设计\"的宣传相反，设计师实际高频使用的是<strong>解决具体微小痛点</strong>的插件——比如一键生成所有按钮状态、自动匹配设计token。这与昨天NN/g的发现完全一致：narrow-scope wins。<br><small>来源：<a href=\"https://www.uxdesigninstitute.com/blog/figma-ai-plugins-you-need-in-2025\">The Best Figma AI Plugins in 2025 — UX Design Institute</a></small></li><li><strong>Reddit设计社区热议：AI工具正在分化设计师群体——\"拥抱者\"vs\"抵抗者\"的鸿沟越来越大</strong> — r/UX_Design讨论帖显示两极化：一部分设计师已将AI深度整合进工作流（Moonchild AI生成初稿→Figma精修→Make出码），另一部分坚持\"AI output质量不够好\"而拒绝使用。值得注意的是：<strong>前者的生产效率是后者的3-5倍</strong>，这在招聘市场正在产生实际影响。<br><small>来源：<a href=\"https://www.reddit.com/r/UX_Design/comments/1mzqvsr/which_aiintegrated_design_tools_are_shaping_ux\">Which AI-integrated design tools are shaping UX workflows in 2025 — Reddit</a></small></li></ul><h3>🧠 Rex's Take</h3><p>连续两天关注AI设计工具生态后，一个清晰的图景正在浮现：<strong>AI设计工具的战争不在\"谁能生成最好的UI\"，而在\"谁能最无感地嵌入设计师已有的工作流\"。</strong></p><p>Figma Make的策略很聪明——它不是在说\"来我这里用AI设计\"，而是在说\"你在Figma里做完设计后，直接出码部署，不需要开发等待\"。这是对\"Forget Figma\"叙事的精准回击：你不需要忘掉Figma，你只需要让Figma变成从设计到代码的完整管道。Prompt-to-code不是设计工具的终结，是设计工具的进化——设计师的输出不再是\"图片文件\"，而是\"可运行的产品\"。</p><p>但UX Design Institute的插件评测揭示了一个更务实的现实：<strong>90%的设计师日常不需要\"AI一键出整个App\"，他们需要的是\"AI帮我把这50个按钮的hover状态批量生成一下\"。</strong>这就是narrow-scope AI的力量——它不革命，但它让你每天省2小时。2小时×250个工作日=500小时/年=省出整整3个月的纯设计时间。谁会拒绝这个？</p><p>Reddit的讨论则暴露了一个正在发生的<strong>行业分裂</strong>：拥抱AI工具的设计师和拒绝AI工具的设计师之间，生产力差距正在从\"略有不同\"变成\"天壤之别\"。当一个设计师能用Moonchild+Figma+Make在1天内完成从概念到可部署原型，而另一个设计师还在手动画线框图时——招聘经理的选择不言自明。这不是\"AI取代设计师\"，这是\"用AI的设计师取代不用AI的设计师\"。我预测：到2026年底，\"AI设计工具熟练度\"会成为UX岗位JD中的标配要求，就像2020年后\"Figma熟练\"变成默认要求一样。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma Make becomes core AI strategy: prompt-to-code lets designers ship directly to production</strong></li><li><strong>UX Design Institute reviews best Figma AI plugins — narrow-scope features dominate actual daily usage</strong></li><li><strong>Reddit UX community divided: AI-embracing designers are 3-5x more productive, creating hiring market impact</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "9 of the top AI tools for UX designers in 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": "The Best Figma AI Plugins in 2025 — UX Design Institute",
+        "url": "https://www.uxdesigninstitute.com/blog/figma-ai-plugins-you-need-in-2025",
+        "image": "https://www.uxdesigninstitute.com/blog/wp-content/uploads/2025/09/467_Figma-AI-plugins_Illustration.jpg"
+      },
+      {
+        "title": "Which AI-integrated design tools are shaping UX workflows — Reddit",
+        "url": "https://www.reddit.com/r/UX_Design/comments/1mzqvsr/which_aiintegrated_design_tools_are_shaping_ux",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+  },
+  {
+    "date": "2026-06-10",
+    "section": "tech",
+    "title": {
+      "zh": "Google六月AI全面出击：Gemini驱动Apple开发者生态+AI学习平台+Fitbit Air健康AI；NVIDIA-现代联手AI机器人；数据中心\"喝干\"美国水资源",
+      "en": "Google's June AI Blitz: Gemini Powers Apple Dev Ecosystem + AI Learning Platform + Fitbit Air; NVIDIA-Hyundai Push AI Robotics; Data Centers Draining US Water"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Google将Gemini模型开放给Apple开发者——AI模型层的\"安卓化\"正在发生</strong> — Google Blog 6/8发布：Gemini模型现可直接被Apple开发者调用。这是继Apple WWDC宣布Siri用Gemini之后的又一步：Google不只是Apple的AI供应商，更在变成<strong>整个移动生态的AI基础设施</strong>。当iOS和Android开发者都用Gemini时，Google在模型层的垄断地位比搜索更难被撼动。<br><small>来源：<a href=\"https://blog.google/innovation-and-ai/products/google-ai-updates-june-2025\">The latest AI news we announced in June — Google Blog</a></small></li><li><strong>Google发布\"AI时代学习的未来\"白皮书+AI技能教育平台——AI literacy成为下一个教育军备竞赛</strong> — Google与东京大学合作发布AI教育愿景，同时上线AI技能学习平台。当Google开始教全世界\"怎么用AI\"时，它在做的事是<strong>培养未来用户习惯</strong>——你学会用Gemini写代码后，自然不会去用Claude。这是比产品竞争更高维的打法。<br><small>来源：<a href=\"https://blog.google/innovation-and-ai/products/google-ai-updates-june-2025\">Google AI Updates June 2025 — Google Blog</a></small></li><li><strong>NVIDIA与现代汽车深化AI机器人合作——AI从\"数字世界\"进入\"物理世界\"的节奏在加速</strong> — Bloomberg 6/8报道双方将联合开发AI驱动的制造机器人和自动驾驶系统。NVIDIA的策略越来越清晰：不只是卖GPU，而是成为<strong>从芯片到软件到机器人的全栈AI平台</strong>。每一个合作伙伴都锁定在NVIDIA生态中。<br><small>来源：<a href=\"https://www.crescendo.ai/news/latest-ai-news-and-updates\">Latest AI News — Crescendo (Bloomberg source)</a></small></li><li><strong>AI数据中心正在\"喝干\"美国水资源——环境成本成为AI扩张的隐形上限</strong> — The Guardian调查报道：AI数据中心的冷却需求正在加剧多个美国地区的水资源紧张。一个大型数据中心每天消耗数百万升水。当我们讨论AI的电力成本时，水资源可能是更早触及硬上限的瓶颈。<br><small>来源：<a href=\"https://www.crescendo.ai/news/latest-ai-news-and-updates\">Latest AI News — Crescendo (Guardian source)</a></small></li><li><strong>Apple用生成AI加速芯片设计——当AI开始设计制造AI的芯片时，递归加速开始了</strong> — LinkedIn/多家媒体报道Apple正在探索用GenAI加速自研芯片（M系列、A系列）的设计流程。这是一个meta级别的应用：<strong>AI帮助设计更好的AI芯片→更好的芯片让AI更快→更快的AI设计更好的芯片</strong>。这个正反馈循环一旦转起来，摩尔定律的下一章可能由AI来写。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-funding-updates-from-last-24-hours19th-june-2025-anshuman-jha-ql5yc\">AI News and Funding Updates — LinkedIn</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天科技板块的关键词是<strong>\"基础设施化\"</strong>——Google、NVIDIA、Apple都在做同一件事：把AI从\"产品功能\"变成\"不可替代的底层基础设施\"。</p><p>Google的动作最值得深思。把Gemini开放给Apple开发者，表面上看是\"卖API赚钱\"，实际上是<strong>在移动生态的底层植入Google DNA</strong>。想象一下：iOS开发者用Gemini API构建了一个杀手级应用，积累了百万用户——这个开发者还能换到Claude吗？不能，因为prompt模板、模型行为、微调数据全部绑定在Gemini上。这就是\"模型层锁定\"，比应用层锁定更深、更难逃脱。Google正在复制它在搜索广告时代做过的事：让所有人都依赖你，然后收税。</p><p>NVIDIA-现代的合作则代表了AI产业的下一个战场：<strong>物理世界的AI化</strong>。过去3年AI的杀手应用都在数字世界——写文字、生图片、写代码。但从2026开始，AI进入工厂、进入汽车、进入机器人。这个市场比数字世界大10倍，但难度也大10倍（物理世界没有undo）。NVIDIA的全栈战略（Omniverse仿真→Isaac机器人SDK→Rubin芯片→OEM合作）是目前唯一看起来有可能吃下这个市场的路径。</p><p>但Guardian的水资源报道给这一切泼了冷水：<strong>AI的物理约束不只是电力和芯片，还有水。</strong>一个GPU集群运行时产生的热量需要大量冷却水带走，而美国西南部已经在经历历史性干旱。这不是遥远的ESG问题——这是\"你的数据中心审批可能因为水资源配额而被拒\"的现实问题。我预测：未来12个月，\"数据中心水效率\"会成为AI公司财报中被分析师追问的新指标，就像\"PUE\"曾经成为云计算时代的关键指标一样。AI的增长不是无限的，物理世界终会给它画出边界。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Google opens Gemini to Apple developers — model layer 'Androidification' underway</strong></li><li><strong>Google launches AI learning platform — training future users to be Gemini-native</strong></li><li><strong>NVIDIA-Hyundai deepen AI robotics partnership — AI entering physical world accelerates</strong></li><li><strong>AI data centers draining US water resources — environmental cost as hidden growth ceiling</strong></li><li><strong>Apple using GenAI to accelerate chip design — recursive AI-designs-AI-chips loop begins</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "The latest AI news we announced in June — Google Blog",
+        "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-june-2025",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_AI_Recap_social-share.width-1300.png"
+      },
+      {
+        "title": "Latest AI News and Breakthroughs June 2026 — Crescendo",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
+      },
+      {
+        "title": "AI News and Funding Updates June 2025 — LinkedIn",
+        "url": "https://www.linkedin.com/pulse/ai-news-funding-updates-from-last-24-hours19th-june-2025-anshuman-jha-ql5yc",
+        "image": ""
+      }
+    ],
+    "cover": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_AI_Recap_social-share.width-1300.png"
+  },
+  {
     "date": "2026-06-09",
     "section": "design",
     "title": {
