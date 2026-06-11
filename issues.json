@@ -3,6 +3,71 @@
     "date": "2026-06-11",
     "section": "design",
     "title": {
+      "zh": "Figma State of Designer 2026：72%设计师已在工作流中使用生成式AI，91%认为AI提升了产出质量而非仅提升速度；Toools.design深度横评9款AI工具的真实成本",
+      "en": "Figma State of Designer 2026: 72% of Designers Use GenAI in Workflows, 91% Say It Improves Quality Not Just Speed; Toools.design Deep-Dives 9 Tools' Real Costs"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma State of the Designer 2026报告：72%设计师已将生成式AI融入日常工作流，91%认为AI提升了产出质量</strong> — 这是行业最权威的年度调查。两个数字的对比极其重要：不是\"AI帮我做得更快\"（这是2024年的叙事），而是\"AI帮我做得更好\"。从效率工具到质量工具的认知转变，意味着设计师已经跨过了\"试用期\"——他们不再把AI当省时间的捷径，而是当成提升水准的伙伴。72%的采用率也说明：AI设计工具的early adopter阶段已经结束，现在是mainstream阶段。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-design-tools\">11 of the Best AI Design Tools for 2026 — Figma</a></small></li><li><strong>Toools.design发布9款AI UI/UX工具深度对比：真实定价、免费额度、代码导出能力一览无遗</strong> — 这篇评测最有价值的不是功能对比，而是<strong>经济账</strong>：Figma Make $16/用户/月（含在Pro中），Banani $20/月（20积分），Motiff $20/月（100积分），Magic Patterns ~$20/月。当所有工具价格趋同时，差异化来自什么？答案是生态整合深度和代码导出质量。Motiff主打production-ready React/HTML，Magic Patterns强调设计系统导入——这是工具从\"生成\"走向\"落地\"的关键一步。<br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">9 Best AI Tools for UI/UX Designers in 2026: Deep Dive — Toools.design</a></small></li><li><strong>UXMagic.ai的定位揭示新品类：\"截图/手绘→Figma可编辑设计\"的逆向工程工具</strong> — 大多数AI设计工具是\"从无到有\"（prompt→design），UXMagic走了一条不同的路：从已有素材（截图、手绘草图、URL）逆向生成可编辑的Figma文件。这对两类用户极有价值：1) 想快速复刻竞品设计的团队；2) 把纸上草图数字化的独立设计师。<br><small>来源：<a href=\"https://uxmagic.ai\">AI UI Generator — Figma-Ready Designs in Seconds — UXMagic</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma的72%/91%数据是今天最值得深思的信号。让我把这个数字放在语境里：<strong>2024年初，同类调查的AI采用率大约在35-40%，且绝大多数人说AI\"帮我省时间\"。两年后，采用率翻倍，且核心价值认知从\"效率\"转向\"质量\"。</strong></p><p>这个转变的含义是深远的。当设计师说AI提升了\"质量\"而非仅仅\"速度\"时，他们在说什么？我的理解是：AI降低了<strong>探索成本</strong>。以前想试10个方向，资源只够做3个，所以你必须靠直觉选方向。现在AI让你10个方向都能快速可视化，你可以基于真实产出而非想象来做判断。探索空间的扩大→更好的选择→更高的质量。这不是\"AI做得比设计师好\"，而是\"AI让设计师能看到更多可能性\"。</p><p>Toools.design的定价对比暴露了一个市场问题：<strong>当所有AI设计工具都收$16-20/月时，用户凭什么选你？</strong>这就像2015年的SaaS市场——功能同质化后，活下来的是那些做对了两件事的公司：1) 找到一个垂直场景做到绝对最强；2) 构建switching cost（比如设计系统整合让你离不开）。我预测2026下半年的整合潮将遵循这个逻辑：通用型AI设计工具会被收购或死亡，存活的是\"逆向工程专家\"（UXMagic）、\"研究到原型专家\"（UX Pilot）、\"代码导出专家\"（Motiff）这样的垂直玩家，加上Figma这个生态整合者。</p><p>另一个被忽视的趋势是UXMagic代表的\"逆向设计\"品类。它的存在说明市场有一个巨大的需求没被传统工具满足：<strong>大部分设计工作不是从零开始，而是从已有东西出发</strong>。竞品分析、redesign、设计系统迁移——这些场景比\"空白画布创作\"频繁得多。能做好\"已有→可编辑\"的工具，可能比\"空白→新设计\"的工具更刚需。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma State of the Designer 2026: 72% adoption, 91% say AI improves output quality — not just speed</strong></li><li><strong>Toools.design compares 9 tools' real pricing: when all cost $16-20/mo, differentiation comes from ecosystem depth</strong></li><li><strong>UXMagic reveals a new category: reverse-engineering screenshots and sketches into editable Figma files</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "11 of the Best AI Design Tools for 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-design-tools",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/69d0a8e52134d8214a81cab2f3985cc06d162115-1440x720.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "9 Best AI Tools for UI/UX Designers in 2026 — Toools.design",
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bebf9c2f3d062871b3c4_best-ai-tools-ui-ux-designers-2026.webp"
+      },
+      {
+        "title": "AI UI Generator — UXMagic",
+        "url": "https://uxmagic.ai",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bebf9c2f3d062871b3c4_best-ai-tools-ui-ux-designers-2026.webp"
+  },
+  {
+    "date": "2026-06-11",
+    "section": "tech",
+    "title": {
+      "zh": "NVIDIA AI系统成本飙升至$780万/台，内存占25%；Meta裁员8000人加码AI；中国Moonshot AI寻求$300亿估值新融资",
+      "en": "NVIDIA AI Systems Now Cost $7.8M Each (Memory 485% Up); Meta Cuts 8K Jobs for AI Push; China's Moonshot AI Seeks $30B Valuation"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>NVIDIA最新AI系统成本飙升至$780万/台，内存成本暴涨485%——Rubin GPU单颗$5万</strong> — Tom's Hardware报道：NVIDIA最新一代AI基础设施的成本令人咋舌。内存现在占总成本的25%（此前约5%），这意味着HBM（高带宽内存）供应商SK Hynix的话语权正在急剧上升。NVIDIA同步宣布与SK Hynix深化AI工厂合作。成本压力将如何传导？答案是：更多企业会选择API而非自建，云厂商的议价权进一步增强。<br><small>来源：<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece\">NVIDIA's memory costs soar 485% — Tom's Hardware</a></small></li><li><strong>Meta裁员8000人——最新一轮AI转型裁员开始执行</strong> — KXAN报道：Meta在持续的\"AI push\"下开启新一轮裁员。Zuckerberg此前宣布正在构建\"AI版的自己\"，现在Reality Labs和非AI核心业务正在为此买单。8000人的规模说明这不是修剪边缘，而是系统性地将资源从旧业务搬向AI。<br><small>来源：<a href=\"https://www.kxan.com/news/meta-layoffs-begin-as-company-cuts-8k-jobs-in-latest-ai-push/\">Meta layoffs begin as company cuts 8K jobs — KXAN</a></small></li><li><strong>中国Moonshot AI（月之暗面）寻求$300亿估值新融资</strong> — Bloomberg报道：Kimi背后的公司月之暗面正在进行新一轮融资谈判，目标估值$300亿。这使其成为中国估值最高的AI初创公司之一，与字节跳动的豆包形成正面竞争。<br><small>来源：<a href=\"https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks\">China's Moonshot AI Seeks $30 Billion Value — Bloomberg</a></small></li><li><strong>AI数据中心引发水资源危机：干旱地区居民与科技巨头争水</strong> — The Guardian报道：AI数据中心的冷却用水需求正在与当地社区的生活用水产生直接冲突。这是AI扩张的物理限制——不是算力不够，不是钱不够，而是水不够。<br><small>来源：<a href=\"https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water\">Datacenter AI drought water — The Guardian</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天的科技新闻画了一幅完整的AI行业<strong>\"代价图\"</strong>——每一条利好背后的真实成本。</p><p>NVIDIA系统$780万/台的数字需要放在上下文里理解。这意味着一个中等规模的AI训练集群（比如100台）的硬件成本是<strong>$7.8亿</strong>——还没算电费、冷却、运维和人员。当内存成本暴涨485%时，真正的赢家不是NVIDIA（它也在为内存付更多钱），而是SK Hynix和三星这样的HBM供应商。这个成本结构决定了一个残酷现实：<strong>能玩frontier model训练的公司，全球不超过15家</strong>。其他所有人——包括绝大多数\"AI公司\"——都是在API层上做应用。这不是坏事，但投资者需要区分\"训练AI\"和\"用AI\"——前者需要$7.8亿，后者可能$78就够了。</p><p>Meta裁8000人和Moonshot AI寻求$300亿估值，看似无关，实则是同一个故事的两面：<strong>AI正在同时创造巨额价值和巨额毁灭</strong>。Meta砍的是什么？内容审核、产品经理、非AI工程师——这些岗位正在被AI替代或合并。Moonshot AI凭什么值$300亿？因为它的Kimi代表了下一代用户入口。一边在毁灭旧价值，一边在创造新价值——这就是范式转移的本质。</p><p>但最被低估的信号是The Guardian关于水资源的报道。AI行业目前最大的谎言是\"AI可以无限扩展\"——不能。物理限制是真实的：电力、水源、芯片产能。当一个亚利桑那州的社区因为旁边建了数据中心而面临缺水时，政治风险就来了。我预测未来18个月内，至少有一个主要数据中心项目会因为社区反对而被叫停或搬迁。<strong>AI的下一个瓶颈不是算法，是自然资源。</strong></p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>NVIDIA AI systems now cost $7.8M each — memory costs up 485%, Rubin GPUs $50K apiece</strong></li><li><strong>Meta begins 8,000 layoffs in latest AI restructuring push</strong></li><li><strong>China's Moonshot AI (Kimi) seeks $30B valuation in new funding round</strong></li><li><strong>AI datacenters creating water conflicts in drought-prone regions</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "NVIDIA's memory costs soar 485% — Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+        "image": ""
+      },
+      {
+        "title": "Meta layoffs begin as company cuts 8K jobs — KXAN",
+        "url": "https://www.kxan.com/news/meta-layoffs-begin-as-company-cuts-8k-jobs-in-latest-ai-push/",
+        "image": ""
+      },
+      {
+        "title": "China's Moonshot AI Seeks $30 Billion Value — Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks",
+        "image": ""
+      },
+      {
+        "title": "Datacenter AI drought water — The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
+  },
+  {
+    "date": "2026-06-11",
+    "section": "design",
+    "title": {
       "zh": "Figma Make正式定位\"设计+开发一体化\"：prompt-to-code成核心能力；AI-Native设计工具与AI-Enhanced工具的分水岭之年",
       "en": "Figma Make Officially Positions as Design-to-Code Platform; 2026 Marks the Divide Between AI-Native and AI-Enhanced Design Tools"
     },
