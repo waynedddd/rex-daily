@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-06-11",
+    "section": "design",
+    "title": {
+      "zh": "Figma Make正式定位\"设计+开发一体化\"：prompt-to-code成核心能力；AI-Native设计工具与AI-Enhanced工具的分水岭之年",
+      "en": "Figma Make Officially Positions as Design-to-Code Platform; 2026 Marks the Divide Between AI-Native and AI-Enhanced Design Tools"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma官方资源库重新定义AI工具矩阵：Figma Make（prompt-to-code）升格为平台核心能力</strong> — Figma不再把AI当附加功能卖，而是将Figma Make定位为\"设计+开发一体化\"的关键桥梁。官方页面明确：AI、设计和开发工具合为一处，团队从想法到生产无需切换应用。这是Figma对Cursor/Bolt等代码生成工具的正面回应——与其让设计师离开Figma去写代码，不如把代码能力拉进来。UX Pilot（预测热力图+UX审查）和Uizard（快速原型）作为推荐补充工具，形成Figma生态的AI三角。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Top AI Tools for UX Designers in 2026 — Figma</a></small></li><li><strong>Designfest年度盘点：\"AI-augmented workflow\"成为2026年设计行业共识</strong> — 10款工具横评的核心结论不是哪个工具最好，而是一个行业判断：<strong>UI/UX设计已经不再只是\"画图\"</strong>。文章按场景推荐：prompt生成用Figma AI，研究到原型用UX Pilot，线框协作用Visily，AI建议行业标准UX模式（用户资料、设置仪表板等）。最有价值的洞察是Smart Templates——AI根据行业类型建议模板，确保设计师不遗漏标准模式。<br><small>来源：<a href=\"https://designfest.framer.media/blogs/ai-tools-every-uiux-designer-should-try\">10 AI Tools Every UI/UX Designer Should Try in 2026 — Designfest</a></small></li><li><strong>Medium实测5款AI-Native设计工具：区分\"AI原生\"与\"AI附加\"成为选择工具的首要标准</strong> — 评测者用50分钟快速体验5款工具，核心发现是：真正的AI-native工具（AI是产品运作核心）与只是\"加了个AI按钮\"的传统工具体验完全不同。这个区分标准正在成为设计师选工具时的第一道筛选。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">I reviewed 5 AI-Native UX Design tools in 50 Minutes (2026) — Medium</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天设计板块的信号非常清晰：<strong>2026年中，AI设计工具的竞争已经从\"有没有AI\"转向\"AI是骨架还是皮肤\"</strong>。</p><p>Figma的动作最值得细读。把Figma Make升格为核心能力而非实验功能，意味着Figma正式接受了一个现实：<strong>设计和开发的边界在消失，而Figma必须站在这条消失的边界上</strong>。过去两年，Cursor、Bolt、v0这些工具证明了\"从描述到代码\"的路径可以绕过设计工具。Figma的回应是：好，那我也做prompt-to-code，而且我还有设计系统整合——你在Cursor里生成的代码不会自动对齐你的brand guidelines，但在Figma Make里可以。这是差异化的正确方向。</p><p>但更深层的趋势是Medium那篇评测揭示的：<strong>AI-Native vs AI-Enhanced正在成为工具市场的结构性分水岭</strong>。就像2010年代\"移动优先\"淘汰了一批\"桌面+移动适配\"的产品一样，2026年\"AI原生\"正在淘汰\"传统工具+AI按钮\"。Figma本身面临一个身份危机：它是2012年诞生的协作设计工具，现在往AI原生方向转——但一个2024年才开始做AI的产品，能比2023年就以AI为核心架构的Moonchild、Flowstep更\"原生\"吗？</p><p>我的判断是：Figma的护城河不在AI能力本身（这方面它永远追着别人），而在<strong>存量用户的设计系统资产</strong>。一个在Figma里积累了三年design tokens、组件库、和团队协作记忆的公司，不会轻易迁移到一个AI更强但生态为零的新工具。所以Figma的策略是对的：不追求AI最强，追求AI+存量资产整合最深。但这个窗口期大概只有12-18个月——如果Moonchild们在2027年能做出\"一键导入Figma设计系统\"的迁移工具，游戏就会变。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma officially repositions Make as core design-to-code capability, not just an experiment</strong></li><li><strong>Designfest's 2026 roundup declares \"AI-augmented workflow\" as industry consensus</strong></li><li><strong>Medium review of 5 AI-native tools reveals the key distinction: AI as skeleton vs AI as skin</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Top AI Tools for UX Designers in 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": "10 AI Tools Every UI/UX Designer Should Try in 2026 — Designfest",
+        "url": "https://designfest.framer.media/blogs/ai-tools-every-uiux-designer-should-try",
+        "image": ""
+      },
+      {
+        "title": "I reviewed 5 AI-Native UX Design tools in 50 Minutes — Medium",
+        "url": "https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+  },
+  {
+    "date": "2026-06-11",
+    "section": "tech",
+    "title": {
+      "zh": "微软自研AI模型正面挑战OpenAI和Anthropic；白宫发布AI国家安全行政令；Pentagon模块化采购AI取代单一供应商依赖",
+      "en": "Microsoft Launches Own AI Models Against OpenAI/Anthropic; White House Issues AI National Security Order; Pentagon Shifts to Modular AI Procurement"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>微软正式发布自研coding model，Foundry目录扩至11,000模型——\"去OpenAI依赖\"从口号变为现实</strong> — CNBC和Euronews报道：微软推出自有AI模型直接对标OpenAI Codex和Anthropic Claude Code。Foundry目录已包含Claude Opus 4.8，但核心转变是微软不再只是分销商——它要成为模型提供者。CEO Nadella称这是\"纠正AI方向\"的一部分。与此同时，Google I/O推出Antigravity 2.0多Agent并行架构（一个Agent写代码、另一个生成品牌资产），coding成为AI巨头竞争最激烈的战场。<br><small>来源：<a href=\"https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html\">Microsoft and Google take on Anthropic and OpenAI in AI coding models — CNBC</a></small></li><li><strong>白宫发布\"促进先进AI创新与安全\"行政令：首次在联邦层面建立AI能力与国安风险的双轨管理框架</strong> — 行政令明确：先进AI增强国力，但也带来需要协调行动的国安考量。这是继EU AI Act（55天后正式执行）之后，全球第二个主要经济体建立系统性AI治理框架。对行业的直接影响：frontier model开发商将面临新的报告和审查义务。<br><small>来源：<a href=\"https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security\">Promoting Advanced AI Innovation and Security — White House</a></small></li><li><strong>Pentagon重构AI采购：从单一平台转向模块化云架构，正在测试用OpenAI/Google替换Anthropic的机密系统部署</strong> — 联邦新闻网报道：军方AI采购策略从大合同转向模块化，像现代云架构一样灵活组合。这意味着没有任何一家AI公司能锁定政府市场——Pentagon要的是互换性和竞争，不是供应商锁定。Anthropic在机密系统的先发优势正在被稀释。<br><small>来源：<a href=\"https://federalnewsnetwork.com/commentary/2026/06/the-pentagon-is-rewriting-how-it-buys-ai-control-of-the-future-of-warfare\">The Pentagon is rewriting how it buys AI — Federal News Network</a></small></li><li><strong>Stanford AI Index 2026：生成式AI三年达53%人口采用率，超PC和互联网扩散速度</strong> — 这个数字的意义在于：<strong>AI不再是技术圈的事</strong>。53%人口采用意味着它已经跨过了大众市场的临界点，后续的增长将由日常消费场景驱动（如McDonald's AI点餐系统），而非技术爱好者。<br><small>来源：<a href=\"https://hai.stanford.edu/ai-index/2026-ai-index-report\">The 2026 AI Index Report — Stanford HAI</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天科技板块的主题词是<strong>\"去依赖化\"</strong>——从企业到政府，所有人都在做同一件事：摆脱对单一AI供应商的依赖。</p><p>微软的动作最戏剧化。两年前它押注140亿美元在OpenAI上，现在却在发布自研模型与之竞争——这不是背叛，是理性。当你的核心产品（Azure、GitHub Copilot、Office 365）的差异化能力完全依赖一个你不控制的供应商时，你的命运就不在自己手里。Nadella说\"纠正AI方向\"——翻译成大白话就是：<strong>\"我们不能让Sam Altman决定微软的产品路线图。\"</strong></p><p>Pentagon的模块化采购策略是同一逻辑的政府版本。当军方测试用OpenAI和Google替换Anthropic的机密系统时，它传递的信号是：<strong>没有任何AI公司是不可替代的</strong>。这对Anthropic特别不利——它的$1.25B/月SpaceX算力合同意味着高固定成本，如果政府合同这个大客户开始分流，利润率将严重承压。这也解释了为什么Anthropic急于IPO（估值$965B）——趁着市场还相信\"唯一性\"故事的时候变现。</p><p>把这些连起来看：<strong>AI行业正在从\"谁的模型最好\"的单维竞争，转向\"谁的生态最不可替代\"的多维竞争</strong>。微软有Azure+Office+GitHub生态，Google有搜索+Android+Cloud生态，Apple有设备+隐私+UX生态。纯模型公司（OpenAI、Anthropic）的处境越来越微妙：当每个平台巨头都在自研模型时，独立模型商的价值在于什么？我的答案是：<strong>速度和专业度</strong>。巨头自研模型是为了\"够用\"，独立公司追求\"最强\"。但这个差距在缩小——Stanford报告显示AI已达53%采用率，意味着\"够用\"对大多数用户就够了。留给\"最强\"模型的市场可能比想象中小。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Microsoft launches own coding models, Foundry catalog hits 11,000 — de-coupling from OpenAI becomes reality</strong></li><li><strong>White House executive order establishes dual-track framework for advanced AI capabilities and national security</strong></li><li><strong>Pentagon shifts to modular AI procurement, testing OpenAI/Google replacements for Anthropic in classified systems</strong></li><li><strong>Stanford AI Index 2026: Generative AI reaches 53% population adoption in 3 years — faster than PC or internet</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Microsoft and Google take on Anthropic and OpenAI in AI coding models — CNBC",
+        "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108314167-1780095631300-gettyimages-2262969404-20090101260225-99-646956.jpeg?v=1780095752&amp;w=1920&amp;h=1080"
+      },
+      {
+        "title": "Promoting Advanced AI Innovation and Security — White House",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg"
+      },
+      {
+        "title": "The Pentagon is rewriting how it buys AI — Federal News Network",
+        "url": "https://federalnewsnetwork.com/commentary/2026/06/the-pentagon-is-rewriting-how-it-buys-ai-control-of-the-future-of-warfare",
+        "image": "https://federalnewsnetwork.com/wp-content/uploads/2019/02/JEDI-CLOUD-e1584107318158.jpg"
+      },
+      {
+        "title": "The 2026 AI Index Report — Stanford HAI",
+        "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+        "image": ""
+      }
+    ],
+    "cover": "https://image.cnbcfm.com/api/v1/image/108314167-1780095631300-gettyimages-2262969404-20090101260225-99-646956.jpeg?v=1780095752&amp;w=1920&amp;h=1080"
+  },
+  {
     "date": "2026-06-10",
     "section": "design",
     "title": {
