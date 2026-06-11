@@ -14089,6 +14089,170 @@
       "body": "2026 Q2 最深的设计观察：最好的 AI 界面不是装饰最华丽的，而是「知道什么时候需要界面、什么时候不需要」的界面。Claude 的极简和 Perplexity 的透明看似矛盾，但都在反对同一个敌人：「为了看起来像 AI 而过度设计」。下一代优秀 AI 界面的竞争力不在视觉装饰，而在情境感知能力。",
       "body_en": "Deepest Q2 design observation: best AI interfaces aren't most decorated but ones that know when interface is needed and when to disappear. Claude's minimalism and Perplexity's transparency seem opposite but both oppose same enemy: over-design for AI appearance. Next-gen superior AI interface competitiveness lies not in visual decoration but context awareness.",
       "date": "2026-06-10"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 实时风险叙事引擎 — Narrative Risk Dashboard",
+      "body": "2026 年 Q2 最前沿的 Fintech 设计方向：AI 不再用折线图和百分比展示风险，而是生成实时风险叙事。界面左侧是传统的投资组合数据，右侧是 AI 用自然语言撰写的「今日风险故事」——「你的科技股持仓因英伟达财报不及预期承压，但你的债券对冲正在起作用，整体风险比昨天降低 0.3 个标准差」。最精妙的细节：叙事文字中的关键数字用品牌渐变色高亮，点击可展开完整图表。",
+      "body_en": "The most cutting-edge 2026 Q2 fintech design direction: AI replaces line charts and percentages with real-time risk narratives. Left panel shows traditional portfolio data; right panel features AI-written 'today's risk story' — 'Your tech holdings face pressure from NVIDIA earnings miss, but your bond hedge is working, overall risk down 0.3 standard deviations from yesterday.' Finest detail: key numbers in narrative text highlighted with brand gradient, clickable to expand full charts.",
+      "tags": [
+        "Risk Narrative",
+        "Natural Language",
+        "Portfolio",
+        "Storytelling UI"
+      ],
+      "link": "https://dribbble.com/search/ai-risk-dashboard-narrative",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-06-11"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Fintech × 情绪经济学 — AI 检测「冲动消费」的设计伦理",
+      "body": "2026 年 6 月多家银行 App 开始测试「情绪消费检测」：AI 通过消费时间（深夜）、频率（连续下单）、金额偏差（远超日均）判断用户是否在冲动消费，并弹出温和提示。设计上的伦理挑战极大——提示太强是父权式干预，太弱则毫无效果。目前最好的方案：不阻止交易，而是延迟 30 秒+展示「这笔消费相当于你 N 天的咖啡预算」的相对化比较。用温度计式色条暗示异常程度。",
+      "body_en": "Multiple bank apps testing 'emotional spending detection' in June 2026: AI identifies impulse purchases through timing (late night), frequency (consecutive orders), amount deviation (far above daily average), and surfaces gentle prompts. Massive design ethics challenge — too strong is paternalistic, too weak is useless. Current best approach: don't block transactions, but add 30-second delay + relative comparison ('this purchase equals N days of your coffee budget'). Thermometer-style color bar hints at anomaly level.",
+      "tags": [
+        "Behavioral Finance",
+        "Impulse Detection",
+        "Design Ethics",
+        "Nudge UX"
+      ],
+      "link": "https://www.behance.net/search/projects/fintech%20behavioral%20design%20AI",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-06-11"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "Fintech 设计在 2026 年 Q2 正在触碰一个危险但迷人的边界：从「帮用户做决定」到「帮用户不做坏决定」。情绪消费检测和风险叙事引擎看似无关，实则指向同一个范式：AI 不再是被动工具，而是主动干预者。这带来的设计伦理问题是根本性的——谁定义什么是「冲动」？AI 凭什么判断你深夜买的那双鞋是冲动而非计划已久的奖励？风险叙事也有类似问题：用自然语言描述风险时，措辞本身就是一种立场（「承压」vs「暴跌」），AI 的叙事框架会不会操纵用户情绪？2026 年最好的 Fintech 设计师需要具备一种新能力：设计伦理直觉。不是法律层面的合规，是更深层的「这个 nudge 是帮助还是操控」的判断力。",
+      "body_en": "Fintech design in Q2 2026 is touching a dangerous but fascinating boundary: from 'helping users decide' to 'helping users not make bad decisions.' Emotional spending detection and risk narrative engines seem unrelated but point to the same paradigm: AI is no longer a passive tool but an active intervener. The design ethics challenge is fundamental — who defines 'impulse'? How does AI judge that your late-night shoe purchase is impulsive rather than a long-planned reward? Risk narratives face similar issues: word choice IS a stance ('under pressure' vs 'crashing'), and AI narrative framing may manipulate user emotions. The best 2026 fintech designers need a new competency: design ethics intuition. Not legal compliance, but deeper judgment of 'is this nudge helping or manipulating.'",
+      "date": "2026-06-11"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 热适应训练 — 环境智能的运动 UX",
+      "body": "2026 年夏季运动 AI 产品的新前沿：热适应训练系统。AI 结合天气预报、体温传感器数据、出汗率估算，在高温天动态调整训练强度和补水提醒。界面用「体感温度地图」替代简单的温度数字——人体轮廓上叠加热力渐变，核心区域（头部、躯干）和四肢的散热效率差异一目了然。补水提醒不是倒计时弹窗，而是界面背景色随脱水风险缓慢从蓝色渐变为橙色，像一个「渴感可视化」。",
+      "body_en": "New frontier for summer 2026 sports AI: heat adaptation training systems. AI combines weather forecasts, body temperature sensor data, and sweat rate estimation to dynamically adjust training intensity and hydration reminders on hot days. Interface uses 'perceived temperature body map' instead of simple numbers — heat gradients overlaid on body contour, showing core (head, torso) vs extremity heat dissipation differences. Hydration reminders aren't countdown popups but background color slowly shifting from blue to orange with dehydration risk — a 'thirst visualization.'",
+      "tags": [
+        "Heat Adaptation",
+        "Environmental AI",
+        "Hydration UX",
+        "Body Map"
+      ],
+      "link": "https://dribbble.com/search/sports-heat-training-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/14315397/file/original-b2d9fa368a9fb4cdd8575ee4ecef06c5.jpg?format=webp&resize=700x525&vertical=center",
+      "date": "2026-06-11"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 运动社交——异步竞赛的 UX 设计",
+      "body": "Strava 和 Peloton 2026 Q2 同时发力的方向：AI 驱动的异步竞赛。不再需要同一时间同一地点，AI 根据你的跑步数据生成「虚拟对手」——可以是你自己上周的最佳表现，也可以是匹配水平的陌生人。界面设计最巧妙的地方：虚拟对手不是一个头像标记，而是地图上一条半透明的「残影轨迹」，像幽灵一样在前方或身后跑动。追上残影的瞬间有满屏的微粒子爆炸反馈。把竞争从社交压力变成了游戏化乐趣。",
+      "body_en": "Strava and Peloton both pushing in Q2 2026: AI-powered asynchronous racing. No need for same time/place — AI generates 'virtual opponents' from your running data — your own best performance last week, or a matched-level stranger. Cleverest interface design: virtual opponents aren't avatar markers but semi-transparent 'ghost trails' on the map, running ahead or behind like apparitions. Catching the ghost triggers a full-screen micro-particle explosion feedback. Transforms competition from social pressure into gamified joy.",
+      "tags": [
+        "Async Racing",
+        "Ghost Trail",
+        "Gamification",
+        "Social Fitness"
+      ],
+      "link": "https://dribbble.com/search/strava-virtual-race-app",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12083587/file/original-4f31bcadd6a85b02e1f61b5b24b90c5a.png?resize=1600x1200",
+      "date": "2026-06-11"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "六月的运动 AI 设计揭示了一个有趣的进化方向：从「对抗身体」到「配合环境」。热适应训练系统是一个标志——AI 不再只看你的身体数据，而是把外部环境（温度、湿度、海拔、空气质量）纳入训练决策。这本质上是运动 AI 的「上下文感知」能力在升级：从单一传感器（心率）到多模态感知（身体+环境+社交）。异步竞赛的设计也指向类似的趋势——不是强迫所有人同时在线（对抗时间约束），而是用 AI 虚拟化解决了时空不同步问题。两者的共同主题：运动 AI 正在变得更「柔软」——不是硬推用户突破极限，而是帮助用户在现实约束中找到最优解。这比单纯的性能优化更难设计，但也更人性化。",
+      "body_en": "June's sports AI design reveals an interesting evolution: from 'fighting the body' to 'working with the environment.' Heat adaptation training is a marker — AI no longer just reads body data but incorporates external environment (temperature, humidity, altitude, air quality) into training decisions. Essentially: sports AI's context awareness leveling up from single sensor (HR) to multimodal (body + environment + social). Async racing points the same direction — not forcing everyone online simultaneously (fighting time constraints) but using AI virtualization to solve spacetime async problems. Common theme: sports AI is getting 'softer' — not hard-pushing users past limits but helping find optimal solutions within real-world constraints. Harder to design than pure performance optimization, but more human.",
+      "date": "2026-06-11"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 生成的动态信息图 — 数据新闻的下一形态",
+      "body": "2026 年 Q2 数据新闻领域的设计突破：AI 不只辅助生成图表，而是根据读者的阅读行为动态调整信息图的复杂度。第一次看到时呈现核心结论+简单可视化；向下滚动时逐层展开数据细节；反复查看同一张图时自动切换到专家视图。这不是「响应式设计」（响应屏幕），是「响应式叙事」（响应理解深度）。排版也随之变化——简单视图用大字号低密度，专家视图切换为小字号高密度+辅助线注释。",
+      "body_en": "Q2 2026 design breakthrough in data journalism: AI doesn't just help generate charts but dynamically adjusts infographic complexity based on reader behavior. First view shows core conclusion + simple visualization; scrolling reveals data layers progressively; revisiting the same chart auto-switches to expert view. Not 'responsive design' (to screen) but 'responsive narrative' (to comprehension depth). Typography adapts too — simple view uses large type/low density, expert view switches to small type/high density + annotation lines.",
+      "tags": [
+        "Data Journalism",
+        "Adaptive Infographic",
+        "Progressive Disclosure",
+        "Smart Typography"
+      ],
+      "link": "https://dribbble.com/search/data-journalism-ai-interactive",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10490089/file/original-00dbfc1b063756291ae74d908c8fa4d5.png?resize=1600x1200",
+      "date": "2026-06-11"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「液态排版」— 2026 年中字体设计的范式跃迁",
+      "body": "可变字体在 2026 年 Q2 进入了第二阶段：「液态排版」（Liquid Typography）。不只是字重和字宽可变，连字形本身都在响应上下文动态变化——情绪化的文案用更圆润的字形，技术性内容切换为更锐利的几何字形，引用文本自动调整为更具装饰性的变体。Google Fonts 和 Adobe Fonts 联合发布了首批「语义感知可变字体」，设计系统可以通过 CSS 属性绑定内容语义。排版从「选择一款字体」变成了「定义字体行为规则」。",
+      "body_en": "Variable fonts enter phase two in Q2 2026: 'Liquid Typography.' Not just weight and width vary — letterforms themselves dynamically respond to context. Emotional copy gets rounder glyphs, technical content switches to sharper geometric forms, quoted text auto-adjusts to decorative variants. Google Fonts and Adobe Fonts jointly release first 'semantically-aware variable fonts' — design systems bind content semantics via CSS properties. Typography shifts from 'choosing a typeface' to 'defining typeface behavior rules.'",
+      "tags": [
+        "Liquid Typography",
+        "Variable Fonts",
+        "Semantic Type",
+        "CSS Typography"
+      ],
+      "link": "https://fonts.google.com/?vfonly=true",
+      "linkText": "Google Fonts",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-06-11"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "液态排版和自适应信息图放在一起，讲的是 Content Design 在 2026 年 Q2 的核心命题：内容不再有「最终形态」。过去设计师的工作是找到一个最优的排版方案然后固定下来——32px 标题、16px 正文、1.6 行高。现在内容的呈现是流动的——随读者理解深度变、随内容语义变、随阅读情境变。这对设计师意味着什么？你设计的不再是一个确定的结果，而是一个行为空间的边界条件。就像物理学从牛顿力学（确定轨迹）进化到量子力学（概率分布），Content Design 也在从「确定性排版」进化到「概率性排版」——你定义的是「在这些条件下排版会如何表现」，而非「排版是什么样」。这是一个巨大的心智模型转变，也是 AI 辅助设计真正发挥作用的地方——人类定义美学边界，AI 在实时条件下做最优选择。",
+      "body_en": "Liquid typography + adaptive infographics together tell the core Content Design thesis of Q2 2026: content no longer has a 'final form.' Designers used to find one optimal layout and fix it — 32px headline, 16px body, 1.6 line-height. Now content presentation is fluid — varying with reader comprehension, content semantics, reading context. What this means: you no longer design a fixed result but boundary conditions for a behavior space. Like physics evolving from Newtonian mechanics (deterministic trajectories) to quantum mechanics (probability distributions), Content Design evolves from 'deterministic typography' to 'probabilistic typography' — defining 'how typography behaves under these conditions,' not 'what typography looks like.' A massive mental model shift, and exactly where AI-assisted design truly shines: humans define aesthetic boundaries, AI makes optimal real-time choices.",
+      "date": "2026-06-11"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 的「工作记忆」可视化 — 思维链的设计美学",
+      "body": "Claude、GPT-5 和 Gemini Ultra 都在 2026 Q2 推出了不同形态的「思维过程可视化」。最优雅的方案不是简单地展示思维链文本，而是用「涟漪图」——中心是最终答案，向外扩散的同心环代表推理的每一步，颜色饱和度从外到内递增（浅色=早期探索，深色=最终确认）。用户可以点击任何一环查看那个推理步骤。这让 AI 的思考过程变得像年轮一样可读——你能看出哪些推理路径被尝试然后放弃了（断裂的环），哪些一路走到了终点（完整的环）。",
+      "body_en": "Claude, GPT-5, and Gemini Ultra all ship different forms of 'thinking process visualization' in Q2 2026. The most elegant solution isn't simply showing chain-of-thought text but uses 'ripple diagrams' — center is the final answer, expanding concentric rings represent each reasoning step, color saturation increasing inward (light = early exploration, deep = final confirmation). Users click any ring to view that reasoning step. Makes AI thinking readable like tree rings — you can see which reasoning paths were tried then abandoned (broken rings) vs which ran to completion (intact rings).",
+      "tags": [
+        "Chain of Thought",
+        "Ripple Diagram",
+        "AI Transparency",
+        "Reasoning Viz"
+      ],
+      "link": "https://dribbble.com/search/ai-thinking-process-visualization",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-06-11"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "多模态 AI 界面 — 输入形态的统一设计语言",
+      "body": "2026 Q2 AI 产品设计最热的课题：如何为文本+图片+语音+视频+文件的多模态输入设计统一的视觉语言？最佳实践正在形成：输入区不再是一个文本框，而是一个「意图画布」——拖入图片自动变成可标注的参考图，语音输入实时转为文字泡泡，文件变成可展开的预览卡。所有模态共享同一个色彩编码系统（文本=白、图片=蓝、语音=绿、文件=紫），让用户在复杂输入中保持方向感。最精妙的是「模态混合提示」——当你同时上传图片和输入文字时，连接线暗示 AI 会如何理解两者的关系。",
+      "body_en": "Hottest Q2 2026 AI product design topic: how to design unified visual language for text+image+voice+video+file multimodal input? Best practices forming: input area is no longer a text box but an 'intent canvas' — dropped images become annotatable references, voice input becomes real-time text bubbles, files become expandable preview cards. All modalities share one color coding system (text=white, image=blue, voice=green, file=purple), keeping users oriented in complex inputs. Finest detail: 'modal blend hints' — when you upload an image AND type text, connecting lines suggest how AI will interpret their relationship.",
+      "tags": [
+        "Multimodal Input",
+        "Intent Canvas",
+        "Unified UX",
+        "Modal Blend"
+      ],
+      "link": "https://dribbble.com/search/multimodal-ai-interface-2026",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-06-11"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "六月的 Visual for AI 让我看到一个行业级的设计成熟度跃迁：AI 产品终于开始认真对待「中间状态」的设计了。过去 AI 产品的视觉设计集中在两端——输入端（如何让用户方便地告诉 AI 需求）和输出端（如何呈现 AI 的结果）。但 2026 Q2 最好的设计创新都发生在「中间」：思维链可视化让推理过程可见，多模态意图画布让输入意图的构建过程可见。这个「中间层」的设计之所以重要，是因为它解决了 AI 产品最根本的信任问题——当用户能看到 AI「怎么想的」和「怎么理解我的」，黑盒感就消失了。涟漪图是一个天才的视觉隐喻：用空间距离（从外到内）映射时间序列（从早期到最终），让线性的推理过程变成了可全局扫视的平面图。这比逐行展开的思维链文本友好 10 倍。2026 年 AI 视觉设计的核心竞争力正在从「美不美」变成「透不透明」。",
+      "body_en": "June's Visual for AI reveals an industry-level design maturity leap: AI products are finally taking 'intermediate states' design seriously. Previously, AI product visual design focused on two endpoints — input (how users tell AI what they need) and output (how to present AI results). But the best Q2 2026 design innovations happen in 'the middle': chain-of-thought visualization makes reasoning visible, multimodal intent canvas makes input construction visible. This 'middle layer' design matters because it solves AI's fundamental trust problem — when users can see 'how AI thinks' and 'how AI understands me,' the black-box feeling vanishes. The ripple diagram is a genius visual metaphor: using spatial distance (outer to inner) to map temporal sequence (early to final), turning linear reasoning into a globally scannable flat map. 10x friendlier than line-by-line chain-of-thought text. 2026 AI visual design's core competency is shifting from 'how beautiful' to 'how transparent.'",
+      "date": "2026-06-11"
     }
   ]
 }
