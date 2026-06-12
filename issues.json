@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-06-12",
+    "section": "design",
+    "title": {
+      "zh": "Figma MCP Server让设计直连Cursor/VS Code/Claude：设计到代码的最后一公里被打通；AI设计工具进入\"生态卡位战\"",
+      "en": "Figma MCP Server Connects Design Directly to Cursor/VS Code/Claude: The Last Mile from Design to Code; AI Design Tools Enter Ecosystem Lock-in War"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma MCP Server正式发布：将设计上下文直接注入Cursor、VS Code、Windsurf和Claude等AI编码工具</strong> — 这是本周设计工具领域最重要的基础设施级动作。Figma不再满足于\"在Figma内做AI\"，而是把Figma变成所有AI编码工具的\"设计记忆\"。开发者在Cursor里写代码时，可以直接调用Figma中的设计token、组件规范和布局意图——不用截图、不用手动描述。这把design-to-code从\"翻译\"变成了\"原生理解\"。<br><small>来源：<a href=\"https://www.figma.com/ai\">Figma AI — Your Creative Collaborator</a></small></li><li><strong>Figma Make定位进一步明确：prompt-to-code + 视觉编辑 + 设计系统整合的三位一体</strong> — Figma AI页面现在同时强调三种工作方式：从prompt开始、从已有设计riff、或直接在代码层调整。这不是三个功能，而是三种入口通向同一个产出。对设计师意味着你不必学代码也能控制代码产出；对开发者意味着你不必进Figma也能获得设计意图。<br><small>来源：<a href=\"https://www.figma.com/solutions/ai-design-generator\">AI Design Generator — Figma Make</a></small></li><li><strong>Muzli盘点2026年10款AI设计工具：Moonchild AI、Flowstep等AI-native新势力与Figma形成三角竞争</strong> — Muzli的推荐名单里出现了Moonchild AI（AI原生设计平台）和Flowstep（工作流自动化），这两款工具代表了\"非Figma\"阵营的最强挑战者。文章特别提到：Firefly和Nano Banana这类生成工具\"需要迭代，像跟设计师合作一样——生成10个方案才能得到2个好的\"。<br><small>来源：<a href=\"https://medium.muz.li/10-best-ai-tools-for-ux-designers-in-2026-63b1b4fab19f\">10 Best AI Tools for UX Designers in 2026 — Muzli</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma MCP Server是今天最值得深度解读的信号，因为它改变的不是\"设计工具怎么做AI\"，而是\"AI编码工具怎么理解设计\"——这是方向的反转。</p><p>让我解释为什么这很重要。过去两年的叙事是：\"AI设计工具生成设计→导出代码\"。Figma Make、Bolt、v0都在做这件事。但Figma MCP做的是反方向：<strong>不是让设计工具生成代码，而是让代码工具理解设计</strong>。Cursor的开发者在写React组件时，AI能直接读取Figma文件里的spacing、color token、component structure，然后生成与设计完全一致的代码。这意味着设计师不再需要写\"handoff文档\"，开发者也不再需要\"查看设计稿\"——AI在中间做了翻译。</p><p>这对行业格局的影响是：<strong>Figma正在从\"设计工具\"变成\"设计基础设施\"</strong>。就像GitHub不只是代码托管，而是整个开发者生态的基础层一样，Figma通过MCP协议把自己变成了所有AI工具的\"设计真相来源\"（source of design truth）。这是一个极其聪明的战略：你不需要Figma的AI比Cursor强，你只需要Cursor离不开Figma的数据。</p><p>对Moonchild、Flowstep这些挑战者来说，这是一个坏消息。它们可能在AI生成能力上比Figma强，但如果开发者的AI工具默认从Figma读设计上下文，那设计师就会被锁定在Figma里——因为切换到其他工具意味着断开与开发者AI的连接。这就是为什么我说AI设计工具进入了\"生态卡位战\"：<strong>赢的不是AI最强的，而是与最多AI编码工具集成最深的</strong>。Figma正在用MCP协议构建这个壁垒。</p><p>一个值得警惕的预测：如果Figma成功让MCP成为事实标准，2027年的AI设计工具市场可能只有两个位置——\"在Figma生态内\"和\"死\"。除非有人做出一个开放的、非Figma绑定的设计上下文协议来抗衡。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma MCP Server launches: injects design context directly into Cursor, VS Code, Windsurf, and Claude</strong></li><li><strong>Figma Make solidifies as prompt-to-code + visual editing + design system integration trinity</strong></li><li><strong>Muzli's 2026 roundup: Moonchild AI and Flowstep emerge as strongest non-Figma challengers</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Figma AI — Your Creative Collaborator",
+        "url": "https://www.figma.com/ai",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/44ad8250b9790def5f90acc06d0307cfc683b406-2400x1260.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": "AI Design Generator — Figma Make",
+        "url": "https://www.figma.com/solutions/ai-design-generator",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/44ad8250b9790def5f90acc06d0307cfc683b406-2400x1260.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": "10 Best AI Tools for UX Designers in 2026 — Muzli",
+        "url": "https://medium.muz.li/10-best-ai-tools-for-ux-designers-in-2026-63b1b4fab19f",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/44ad8250b9790def5f90acc06d0307cfc683b406-2400x1260.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+  },
+  {
+    "date": "2026-06-12",
+    "section": "tech",
+    "title": {
+      "zh": "NVIDIA×现代汽车深化AI机器人合作；Anthropic联手微软Maia 200芯片；Sanofi部署AI制药Agent；Trump签署行政令要求政府优先获取先进AI模型",
+      "en": "NVIDIA × Hyundai Deepen AI Robotics Push; Anthropic Partners with Microsoft on Maia 200 Chip; Sanofi Deploys Pharma AI Agents; Trump Signs EO for Early Govt Access to Advanced AI"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>NVIDIA与现代汽车深化AI机器人合作</strong> — Bloomberg报道：NVIDIA和Hyundai正在扩大联合投入，将AI驱动的机器人技术应用于汽车制造和物流。这不是概念验证——是两家千亿市值公司在生产线级别的实质部署。NVIDIA的Isaac平台+Hyundai的Boston Dynamics机器人生态，正在构建\"AI驱动的物理世界自动化\"的完整栈。<br><small>来源：<a href=\"https://www.bloomberg.com/news/articles/2026-06-08/nvidia-hyundai-deepen-joint-push-into-ai-powered-robotics\">NVIDIA, Hyundai Deepen Joint Push Into AI-Powered Robotics — Bloomberg</a></small></li><li><strong>Anthropic与微软合作部署Maia 200 AI芯片</strong> — CNBC报道：Anthropic将在微软的定制AI芯片Maia 200上运行Claude模型。这是一个重大信号：Anthropic正在减少对NVIDIA的单一依赖，而微软获得了Claude作为自研芯片的\"杀手级应用\"。当AI公司开始分散芯片供应链时，NVIDIA的垄断地位首次受到结构性挑战。<br><small>来源：<a href=\"https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html\">Anthropic, Microsoft Maia 200 AI Chip — CNBC</a></small></li><li><strong>Sanofi与Owkin部署生物制药AI Agent</strong> — Pharmaceutical Technology报道：制药巨头赛诺菲与AI公司Owkin合作，将AI Agent应用于药物发现流程。这不是\"用AI筛选分子\"的老故事——而是让AI Agent自主规划实验方案、分析结果、提出下一步建议。Agentic AI正从软件领域扩展到科学研究。<br><small>来源：<a href=\"https://www.pharmaceutical-technology.com/news/sanofi-owkin-biopharma-ai-agents/\">Sanofi, Owkin Biopharma AI Agents — Pharmaceutical Technology</a></small></li><li><strong>Trump签署行政令：要求美国政府优先获取私营企业最先进AI模型</strong> — TradingView/Stocktwits报道：白宫签署行政令，确保联邦政府可以\"早期访问\"私营AI公司的最新模型——在公众使用之前。这意味着OpenAI、Anthropic等公司可能需要给政府提供尚未公开发布的模型版本。地缘AI竞赛的制度化又进了一步。<br><small>来源：<a href=\"https://www.tradingview.com/news/stocktwits:9ba83107b094b:0-trump-signs-executive-order-for-early-government-access-to-advanced-ai-models/\">Trump Signs Executive Order for Early Government Access to Advanced AI Models</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天的四条科技新闻共同描绘了一个趋势：<strong>AI正在从\"软件层\"渗透到\"物理层\"和\"制度层\"</strong>——机器人、芯片、制药、政府政策，全面展开。</p><p>NVIDIA×Hyundai的合作最值得关注的不是合作本身，而是它代表的产业链重构。NVIDIA不再只是\"卖GPU的公司\"，它正在变成\"AI物理世界的操作系统提供商\"——从训练模型到部署机器人，全栈覆盖。Hyundai拥有Boston Dynamics，这意味着全球最先进的机器人硬件+全球最强的AI计算平台的结合。如果这条路线成功，2028年的工厂可能长这样：NVIDIA提供大脑，Hyundai/BD提供身体，中间由AI Agent做决策。人类的角色是什么？监督和定义目标。</p><p>Anthropic+微软Maia 200的合作是芯片地缘政治的新篇章。过去三年，所有人都在问\"谁能挑战NVIDIA？\"——答案不是AMD，不是Intel，而是<strong>微软、Google这些AI公司自己做的定制芯片</strong>。当Anthropic愿意在Maia上跑Claude时，它传达了一个清晰信息：我们不想把命运绑在NVIDIA一家身上。这对NVIDIA的影响短期有限（训练仍离不开H100/Blackwell），但长期推理市场——那个更大的市场——正在被分食。</p><p>Trump的行政令是最令人不安的信号。\"政府优先获取最先进AI\"表面上是国家安全考量，但它打开了一个潘多拉盒子：<strong>如果政府拥有公众没有的AI能力，信息不对称将被制度化</strong>。更实际的问题是——这对AI公司的商业模式意味着什么？它们是否需要维护一个\"政府专属版本\"？这个版本的安全审计由谁做？这些问题在行政令里都没有答案。</p><p>把这四条新闻连起来看，2026年AI的关键词不再是\"更大的模型\"，而是\"更深的渗透\"——渗透到工厂的机械臂里、渗透到芯片的架构里、渗透到药物发现的每一步里、渗透到政府的决策层里。我们正在见证的不是AI技术的突破，而是AI权力结构的固化。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>NVIDIA and Hyundai deepen AI robotics collaboration for manufacturing</strong></li><li><strong>Anthropic partners with Microsoft to run Claude on custom Maia 200 AI chip</strong></li><li><strong>Sanofi and Owkin deploy AI Agents for autonomous drug discovery</strong></li><li><strong>Trump signs executive order requiring early government access to advanced AI models</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "NVIDIA, Hyundai Deepen Joint Push Into AI-Powered Robotics — Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-08/nvidia-hyundai-deepen-joint-push-into-ai-powered-robotics",
+        "image": ""
+      },
+      {
+        "title": "Anthropic, Microsoft Maia 200 AI Chip — CNBC",
+        "url": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108269270-1771956501559-gettyimages-2261854833-AFP_98666EE.jpeg?v=1779385068&amp;w=1920&amp;h=1080"
+      },
+      {
+        "title": "Sanofi, Owkin Biopharma AI Agents — Pharmaceutical Technology",
+        "url": "https://www.pharmaceutical-technology.com/news/sanofi-owkin-biopharma-ai-agents/",
+        "image": ""
+      },
+      {
+        "title": "Trump Signs EO for Early Government Access to Advanced AI Models",
+        "url": "https://www.tradingview.com/news/stocktwits:9ba83107b094b:0-trump-signs-executive-order-for-early-government-access-to-advanced-ai-models/",
+        "image": ""
+      }
+    ],
+    "cover": "https://image.cnbcfm.com/api/v1/image/108269270-1771956501559-gettyimages-2261854833-AFP_98666EE.jpeg?v=1779385068&amp;w=1920&amp;h=1080"
+  },
+  {
     "date": "2026-06-11",
     "section": "design",
     "title": {
