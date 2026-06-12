@@ -3,6 +3,71 @@
     "date": "2026-06-12",
     "section": "design",
     "title": {
+      "zh": "AI-Native设计工具正式成为一个品类：从\"给老工具加AI\"到\"用AI重新发明设计\"，设计师面临工具栈大换血",
+      "en": "AI-Native Design Tools Emerge as a Category: From Adding AI to Old Tools to Reinventing Design with AI"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma发布2026年UX设计师9大AI工具指南：Figma Make、UX Pilot、Uizard领跑</strong> — Figma官方资源库首次系统性梳理AI设计工具生态。值得注意的是Figma把自家Make放在首位（prompt-to-code生成），同时推荐了UX Pilot（AI驱动的UX评审+预测热力图）和Uizard（设计布局编辑）。这份清单既是资源指南，也是Figma对自身定位的宣言：我是平台，其他都是生态。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Top AI Tools for UX Designers in 2026 — Figma</a></small></li><li><strong>Medium设计师亲测5款AI-Native设计工具：真正\"AI原生\"意味着什么？</strong> — 设计师Faith Olohijere花50分钟对比了5款AI-native设计工具，核心观点是：真正的AI-native不是\"在现有设计工具里加个AI按钮\"，而是AI就是产品本身——你跟AI对话，设计直接生成。她特别区分了\"AI-enhanced\"（如Figma AI）和\"AI-native\"（如Moonchild）两个阵营。这个分类框架很有价值。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">I recently reviewed 5 AI-Native UX Design tools in 50 Minutes (2026) — Medium</a></small></li><li><strong>Eleken发布40款UX AI工具深度指南：设计流程每个环节都有AI方案</strong> — 乌克兰设计公司Eleken整理了40款覆盖UX全流程的AI工具。一个关键洞察是：AI不只在\"生成UI\"这个环节发力，它已经渗透到用户研究（自动分析访谈）、信息架构（自动生成site map）、可用性测试（AI预测点击热区）、文案撰写等每一步。设计师的\"全栈AI化\"正在发生。<br><small>来源：<a href=\"https://www.eleken.co/blog-posts/ux-ai-tools\">40 UX AI Tools to Master in 2026 — Eleken</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天的设计工具新闻揭示了一个正在形成的分裂：<strong>\"AI-enhanced设计工具\"和\"AI-native设计工具\"正在成为两个完全不同的品类</strong>，而不是同一条光谱上的两端。</p><p>这个分裂为什么重要？因为它暗示了两种完全不同的设计工作方式。AI-enhanced（Figma AI、Adobe Firefly）的逻辑是：你还是用传统方式做设计，AI帮你加速某些步骤——自动填充、批量生成变体、智能对齐。你的工作流不变，只是更快了。而AI-native（Moonchild、Galileo）的逻辑是：你不再\"做设计\"——你描述你想要什么，AI负责视觉实现。你的角色从\"制作者\"变成了\"导演\"。</p><p>Faith那篇50分钟测评里最精辟的观察是：AI-native工具\"生成10个方案才能得到2个好的\"。这不是Bug，这是Feature——它改变了设计师的工作方式，从\"精心制作一个方案\"变成了\"快速迭代大量方案再筛选\"。这实际上更接近创意总监的工作方式，而不是执行设计师的工作方式。</p><p>对设计师的现实影响：Eleken列出40款工具意味着设计流程的<strong>每一个环节</strong>都有了AI替代方案。但这不意味着你需要用40个工具——它意味着你需要重新思考\"设计师\"这个角色到底包含哪些不可替代的能力。我的判断是：审美判断力（哪个方案好）、问题定义能力（到底在设计什么）、和系统思维（各部分如何协同）这三项在AI时代不但不会贬值，反而会升值。因为当AI让\"执行\"变得极度便宜时，\"决策\"的价值就会被放大。</p><p>一个趋势预测：2026下半年我们会看到第一波\"AI-native设计师\"——他们不会用Figma手动画界面，但能用prompt精确控制AI产出、用系统化的设计原则指导AI迭代、用数据驱动设计决策。他们的产出速度可能是传统设计师的10倍，但他们的核心技能不是\"使用工具\"，而是\"知道好设计长什么样\"。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma publishes 2026 guide to top 9 AI tools for UX designers</strong></li><li><strong>Designer reviews 5 AI-native design tools: distinguishing AI-enhanced vs AI-native</strong></li><li><strong>Eleken releases guide to 40 UX AI tools covering every design workflow step</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Top AI Tools for UX Designers in 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/44ad8250b9790def5f90acc06d0307cfc683b406-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "I recently reviewed 5 AI-Native UX Design tools in 50 Minutes (2026) — Medium",
+        "url": "https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8",
+        "image": ""
+      },
+      {
+        "title": "40 UX AI Tools to Master in 2026 — Eleken",
+        "url": "https://www.eleken.co/blog-posts/ux-ai-tools",
+        "image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6772724c89d880c0b8206a8e_product%20design%20ai%20tools-1.png"
+      }
+    ],
+    "cover": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6772724c89d880c0b8206a8e_product%20design%20ai%20tools-1.png"
+  },
+  {
+    "date": "2026-06-12",
+    "section": "tech",
+    "title": {
+      "zh": "Anthropic首次自建数据中心寻求Google资金支持；中国Moonshot AI冲击300亿美元估值；Meta裁员8000人All-in AI；NVIDIA Rubin系统单台成本780万美元",
+      "en": "Anthropic Pursues First Own Data Centers with Google Backing; China Moonshot AI Eyes 0B Valuation; Meta Cuts 8K Jobs for AI; NVIDIA Rubin System Costs .8M Each"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Anthropic首次寻求自建数据中心，并向Google寻求财务支持</strong> — Reuters 6月11日报道：Anthropic正在洽谈租赁自己的数据中心设施，同时寻求Google的财务支持。这是Anthropic首次尝试拥有自己的计算基础设施——此前它完全依赖AWS和Google Cloud。这意味着Anthropic正在为\"超大规模训练\"做准备，同时试图在AWS和Google之间保持战略平衡。<br><small>来源：<a href=\"https://www.reuters.com/business/anthropic-pursues-data-center-leases-seeks-financial-backing-google-information-2026-06-11\">Anthropic pursues data center leases, seeks financial backing — Reuters</a></small></li><li><strong>中国Moonshot AI（Kimi）新一轮融资目标：300亿美元估值</strong> — Bloomberg报道：Kimi聊天机器人背后的Moonshot AI正在寻求高达20亿美元的新融资，估值将达300亿美元。这将使其成为中国最有价值的AI创业公司之一。在DeepSeek引发的\"中国AI便宜论\"之后，Moonshot用真金白银证明：中国AI市场的资本热度丝毫未减。<br><small>来源：<a href=\"https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks\">China's Moonshot AI Seeks 0 Billion Value — Bloomberg</a></small></li><li><strong>Meta裁员8000人（员工总数10%），全力押注AI</strong> — NPR/NYT报道：Meta以凌晨4点邮件的方式通知裁员，将节省的资源全部投入AI。Zuckerberg明确表示：不再需要这么多人做传统产品，AI将替代大量内部流程。这不是\"降本增效\"——这是一次组织架构为AI服务的彻底重构。<br><small>来源：<a href=\"https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs\">Meta slashes 8000 jobs as it pivots towards AI — NPR</a></small></li><li><strong>NVIDIA下一代Rubin GPU系统单台成本飙升至780万美元，内存成本暴涨485%</strong> — Tom's Hardware报道：NVIDIA最新AI系统的构建成本已达780万美元/台，其中内存占总成本25%（较上代暴涨485%）。单块Rubin GPU售价约5万美元。AI基础设施的成本正在以令人不安的速度膨胀。<br><small>来源：<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece\">NVIDIA Memory Costs Soar 485% — Tom's Hardware</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天四条科技新闻共同讲述一个故事：<strong>AI军备竞赛的成本正在指数级膨胀，而参与者们的应对策略正在分化</strong>。</p><p>先看数字：NVIDIA Rubin系统每台780万美元，一个像样的AI训练集群需要数千台——这意味着单个训练集群的成本可能超过<strong>100亿美元</strong>。这解释了为什么Anthropic要自建数据中心并找Google要钱，也解释了为什么Moonshot AI需要一轮20亿美元的融资。AI的门槛已经不是\"你有没有好模型\"，而是\"你能不能负担得起基础设施\"。</p><p>Anthropic的动作最值得深读。它同时在做三件事：①从微软Maia芯片获得推理算力（降低对NVIDIA依赖）；②自建数据中心（降低对云厂商依赖）；③找Google要钱（维持资金链）。这三步棋的逻辑是：<strong>Anthropic正在试图成为一家\"垂直整合\"的AI公司</strong>——从芯片到数据中心到模型到应用，全栈自控。这跟OpenAI依赖微软Azure、Mistral依赖欧洲云的模式完全不同。如果成功，Anthropic将是除Google和Meta之外第三家真正\"拥有自己计算基础设施\"的AI模型公司。</p><p>Meta裁8000人则展示了AI军备竞赛的另一面：<strong>人力正在被重新分配为算力</strong>。Meta一年在AI上花600-700亿美元，裁掉8000人每年可能省10-15亿美元的人力成本——这些钱直接变成了GPU采购预算。更深层的信号是：Zuckerberg公开说\"AI将替代大量内部流程\"，这意味着Meta正在用自己的AI产品替代自己的员工——它既是AI的生产者也是AI的消费者。</p><p>Moonshot AI 300亿美元估值则证明了一个被低估的事实：<strong>中国AI并没有因为DeepSeek的\"低成本叙事\"而停止烧钱</strong>。相反，中国的顶级AI公司和美国一样在追求规模。300亿美元估值意味着投资者相信Kimi有机会成为中国的ChatGPT——或者更准确地说，成为中国消费者AI市场的入口。这条赛道的终局可能是：美国有OpenAI/Anthropic/Google三强，中国有Moonshot/DeepSeek/字节跳动三强，形成两个平行但互不连通的AI生态。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Anthropic pursues first own data center leases with Google financial backing</strong></li><li><strong>China's Moonshot AI (Kimi) seeks 0B valuation in new funding round</strong></li><li><strong>Meta lays off 8,000 employees (10% of staff) to go all-in on AI</strong></li><li><strong>NVIDIA Rubin GPU system costs .8M per unit, memory costs up 485%</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Anthropic pursues data center leases, seeks financial backing — Reuters",
+        "url": "https://www.reuters.com/business/anthropic-pursues-data-center-leases-seeks-financial-backing-google-information-2026-06-11",
+        "image": ""
+      },
+      {
+        "title": "China's Moonshot AI Seeks 0 Billion Value — Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks",
+        "image": ""
+      },
+      {
+        "title": "Meta slashes 8000 jobs as it pivots towards AI — NPR",
+        "url": "https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs",
+        "image": ""
+      },
+      {
+        "title": "NVIDIA Memory Costs Soar 485% — Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
+    "date": "2026-06-12",
+    "section": "design",
+    "title": {
       "zh": "Figma MCP Server让设计直连Cursor/VS Code/Claude：设计到代码的最后一公里被打通；AI设计工具进入\"生态卡位战\"",
       "en": "Figma MCP Server Connects Design Directly to Cursor/VS Code/Claude: The Last Mile from Design to Code; AI Design Tools Enter Ecosystem Lock-in War"
     },
