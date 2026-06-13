@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-13",
+    "section": "design",
+    "title": {
+      "zh": "Figma Design Agent正式上线画布：AI从\"辅助设计\"进化到\"自主设计\"，设计师角色加速向\"创意总监\"转型",
+      "en": "Figma Design Agent Arrives on Canvas: AI Evolves from Assisting Design to Autonomous Design, Designers Accelerate Shift to Creative Director Role"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma正式发布Design Agent：AI直接在画布上创建、编辑组件并使用你的设计系统</strong> — 这不是又一个\"AI生成UI\"的功能。Figma Design Agent能直接在你的画布上工作——创建组件、应用变量、批量编辑、生成变体，而且使用的是你自己的设计系统。通过MCP协议，Claude Code、Cursor、Codex等外部AI agent也能写入Figma文件。设计文件从\"人类操作的画布\"变成了\"多Agent协作的workspace\"。<br><small>来源：<a href=\"https://www.figma.com/blog/the-figma-agent-is-here\">The Figma Design Agent is Here — Figma Blog</a></small></li><li><strong>Figma Make新增Custom Skills：让AI学习你团队的设计决策模式</strong> — Custom Skills允许你预定义任务模板，让Figma Make按照你团队特有的设计规范和决策逻辑来工作。这意味着AI不再是\"通用设计助手\"，而是能被训练成\"你团队的设计师\"——它知道你的按钮应该长什么样、你的间距规范是什么、你的文案风格是怎样的。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=ijxTOrUEVUg\">Figma Agent Inside Canvas, Custom Make Skills — YouTube (Punit Chawla)</a></small></li><li><strong>Muzli深度分析：Figma开放画布给AI Agent对设计师意味着什么</strong> — Muzli指出核心变化：此前AI工具生成的设计\"看起来像从没见过你产品的人做的线框图\"。而Figma Agent通过MCP协议读取你的设计系统，能生成\"真正属于你产品\"的设计。这解决了AI设计工具最大的痛点：生成的东西好看但不可用，因为它不了解你的产品上下文。<br><small>来源：<a href=\"https://muz.li/blog/figma-just-opened-the-canvas-to-ai-agents-heres-what-it-means-for-designers\">Figma Just Opened the Canvas to AI Agents — Muzli</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma Design Agent不是一个产品更新——它是一个职业信号弹。</p><p>让我把今天的三条新闻放在一起看。Figma做了三件递进的事：①Agent直接操作画布（执行层自动化）；②Custom Skills让Agent学习你的决策模式（决策层半自动化）；③MCP协议让外部AI也能写入Figma（设计文件变成多Agent协作空间）。这三步合起来描绘了一个清晰的终局：<strong>设计师不再\"做设计\"，而是\"指导多个AI agent做设计\"</strong>。</p><p>这跟之前所有\"AI设计工具\"的本质区别在哪？之前的工具（包括Figma Make早期版本）是\"你给AI一个prompt，AI给你一个输出，你不满意就重新prompt\"。这是人-AI的一对一交互。但Design Agent + MCP的组合意味着：你的Figma文件同时有Figma Agent在画布上做组件、有Cursor通过MCP在同步代码、有Claude Code在根据设计系统生成新页面——<strong>你是导演，AI是一个团队</strong>。</p><p>Custom Skills是这个链条中最被低估的环节。为什么？因为它解决了AI设计工具最致命的问题：<strong>一致性</strong>。AI生成的设计最大的问题不是\"不好看\"，而是\"跟你的产品不搭\"——颜色对不上、间距不对、组件风格不统一。Custom Skills让你把团队积累的隐性知识（\"我们从不用纯黑色\"、\"卡片间距永远是16px\"、\"CTA按钮用品牌色gradient\"）编码成AI可以理解的规则。这相当于给AI agent一本你团队的设计手册。</p><p>对设计师的现实影响：如果你现在的工作80%是执行（画图标、调间距、做变体、切图），Figma Agent已经能做这些了。你需要问自己的问题是：<strong>剩下的20%——那些AI还做不了的事——你有多强？</strong>这20%是什么？是理解用户真正的问题（不是\"用户想要什么按钮\"而是\"用户为什么在这一步流失\"）、是系统级的设计决策（\"这个功能应该是独立页面还是嵌入现有流程\"）、是审美判断（\"10个AI方案里哪个最好，为什么\"）。</p><p>一个大胆预测：到2027年，\"设计师\"这个title会分裂成两个完全不同的职业。一种是\"AI Design Director\"——不亲手做界面，但精通如何用Custom Skills训练AI、如何用prompt引导Agent、如何评估AI产出。另一种是\"Design Engineer\"——在Figma和代码之间自由穿梭，通过MCP协议让设计意图直接变成生产代码。传统意义上的\"UI设计师\"——手动在画布上推像素的那种——将在3年内从主流岗位变成小众技能，类似今天的\"手绘插画师\"。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma launches Design Agent: AI works directly on canvas, creates/edits components using your design system</strong></li><li><strong>Figma Make adds Custom Skills: train AI with your team's design decision patterns</strong></li><li><strong>Muzli analysis: What Figma opening canvas to AI agents means for designers</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "The Figma Design Agent is Here — Figma Blog",
+        "url": "https://www.figma.com/blog/the-figma-agent-is-here",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/ecb42426bf00ba6a097dc81a0880661b44d5e86d-2040x1148.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "Figma Agent Inside Canvas, Custom Make Skills — YouTube",
+        "url": "https://www.youtube.com/watch?v=ijxTOrUEVUg",
+        "image": ""
+      },
+      {
+        "title": "Figma Just Opened the Canvas to AI Agents — Muzli",
+        "url": "https://muz.li/blog/figma-just-opened-the-canvas-to-ai-agents-heres-what-it-means-for-designers",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/ecb42426bf00ba6a097dc81a0880661b44d5e86d-2040x1148.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-06-13",
+    "section": "tech",
+    "title": {
+      "zh": "Apple豪掷10亿美元/年接入Google Gemini驱动新Siri；Cursor发布Composer 2.5标志AI编码进入\"全自主开发\"时代",
+      "en": "Apple Pays $1B/Year for Google Gemini to Power New Siri; Cursor Composer 2.5 Marks AI Coding Entering Fully Autonomous Development Era"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Apple确认选择Google Gemini驱动新版Siri，年付费约10亿美元</strong> — CNBC/Bloomberg确认：Apple将使用Google的1.2万亿参数Gemini模型来驱动Siri的总结器和规划器功能。这是一个多年期合作协议。Apple同时在开发自己的1万亿参数模型作为中期替代方案。这意味着：①Apple承认自研AI能力不足；②Google成为Apple AI基础设施供应商（类似Google搜索交易的AI版本）；③OpenAI在这场竞标中输给了Google。<br><small>来源：<a href=\"https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html\">Apple picks Google's Gemini to run AI-powered Siri — CNBC</a></small></li><li><strong>Apple同时考虑OpenAI/Anthropic作为备选方案，保持多供应商策略</strong> — LA Times/SiliconAngle报道Apple也在与OpenAI和Anthropic洽谈。这是典型的Apple供应链策略：永远不把鸡蛋放一个篮子。即使主协议给了Google，Apple仍然在培养替代供应商，确保议价能力。<br><small>来源：<a href=\"https://siliconangle.com/2025/06/30/apple-reportedly-considering-using-tech-openai-anthropic-falls-behind-ai-race\">Apple considering OpenAI or Anthropic tech — SiliconAngle</a></small></li><li><strong>Cursor发布Composer 2.5：AI编码Agent能力再进一步，支持更深度的多文件自主开发</strong> — Cursor在5月18日发布了Composer 2.5研究报告。这是继3月Composer 2之后的重大升级。Composer 2.5的核心进步是：AI不只是\"帮你补全代码\"，而是能理解整个项目的架构，自主决定修改哪些文件、按什么顺序修改、如何保持一致性。这标志着AI编码从\"autocomplete\"到\"autonomous development\"的跨越。<br><small>来源：<a href=\"https://cursor.com/blog/composer-2-5\">Introducing Composer 2.5 — Cursor Blog</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这三条新闻背后有一个共同主题：<strong>AI能力的\"买vs造\"决策正在重塑整个科技行业的权力结构</strong>。</p><p>Apple选择Google Gemini是2026年最重大的AI战略决策之一，而且它的意义远超\"Siri终于要好用了\"。让我解读三层含义：</p><p><strong>第一层：Apple承认了一个painful truth</strong>——在foundation model这个赛道上，它已经落后到无法靠自研追上。Apple花了三年（2023-2025）试图自建大模型，最终选择付费10亿/年用Google的。这10亿美元不是技术费用——这是Apple为\"不够早重视AI\"付出的战略税。作为对比，Google在Gemini上的投入是百亿级的。Apple用10亿买到了百亿研发的成果，从纯商业角度看其实是笔好买卖。</p><p><strong>第二层：这是Google搜索交易的AI翻版</strong>，而且可能比搜索交易更有战略价值。Google每年付Apple约200亿让Safari默认用Google搜索；现在Apple每年付Google约10亿用Gemini。表面看金额差距很大，但关键在于：Google获得了对全球最高价值用户群（iPhone用户）的AI入口控制权。如果Siri由Gemini驱动，那每次iPhone用户用Siri，背后都是Google在学习和改进。这个数据飞轮的价值远超10亿。</p><p><strong>第三层：OpenAI输了</strong>。在ChatGPT时代，OpenAI看起来是AI的代名词。但在企业级基础设施竞争中，Google凭借云计算能力、模型规模（1.2万亿参数）和部署稳定性赢了Apple的订单。这暗示了一个趋势：OpenAI在To-C很强，但在To-B/To-Enterprise这个市场，Google和Anthropic可能更有优势。</p><p>Cursor Composer 2.5则从另一个角度印证了AI产业的加速：<strong>当foundation model足够强大时，应用层的进步速度会超越模型本身的进步速度</strong>。Composer 2.5的\"全自主多文件开发\"能力不是靠新模型实现的——它是靠更好的Agent架构、更精确的上下文管理、更智能的任务分解实现的。这对设计领域的启示是：Figma Agent的进步速度可能也会快于底层模型的进步速度，因为关键瓶颈不是\"模型不够聪明\"，而是\"Agent不够了解你的工作流\"。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Apple confirms Google Gemini to power new Siri at ~$1B/year</strong></li><li><strong>Apple also considering OpenAI/Anthropic as backup suppliers</strong></li><li><strong>Cursor releases Composer 2.5: deeper autonomous multi-file development</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Apple picks Google's Gemini to run AI-powered Siri — CNBC",
+        "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108251190-1768231661465-gettyimages-2252639381-dellatorre-notitle251222_npwev.jpeg?v=1769815846&w=1920&h=1080"
+      },
+      {
+        "title": "Apple considering OpenAI or Anthropic tech — SiliconAngle",
+        "url": "https://siliconangle.com/2025/06/30/apple-reportedly-considering-using-tech-openai-anthropic-falls-behind-ai-race",
+        "image": ""
+      },
+      {
+        "title": "Introducing Composer 2.5 — Cursor Blog",
+        "url": "https://cursor.com/blog/composer-2-5",
+        "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/cursor-composer2.5-og-2400x1200.png"
+      }
+    ],
+    "cover": "https://image.cnbcfm.com/api/v1/image/108251190-1768231661465-gettyimages-2252639381-dellatorre-notitle251222_npwev.jpeg?v=1769815846&w=1920&h=1080"
+  },
+  {
     "date": "2026-06-12",
     "section": "design",
     "title": {
