@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-14",
+    "section": "design",
+    "title": {
+      "zh": "Figma《State of the Designer 2026》报告：89%设计师称AI让工作更快，但\"Vibe Design\"正在模糊设计师与非设计师的边界",
+      "en": "Figma State of the Designer 2026: 89% Say AI Makes Them Faster, But Vibe Design Blurs the Line Between Designers and Non-Designers"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma发布《State of the Designer 2026》报告：89%设计师称AI让工作更快，80%协作更好</strong> — Figma年度设计师状态报告揭示了一个矛盾现实：绝大多数设计师承认AI提高了效率，但同时感到“不稳定”和焦虑。报告核心洞察：craft（手艺）依然被认为是“inherently human”，创意自由是设计师最看重的价值，但“什么算设计师的工作”这个边界正在被AI快速模糊。<br><small>来源：<a href=\"https://www.figma.com/blog/state-of-the-designer-2026\">State of the Designer 2026 — Figma Blog</a></small></li><li><strong>“Vibe Design”成为2026设计圈热词：Google Stitch引爆“文字变UI”范式</strong> — UX Collective和Muzli同时报道了“Vibe Design”概念的兴起。类比开发圈的“Vibe Coding”，Vibe Design指的是：用自然语言描述你想要的界面，AI直接输出可用的UI。Google Stitch是典型代表——从文字prompt、图片、甚至手绘线框直接生成前端代码。这不是原型工具，这是“跳过设计直接到开发”的工具。<br><small>来源：<a href=\"https://muz.li/blog/vibe-design-in-2026-what-ai-generated-ui-means-for-your-work\">Vibe Design in 2026: What AI-Generated UI Means for Your Work — Muzli</a></small></li><li><strong>Motiff超越Figma成为2026设计系统AI领域最受关注工具</strong> — UX Collective年度趋势文章指出：在设计系统+AI这个交叉领域，Motiff（而非Figma）走在了最前面。Motiff能导出production-ready的React/HTML代码，并在设计系统一致性维护方面表现优于Figma AI。“本来以为Figma会引领AI设计系统革命，结果Motiff先到了。”<br><small>来源：<a href=\"https://uxdesign.cc/the-most-popular-experience-design-trends-of-2026-3ca85c8a3e3d\">The Most Popular Experience Design Trends of 2026 — UX Collective</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma这份State of the Designer报告里最有意思的数据不是“89%更快”——这是废话，AI当然让你更快。真正有意思的是那个隐含的悖论：<strong>设计师同时变得更高效、更焦虑、更不确定自己的价值</strong>。</p><p>为什么？因为“更快”是一把双刃剑。当你做一个页面从3天变成3小时，你的老板不会说“太好了你可以早下班了”——他会说“太好了你一周可以做15个页面了”。效率提升被组织立即吸收为产出预期的提升。设计师发现自己跑得更快了，但终点线也移远了。</p><p>“Vibe Design”的兴起更是直接威胁了设计师的存在合法性。让我说清楚这个概念有多颠覆：以前，“非设计师想做一个好看的界面”的路径是：①学Figma→②学设计原则→③自己做→④做得很丑→⑤还是找设计师吧。现在路径变了：①打开Stitch→②用中文描述你想要什么→③得到一个还不错的界面→④完事。<strong>整条设计师的价值链被绕过了</strong>。</p><p>Motiff超越Figma这件事则暴露了Figma的战略困境。Figma是设计工具的王者，但“设计工具”这个品类本身在被AI解构。Figma的优势在于协作和生态，但当AI能直接输出代码时，“设计文件”还有必要存在吗？Motiff的策略是跳过“设计文件”这一步，直接从设计意图到生产代码。如果这种模式被验证，Figma的核心产品——那个精美的无限画布——可能变成中间环节的累赘。</p><p>把三条新闻放在一起看，我看到的pattern是：<strong>设计行业正在经历一次“价值重心上移”</strong>。执行层（画界面）被AI平民化→决策层（选哪个方案好）价值上升→战略层（到底解决什么问题）成为核心稀缺能力。Figma报告说“craft is inherently human”——这话半对半错。<strong>手艺的执行不再exclusively human</strong>，但审美判断力和品味确实还是。问题是：有多少设计师真正拥有超越AI的审美判断力？这才是让89%的人焦虑的真正原因。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma State of the Designer 2026: 89% say AI makes them faster, yet anxiety rises</strong></li><li><strong>\"Vibe Design\" emerges as 2026 buzzword: Google Stitch enables text-to-UI bypassing designers</strong></li><li><strong>Motiff surpasses Figma as most-watched AI design system tool of 2026</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "State of the Designer 2026 — Figma Blog",
+        "url": "https://www.figma.com/blog/state-of-the-designer-2026",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/8933b0df528b5ce8a07d94f60b731618c13646a7-3204x1800.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "Vibe Design in 2026: What AI-Generated UI Means for Your Work — Muzli",
+        "url": "https://muz.li/blog/vibe-design-in-2026-what-ai-generated-ui-means-for-your-work",
+        "image": ""
+      },
+      {
+        "title": "The Most Popular Experience Design Trends of 2026 — UX Collective",
+        "url": "https://uxdesign.cc/the-most-popular-experience-design-trends-of-2026-3ca85c8a3e3d",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/8933b0df528b5ce8a07d94f60b731618c13646a7-3204x1800.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-06-14",
+    "section": "tech",
+    "title": {
+      "zh": "Microsoft Scout：M365里的常驻AI Agent来了；AI数据中心引发美国干旱危机；NVIDIA与现代汽车深化AI机器人合作",
+      "en": "Microsoft Scout: A Persistent AI Agent Inside M365; AI Data Centers Triggering US Drought Crisis; NVIDIA Deepens AI Robotics with Hyundai"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Microsoft发布\"Scout\"：首个常驻M365的AI Agent，跨Outlook/Teams/Word/Excel自动执行任务</strong> — AI Insiders报道：Microsoft面向Frontier Program用户推出Scout——一个always-on agent，能自动串联Outlook、Teams、Word、Excel、SharePoint的日常工作。关键能力：读取本地文件、按任务类型自动路由到OpenAI/Anthropic/Microsoft MAI不同模型、构建可持久化的routine。这不是Copilot的升级——这是从“你问我答”到“我主动帮你干活”的范式转变。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-8th-june-2026-ai-insiders-news-pedof\">AI News Highlights June 8 2026 — AI Insiders</a></small></li><li><strong>AI数据中心的水资源消耗引发美国多地干旱预警</strong> — The Guardian调查报道：AI数据中心的冷却系统正在消耗大量水资源，美国多个州开始对数据中心的水权进行限制。一个大型AI训练集群每天消耗的水量相当于一个小城镇的日用水量。这为AI行业的“无限扩张”叙事增加了一个很现实的物理限制。<br><small>来源：<a href=\"https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water\">AI data centers and the American drought — The Guardian</a></small></li><li><strong>NVIDIA与现代汽车深化AI机器人合作；SK Hynix建造AI工厂</strong> — Bloomberg/NVIDIA Newsroom报道：NVIDIA与现代联合推进AI驱动的机器人项目，同时SK Hynix正在建造专门为AI芯片供应HBM内存的“AI工厂”。这两条新闻的共同主题是：AI的硬件供应链正在从“芯片公司的事”变成整个制造业的事——汽车、内存、材料都在围绕AI重新组织。<br><small>来源：<a href=\"https://www.bloomberg.com/news/articles/2026-06-08/nvidia-hyundai-deepen-joint-push-into-ai-powered-robotics\">NVIDIA, Hyundai Deepen AI Robotics Push — Bloomberg</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Microsoft Scout的发布在我看来是本周最重要的产品动作——比任何模型发布都重要。为什么？因为它代表了AI产品从“工具”到“同事”的临界点跨越。</p><p>让我解释Scout和Copilot的本质区别。Copilot是reactive的：你打开Word，问它“帮我写个邮件”，它写了，完事。Scout是proactive的：它24/7运行在你的M365环境里，<strong>主动发现需要做的事</strong>——你的日历有冲突它自动协调、你的邮件需要回复它帮你草拟、你的Excel需要更新它自动拉数据。这不是“更好的Copilot”——这是一种全新的人机关系：你有了一个数字助理，它真的在“替你上班”。</p><p>更耐人寻味的是Scout的多模型路由机制。它不只用OpenAI——它根据任务类型自动选择OpenAI、Anthropic、或Microsoft自研MAI模型。这暗示了AI行业的一个新格局：<strong>没有一个模型能统治一切</strong>。不同任务需要不同模型——写代码用Claude、分析数据用GPT、做摘要用轻量模型。Microsoft正在把自己定位为“AI模型的调度层”而不是“AI模型的拥有者”。这对OpenAI来说不是好消息——它意味着即使是最大的合作伙伴也不打算只用你一家。</p><p>水资源危机那条新闻则为AI狂潮泼了一盆冷水。NVIDIA一台Rubin系统780万美元我们已经知道了，但水呢？电呢？土地呢？AI行业正在撞上物理世界的硬限制。我的判断是：<strong>2026-2027年，数据中心的物理约束将成为AI扩张的真正瓶颈</strong>——不是模型不够聪明，不是资金不够多，而是地球上能建数据中心的好位置就那么多（需要便宜电力、充足水源、凉爽气候、高速网络）。这会导致什么？会导致AI的“推理效率”变得比“训练规模”更重要——因为你建不了更多数据中心了，只能让现有设施更高效地工作。DeepSeek那种“用更少算力做更多事”的路线可能比“堆更多GPU”的路线更有未来。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Microsoft launches Scout: always-on AI agent inside M365 with multi-model routing</strong></li><li><strong>AI data centers triggering drought warnings across US states</strong></li><li><strong>NVIDIA deepens AI robotics with Hyundai; SK Hynix builds AI memory factory</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "AI News Highlights June 8 2026 — AI Insiders",
+        "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-8th-june-2026-ai-insiders-news-pedof",
+        "image": "https://media.licdn.com/dms/image/v2/D4D12AQEWUfVKfEZtvg/article-cover_image-shrink_720_1280/B4DZ6niL45I0AQ-/0/1780927217495?e=2147483647&v=beta&t=7AIhPahCB_TTO6TV5X-Hw0cnGoPZPrADRlwAsEiyakM"
+      },
+      {
+        "title": "AI data centers and the American drought — The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water",
+        "image": ""
+      },
+      {
+        "title": "NVIDIA, Hyundai Deepen AI Robotics Push — Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-08/nvidia-hyundai-deepen-joint-push-into-ai-powered-robotics",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
+  },
+  {
     "date": "2026-06-13",
     "section": "design",
     "title": {
