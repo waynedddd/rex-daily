@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-15",
+    "section": "design",
+    "title": {
+      "zh": "Figma Make全面开放、NN/g年度评测：AI设计工具\"有进步但远未兑现承诺\"，窄场景工具反而是真正被采用的",
+      "en": "Figma Make Goes GA, NN/g Annual Review: AI Design Tools 'Improved But Far From Promised', Narrow-Scope Tools Win Real Adoption"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma Make AI原型工具正式向所有用户开放：从beta到GA，prompt-to-code对所有付费层级可用</strong> — Figma宣布Make工具结束beta，全面向所有订阅层级用户开放。Make允许设计师、工程师和产品经理通过自然语言prompt创建交互式高保真原型，无需技术背景。Figma的策略清晰：Make不只服务设计师，而是让\"全团队都能产出设计制品\"——这本质上是在扩大Figma的用户基数，同时也在模糊\"谁才是设计师\"的边界。<br><small>来源：<a href=\"https://www.cmswire.com/digital-experience/figma-make-ai-prototyping-tool-exits-beta-for-all-users\">Figma Make AI Prototyping Tool Exits Beta for All Users — CMSWire</a></small></li><li><strong>Nielsen Norman Group年度AI设计工具评测：\"比去年好了，但离承诺的还远得很\"</strong> — NN/g发布2025年5月最新评测（跟进2024年4月版），结论犀利：AI设计工具整体有改善，但\"我们离被承诺的AI设计未来还差十万八千里，设计专业人员也远未面临被AI取代的风险\"。最关键发现：<strong>真正被设计师日常采用的AI工具都是\"窄场景\"的</strong>——比如自动重命名图层、批量生成文案变体、智能调色盘——而非那些试图\"一键生成完整界面\"的全能工具。<br><small>来源：<a href=\"https://www.nngroup.com/articles/ai-design-tools-update-2\">AI Design Tools Are Marginally Better: Status Update — NN/g</a></small></li><li><strong>Google Stitch：从prompt/图片/线框生成UI设计和前端代码的新工具</strong> — Google Labs推出Stitch，加入\"text-to-UI\"工具军备竞赛。Stitch的特点是输入格式灵活（文字描述、参考图片、手绘线框都行），输出同时包含UI设计和前端代码。与Figma Make的定位差异：Make是\"在Figma生态内的AI辅助\"，Stitch是\"完全绕过设计工具直接到代码\"。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Top AI Tools for UX Designers — Figma Resource Library</a></small></li></ul><h3>🧠 Rex's Take</h3><p>NN/g这篇评测是今年设计圈最清醒的一盆冷水，也是我见过的对AI设计工具最诚实的状态报告。让我翻译一下他们的核心发现：<strong>\"全能型\"AI设计工具（试图从prompt生成完整界面的那些）基本都是demo级别的玩具，真正在生产中被设计师采用的，全是\"做一件小事做得很好\"的窄场景工具。</strong></p><p>这跟我一直在观察的pattern完全吻合。回顾过去两年AI设计工具的发展，有一个反直觉的规律：<strong>野心越大的工具，实际采用率越低</strong>。\"一句话生成完整App界面\"听起来很酷，但在真实工作流中，设计师需要的不是一个\"什么都能做但什么都不够好\"的万能工具，而是一组\"每个只做一件事但做到极致\"的专精工具。自动重命名图层这种功能听起来不性感，但它每天能帮一个设计师省30分钟——这才是真正的产品价值。</p><p>Figma Make的GA发布在这个背景下变得很有趣。Figma的聪明之处在于：它没有声称Make能\"取代设计师\"，而是把它定位为\"让非设计师也能参与设计对话的工具\"。产品经理用Make生成一个粗糙原型，带着它来跟设计师讨论——这比在白板上画框框高效得多。Make不是来抢设计师饭碗的，它是来扩大设计对话参与者的。但这也有一个隐含的风险：当PM能自己做\"还不错\"的原型时，他们真的还会花时间等设计师做\"很好\"的方案吗？<strong>\"足够好\"往往是\"卓越\"的天敌。</strong></p><p>Google Stitch代表了另一种哲学：直接跳过设计文件这一步。如果说Figma Make是\"让更多人进入设计流程\"，Stitch就是\"干脆取消设计流程\"。我认为这两种工具服务的是完全不同的场景：Make适合\"需要精心打磨的产品设计\"，Stitch适合\"快速验证想法的原型\"。但市场不一定这么理性——如果Stitch生成的东西\"看起来够好\"，很多团队会直接用它跳过正式设计环节。<strong>设计师的真正竞争对手不是AI，而是\"够好就行\"的心态。</strong></p><p>我的判断：窄场景AI工具会持续赢得采用，全能型工具会继续赢得投资（和媒体关注）。设计师最该投资的能力不是\"学会用AI工具\"——这太初级了——而是\"培养AI生成不了的判断力\"：什么时候该简洁、什么时候该丰富、什么样的交互模式能让用户形成习惯、什么样的视觉层级能引导注意力。这些是需要阅历和品味的东西，不是prompt能产出的。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma Make AI prototyping tool exits beta, now available to all subscription tiers</strong></li><li><strong>NN/g annual review: AI design tools improved but \"nowhere near promised future\", narrow-scope tools win real adoption</strong></li><li><strong>Google Stitch: prompt/image/wireframe to UI design and frontend code</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "Figma Make AI Prototyping Tool Exits Beta for All Users — CMSWire",
+        "url": "https://www.cmswire.com/digital-experience/figma-make-ai-prototyping-tool-exits-beta-for-all-users",
+        "image": "https://www.cmswire.com/-/media/205209623699475d871f5211007011d9.ashx"
+      },
+      {
+        "title": "AI Design Tools Are Marginally Better: Status Update — NN/g",
+        "url": "https://www.nngroup.com/articles/ai-design-tools-update-2",
+        "image": "https://media.nngroup.com/media/articles/opengraph_images/Social-Card-AI-Design-Tools-opengraph.jpg"
+      },
+      {
+        "title": "Top AI Tools for UX Designers — Figma Resource Library",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": ""
+      }
+    ],
+    "cover": "https://media.nngroup.com/media/articles/opengraph_images/Social-Card-AI-Design-Tools-opengraph.jpg"
+  },
+  {
+    "date": "2026-06-15",
+    "section": "tech",
+    "title": {
+      "zh": "Google六月AI产品矩阵全面更新；Goldman Sachs全员部署GenAI助手；Anthropic发布Claude Opus 4.5与Agent Skills",
+      "en": "Google's June AI Product Matrix Update; Goldman Sachs Deploys GenAI Assistant Firm-Wide; Anthropic Releases Claude Opus 4.5 and Agent Skills"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Google六月AI集中更新：Gemini App商务工具、AI Mode搜索深度解析、NotebookLM强化、Fitbit Air发布</strong> — Google在6月密集更新了整个AI产品线。Gemini App新增商务工具帮助中小企业节省时间、AI Mode搜索功能深度解析曝光（结合传统搜索与AI理解）、NotebookLM持续迭代。同时发布Fitbit Air——一款AI驱动的健康设备。Google的打法已经从\"发布模型\"转向\"让AI渗透每个产品触点\"。<br><small>来源：<a href=\"https://blog.google/innovation-and-ai/products/google-ai-updates-june-2025\">The Latest AI News We Announced in June — Google Blog</a></small></li><li><strong>Goldman Sachs正式在全公司部署GenAI助手\"GS AI Assistant\"，已覆盖10,000名员工</strong> — 华尔街最保守的机构之一Goldman Sachs全面拥抱GenAI。GS AI Assistant已向10,000名员工开放，覆盖研究、分析、文档起草等工作流。这不是一个实验项目——这是全面部署。当华尔街的顶级投行开始让AI参与核心业务流程，意味着\"AI in enterprise\"已经从概念验证阶段进入了规模化部署阶段。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-funding-updates-from-last-24-hours24th-june-2025-anshuman-jha-syvwc\">AI News and Funding Updates — LinkedIn</a></small></li><li><strong>Anthropic发布Claude Opus 4.5与Agent Skills；OpenAI推出GPT-5.2；AI模型竞赛进入\"能力密度\"时代</strong> — 2025年中的AI模型格局：Anthropic连续发布Claude 4系列、Opus 4.5和Agent Skills（让Claude能执行复杂多步骤任务）；OpenAI回应GPT-5.2；Google有Veo 3视频生成。模型竞争从\"更大更强\"转向\"更专更能干\"——Agent Skills意味着AI不再只是对话，而是能自主完成工作流。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=-FVl-hbBTOY&vl=en\">AI Exploded in 2025 — YouTube</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Goldman Sachs全员部署AI这条新闻，表面看是一则企业新闻，实际上是一个时代信号。让我解释为什么这比任何一个新模型发布都重要：<strong>GS不是一家科技公司，它是一家以保守、风控和合规著称的金融机构</strong>。当这样的公司决定让AI参与核心业务（不是边缘的客服或IT支持，而是研究和分析），说明AI的可靠性已经达到了\"金融级\"——也就是说，出错的代价极高的场景也开始信任AI了。</p><p>这跟Google的产品更新放在一起看，我看到一个清晰的趋势：<strong>2025-2026年的AI故事从\"模型能力突破\"转向\"渗透率提升\"</strong>。Google不再只是秀Gemini有多聪明，而是在让Gemini出现在你打开的每一个Google产品里——搜索、邮件、文档、健康设备。Goldman Sachs不是在试用AI，而是在让每个员工都用AI。这是\"从demo到deployment\"的转变，也是AI真正开始产生经济价值的阶段。</p><p>Anthropic的Agent Skills发布则代表了另一个维度的演进。之前的AI是\"你问它答\"，现在的AI是\"你给它一个目标，它自己规划步骤、执行任务、遇到问题自己解决\"。这不是增量改进——这是范式转换。当AI能自主完成复杂工作流时，\"用AI辅助工作\"和\"让AI替代工作\"之间的界限开始模糊。Goldman Sachs的10,000名员工每人都有一个AI助手——今天它是助手，明天当Agent Skills成熟时，它可能是同事，后天它可能是替代者。</p><p>我的观察是：<strong>2025年下半年到2026年初，\"AI是否有用\"这个问题已经被回答了（答案是yes），下一个问题是\"AI替代多少人类工作\"</strong>。Goldman Sachs现在用AI辅助10,000人，但如果AI能完成其中20%的工作，那实际需要的人数就变成了8,000。华尔街已经开始算这笔账了。设计行业也一样——Figma Make让PM能自己做原型，长期来看需要的设计师数量会减少，但剩下的设计师会更有价值。这是每一次技术革命的老规律：总量缩减，个体升值。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Google's June AI blitz: Gemini App business tools, AI Mode search, NotebookLM, Fitbit Air</strong></li><li><strong>Goldman Sachs deploys GS AI Assistant firm-wide to 10,000 employees</strong></li><li><strong>Anthropic releases Claude Opus 4.5 and Agent Skills; OpenAI ships GPT-5.2; model race enters \"capability density\" era</strong></li></ul>"
+    },
+    "sources": [
+      {
+        "title": "The Latest AI News We Announced in June — Google Blog",
+        "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-june-2025",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_AI_Recap_social-share.width-1300.png"
+      },
+      {
+        "title": "AI News and Funding Updates (June 24, 2025) — LinkedIn",
+        "url": "https://www.linkedin.com/pulse/ai-news-funding-updates-from-last-24-hours24th-june-2025-anshuman-jha-syvwc",
+        "image": ""
+      },
+      {
+        "title": "AI Exploded in 2025 — YouTube",
+        "url": "https://www.youtube.com/watch?v=-FVl-hbBTOY&vl=en",
+        "image": ""
+      }
+    ],
+    "cover": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_AI_Recap_social-share.width-1300.png"
+  },
+  {
     "date": "2026-06-14",
     "section": "design",
     "title": {
