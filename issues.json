@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-06-16",
+    "section": "design",
+    "title": {
+      "zh": "Google Stitch 2.0深度评测：免费AI UI工具能否挑战Figma？设计工具格局正在分化",
+      "en": "Google Stitch 2.0 Deep Review: Can a Free AI UI Tool Challenge Figma? The Design Tool Landscape Is Fragmenting"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Google Stitch 2.0评测出炉：多屏生成、无限画布、可导出代码——但\"免费\"背后的代价是什么？</strong> — 独立评测站Moda发布了Google Stitch 2.0的详细评测。这个从Google收购Galileo AI后诞生的工具在2026年3月大版本更新后，新增了多屏生成（multi-screen generation）、无限画布和更强的代码导出能力。核心卖点：完全免费、输入灵活（文字/图片/线框都行）、直出前端代码。但评测指出关键限制：生成质量不稳定、组件不可复用、缺乏设计系统集成——本质上是\"快速原型工具\"而非\"专业设计工具\"。<br><small>来源：<a href=\"https://moda.app/blog/google-stitch-review\">Google Stitch Review: Honest Look at the AI Design Tool — Moda</a></small></li><li><strong>Figma资源库更新2026版AI产品设计工具Top 5：Figma Design、Figma Make、Relume、Visily、Midjourney</strong> — Figma官方资源库更新了2026年AI产品设计工具推荐清单。值得注意的是，Figma把自家的Design和Make分列为两个独立工具——这暗示Figma正在将\"传统设计\"和\"AI辅助设计\"作为两条平行产品线运营。Relume（AI网站线框生成）和Visily（快速低保真线框）的入选，再次验证了\"窄场景工具\"的采用趋势。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-product-design\">5 of the Best AI Product Design Tools for 2026 — Figma</a></small></li><li><strong>AI设计工具成本隐忧：NVIDIA Rubin单系统成本780万美元，算力通胀将如何影响AI设计工具定价？</strong> — Tom's Hardware报道NVIDIA最新Rubin VR200 NVL72系统单套成本高达780万美元，内存成本暴涨485%。这对AI设计工具意味着什么？当前大量\"免费\"AI工具（包括Stitch）依赖的是巨头补贴算力，一旦补贴期结束，要么收费，要么降低生成质量。设计师不应把工作流建立在\"永远免费\"的假设上。<br><small>来源：<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece\">Nvidia's Memory Costs Soar 485% — Tom's Hardware</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Google Stitch 2.0的出现让我想到一个更大的问题：<strong>AI设计工具市场正在沿着\"免费但受限\" vs \"付费但专业\"两条路线分化，这几乎是十年前Office vs Google Docs的翻版。</strong></p><p>让我具体拆解。Stitch的策略非常Google：免费、开放、\"够用就行\"。它的目标用户不是在Figma里精雕细琢的专业设计师，而是需要快速出原型的PM、工程师、创业者。这跟Figma Make的定位高度重叠——但Stitch更激进，它连\"进入Figma\"这一步都省了。对于那些\"只需要一个看起来像样的界面\"的场景，Stitch可能已经\"够好\"了。</p><p>但评测暴露的硬伤很致命：<strong>组件不可复用、没有设计系统集成</strong>。这意味着Stitch生成的每一个屏幕都是\"一次性\"的——你没法基于它建立一套一致的产品语言。对于做landing page或快速验证想法来说没问题，但对于需要维护的产品来说是灾难。这正是Figma的护城河：不是单个画面的质量，而是<strong>系统性设计的能力</strong>——组件、变量、设计tokens、team library。</p><p>NVIDIA内存成本暴涨485%这条新闻看起来跟设计无关，但我认为它预示着一个重要趋势：<strong>2026下半年起，\"免费AI工具\"的可持续性会成为一个真实问题。</strong>Google、Microsoft、Adobe能靠主业补贴AI工具，但独立AI设计工具创业公司（Visily、Relume、Galileo等）迟早要面对\"算力成本 > 收入\"的现实。我预测12个月内会有一波AI设计工具的关停或被收购潮。设计师的应对策略很简单：<strong>别把核心工作流绑死在任何一个AI工具上，把AI当辅助而非基础设施。</strong></p><p>Figma把Design和Make分列为两个独立工具这个细节很有意思。它暗示Figma内部也在对冲赌注：如果AI辅助设计真的能替代传统设计流程，Make就是继任者；如果不能，Design依然是主力。这是一个\"左右互搏\"策略，跟Google同时推Stitch和保留Workspace的逻辑一样。聪明的公司都在同时下两个赌注。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Google Stitch 2.0 review: multi-screen generation, infinite canvas, code export — but what's the catch behind \"free\"?</strong></li><li><strong>Figma's 2026 AI product design tools list separates Design and Make as parallel products</strong></li><li><strong>NVIDIA Rubin system costs $7.8M: what compute inflation means for AI design tool pricing</strong></li></ul><h3>🧠 Rex's Take</h3><p>The AI design tool market is splitting along \"free but limited\" vs \"paid but professional\" — a replay of Office vs Google Docs from a decade ago. Stitch targets PMs and engineers who need \"good enough\" prototypes, but its fatal flaw is non-reusable components and zero design system integration. Figma's moat isn't individual screen quality — it's systematic design capability. Meanwhile, NVIDIA's 485% memory cost surge signals that \"free AI tools\" may not be sustainable past 2026. Smart designers should treat AI as an augmentation, not infrastructure.</p>"
+    },
+    "sources": [
+      {
+        "title": "Google Stitch Review: Honest Look at the AI Design Tool (2026)",
+        "url": "https://moda.app/blog/google-stitch-review",
+        "image": "https://static.moda.app/opengraph-image.png"
+      },
+      {
+        "title": "Nvidia's memory costs soar 485%, AI systems now cost $7.8M — Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+        "image": "https://cdn.mos.cms.futurecdn.net/iaLn9eep6ryDrWj6V9zkb9-2560-80.jpg"
+      },
+      {
+        "title": "5 of the Best AI Product Design Tools for 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-product-design",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/8cb9bec70eebc962855bd6f3a8dba7fb279d9aad-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      }
+    ],
+    "cover": "https://static.moda.app/opengraph-image.png"
+  },
+  {
+    "date": "2026-06-16",
+    "section": "tech",
+    "title": {
+      "zh": "月之暗面寻求300亿美元估值、AI数据中心在干旱区疯狂扩建、Amazon向零售商开放AI购物助手",
+      "en": "Moonshot AI Seeks $30B Valuation, AI Datacenters Expanding into Drought Zones, Amazon Opens AI Shopping Assistant to Retailers"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>月之暗面（Moonshot AI/Kimi）新一轮融资寻求300亿美元估值</strong> — Bloomberg报道，月之暗面正在进行新一轮融资，目标估值300亿美元，融资规模约20亿美元。这家Kimi聊天机器人背后的公司已成为中国资金最充裕的AI实验室之一。300亿美元的估值意味着它正在逼近百度市值的一半——而它成立才两年多。中国AI创业公司的估值泡沫是否已经到了危险区域？<br><small>来源：<a href=\"https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks\">China's Moonshot AI Seeks $30 Billion Value — Bloomberg</a></small></li><li><strong>The Guardian调查：美国大部分新建AI数据中心位于干旱地区，水资源危机加剧</strong> — The Guardian发布调查报道，揭示美国新建AI数据中心中的大多数选址在已经面临干旱压力的地区。训练一个GPT-4级别的模型消耗约70万升水，而这些数据中心还在持续扩建。当地社区已开始组织抗议。AI行业的\"外部性成本\"正在从抽象概念变成具体的社会冲突。<br><small>来源：<a href=\"https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water\">Majority of US's New AI Datacenters Built on Drought-Hit Land — The Guardian</a></small></li><li><strong>Amazon将AI购物助手技术开放给第三方零售商，Kate Spade成首个客户</strong> — Amazon通过AWS推出Agentic Shopping Assistant平台，将其Alexa for Shopping背后的AI技术开放给其他零售商。Kate Spade（Tapestry集团旗下）成为首个客户。这是Amazon\"AI即服务\"战略的又一步：从卖云计算到卖AI能力，从平台运营商到零售AI基础设施提供商。<br><small>来源：<a href=\"https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html\">Amazon Starts Selling AI Shopping Tech to Retailers — CNBC</a></small></li><li><strong>NVIDIA Rubin GPU系统单价780万美元，内存成本暴涨485%——AI算力通胀时代来临</strong> — Tom's Hardware详细拆解了NVIDIA最新Rubin VR200 NVL72系统的成本结构：单GPU售价5万美元，整套72卡系统780万美元，其中内存占比从5%飙升至25%。HBM4的供需紧张是主因。这对AI行业意味着：只有超大规模企业（hyperscalers）才能负担最前沿模型的训练，中小AI公司的算力获取成本正在快速上升。<br><small>来源：<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece\">Nvidia's Memory Costs Soar 485% — Tom's Hardware</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这几条新闻串在一起，讲的是同一个故事：<strong>AI行业正在从\"技术突破期\"进入\"资源争夺期\"——争夺的不只是人才和数据，还有最基本的物理资源：水、电、芯片、内存。</strong></p><p>月之暗面300亿美元估值这件事很能说明问题。Kimi确实是中国最好的对话AI之一，但300亿美元意味着投资人在赌它能成为\"中国的OpenAI\"。问题是：OpenAI本身都还没证明自己的商业模式能cover算力成本。更何况，NVIDIA Rubin系统780万美元/套的价格意味着，要在前沿模型竞赛中保持竞争力，月之暗面每年需要数十亿美元的纯硬件投入。这不是一个两年就能回本的生意——这是一个需要持续\"烧钱换规模\"的军备竞赛。我的判断：<strong>18个月内，中国AI创业公司会出现一波估值修正或合并潮。</strong></p><p>Guardian的数据中心-干旱报道揭示了AI行业的一个深层矛盾：<strong>科技公司的ESG报告里写着\"碳中和\"，但它们的AI基础设施正在物理层面与当地社区争夺水资源。</strong>这不是一个技术能解决的问题——液冷技术确实能减少水耗，但短期内90%的数据中心仍然依赖蒸发冷却。我预测这会成为2026下半年最热门的监管话题之一，特别是在美国西部和欧洲。</p><p>Amazon的AI购物助手开放策略是最有意思的一条。表面上看它是在\"帮助零售商\"，实际上是在做一件更聪明的事：<strong>把自己的AI能力变成行业标准基础设施，让其他零售商在技术层面依赖AWS。</strong>Kate Spade今天用Amazon的AI助手，明天它的竞品也会用——最终所有零售商的AI购物体验都跑在Amazon的基础设施上。这是云计算时代\"lock-in\"策略的AI版本。Jeff Bezos的飞轮理论又一次被验证：从电商到云到AI，每一层都在强化下一层。</p><p>把这四条新闻放在一起看，我的核心判断是：<strong>2026年的AI行业正在经历一次\"权力集中化\"。</strong>算力成本飙升意味着只有巨头玩得起前沿模型；水电约束意味着数据中心选址变成一种稀缺资源；Amazon把AI能力平台化意味着中小企业的AI能力越来越依赖大平台。对创业者和设计师来说，这意味着一个务实的建议：<strong>别试图在基础设施层竞争，把精力放在应用层——那里的护城河是用户洞察和垂直知识，不是算力。</strong></p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Moonshot AI (Kimi) seeks $30B valuation in new $2B funding round</strong></li><li><strong>Guardian investigation: majority of new US AI datacenters built in drought-stricken areas</strong></li><li><strong>Amazon opens AI shopping assistant platform to retailers via AWS, Kate Spade first customer</strong></li><li><strong>NVIDIA Rubin system costs $7.8M, memory costs up 485% — compute inflation era arrives</strong></li></ul><h3>🧠 Rex's Take</h3><p>These stories tell one narrative: AI is moving from \"breakthrough phase\" to \"resource competition phase.\" Moonshot's $30B valuation bet requires billions in annual hardware spend that may never pay back. AI datacenters are physically competing with communities for water. Amazon is turning AI into lock-in infrastructure. Power is centralizing — only hyperscalers can afford frontier models. For startups and practitioners: don't compete on infrastructure, compete on application-layer insight.</p>"
+    },
+    "sources": [
+      {
+        "title": "China's Moonshot AI Seeks $30 Billion Valuation — Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOl2URjOEVME/v1/1200x800.jpg"
+      },
+      {
+        "title": "Majority of US's new AI datacenters built on drought-hit land — The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water",
+        "image": "https://i.guim.co.uk/img/media/1b58afecc5e86ac970c94f00b544539353635352/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=707e983ab36c75784b32027cd389730e"
+      },
+      {
+        "title": "Amazon brings AI shopping assistant to retailers, Kate Spade first customer",
+        "url": "https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html",
+        "image": ""
+      },
+      {
+        "title": "NVIDIA Rubin GPU: $50K per chip, $7.8M per system — Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+        "image": "https://cdn.mos.cms.futurecdn.net/iaLn9eep6ryDrWj6V9zkb9-2560-80.jpg"
+      }
+    ],
+    "cover": "https://i.guim.co.uk/img/media/1b58afecc5e86ac970c94f00b544539353635352/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=707e983ab36c75784b32027cd389730e"
+  },
+  {
     "date": "2026-06-15",
     "section": "design",
     "title": {
