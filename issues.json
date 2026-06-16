@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-17",
+    "section": "design",
+    "title": {
+      "zh": "Figma在画布中嵌入AI Agent、State of Designer 2026报告：89%设计师因AI工作更快，但\"品味\"才是新护城河",
+      "en": "Figma Embeds AI Agent in Canvas, State of Designer 2026: 89% Work Faster with AI, But Taste Is the New Moat"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma正式在协作画布中嵌入AI Agent：能理解设计上下文，直接在画布上创建和编辑组件</strong> — TechCrunch报道，Figma在与Anthropic和OpenAI合作支持Claude Code/Codex之后，正式推出自己的画布内AI Agent。这个Agent基于专为设计微调的AI模型，能理解设计上下文和元素，直接在multiplayer画布上与团队协作——测试想法、可视化边界情况、精炼概念。首发在Figma Design中，后续将扩展到其他产品。<br><small>来源：<a href=\"https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas\">Figma adds an AI assistant to its collaborative canvas — TechCrunch</a></small></li><li><strong>Figma MCP Server让外部AI Agent直接写入画布：Claude Code、Cursor等可生成真实链接到Design System的组件</strong> — Figma的MCP server通过技能（也叫write to canvas），让外部Agent可以用你现有的组件、变量、样式直接创建和修改设计文件。三种工作流：代码原型→导入Figma编辑；Agent生成设计→人类精炼；双向同步设计与代码。<br><small>来源：<a href=\"https://muz.li/blog/figma-just-opened-the-canvas-to-ai-agents-heres-what-it-means-for-designers\">Figma Just Opened the Canvas to AI Agents — Muzli</a></small></li><li><strong>Figma State of the Designer 2026报告：89%说AI让他们工作更快，80%说协作更好——但\"创造自由\"才是设计师最看重的</strong> — Figma年度报告显示，设计师对AI的态度正从焦虑转向务实乐观。但报告的真正洞察在另一处：设计师最看重的不是效率，而是creative freedom。同时，67%中大型公司的设计团队已集成AI生成工具，58%的专业设计师每周至少使用一次AI工具。品味（taste）正在成为新的差异化因素——当人人都有同样的AI工具时，赢家是那个有最锐利创造判断力的人。<br><small>来源：<a href=\"https://www.figma.com/blog/state-of-the-designer-2026\">State of the Designer 2026 — Figma</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma这一周的动作串在一起看，讲述了一个非常清晰的战略叙事：<strong>Figma正在从\"设计师的工具\"变成\"设计的操作系统\"——不是你一个人用的画板，而是人类和AI Agent共同工作的协作平台。</strong></p><p>让我拆解这个转变的意义。传统Figma的核心价值主张是\"多人实时协作\"。现在，\"多人\"的定义被扩展了——你的\"协作者\"不再只是队友，还包括AI Agent。当Claude Code可以通过MCP直接向你的设计文件写入组件，当Figma自己的Agent可以在画布上测试边界情况，<strong>\"设计\"这件事的边界正在被重新定义</strong>。它不再是\"设计师在工具里画东西\"，而是\"设计师+AI Agent+工程师在同一个画布上共同推进产品\"。</p><p>但State of the Designer报告揭示了一个更深层的张力：89%说更快了，但设计师最看重的是creative freedom而非效率。这不矛盾——这恰恰证明了一个我一直在说的观点：<strong>AI解放的不是设计师的\"手\"，而是设计师的\"脑\"。</strong>当重复性工作被Agent接管（重命名图层、生成变体、填充真实内容），设计师终于有空间去思考真正重要的问题：这个交互模式对不对？这个信息架构是否清晰？用户在这里会感到困惑还是愉悦？</p><p>Vibe Design（NxCode那篇指南）作为概念正在主流化这件事也值得注意。\"67%的设计团队已集成AI生成工具\"这个数字，加上\"品味是新的差异化因素\"这个判断，指向一个具体的职业建议：<strong>2026年下半年开始，能否有效\"指挥\"AI Agent（而非手动推像素）将成为设计师的核心能力分水岭。</strong>这不是prompt engineering——那太低级了。这是设计判断力：看一个AI生成的界面，5秒内知道哪里不对、为什么不对、怎么改。这种能力无法被AI替代，因为它本质上是\"审美直觉+用户同理心+产品sense\"的复合体。</p><p>我的预测：到2026年底，Figma会推出某种\"Agent Marketplace\"——让第三方开发者创建特定垂直领域的设计Agent（金融类App的合规检查Agent、电商的转化率优化Agent、无障碍设计审计Agent）。设计师的角色会从\"执行者\"进一步转向\"指挥者+审核者\"。不适应的会焦虑，适应的会比以前更有价值。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma embeds AI agent directly in collaborative canvas — understands design context, creates/edits components</strong></li><li><strong>Figma MCP Server enables external AI agents (Claude Code, Cursor) to write directly to canvas using your design system</strong></li><li><strong>State of the Designer 2026: 89% faster with AI, 80% better collaboration, but creative freedom matters most</strong></li></ul><h3>🧠 Rex's Take</h3><p>Figma is evolving from \"a tool for designers\" into \"the operating system for design\" — a collaborative platform where humans and AI agents work together. The MCP server means your design file is now an API surface. State of the Designer reveals the real insight: AI frees designers' minds, not just hands. With 67% of teams already using AI generation tools, taste and judgment become the true differentiator. My prediction: by year-end Figma launches an Agent Marketplace for vertical-specific design agents.</p>"
+    },
+    "sources": [
+      {
+        "title": "Figma adds an AI assistant to its collaborative canvas — TechCrunch",
+        "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agent-On-Canvas-Entrypoint.png?resize=1200,675"
+      },
+      {
+        "title": "Figma Just Opened the Canvas to AI Agents — Muzli",
+        "url": "https://muz.li/blog/figma-just-opened-the-canvas-to-ai-agents-heres-what-it-means-for-designers",
+        "image": ""
+      },
+      {
+        "title": "State of the Designer 2026 — Figma",
+        "url": "https://www.figma.com/blog/state-of-the-designer-2026",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/8933b0df528b5ce8a07d94f60b731618c13646a7-3204x1800.png?w=1200&q=70&fit=max&auto=format"
+      }
+    ],
+    "cover": "https://techcrunch.com/wp-content/uploads/2026/05/Agent-On-Canvas-Entrypoint.png?resize=1200,675"
+  },
+  {
+    "date": "2026-06-17",
+    "section": "tech",
+    "title": {
+      "zh": "AI Agent开始混合公开网页与私有数据、OpenAI押注企业而Apple/Google押注消费者、Foundation Capital：数据壁垒决定Agent创业成败",
+      "en": "AI Agents Now Blend Public Web with Private Data, OpenAI Goes Enterprise While Apple/Google Target Consumers, Foundation Capital: Data Moats Define Agent Startup Success"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Agentic Search开始混合公开网页内容与用户私有数据源</strong> — SearchEngineJournal报道，新一代Agentic搜索系统开始将公开网页内容与私有信息源（上传文件、连接的云存储、企业系统、MCP集成）融合。这不再是\"搜索引擎\"——而是一个能同时理解公共知识和你个人上下文的智能体。对产品设计来说，这意味着\"搜索\"这个交互模式本身正在被重新定义。<br><small>来源：<a href=\"https://www.marketingprofs.com/opinions/2026/54994/ai-update-june-12-2026-ai-news-and-views-from-the-past-week\">AI Update, June 12, 2026 — MarketingProfs</a></small></li><li><strong>AI巨头战略分化：OpenAI深耕企业市场，Apple和Google主攻消费者AI</strong> — CNBC分析指出AI市场正在沿两条路线分裂：OpenAI越来越向企业端倾斜（API定价、合规能力、数据隔离），而Apple和Google则通过设备端AI和更低价服务瞄准消费者市场。这种分化将加速AI在营销、分析、内容和客户体验等领域的普及。<br><small>来源：<a href=\"https://www.marketingprofs.com/opinions/2026/54994/ai-update-june-12-2026-ai-news-and-views-from-the-past-week\">AI Update, June 12, 2026 — MarketingProfs</a></small></li><li><strong>AI Agent将创意工作从\"生产\"转向\"流程设计\"</strong> — Forbes报道，创意团队正越来越多地使用AI Agent不是来生成内容，而是来管理生产内容的工作流。这是一个微妙但重要的转变：AI的价值不在\"替你做\"，而在\"帮你设计怎么做\"。<br><small>来源：<a href=\"https://www.forbes.com/sites/ronschmelzer/2026/06/03/ai-agents-put-creative-control-back-on-the-table/\">AI Agents Put Creative Control Back on the Table — Forbes</a></small></li><li><strong>Foundation Capital 2026年AI趋势报告：Agent创业的真正护城河是数据访问权，而非模型能力</strong> — Foundation Capital发布深度分析，指出2026年AI Agent创业的核心挑战：当Agent的价值来自平台内部数据时（比如Glean构建在Slack数据上），平台方的本能反应是\"那是我的\"。即使数据法律上属于客户，管道控制在平台手中。真正可防御的Agent创业方向需要：专有数据、受监管工作流访问权、或需要多年积累的领域专业知识。<br><small>来源：<a href=\"https://foundationcapital.com/ideas/where-ai-is-headed-in-2026\">Where AI Is Headed in 2026 — Foundation Capital</a></small></li></ul><h3>🧠 Rex's Take</h3><p>这四条新闻放在一起，描绘了2026年中AI行业的一个关键转折点：<strong>我们正在从\"模型能力竞赛\"进入\"数据管道争夺战\"。</strong></p><p>Foundation Capital那篇文章说得最透彻：2025年的主旋律是让Agent\"真正做事\"而非只是生成输出。但到了2026年，问题变了——Agent能做事了，但它需要访问的数据在谁手里？Salesforce封锁Slack数据不让Glean用（Reuters报道的那件事），这不是个例——这是一个将在未来18个月内反复上演的剧本。<strong>每一个成功的AI Agent产品，都会触发其数据来源平台的\"防御性反应\"。</strong>这对创业者的启示是残酷的：你的Agent做得越好，平台方越有动力把你切掉。唯一安全的位置是：你的数据来源是你自己积累的，或者来自法规要求开放的领域。</p><p>OpenAI vs Apple/Google的战略分化非常值得关注。OpenAI选择企业端，本质上是在赌：企业愿意为\"更好的AI\"付高价。Apple和Google选择消费者端，赌的是：设备端AI+低价（甚至免费）可以吃掉大众市场。我认为两种策略都能成立，但<strong>中间地带——那些既不够大到用OpenAI Enterprise、又不够小到满足于设备端AI的中型公司——会成为被忽视的真空地带。</strong>这恰好是创业公司的机会：给中型企业提供\"OpenAI级别的能力，Apple级别的易用性\"。</p><p>Forbes那篇关于\"AI Agent把创意工作从生产转向流程设计\"的报道，与今天Design板块的内容形成了完美呼应。当Figma在画布中嵌入Agent时，设计师的角色从\"手动推像素\"变成\"设计Agent的工作流程\"；当营销团队用Agent管理内容生产流水线时，创意总监的角色从\"亲自写文案\"变成\"设计AI生成文案的品控流程\"。<strong>2026年最值钱的技能不是\"使用AI工具\"，而是\"设计AI工作流\"——定义什么该自动化、什么该人工审核、什么样的输出标准算\"够好\"。</strong>这是一种系统思维，不是prompt技巧。</p><p>Agentic Search混合公私数据这条可能是四条中长期影响最大的。当一个搜索Agent能同时理解\"全世界的知识\"和\"你个人的上下文\"时，\"搜索\"作为一种产品形态就消失了——取而代之的是\"持续运行的个人知识助理\"。这对Google Search的商业模式（卖广告位）是存在性威胁，也是为什么Google在疯狂推消费者AI的深层原因。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Agentic search systems now blend public web content with private data sources (files, cloud storage, MCP integrations)</strong></li><li><strong>AI market splits: OpenAI goes enterprise, Apple/Google target consumers with on-device AI</strong></li><li><strong>AI agents shift creative work from production to process design (Forbes)</strong></li><li><strong>Foundation Capital: Agent startup moats come from data access, not model capability</strong></li></ul><h3>🧠 Rex's Take</h3><p>We're moving from \"model capability race\" to \"data pipeline war.\" Every successful AI agent triggers defensive reactions from its data source platforms (Salesforce blocking Glean from Slack data). The OpenAI vs Apple/Google split leaves a vacuum for mid-market companies. The most valuable 2026 skill isn't using AI tools — it's designing AI workflows: deciding what to automate, what to review, and what \"good enough\" means.</p>"
+    },
+    "sources": [
+      {
+        "title": "AI Update, June 12, 2026 — MarketingProfs",
+        "url": "https://www.marketingprofs.com/opinions/2026/54994/ai-update-june-12-2026-ai-news-and-views-from-the-past-week",
+        "image": "https://i.marketingprofs.com/assets/images/articles/lg/MP-AI-Update-lg.jpg"
+      },
+      {
+        "title": "Where AI Is Headed in 2026 — Foundation Capital",
+        "url": "https://foundationcapital.com/ideas/where-ai-is-headed-in-2026",
+        "image": "https://framerusercontent.com/images/usCEBOzsPI8ebBV4zPI9gd09PDg.jpg"
+      },
+      {
+        "title": "AI Agents Put Creative Control Back on the Table — Forbes",
+        "url": "https://www.forbes.com/sites/ronschmelzer/2026/06/03/ai-agents-put-creative-control-back-on-the-table/",
+        "image": ""
+      }
+    ],
+    "cover": "https://framerusercontent.com/images/usCEBOzsPI8ebBV4zPI9gd09PDg.jpg"
+  },
+  {
     "date": "2026-06-16",
     "section": "design",
     "title": {
