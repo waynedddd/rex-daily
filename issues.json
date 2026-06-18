@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-06-18",
+    "section": "design",
+    "title": {
+      "zh": "AI设计工具横评揭示真相：生成质量仍\"像AI\"；Forbes：创意工作从生产转向流程设计；工具市场速度派vs生产派分化加剧",
+      "en": "AI Design Tool Shootout Reveals the Truth: Output Still 'Looks AI'; Forbes: Creative Work Shifts from Production to Process Design"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Muzli同Prompt横评6款AI UI工具：生成质量仍\"像AI\"，探索有余、生产不足</strong> — Muzli编辑Shrey Parmar用同一个prompt测试了Figma Make、Moonchild AI、Motiff、Google Stitch、UX Pilot等6款主流AI UI设计工具。结论直白：输出依然\"generic and AI-generated\"，更适合探索和灵感发散，而非最终交付。这不是工具个体的问题——而是当前AI视觉生成模型的系统性限制：它们擅长\"填充\"已有模式，但缺乏真正的设计决策能力。<br><small>来源：<a href=\"https://medium.muz.li/6-best-ai-ui-design-tools-i-tested-with-the-same-prompt-2026-review-b68309af284a\">6 Best AI UI Design Tools I Tested With the Same Prompt (2026 Review) — Muzli</a></small></li><li><strong>Forbes：AI Agent正在把创意工作从\"生产\"转向\"流程设计\"</strong> — Ron Schmelzer在Forbes撰文指出，创意团队越来越多地用AI不只是生成内容，而是管理生产内容的工作流本身。设计师的角色正在从\"做设计\"转变为\"设计如何做设计\"——本质上是从执行层上升到架构层。这与昨天AI in Design Report中\"设计师成为工具构建者\"的发现完全呼应。<br><small>来源：<a href=\"https://www.forbes.com/sites/ronschmelzer/2026/06/03/ai-agents-put-creative-control-back-on-the-table/\">AI Agents Put Creative Control Back on the Table — Forbes</a></small></li><li><strong>AI设计工具市场分化：\"速度派\"vs\"生产派\"路线之争愈演愈烈</strong> — 多个独立评测（Bootcamp、Designfest、Muzli）同期发布，共同指向一个趋势：AI设计工具正在沿\"快速概念\"（Visily、Stitch——几秒出原型）和\"生产就绪\"（Moonchild AI、UXPin、Motiff——注重代码导出和设计系统）两条路线分化。中间地带（\"什么都做但什么都不精\"）正在被挤压。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">I recently reviewed 5 AI-Native UX Design tools in 50 Minutes — Bootcamp</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Muzli这篇\"同Prompt横评\"是我这周看到的最诚实的AI设计工具文章。因为它做了一件大多数评测不敢做的事——<strong>用同一个prompt让所有工具在同一起跑线上竞争，然后承认结果都不够好。</strong>\"Generic and AI-generated\"这个评价一针见血。</p><p>这揭示了AI设计工具行业一个被刻意回避的真相：<strong>我们还没有跨过\"可用\"到\"好用\"的鸿沟。</strong>当前的AI UI生成本质上是\"视觉模式匹配\"——它学会了\"一个SaaS Dashboard长什么样\"，然后按统计概率排列组件。但真正的设计决策——为什么这个按钮放在这里而不是那里、为什么用这个间距而不是那个——这些需要理解业务逻辑、用户心理和品牌调性的判断，AI还做不到。</p><p>Forbes那篇文章和昨天的AI in Design Report放在一起看特别有意思。昨天的报告说\"设计师正在成为工具构建者\"（Stripe的ProtoDash），Forbes说\"AI Agent把创意控制权放回了桌面\"。两者说的其实是同一件事：<strong>设计师的核心价值正在从\"生产力\"迁移到\"判断力\"。</strong>你不再需要亲手画每一个像素——但你需要定义AI应该画什么样的像素、遵循什么规则、在什么约束下工作。这是\"设计元设计\"——designing how to design。</p><p>\"速度派\"vs\"生产派\"的分化是必然的，但我认为最终赢家不在这两个极端。赢家会是<strong>能在速度和质量之间动态切换的工具</strong>——在早期用\"速度模式\"快速探索20个方向，选定后切换到\"生产模式\"输出设计系统兼容的高保真组件。Figma Make目前最接近这个位置，因为它既是快速生成工具又是Figma生态的一部分。但它的AI生成质量还没有拉开与竞争对手的差距。</p><p>一个更深层的推测：当Muzli横评说\"所有工具的输出都像AI\"时，这实际上预示了下一个竞争维度——<strong>\"不像AI的AI\"</strong>。谁能让生成的设计看起来像是人类设计师花了两天精心打磨的作品，谁就赢了。这不是模型大小的问题，而是训练数据质量和微调策略的问题。我预测，下一波AI设计工具的差异化会来自\"与顶级设计团队的独家数据合作\"——用Stripe、Airbnb、Linear级别的设计资产训练专属模型。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Muzli's same-prompt shootout of 6 AI UI tools: output still \"looks AI\" — better for exploration than production</strong></li><li><strong>Forbes: AI agents shift creative work from production to process design</strong></li><li><strong>AI design tool market splits into \"speed\" vs \"production-ready\" camps</strong></li></ul><h3>🧠 Rex's Take</h3><p>Muzli's same-prompt test exposed the uncomfortable truth: we haven't crossed the \"usable to good\" chasm in AI design. Current tools are visual pattern matchers — they know what a SaaS dashboard looks like, but can't make real design decisions. The Forbes piece and yesterday's AI in Design Report converge on a key insight: designers' core value is migrating from productivity to judgment — from \"doing design\" to \"designing how to design.\" The speed-vs-quality split will resolve when a tool can dynamically switch modes. Next competitive frontier: AI output that doesn't look like AI, trained on exclusive partnerships with top design teams.</p>"
+    },
+    "sources": [
+      {
+        "title": "6 Best AI UI Design Tools I Tested With the Same Prompt (2026 Review) — Muzli",
+        "url": "https://medium.muz.li/6-best-ai-ui-design-tools-i-tested-with-the-same-prompt-2026-review-b68309af284a",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*4OmXLaKwVSCR5qmuLym0jQ.png"
+      },
+      {
+        "title": "AI Agents Put Creative Control Back on the Table — Forbes",
+        "url": "https://www.forbes.com/sites/ronschmelzer/2026/06/03/ai-agents-put-creative-control-back-on-the-table/",
+        "image": ""
+      },
+      {
+        "title": "5 AI-Native UX Design Tools in 50 Minutes (2026) — Bootcamp",
+        "url": "https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*I2SmwRriBqqRQQZzrFjukQ.png"
+      }
+    ],
+    "cover": "https://miro.medium.com/v2/resize:fit:1200/1*4OmXLaKwVSCR5qmuLym0jQ.png"
+  },
+  {
+    "date": "2026-06-18",
+    "section": "tech",
+    "title": {
+      "zh": "Claude Fable 5三大云平台全面铺开；Anthropic企业市场份额首超OpenAI；Anthropic呼吁AI\"不扩散条约\"",
+      "en": "Claude Fable 5 Goes Live Across Three Cloud Platforms; Anthropic Overtakes OpenAI in Enterprise; Anthropic Calls for AI Nonproliferation"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Claude Fable 5全面铺开：Microsoft Foundry + AWS Bedrock + Snowflake三大云平台同步上线</strong> — 6月9日发布的Claude Fable 5（Anthropic的Mythos级模型家族成员）已在Microsoft Foundry、Amazon Bedrock和Snowflake Cortex AI三大企业云平台全面可用。更关键的是它的落地方式：进入了Microsoft 365 Copilot（Excel、PowerPoint预览）、GitHub Copilot和Snowflake CoCo编码Agent。Microsoft的定位很明确——不是又多了一个模型选项，而是要证明Foundry是\"让强大模型变成可管控企业系统\"的平台。<br><small>来源：<a href=\"https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents\">Claude Fable 5 available in Microsoft Foundry — Azure Blog</a></small></li><li><strong>Anthropic企业市场份额首次超越OpenAI：34.4% vs 32.3%</strong> — Ramp AI Index（基于企业实际支出数据）显示，2026年5月Anthropic在美国企业AI采用率中以34.4%的份额首次超越OpenAI的32.3%。这不是问卷调查，而是真金白银的支出数据。背后的驱动力：Claude Code在开发者中的口碑效应，以及Fable 5的发布推动了企业客户迁移。7家企业中有7家首次采用AI时选择了Claude而非ChatGPT。<br><small>来源：<a href=\"https://www.mindstick.com/news/4795/anthropic-overtakes-openai-in-2026-enterprise-market-share\">Anthropic Overtakes OpenAI in 2026 Enterprise Market Share — Mindstick</a></small></li><li><strong>Anthropic呼吁AI\"不扩散条约\"：\"AI行业有油门，但没有刹车\"</strong> — Anthropic联合创始人Jack Clark在NYT DealBook专访中公开呼吁：全球需要建立类似核不扩散条约的AI治理框架，让行业拥有\"暂停前沿AI开发的选项\"。这是目前全球估值最高（9650亿美元）的AI公司首次呼吁\"自我约束\"。同时，教皇Leo也在最新通谕中警告AI的\"权力文化\"——Anthropic创始人坐在教皇身边出席了这场活动。<br><small>来源：<a href=\"https://www.nytimes.com/2026/06/05/business/dealbook/anthropic-ai-nonproliferation.html\">Anthropic's Call for A.I. Nonproliferation — NYT</a></small></li><li><strong>Microsoft Scout：M365内的永驻AI Agent，跨应用链式工作流</strong> — Microsoft为Frontier计划用户推出Scout——一个始终在线的AI Agent，可跨Outlook、Teams、Word、Excel、SharePoint链式执行任务，读取本地文件，并按任务特性自动在OpenAI、Anthropic和Microsoft MAI模型间路由选择。这标志着\"AI助手\"从\"被动问答\"进化为\"主动工作流自动化\"。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-8th-june-2026-ai-insiders-news-pedof\">AI News Highlights June 8, 2026 — AI Insiders via LinkedIn</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天的新闻如果只看标题，你会觉得是\"Anthropic又赢了一轮\"。但我想拆解的是这些事件背后一个更深的结构性转变：<strong>AI行业正在从\"模型竞赛\"转向\"基础设施竞赛\"。</strong></p><p>Claude Fable 5在三大云平台同步上线这件事，比模型本身的能力更重要的是它的<strong>分发方式</strong>。不是通过Anthropic自己的API，而是通过Microsoft Foundry的\"控制平面\"——策略绑定、审计日志、合规检查。Microsoft的赌注很清楚：<strong>模型是commodity，治理是premium。</strong>企业不会因为一个模型比另一个强5%就迁移，但会因为\"这个平台让我的安全团队睡得着觉\"而迁移。这跟昨天我们讨论Apple把Siri交给Gemini的逻辑完全一致——模型commoditize，差异化在体验和治理层。</p><p>Anthropic超越OpenAI的34.4%这个数字需要放在正确的框架下理解。这不是\"ChatGPT不行了\"——ChatGPT在消费者市场依然占据绝对优势。这是<strong>企业市场的偏好转移</strong>，而企业在乎的不是\"谁更聪明\"而是\"谁更可靠\"。Claude Code的成功说明了一件事：对企业来说，AI的价值不在于对话，而在于<strong>自主执行任务</strong>。当你的AI能直接写代码、改Bug、处理PR，你不在乎它的对话是否有趣。</p><p>但最让我注意的是Anthropic呼吁\"AI不扩散条约\"这件事。一个万亿美元估值的公司呼吁给自己的赛道装刹车——这要么是真诚的道德关切，要么是精心设计的竞争策略。我倾向于认为<strong>两者兼有</strong>。Anthropic目前处于技术领先位置，任何\"暂停\"都会冻结现状，巩固它的优势。但Jack Clark说的\"油门没有刹车\"也不是假话——当每家公司都在疯狂扩大模型规模，没有人有机制说\"等等，我们需要确认这个安全了再继续\"。教皇Leo的参与不只是PR噱头——它代表着AI治理正在从硅谷议题变成全球文明议题。</p><p>把今天的Design板块和Tech板块连起来看：Forbes说\"AI Agent把创意控制权放回桌面\"，Microsoft Scout让AI Agent永驻在M365中跨应用工作。<strong>Agent化（agentic AI）是目前AI行业唯一真正的共识</strong>——无论是设计师用AI编排工作流，还是企业用Scout自动化日常任务，底层逻辑都是：AI从\"被动工具\"变成\"主动代理\"。2026下半年的关键战场不是谁的模型更强，而是谁的Agent更可靠、更可控、更容易嵌入已有工作流。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Claude Fable 5 goes live across Microsoft Foundry, AWS Bedrock, and Snowflake — enterprise AI infrastructure takes shape</strong></li><li><strong>Anthropic overtakes OpenAI in enterprise market share: 34.4% vs 32.3% per Ramp AI Index</strong></li><li><strong>Anthropic calls for AI \"nonproliferation treaty\" — the most valuable AI company asks for brakes</strong></li><li><strong>Microsoft Scout: a persistent AI agent inside M365 that routes between models per task</strong></li></ul><h3>🧠 Rex's Take</h3><p>The deeper shift: AI is moving from a \"model race\" to an \"infrastructure race.\" Fable 5's distribution through Foundry's governance layer matters more than the model itself — the bet is that governance is premium while models commoditize. Anthropic's enterprise lead is about reliability, not intelligence. The nonproliferation call is both sincere ethics and smart strategy — a pause would freeze Anthropic's lead. Cross-cutting with today's design coverage: agentic AI is the only true industry consensus. The H2 2026 battleground isn't model capability but agent reliability, controllability, and workflow integration.</p>"
+    },
+    "sources": [
+      {
+        "title": "Claude Fable 5 available in Microsoft Foundry — Azure Blog",
+        "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents",
+        "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/Azure_6_9_v3.gif"
+      },
+      {
+        "title": "Anthropic Overtakes OpenAI in 2026 Enterprise Market Share — Mindstick",
+        "url": "https://www.mindstick.com/news/4795/anthropic-overtakes-openai-in-2026-enterprise-market-share",
+        "image": "https://www.mindstick.com/UserNews/649784/77c5287f-2d64-4446-a221-e7d002018c0f/images/77c5287f-2d64-4446-a221-e7d002018c0f.png"
+      },
+      {
+        "title": "Anthropic's Call for A.I. Nonproliferation — NYT",
+        "url": "https://www.nytimes.com/2026/06/05/business/dealbook/anthropic-ai-nonproliferation.html",
+        "image": ""
+      },
+      {
+        "title": "AI News Highlights June 8, 2026 — AI Insiders via LinkedIn",
+        "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-8th-june-2026-ai-insiders-news-pedof",
+        "image": "https://media.licdn.com/dms/image/v2/D4D12AQEWUfVKfEZtvg/article-cover_image-shrink_720_1280/B4DZ6niL45I0AQ-/0/1780927217495?e=2147483647&amp;v=beta&amp;t=7AIhPahCB_TTO6TV5X-Hw0cnGoPZPrADRlwAsEiyakM"
+      }
+    ],
+    "cover": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/Azure_6_9_v3.gif"
+  },
+  {
     "date": "2026-06-17",
     "section": "design",
     "title": {
