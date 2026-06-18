@@ -14943,6 +14943,204 @@
       "body": "今天 Visual for AI 的两个发现共同指向 AI 产品设计在 2026 年中最重要的范式转变：从「对话式」到「空间式」。Figma AI 的环境感知设计把 AI 从命令行隐喻（输入 prompt → 获得输出）变成了空间隐喻（AI 和你在同一个画布上共存）；OpenAI Canvas 则更激进——把聊天本身空间化，上下文不再是时间序列而是空间布局。这个转变的深层原因是：对话式 AI 的线性结构无法承载复杂的协作关系。当你和 AI 一起写一份 30 页的报告、设计一个 50 页的 App、或者分析一个多维的数据集，「一问一答」的交互模式就崩溃了——你需要同时看到全局和细节，需要在不同部分之间跳转，需要 AI 理解你正在关注哪里。空间化是解决这些问题的自然答案。我的判断：2026 下半年，「空间 AI」会成为 AI 产品设计最重要的关键词之一，和三月我们讨论的「认知透明」并列。AI 设计的终极形态不是一个更聪明的聊天机器人，而是一个你和 AI 共同栖息的工作空间。",
       "body_en": "Today's two Visual for AI findings point to the most important paradigm shift in mid-2026 AI product design: from 'conversational' to 'spatial.' Figma AI's ambient awareness shifts AI from command-line metaphor (input prompt → get output) to spatial metaphor (AI coexists with you on the same canvas); OpenAI Canvas goes further — spatializing chat itself, context becomes spatial layout not time series. Deep reason: conversational AI's linear structure can't support complex collaboration. When you and AI co-author a 30-page report, design a 50-screen app, or analyze multidimensional data, Q&A interaction collapses — you need to see big picture and details simultaneously, jump between sections, have AI understand what you're focusing on. Spatialization is the natural answer. My judgment: H2 2026, 'spatial AI' will become one of AI product design's most important keywords, alongside March's 'cognitive transparency.' AI design's ultimate form isn't a smarter chatbot but a workspace where you and AI co-inhabit.",
       "date": "2026-06-17"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Finora — AI 投资平台全链路 UX 设计",
+      "body": "Behance 上的新 AI 投资平台案例研究。完整覆盖从市场概览、投资组合分析到 AI 推荐的全链路。深色系 UI + 紫蓝渐变数据可视化。值得关注的设计决策：AI 建议不是浮窗弹出，而是和投资组合数据平行呈现——建议是数据的「注释」，不是独立模块。",
+      "body_en": "New AI investment platform case study on Behance. Full coverage from market overview to portfolio analysis to AI recommendations. Dark UI + purple-blue gradient data viz. Notable design decision: AI suggestions presented parallel to portfolio data, not as pop-ups — advice as data annotation, not standalone module.",
+      "tags": [
+        "Investment",
+        "AI Advisor",
+        "Dark UI",
+        "Case Study"
+      ],
+      "link": "https://www.behance.net/gallery/249321759/Finora-AI-Investment-Platform-UIUX-Case-Study",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/0d6249249321759.6a0cbd2c1059e.png",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Payop — B2B 跨境支付的信任界面设计",
+      "body": "B2B 跨境支付服务的网页设计。最值得学习的是它如何在「效率」和「信任」之间找到平衡：支付流程极简（三步完成），但每一步都嵌入了合规状态标识和安全认证 badge。页面的视觉节奏很好——hero section 用大号数字建立量级感（$2B+ processed），中段用流程图建立清晰感，底部用客户 logo 建立信任感。",
+      "body_en": "B2B cross-border payment service web design. Best lesson: balancing efficiency and trust — payment flow in 3 steps, each embedded with compliance status and security badges. Great visual rhythm: hero uses large numbers for scale ($2B+ processed), mid-section uses flowcharts for clarity, footer uses client logos for trust.",
+      "tags": [
+        "B2B Payment",
+        "Cross-Border",
+        "Trust UX",
+        "Web Design"
+      ],
+      "link": "https://www.behance.net/gallery/249755747/Fintech-web-design-for-a-B2B-payment-service-Payop",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7eb860249755747.6a0ea29993b57.png",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 合规 SaaS 的设计成熟化 — ClauseOS 案例",
+      "body": "ClauseOS 的合规管理 SaaS Dashboard 代表了 RegTech 产品设计的成熟期。不再是粗糙的后台管理界面，而是经过精心设计的 SaaS 产品——信息密度高但层次清晰，AI 风险标注用色彩编码而非文字堆砌，仪表盘式布局让合规官一眼掌握全局。合规产品正在从「不得不用的痛苦工具」进化为「用起来很爽的专业工具」。",
+      "body_en": "ClauseOS compliance SaaS Dashboard represents RegTech product design maturity. No longer crude admin panels but polished SaaS — high info density with clear hierarchy, AI risk flags via color coding not text walls, dashboard layout giving compliance officers instant overview. Compliance products evolving from 'painful necessities' to 'enjoyable professional tools.'",
+      "tags": [
+        "RegTech",
+        "Compliance SaaS",
+        "Dashboard",
+        "Enterprise UX"
+      ],
+      "link": "https://www.behance.net/gallery/249521993/ClauseOS-Compliance-SaaS-Dashboard-UX-UI-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/9ee783249521993.6a09d1f1d9691.png",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "六月中旬看到的三个金融设计案例揭示了一个微妙但重要的行业信号：Fintech 产品的视觉品质正在全面拉升。Finora 的投资平台设计精致度已经接近 Dribbble 概念稿的水准，Payop 的 B2B 支付网站比三年前的 Stripe 官网还讲究，ClauseOS 证明连合规后台都可以设计得赏心悦目。这背后的驱动力不是审美升级，是竞争加剧——当功能趋同（大家都有 AI 建议、都有实时数据），视觉品质成了用户感知差异化的最后一道防线。另一个观察：AI 建议在金融界面中的位置正在从「独立模块」融化为「数据注释层」——Finora 的做法代表了未来方向。用户不需要「去问 AI」，AI 的洞察应该像空气一样弥漫在每个数据点旁边。",
+      "body_en": "Three mid-June finance design cases reveal a subtle but important industry signal: Fintech product visual quality is universally leveling up. Finora's investment platform approaches Dribbble concept-shot polish, Payop's B2B payment site is more refined than Stripe's homepage three years ago, ClauseOS proves even compliance backends can be beautifully designed. Not driven by aesthetic upgrade but competition — when features converge (everyone has AI advice, real-time data), visual quality becomes the last line of perceived differentiation. Another observation: AI suggestions in finance UIs are melting from 'standalone modules' into 'data annotation layers' — Finora's approach represents the future. Users shouldn't need to 'go ask AI'; AI insights should permeate every data point like air.",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Football Live Streaming — AI 实时赛事分析界面",
+      "body": "足球直播 App 的 UI/UX 设计。不是简单的视频流+比分板，而是 AI 实时叠加战术分析层——控球率热力图、传球链可视化、跑动距离追踪。最精妙的是「双屏模式」：上方是直播画面，下方是 AI 实时生成的战术解读卡片。让普通球迷也能「看懂」比赛，而不只是看热闹。深色沉浸式界面 + 绿色为主的运动色系。",
+      "body_en": "Football live streaming app UI/UX. Not just video stream + scoreboard but AI real-time tactical analysis overlay — possession heatmaps, pass chain visualization, running distance tracking. Cleverest feature: 'dual-screen mode' with live stream above and AI-generated tactical insight cards below. Letting casual fans 'understand' the game, not just watch. Dark immersive UI + green-primary sports palette.",
+      "tags": [
+        "Football",
+        "Live Streaming",
+        "Tactical AI",
+        "Dual Screen"
+      ],
+      "link": "https://www.behance.net/gallery/250053953/Football-Live-Streaming-App-UIUX",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/68e591250053953.6a15d52802395.png",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "Airofit — IoT 呼吸训练 App 的 AI 设计",
+      "body": "呼吸训练器的 IoT 配套 App 设计。这是运动 AI 的一个新细分赛道：不是训练肌肉，而是训练呼吸。AI 根据用户的肺活量数据、训练历史和运动目标个性化呼吸训练计划。界面极简——呼吸节奏用圆形扩缩动效引导，数据用弧形仪表盘呈现。最有意思的是它把「看不见的身体数据」（呼吸模式）变成了「可交互的视觉反馈」。",
+      "body_en": "IoT companion app for a breathing trainer. A new sports AI sub-category: training breathing, not muscles. AI personalizes breathing training plans based on lung capacity data, history, and fitness goals. Ultra-minimal interface — breathing rhythm guided by circle expand/contract animation, data in arc gauges. Most interesting: making invisible body data (breathing patterns) into interactive visual feedback.",
+      "tags": [
+        "IoT",
+        "Breathing",
+        "Wearable",
+        "Minimal UI"
+      ],
+      "link": "https://www.behance.net/gallery/250711225/Airofit-IoT-Mobile-App-UX-UI-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f7ac90250711225.6a25da3fce842.png",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "六月的运动 AI 设计观察暴露了一个正在发生的裂变：运动 AI 产品不再局限于传统的「跑步/健身/骑行」三大品类，而是在向更细分、更隐蔽的身体维度扩散。Airofit 训练的是呼吸——一个过去完全不被「量化」的身体功能；足球直播 App 把 AI 从「训练工具」延伸到「观赛体验」——你不需要自己运动，AI 帮你看懂别人的运动。这两个方向加在一起暗示了运动 AI 的终极形态：不只关注「运动时」的身体，而是关注「所有时候」的身体。呼吸训练不是在健身房做的，它渗透进日常生活的每一刻。运动 AI 正在从「运动 App」进化为「身体操作系统」。",
+      "body_en": "June sports AI observations reveal an ongoing fission: sports AI products no longer confined to the traditional 'running/fitness/cycling' triad but spreading into more niche, subtle body dimensions. Airofit trains breathing — a body function previously never 'quantified'; football streaming extends AI from 'training tool' to 'spectating experience' — you don't need to exercise, AI helps you understand others' movement. Together they hint at sports AI's ultimate form: not just 'body during exercise' but 'body at all times.' Breathing training isn't done in gyms — it permeates every moment. Sports AI is evolving from 'fitness app' to 'body operating system.'",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Notis+ — AI 工作空间的内容架构设计",
+      "body": "Behance 上的 AI 智能工作空间 UX/UI 设计。不是又一个 Notion 克隆，而是从内容组织方式上做了创新：AI 自动根据内容类型（笔记、任务、文档、日程）生成不同的视觉容器——笔记是手写风卡片、任务是进度条卡片、文档是预览缩略图卡片。同一个工作空间里，不同内容类型有不同的视觉「性格」。内容的形式终于由内容本身决定。",
+      "body_en": "AI smart workspace UX/UI on Behance. Not another Notion clone but innovating content organization: AI auto-generates different visual containers by content type — notes as handwritten-style cards, tasks as progress bar cards, documents as preview thumbnail cards. Different content types with different visual 'personalities' in the same workspace. Content form finally determined by content itself.",
+      "tags": [
+        "Workspace",
+        "AI Content",
+        "Visual Containers",
+        "SaaS"
+      ],
+      "link": "https://www.behance.net/gallery/245890113/Notis-Smart-AI-Workspace-UX-UI-Design",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/201cab245890113.69b7df9115b74.jpg",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "NOVA — Fintech 品牌的排版探索",
+      "body": "NOVA Fintech 品牌探索项目在排版上做了大胆实验：大号 Display Serif 标题 + 极细 sans-serif 正文，强烈的字重对比创造出编辑杂志感的品牌页面。配色克制到极致——黑白灰 + 单一金色点缀。证明了 Content Design 最基本的道理：当你的排版足够强，颜色可以退到最后。Typography 本身就是品牌表达。",
+      "body_en": "NOVA Fintech brand exploration pushes bold typography experiments: large Display Serif headlines + ultra-thin sans-serif body, dramatic weight contrast creating editorial magazine-feel brand pages. Color restrained to the extreme — black/white/gray + single gold accent. Proves content design's most basic truth: when typography is strong enough, color can step back. Typography IS brand expression.",
+      "tags": [
+        "Typography",
+        "Brand Exploration",
+        "Editorial",
+        "Serif"
+      ],
+      "link": "https://www.behance.net/gallery/250089251/NOVA-Fintech-Brand-Exploration",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/4423c4250089251.6a16c228dc6d1.jpg",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "六月中旬 Content Design 的两个案例放在一起看，讲的是同一个故事的两面。Notis+ 说的是：「内容的视觉容器应该由内容类型决定」——笔记、任务、文档不应该长得一样。NOVA 说的是：「当排版足够讲究，其他视觉元素可以退场」——typography 不是装饰，是表达的主体。两者的共同点是什么？都在做减法。Notis+ 减掉了「一种容器适配所有内容」的懒惰，NOVA 减掉了「用颜色和图形弥补排版不足」的陋习。2026 年 Content Design 最深刻的进化不是加入了多少 AI 功能，而是设计师终于开始严肃对待「排版」这件最基础的事。好的 Content Design 就是好的 Typography，其他一切都是附属品。",
+      "body_en": "Two mid-June Content Design cases tell two sides of the same story. Notis+ says: content visual containers should be determined by content type — notes, tasks, documents shouldn't look the same. NOVA says: when typography is refined enough, other visual elements can exit — typography isn't decoration, it's the main expression. What they share: both doing subtraction. Notis+ subtracts the lazy 'one container fits all content'; NOVA subtracts the bad habit of 'using color and graphics to compensate for weak typography.' 2026 Content Design's deepest evolution isn't how many AI features were added but designers finally taking typography seriously as the most fundamental thing. Good Content Design IS good Typography; everything else is supplementary.",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "GUARDBASE — AI 安全公司的品牌与网站设计",
+      "body": "AI 安全创业公司的品牌和网站设计。在「安全感」和「科技感」之间找到了精准的视觉平衡：不用常见的盾牌图标和蓝色，而是深色背景 + 几何网格 + 渐变光效暗示「智能防线」。Landing page 的信息架构很值得学习——先用一句话说清「我们做什么」，再用三个数字建立信任，最后用技术架构图展示深度。AI 安全品牌设计的新标杆。",
+      "body_en": "AI security startup branding and website. Finds precise visual balance between 'security' and 'tech' — skipping common shield icons and blue, instead using dark background + geometric grid + gradient lighting to suggest 'intelligent defense.' Landing page info architecture worth studying: one sentence for what we do, three numbers for trust, then technical architecture for depth. New benchmark for AI security brand design.",
+      "tags": [
+        "AI Security",
+        "Brand Design",
+        "Geometric",
+        "Landing Page"
+      ],
+      "link": "https://www.behance.net/gallery/246301339/GUARDBASE-BRANDING-WEBSITE-AI-Security-Startup",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5892ac246301339.69c2ba982597a.png",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "LILOO — AI-Native 移动 App 的视觉语言",
+      "body": "一个「AI 原生」移动 App 的设计探索。不是在传统 App 上嫁接 AI 功能，而是从零开始思考「如果 App 的核心就是 AI 对话，界面该长什么样」。答案出乎意料的克制：大面积留白、柔和的圆角、温暖的中性色调。AI 不需要看起来「酷」，它需要看起来「安心」。界面元素像是浮在安静的湖面上，AI 的存在感通过细腻的微交互而非强烈的视觉符号来传达。",
+      "body_en": "An 'AI-native' mobile app design exploration. Not grafting AI onto traditional apps but rethinking from scratch: if the app core is AI conversation, what should the interface look like? Answer is surprisingly restrained: generous whitespace, soft rounded corners, warm neutral tones. AI doesn't need to look 'cool' — it needs to look 'reassuring.' UI elements float on a calm lake; AI's presence conveyed through subtle micro-interactions, not bold visual symbols.",
+      "tags": [
+        "AI-Native",
+        "Mobile",
+        "Calm Design",
+        "Restrained"
+      ],
+      "link": "https://www.behance.net/gallery/249593755/LILOO-AI-native-Mobile-App",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5312a0249593755.6a14c45836a1d.jpg",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "CAREER GO — AI 职业助手的品牌化设计",
+      "body": "AI 职业规划助手的产品设计。有意思的是它如何把「AI 助手」这个抽象概念具象化：不是用拟人头像，而是用一个动态的几何标识——根据用户的职业路径数据实时变形。求职阶段是箭头形态，面试准备阶段是闪烁的脉冲，获得 offer 后变成稳定的圆形。AI 助手的视觉身份随用户的旅程「成长」。",
+      "body_en": "AI career planning assistant product design. Interesting approach to making 'AI assistant' concept tangible: not anthropomorphic avatars but a dynamic geometric mark — shape-shifting in real-time based on user career path data. Job-seeking phase is arrow-shaped, interview prep is pulsing, post-offer becomes stable circle. AI assistant's visual identity 'grows' with user's journey.",
+      "tags": [
+        "Career AI",
+        "Dynamic Identity",
+        "Shape-Shifting",
+        "Product"
+      ],
+      "link": "https://www.behance.net/gallery/249141057/CAREER-GO-AI-Career-Assistant",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e7f0b8249141057.6a01b85743e10.png",
+      "date": "2026-06-18"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "六月中旬 Visual for AI 的三个案例拼出了一幅有趣的全景图：AI 产品的视觉设计正在经历一次「去科幻化」运动。GUARDBASE 证明 AI 安全品牌可以不用盾牌和蓝色，用几何网格同样能传达安全感；LILOO 证明 AI 对话 App 可以不用深色+霓虹光效，柔和中性色调反而更让人信任；CAREER GO 证明 AI 助手可以不用拟人头像，动态几何标识更有意思也更诚实。三个项目的共同趋势：2026 年的 AI 产品设计正在系统性地抛弃 2023-2024 年的「AI 美学套件」（深蓝+渐变+大脑图标+未来感字体）。取而代之的是更个性化、更克制、更诚实的视觉语言。就像 flat design 淘汰了 skeuomorphism，AI 产品的视觉正在经历自己的「去装饰化」革命。最好的 AI 产品不再试图「看起来像 AI」，而是试图「看起来像它真正是的东西」。",
+      "body_en": "Three mid-June Visual for AI cases paint an interesting panorama: AI product visual design is undergoing a 'de-sci-fi' movement. GUARDBASE proves AI security branding doesn't need shields and blue — geometric grids convey safety equally well; LILOO proves AI chat apps don't need dark+neon glow — soft neutral tones actually build more trust; CAREER GO proves AI assistants don't need anthropomorphic avatars — dynamic geometric marks are more interesting and more honest. Shared trend: 2026 AI product design is systematically abandoning the 2023-2024 'AI aesthetic kit' (dark blue + gradients + brain icons + futuristic fonts). Replaced by more personalized, restrained, honest visual languages. Like flat design obsoleted skeuomorphism, AI product visuals are experiencing their own 'de-decoration' revolution. The best AI products no longer try to 'look like AI' — they try to 'look like what they actually are.'",
+      "date": "2026-06-18"
     }
   ]
 }
