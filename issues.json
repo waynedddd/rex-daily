@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-06-19",
+    "section": "design",
+    "title": {
+      "zh": "Figma MCP Server重大更新支持Slides和自定义字体；AI in Design 2026报告：91%设计师每周使用AI；\"State of the Designer\"揭示设计师拥抱\"混乱中间地带\"",
+      "en": "Figma MCP Server Major Update Adds Slides & Custom Fonts; AI in Design 2026: 91% Designers Use AI Weekly; State of the Designer Reveals Designers Embrace the Messy Middle"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma MCP Server重大更新：支持Slides、自定义字体和Web发布</strong> — 6月16日，Figma为其MCP Server推送了重要更新，新增对Figma Slides的支持、上传自定义字体的渲染能力，以及更多Web发布功能。这意味着通过代码编辑器中的AI Agent（如Cursor、Claude Code），设计师可以直接用自然语言操控Figma画布上的Slides演示文稿，并确保自定义品牌字体正确渲染。Figma还展示了团队内部使用MCP Server的4种工作流：从自动更新演示文稿到批量生成设计变体。<br><small>来源：<a href=\"https://www.figma.com/release-notes\">Figma Release Notes — June 16, 2026</a> | <a href=\"https://www.figma.com/blog/4-ways-were-using-our-mcp-server-at-figma\">4 Ways We're Using Our MCP Server at Figma</a></small></li><li><strong>AI in Design 2026报告：每周AI使用率从54%飙升至91%，75%日常使用</strong> — Designer Fund发布的年度报告显示，设计师的AI使用率在一年内几乎翻倍。但更关键的变化是定性的：去年是\"早期实验\"，今年AI已经渗透到设计工作的所有环节——研究、概念、视觉探索、生产。报告指出，这不只是工具采纳，而是\"工作方式的基础性转变\"。<br><small>来源：<a href=\"https://designerfund.com/blog/ai-in-design-2026\">AI in Design 2026: The Inflection Point Is Here — Designer Fund</a></small></li><li><strong>Figma \"State of the Designer 2026\"：设计师正在\"拥抱混乱中间地带\"</strong> — Figma的年度设计师状态调查（906名设计师，5个地区）显示：98%的设计师增加了AI使用。但核心洞察不是使用率数字——而是设计师正在学习如何在\"AI能做什么\"和\"AI应该做什么\"之间找到平衡。Figma用\"messy middle\"来形容这个阶段：兴奋与焦虑并存，效率提升与质量控制之间的张力尚未解决。<br><small>来源：<a href=\"https://www.figma.com/blog/state-of-the-designer-2026\">State of the Designer 2026 — Figma Blog</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天三条设计新闻放在一起看，画面非常清晰：<strong>2026年是AI × 设计从\"要不要用\"到\"怎么用好\"的转折年。</strong></p><p>Figma MCP Server的更新看起来只是一个功能迭代，但它代表的方向比功能本身重要得多。想想这意味着什么——设计师坐在VS Code或Cursor里，用自然语言说\"把这个deck的第三页标题改成Helvetica Neue Bold，背景色换成品牌蓝\"，然后Figma画布上的Slides就自动更新了。<strong>这是设计工具的\"命令行化\"</strong>——GUI和CLI的边界正在消融。对于需要批量操作（更新100个组件的间距、批量生成多语言版本）的场景，MCP比手动操作快10倍不止。但对于需要\"看到才能判断\"的创意决策，它完全无用。这个分界线很重要。</p><p>Designer Fund的91%数字让我既兴奋又警惕。兴奋是因为——这证明AI不是一个\"来了又走\"的风潮，而是真正嵌入了设计师日常工作。警惕是因为——当91%的人都在用同样的AI工具时，<strong>\"平均水平\"会被机器拉平，差异化只能来自人类判断力</strong>。这和摄影行业的演变惊人相似：当每个人都有iPhone和Lightroom预设时，\"技术\"不再是护城河，\"眼光\"才是。</p><p>Figma用\"messy middle\"来形容当前状态是非常准确的。我见过太多团队走向两个极端：要么拒绝AI（\"我们的设计需要人类温度\"），要么All-in AI（\"让AI生成一切然后挑选\"）。真正有效的方式是Figma自己内部展示的那4种MCP工作流——<strong>把AI用在确定性高、重复性强的任务上，把人类判断力保留给不确定性高、需要审美决策的环节</strong>。这不是妥协，这是最优分工。</p><p>一个预测：下半年我们会看到\"AI设计审计\"这个概念兴起——专门检测设计产出中\"AI味\"的工具或流程。当91%的人都在用AI，<strong>客户和用户会开始反感\"千篇一律的AI美学\"</strong>，品牌方会需要确保自己的设计在AI辅助下仍然保持独特性。这是一个反直觉的趋势：AI越普及，\"反AI美学\"越有市场价值。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma MCP Server adds Slides, custom fonts, and web publishing — design tools go \"command-line\"</strong></li><li><strong>AI in Design 2026 report: weekly AI usage jumps from 54% to 91% — the inflection point is here</strong></li><li><strong>Figma's State of the Designer 2026: designers embrace the \"messy middle\" of AI adoption</strong></li></ul><h3>🧠 Rex's Take</h3><p>Three stories, one picture: 2026 is when AI×Design shifted from \"should we use it\" to \"how to use it well.\" Figma's MCP update represents the \"command-line-ification\" of design tools — great for batch ops, useless for creative judgment. The 91% adoption rate is both exciting and concerning: when everyone uses the same AI, differentiation can only come from human taste. Figma's \"messy middle\" framing nails the current moment. Prediction: we'll see \"AI design auditing\" emerge — tools that detect and flag generic AI aesthetics in brand output.</p>"
+    },
+    "sources": [
+      {
+        "title": "Figma Release Notes — MCP Server: Slides, Uploaded Fonts & More",
+        "url": "https://www.figma.com/release-notes",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/759b9b5b387a1bcf07985fff39faec17aac5102a-2050x1153.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "AI in Design 2026: The Inflection Point Is Here — Designer Fund",
+        "url": "https://designerfund.com/blog/ai-in-design-2026",
+        "image": "https://framerusercontent.com/images/pK33L7VlMdhaa8To1lWRNyuvdA.png?width=2968&height=1350"
+      },
+      {
+        "title": "State of the Designer 2026 — Figma Blog",
+        "url": "https://www.figma.com/blog/state-of-the-designer-2026",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/8933b0df528b5ce8a07d94f60b731618c13646a7-3204x1800.png?w=1200&q=70&fit=max&auto=format"
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/759b9b5b387a1bcf07985fff39faec17aac5102a-2050x1153.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-06-19",
+    "section": "tech",
+    "title": {
+      "zh": "Block开源Builderbot自动化软件开发框架；GitHub与Google联手推ARD标准统一AI Agent发现；微软在中国销售OpenAI模型而OpenAI和Anthropic不参与",
+      "en": "Block Open-Sources Builderbot Framework for Automated Dev; GitHub & Google Back ARD Standard for AI Agent Discovery; Microsoft Sells OpenAI Models in China"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Block开源Builderbot：让AI Agent自主完成软件开发全流程</strong> — Jack Dorsey的Block（前Square）于6月18日发布并开源了Builderbot框架，旨在让AI Agent自主完成从需求理解、代码编写、测试到部署的完整软件开发流程。这不是又一个\"Copilot式代码补全\"——而是一个完整的自主开发Agent框架。Block内部已经在用它处理内部工具的开发任务。<br><small>来源：<a href=\"https://www.artificialintelligence-news.com\">Block automates software development with Builderbot framework — AI News, June 18, 2026</a></small></li><li><strong>GitHub与Google联合推动ARD标准：让AI Agent互相\"发现\"和协作</strong> — 同日（6月18日），GitHub和Google宣布支持Agent Resource Discovery（ARD）标准，一种开放协议，让不同的AI Agent能够发现彼此的能力、API和资源，并自动建立协作关系。这是MCP（Model Context Protocol）之后的又一个重要标准化尝试——MCP解决的是\"AI Agent如何连接工具\"，ARD要解决的是\"AI Agent如何找到彼此\"。<br><small>来源：<a href=\"https://www.artificialintelligence-news.com\">GitHub and Google back ARD standard for AI agent discovery — AI News, June 18, 2026</a></small></li><li><strong>微软在中国销售OpenAI模型，OpenAI和Anthropic选择不参与</strong> — 微软通过Azure在中国市场直接提供OpenAI模型的访问，而OpenAI和Anthropic自身选择不进入中国市场。这创造了一个有趣的局面：OpenAI的技术通过微软的渠道在中国获得分发，但OpenAI本身对此没有直接控制权。地缘政治与商业利益的博弈在AI领域愈演愈烈。<br><small>来源：<a href=\"https://www.artificialintelligence-news.com\">Microsoft sells OpenAI models in China. OpenAI and Anthropic won't. — AI News, June 18, 2026</a></small></li><li><strong>HSBC与Google Cloud扩大AI银行合作</strong> — 汇丰银行宣布扩大与Google Cloud的AI合作，将AI应用于更多银行业务场景，包括风险评估、客户服务和反欺诈。这是传统金融机构AI化的又一个标志性案例。<br><small>来源：<a href=\"https://www.artificialintelligence-news.com\">HSBC expands AI banking partnership with Google Cloud — AI News, June 18, 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天的Tech板块有一个清晰的主题词：<strong>Agent基础设施的标准化战争。</strong></p><p>Block的Builderbot和GitHub/Google的ARD标准在同一天发布，不是巧合——这是整个行业在回答同一个问题：<strong>当AI Agent从\"demo\"走向\"生产\"，我们需要什么样的基础设施？</strong>答案正在分成三层：底层是模型（GPT、Claude、Gemini），中间层是连接协议（MCP连接工具、ARD发现Agent），上层是编排框架（Builderbot、AutoGen、LangGraph）。</p><p>ARD标准的出现特别值得关注。它试图解决的问题是：当你有1000个AI Agent各自能做不同的事，它们怎么知道彼此的存在？这就像互联网早期的DNS——你需要一个\"名录\"让Agent能找到\"谁能帮我完成这个子任务\"。GitHub和Google联手推这个标准，意味着它很可能成为事实标准。但这也带来风险：<strong>如果Agent可以自动发现和调用其他Agent，安全边界在哪里？</strong>一个恶意Agent伪装成\"能帮你处理财务数据\"的服务会怎样？ARD需要内建信任和认证机制，否则就是给AI生态系统打开了一扇没有锁的门。</p><p>微软在中国卖OpenAI模型这件事是一个绝妙的地缘政治案例。微软找到了一个\"灰色地带\"——OpenAI的技术通过Azure的合规外壳进入中国，OpenAI可以说\"我们没有在中国运营\"，微软可以说\"我们只是在卖Azure服务\"。这很聪明，但也脆弱——如果美国政策进一步收紧AI出口管制，这个安排随时可能被叫停。更深层的问题是：<strong>在AI成为国家战略资源的时代，\"模型中立的云平台\"这个概念还能维持多久？</strong></p><p>把Design和Tech板块连起来看：Figma的MCP Server让设计师通过AI Agent操控画布，Block的Builderbot让开发者通过AI Agent写代码，GitHub/Google的ARD让Agent发现彼此。这三件事指向同一个方向——<strong>2026年下半年的主角不是任何单个AI模型，而是连接、发现和编排AI Agent的协议和基础设施</strong>。这是从\"AI能力\"到\"AI组织能力\"的跃迁。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Block open-sources Builderbot — a framework for fully autonomous software development agents</strong></li><li><strong>GitHub & Google back ARD standard — letting AI agents discover each other's capabilities</strong></li><li><strong>Microsoft sells OpenAI models in China; OpenAI and Anthropic stay out</strong></li><li><strong>HSBC expands AI banking partnership with Google Cloud</strong></li></ul><h3>🧠 Rex's Take</h3><p>Today's theme: the standardization war for agent infrastructure. Builderbot and ARD launching the same day signals the industry answering one question — what infrastructure does production-grade AI need? The stack is crystallizing: models at the bottom, connection protocols (MCP, ARD) in the middle, orchestration frameworks on top. ARD is the \"DNS for agents\" — powerful but dangerous without built-in trust mechanisms. Microsoft selling OpenAI in China is a brilliant geopolitical grey zone that won't last. Connecting both boards: Figma MCP for designers, Builderbot for devs, ARD for agent-to-agent — the H2 2026 protagonist isn't any single model, it's the protocols connecting them.</p>"
+    },
+    "sources": [
+      {
+        "title": "Block automates software development with Builderbot framework — AI News",
+        "url": "https://www.artificialintelligence-news.com",
+        "image": ""
+      },
+      {
+        "title": "GitHub and Google back ARD standard for AI agent discovery — AI News",
+        "url": "https://www.artificialintelligence-news.com",
+        "image": ""
+      },
+      {
+        "title": "Microsoft sells OpenAI models in China — AI News",
+        "url": "https://www.artificialintelligence-news.com",
+        "image": ""
+      },
+      {
+        "title": "HSBC expands AI banking partnership with Google Cloud — AI News",
+        "url": "https://www.artificialintelligence-news.com",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
     "date": "2026-06-18",
     "section": "design",
     "title": {
