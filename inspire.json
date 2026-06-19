@@ -15141,6 +15141,221 @@
       "body": "六月中旬 Visual for AI 的三个案例拼出了一幅有趣的全景图：AI 产品的视觉设计正在经历一次「去科幻化」运动。GUARDBASE 证明 AI 安全品牌可以不用盾牌和蓝色，用几何网格同样能传达安全感；LILOO 证明 AI 对话 App 可以不用深色+霓虹光效，柔和中性色调反而更让人信任；CAREER GO 证明 AI 助手可以不用拟人头像，动态几何标识更有意思也更诚实。三个项目的共同趋势：2026 年的 AI 产品设计正在系统性地抛弃 2023-2024 年的「AI 美学套件」（深蓝+渐变+大脑图标+未来感字体）。取而代之的是更个性化、更克制、更诚实的视觉语言。就像 flat design 淘汰了 skeuomorphism，AI 产品的视觉正在经历自己的「去装饰化」革命。最好的 AI 产品不再试图「看起来像 AI」，而是试图「看起来像它真正是的东西」。",
       "body_en": "Three mid-June Visual for AI cases paint an interesting panorama: AI product visual design is undergoing a 'de-sci-fi' movement. GUARDBASE proves AI security branding doesn't need shields and blue — geometric grids convey safety equally well; LILOO proves AI chat apps don't need dark+neon glow — soft neutral tones actually build more trust; CAREER GO proves AI assistants don't need anthropomorphic avatars — dynamic geometric marks are more interesting and more honest. Shared trend: 2026 AI product design is systematically abandoning the 2023-2024 'AI aesthetic kit' (dark blue + gradients + brain icons + futuristic fonts). Replaced by more personalized, restrained, honest visual languages. Like flat design obsoleted skeuomorphism, AI product visuals are experiencing their own 'de-decoration' revolution. The best AI products no longer try to 'look like AI' — they try to 'look like what they actually are.'",
       "date": "2026-06-18"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Portfolio Rebalancing — 自动调仓的「决策剧场」设计",
+      "body": "Wealthfront 和 Betterment 2026 Q2 的新调仓 UI：AI 不再默默后台操作，而是把调仓决策「演」给用户看。每次自动调仓前弹出一张「决策剧场」卡片：左侧是当前持仓饼图，右侧是调仓后的目标饼图，中间用动态流动线展示资金移动路径。用户可以旁观也可以一键否决。最聪明的是时间轴回溯——显示过去 5 次自动调仓的结果，用绿色累积收益建立 AI 的历史信誉。",
+      "body_en": "Wealthfront and Betterment Q2 2026 rebalancing UI: AI no longer silently operates in the background but 'performs' decisions for users. Pre-rebalance 'decision theater' card: left shows current allocation pie, right shows target, animated flow lines between showing capital movement. Users can observe or one-tap veto. Smartest feature: timeline retrospective showing past 5 auto-rebalance outcomes, green cumulative returns building AI's historical credibility.",
+      "tags": [
+        "Portfolio",
+        "Rebalancing",
+        "Decision Theater",
+        "Trust UX"
+      ],
+      "link": "https://dribbble.com/search/portfolio-rebalancing-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Hyper-Personalized Banking — AI 驱动的「千人千面」银行界面",
+      "body": "2026 年 6 月 Fintech 设计圈最热议题：银行 App 的首页不再是固定布局，而是 AI 根据用户当日财务状态、近期目标、和行为模式动态生成。发薪日突出储蓄建议，月末突出账单提醒，旅行前突出汇率工具。Revolut 和 Monzo 的测试数据显示，动态首页的功能使用率比固定布局高 47%。设计挑战：如何在「千人千面」和「可预期性」之间找到平衡——用户需要新鲜感，但也需要知道东西在哪。",
+      "body_en": "Hottest June 2026 fintech design topic: banking app home screens are no longer fixed layouts but AI-generated based on daily financial state, near-term goals, and behavior patterns. Payday highlights savings advice, month-end highlights bill reminders, pre-travel surfaces FX tools. Revolut and Monzo test data shows dynamic homepages increase feature usage by 47%. Design challenge: balancing personalization with predictability — users want freshness but also need to know where things are.",
+      "tags": [
+        "Hyper-Personalization",
+        "Dynamic UI",
+        "Banking",
+        "Contextual"
+      ],
+      "link": "https://www.behance.net/search/projects/personalized%20banking%20AI%20dashboard",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 财务「情绪温度计」— 用户焦虑度的实时检测与干预",
+      "body": "Cleo 和 Plum 的 2026 中期更新引入了「财务情绪感知」：AI 通过操作频率、反复查看余额、深夜登录等行为信号推断用户的财务焦虑水平。当检测到焦虑时，界面自动切换为「安心模式」——隐藏波动数据、突出稳定指标、用自然语言摘要替代数字：「你的储蓄在正常轨道上，不用担心」。不是改变现实，是改变呈现方式。设计用柔和的蓝绿色调替代高对比数据图表。",
+      "body_en": "Cleo and Plum mid-2026 updates introduce 'financial emotion sensing': AI infers financial anxiety through behavior signals — check frequency, repeated balance views, late-night logins. When anxiety detected, interface auto-switches to 'reassurance mode' — hiding volatile data, highlighting stability metrics, replacing numbers with natural language: 'Your savings are on track, don't worry.' Not changing reality but changing presentation. Design uses soft blue-green tones replacing high-contrast data charts.",
+      "tags": [
+        "Emotional AI",
+        "Anxiety UX",
+        "Behavioral Finance",
+        "Calm Design"
+      ],
+      "link": "https://dribbble.com/search/finance-wellness-app-calm",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&q=80",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "六月中旬 Fintech 设计的三个信号合在一起画出了一个新的设计哲学——「金融界面不该是客观的」。这听起来反直觉，但想想：调仓的「决策剧场」是在把枯燥的算法操作变成可观赏的叙事；动态首页是在根据用户状态重新排列信息权重；情绪温度计是在根据用户心理状态选择性呈现数据。三者的共同逻辑：界面不是数据的镜子，而是数据的翻译器——翻译的目标不是「准确」，而是「合适」。这和传统金融设计的哲学（越客观越好、越精确越好）完全相反。但它可能是对的：当 AI 能精确判断「这个用户现在需要什么」时，给所有用户看相同界面反而是一种懒惰。2026 下半年的 Fintech 设计核心能力：不是信息设计，是「情境判断力」——知道什么时候该给用户看全貌，什么时候该给用户看安心。",
+      "body_en": "Three mid-June fintech signals form a new design philosophy — 'financial interfaces shouldn't be objective.' Sounds counterintuitive, but think: rebalancing 'decision theater' turns dry algorithmic operations into watchable narratives; dynamic homepages rearrange info weights by user state; emotion thermometers selectively present data based on psychological state. Shared logic: interfaces aren't mirrors of data but translators — translating not for 'accuracy' but 'appropriateness.' Completely opposite to traditional finance design (the more objective the better). But possibly right: when AI can precisely judge 'what this user needs now,' showing all users the same interface is actually laziness. H2 2026 fintech design core capability: not information design but 'contextual judgment' — knowing when to show the full picture, when to show reassurance.",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 热适应训练 — 夏季运动的体温智能管理",
+      "body": "随着 2026 年夏季到来，Garmin 和 COROS 推出的「热适应训练」AI 功能成为焦点。系统通过皮肤温度传感器 + 环境数据 + 训练负荷，实时计算用户的热应激指数。界面用温度计式的垂直仪表盘——底部冷蓝色（安全区）到顶部炽热红（危险区），当前状态用脉动圆点标注。最聪明的设计：AI 不只告诉你「热了该停」，还预测「再跑 8 分钟你会进入危险区」，给用户决策时间窗口。",
+      "body_en": "With summer 2026 arriving, Garmin and COROS 'heat adaptation training' AI features take center stage. System calculates real-time heat stress index through skin temperature sensors + environmental data + training load. Vertical thermometer-style gauge: cool blue bottom (safe) to scorching red top (danger), current state as pulsing dot. Smartest design: AI doesn't just say 'it's hot, stop' but predicts 'in 8 more minutes you'll enter danger zone,' giving users a decision time window.",
+      "tags": [
+        "Heat Adaptation",
+        "Summer Training",
+        "Predictive AI",
+        "Wearable"
+      ],
+      "link": "https://dribbble.com/search/heat-training-fitness-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1523875194681-bedd468c58bf?w=1200&q=80",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI × 水上运动 — 开放水域的新设计前沿",
+      "body": "2026 年夏季运动 AI 的新战场：开放水域运动（冲浪、帆板、皮划艇、铁三游泳段）。和泳池不同，开放水域有浪高、水温、潮汐、离岸流等变量。FORM 泳镜和新创公司 SurfSense 的 AI 把海洋环境数据叠加进训练建议——「当前离岸流向东 0.3m/s，建议沿海岸线游」。设计挑战：水上运动中用户几乎无法看屏幕，信息必须压缩到触觉振动（手表）+ 极简 HUD（泳镜）+ 语音（骨传导耳机）三种模态。",
+      "body_en": "Summer 2026 sports AI new battleground: open water sports (surfing, windsurfing, kayaking, triathlon swim legs). Unlike pools, open water has wave height, water temp, tides, rip currents. FORM goggles and startup SurfSense layer ocean environment data into training advice — 'current rip eastward 0.3m/s, suggest swimming along coastline.' Design challenge: users can barely see screens in water sports, info compressed to haptic vibration (watch) + minimal HUD (goggles) + voice (bone conduction) three modalities.",
+      "tags": [
+        "Open Water",
+        "Multi-Modal",
+        "Haptic",
+        "Summer Sports"
+      ],
+      "link": "https://www.behance.net/search/projects/water%20sports%20AI%20tracking",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1502680390049-dc30d0db1862?w=1200&q=80",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI Recovery Score × 社交挑战 — 团队恢复竞赛",
+      "body": "Whoop 2026 夏季更新的社交功能：团队「恢复竞赛」。不是比谁练得最猛，而是比谁恢复得最好——睡眠质量、HRV 趋势、应力管理。排行榜上第一名不是训练量最大的人，而是恢复效率最高的人。这是一个天才的行为设计翻转：用社交压力推动的不是「更多训练」（可能导致过度训练），而是「更好恢复」（必然有益）。视觉上用宁静的紫蓝色调替代竞技的红橙色。",
+      "body_en": "Whoop 2026 summer social feature: team 'recovery competition.' Not who trains hardest but who recovers best — sleep quality, HRV trends, strain management. Leaderboard #1 isn't highest training volume but highest recovery efficiency. A genius behavioral design flip: social pressure drives not 'more training' (risks overtraining) but 'better recovery' (always beneficial). Visuals use calming purple-blue replacing competitive red-orange.",
+      "tags": [
+        "Recovery",
+        "Social Fitness",
+        "Behavioral Design",
+        "Whoop"
+      ],
+      "link": "https://dribbble.com/search/recovery-social-fitness-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1200&q=80",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "六月运动 AI 设计的三个发现有一个共同的底色：季节性。热适应训练是夏季刚需，开放水域运动是夏季活动，恢复竞赛是应对夏季高强度运动期的设计。这让我意识到一个被忽视的设计维度——运动 AI 产品应该有「季节性格」。冬天的运动 App 应该关注室内训练和心理动力（天冷不想动），夏天应该关注热管理和恢复（动太猛容易受伤/中暑）。但大部分运动 App 全年一个样。最有意思的是 Whoop 的「恢复竞赛」——它解决了运动社交的一个根本矛盾：传统排行榜鼓励过度训练（谁跑得最多），但过度训练恰恰是运动 App 用户流失的首因。把竞争的锚点从「量」翻转到「质」，可能是 2026 年运动社交设计最聪明的一步棋。",
+      "body_en": "Three June sports AI findings share one undertone: seasonality. Heat adaptation is a summer essential, open water is summer activity, recovery competition addresses high-intensity summer periods. This highlights an overlooked design dimension: sports AI products should have 'seasonal personalities.' Winter apps should focus on indoor training and mental motivation (too cold to move); summer on heat management and recovery (overexertion risks injury/heatstroke). But most fitness apps look the same year-round. Most interesting: Whoop's 'recovery competition' solves a fundamental sports social contradiction — traditional leaderboards encourage overtraining (who runs most), but overtraining is the top cause of fitness app user churn. Flipping the competition anchor from 'quantity' to 'quality' may be 2026's smartest move in sports social design.",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 实时协作文档 — 多光标时代的排版冲突解决",
+      "body": "Notion 和 Craft 的 2026 中期更新面对一个新设计问题：当多人 + AI 同时编辑一个文档时，排版的一致性如何维护？解决方案是「排版仲裁器」——AI 作为隐形的排版编辑，在后台统一字号层级、修复换行问题、保持视觉一致性。最有趣的设计：当 AI 纠正了某人的格式，会在文档边栏留下一个极淡的「整理痕迹」标记（类似 git blame），让团队知道排版是谁定的。设计系统+AI 纪律=协作文档终于可以保持美观了。",
+      "body_en": "Notion and Craft mid-2026 updates face a new problem: when multiple humans + AI edit simultaneously, how to maintain typography consistency? Solution: 'typography arbiter' — AI as invisible typographic editor, unifying heading hierarchies, fixing line breaks, maintaining visual consistency in the background. Interesting design: when AI corrects someone's formatting, a faint 'tidying trace' mark appears in the sidebar (like git blame), letting teams know who set the typography. Design system + AI discipline = collaborative docs can finally stay beautiful.",
+      "tags": [
+        "Collaboration",
+        "Typography Arbiter",
+        "Multi-Cursor",
+        "AI Editor"
+      ],
+      "link": "https://dribbble.com/search/collaborative-document-design-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「Context Collapse」设计 — 同一内容在不同注意力状态下的呈现",
+      "body": "2026 年中内容设计最前沿的探索：Context Collapse（注意力折叠）。同一篇文章在用户的三种注意力状态下自动切换形态——扫视模式（只留标题和关键句加粗，正文模糊化）、阅读模式（正常排版）、深思模式（正文不变，侧边自动展开相关概念、反论和延伸阅读）。不是三个版本，而是一个文档的三种「聚焦距离」。技术上通过视线追踪 + 滚动速度 + 停留时间推断状态。Readwise Reader 和 Kobo 的原型已在内测。",
+      "body_en": "Most cutting-edge mid-2026 content design exploration: Context Collapse (attention folding). Same article auto-switches form across three attention states — scanning mode (only headlines and key sentences bold, body text blurred), reading mode (normal typography), thinking mode (body unchanged, sidebar auto-expands related concepts, counterarguments, further reading). Not three versions but one document at three 'focal distances.' Technically inferred via gaze tracking + scroll speed + dwell time. Readwise Reader and Kobo prototypes in beta.",
+      "tags": [
+        "Context Collapse",
+        "Attention Aware",
+        "Adaptive Reading",
+        "Gaze Tracking"
+      ],
+      "link": "https://www.behance.net/search/projects/adaptive%20reading%20attention%20design",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1200&q=80",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "六月 Content Design 的两个发现指向一个更深层的变化：排版的权威正在从「人类设计师」转移到「AI 系统」。排版仲裁器让 AI 成为团队文档的视觉纪律维护者——这在协作环境中太有道理了，因为人类编辑者普遍不关心排版一致性，但读者的体验却被它严重影响。Context Collapse 则更激进——排版不再是设计师设定的固定值，而是根据用户注意力状态动态变化的函数。把这两个放在一起看，Content Design 在 2026 年中正式进入了「后静态排版」时代：文档不再有一个「最终形态」，而是一个活的有机体——随协作者动态整理，随读者动态呈现。这对设计师意味着什么？你设计的不再是一个页面，而是一套规则系统。这些规则需要在无数种状态下都产出美观、可读的结果。这比设计一个固定页面难 10 倍，但也有趣 10 倍。",
+      "body_en": "Two June Content Design findings point to a deeper shift: typography authority is transferring from 'human designers' to 'AI systems.' Typography arbiter makes AI the team document's visual discipline keeper — makes total sense in collaborative environments where human editors universally don't care about typography consistency, but reader experience is severely affected by it. Context Collapse is more radical — typography is no longer designer-set fixed values but a function of user attention state. Together, Content Design in mid-2026 officially enters the 'post-static typography' era: documents no longer have one 'final form' but are living organisms — dynamically tidied with collaborators, dynamically rendered for readers. What this means for designers: you no longer design a page but a rule system. These rules must produce beautiful, readable results across countless states. 10x harder than designing a fixed page, but also 10x more interesting.",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent「性格皮肤」— 同一能力的多人格视觉包装",
+      "body": "2026 年 6 月 AI 产品设计最有趣的新模式：Agent 性格系统。同一个底层 AI 模型，通过不同的「性格皮肤」呈现为不同的角色——严肃分析师（深色、数据密集、serif 字体）、友好助手（圆角、暖色、emoji 点缀）、极简工具（无色彩、等宽字体、CLI 风格）。Character.ai 和 Poe 之外，Notion 和 Linear 也在测试让用户选择 AI 的视觉人格。设计不只是品牌差异化，而是用户的情感偏好投射。",
+      "body_en": "Most interesting June 2026 AI product design pattern: Agent personality system. Same underlying AI model presented through different 'personality skins' — serious analyst (dark, data-dense, serif), friendly helper (rounded, warm, emoji-sprinkled), minimal tool (colorless, monospace, CLI-style). Beyond Character.ai and Poe, Notion and Linear testing user-selectable AI visual personalities. Design isn't just brand differentiation but users' emotional preference projection.",
+      "tags": [
+        "AI Personality",
+        "Skin System",
+        "Emotional Design",
+        "Multi-Persona"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-personality-design",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「注意力预算」设计 — 视觉噪音的算法管控",
+      "body": "2026 年中一个正在标准化的 AI 产品设计原则：「注意力预算」。每个界面有一个总的注意力点数上限（基于认知负荷研究），AI 在运行时动态分配——当某个通知或建议的优先级高时，其他元素自动降低视觉权重（透明度下降、动效暂停）。不是简单的勿扰模式，而是界面元素之间的实时博弈——只有最重要的信息能「赢得」用户的注意力资源。Vercel 和 Linear 的设计团队是这个方向的推动者。",
+      "body_en": "A mid-2026 AI product design principle being standardized: 'attention budget.' Each interface has a total attention points cap (based on cognitive load research), AI dynamically allocates at runtime — when a notification's priority is high, other elements auto-reduce visual weight (opacity drops, motion pauses). Not simple DND mode but real-time competition between interface elements — only the most important info 'wins' the user's attention resources. Vercel and Linear design teams leading this direction.",
+      "tags": [
+        "Attention Budget",
+        "Cognitive Load",
+        "Dynamic Priority",
+        "Minimal Noise"
+      ],
+      "link": "https://dribbble.com/search/minimal-ai-notification-design",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&q=80",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Claude 4 发布页 — AI 产品发布的「演示即证明」设计范式",
+      "body": "Anthropic Claude 4 的产品发布页延续了「安静品牌」策略但更进一步：整个 landing page 本身就是 Claude 4 的 demo——页面文案由 Claude 实时生成、布局根据访客设备动态适配、甚至页面 A/B 测试由 Claude 自主决策。不说「我很强大」，而是用页面本身的存在证明能力。这是 2026 年 AI 产品发布设计的新标杆：产品即证明，体验即说明书。",
+      "body_en": "Anthropic Claude 4 product launch page continues the 'quiet brand' strategy but goes further: the entire landing page IS a Claude 4 demo — copy generated by Claude in real-time, layout dynamically adapted to visitor's device, even page A/B testing autonomously decided by Claude. Doesn't say 'I'm powerful' — proves capability through the page's own existence. The new benchmark for 2026 AI product launch design: product IS proof, experience IS documentation.",
+      "tags": [
+        "Product Launch",
+        "Self-Demo",
+        "Anthropic",
+        "Meta-Design"
+      ],
+      "link": "https://www.anthropic.com",
+      "linkText": "Anthropic",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80",
+      "date": "2026-06-19"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "六月中旬 Visual for AI 的三个发现揭示了一个正在形成的设计哲学转变：AI 产品的视觉设计正在从「被设计的」变成「自我生成的」。Agent 性格皮肤让用户自选 AI 的视觉表达（设计权下放给用户）；注意力预算让界面元素的可见度由算法实时决定（设计权下放给系统）；Claude 4 的 landing page 让产品页面本身由 AI 生成（设计权下放给 AI）。三条路径指向同一个终点：设计师的角色从「确定每个像素」变成「设计选择的边界和规则」。这是我在三月预测的「规则级设计」的终极形态——你不再设计成品，你设计的是一个能自我表达的系统。这对传统设计师来说可能是危机感的来源，但换个角度看：这恰恰是设计师最高级的工作——定义什么是「好」的标准，然后让系统在这个标准下自由发挥。建筑师不砌每一块砖，但每一块砖都按他的设计意图存在。",
+      "body_en": "Three mid-June Visual for AI findings reveal a forming design philosophy shift: AI product visual design is moving from 'being designed' to 'self-generating.' Agent personality skins let users choose AI's visual expression (design authority delegated to users); attention budgets let element visibility be decided by algorithms in real-time (delegated to system); Claude 4's landing page is itself AI-generated (delegated to AI). Three paths converge on one endpoint: designers shift from 'determining every pixel' to 'designing the boundaries and rules of choice.' This is the ultimate form of 'rule-level design' I predicted in March — you no longer design artifacts, you design a system capable of self-expression. May feel threatening to traditional designers, but reframe: this is design's highest-level work — defining what 'good' means, then letting systems freely express within that standard. Architects don't lay every brick, but every brick exists according to their design intent.",
+      "date": "2026-06-19"
     }
   ]
 }
