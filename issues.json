@@ -3,6 +3,66 @@
     "date": "2026-06-19",
     "section": "design",
     "title": {
+      "zh": "晚报｜Figma Agent正式入驻画布，AI设计工具进入「十国混战」；设计工具从功能竞争转向工作流绑定",
+      "en": "Evening｜Figma Agent Lands on Canvas; AI Design Tools Enter Fragmentation Era — Competition Shifts from Features to Workflow Lock-in"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计（晚报）</h3><ul><li><strong>Figma Agent正式登陆画布——AI不再是插件，而是设计搭档</strong> — 5月20日起，Figma Agent开始向Design用户推送beta。这不是又一个\"生成界面\"的噱头——Agent可以直接在画布上编辑组件、展开变体、基于你的Design System生成一致的设计。更重要的是，Figma通过MCP协议让Claude Code、Cursor等外部Agent也能直接写入Figma文件。6月更新进一步加入了Plan Mode（先制定方案再执行）、实时web搜索、以及Custom Skills（预定义重复任务）。这意味着Figma正在从\"设计工具\"进化为\"设计操作系统\"。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=PJEfCwKpRP0\">How to use Figma agent in your design workflows — Figma Official</a> | <a href=\"https://releasebot.io/updates/figma\">Figma Release Notes June 2026 — Releasebot</a></small></li><li><strong>2026年AI设计工具进入\"十国混战\"：Figma Make、Google Stitch、Motiff、UX Pilot、Visily…谁能存活？</strong> — 多个独立评测（Designfest、toools.design、Muzli）同时发布2026年AI设计工具横评，测试结果揭示了一个有趣的格局：没有任何一个工具能通吃所有场景。Figma Make强在生态整合，Google Stitch强在快速探索，Motiff强在代码导出（React/HTML），UX Pilot强在研究到原型的桥接，Visily强在非设计师友好。但大多数工具的输出仍然\"看起来像AI生成的\"——generic、缺乏品牌个性。<br><small>来源：<a href=\"https://designfest.framer.media/blogs/ai-tools-every-uiux-designer-should-try\">10 AI Tools Every UI/UX Designer Should Try in 2026 — Designfest</a> | <a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">9 Best AI Tools for UI/UX Designers in 2026 — toools.design</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天早上我们聊了\"Vibe Design\"和Google Stitch，晚上来看看这个故事的B面：<strong>AI设计工具的碎片化困境</strong>。</p><p>2026年中的AI设计工具市场像极了2012年的移动端设计工具市场——Sketch刚出来，InVision在做原型，Zeplin在做标注，Marvel在做快速演示。每个工具都解决一个具体痛点，但没有谁能完成全流程。十年后Figma统一了天下。现在历史在重演，只是这次的碎片化更严重：<strong>你可能需要Stitch做探索、Figma Make做精修、Motiff做代码交付、UX Pilot做用户研究——一个设计师的工具栈从1个变成了4-5个</strong>。</p><p>但Figma Agent的推出改变了游戏规则。Figma不是在做\"另一个AI设计工具\"，而是在做<strong>\"让所有AI都能在Figma里工作\"的平台</strong>。MCP协议的开放意味着：你用Claude生成的代码可以直接变成Figma组件，你在Cursor里写的前端可以回写到Figma的Design System。这不是功能竞争，这是<strong>生态位竞争</strong>。Figma在说：\"不管你用哪个AI，最终你的设计资产都在我这里。\"</p><p>这里有一个被忽视的信号：多个横评都指出，AI生成的界面\"看起来像AI生成的\"。这个\"AI味\"——generic的布局、缺乏品牌记忆的配色、千篇一律的卡片组件——正在成为一个真实的设计问题。当每个创业公司都能用Stitch在5分钟内生成\"还不错\"的界面时，<strong>\"还不错\"就变成了新的\"平庸\"</strong>。我预测下半年会出现一个新的设计细分赛道：<strong>\"Anti-AI Aesthetic\"——刻意不像AI生成的设计</strong>，强调手工感、不完美、品牌独特性。就像90年代数码排版普及后，手写字体和手工印刷反而变成了高端审美一样。设计工具的军备竞赛看似在加速，但真正的竞争优势正在从\"能生成什么\"转向\"能理解什么\"——理解品牌、理解上下文、理解用户情感。这是目前所有AI设计工具都还做不到的事。</p>",
+      "en": "<h3>📌 AI × Design (Evening)</h3><ul><li><strong>Figma Agent goes live on canvas — AI becomes a design partner, not a plugin, with MCP protocol opening canvas to external agents</strong></li><li><strong>2026 AI design tool landscape fragments into 10+ competitors — no single tool wins all scenarios, and \"AI-generated look\" becomes a real design problem</strong></li></ul><h3>🧠 Rex's Take</h3><p>Figma Agent isn't just another AI feature — it's a platform play. By opening MCP protocol, Figma says: \"Use any AI you want, but your design assets live here.\" This is ecosystem competition, not feature competition. Meanwhile, multiple reviews confirm AI-generated UIs still look \"generic\" — which creates an emerging opportunity: \"Anti-AI Aesthetic\" as a premium design differentiator. The real competition is shifting from \"what AI can generate\" to \"what AI can understand\" — brand, context, emotional nuance. No tool does this well yet.</p>"
+    },
+    "sources": [
+      {
+        "title": "How to use Figma agent in your design workflows — Figma Official",
+        "url": "https://www.youtube.com/watch?v=PJEfCwKpRP0",
+        "image": ""
+      },
+      {
+        "title": "Figma Release Notes June 2026 — Releasebot",
+        "url": "https://releasebot.io/updates/figma",
+        "image": ""
+      },
+      {
+        "title": "10 AI Tools Every UI/UX Designer Should Try in 2026 — Designfest",
+        "url": "https://designfest.framer.media/blogs/ai-tools-every-uiux-designer-should-try",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
+    "date": "2026-06-19",
+    "section": "tech",
+    "title": {
+      "zh": "晚报｜AI\"幻灭期\"来了：ChatGPT市占率首次跌破50%，Altman承认成本失控，数据中心建设严重滞后",
+      "en": "Evening｜The AI Disillusionment Wave: ChatGPT Market Share Drops Below 50%, Altman Admits Cost Issues, Data Center Construction Falls Behind"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技（晚报）</h3><ul><li><strong>ChatGPT市场份额首次跌破50%</strong> — Sensor Tower《State of AI 2026》报告显示，ChatGPT在AI聊天应用中的市场份额首次低于50%。Claude、Gemini、DeepSeek等竞品持续侵蚀OpenAI的先发优势。这不是ChatGPT变差了，而是AI助手正在从\"一家独大\"走向\"多极化\"。<br><small>来源：<a href=\"https://mashable.com/tech/ai-backlash-vibe-shift\">The AI vibe shift is real: Why the backlash is growing — Mashable</a></small></li><li><strong>Sam Altman公开承认AI成本正在失控</strong> — 在本周的OpenAI直播中，Altman罕见地表示\"年初人们对花费还很满意……现在超支已经成了一个meme\"。AI推理成本（token消耗）在Agent化趋势下可能增长25倍（高盛估算），Uber和微软等已感受到\"token化账单\"的压力。<br><small>来源：<a href=\"https://mashable.com/tech/ai-backlash-vibe-shift\">The AI vibe shift is real — Mashable</a></small></li><li><strong>美国数据中心建设严重落后于承诺</strong> — WSJ报道，实际在建的数据中心数量远低于科技巨头此前宣布的计划。同时，社区对数据中心的抵制正在升级——能源消耗、水资源占用、基础设施负担成为地方政治议题。NAACP也加入了反对阵营。<br><small>来源：<a href=\"https://mashable.com/tech/ai-backlash-vibe-shift\">The AI vibe shift is real — Mashable</a></small></li><li><strong>\"AI幻灭期\"信号汇聚：消费者对AI营销的信任度暴跌</strong> — 多项调查显示，消费者在发现品牌使用AI生成内容时，对该品牌的信任度降低的可能性是增加的4倍。品牌正在悄悄撤回面向消费者的AI内容。Pinterest用户因平台拥抱AI而流失。\"100%人工\"正在成为新的营销卖点。<br><small>来源：<a href=\"https://www.metaintro.com/blog/ai-backlash-every-brand-2026-marketing-careers\">What the 2026 AI Backlash Means for Every Brand — Metaintro</a> | <a href=\"https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap\">Why 2026 could be the year of anti-AI marketing — CNN</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天早上我们讨论了Anthropic进军韩国、Odyssey拿到$310M融资——一切看起来热火朝天。晚上换个视角：<strong>2026年的AI行业正在经历经典的Gartner幻灭期（Trough of Disillusionment）</strong>，而且这次幻灭期来得比很多人预期的更快、更猛烈。</p><p>几个数据点放在一起就很清楚了。ChatGPT市占率跌破50%不是因为竞品有多强——Claude和Gemini确实在进步，但更重要的原因是<strong>很多用户用了几个月后发现AI没有改变他们的生活</strong>。Sensor Tower的数据背后是一个残酷的现实：AI聊天产品的留存率普遍很低。初始的好奇心消退后，大部分普通用户找不到足够强的日常使用场景。</p><p>更值得关注的是供给侧的裂缝。Altman承认成本失控不是客气话——高盛估算Agent化会让token消耗增长25倍，这意味着<strong>AI公司越成功（用户越多、Agent越复杂），亏损越大</strong>。这是一个经典的\"越跑越亏\"的互联网补贴模式，但规模比打车大战大几个数量级。OpenAI为什么急着IPO？因为当前的烧钱速度需要公开市场的资金来续命。</p><p>数据中心建设滞后则揭示了<strong>物理世界对数字雄心的制约</strong>。你可以在PPT上画100个数据中心，但电网容量、水资源、土地审批、社区抗议——这些是不能用AI解决的现实约束。NAACP加入反对阵营意味着这已经不是NIMBYism（邻避效应），而是正在变成一个社会公平议题。</p><p>最有意思的是消费者端的\"反AI情绪\"。当品牌发现用AI做营销反而损害信任时，\"100%人工\"变成了卖点——这和我今天晚上在设计板块预测的\"Anti-AI Aesthetic\"趋势完全呼应。<strong>AI行业正在制造自己的反作用力</strong>：技术越普及，\"非AI\"就越稀缺、越有价值。这不是AI会失败的信号，而是AI正在进入\"祛魅\"阶段——从\"万能神药\"变成\"需要精确使用的专业工具\"。真正的赢家不是用AI最多的公司，而是知道什么时候用AI、什么时候不用的公司。这才是2026下半年最重要的商业判断。</p>",
+      "en": "<h3>📌 AI × Tech (Evening)</h3><ul><li><strong>ChatGPT market share drops below 50% for the first time — Sensor Tower State of AI 2026 report</strong></li><li><strong>Sam Altman admits AI costs are \"becoming a huge issue\" — Goldman Sachs estimates agent-driven token demand could increase 25x</strong></li><li><strong>US data center construction falling far behind announced plans — community resistance escalating</strong></li><li><strong>Consumer trust drops 4x when they spot AI in brand marketing — \"100% human\" becoming a selling point</strong></li></ul><h3>🧠 Rex's Take</h3><p>The AI industry is entering its classic Gartner \"Trough of Disillusionment\" faster than expected. ChatGPT losing majority share isn't about competitor strength — it's about user retention cratering after initial curiosity fades. Altman's cost admission reveals a brutal scaling paradox: more users and more agents mean more losses. Data center delays expose physical-world constraints that no AI can solve. Most telling: consumers now punish brands for using AI, making \"100% human\" a premium. AI isn't failing — it's entering the \"disenchantment\" phase where it transitions from magic bullet to precision tool. The winners won't be companies using the most AI, but those knowing when not to use it.</p>"
+    },
+    "sources": [
+      {
+        "title": "The AI vibe shift is real: Why the backlash is growing — Mashable",
+        "url": "https://mashable.com/tech/ai-backlash-vibe-shift",
+        "image": ""
+      },
+      {
+        "title": "What the 2026 AI Backlash Means for Every Brand — Metaintro",
+        "url": "https://www.metaintro.com/blog/ai-backlash-every-brand-2026-marketing-careers",
+        "image": ""
+      },
+      {
+        "title": "Why 2026 could be the year of anti-AI marketing — CNN",
+        "url": "https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
+    "date": "2026-06-19",
+    "section": "design",
+    "title": {
       "zh": "机器人流量首超人类占比57.5%；Google AI Mode破10亿月活重塑搜索设计；\"Vibe Design\"概念持续冲击传统设计工具链",
       "en": "Bot Traffic Surpasses Humans at 57.5%; Google AI Mode Hits 1B MAU Reshaping Search Design; Vibe Design Continues Disrupting Traditional Design Toolchain"
     },
