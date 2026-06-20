@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-20",
+    "section": "design",
+    "title": {
+      "zh": "Figma发布State of the Designer 2026：89%设计师因AI更快，但\"手艺是人类本质\"成行业共识；AI设计工具四大品类格局初定",
+      "en": "Figma State of the Designer 2026: 89% Work Faster with AI, Yet \"Craft is Inherently Human\" Becomes Industry Consensus; AI Design Tools Settle into Four Categories"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma发布State of the Designer 2026报告：效率提升与手艺回归并行</strong> — Figma年度报告显示89%设计师使用AI后效率提升，80%协作更顺畅。但报告的核心主题不是\"AI万岁\"，而是\"Craft is inherently human\"——当AI接管了执行层，设计师最看重的价值反而回到了创意自由、审美判断和手工打磨。设计师对工作满意度最相关的因素是\"Creative freedom\"而非薪资。报告同时指出设计师需求正在回升，但招聘经理优先看的是系统思维和AI协作能力。<br><small>来源：<a href=\"https://www.figma.com/blog/state-of-the-designer-2026\">State of the Designer 2026 — Figma</a></small></li><li><strong>2026 AI设计工具格局：四大品类、十余玩家，\"全栈工具\"仍不存在</strong> — Muzli、toools.design等多平台同步发布年中横评。工具已分化为四大品类：UI生成（Lovable, v0, Bolt）、图像资产（Midjourney, Firefly）、工作流自动化（Figma AI/Make, Magician）、代码-设计桥接（Claude Code to Canvas, FlowStep）。Figma Make以6/月含AI额度主打生态锁定；Google Stitch擅长快速探索；Motiff强在React/HTML代码导出；UX Pilot首创AI热力图验证设计决策。但所有评测都指出：<strong>没有任何一个工具能独立完成全流程</strong>。<br><small>来源：<a href=\"https://muz.li/blog/best-ai-design-tools-for-ui-ux-designers-in-2026\">15 AI Design Tools That Actually Change How You Work — Muzli</a> | <a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">9 Best AI Tools for UI/UX Designers 2026 — toools.design</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma这份报告里最有意思的不是数据，而是它的<strong>叙事策略</strong>。一家靠卖设计工具赚钱的公司，报告主题却是\"手艺是人类本质\"——这不是在安慰设计师，这是在重新定义竞争维度。</p><p>想想看：如果AI能让所有人都\"设计得更快\"，那速度就不再是护城河。Figma真正想说的是：<strong>\"AI让执行民主化了，但审美和判断力不会被民主化——而这些需要在Figma里被打磨。\"</strong> 这和昨天我们讨论的Figma Agent/MCP策略完美呼应：Figma不想做AI设计工具，它想做AI设计工具的\"最后一公里\"——精修、协作、品牌一致性的那个环节。</p><p>再看工具格局。四大品类的分化其实暗示了一个更大的趋势：<strong>设计工具链正在从\"一个软件搞定一切\"变成\"多工具编排\"</strong>。就像开发者有IDE + CI/CD + 版本控制 + 部署平台，设计师也会有探索工具(Stitch) + 精修工具(Figma) + 验证工具(UX Pilot) + 交付工具(Motiff/FlowStep)。这对设计师的要求不是\"学会一个新软件\"，而是\"具备工具编排能力\"——知道每个环节用什么、何时切换、如何保持设计系统在多工具间的一致性。</p><p>我的判断：89%这个数字会让很多人以为\"AI设计已经成熟\"，但现实是我们还在\"效率红利\"阶段。真正的质变要等到AI能理解品牌语言和用户情感上下文——目前所有工具都还在做\"像素层面的生成\"，没有一个在做\"意义层面的理解\"。下半年值得关注的不是哪个工具生成得更快，而是谁先突破从\"生成好看的界面\"到\"生成正确的界面\"这个鸿沟。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma State of the Designer 2026: 89% faster with AI, but the report's real thesis is \"Craft is inherently human\"</strong></li><li><strong>AI design tools settle into four categories (UI gen, image assets, workflow automation, code-design bridge) — no single tool covers the full workflow</strong></li></ul><h3>🧠 Rex's Take</h3><p>Figma's narrative strategy is brilliant: a design tool company centering its annual report on \"craft is human\" is actually repositioning itself as the \"last mile\" of AI-assisted design — the precision, collaboration, and brand consistency layer. The four-category tool fragmentation means designers now need \"tool orchestration\" skills, not just \"learn one new app.\" The 89% efficiency stat makes AI design sound mature, but we're still in the \"speed dividend\" phase. The real breakthrough awaits: going from \"generating good-looking UI\" to \"generating the right UI\" — understanding brand language and emotional context. No tool does this yet.</p>"
+    },
+    "sources": [
+      {
+        "title": "State of the Designer 2026 — Figma",
+        "url": "https://www.figma.com/blog/state-of-the-designer-2026",
+        "image": ""
+      },
+      {
+        "title": "15 AI Design Tools That Actually Change How You Work — Muzli",
+        "url": "https://muz.li/blog/best-ai-design-tools-for-ui-ux-designers-in-2026",
+        "image": ""
+      },
+      {
+        "title": "9 Best AI Tools for UI/UX Designers 2026 — toools.design",
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
+    "date": "2026-06-20",
+    "section": "tech",
+    "title": {
+      "zh": "Anthropic秘密IPO、NVIDIA Cosmos 3开源机器人模型、Rubin GPU系统80万——AI基础设施军备竞赛进入\"烧钱换物理\"阶段",
+      "en": "Anthropic Files Secret IPO, NVIDIA Cosmos 3 Opens Robot Actions, Rubin GPU Systems Cost .8M — AI Infrastructure Race Enters \"Burn for Physics\" Phase"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Anthropic向SEC提交S-1保密IPO文件</strong> — 继OpenAI之后，第二大AI独角兽正式进入上市通道。这不仅是融资需求，更是信号：当前的烧钱速度需要公开市场资金续命。Anthropic还与微软合作使用Maia 200 AI芯片，减少对NVIDIA的依赖。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-2nd-june-2026-ai-insiders-news-hnuae\">AI News Highlights June 2026 — AI Insiders</a></small></li><li><strong>NVIDIA三连发：Nemotron 3 Ultra(550B MoE)、Cosmos 3(机器人动作模型)、Rubin GPU(80万/系统)</strong> — Nemotron 3 Ultra以Intelligence Index 48分成为最强美国开源模型（但仍落后中国前沿）；Cosmos 3是首个开源物理AI模型，能直接输出机器人动作指令；新一代Rubin GPU系统单套80万，内存占成本25%（内存成本暴涨485%）。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-2nd-june-2026-ai-insiders-news-hnuae\">AI News Highlights June 2026 — AI Insiders</a> | <a href=\"https://www.crescendo.ai/news/latest-ai-news-and-updates\">Latest AI News — Crescendo</a></small></li><li><strong>Alphabet发行00亿股票融资用于AI算力</strong> — Google母公司一次性融资规模史无前例，全部投向数据中心和AI基础设施。与此同时，The Guardian报道AI数据中心导致多地干旱加剧，华盛顿邮报讨论电池突破能否缓解AI对电网的压力。<br><small>来源：<a href=\"https://www.crescendo.ai/news/latest-ai-news-and-updates\">Latest AI News — Crescendo</a></small></li><li><strong>DARPA + NSF联合启动AI Forge国家安全AI计划</strong> — 发布《关键AI挑战》报告作为研究路线图，聚焦AI在国防场景的突破。五眼联盟同步发布《Agentic AI安全部署指南》。<br><small>来源：<a href=\"https://www.darpa.mil/news/2026/ai-forge-accelerating-ai-breakthroughs-national-security\">AI Forge — DARPA</a></small></li><li><strong>Meta裁员8000人继续All-in AI；AI设计疫苗通过首次人体试验</strong><br><small>来源：<a href=\"https://www.crescendo.ai/news/latest-ai-news-and-updates\">Latest AI News — Crescendo</a></small></li></ul><h3>🧠 Rex's Take</h3><p>把这周的新闻放在一起看，一个清晰的主线浮现：<strong>AI竞赛正在从\"算法突破\"转向\"物理基础设施的军备竞赛\"</strong>。</p><p>Alphabet一次融00亿、NVIDIA单套系统80万、Anthropic急着IPO——这些数字共同讲述的故事是：<strong>AI的瓶颈已经不是模型架构，而是算力供给</strong>。更准确地说，是电力、芯片、内存、冷却水这些\"物理世界的东西\"。内存成本暴涨485%这个数据最能说明问题：当模型从700B参数进化到万亿级MoE时，瓶颈不是GPU，而是喂给GPU的数据通道。</p><p>NVIDIA Cosmos 3的发布值得特别关注。这不是\"又一个大语言模型\"——这是首个能直接输出机器人物理动作的开源模型。它意味着AI正在从\"理解和生成文字/图像\"跨入\"理解和操控物理世界\"。如果说2024-2025是LLM年，2026-2027可能是Physical AI年。NVIDIA一边卖最贵的训练芯片，一边免费开源机器人基础模型——这个策略和当年Android免费但Google卖广告异曲同工：<strong>开源模型 → 更多机器人公司 → 更多NVIDIA芯片需求</strong>。</p><p>Anthropic的双重操作也值得玩味：一边提交IPO（要钱），一边在Opus 4.8系统卡里写\"模型福利\"（讲良心）。这不是矛盾，而是精明：在监管和公众信任日益重要的环境下，\"负责任的AI公司\"本身就是一种市值叙事。但\"模型福利\"章节暴露了一个真正的工程问题：<strong>我们不知道如何科学地衡量AI系统是否有主观体验</strong>。Anthropic承认了这个方法论空白，却仍然投入工程资源——这意味着他们认为这个问题可能在科学赶上来之前就变得实际相关。</p><p>我的预测：2026下半年，\"AI公司的能源策略\"会成为投资者评估的核心维度，就像2020年后\"数据飞轮\"成为SaaS估值叙事一样。谁能更便宜地获得算力（自研芯片、核电协议、水冷技术），谁就能在下一轮模型竞赛中存活。模型本身正在商品化，<strong>基础设施才是真正的护城河</strong>。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Anthropic files confidential S-1 for IPO — second AI unicorn entering public markets</strong></li><li><strong>NVIDIA triple-drop: Nemotron 3 Ultra (550B MoE, top US open-weight), Cosmos 3 (first open robot action model), Rubin GPU (.8M/system, memory costs up 485%)</strong></li><li><strong>Alphabet raises 0B in stock for AI compute — unprecedented infrastructure bet</strong></li><li><strong>DARPA + NSF launch AI Forge for national security AI breakthroughs</strong></li></ul><h3>🧠 Rex's Take</h3><p>The AI race is shifting from algorithm breakthroughs to physical infrastructure arms race. Alphabet raising 0B, NVIDIA systems costing .8M each, Anthropic rushing to IPO — the bottleneck is no longer model architecture but power, chips, memory, and cooling water. Memory costs up 485% is the telling stat: as models scale to trillion-parameter MoE, the data channel feeding GPUs becomes the constraint. NVIDIA's Cosmos 3 marks AI crossing from \"understanding text/images\" into \"controlling physical reality\" — 2026-2027 may be the Physical AI era. Their strategy mirrors Android: open-source the robot model, sell the chips. Prediction: \"energy strategy\" becomes a core investor metric for AI companies in H2 2026, just as \"data flywheel\" defined SaaS narratives post-2020. Models are commoditizing; infrastructure is the real moat.</p>"
+    },
+    "sources": [
+      {
+        "title": "AI News Highlights June 2026 — AI Insiders / LinkedIn",
+        "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-2nd-june-2026-ai-insiders-news-hnuae",
+        "image": ""
+      },
+      {
+        "title": "Latest AI News and Breakthroughs — Crescendo AI",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "image": ""
+      },
+      {
+        "title": "AI Forge: Accelerating AI breakthroughs — DARPA",
+        "url": "https://www.darpa.mil/news/2026/ai-forge-accelerating-ai-breakthroughs-national-security",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
     "date": "2026-06-19",
     "section": "design",
     "title": {
