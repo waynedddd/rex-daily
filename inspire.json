@@ -15533,6 +15533,221 @@
       "body": "六月中的设计观察让我看到一个跨方向的 mega-trend：所有 AI 产品设计都在从「静态界面」向「状态流」进化。金融领域的实时现金流动画是数据状态的可视化；运动领域的热适应训练是身体状态的响应式设计；内容领域的情感排版是文本状态的动态映射；而 AI 产品的 state-based design system 是把这种「状态思维」体系化了。过去设计师画的是 screen（静态页面），现在设计师编排的是 flow（状态流转）。这个变化比任何单一趋势都重要——它重新定义了「设计」这个动作本身的含义。不再是「画一个好看的界面」，而是「定义一个优雅的状态转换规则集」。Claude 4 的空间画布尤其有意思：当对话从线性变为空间化，信息架构从「时间线」变成了「关系网」。这和人脑的工作方式更像了——我们的思维不是线性的，我们的工具终于追上来了。Ramp 的 Spend Stories 则代表了另一个方向：AI 不只生成数据可视化，还生成「数据叙事」——这是从 dashboard 到 story 的质变。2026 下半年我大胆预测：最好的 AI 产品界面既不像 dashboard 也不像 chat，而像一本会自己更新的「智能笔记本」。",
       "body_en": "Mid-June design observation reveals a cross-direction mega-trend: all AI product design is evolving from 'static interfaces' to 'state flows.' Finance's real-time cash flow animation visualizes data states; sports' heat adaptation is body-state responsive design; content's mood typography dynamically maps text states; AI products' state-based design systems formalize this 'state thinking.' Designers used to draw screens (static pages); now designers choreograph flows (state transitions). This change matters more than any single trend — it redefines what 'design' itself means. No longer 'draw a beautiful interface' but 'define an elegant state transition ruleset.' Claude 4's spatial canvas is especially fascinating: when conversation goes from linear to spatial, information architecture shifts from 'timeline' to 'relationship network.' More like how human brains actually work — our thinking isn't linear, our tools are finally catching up. Ramp's Spend Stories represents another direction: AI generating not just data visualization but 'data narratives' — a qualitative leap from dashboard to story. Bold H2 2026 prediction: the best AI product interfaces will resemble neither dashboards nor chat, but a self-updating 'intelligent notebook.'",
       "date": "2026-06-20"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Fintech 设计 2026：风险、透明度、控制 — 三位一体的界面新范式",
+      "body": "Outcrowd 的深度分析指出 2026 年 Fintech 设计的根本转向：不再是「让界面好看」，而是「通过界面管理风险、透明度和控制」。即时支付、AI 自主操作、嵌入式金融、数据可移植性——每一个变量都在要求界面承担过去由后台系统承担的职责。最关键的洞察：合规不再是法务的事，透明度不再是可选项，AI 可解释性从锦上添花变成了监管底线。",
+      "body_en": "Outcrowd's deep analysis reveals 2026 fintech design's fundamental pivot: no longer 'make interfaces pretty' but 'manage risk, transparency, and control through the interface.' Instant payments, AI autonomy, embedded finance, data portability — each variable demands interfaces assume responsibilities once handled by backend systems. Key insight: compliance is no longer legal's job, transparency is no longer optional, AI explainability shifts from nice-to-have to regulatory baseline.",
+      "tags": [
+        "Risk Management",
+        "Transparency UI",
+        "Compliance Design",
+        "Fintech 2026"
+      ],
+      "link": "https://www.outcrowd.io/blog/fintech-design-trends-2026",
+      "linkText": "Outcrowd",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI-Native Dashboard 崛起 — Attio、Hex、Cursor 定义新品类",
+      "body": "925 Studios 的 2026 SaaS Dashboard 报告揭示了一个重要分野：传统 dashboard 让用户自己建图表看数据，AI-native dashboard 帮用户总结和优先排序。Attio 的 CRM dashboard 不再展示 pipeline 漏斗图，而是直接告诉你「这周最应该跟进的 3 个客户」；Hex 不让你写 SQL，而是用自然语言生成分析；Mercury 和 Ramp 的 fintech trust pattern 把合规信号嵌入数据层级。单一指标聚焦、渐进式披露、深色工具优先——六大 pattern 正在重定义 dashboard 设计的基本单位。",
+      "body_en": "925 Studios' 2026 SaaS Dashboard report reveals a critical divide: traditional dashboards let users build charts, AI-native dashboards summarize and prioritize. Attio CRM doesn't show pipeline funnels — it tells you 'the 3 clients to follow up this week'; Hex replaces SQL with natural language analysis; Mercury and Ramp embed compliance signals into data hierarchy. Single-metric focus, progressive disclosure, dark-mode-first tooling — six patterns redefining dashboard design's basic unit.",
+      "tags": [
+        "AI-Native Dashboard",
+        "SaaS",
+        "Progressive Disclosure",
+        "Data Prioritization"
+      ],
+      "link": "https://www.925studios.co/blog/saas-dashboard-design-examples-2026",
+      "linkText": "925 Studios",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "Finora — AI 投资平台 UI/UX 案例研究",
+      "body": "Behance 上的 AI 投资平台完整案例。不是又一个深色 dashboard，而是一个完整的设计思考链条：用户调研→信息架构→视觉系统→交互细节。最值得学习的是它如何处理「AI 投资建议」的信任层级——每条建议附带三层信息：结论（一行文字）、依据（可展开的数据摘要）、溯源（AI 参考了哪些数据源）。这正是 2026 年金融 AI 产品的标配结构：结论→依据→溯源。",
+      "body_en": "Complete AI investment platform case study on Behance. Not another dark dashboard but a full design thinking chain: user research → information architecture → visual system → interaction details. Most worth studying: how it handles AI investment advice trust hierarchy — each recommendation has three layers: conclusion (one line), evidence (expandable data summary), provenance (which data sources AI referenced). This is the standard structure for 2026 financial AI products: conclusion → evidence → provenance.",
+      "tags": [
+        "Investment Platform",
+        "Case Study",
+        "Trust Hierarchy",
+        "AI Advice"
+      ],
+      "link": "https://www.behance.net/search/projects/fintech%20dashboard",
+      "linkText": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7491c4221238519.67d52cc41dfef.jpg",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "六月下旬的 Fintech 设计观察揭示了一个正在发生的范式替换：「Dashboard 已死，Intelligence Feed 永生」。Outcrowd 说 fintech 设计的核心从美学变成了风险管理；925 Studios 的 35 个 SaaS dashboard 分析表明 AI-native dashboard 不再让用户建图表，而是直接给答案。把这两个信号叠在一起看，金融界面的未来不是「更好看的图表」，而是「更聪明的摘要」。Attio、Hex、Cursor 这些产品的共同点：界面上最大的元素不是图表，而是一段文字——AI 总结的洞察。这和三月我们讨论的「叙事式 dashboard」完全一致，但现在已经从趋势变成了行业标准。设计师的新核心能力不是数据可视化，是信息编辑——从海量数据中提炼出用户此刻最需要知道的那一件事。这是编辑的能力，不是设计师的能力。金融 AI 产品设计正在和新闻编辑合流。",
+      "body_en": "Late June fintech design observation reveals a paradigm replacement in progress: 'Dashboard is dead, Intelligence Feed lives forever.' Outcrowd says fintech design's core shifts from aesthetics to risk management; 925 Studios' 35 SaaS dashboard analysis shows AI-native dashboards no longer let users build charts but directly give answers. Overlaying both signals: financial UI's future isn't 'prettier charts' but 'smarter summaries.' Attio, Hex, Cursor share one thing: the largest UI element isn't a chart — it's text — AI-summarized insight. Aligns perfectly with March's 'narrative dashboard' discussion, but now it's industry standard, not trend. Designer's new core skill isn't data visualization — it's information editing: distilling from massive data the ONE thing users need to know right now. That's an editor's skill, not a designer's. Financial AI product design is converging with news editing.",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "ACSM 2026：可穿戴技术蝉联全球健身趋势第一名",
+      "body": "美国运动医学学会（ACSM）2026 年度全球健身趋势调查结果出炉：可穿戴技术连续多年位居第一。但 2026 年的「可穿戴」已经不是计步器了——Samsung Galaxy Ring、OURA Ring 4、Apple Watch Ultra 2 代表了三种不同的设计哲学：Samsung 走「生态闭环」（健康 App 成为一站式平台）、OURA 走「极简数据翻译」（一个 Readiness Score 概括一切）、Apple 走「运动场景专业化」（为每种运动定制传感器组合）。Top 10 中「数据驱动技术」和「移动运动 App」分别排第 8 和第 4，说明用户不只要硬件，还要软件体验。",
+      "body_en": "American College of Sports Medicine 2026 global fitness trends survey: wearable tech claims #1 for consecutive years. But 2026 'wearable' is no longer pedometers — Samsung Galaxy Ring, OURA Ring 4, Apple Watch Ultra 2 represent three design philosophies: Samsung = ecosystem lock-in (Health app as one-stop hub), OURA = minimal data translation (one Readiness Score summarizes everything), Apple = sport-specific specialization (custom sensor combos per activity). Data-Driven Tech (#8) and Mobile Apps (#4) in Top 10 show users want software experience, not just hardware.",
+      "tags": [
+        "ACSM",
+        "Wearable Tech",
+        "Fitness Trends 2026",
+        "Smart Ring"
+      ],
+      "link": "https://www.linkedin.com/posts/american-college-of-sports-medicine_the-top-fitness-trend-for-2026-as-predicted-activity-7386734104437989376-XSv7",
+      "linkText": "ACSM / LinkedIn",
+      "image": "https://cdn.dribbble.com/userupload/5497628/file/original-71c10a774bdc8818ea0d0e1acf060e06.png?compress=1&resize=752x",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "500+ 数据点/天 — AI 健康可穿戴的数据过载设计挑战",
+      "body": "2026 年一个同时使用 2 个以上健康可穿戴设备的用户，每天产生超过 500 个独立数据点：每 5 分钟一次的心率变异、整夜的血氧测量、皮肤温度趋势、每餐后的血糖反应曲线、步数、压力分数、睡眠阶段分类、恢复指标……设计挑战从「如何展示数据」变成了「如何不让用户被数据淹死」。AIMagicX 的报告指出核心矛盾：AI 解释有时帮助用户，有时伤害用户——当 AI 把正常的心率变异标记为「异常」时，健康焦虑比不戴设备更严重。",
+      "body_en": "A 2026 user with 2+ health wearables generates 500+ unique data points daily: HRV every 5 minutes, overnight SpO2, skin temp trends, post-meal glucose curves, steps, stress scores, sleep stages, recovery metrics... Design challenge shifts from 'how to show data' to 'how to not drown users in data.' AIMagicX report highlights the core tension: AI interpretation sometimes helps, sometimes harms — when AI flags normal HRV variation as 'abnormal,' health anxiety gets worse than wearing no device at all.",
+      "tags": [
+        "Data Overload",
+        "Health Anxiety",
+        "Wearable UX",
+        "AI Interpretation"
+      ],
+      "link": "https://www.aimagicx.com/blog/ai-health-wearables-smart-rings-monitors-guide-2026",
+      "linkText": "AIMagicX",
+      "image": "https://cdn.dribbble.com/userupload/5497626/file/original-b40209fda0ba25b367b02d463917d293.png?resize=752x&vertical=center",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "六月运动 AI 的观察指向一个深层矛盾：数据越多，焦虑越大。ACSM 把可穿戴技术连续排在第一，证明市场需求强劲；但 AIMagicX 的报告揭示了硬币的另一面——每天 500+ 数据点正在制造一代「量化焦虑症」患者。OURA 的成功秘诀不是给更多数据，而是把所有数据压缩成一个 Readiness Score；Whoop 的设计哲学也一样——Recovery Score 是它最核心的界面元素。这说明运动 AI 设计的终极竞争力不是「测量更多」，而是「翻译更好」。2026 年运动 AI 产品最应该借鉴的不是仪表盘设计，而是新闻编辑的能力——从海量信息中提炼出一个标题。注意一个有趣的平行：金融 AI 从图表进化到摘要，运动 AI 从数据进化到分数。两个领域走到了同一个终点：一个数字 + 一段解释 > 一屏图表。",
+      "body_en": "June sports AI observation points to a deep contradiction: more data, more anxiety. ACSM ranks wearable tech #1 consecutively, proving strong demand; but AIMagicX reveals the flip side — 500+ daily data points are creating a generation of 'quantified anxiety' sufferers. OURA's success secret isn't more data but compressing everything into one Readiness Score; Whoop's design philosophy is identical — Recovery Score is its core UI element. This shows sports AI's ultimate competitive advantage isn't 'measure more' but 'translate better.' 2026 sports AI products should learn not from dashboard design but from news editing — distilling a headline from massive information. An interesting parallel: financial AI evolves from charts to summaries, sports AI from data to scores. Both fields arrive at the same destination: one number + one explanation > a screen of charts.",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "MX（Machine Experience）设计 — 2026 年最被低估的设计方向",
+      "body": "UX Pilot 和 UX Collective 同时把 MX（Machine Experience）列为 2026 年最重要的设计趋势之一。MX 不是新名词的炒作——它回答了一个真实问题：当 AI 搜索引擎和智能助手在用户之前读取你的内容时，你的设计需要同时为人类和机器服务。语义化 HTML、结构化数据、清晰的实体关系、可机器解析的内容层级——这些不再是 SEO 锦上添花，而是 AI 时代的可发现性基础设施。最讽刺的是：为机器优化的内容结构，恰恰也是对人类最友好的。",
+      "body_en": "UX Pilot and UX Collective both name MX (Machine Experience) as one of 2026's most important design trends. MX isn't buzzword hype — it answers a real question: when AI search engines and assistants read your content before users do, design must serve both humans and machines. Semantic HTML, structured data, clear entity relationships, machine-parseable content hierarchy — no longer SEO nice-to-haves but AI-era discoverability infrastructure. The irony: content optimized for machines is exactly what's most human-friendly too.",
+      "tags": [
+        "MX Design",
+        "Machine Experience",
+        "Semantic Content",
+        "AI Discoverability"
+      ],
+      "link": "https://uxpilot.ai/blogs/product-design-trends",
+      "linkText": "UX Pilot",
+      "image": "https://cdn.dribbble.com/userupload/46334296/file/84d1ed2927fe621b7d8446de9b6af56b.jpg?resize=1600x1200&vertical=center",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Human Scribble — 反 AI 手绘美学的回归",
+      "body": "VistaPrint 2026 网页设计趋势报告中「Human Scribble」是最引人注目的方向：手绘风格的涂鸦、草稿式的标注、粗糙的笔触——故意不完美的视觉语言。这不是怀旧，是策略。当 AI 能在 3 秒内生成完美的像素级设计时，「明显是人做的」本身就成了品牌差异化。和 Sam Crawford 的「反 AI 无灵魂网站」观点呼应：organic layout、anti-grid 运动、motion narrative 叙事——2026 最有辨识度的设计都在刻意暴露人的痕迹。",
+      "body_en": "VistaPrint 2026 web design trends names 'Human Scribble' as the most striking direction: hand-drawn doodles, draft-style annotations, rough brush strokes — deliberately imperfect visual language. Not nostalgia but strategy. When AI generates pixel-perfect design in 3 seconds, 'obviously human-made' itself becomes brand differentiation. Echoes Sam Crawford's 'anti-AI soulless websites' thesis: organic layouts, anti-grid movement, motion narrative — 2026's most distinctive designs deliberately expose human traces.",
+      "tags": [
+        "Human Scribble",
+        "Anti-AI Aesthetic",
+        "Hand-Drawn",
+        "Brand Differentiation"
+      ],
+      "link": "https://www.vistaprint.com/hub/web-design-trends",
+      "linkText": "VistaPrint",
+      "image": "https://cdn.dribbble.com/userupload/13725739/file/still-58e65ffa656f6783cd915f1cb0945eba.gif?resize=400x0",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Archival Index 美学 — 编辑式排版的结构化复兴",
+      "body": "Sam Crawford 的 2026 web design trends 视频（6 万次播放）提出了「Archival Index Aesthetic」——一种融合了索引目录、档案馆式排版和 editorial 严谨感的设计方向。网格、编号、层级清晰的目录结构、衬线体标题——不是复古，而是在信息过载时代用「结构可见性」建立秩序感。和 MX Design 完美互补：对人类来说是优雅的目录设计，对 AI 来说是清晰的语义结构。形式服务于双重受众。",
+      "body_en": "Sam Crawford's 2026 web design trends video (60K views) introduces 'Archival Index Aesthetic' — a direction blending index catalogues, archival typography, and editorial rigor. Grids, numbering, hierarchically clear directory structures, serif headlines — not retro but using 'structural visibility' to establish order in an info-overloaded era. Perfectly complements MX Design: elegant directory design for humans, clear semantic structure for AI. Form serving dual audiences.",
+      "tags": [
+        "Archival Index",
+        "Editorial Design",
+        "Structural Visibility",
+        "Serif Revival"
+      ],
+      "link": "https://www.youtube.com/watch?v=rFyOIWMwRdg",
+      "linkText": "Sam Crawford / YouTube",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "六月下旬 Content Design 的三个发现汇聚成一个精彩的辩证：MX Design 说「为机器优化你的内容结构」，Human Scribble 说「用手绘痕迹证明你是人」，Archival Index 说「用古典编辑结构创造双重可读性」。矛盾吗？恰恰相反——这三者构成了 2026 年内容设计的完整策略框架。骨架用语义化结构搭建（MX Design），让 AI 能准确理解和引用你的内容；血肉用手绘和不完美纹理填充（Human Scribble），让人类感受到温度和个性；形式用 editorial 排版组织（Archival Index），让结构本身成为美学元素。最讽刺也最深刻的是：为 AI 设计的最佳实践（语义清晰、层级分明）和 100 年前排版师的基本功是同一回事。技术在进化，但好设计的底层逻辑从来没变过——让信息被理解。只不过现在「理解者」不只是人了。",
+      "body_en": "Late June Content Design's three findings converge into a brilliant dialectic: MX Design says 'optimize content structure for machines,' Human Scribble says 'prove you're human with handmade traces,' Archival Index says 'create dual readability through classical editorial structure.' Contradictory? Quite the opposite — these three form 2026 content design's complete strategy framework. Skeleton: semantic structure (MX Design), letting AI accurately understand and cite your content. Flesh: handmade textures and imperfection (Human Scribble), giving humans warmth and personality. Form: editorial typography (Archival Index), making structure itself an aesthetic element. The most ironic and profound truth: best practices for AI (clear semantics, distinct hierarchy) are identical to typographers' fundamentals from 100 years ago. Technology evolves, but good design's underlying logic never changed — making information understood. Only now, the 'understanders' aren't just human anymore.",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 生成的同质化 vs 有意图的设计 — 2026 年视觉设计的身份危机",
+      "body": "think.design 的 2026 趋势报告一针见血：AI 能在几秒内生成 layout，用户同时生活在多个设备上，品牌标识只存在于屏幕上——视觉设计正面临一场存在危机。7 个趋势的共同主题不是「什么好看」而是「什么有意义」。触觉质感回归不是怀旧，是对算法平滑度的反抗；AI 应该用来快速探索方向而非替代判断；人类决定什么符合产品目的和品牌声音。最尖锐的一句话：「问题不是触觉纹理还是 AI 生成系统是否'流行'。」",
+      "body_en": "think.design's 2026 trends report hits the nail: AI generates layouts in seconds, users live across devices simultaneously, brand identities exist only on screens — visual design faces an existential crisis. Seven trends share one theme: not 'what looks good' but 'what means something.' Tactile texture return isn't nostalgia but rebellion against algorithmic smoothness; AI should explore directions quickly, not replace judgment; humans decide what aligns with product purpose and brand voice. Sharpest line: 'The question isn't whether tactile textures or AI-generated systems are in.'",
+      "tags": [
+        "Design Identity Crisis",
+        "Intentional Design",
+        "Anti-Sameness",
+        "AI × Human"
+      ],
+      "link": "https://think.design/blog/design-trends-2026-that-actually-matter",
+      "linkText": "think.design",
+      "image": "https://cdn.dribbble.com/userupload/46797862/file/still-97001c2f52a5da46dea8ac17bf3afb6e.png",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "生成式 AI 设计市场 — 从 10 亿到 169 亿的十年爆发",
+      "body": "Precedence Research 的最新数据：生成式 AI 设计市场 2025 年规模 9.94 亿美元，预计 2035 年达到 168.9 亿美元（CAGR 32.75%）。其中平面设计领域增长最快。但这个数字背后有一个设计行业必须面对的问题：当生成式 AI 让设计资产的边际成本趋近于零，设计师的价值锚点在哪里？Evalueserve 的报告给出了答案：AI 不是设计师的替代品，而是加速器——自动化重复生产、生成符合品牌的变体、在规模化场景下强制执行品牌治理。设计师的角色从「制作者」转向「叙事者、洞察者、体验设计者」。",
+      "body_en": "Precedence Research latest data: generative AI in design market at $994M in 2025, projected to reach $16.9B by 2035 (CAGR 32.75%). Graphic design segment growing fastest. But behind the number, a question the design industry must face: when generative AI drives marginal cost of design assets to near-zero, where is designers' value anchor? Evalueserve's report answers: AI isn't a designer replacement but an accelerator — automating repetitive production, generating on-brand variants, enforcing brand governance at scale. Designer's role shifts from 'maker' to 'narrator, insight provider, experience designer.'",
+      "tags": [
+        "Generative AI Market",
+        "Design Economy",
+        "AI Accelerator",
+        "Value Shift"
+      ],
+      "link": "https://www.precedenceresearch.com/generative-ai-in-design-market",
+      "linkText": "Precedence Research",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Veza Digital — AI UX/UI 设计趋势完全指南",
+      "body": "Veza Digital 的 2026 AI UX/UI 完全指南梳理了五大核心方向：AI 驱动的个性化界面（根据用户行为实时调整 UI）、生成式 AI 资产创作（layout 和视觉元素的自动生成）、对话式 AI 界面（超越 chatbot 的自然交互）、自动化无障碍（AI 自动检测和修复可访问性问题）、预测式 UX 优化（基于数据预判用户下一步操作）。不是趋势预测而是实操指南——每个方向都附带具体的设计模式和实现路径。",
+      "body_en": "Veza Digital's complete 2026 AI UX/UI guide identifies five core directions: AI-driven interface personalization (real-time UI adjustment based on user behavior), generative AI asset creation (auto-generating layouts and visual elements), conversational AI interfaces (beyond chatbot natural interaction), automated accessibility (AI detecting and fixing a11y issues), predictive UX optimization (data-driven anticipation of user next actions). Not trend prediction but practical guide — each direction comes with concrete design patterns and implementation paths.",
+      "tags": [
+        "AI UX Guide",
+        "Personalization",
+        "Predictive UX",
+        "Automated A11y"
+      ],
+      "link": "https://www.vezadigital.com/post/ai-ux-ui-design-trends",
+      "linkText": "Veza Digital",
+      "image": "https://cdn.dribbble.com/userupload/15654254/file/original-2180bd881dc3854e3838d0644ed7217c.png?resize=752x&vertical=center",
+      "date": "2026-06-21"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "六月下旬 Visual for AI 的三个发现画出了一幅完整的行业画像：生成式 AI 设计市场十年膨胀 17 倍（Precedence Research），但最好的设计师和思考者都在说同一件事——AI 不是答案，AI 是问题放大器。think.design 说「有意图的设计」比「AI 生成的设计」重要 100 倍；Veza Digital 的实操指南把 AI 定位为「能力放大器」而非「创意替代品」。这和三月我们讨论的「反 AI 美学」不矛盾，而是同一个主题的进化版：问题不再是「用不用 AI」，而是「AI 做什么，人做什么」。我的判断：2026 下半年最有竞争力的设计团队不是「用 AI 最多」的团队，而是「知道 AI 边界在哪里」的团队。AI 负责生成和探索（广度），人类负责判断和取舍（深度）。市场规模会继续爆炸式增长，但增长的红利会流向那些把 AI 当工具而非当设计师的人。设计的价值从来不在执行速度，而在品味和判断力——这两样东西恰恰是 AI 最不擅长的。",
+      "body_en": "Late June Visual for AI's three findings paint a complete industry portrait: generative AI design market expands 17x in a decade (Precedence Research), but the best designers and thinkers all say the same thing — AI isn't the answer, AI is a problem amplifier. think.design says 'intentional design' is 100x more important than 'AI-generated design'; Veza Digital positions AI as 'capability amplifier' not 'creative replacement.' Not contradicting March's 'anti-AI aesthetics' but evolving the same theme: the question is no longer 'use AI or not' but 'what does AI do, what do humans do.' My judgment: the most competitive H2 2026 design teams won't be those using AI most, but those knowing where AI's boundaries are. AI handles generation and exploration (breadth), humans handle judgment and curation (depth). Market size will keep exploding, but growth dividends flow to those treating AI as tool, not designer. Design's value was never execution speed — it's taste and judgment — precisely the two things AI is worst at.",
+      "date": "2026-06-21"
     }
   ]
 }
