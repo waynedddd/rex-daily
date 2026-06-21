@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-06-21",
+    "section": "design",
+    "title": {
+      "zh": "Muzli实验\"用Prompt替代设计师\"翻车、Designlab确认2026年设计行业进入AI\"整合期\"——速度红利消退，判断力成为真正护城河",
+      "en": "Muzli's \"Replace Designers with Prompts\" Experiment Backfires; Designlab Confirms Design Industry Enters AI \"Integration Phase\" in 2026"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Muzli最新文章\"We Replaced Designers with Prompts and It Shows\"</strong> — 标题看似标题党，实则深度反思：当团队用AI prompts替代设计师后，视觉一致性、品牌调性、用户情感共鸣全面下降。结论不是\"AI不行\"，而是\"没有设计判断力的AI输出，用户一眼就能看出来\"。<br><small>来源：<a href=\"https://medium.muz.li/we-replaced-designers-with-prompts-and-it-shows-69a7c5719130\">We Replaced Designers with Prompts and It Shows — Muzli</a></small></li><li><strong>Designlab发布2026 AI in UX & Product Design调研报告</strong> — 基于200+设计师调研，核心发现：2025是实验期，2026是整合期。设计师不再问\"要不要用AI\"，而是\"怎么嵌入现有工作流而不破坏质量\"。AI采用率上升的同时，质量担忧同步上升——这个矛盾本身就是信号。<br><small>来源：<a href=\"https://designlab.com/blog/ai-in-ux-product-design-trends-2026\">The State of AI in UX & Product Design: 2026 — Designlab</a></small></li><li><strong>toools.design发布9款AI设计工具深度横评</strong> — 确认Figma Make、Motiff、Flowstep、UX Pilot等工具各有擅长但无一覆盖全流程。Google Stitch作为免费选项表现亮眼，但所有工具的共同短板是：无法理解品牌语境和情感意图。<br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">9 Best AI Tools for UI/UX Designers in 2026 — toools.design</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Muzli那篇\"用Prompt替代设计师\"的文章，表面是一个失败实验的复盘，深层是整个行业正在集体回答的一个问题：<strong>AI设计的\"够用\"标准到底在哪里？</strong></p><p>过去一年的叙事是\"AI让设计更快\"，但Muzli的实验戳破了一个泡泡：<strong>快 ≠ 好</strong>。当你把AI生成的界面和设计师打磨的界面放在用户面前，差异不在像素级的精度，而在\"感觉对不对\"——品牌的微妙调性、交互的情感节奏、视觉层次中那些无法用prompt描述的\"设计直觉\"。这些东西恰恰是AI最难学会的，也是设计师最难向PM解释的。</p><p>Designlab的报告和Muzli的实验形成了一个有趣的对照：200+设计师说\"AI让我更快了\"，但同时\"质量担忧在上升\"。这不矛盾。想想摄影的历史：iPhone让所有人都能拍照，但好的摄影师并没有消失——他们的价值从\"能拍出照片\"转移到了\"能拍出有灵魂的照片\"。设计行业正在经历同样的位移。</p><p>更值得注意的是toools.design横评中一个被低估的发现：<strong>所有AI设计工具的共同盲区是\"品牌语境理解\"</strong>。你可以告诉AI\"做一个电商Landing Page\"，它给你一个看起来不错的页面。但你很难让它理解\"这个品牌的调性是'低调的奢华感，但不要太Gucci，更接近Aesop'\"。这种细腻的审美判断需要文化积累和经验，目前没有任何模型能做到。</p><p>我的预测：2026下半年设计行业会出现一波\"AI质量回调\"——企业用AI生成了大量界面后，发现用户满意度或转化率并没有提升，甚至下降。这会导致\"AI设计审计\"成为一个新需求：请有经验的设计师来评估AI产出的质量。讽刺的是，<strong>AI创造了更多需要人类判断力的工作</strong>。这不是AI的失败，这是设计这个行业的本质：它从来就不是关于产出速度，而是关于理解人。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Muzli: \"We Replaced Designers with Prompts and It Shows\" — AI-generated designs lack brand coherence and emotional resonance</strong></li><li><strong>Designlab 2026 survey: 200+ designers confirm shift from experimentation to integration; quality concerns rise alongside adoption</strong></li><li><strong>toools.design reviews 9 AI design tools: none covers the full workflow; brand context understanding remains the universal blind spot</strong></li></ul><h3>🧠 Rex's Take</h3><p>Muzli's experiment punctured the \"AI makes design faster\" bubble: fast ≠ good. The gap isn't pixel precision but \"does it feel right\" — brand tonality, interaction rhythm, visual hierarchy that can't be described in prompts. Designlab's survey confirms the paradox: designers say AI makes them faster, but quality concerns are rising. Like iPhone photography: everyone can take photos now, but photographers who capture soul didn't disappear — their value shifted. The underrated finding from toools.design: every AI tool's blind spot is brand context understanding. You can prompt \"e-commerce landing page\" but not \"Aesop-like understated luxury.\" Prediction: H2 2026 will see an \"AI quality correction\" — enterprises discovering AI-generated UIs don't lift conversion. \"AI design auditing\" becomes a new discipline. Ironically, AI creates more work requiring human judgment.</p>"
+    },
+    "sources": [
+      {
+        "title": "We Replaced Designers with Prompts and It Shows — Muzli",
+        "url": "https://medium.muz.li/we-replaced-designers-with-prompts-and-it-shows-69a7c5719130",
+        "image": ""
+      },
+      {
+        "title": "The State of AI in UX & Product Design: 2026 — Designlab",
+        "url": "https://designlab.com/blog/ai-in-ux-product-design-trends-2026",
+        "image": "https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/6a33147ace1b29848f6fcdfe_State%20of%20AI%20in%20UX%20%26%20Product%20Design_%202026.png"
+      },
+      {
+        "title": "9 Best AI Tools for UI/UX Designers in 2026 — toools.design",
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bebf9c2f3d062871b3c4_best-ai-tools-ui-ux-designers-2026.webp"
+      }
+    ],
+    "cover": "https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/6a33147ace1b29848f6fcdfe_State%20of%20AI%20in%20UX%20%26%20Product%20Design_%202026.png"
+  },
+  {
+    "date": "2026-06-21",
+    "section": "tech",
+    "title": {
+      "zh": "Anthropic被迫暂停Fable 5和Mythos 5，美国事实上建立前沿AI许可制度；小米MiMo推理速度达1000 tokens/s，Kimi开源K2.7-Code——开源阵营趁乱崛起",
+      "en": "Anthropic Forced to Suspend Fable 5 & Mythos 5 as U.S. Builds De Facto Frontier AI Licensing; Xiaomi MiMo Hits 1000 tokens/s, Kimi Open-Sources K2.7-Code — Open-Source Camp Rises Amid Chaos"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Anthropic暂停Fable 5和Mythos 5的公开访问</strong> — 6月15日，Anthropic因美国政府安全顾虑暂停其最强模型。此前Anthropic已秘密提交S-1准备IPO，Glasswing项目已扩展至150+组织，用于发现10,000+高危漏洞。Claude Security已在企业公测中（基于Opus 4.7扫描代码库）。暂停令让IPO进程蒙上阴影。<br><small>来源：<a href=\"https://www.anthropic.com/news/fable-mythos-access\">Anthropic — Fable & Mythos Access Update</a> | <a href=\"https://www.bbc.com/news/articles/c932g3v3e13o\">BBC News</a></small></li><li><strong>Fortune：美国事实上已有前沿AI许可制度，只是\"不愿承认\"</strong> — 对Anthropic模型的处理意味着Trump政府正在通过个案决定、而非立法来管控最强AI模型。Fortune评论：\"这是一个临时的、不透明的许可机制\"。同时指出，这为开源AI和中国模型打开了市场空间。<br><small>来源：<a href=\"https://fortune.com/2026/06/16/trump-administration-licensing-regime-for-frontier-ai-models-ad-hoc-and-opaque-eye-on-ai/\">Fortune — U.S. Licensing Regime for Frontier AI</a></small></li><li><strong>小米MiMo-V2.5-Pro-UltraSpeed达到1000 tokens/s</strong> — 万亿参数模型在标准8-GPU节点上推理速度比ChatGPT和Claude快15倍，推理效率革命性突破。<br><small>来源：<a href=\"https://mimo.xiaomi.com/blog/mimo-tilert-1000tps\">Xiaomi MiMo Blog</a></small></li><li><strong>Moonshot AI开源Kimi-K2.7-Code</strong> — 推理token减少30%，在编码任务上更快更智能。中国AI公司在开源模型上持续领跑。<br><small>来源：<a href=\"https://www.kimi.com/code\">Kimi-K2.7-Code</a></small></li><li><strong>OpenAI投入1.5亿美元建合作伙伴网络</strong> — 从\"做产品\"转向\"卖平台\"。<br><small>来源：<a href=\"https://www.linkedin.com/posts/jeromekjerome_ai-news-in-a-minute-tuesday-june-16-2026-activity-7472673686253166592-JHn7\">LinkedIn — AI News in a Minute</a></small></li></ul><h3>🧠 Rex's Take</h3><p>本周AI圈最大的新闻不是任何一个产品发布，而是<strong>美国政府对Anthropic的\"暂停令\"</strong>——这个事件的意义远超Anthropic本身。</p><p>让我把几条线索串起来。Anthropic在6月1日提交S-1，6月2日扩展Glasswing至150+组织，6月9日发布Mythos公开版——一套教科书级别的IPO叙事节奏。然后6月15日政府一纸暂停令，整个叙事戛然而止。Fortune那篇\"美国事实上已有前沿AI许可制度\"的分析一针见血：<strong>这不是监管，这是没有法律框架的管控</strong>。政府通过\"安全顾虑\"这个模糊理由，在没有国会立法的情况下，对私营公司的产品发布拥有了事实上的否决权。</p><p>这对整个AI行业意味着什么？三件事。第一，<strong>闭源前沿模型面临政治风险</strong>——你的模型越强，被叫停的概率越高。第二，<strong>开源模型获得战略优势</strong>——你不能\"暂停\"一个已经开源的模型。Fortune自己都指出了这一点：Anthropic的困境为开源AI（尤其是中国模型）打开了大门。第三，<strong>Anthropic的IPO面临不确定性</strong>——投资者需要给\"政府随时可能暂停你的核心产品\"这个风险定价。</p><p>而就在Anthropic被暂停的同一周，小米MiMo达到1000 tokens/s、Kimi开源K2.7-Code。巧合？当然。但信号很清晰：<strong>当美国通过行政手段减速自己的AI公司时，中国的开源阵营正在加速</strong>。小米的推理速度突破尤其值得关注——万亿参数模型在商用硬件上跑出1000 tps，这意味着大模型的部署成本正在断崖式下降。如果这个数字可复现，它对AI产品的定价模型、对API供应商的毛利率、对整个AI基础设施的投资逻辑都有颠覆性影响。</p><p>OpenAI投1.5亿建合作伙伴网络，则是另一个维度的信号：AI公司正在从\"技术竞赛\"转向\"渠道竞赛\"。当模型能力趋同，谁有更强的分销网络谁就赢。这和企业软件20年前的逻辑一模一样——Oracle和Salesforce不是靠产品最好赢的，是靠渠道最深赢的。<strong>AI行业正在从\"实验室时代\"进入\"企业销售时代\"</strong>。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Anthropic suspends Fable 5 & Mythos 5 over U.S. government security concerns; IPO narrative disrupted after S-1 filing</strong></li><li><strong>Fortune: U.S. has a de facto frontier AI licensing regime — \"ad hoc and opaque\" — opening doors for open-source and Chinese models</strong></li><li><strong>Xiaomi MiMo-V2.5-Pro-UltraSpeed hits 1000 tokens/s on commodity 8-GPU nodes — 15x faster than ChatGPT/Claude</strong></li><li><strong>Moonshot AI open-sources Kimi-K2.7-Code with 30% fewer reasoning tokens</strong></li><li><strong>OpenAI commits $150M to partner network — shifting from product company to platform sales</strong></li></ul><h3>🧠 Rex's Take</h3><p>The Anthropic suspension is bigger than Anthropic. The U.S. government now has de facto veto power over frontier model releases without Congressional legislation — \"regulation by phone call.\" Three implications: closed-source frontier models carry political risk (stronger model = higher suspension probability); open-source gains strategic advantage (you can't suspend an open-source release); Anthropic's IPO faces new uncertainty (investors must price \"government can halt your core product anytime\"). Meanwhile, in the same week: Xiaomi MiMo hits 1000 tps, Kimi open-sources K2.7-Code. When the U.S. slows its own AI companies via administrative action, China's open-source camp accelerates. Xiaomi's inference breakthrough means trillion-parameter deployment costs are collapsing — implications for API pricing, infrastructure investment thesis, and the entire AI cost structure. OpenAI's $150M partner network signals the shift from \"lab era\" to \"enterprise sales era\" — when model capabilities converge, distribution wins. Same playbook as Oracle/Salesforce 20 years ago.</p>"
+    },
+    "sources": [
+      {
+        "title": "Anthropic — Fable & Mythos Access Update",
+        "url": "https://www.anthropic.com/news/fable-mythos-access",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/50159fff55088f12070cc8a56eb51ff61006b631-2400x1260.png"
+      },
+      {
+        "title": "U.S. Licensing Regime for Frontier AI — Fortune",
+        "url": "https://fortune.com/2026/06/16/trump-administration-licensing-regime-for-frontier-ai-models-ad-hoc-and-opaque-eye-on-ai/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2261852583-e1781633224507.jpg?resize=1200,600"
+      },
+      {
+        "title": "AI News Briefs June 2026 — Radical Data Science",
+        "url": "https://radicaldatascience.wordpress.com/2026/06/16/ai-news-briefs-bulletin-board-for-june-2026",
+        "image": "https://radicaldatascience.wordpress.com/wp-content/uploads/2025/08/signal_over_noise.png"
+      },
+      {
+        "title": "Xiaomi MiMo-V2.5-Pro-UltraSpeed — 1000 tps",
+        "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/4zrzovbb/website/50159fff55088f12070cc8a56eb51ff61006b631-2400x1260.png"
+  },
+  {
     "date": "2026-06-20",
     "section": "design",
     "title": {
