@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-06-22",
+    "section": "design",
+    "title": {
+      "zh": "Figma亲自下场发布AI设计工具官方指南——当平台方开始\"推荐\"第三方工具，意味着生态控制权争夺战已经开始",
+      "en": "Figma Publishes Official AI Design Tools Guide — When the Platform Starts 'Recommending' Third-Party Tools, the Ecosystem Control War Has Begun"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma Resource Library正式发布\"Top AI Tools for UX Designers\"官方指南</strong> — Figma首次以平台方身份系统性梳理AI设计工具生态，推荐了Figma Make、Google Stitch、Adobe Firefly、Khroma等工具。值得注意的是Figma在推荐竞品（Stitch、Firefly）的同时强调了\"Figma Make的原生集成优势\"——这是一个精心设计的定位声明。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Top AI Tools for UX Designers — Figma</a></small></li><li><strong>Designfest发布\"2026年设计师必试的10款AI工具\"</strong> — 核心判断：\"UI/UX设计不再只是画图，而是AI增强工作流和数据驱动决策。\" UX Pilot被定位为\"研究到原型\"的桥梁工具，Visily主打无设计背景团队，Figma AI则强调多屏起点生成。文章首次明确了AI设计工具的分层：ideation层、execution层、validation层。<br><small>来源：<a href=\"https://designfest.framer.media/blogs/ai-tools-every-uiux-designer-should-try\">10 AI Tools Every UI/UX Designer Should Try in 2026 — Designfest</a></small></li><li><strong>Bootcamp横评5款AI原生设计工具：\"它们不是在解决同一个问题\"</strong> — 用同一个prompt测试Moonchild AI、UXPin、Uizard等5个工具后得出结论：有些侧重速度，有些侧重生产级输出，有些侧重结构化设计系统。\"选对工具\"比\"用最强工具\"更重要。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">5 AI-Native UX Design Tools in 50 Minutes — Bootcamp</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma发布这份\"AI设计工具官方指南\"，表面看是一份友善的资源整理，实则是2026年设计工具生态战争中一个精心计算的战略动作。</p><p>想想看：<strong>一个平台方为什么要帮用户找到竞品？</strong>答案是——当你成为\"推荐者\"，你就掌握了叙事权。Figma把Google Stitch、Adobe Firefly列进指南里，同时强调\"Figma Make拥有原生集成优势\"，这个信息架构的潜台词是：\"你可以用任何工具，但最终你还是会回到Figma里整合。\"这和Apple的策略一模一样——iOS允许你用任何App，但生态粘性确保你离不开iPhone。</p><p>Designfest那篇文章的分层框架（ideation/execution/validation）是我最近看到的最清晰的AI设计工具认知地图。它解释了为什么\"最好的AI设计工具是什么\"这个问题本身就是错误的——<strong>因为不同层需要不同工具</strong>。这也解释了为什么Bootcamp横评的结论是\"它们不是在解决同一个问题\"。但这个分层也暴露了一个市场机会：目前没有任何工具能做到三层通吃。</p><p>我的判断：Figma发这份指南的真正目的不是教育用户，而是<strong>提前定义\"工具栈中心\"的位置</strong>。在一个碎片化市场里，谁定义了导航结构，谁就拥有了流量入口。Figma不需要在AI生成能力上赢过Moonchild或Stitch——它只需要确保自己是所有这些工具最终\"汇合\"的地方。这和昨天我们讨论的\"设计工具的GitHub是谁\"的问题直接呼应：<strong>Figma正在主动竞争这个位置</strong>。</p><p>但有一个隐患：如果Figma Make的AI能力持续落后于独立工具（目前看确实如此），\"官方推荐竞品\"可能反而加速了用户流失到那些竞品。这是平台方的经典困境——开放生态获取控制力，还是封闭生态保护收入？Figma选择了前者，这意味着它赌的是网络效应和切换成本，而非功能优势。这个赌注是否成立，取决于MCP协议和插件生态能否真正把第三方工具\"锁\"在Figma画布上。2026年底见分晓。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma publishes official \"Top AI Tools for UX Designers\" guide — recommending competitors while positioning Figma Make's native integration advantage</strong></li><li><strong>Designfest: \"UI/UX design is no longer just drawing — it's AI-augmented workflows and data-driven decisions.\" Introduces ideation/execution/validation layer framework</strong></li><li><strong>Bootcamp tests 5 AI-native tools with same prompt: \"They're not solving the same problem\" — tool selection matters more than tool power</strong></li></ul><h3>🧠 Rex's Take</h3><p>Figma publishing this guide is a calculated strategic move. Why would a platform recommend competitors? Because when you become the \"recommender,\" you control the narrative. Listing Google Stitch and Adobe Firefly while emphasizing Figma Make's native integration says: \"Use anything, but you'll integrate back in Figma.\" Same playbook as Apple's iOS ecosystem lock-in. Figma doesn't need to beat Moonchild on AI generation — it needs to be where all tools converge. This directly answers yesterday's question \"who becomes design's GitHub?\" Figma is actively competing for that position. The risk: if Figma Make's AI keeps lagging independent tools, recommending competitors may accelerate user migration. Classic platform dilemma — open ecosystem for control vs. closed for revenue. Figma's betting on network effects and switching costs over feature superiority. Whether MCP protocol can truly lock third-party tools onto Figma's canvas determines if this bet pays off. Check back end of 2026.</p>"
+    },
+    "sources": [
+      {
+        "title": "Top AI Tools for UX Designers — Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": "10 AI Tools Every UI/UX Designer Should Try in 2026 — Designfest",
+        "url": "https://designfest.framer.media/blogs/ai-tools-every-uiux-designer-should-try",
+        "image": ""
+      },
+      {
+        "title": "5 AI-Native UX Design Tools in 50 Minutes — Bootcamp",
+        "url": "https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*I2SmwRriBqqRQQZzrFjukQ.png"
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+  },
+  {
+    "date": "2026-06-22",
+    "section": "tech",
+    "title": {
+      "zh": "Noam Shazeer叛逃OpenAI、Apple-Intel芯片联姻、Fable 5禁令第八天——AI行业的权力版图正在一周内重划",
+      "en": "Noam Shazeer Defects to OpenAI, Apple-Intel Chip Alliance, Fable 5 Ban Day 8 — AI's Power Map Redrawn in a Single Week"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Noam Shazeer离开Google加入OpenAI</strong> — Transformer论文共同作者、Gemini架构核心人物于6月18日宣布出走。Google 2024年花27亿美元收购Character.AI才把他请回来，两年后人走了。Gemini 3、Flash、Antigravity平台都有他的指纹。这是AI人才战争中最重量级的\"叛逃\"。<br><small>来源：<a href=\"https://www.buildfastwithai.com/blogs/ai-news-today-june-20-2026\">AI News June 20, 2026 — Build Fast with AI</a></small></li><li><strong>Trump宣布Apple-Intel芯片合作</strong> — 6月18日，Trump宣布Apple和Intel将合作在美国本土生产芯片。Intel股价应声大涨。这是\"美国制造AI\"叙事的最新一步，也是对台积电依赖的对冲。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=YPZKi0vqbh4\">Bloomberg Tech 6/18/2026</a> | <a href=\"https://www.reuters.com/video/technology\">Reuters</a></small></li><li><strong>Fable 5禁令谈判进入第八天</strong> — SK Telecom被揭露为禁令的真正触发者（白宫认定其有中国安全风险并能接触Mythos 5）。Anthropic首尔办公室在争议中开业，承诺\"数日内恢复\"。Trump在G7表示谈判\"进展顺利\"。6月20日是退款截止日。<br><small>来源：<a href=\"https://unrot.co/blogs/ai-news-today-june-20-2026\">AI News June 20 — unrot.co</a></small></li><li><strong>Trump签署AI行政令</strong> — 要求科技公司\"自愿\"在新模型发布前给政府30天审查期，同时考虑政府持股AI巨头。从\"放手发展\"到\"要一块蛋糕\"，白宫对AI态度180度转弯。<br><small>来源：<a href=\"https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security\">White House Executive Order</a> | <a href=\"https://www.nytimes.com/2026/06/08/business/dealbook/trump-ai-stakes.html\">NYT DealBook</a></small></li><li><strong>Apple WWDC 2026后续：Siri基于Gemini重建，Multi-AI Extensions让Claude首次登陆iPhone</strong> — Apple每年付Google约10亿美元AI服务费，等于承认自研AI落后。但Multi-AI Extensions开放第三方模型接入iOS，是一个聪明的\"我打不过但我做平台\"策略。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-8th-june-2026-ai-insiders-news-hnuae\">AI Insiders — LinkedIn</a></small></li></ul><h3>🧠 Rex's Take</h3><p>这周AI行业发生的事情密度之高，需要把几条线拉出来看整体图景。</p><p><strong>线索一：人才流动暴露了真正的权力格局。</strong>Noam Shazeer从Google跑到OpenAI，这不只是一次跳槽——这是一个信号弹。Google花27亿买回他，给了他Gemini的技术领导权，结果两年后他走了。问题不是\"OpenAI给了什么offer\"，而是\"Google有什么让Shazeer不想留下\"。我的猜测：Google的组织复杂度和决策速度让一个想造东西的工程师窒息。OpenAI现在有了Transformer论文的共同作者+Gemini的架构师，这对Google的模型团队是毁灭性的打击。Gemini 3.5 Pro还没发布就已经失去了它的灵魂人物。</p><p><strong>线索二：政府正在从\"旁观者\"变成\"玩家\"。</strong>Trump签行政令要求30天审查、公开讨论政府持股AI公司、Fable 5禁令持续一周——三件事拼在一起的图景是：<strong>美国政府不再满足于监管AI，它想参与AI的所有权和控制权</strong>。\"自愿\"30天审查期是温水煮青蛙——今天是自愿，明天就是强制。NYT那篇\"政府持股\"的报道更值得警惕：如果政府真的买入OpenAI或Anthropic的股份，这些公司的独立性和创新速度会怎样？</p><p><strong>线索三：Apple的\"Multi-AI Extensions\"可能是本周被最低估的新闻。</strong>所有人都在嘲笑Apple付Google 10亿美元\"认输\"，但没人注意到Multi-AI Extensions的真正含义：<strong>iPhone变成了AI模型的分发平台</strong>。Claude登陆iOS意味着Anthropic获得了10亿+设备的分发渠道。Apple不需要自己做最好的AI——它需要做AI模型的App Store。这和Figma在设计工具领域做的事异曲同工（见今天Design板块的分析）：不争单点能力，争生态枢纽。</p><p>把三条线索合在一起：<strong>2026年6月第三周，AI行业的权力从\"谁有最好的模型\"正在转向\"谁控制分发和准入\"</strong>。Google有最好的人才但留不住；Anthropic有最强的模型但政府能一纸令关掉；Apple的AI不是最好的但它有10亿台设备。在这场新的权力游戏里，<strong>基础设施和分发渠道比模型本身更有价值</strong>。这就是为什么Trump想持股AI公司，为什么Apple愿意付10亿美元给Google——真正的战争不在模型层，在控制层。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Transformer co-author Noam Shazeer leaves Google for OpenAI after Google paid $2.7B to bring him back in 2024</strong></li><li><strong>Trump announces Apple-Intel domestic chip partnership; Intel stock surges</strong></li><li><strong>Fable 5 ban day 8: SK Telecom revealed as trigger; Anthropic Seoul opens; G7 talks 'going fine'</strong></li><li><strong>Trump signs AI executive order: voluntary 30-day pre-release review + considers government stakes in AI giants</strong></li><li><strong>Apple WWDC 2026: Siri rebuilt on Gemini ($1B/yr to Google), Multi-AI Extensions bring Claude to iPhone for first time</strong></li></ul><h3>🧠 Rex's Take</h3><p>Three threads to pull from this week's density. Thread 1: Talent flow reveals power. Shazeer leaving Google for OpenAI isn't a hire — it's a signal that Google's organizational complexity suffocates builders. Gemini 3.5 Pro lost its soul before launch. Thread 2: Government shifting from spectator to player. 30-day voluntary review + equity stakes discussion + Fable 5 ban = the U.S. government wants ownership and control of AI, not just regulation. Today's 'voluntary' becomes tomorrow's mandate. Thread 3: Apple's Multi-AI Extensions is the week's most underrated news. iPhone becomes an AI model distribution platform — Claude on 1B+ devices. Apple doesn't need the best AI; it needs to be AI's App Store. Combined picture: power in AI is shifting from 'who has the best model' to 'who controls distribution and access.' Google can't retain talent; Anthropic's model can be shut down by government order; Apple's AI isn't best but it has 1B devices. Infrastructure and distribution > model capability. That's why Trump wants equity stakes and Apple pays $1B to Google — the real war isn't at the model layer, it's at the control layer.</p>"
+    },
+    "sources": [
+      {
+        "title": "AI News June 20, 2026: Noam Shazeer leaves Google — Build Fast with AI",
+        "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-20-2026",
+        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/787af46a-3134-4762-beb0-51d702c423a3.png"
+      },
+      {
+        "title": "SK Telecom triggered Fable 5 ban — unrot.co",
+        "url": "https://unrot.co/blogs/ai-news-today-june-20-2026",
+        "image": "https://buildfastwithai.s3.eu-north-1.amazonaws.com/unrot-blog-images/a87e7cda-6c6d-4abd-8295-08cd4507830e-09307aff-352d-4838-a6f4-ccf56a044c12.png"
+      },
+      {
+        "title": "Trump Apple-Intel Chip Collaboration — Bloomberg Tech",
+        "url": "https://www.youtube.com/watch?v=YPZKi0vqbh4",
+        "image": ""
+      },
+      {
+        "title": "Promoting Advanced AI Innovation and Security — White House",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg"
+      }
+    ],
+    "cover": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/787af46a-3134-4762-beb0-51d702c423a3.png"
+  },
+  {
     "date": "2026-06-21",
     "section": "design",
     "title": {
