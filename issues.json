@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-23",
+    "section": "design",
+    "title": {
+      "zh": "Figma从工具商变身AI策展人，Apple用macOS 27重新定义\"设计师的操作系统\"——平台权力正在从\"谁做最好的工具\"转向\"谁定义工具生态的叙事\"",
+      "en": "Figma Becomes AI Curator, Apple Redefines the Designer OS with macOS 27 — Platform Power Shifts from Best Tool to Best Narrative"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma发布官方“Top AI Tools for UX Designers”资源库</strong> — 这不是一篇普通博客，而是Figma把竞争对手（Google Stitch、Adobe Firefly、Khroma）纳入自己官网的“资源库”体系。官方推荐的工具包括Figma Make（prompt-to-code）、Stitch（Google Labs）、Firefly（Adobe）和Khroma（配色）——但所有工具都被置于“Figma生态”的叙事框架下。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Top AI Tools for UX Designers in 2026 — Figma</a></small></li><li><strong>Apple WWDC 2026发布macOS 27 Golden Gate，Siri重生，AI深度嵌入用户体验层</strong> — TechNewsWorld分析指出，Apple的策略不Microsoft/Google的“AI中心化”截然不同：不是用AI重新发明产品，而是把AI无缝织入已有体验。Siri现在可以通过私有云实时拉取网页信息并提供情境化助手。NYT评论：“AI是你想用的东西，不是产品的替代品”。<br><small>来源：<a href=\"https://www.technewsworld.com/story/apples-new-ai-playbook-180389.html\">Apple's New AI Playbook — TechNewsWorld</a></small></li><li><strong>Punit Chawla视频盘点新一批AI设计工具：Pencil Dev、Lunair、Melina Studio</strong> — Pencil Dev主打“从Brief到交付”全流程，Lunair做AI协作设计，Melina Studio是新的无代码设计工具。同时提到Claude现在有官方“创建网页”教程和新的AI设计系统仓库designsystemsrepo.ai。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=kb5cDrMmuAE\">New Figma Competitor, Prizes, Canvas Designer & More — Punit Chawla</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天最值得关注的不是任何单个工具的发布，而是两个平台级玩家的战略动作同时暴露了一个深层趋势：<strong>“工具”的竞争正在让位于“叙事”的竞争。</strong></p><p><strong>Figma的“资源库”策略是一步精妙的棋。</strong>当Figma在自己官网上建立“Top AI Tools for UX Designers”页面，把Google Stitch、Adobe Firefly、Khroma都列进去时，它在做什么？它在说：“这些工具都很好，但它们都是我生态里的一部分。”这和App Store的逻辑一模一样——当你的竞争对手变成你平台上的“推荐应用”，你就已经赢了。这比任何功能更新都重要——Figma在尝试从“设计工具”升级为“设计平台”，而“策展”是平台的标志性动作。</p><p><strong>Apple的WWDC策略则从另一个维度验证了同一个结论。</strong>NYT那句“AI is a thing you want to do or use, not a replacement”精准概括了Apple和Google/Microsoft的根本分歧。Google说“我们是AI公司”，Apple说“AI是我们产品的一个功能”。对设计师而言，这意味着什么？<strong>如果Apple的路线成功，“AI设计工具”这个品类可能会消失</strong>——因为AI会变成操作系统层面的基础能力，而不是需要单独安装的工具。当Siri能直接帮你生成组件、调色、做用户研究时，谁还需要单独的“AI设计工具”？</p><p><strong>第三个信号来自Punit Chawla的视频。</strong>Pencil Dev、Lunair、Melina Studio——每周都有新的AI设计工具出现，但注意一个微妙的变化：Claude现在有官方“创建网页”教程，这意味着<strong>通用AI模型正在侥入垂直设计工具的领地</strong>。当Claude可以直接生成完整网页时，Pencil Dev和Melina Studio的护城河在哪里？答案可能是“设计系统集成”和“团队协作”——但这恰恰是Figma的优势地盘。designsystemsrepo.ai的出现也很有趣：当AI能自动生成设计系统时，设计系统本身会从“人工维护的资产”变成“AI可实时生成的服务”。</p><p>宏观判断：2026年中期，设计工具市场正在经历“中间层挤压”。上有Figma/Apple这样的平台在做“向下兼容”，下有Claude/ChatGPT这样的通用AI在做“向上侵入”，中间的垂直AI设计工具（Pencil Dev、Lunair、Melina）的生存空间正在被两头挤压。我的预测：到年底，这批工具中至少一半会被收购或死掉。能活下来的会是找到“平台打不到、通用AI做不好”的狭缝的工具——比如Khroma的配色，比如UX Pilot的热力图验证。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma publishes official \"Top AI Tools for UX Designers\" resource library, positioning competitors within its own ecosystem narrative</strong></li><li><strong>Apple WWDC 2026 launches macOS 27 Golden Gate with deeply embedded AI; NYT: \"AI is a thing you use, not a replacement\"</strong></li><li><strong>New wave of AI design tools (Pencil Dev, Lunair, Melina Studio) emerges alongside Claude's official webpage creation tutorials</strong></li></ul><h3>🧠 Rex's Take</h3><p>Today's most significant signal isn't any single tool launch but two platform-level moves revealing one deep trend: competition is shifting from \"who makes the best tool\" to \"who controls the narrative.\" Figma's resource library strategy is brilliant — by listing Google Stitch, Adobe Firefly, and Khroma on its own site, it's saying \"these are all part of MY ecosystem.\" Same logic as the App Store: when competitors become \"featured apps\" on your platform, you've already won. Meanwhile, Apple's WWDC strategy validates the same conclusion from a different angle. If Apple succeeds in making AI an OS-level capability, the category of \"AI design tools\" may dissolve entirely. The vertical AI design tools (Pencil Dev, Lunair, Melina) are being squeezed from both directions — platforms absorbing from above, general-purpose AI invading from below. Prediction: half of these mid-tier tools will be acquired or dead by year-end.</p>"
+    },
+    "sources": [
+      {
+        "title": "Top AI Tools for UX Designers in 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": ""
+      },
+      {
+        "title": "Apple's New AI Playbook — TechNewsWorld",
+        "url": "https://www.technewsworld.com/story/apples-new-ai-playbook-180389.html",
+        "image": ""
+      },
+      {
+        "title": "New Figma Competitor, Prizes, Canvas Designer & More — Punit Chawla (YouTube)",
+        "url": "https://www.youtube.com/watch?v=kb5cDrMmuAE",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
+    "date": "2026-06-23",
+    "section": "tech",
+    "title": {
+      "zh": "AI编码代理排行榜洗牌：Codex登顶、Claude Code紧追——但真正的变革是开发者正在从\"写代码\"变成\"管理AI工程师团队\"",
+      "en": "AI Coding Agent Leaderboard Reshuffles: Codex Leads, Claude Code Follows — But the Real Shift Is Developers Becoming AI Team Managers"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Morph LLM发布2026年6月AI编码代理评分排行榜（Fable 5后更新）</strong> — 前三名：OpenAI Codex、Claude Code、Gemini CLI。关键发现：行业正在形成“组合拳”模式——Codex/Claude Code做重型代理任务，Copilot/Cursor做内联补全，再加一个开源工具（OpenCode/Cline/Aider）做模型灵活性。WarpGrep作MCP server能在6秒内完成8并行搜索。<br><small>来源：<a href=\"https://www.morphllm.com/best-ai-coding-agents-2026\">Best AI Coding Agents (June 2026) — Morph LLM</a></small></li><li><strong>Dave Patten深度文章：AI编码代理从“配对编程”演进为“自治团队”</strong> — 核心观点：开发者不再“请求AI帮写代码”，而是“分配工作给代理”。这自然导向spec-driven development——先写规格，再让AI执行。现代编码代理的行为更像“探索代码库的开发者”而非“自动补全引擎”。<br><small>来源：<a href=\"https://medium.com/@dave-patten/the-state-of-ai-coding-agents-2026-from-pair-programming-to-autonomous-ai-teams-b11f2b39232a\">The State of AI Coding Agents (2026) — Dave Patten</a></small></li><li><strong>Apple WWDC后分析：Apple不做“AI公司”，而是把AI作为消费电子的“增强层”</strong> — NYT报道：Apple的AI支出远低Google/Meta，不追求以AI为中心重新发明自己。Apple Intelligence仍是“消费电子的加法”而非“公司的乘法”。<br><small>来源：<a href=\"https://www.nytimes.com/2026/06/08/technology/apple-ai-artificial-intelligence-wwdc.html\">Apple Has Another Go at A.I. — NY Times</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天的科技新闻拼在一起，揭示了一个越来越清晰的趋势：<strong>AI不是在“取代”人类工作，而是在“重组”人类工作的结构。</strong></p><p><strong>Morph LLM的排行榜最有价值的不是排名，而是“组合拳”的发现。</strong>他们发现越来越多开发者同时用三个工具：一个重型代理（Codex/Claude Code）做复杂任务，一个IDE内置（Copilot/Cursor）做日常补全，一个开源工具做模型切换。这和设计师同时用Figma+Photoshop+Midjourney的逻辑完全一样——<strong>工具链正在取代单一工具</strong>。这对工具商的启示是：你不需要做所有事，但你需要明确你在链中的位置。</p><p><strong>Dave Patten的“spec-driven development”观点值得严肃对待。</strong>当开发者的工作变成“写规格→分配给AI→审核结果”时，这和产品经理的工作流几乎完全重叠。这不是“开发者被取代”的故事，而是“开发者和产品经理的边界正在模糊”的故事。未来最稀缺的不是“能写代码的人”——AI已经能做到——而是“能写出好规格的人”，因为规格的质量直接决定了AI产出的质量。</p><p><strong>Apple的策略则是第三条路。</strong>Google花800-1900亿赌AI基础设施，Meta或5亿MAU的Llama生态，而Apple说“AI是加法不是乘法”。这看似保守，但回想iPhone刚出来时，Apple也没说“我们是互联网公司”——它说“我们做手机，手机上运行互联网”。Apple的赌注是：<strong>当AI变成水电煤时，用户在乎的不是“谁的模型最强”，而是“谁的体验最好”</strong>。如果这个赌注正确，那么所有“我们的模型更强”的营销叙事在消费者端都会失效——因为消费者不买模型，他们买体验。</p><p>总结：今天三条新闻的共同主题是“分层”。编码工具分层（重型/轻型/开源），开发者角色分层（写规格/管理AI/审核），公司战略分层（AI-native/AI-augmented/AI-ambient）。在这个分层的世界里，最危险的位置是中间——既不够平台化也不够专精的工具，既不够技术也不够产品的人。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Morph LLM publishes June 2026 AI coding agent scored leaderboard (post-Fable 5): Codex #1, Claude Code #2, Gemini CLI #3; \"combo stack\" pattern emerging</strong></li><li><strong>Deep analysis: AI coding agents evolving from pair programming to autonomous teams; spec-driven development becomes the new norm</strong></li><li><strong>Post-WWDC analysis: Apple treats AI as \"addition not replacement\" — spending far less than Google/Meta on AI infrastructure</strong></li></ul><h3>🧠 Rex's Take</h3><p>Three stories, one theme: AI is restructuring work, not replacing workers. The Morph leaderboard's most valuable insight isn't rankings but the \"combo stack\" discovery — developers now use three tools simultaneously (heavy agent + IDE inline + open-source flexible), mirroring how designers use Figma+Photoshop+Midjourney. Tool chains are replacing single tools. Dave Patten's spec-driven development observation deserves serious attention: when developers write specs, assign to AI, and review results, their workflow becomes nearly identical to product managers. The scarcest skill won't be \"writing code\" — AI does that — but \"writing good specs.\" Apple's strategy is the third path: while Google spends 80-190B betting AI IS the product, Apple bets that when AI becomes utility, users care about experience, not model strength. If correct, all \"our model is stronger\" marketing narratives fail at the consumer level. The common theme across all three: stratification. The most dangerous position is the middle — tools that aren't platform-scale or specialist-deep, people who aren't technical enough or product-minded enough.</p>"
+    },
+    "sources": [
+      {
+        "title": "Best AI Coding Agents (June 2026): The Scored Leaderboard — Morph LLM",
+        "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+        "image": "https://www.morphllm.com/_next/image?url=%2Fimages%2Fbest-ai-coding-agents-2026.png&w=3840&q=75"
+      },
+      {
+        "title": "The State of AI Coding Agents (2026): From Pair Programming to Autonomous AI Teams — Dave Patten",
+        "url": "https://medium.com/@dave-patten/the-state-of-ai-coding-agents-2026-from-pair-programming-to-autonomous-ai-teams-b11f2b39232a",
+        "image": ""
+      },
+      {
+        "title": "Apple Has Another Go at A.I. — NY Times",
+        "url": "https://www.nytimes.com/2026/06/08/technology/apple-ai-artificial-intelligence-wwdc.html",
+        "image": ""
+      }
+    ],
+    "cover": "https://www.morphllm.com/_next/image?url=%2Fimages%2Fbest-ai-coding-agents-2026.png&w=3840&q=75"
+  },
+  {
     "date": "2026-06-22",
     "section": "design",
     "title": {
