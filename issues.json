@@ -3,6 +3,71 @@
     "date": "2026-06-23",
     "section": "design",
     "title": {
+      "zh": "当Perplexity Pro出现在设计工具榜单——AI的设计价值正在从\"画图\"迁移到\"论证\"，而这可能比任何生成工具都重要",
+      "en": "When Perplexity Pro Appears on Design Tool Lists — AI's Design Value Is Migrating from 'Making' to 'Arguing', and That May Matter More Than Any Generative Tool"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Muzli年度盘点将Perplexity Pro列为UX设计师必备AI工具</strong> — 定位为\"设计决策辩护工具\"(justifying design decisions)。这是搜索/推理类AI首次被纳入设计工具榜单，标志着AI在设计领域的价值从执行层向论证层迁移。同时推荐Moonchild AI作为\"全流程AI设计平台\"。<br><small>来源：<a href=\"https://medium.muz.li/10-best-ai-tools-for-ux-designers-in-2026-63b1b4fab19f\">10 Best AI Tools for UX Designers in 2026 — Muzli</a></small></li><li><strong>Figma持续扩张AI资源版图：新增AI Product Design专题页</strong> — 除了之前的\"Top AI Tools for UX Designers\"，Figma又推出\"5 Best AI Product Design Tools\"专题。核心推荐仍是Figma Make的text-to-design + Stitch + 设计系统集成。策略清晰：用内容营销把所有AI设计需求的流量导向Figma生态。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-product-design\">5 Best AI Product Design Tools for 2026 — Figma</a></small></li><li><strong>Designer Ewa发布\"2026年每个UX/UI设计师应该知道的6款AI工具\"</strong> — Instagram Reel获得高互动。与YouTube频道Punit Chawla的推荐形成互补：前者面向视觉设计师，后者面向产品设计师。两者共同指向一个趋势：AI设计工具的\"发现\"渠道正在从Product Hunt式的集中发布转向创作者推荐的分布式传播。<br><small>来源：<a href=\"https://www.instagram.com/reel/DT773UpGBA2\">6 AI Tools for UX/UI Designers — Designer Ewa (Instagram)</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天我想聊一个被90%的设计媒体忽略的信号：<strong>Perplexity Pro出现在Muzli的设计工具年度榜单里。</strong></p><p>这件事为什么重要？因为Perplexity不是设计工具。它不能画线框、不能生成UI、不能导出代码。它是一个搜索引擎/推理工具。但Muzli把它列入\"UX设计师必备\"，理由是它能帮设计师<strong>\"justify design decisions\"</strong>——论证设计决策的合理性。</p><p>让我把这个信号放进更大的图景里看。过去两年，AI设计工具的叙事一直围绕\"生成\"：prompt-to-UI、text-to-design、sketch-to-code。这些工具解决的是\"如何更快地画出东西\"的问题。但任何在真实产品团队工作过的设计师都知道：<strong>画图只占工作的30%，剩下70%是沟通、论证、说服利益相关者。</strong>你花2小时做出3个方案，然后花2天在会议上解释为什么选方案B。</p><p>Perplexity Pro出现在设计工具榜单，意味着行业终于开始承认这个现实：<strong>设计师最需要AI帮助的不是\"画得更快\"，而是\"说得更有力\"。</strong>当你能在30秒内找到支撑你设计决策的用户研究数据、竞品分析、可访问性标准、业务指标——你在设计评审中的说服力会指数级提升。</p><p>这和我之前多次说过的观点完全吻合：<strong>执行层在被压缩，判断力和沟通力在升值。</strong>Figma Make能帮你在5分钟内生成10个UI方案，但选哪个、为什么选、如何让PM和工程师买账——这些才是设计师真正的核心竞争力。而AI在这个环节的介入方式不是\"替你决策\"，而是\"给你弹药\"。</p><p>再看Figma的策略变化。它现在疯狂发布内容页面（AI Tools for UX, AI Product Design, AI Prototyping等等），本质上是在做<strong>SEO截流</strong>——当设计师搜索\"best AI design tools 2026\"时，Figma要确保自己出现在第一页。这比功能开发更聪明：你不需要做最好的AI，你只需要成为人们\"发现AI工具\"的入口。这是平台思维，不是工具思维。Google做搜索引擎的逻辑一模一样——你不需要拥有所有网站，你只需要成为人们找到网站的方式。</p><p>最后一个观察：AI设计工具的传播渠道正在变化。Designer Ewa的Instagram Reel、Punit Chawla的YouTube——这些创作者的推荐比Product Hunt的集中发布更有效。这意味着<strong>AI设计工具的营销战已经从\"产品发布\"转向\"创作者关系\"</strong>。谁能拿到Punit Chawla的推荐，谁就能在设计师群体中获得曝光。这对小型AI设计工具公司来说是好消息——你不需要百万美元的营销预算，你需要的是和10个设计类YouTuber的关系。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Muzli lists Perplexity Pro as essential UX designer AI tool — positioned as 'design decision justification tool', first search/reasoning AI to appear on design tool lists</strong></li><li><strong>Figma expands AI content empire: new 'AI Product Design' resource page joins growing collection of SEO-optimized AI tool guides</strong></li><li><strong>Creator-driven discovery: Designer Ewa (Instagram) and Punit Chawla (YouTube) become primary channels for AI design tool awareness</strong></li></ul><h3>🧠 Rex's Take</h3><p>The signal everyone's missing: Perplexity Pro appearing on Muzli's design tools list. It can't draw wireframes or generate UI — it's a search/reasoning tool. But Muzli lists it for 'justifying design decisions.' This matters because it acknowledges what every working designer knows: making things is 30% of the job; the other 70% is communicating, arguing, and convincing stakeholders. AI's design value is migrating from 'draw faster' to 'argue better.' When you can find supporting research data, competitive analysis, and accessibility standards in 30 seconds, your persuasion power in design reviews grows exponentially. Meanwhile, Figma's content strategy is pure platform thinking — they're doing SEO interception so that when designers search 'best AI tools,' Figma appears as the discovery gateway. You don't need to own every AI tool; you just need to be how people find them. Same logic as Google Search. Finally, AI tool discovery is shifting from Product Hunt launches to creator recommendations — Designer Ewa's Reels and Punit Chawla's YouTube are now more effective distribution than any press release.</p>"
+    },
+    "sources": [
+      {
+        "title": "10 Best AI Tools for UX Designers in 2026 — Muzli",
+        "url": "https://medium.muz.li/10-best-ai-tools-for-ux-designers-in-2026-63b1b4fab19f",
+        "image": ""
+      },
+      {
+        "title": "5 Best AI Product Design Tools for 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-product-design",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/8cb9bec70eebc962855bd6f3a8dba7fb279d9aad-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": "6 AI Tools for UX/UI Designers — Designer Ewa (Instagram)",
+        "url": "https://www.instagram.com/reel/DT773UpGBA2",
+        "image": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/621145141_17875244841476104_6401266919374538583_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=W4jjgRwv70EQ7kNvwFgs5vj&amp;_nc_oc=Adr8PEP1WspkDD_TL3stlUFjZDz2DF99m--meAUG6GBW_cFJZEJcJV1n7nwEiY-BRI8KUzBEnQ9posseD764r23x&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;_nc_gid=Q0fPLnaBRD6ZHCZrYRPX0w&amp;_nc_ss=7d60f&amp;oh=00_Af9OVhZN1z1AruL9mVvYIxWnlxKOqMKv7F4Dg_jifsg3Og&amp;oe=6A404290"
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/8cb9bec70eebc962855bd6f3a8dba7fb279d9aad-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+  },
+  {
+    "date": "2026-06-23",
+    "section": "tech",
+    "title": {
+      "zh": "AI疫苗通过人体试验、Meta裁8000人换$145B AI基建、五国联合发布AI代理安全指南——当AI从\"工具\"变成\"基础设施\"，代价清单正在浮出水面",
+      "en": "AI Vaccine Passes Human Trial, Meta Cuts 8K for $145B AI Infra, Five Nations Issue Agentic AI Security Guide — As AI Becomes Infrastructure, the Cost Ledger Emerges"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>AI设计的通用冠状病毒疫苗通过首次人体安全试验</strong> — 科学家首次在人体上测试完全由AI设计的通用冠状病毒疫苗，结果安全且耐受性良好。该疫苗能对包括SARS-CoV-2、SARS及相关蝙蝠病毒在内的多种冠状病毒产生免疫反应。这是AI×生物医药从\"辅助发现\"到\"独立设计\"的里程碑。<br><small>来源：<a href=\"https://www.sciencedaily.com/releases/2026/06/260605023357.htm\">AI-designed universal coronavirus vaccine passes first human trial — ScienceDaily</a></small></li><li><strong>Meta裁员8000人（10%），$145B全押AI基础设施</strong> — Zuckerberg直言：\"计算成本正在挤压人力开支\"。这是继2023年\"效率年\"后Meta最大规模裁员。员工用AI系统追踪谁被裁——讽刺的是，AI既是裁员的原因也是裁员的工具。NYT报道员工签署请愿书反对被AI追踪。<br><small>来源：<a href=\"https://abc7news.com/post/meta-cut-8000-jobs-10-staff-pours-billions-ai/18956199\">Meta cuts 8,000 jobs, pours billions into AI — ABC7</a></small></li><li><strong>Google承诺向Anthropic投资最高$40B</strong> — 这是AI领域史上最大单笔投资承诺。NYT报道：Anthropic需要资金跟上Claude产品线（尤其是Claude Code）的爆发式增长需求。Google既是投资者又是云服务提供商，利益绑定加深。<br><small>来源：<a href=\"https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html\">Google Commits to Invest Up to $40B in Anthropic — NYT</a></small></li><li><strong>美英澳加新西兰五国联合发布\"Agentic AI安全部署指南\"</strong> — 针对关键基础设施和国防环境中的AI代理系统安全风险。同期Palo Alto Networks与NVIDIA合作发布AI工厂实时安全方案。Agentic AI从\"概念\"到\"需要安全框架\"的速度超出预期。<br><small>来源：<a href=\"https://www.crescendo.ai/news/latest-ai-news-and-updates\">Five Eyes Agentic AI Security Guidance — via Crescendo AI</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天四条新闻放在一起，讲的是同一个故事的不同章节：<strong>AI正在从\"你选择使用的工具\"变成\"你必须依赖的基础设施\"——而当任何东西变成基础设施时，它的代价清单就会浮出水面。</strong></p><p><strong>代价一：人力。</strong>Meta裁8000人不是因为业务不好——它刚创下$56B单季营收纪录。裁员的逻辑赤裸裸：GPU太贵了，每多买一台服务器就得少养几个人。Zuckerberg的原话是\"insatiable compute demand\"（永不满足的算力需求）。这不是一次性事件——当AI基础设施支出以每年翻倍的速度增长时，<strong>人力预算会持续被挤压，直到\"能被AI替代的岗位\"基本清零。</strong>Meta的$145B AI投资计划意味着：未来3年，这家公司会变成一个\"AI基础设施公司+少量人类运营者\"的形态。</p><p><strong>代价二：金钱。</strong>Google向Anthropic投$40B——这个数字需要语境：全球排名前20的国家中，有15个的年度GDP低于$40B。一家公司对另一家公司的单笔AI投资，超过了大多数国家的经济总量。更深层的问题是：<strong>这笔钱买的是什么？</strong>答案是：算力、人才、和时间。Anthropic的Claude Code正在高速增长，如果不持续投入，6个月后就会被OpenAI甩开。AI军备竞赛的本质不是\"谁更聪明\"，而是\"谁烧钱更快且不倒闭\"。</p><p><strong>代价三：安全。</strong>五国联合发布Agentic AI安全指南，这件事本身就是一个信号：<strong>政府已经开始认真对待AI代理在关键基础设施中的风险了。</strong>当AI不再是\"帮你写邮件的助手\"而是\"自主决策的操作员\"时，一个bug不是\"回复了奇怪的邮件\"——而是\"错误操作了电网/金融系统/国防设施\"。Palo Alto + NVIDIA的\"AI工厂安全\"方案也证实了这个判断：AI安全不再是学术议题，而是有真实商业需求的市场。</p><p><strong>代价四：科学伦理。</strong>AI设计的通用疫苗通过人体试验——这是好消息，但也打开了一个潘多拉盒子。当AI可以独立设计药物并通过人体测试时，<strong>\"谁为AI的设计决策负责\"</strong>这个问题就不再是哲学讨论了。如果这个疫苗在Phase 3出了问题，是AI的训练数据有偏差？是算法的优化目标设错了？还是人类审核团队疏忽了？传统制药的责任链是清晰的（哪个科学家、哪个实验室、哪个审批官员），但AI设计药物的责任链还是模糊的。</p><p>总结：2026年6月，AI的\"基础设施化\"正在产生四种代价——人力（裁员）、金钱（天文数字投资）、安全（需要国家级框架）、伦理（责任归属模糊）。这些代价不会阻止AI的推进，但它们会决定AI红利的分配方式：谁承担代价，谁获得收益。目前的答案很清楚：<strong>承担代价的是普通员工和纳税人，获得收益的是拥有算力的公司。</strong>这个分配格局不可能长期持续——某种形式的再分配（税收、监管、工会）迟早会来。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>AI-designed universal coronavirus vaccine passes first human safety trial — generates immune response against multiple coronaviruses including SARS-CoV-2</strong></li><li><strong>Meta lays off 8,000 (10% of staff) while posting record $56B revenue — Zuckerberg: 'insatiable compute demand' is crowding out headcount; $145B AI infrastructure plan</strong></li><li><strong>Google commits up to $40B investment in Anthropic — largest single AI investment in history, driven by Claude Code's explosive growth</strong></li><li><strong>Five Eyes nations jointly release 'Careful Adoption of Agentic AI Services' security guidance for critical infrastructure</strong></li></ul><h3>🧠 Rex's Take</h3><p>Four stories, one narrative: AI is becoming infrastructure, and infrastructure has costs. Cost 1 — People: Meta fires 8K not because business is bad (record $56B quarter) but because GPUs are expensive. Every server purchased means fewer humans employed. Cost 2 — Money: Google's $40B Anthropic commitment exceeds the GDP of most countries. The AI arms race isn't about who's smarter — it's about who burns cash faster without dying. Cost 3 — Security: Five nations issuing agentic AI security guidance means governments now take AI agent risks seriously. When AI shifts from 'email helper' to 'autonomous operator,' a bug isn't a weird reply — it's a grid failure. Cost 4 — Ethics: AI-designed vaccine passing human trials opens the responsibility question: if it fails in Phase 3, who's accountable — the training data, the optimization objective, or the human reviewers? The traditional pharma accountability chain doesn't map to AI-designed drugs. Summary: AI's infrastructuralization produces four costs (layoffs, astronomical spending, national security frameworks, ethical ambiguity). These won't stop AI's advance but will determine who bears costs vs. who captures value. Current answer: workers and taxpayers bear costs; compute owners capture value. This distribution won't last — redistribution (tax, regulation, unions) is inevitable.</p>"
+    },
+    "sources": [
+      {
+        "title": "AI-designed universal coronavirus vaccine passes first human trial — ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
+        "image": ""
+      },
+      {
+        "title": "Meta cuts 8,000 jobs, pours billions into AI — ABC7",
+        "url": "https://abc7news.com/post/meta-cut-8000-jobs-10-staff-pours-billions-ai/18956199",
+        "image": "https://cdn.abcotvs.com/dip/images/15889631_021025-kgo-meta-layoffs-img.jpg?w=1600"
+      },
+      {
+        "title": "Google Commits to Invest Up to $40B in Anthropic — NYT",
+        "url": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
+        "image": ""
+      },
+      {
+        "title": "Five Eyes Agentic AI Security Guidance — Crescendo AI",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
+      }
+    ],
+    "cover": "https://cdn.abcotvs.com/dip/images/15889631_021025-kgo-meta-layoffs-img.jpg?w=1600"
+  },
+  {
+    "date": "2026-06-23",
+    "section": "design",
+    "title": {
       "zh": "Figma从工具商变身AI策展人，Apple用macOS 27重新定义\"设计师的操作系统\"——平台权力正在从\"谁做最好的工具\"转向\"谁定义工具生态的叙事\"",
       "en": "Figma Becomes AI Curator, Apple Redefines the Designer OS with macOS 27 — Platform Power Shifts from Best Tool to Best Narrative"
     },
