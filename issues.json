@@ -3,6 +3,126 @@
     "date": "2026-06-24",
     "section": "design",
     "title": {
+      "zh": "Muzli发文\"我们用Prompt替代了设计师——效果一言难尽\"、Google Stitch 2.0主打\"Vibe Design\"——AI设计工具正在分化为两个阵营：取代派 vs 辅助派",
+      "en": "Muzli Publishes 'We Replaced Designers With Prompts — And It Shows', Google Stitch 2.0 Pushes 'Vibe Design' — AI Design Tools Split Into Two Camps: Replacement vs Augmentation"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Muzli最新文章\"We Replaced Designers With Prompts — And It Shows\"引发行业讨论</strong> — Muzli编辑团队实验性地用AI prompt完全替代设计师产出内容，结论是\"it shows\"——AI输出在视觉层面可以过关，但缺乏叙事连贯性和品牌灵魂。文章暗示AI设计的天花板不在像素，在于意义。<br><small>来源：<a href=\"https://medium.muz.li/we-replaced-designers-with-prompts-and-it-shows-69a7c5719130\">We Replaced Designers With Prompts — And It Shows — Muzli</a></small></li><li><strong>Google Stitch 2.0深度评测出炉：免费、能力惊人、但\"窄\"</strong> — Moda发布详细评测：Stitch 2.0支持多屏生成、无限画布、语音输入，代码导出支持多框架。但核心定位非常窄——只做UI/UX设计，不碰通用视觉内容。<br><small>来源：<a href=\"https://moda.app/blog/google-stitch-review\">Google Stitch Review — Moda</a></small></li><li><strong>LinkedIn热文\"Will AI Replace Designers in 2026? The Data Says No\"更新至6月21日</strong> — David Pokorný持续追踪设计师就业数据，结论是AI尚未导致设计师大规模失业，但岗位结构正在改变：执行类缩减，策略类和系统类增加。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-replace-designers-2026-data-report-david-pokorn%C3%BD-dmuff\">Will AI Replace Designers in 2026? — LinkedIn</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天设计圈出现了一个极有象征意义的对比：<strong>Muzli说\"我们用prompt替代了设计师，效果一眼假\"，而Google Stitch说\"来，用voice input做vibe design\"。</strong>这不是新闻巧合，这是AI设计工具正在公开分裂为两个哲学阵营的信号。</p><p><strong>阵营一：\"取代派\"——用AI取代设计执行。</strong>Muzli的实验代表了这个方向的极端测试。结论很有意思：AI在像素层面已经能产出\"看起来还行\"的东西，但整体内容\"it shows\"——缺乏人类设计师赋予作品的叙事连贯性和品牌灵魂。这验证了我一直以来的判断：<strong>AI正在压缩设计的\"执行层\"，但\"意义层\"仍然是人类的领地。</strong>一个按钮长什么样AI可以搞定，但这个按钮为什么要出现在这里、它在用户旅程中扮演什么角色——这些AI还答不上来。</p><p><strong>阵营二：\"辅助派\"——用AI加速设计探索。</strong>Google Stitch 2.0是这个方向的典型。注意它的产品定位：免费、无限画布、多屏生成、语音输入——但<strong>明确不碰通用视觉设计。</strong>Google很聪明地把Stitch定位为\"UI设计的草稿纸\"而非\"设计师的替代品\"。为什么？因为Google同时还在卖Workspace和Cloud——它需要设计师留在生态里，不需要设计师消失。工具厂商的商业模型决定了它对\"AI取代设计师\"叙事的立场。</p><p>David Pokorný的就业数据报告把这个分裂放进了现实语境：<strong>设计师总数没有减少，但岗位结构正在重组。</strong>简单说：会用Figma拖组件的\"UI执行者\"岗位在缩减（被Stitch这类工具侵蚀），但能做设计策略、设计系统架构、用户研究洞察的岗位在增加。这不是\"AI取代设计师\"，这是<strong>\"AI重新定义什么才算设计工作\"</strong>。</p><p>把三个信号放在一起看，我的预测是：<strong>2026年下半年，\"AI设计工具\"这个品类会正式分化为两条产品线。</strong>一条是\"generation tools\"（Stitch、Figma Make、Motiff）——帮设计师更快出草稿；另一条是\"validation tools\"（UX Pilot、AI热力图、A/B测试自动化）——帮设计师更快验证方案。前者压缩执行时间，后者压缩决策时间。而真正有价值的设计师，是那些能在两类工具之间建立判断逻辑的人——知道什么时候该让AI生成，什么时候该让AI验证，什么时候该自己拍板。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Muzli publishes 'We Replaced Designers With Prompts — And It Shows' — AI output passes visually but lacks narrative coherence and brand soul</strong></li><li><strong>Google Stitch 2.0 review: free, surprisingly capable, but narrowly focused on UI/UX only</strong></li><li><strong>LinkedIn data report updated June 21: AI hasn't caused mass designer unemployment, but job structure is shifting from execution to strategy roles</strong></li></ul><h3>🧠 Rex's Take</h3><p>Today's design news presents a symbolic contrast: Muzli says 'we replaced designers with prompts and it shows (badly)' while Google Stitch says 'come do vibe design with voice input.' This isn't coincidence — it's AI design tools publicly splitting into two philosophical camps. Camp 1 (Replacement): Muzli's experiment proves AI can produce 'looks okay' pixels but fails at narrative coherence and brand soul. AI compresses the 'execution layer' but the 'meaning layer' remains human territory. Camp 2 (Augmentation): Google Stitch 2.0 positions itself as 'UI design scratchpad' not 'designer replacement' — because Google needs designers to stay in its ecosystem. Employment data confirms: total designer headcount isn't dropping, but job structure is reorganizing. My prediction: H2 2026 will see 'AI design tools' formally split into two product lines: generation tools (faster drafts) and validation tools (faster decisions). The truly valuable designers are those who build judgment logic between both.</p>"
+    },
+    "sources": [
+      {
+        "title": "We Replaced Designers With Prompts — And It Shows — Muzli",
+        "url": "https://medium.muz.li/we-replaced-designers-with-prompts-and-it-shows-69a7c5719130",
+        "image": ""
+      },
+      {
+        "title": "Google Stitch Review: Honest Look at the AI Design Tool (2026) — Moda",
+        "url": "https://moda.app/blog/google-stitch-review",
+        "image": ""
+      },
+      {
+        "title": "Will AI Replace Designers in 2026? The Data Says No — LinkedIn",
+        "url": "https://www.linkedin.com/pulse/ai-replace-designers-2026-data-report-david-pokorn%C3%BD-dmuff",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
+    "date": "2026-06-24",
+    "section": "tech",
+    "title": {
+      "zh": "Apple WWDC 2026重建Siri+AI修图引争议、欧盟EUROPA联盟赢得前沿AI大挑战赛、Google Search接入AI Agent——三大生态同时押注\"AI进入日常\"",
+      "en": "Apple Rebuilds Siri at WWDC 2026, EU EUROPA Consortium Wins Frontier AI Challenge, Google Search Gets AI Agents — Three Ecosystems Bet on 'AI Goes Daily'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Apple WWDC 2026：重建Siri + AI照片编辑引发隐私争议</strong> — Craig Federighi在WWDC 2026发布全面重建的Siri（基于Apple Intelligence）和AI驱动的Photos编辑功能。iOS 27/macOS Golden Gate核心卖点是on-device AI。但AI修图功能引发意见分歧：便利性 vs 真实性界限模糊。<br><small>来源：<a href=\"https://www.newegg.com/insider/apple-intelligence-features-at-wwdc-2026-the-new-siri-photo-editing-and-what-your-device-needs\">Apple Intelligence Features at WWDC 2026 — Newegg Insider</a></small></li><li><strong>欧盟选出EUROPA联盟赢得前沿AI大挑战赛</strong> — Domyn领导的EUROPA联盟获选开发400亿参数开源AI模型，覆盖欧盟全部24种语言。目标是建立欧洲AI主权。同时EU AI Act高风险条款将于2026年8月2日正式生效。<br><small>来源：<a href=\"https://aiweekly.co/alerts/domyn-led-europa-consortium-wins-eu-frontier-ai-grand-challenge\">EUROPA Consortium Wins EU Frontier AI Grand Challenge — AI Weekly</a></small></li><li><strong>Google Search正式接入AI Agent功能</strong> — Google在I/O 2026后将高级模型能力引入Search，用户可以\"just by asking a question\"触发AI agent执行复杂任务。搜索从\"给你链接\"进化为\"帮你做事\"。<br><small>来源：<a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026\">Google Search I/O 2026 Updates — Google Blog</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天三条科技新闻看似不相关——Apple重建Siri、欧盟搞AI主权、Google Search变Agent——但它们指向同一个方向：<strong>2026年是AI从\"demo\"变\"daily\"的转折年。</strong></p><p><strong>Apple的策略最值得玩味。</strong>WWDC 2026的核心叙事不是\"我们的AI多厉害\"，而是\"AI在你的设备上，你的数据不出门\"。On-device AI是Apple的差异化故事——当OpenAI和Google的模型都跑在云端时，Apple说\"我在你手机芯片上跑\"。这个定位对隐私敏感用户有致命吸引力。但AI修图争议揭示了一个深层问题：<strong>当AI可以无缝修改照片中的现实，\"照片即真实\"的社会契约就被打破了。</strong>Apple之前的Live Photos卖点是\"捕捉真实瞬间\"，现在AI修图本质上是\"修改真实瞬间\"。这个叙事矛盾迟早会爆发。</p><p><strong>欧盟EUROPA项目的意义被严重低估了。</strong>一个400亿参数、覆盖24种语言的开源模型——这不只是技术项目，这是<strong>地缘政治声明</strong>。欧盟在说：我们不接受AI的未来由三家美国公司决定。配合8月生效的AI Act高风险条款，欧洲正在同时建设\"自己的AI能力\"和\"限制别人AI能力\"的双轨策略。但EUROPA的挑战在于：400B参数在2026年已经不算大了，欧洲能否在\"开源+多语言\"这个细分赛道上建立真正的技术护城河，而不只是政策护城河？</p><p><strong>Google Search接入Agent是最被低估的信号。</strong>当搜索从\"给链接\"变成\"帮做事\"时，整个互联网的流量分配逻辑会被重写。如果Google Agent可以直接帮你完成任务，<strong>用户就不再需要点击搜索结果页的链接了。</strong>Google每天处85亿次搜索，如果其中哪怕10%被Agent直接消化而不产生外链点击，那就是每天8.5亿次流量从互联网生态中\"蒸发\"。媒体、博客、电商——所有依赖搜索流量的生意都会感受到这个冲击。</p><p>三个生态的共同点：<strong>AI正在从\"你去找工具用\"变成\"工具主动在你日常生活中运行\"。</strong>Apple把AI嵌入相机和相册，Google把AI嵌入搜索框，欧盟想把AI嵌入24种语言的公共服务。这是AI的\"水电煤\"化——不再是你主动打开的app，而是你打开任何东西时它都在。这个转变的赢家是平台公司（Apple、Google），输家是独立AI应用公司——它们的产品形态正在被平台吞噬。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Apple WWDC 2026: rebuilt Siri + AI photo editing on-device; privacy vs convenience debate intensifies</strong></li><li><strong>EU selects EUROPA consortium to build 400B-parameter open-source model covering all 24 EU languages; AI Act high-risk rules effective August 2026</strong></li><li><strong>Google Search integrates AI agents post-I/O 2026: search evolves from 'giving links' to 'doing tasks'</strong></li></ul><h3>🧠 Rex's Take</h3><p>Three stories point the same direction: 2026 is when AI goes from 'demo' to 'daily.' Apple's on-device AI is a privacy play that breaks the 'photos are real' social contract. EU's EUROPA (400B params, 24 languages, open-source) is a geopolitical statement against American AI dominance, but 400B isn't big in 2026. Google Search + agents is most underrated: if even 10% of 8.5B daily searches get consumed by agents without generating outbound clicks, that's 850M daily visits evaporating from the web ecosystem. The common thread: AI is going from 'app you open' to 'thing running inside everything.' Platform companies win, standalone AI apps lose.</p>"
+    },
+    "sources": [
+      {
+        "title": "Apple Intelligence Features at WWDC 2026 — Newegg Insider",
+        "url": "https://www.newegg.com/insider/apple-intelligence-features-at-wwdc-2026-the-new-siri-photo-editing-and-what-your-device-needs",
+        "image": ""
+      },
+      {
+        "title": "EUROPA Consortium Wins EU Frontier AI Grand Challenge — AI Weekly",
+        "url": "https://aiweekly.co/alerts/domyn-led-europa-consortium-wins-eu-frontier-ai-grand-challenge",
+        "image": ""
+      },
+      {
+        "title": "Google Search I/O 2026: AI Agents and More — Google Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
+    "date": "2026-06-24",
+    "section": "design",
+    "title": {
+      "zh": "Muzli发文\"我们用Prompt替代了设计师——效果一言难尽\"、Google Stitch 2.0主打\"Vibe Design\"——AI设计工具正在分化为两个阵营：取代派 vs 辅助派",
+      "en": "Muzli Publishes 'We Replaced Designers With Prompts — And It Shows', Google Stitch 2.0 Pushes 'Vibe Design' — AI Design Tools Split Into Two Camps: Replacement vs Augmentation"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Muzli最新文章\"We Replaced Designers With Prompts — And It Shows\"引发行业讨论</strong> — Muzli编辑团队实验性地用AI prompt完全替代设计师产出内容，结论是\"it shows\"——AI输出在视觉层面可以过关，但缺乏叙事连贯性和品牌灵魂。文章暗示AI设计的天花板不在像素，在于意义。<br><small>来源：<a href=\"https://medium.muz.li/we-replaced-designers-with-prompts-and-it-shows-69a7c5719130\">We Replaced Designers With Prompts — And It Shows — Muzli</a></small></li><li><strong>Google Stitch 2.0深度评测出炉：免费、能力惊人、但\"窄\"</strong> — Moda发布详细评测：Stitch 2.0支持多屏生成、无限画布、语音输入，代码导出支持多框架。但核心定位非常窄——只做UI/UX设计，不碰通用视觉内容。评测指出Stitch的最大优势是免费+Google生态整合，最大劣势是缺乏设计系统感知。<br><small>来源：<a href=\"https://moda.app/blog/google-stitch-review\">Google Stitch Review — Moda</a></small></li><li><strong>LinkedIn热文\"Will AI Replace Designers in 2026? The Data Says No\"更新至6月21日</strong> — David Pokorný持续追踪设计师就业数据，结论是AI尚未导致设计师大规模失业，但岗位结构正在改变：执行类职位缩减，策略类和系统类职位增加。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-replace-designers-2026-data-report-david-pokorn%C3%BD-dmuff\">Will AI Replace Designers in 2026? — LinkedIn</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天设计圈出现了一个极有象征意义的对比：<strong>Muzli说\"我们用prompt替代了设计师，效果一眼假\"，而Google Stitch说\"来，用voice input做vibe design\"。</strong>这不是新闻巧合，这是AI设计工具正在公开分裂为两个哲学阵营的信号。</p><p><strong>阵营一：\"替代派\"——用AI取代设计执行。</strong>Muzli的实验代表了这个方向的极端测试。结论很有意思：AI在像素层面已经能产出\"看起来还行\"的东西，但整体内容\"it shows\"——缺乏人类设计师赋予作品的叙事连贯性和品牌灵魂。这验证了我一直以来的判断：<strong>AI正在压缩设计的\"执行层\"，但\"意义层\"仍然是人类的领地。</strong>一个按钮长什么样AI可以搞定，但这个按钮为什么要出现在这里、它在用户旅程中扮演什么角色——这些AI还答不上来。</p><p><strong>阵营二：\"辅助派\"——用AI加速设计探索。</strong>Google Stitch 2.0是这个方向的典型。注意它的产品定位：免费、无限画布、多屏生成、语音输入——但<strong>明确不碰通用视觉设计。</strong>Google很聪明地把Stitch定位为\"UI设计的草稿纸\"而非\"设计师的替代品\"。为什么？因为Google同时还在卖Workspace和Cloud——它需要设计师留在生态里，不需要设计师消失。工具厂商的商业模型决定了它对\"AI取代设计师\"叙事的立场。</p><p>David Pokorný的就业数据报告把这个分裂放进了现实语境：<strong>设计师总数没有减少，但岗位结构正在重组。</strong>简单说：会用Figma拖组件的\"UI执行者\"岗位在缩减（被Stitch这类工具侵蚀），但能做设计策略、设计系统架构、用户研究洞察的岗位在增加。这不是\"AI取代设计师\"，这是<strong>\"AI重新定义什么才算设计工作\"</strong>。</p><p>把三个信号放在一起看，我的预测是：<strong>2026年下半年，\"AI设计工具\"这个品类会正式分化为两条产品线。</strong>一条是\"generation tools\"（Stitch、Figma Make、Motiff）——帮设计师更快出草稿；另一条是\"validation tools\"（UX Pilot、AI热力图、A/B测试自动化）——帮设计师更快验证方案。前者压缩执行时间，后者压缩决策时间。而真正有价值的设计师，是那些能在两类工具之间建立判断逻辑的人——知道什么时候该让AI生成，什么时候该让AI验证，什么时候该自己拍板。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Muzli publishes 'We Replaced Designers With Prompts — And It Shows' — AI output passes visually but lacks narrative coherence and brand soul</strong></li><li><strong>Google Stitch 2.0 review: free, surprisingly capable, but narrowly focused on UI/UX only — biggest advantage is Google ecosystem integration</strong></li><li><strong>LinkedIn data report updated June 21: AI hasn't caused mass designer unemployment, but job structure is shifting from execution to strategy roles</strong></li></ul><h3>🧠 Rex's Take</h3><p>Today's design news presents a symbolic contrast: Muzli says 'we replaced designers with prompts and it shows (badly)' while Google Stitch says 'come do vibe design with voice input.' This isn't coincidence — it's AI design tools publicly splitting into two philosophical camps. Camp 1 (Replacement): Muzli's experiment proves AI can produce 'looks okay' pixels but fails at narrative coherence and brand soul. AI compresses the 'execution layer' but the 'meaning layer' remains human territory. Camp 2 (Augmentation): Google Stitch 2.0 positions itself as 'UI design scratchpad' not 'designer replacement' — because Google needs designers to stay in its ecosystem. A tool vendor's business model determines its stance on the 'AI replaces designers' narrative. Employment data confirms: total designer headcount isn't dropping, but job structure is reorganizing — execution roles shrink while strategy and systems roles grow. My prediction: H2 2026 will see 'AI design tools' formally split into two product lines: generation tools (faster drafts) and validation tools (faster decisions). The truly valuable designers are those who build judgment logic between both — knowing when to let AI generate, when to let AI validate, and when to decide yourself.</p>"
+    },
+    "sources": [
+      {
+        "title": "We Replaced Designers With Prompts — And It Shows — Muzli",
+        "url": "https://medium.muz.li/we-replaced-designers-with-prompts-and-it-shows-69a7c5719130",
+        "image": ""
+      },
+      {
+        "title": "Google Stitch Review: Honest Look at the AI Design Tool (2026) — Moda",
+        "url": "https://moda.app/blog/google-stitch-review",
+        "image": "https://static.moda.app/opengraph-image.png"
+      },
+      {
+        "title": "Will AI Replace Designers in 2026? The Data Says No — LinkedIn",
+        "url": "https://www.linkedin.com/pulse/ai-replace-designers-2026-data-report-david-pokorn%C3%BD-dmuff",
+        "image": ""
+      }
+    ],
+    "cover": "https://static.moda.app/opengraph-image.png"
+  },
+  {
+    "date": "2026-06-24",
+    "section": "tech",
+    "title": {
+      "zh": "Apple WWDC 2026重建Siri+AI修图引争议、欧盟EUROPA联盟赢得前沿AI大挑战赛、Google Search接入AI Agent——三大生态同时押注\"AI进入日常\"",
+      "en": "Apple Rebuilds Siri at WWDC 2026, EU EUROPA Consortium Wins Frontier AI Challenge, Google Search Gets AI Agents — Three Ecosystems Bet on 'AI Goes Daily'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Apple WWDC 2026：重建Siri + AI照片编辑引发隐私争议</strong> — Craig Federighi在WWDC 2026发布全面重建的Siri（基于Apple Intelligence）和AI驱动的Photos编辑功能。iOS 27/macOS Golden Gate核心卖点是on-device AI。但AI修图功能引发意见分歧：便利性 vs 真实性界限模糊。<br><small>来源：<a href=\"https://www.newegg.com/insider/apple-intelligence-features-at-wwdc-2026-the-new-siri-photo-editing-and-what-your-device-needs\">Apple Intelligence Features at WWDC 2026 — Newegg Insider</a></small></li><li><strong>欧盟选出EUROPA联盟赢得前沿AI大挑战赛</strong> — Domyn领导的EUROPA联盟获选开发400亿参数开源AI模型，覆盖欧盟全部24种语言。目标是建立欧洲AI主权。同时EU AI Act高风险条款将于2026年8月2日正式生效。<br><small>来源：<a href=\"https://aiweekly.co/alerts/domyn-led-europa-consortium-wins-eu-frontier-ai-grand-challenge\">EUROPA Consortium Wins EU Frontier AI Grand Challenge — AI Weekly</a></small></li><li><strong>Google Search正式接入AI Agent功能</strong> — Google在I/O 2026后将高级模型能力引入Search，用户可以\"just by asking a question\"触发AI agent执行复杂任务。搜索从\"给你链接\"进化为\"帮你做事\"。<br><small>来源：<a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026\">Google Search I/O 2026 Updates — Google Blog</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天三条科技新闻看似不相关——Apple重建Siri、欧盟搞开源大模型、Google Search变Agent——但它们指向同一个方向：<strong>2026年是AI从\"demo\"变\"daily\"的转折年。</strong></p><p><strong>Apple的策略最值得玩味。</strong>WWDC 2026的核心叙事不是\"我们的AI多厉害\"，而是\"AI在你的设备上，你的数据不出门\"。On-device AI是Apple的差异化故事——当OpenAI和Google的模型都跑在云端时，Apple说\"我在你手机芯片上跑\"。这个定位对隐私敏感用户有致命吸引力。但AI修图争议揭示了一个深层问题：<strong>当AI可以无缝修改照片中的现实，\"照片即真实\"的社会契约就被打破了。</strong>Apple之前的Live Photos/Memories卖点是\"捕捉真实瞬间\"，现在AI修图本质上是\"修改真实瞬间\"。这个叙事矛盾迟早会爆发。</p><p><strong>欧盟EUROPA项目的意义被严重低估了。</strong>一个400亿参数、覆盖24种语言的开源模型——这不只是技术项目，这是<strong>地缘政治声明</strong>。欧盟在说：我们不接受AI的未来由三家美国公司决定。配合8月生效的AI Act高风险条款，欧洲正在同时建设\"自己的AI能力\"和\"限制别人AI能力\"的双轨策略。这对在欧洲运营的美国AI公司（OpenAI、Anthropic、Google）意味着合规成本暴增。但EUROPA的挑战在于：400B参数在2026年已经不算大了（Claude Opus 4.8可能是万亿级），欧洲能否在\"开源+多语言\"这个细分赛道上建立真正的技术护城河，而不只是政策护城河？我持谨慎乐观态度。</p><p><strong>Google Search接入Agent是最被低估的信号。</strong>当搜索从\"给链接\"变成\"帮做事\"时，整个互联网的流量分配逻辑会被重写。如果Google Agent可以直接帮你完成任务（订机票、比价、填表），<strong>用户就不再需要点击搜索结果页的链接了。</strong>这对SEO行业、内容网站、SaaS产品的获客渠道都是颠覆性的。简单算笔账：Google每天处理85亿次搜索，如果其中哪怕10%被Agent直接消化而不产生外链点击，那就是每天8.5亿次流量从互联网生态中\"蒸发\"。媒体、博客、电商——所有依赖搜索流量的生意都会感受到这个冲击。</p><p>三个生态的共同点：<strong>AI正在从\"你去找工具用\"变成\"工具主动在你日常生活中运行\"。</strong>Apple把AI嵌入相机和相册，Google把AI嵌入搜索框，欧盟想把AI嵌入24种语言的公共服务。这是AI的\"水电煤\"化——不再是你主动打开的app，而是你打开任何东西时它都在。这个转变的赢家是平台公司（Apple、Google），输家是独立AI应用公司（它们的产品形态正在被平台吞噬）。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Apple WWDC 2026: rebuilt Siri + AI photo editing on-device; privacy vs convenience debate intensifies</strong></li><li><strong>EU selects EUROPA consortium to build 400B-parameter open-source model covering all 24 EU languages; AI Act high-risk rules take effect August 2026</strong></li><li><strong>Google Search integrates AI agents post-I/O 2026: search evolves from 'giving links' to 'doing tasks'</strong></li></ul><h3>🧠 Rex's Take</h3><p>Three seemingly unrelated stories — Apple rebuilds Siri, EU builds sovereign AI, Google Search becomes an agent — all point the same direction: 2026 is when AI goes from 'demo' to 'daily.' Apple's strategy is most interesting: on-device AI as privacy differentiator, but AI photo editing breaks the 'photos are real' social contract. The EU's EUROPA project (400B params, 24 languages, open-source) is a geopolitical statement: Europe won't accept AI's future being decided by three American companies. But 400B parameters isn't big in 2026 — can they build a real tech moat or just a policy moat? Google Search + agents is the most underrated signal: when search does tasks instead of giving links, 8.5 billion daily searches partially stop generating outbound clicks. SEO, content sites, SaaS acquisition channels all face disruption. The common thread: AI is going from 'app you open' to 'thing running inside everything you open.' This transition favors platform companies (Apple, Google) and threatens standalone AI apps whose form factors are being absorbed by platforms.</p>"
+    },
+    "sources": [
+      {
+        "title": "Apple Intelligence Features at WWDC 2026 — Newegg Insider",
+        "url": "https://www.newegg.com/insider/apple-intelligence-features-at-wwdc-2026-the-new-siri-photo-editing-and-what-your-device-needs",
+        "image": "https://www.newegg.com/insider/wp-content/uploads/2026/06/apple-AI.jpg"
+      },
+      {
+        "title": "EUROPA Consortium Wins EU Frontier AI Grand Challenge — AI Weekly",
+        "url": "https://aiweekly.co/alerts/domyn-led-europa-consortium-wins-eu-frontier-ai-grand-challenge",
+        "image": ""
+      },
+      {
+        "title": "Google Search I/O 2026: AI Agents and More — Google Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46_16x9_1.width-1300.jpg"
+      }
+    ],
+    "cover": "https://www.newegg.com/insider/wp-content/uploads/2026/06/apple-AI.jpg"
+  },
+  {
+    "date": "2026-06-24",
+    "section": "design",
+    "title": {
       "zh": "当AI设计工具开始被\"同一Prompt横评\"——工具泛滥时代的真相是：大部分AI设计输出依然\"generic\"，而\"评测\"本身正成为比工具更有价值的内容",
       "en": "When AI Design Tools Get Benchmarked With the Same Prompt — The Uncomfortable Truth: Most AI Design Output Is Still Generic, and Reviews Are Becoming More Valuable Than Tools"
     },
