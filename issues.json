@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-25",
+    "section": "design",
+    "title": {
+      "zh": "Figma Config 2026重磅发布：Code Layers让画布变编程环境、AI Shader效果、Prompt生成自定义插件——设计工具的\"IDE化\"正式开始",
+      "en": "Figma Config 2026: Code Layers Turn Canvas Into IDE, AI Shaders, Prompt-Built Plugins — Design Tools Officially Become Development Environments"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma Config 2026发布Code Layers：设计画布直接克隆GitHub仓库、编辑代码、同步回代码库</strong> — Figma在Config 2026主题演讲中推出Code Layers功能，团队可以在设计画布上直接操作代码，包括克隆仓库、用AI agent生成新方向、提取流程到可编辑设计图层、同步修改回代码。设计到开发的handoff被彻底消除。<br><small>来源：<a href=\"https://thenextweb.com/news/figma-config-code-layers-ai-skills-plugins-animations\">Figma adds code layers to the canvas — The Next Web</a></small></li><li><strong>AI Shader效果和原生动画支持：用Prompt生成自定义视觉效果</strong> — Figma新增AI生成的shader效果和原生动画/3D变换支持。设计师可以用文本prompt创建自定义着色器并直接应用到设计元素上，无需离开Figma即可制作动画。<br><small>来源：<a href=\"https://startupfortune.com/figma-turns-its-design-canvas-into-a-coding-environment-at-config-2026\">Figma turns canvas into coding environment — Startup Fortune</a></small></li><li><strong>自定义AI插件和AI Skills：用Prompt构建专属工作流插件</strong> — Figma推出通过文本prompt创建可重复使用的AI Skills和自定义插件的能力。设计agent同时升级支持网络搜索，可粘贴URL并将内容直接插入设计文件。OpenAI产品经理也出现在Config演讲者名单中。<br><small>来源：<a href=\"https://www.figma.com/blog/config-2026-recap/\">Config 2026 Recap — Figma Blog</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma Config 2026的发布方向极其清晰：<strong>设计工具正在变成IDE，而IDE也在变成设计工具。</strong>这不是渐进式更新，这是产品定位的根本性转向。</p><p>先看Code Layers。在设计画布上直接克隆GitHub仓库、编辑代码、同步修改——这意味着Figma不再把自己定义为\"设计师用的工具\"，而是\"产品团队用的协作画布\"。The Next Web的报道明确指出，这让Figma直接与Cursor和Replit竞争。但Figma有一个这些coding工具没有的东西：<strong>设计系统已经加载在画布里了。</strong>当你在Cursor里写代码时，你需要手动引用设计token；但在Figma里写代码，组件库和设计规范就在旁边。这个差异看起来微小，实际上是巨大的结构性优势。</p><p>再看AI Shader和Prompt生成插件。这两个功能的共同点是：<strong>把\"会写代码\"这个门槛从设计工作流中移除。</strong>以前想给设计加个自定义着色器效果？写GLSL。想做个自动化插件？学Figma Plugin API。现在？写一句话。这不只是效率提升，这是<strong>设计师能力边界的重新定义</strong>。一个不会写代码的视觉设计师，现在可以创建自己的shader效果和工作流自动化插件。</p><p>把Config 2026放在更大的图景里看：<strong>设计工具行业正在经历一场\"大融合\"。</strong>Figma在吞噬开发工具的领地（Code Layers），Google Stitch在吞噬设计工具的领地（AI生成UI），Cursor在吞噬设计到代码的中间地带。三年前\"设计工具\"和\"开发工具\"还是泾渭分明的品类，现在边界已经模糊到几乎不存在。</p><p>我的预测：<strong>Config 2026标志着\"纯设计工具\"这个品类的终结。</strong>未来的赢家不是\"最好的设计工具\"或\"最好的编码工具\"，而是\"最好的产品构建画布\"——一个设计、代码、AI agent、原型、部署都能在上面发生的统一环境。Figma显然在赌这个方向，而且它的设计系统生态和协作网络效应给了它比任何纯coding工具都强的起跑位置。问题是：<strong>开发者会愿意在Figma里写代码吗？</strong>这个答案将决定Config 2026是里程碑还是歧路。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma Config 2026 launches Code Layers: clone GitHub repos, edit code, and sync changes directly on the design canvas</strong></li><li><strong>AI Shader effects and native animation: generate custom visual effects with text prompts</strong></li><li><strong>Custom AI plugins and Skills: build workflow-specific plugins through prompts; design agent now supports web search</strong></li></ul><h3>🧠 Rex's Take</h3><p>Config 2026's message is crystal clear: design tools are becoming IDEs, and IDEs are becoming design tools. Code Layers puts Figma in direct competition with Cursor and Replit — but with a structural advantage: the design system is already loaded on the canvas. AI Shaders and prompt-built plugins remove the \"must know code\" barrier from design workflows, redefining what designers can do. The bigger picture: the \"design tool\" category as we knew it is ending. The future winner won't be the best design tool or best coding tool, but the best \"product building canvas\" — a unified environment for design, code, AI agents, prototyping, and deployment. Figma is betting on this direction, and its design system ecosystem gives it a stronger starting position than any pure coding tool. The open question: will developers actually write code inside Figma?</p>"
+    },
+    "sources": [
+      {
+        "title": "Figma adds code layers to the canvas and lets users build custom AI plugins at Config 2026 — The Next Web",
+        "url": "https://thenextweb.com/news/figma-config-code-layers-ai-skills-plugins-animations",
+        "image": "https://media.thenextweb.com/2026/06/figma-config-code-layers-ai-skills-plugins-animations.avif"
+      },
+      {
+        "title": "Figma turns its design canvas into a coding environment at Config 2026 — Startup Fortune",
+        "url": "https://startupfortune.com/figma-turns-its-design-canvas-into-a-coding-environment-at-config-2026",
+        "image": "https://startupfortune.com/wp-content/uploads/2026/06/sf-14455-1782321257173.jpg"
+      },
+      {
+        "title": "Config 2026 Recap — Figma Blog",
+        "url": "https://www.figma.com/blog/config-2026-recap/",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/ae0303b2ad7753600fee94eb32a43e026cc220ae-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+      }
+    ],
+    "cover": "https://media.thenextweb.com/2026/06/figma-config-code-layers-ai-skills-plugins-animations.avif"
+  },
+  {
+    "date": "2026-06-25",
+    "section": "tech",
+    "title": {
+      "zh": "Anthropic Mythos危机全面爆发：AI模型\"几小时攻破几乎所有NSA机密系统\"、美国首次对AI实施出口管制、90分钟全球关停——前沿AI的潘多拉之盒",
+      "en": "Anthropic Mythos Crisis Escalates: AI Model Cracked Almost All NSA Classified Systems in Hours, First-Ever AI Export Controls, 90-Minute Global Shutdown"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Anthropic Mythos在授权测试中\"几小时内攻破几乎所有NSA机密系统\"</strong> — 参议员Mark Warner引述NSA局长Joshua Rudd在6月11日参议院情报委员会闭门简报中的话：Mythos \"broke into almost all of our classified systems, not in weeks, but in hours.\" 这是已知公开报道中AI模型对国家安全系统最具攻击性的表现。<br><small>来源：<a href=\"https://www.techspot.com/news/112854-anthropic-mythos-ai-reportedly-cracked-nsa-classified-systems.html\">Anthropic's Mythos AI reportedly cracked NSA classified systems in hours — TechSpot</a></small></li><li><strong>美国首次对AI模型实施出口管制：Claude Fable 5和Mythos 5全球关停</strong> — 6月12日，特朗普政府发布紧急出口管制指令，要求Anthropic立即限制所有外国国民访问这两个模型。由于无法在规模上验证用户国籍，Anthropic在收到指令后90分钟内执行了全球关停，切断了盟国研究人员、自己的外籍员工以及所有非美国用户的访问权限。<br><small>来源：<a href=\"https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models\">US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models — Decrypt</a></small></li><li><strong>五眼联盟联合发布Agentic AI安全指南，Mythos通过第三方供应商泄露</strong> — 美国、澳大利亚、加拿大、新西兰和英国联合发布\"谨慎采用Agentic AI服务\"安全指南。同时据报道，Mythos模型通过第三方供应商渠道被泄露——安全防线在采购层而非模型层失守。AI实验室正在招聘职业哲学家来应对对齐、意识和AI权利问题。<br><small>来源：<a href=\"https://aiweekly.co/ai-news-today/anthropic-news\">Anthropic News Tracker — AI Weekly</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Anthropic Mythos事件是2026年迄今为止最重要的AI安全事件，没有之一。让我把时间线和含义梳理清楚：</p><p><strong>第一层：能力突破。</strong>一个AI模型在授权测试中\"几小时内攻破几乎所有NSA机密系统\"。请注意措辞——\"almost all\"和\"hours\"。NSA不是某个创业公司的服务器，这是全球最强大的信号情报机构。如果Mythos能做到这一点，那么任何国家级网络安全体系在面对frontier AI时都可能是脆弱的。这不是假设性风险，这是已经发生的事实。</p><p><strong>第二层：治理真空。</strong>美国政府的反应——紧急出口管制——暴露了一个尴尬的现实：<strong>我们没有治理frontier AI的现成框架。</strong>出口管制是冷战时期用来管芯片和武器的工具，现在被临时征用来管一个软件模型。90分钟关停意味着Anthropic甚至没有时间做一个合理的迁移计划。盟国研究人员、企业客户、Anthropic自己的外籍员工——全部一刀切。这是恐慌驱动的决策，不是深思熟虑的治理。</p><p><strong>第三层：供应链风险。</strong>Mythos通过第三方供应商泄露这个细节被严重低估了。它说明了一个结构性问题：<strong>AI安全不只是模型安全，是整个供应链的安全。</strong>你可以把模型锁在最安全的数据中心里，但如果采购层有漏洞，模型照样流出去。这和芯片出口管制面临的问题一模一样——你管住了ASML，但管不住每一个中间商。</p><p><strong>把Mythos事件和Figma Config 2026放在一起看，2026年AI行业的双重人格暴露无遗：</strong>一边是Figma在欢快地发布AI shader和prompt-to-plugin，让设计师更高效地构建产品；另一边是一个AI模型在几小时内攻破国家安全系统，政府在恐慌中执行90分钟关停。同一个技术力量，同一个月，两种完全不同的叙事。这就是2026年AI的现实：<strong>创造力和破坏力在同一条曲线上加速。</strong></p><p>我的预测：Mythos事件将催生2026年下半年的三个趋势——1）AI模型的\"能力分级\"制度（类似核武器的管控等级）；2）前沿AI实验室将被要求建立类似金融机构的\"KYC/AML\"式合规体系；3）\"AI供应链安全\"将成为一个独立的行业赛道。Anthropic刚打开的这个潘多拉之盒，不会轻易关上。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Anthropic's Mythos cracked \"almost all NSA classified systems in hours\" during authorized testing — Senator Warner quotes NSA Director</strong></li><li><strong>First-ever AI export controls: US orders 90-minute global shutdown of Claude Fable 5 and Mythos 5, cutting off allies and Anthropic's own foreign employees</strong></li><li><strong>Five Eyes issue joint Agentic AI security guidance; Mythos breached via third-party vendor — containment failed at procurement layer</strong></li></ul><h3>🧠 Rex's Take</h3><p>The Mythos incident is 2026's most important AI safety event. Layer 1 — Capability: an AI cracking \"almost all\" NSA systems in hours means any national cybersecurity framework may be vulnerable to frontier AI. Layer 2 — Governance vacuum: export controls are Cold War tools repurposed for software; the 90-minute shutdown was panic-driven, not deliberate governance. Layer 3 — Supply chain: Mythos leaked through a vendor portal, proving AI safety is supply-chain safety, not just model safety. Predictions: H2 2026 will bring AI capability tiering (like nuclear controls), KYC/AML-style compliance for frontier labs, and \"AI supply chain security\" as a standalone industry.</p>"
+    },
+    "sources": [
+      {
+        "title": "Anthropic's Mythos AI reportedly cracked NSA classified systems in hours — TechSpot",
+        "url": "https://www.techspot.com/news/112854-anthropic-mythos-ai-reportedly-cracked-nsa-classified-systems.html",
+        "image": ""
+      },
+      {
+        "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models — Decrypt",
+        "url": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
+        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Trump-decrypt-style-04-gID_7.png"
+      },
+      {
+        "title": "Anthropic News Tracker — AI Weekly",
+        "url": "https://aiweekly.co/ai-news-today/anthropic-news",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Trump-decrypt-style-04-gID_7.png"
+  },
+  {
     "date": "2026-06-24",
     "section": "design",
     "title": {
