@@ -3,6 +3,66 @@
     "date": "2026-06-25",
     "section": "design",
     "title": {
+      "zh": "Figma State of the Designer 2026：98%设计师增加AI使用、招聘反而回暖——但行业正在\"两极分化\"，36%说变好、35%说变差",
+      "en": "Figma State of the Designer 2026: 98% Increased AI Usage, Hiring Rebounds — But the Profession Is Splitting in Two"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma发布State of the Designer 2026报告：98%设计师增加了AI工具使用</strong> — 基于906名设计师的全球调研。核心结论：AI工具帮助设计师优化工作流、产出更多、将更多时间用于高价值创意工作。但\"craft\"定义因人而异——有人认为是视觉打磨，有人认为是问题解决，有人认为是直觉化的UX。<br><small>来源：<a href=\"https://www.figma.com/blog/state-of-the-designer-2026\">State of the Designer 2026 — Figma Blog</a></small></li><li><strong>反直觉发现：AI正在推动设计招聘回暖，而非取代设计师</strong> — Figma配套文章\"Why Demand for Designers Is on the Rise\"指出：当任何人都能\"make things\"时，团队更需要能\"raise the bar\"的设计师。招聘经理正在优先考虑AI技能。一位受访者表示：\"All of our new hiring is based on AI skills and knowledge.\"<br><small>来源：<a href=\"https://www.figma.com/blog/why-demand-for-designers-is-on-the-rise\">Why Demand for Designers Is on the Rise — Figma Blog</a></small></li><li><strong>行业两极分化：36%认为情况变好、35%认为变差</strong> — Ricardo Costa的视频分析指出，这个分裂与地域、资历和才华无关，而是与设计师是否主动拥抱AI工作流相关。91%设计师认为清晰的目标和期望有助于产出最佳工作——暗示很多团队的AI转型缺乏方向感。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=2iqL2X_bjL0\">Figma State of the Designer 2026 — The 3 Numbers That Actually Matter — YouTube</a></small></li></ul><h3>🧠 Rex's Take</h3><p>这份报告的标题数据（98%使用AI）几乎没有信息量——2026年了，谁不用AI？真正有价值的是那个\"两极分化\"数字：<strong>36% vs 35%，认为行业变好和变差的设计师几乎一样多。</strong>这不是抽样偏差，这是结构性分裂的信号。</p><p>让我把这个数据和本周的其他信号串起来看：Config 2026刚发布了Code Layers和AI Shader——这些功能明显是给\"36%觉得变好\"的那批人准备的，他们拥抱AI、学新工具、把AI当杠杆而非威胁。而\"35%觉得变差\"的那批人呢？他们可能还在做传统的UI execution工作，看着工具越来越能替代自己的产出，却没有找到新的价值定位。</p><p><strong>\"招聘回暖\"这个结论需要加一个巨大的星号：招的不是以前那种设计师。</strong>\"All new hiring is based on AI skills\"——翻译过来就是：会用AI工作流的设计师在抢手，不会的在被淘汰。这不是\"设计师需求增加\"，这是\"设计师定义被重写\"。你原来是做高保真UI mockup的？现在Figma Make能10分钟搞定。你的价值在哪？在于判断力——哪个方向值得探索、为什么这个设计方案比那个好、用户在什么语境下会遇到这个问题。</p><p>把Figma State of the Designer放在更大的画布上：这份报告本质上是Figma在证明自己的商业故事——\"AI让设计师更有价值→设计师需要更好的AI工具→Figma是最好的AI设计工具→买我们的Pro plan\"。这个逻辑链的每一步都成立，但Figma选择不说的是：<strong>AI也在缩小\"需要多少设计师\"的总量。</strong>每个设计师产出提升3倍，团队从5人缩到3人——每人花在Figma上的钱多了，但设计师总数少了。对Figma来说这是ARPU故事；对设计师来说，这是椅子变少的音乐。</p><p>我的预测：到2026年底，\"设计师\"这个title会像\"webmaster\"一样开始分化。高端走向\"Design Strategist\"（不碰像素，只做决策）；中端变成\"AI Design Engineer\"（用AI工具高速产出+验证）；低端被工具直接吞噬。Figma的报告只是这个分化的早期数据快照。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma State of the Designer 2026: 98% of designers increased AI tool usage</strong> — Survey of 906 designers globally. AI tools help optimize workflows, ship more, and spend more time on high-impact ideas.</li><li><strong>Counter-intuitive finding: AI is driving design hiring demand up, not replacing designers</strong> — When anyone can 'make things,' teams need designers who 'raise the bar.' Hiring managers prioritize AI skills.</li><li><strong>Profession splitting in two: 36% say things are getting better, 35% say worse</strong> — The split correlates with AI adoption willingness, not geography or seniority.</li></ul><h3>🧠 Rex's Take</h3><p>The 98% headline is meaningless in 2026. The real signal is the 36% vs 35% polarization — nearly equal camps of optimists and pessimists. This maps directly to who's leveraging AI as a force multiplier vs who's watching their execution work get automated away. 'Hiring is up' needs an asterisk: they're hiring a different kind of designer. 'All new hiring is based on AI skills' means the profession's definition is being rewritten in real-time. Prediction: by end of 2026, 'designer' will fork into Design Strategist (decisions only), AI Design Engineer (AI-powered production), and a disappearing execution layer absorbed by tools.</p>"
+    },
+    "sources": [
+      {
+        "title": "State of the Designer 2026 — Figma Blog",
+        "url": "https://www.figma.com/blog/state-of-the-designer-2026",
+        "image": ""
+      },
+      {
+        "title": "Why Demand for Designers Is on the Rise — Figma Blog",
+        "url": "https://www.figma.com/blog/why-demand-for-designers-is-on-the-rise",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/465e318397fd0d6a12569517893065ad17d5520f-1200x675.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": "Figma State of the Designer 2026 — The 3 Numbers That Actually Matter — YouTube",
+        "url": "https://www.youtube.com/watch?v=2iqL2X_bjL0",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/465e318397fd0d6a12569517893065ad17d5520f-1200x675.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+  },
+  {
+    "date": "2026-06-25",
+    "section": "tech",
+    "title": {
+      "zh": "Oracle承认AI今年已取代21,000个岗位、Meta裁员8,000人All-in AI、NVIDIA Rubin单系统成本$780万——AI替代就业从传闻变成财报数字",
+      "en": "Oracle Admits AI Cut 21,000 Jobs, Meta Lays Off 8,000 for AI Pivot, NVIDIA Rubin Systems Cost $7.8M Each — AI Job Displacement Goes From Rumor to Earnings Reports"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Oracle CEO承认AI今年已取代21,000个工作岗位，更多裁员可能还在路上</strong> — Forbes 6月23日报道，Oracle在财报中首次公开量化AI对其劳动力的影响。21,000个被替代的岗位涵盖客服、数据录入和基础开发职位。这是大型科技公司首次在官方场合如此直白地将裁员归因于AI。<br><small>来源：<a href=\"https://www.forbes.com/sites/maryroeloffs/2026/06/23/ai-cost-21000-jobs-at-oracle-this-year-and-more-layoffs-could-be-coming\">AI Cost 21,000 Jobs at Oracle This Year — Forbes</a></small></li><li><strong>Meta裁员8,000人（10%员工）转型AI-first，员工发起请愿抵制AI追踪</strong> — 纽约时报报道：Meta 4月宣布裁员、5月执行。员工发现公司在用AI追踪员工数据用于模型训练，办公室出现抗议传单。Meta 2026年AI基础设施支出预算：$1,450亿。一边裁人省钱，一边天量投资AI算力——这就是2026年科技巨头的核心矛盾。<br><small>来源：<a href=\"https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html\">Meta Lays Off 8,000 Employees, as A.I. Casualties Mount — NY Times</a></small></li><li><strong>NVIDIA Rubin GPU系统单台成本$780万，内存成本暴涨485%</strong> — Tom's Hardware报道：最新Rubin AI系统总成本$780万，其中内存占25%（此前不到5%）。单颗Rubin GPU售价$50,000。AI算力的\"军备竞赛\"正在从芯片本身转向内存瓶颈——这可能是SK Hynix和三星未来两年最大的利润引擎。<br><small>来源：<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece\">NVIDIA's Memory Costs Soar 485% — Tom's Hardware</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这三条新闻单独看都是大新闻，但放在一起看，它们讲的是同一个故事：<strong>AI经济的\"双重替代\"——替代人类劳动力的同时，要求天量资本投入来养活自己。</strong></p><p><strong>Oracle的21,000和Meta的8,000，性质完全不同。</strong>Oracle裁的是\"被AI做了的人\"——客服、数据录入、基础开发，这些工作的输出现在可以被LLM直接替代。Meta裁的是\"为了给AI腾位置的人\"——它不是说这8,000人的工作被AI做了，而是公司要把钱从人头预算挪到GPU预算。前者是\"效率裁员\"，后者是\"战略裁员\"。这个区分很重要，因为它意味着<strong>AI替代就业有两条路径：直接替代（Oracle模式）和间接替代（Meta模式）。</strong>直接替代有天花板（总有些工作AI做不了），间接替代没有——只要CEO决定把更多钱投AI、更少钱投人，任何岗位都可能被\"间接替代\"。</p><p><strong>Meta员工的反应是一个被低估的信号。</strong>办公室贴传单抗议AI追踪员工数据、签署请愿书——这不是Luddite式的反技术运动，这是<strong>知识工作者发现自己的劳动成果正在被用来训练取代自己的模型。</strong>2024年好莱坞编剧罢工的核心诉求就是这个：你不能用我写的剧本训练AI然后用AI替代我。Meta现在在对自己的工程师做同样的事——用工程师的代码和协作数据训练AI，然后裁掉工程师。这个矛盾在2026年下半年会在更多公司爆发。</p><p><strong>NVIDIA Rubin的成本数据让前两条新闻有了经济学上的闭环。</strong>为什么大公司要疯狂裁人？因为每套AI系统$780万，内存成本涨了485%。Meta要花$1,450亿在AI基础设施上——这笔钱从哪来？从裁掉的8,000人的薪资预算里来。Oracle裁掉21,000人省下的人力成本，大概刚好够买几百套Rubin系统。<strong>AI经济的运行逻辑已经很清楚了：裁人→省钱→买GPU→用AI替代更多人→裁更多人→省更多钱→买更多GPU。</strong>这是一个正反馈循环，直到碰到某个物理约束才会停下来。</p><p>那个物理约束可能是什么？内存。Rubin系统成本的25%来自内存，涨了485%。如果HBM4产能跟不上需求，AI军备竞赛的瓶颈就不在GPU芯片，而在内存晶圆。SK Hynix和三星的HBM产能规划，可能比任何AI论文都更能决定这场革命的节奏。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Oracle CEO admits AI replaced 21,000 jobs this year — first major tech company to quantify AI displacement in earnings</strong></li><li><strong>Meta lays off 8,000 (10% workforce) for AI-first pivot; employees petition against AI tracking their data for model training</strong></li><li><strong>NVIDIA Rubin systems cost $7.8M each; memory costs soared 485% — AI arms race bottleneck shifting from compute to memory</strong></li></ul><h3>🧠 Rex's Take</h3><p>These three stories tell one narrative: AI economy's 'dual displacement' — replacing human labor while demanding massive capital to sustain itself. Oracle's 21K are 'efficiency layoffs' (AI did their jobs). Meta's 8K are 'strategic layoffs' (money moved from headcount to GPU budget). The former has a ceiling; the latter doesn't. Meta employees posting anti-AI-tracking petitions mirrors the Hollywood writers' strike logic: you can't use my work to train my replacement. NVIDIA Rubin's $7.8M/system with 485% memory cost inflation closes the economic loop: fire people → save money → buy GPUs → replace more people. The physical constraint? HBM memory capacity — SK Hynix and Samsung's production plans may matter more than any AI paper.</p>"
+    },
+    "sources": [
+      {
+        "title": "AI Cost 21,000 Jobs at Oracle This Year, and More Layoffs Could Be Coming — Forbes",
+        "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/23/ai-cost-21000-jobs-at-oracle-this-year-and-more-layoffs-could-be-coming",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a3a88ebc8df787d33262dfc/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds"
+      },
+      {
+        "title": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount — NY Times",
+        "url": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
+        "image": ""
+      },
+      {
+        "title": "NVIDIA's Memory Costs Soar 485%, Latest AI Systems Now Cost $7.8 Million — Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+        "image": ""
+      }
+    ],
+    "cover": "https://imageio.forbes.com/specials-images/imageserve/6a3a88ebc8df787d33262dfc/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds"
+  },
+  {
+    "date": "2026-06-25",
+    "section": "design",
+    "title": {
       "zh": "Figma Config 2026重磅发布：Code Layers让画布变编程环境、AI Shader效果、Prompt生成自定义插件——设计工具的\"IDE化\"正式开始",
       "en": "Figma Config 2026: Code Layers Turn Canvas Into IDE, AI Shaders, Prompt-Built Plugins — Design Tools Officially Become Development Environments"
     },
