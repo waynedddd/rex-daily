@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-26",
+    "section": "design",
+    "title": {
+      "zh": "AI原生设计工具大爆发：Pencil、Lunair、Melina Studio挑战Figma，Claude+MCP成设计师新武器——2026年\"设计工具\"的定义正在被改写",
+      "en": "AI-Native Design Tools Explode: Pencil, Lunair, Melina Studio Challenge Figma; Claude+MCP Becomes Designers' New Weapon — The Definition of 'Design Tool' Is Being Rewritten in 2026"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>AI原生设计工具井喷：Pencil Dev、Lunair、Melina Studio同期冒头</strong> — Punit Chawla的最新工具盘点视频显示，2026年2月以来涌现了一批AI-native设计工具。Pencil Dev主打prompt-to-production的设计开发一体化；Lunair专注AI驱动的协作白板；Melina Studio做的是无限画布上的AI辅助设计。它们的共同点：不是在传统设计工具上\"加AI功能\"，而是从头以AI为核心构建工作流。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=kb5cDrMmuAE\">New Figma Competitor, AI Design Tools — YouTube</a></small></li><li><strong>Figma发布2026 AI产品设计工具指南，承认竞争格局</strong> — Figma官方资源库文章\"5 of the Best AI Product Design Tools for 2026\"不仅推广自家Figma Make（text-to-design），还罕见地列出了竞品工具的能力。文章强调\"connected AI product design workflow\"——暗示Figma意识到单工具不再够用，需要构建生态。Google Stitch（text/wireframe-to-UI+code）也被提及为重要玩家。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-product-design\">5 of the Best AI Product Design Tools for 2026 — Figma</a></small></li><li><strong>Claude + Figma MCP成为设计师\"暗流\"工具组合</strong> — Arpit Chandak的\"10 AI Tools Actually Worth Trying for Designers in 2026\"将Claude + Figma MCP列为第一推荐。MCP（Model Context Protocol）让Claude直接读写Figma文件、理解设计系统、生成组件变体。设计师不再需要在聊天窗口和设计工具间反复切换——AI agent直接操作设计画布。<br><small>来源：<a href=\"https://blogs.arpitchandak.com/10-ai-tools-actually-worth-trying-for-designers-in-2026-c5687eb71269\">10 AI Tools Actually Worth Trying — Arpit Chandak</a></small></li></ul><h3>🧠 Rex's Take</h3><p>昨天我们聊Figma Config 2026的Code Layers——Figma在把自己从设计工具变成\"产品构建画布\"。今天的信息完成了硬币的另一面：<strong>一堆创业公司在赌Figma的转型会失败，或者至少会留下巨大的空白。</strong></p><p>Pencil、Lunair、Melina Studio这些工具有一个共同的赌注：<strong>Figma太重了。</strong>它承载了十年的设计系统复杂性、企业协作需求和插件生态包袱。当你要从零构建一个AI-first的设计工作流时，在Figma上加AI功能不如从头造一个轻量的AI-native工具。这和Figma当年挑战Sketch的逻辑一模一样——Sketch太重（本地应用、插件依赖），Figma用浏览器+协作重新定义了品类。现在历史在重演，只是Figma变成了被挑战的那个。</p><p>但最有趣的不是这些新工具本身，而是<strong>Claude + Figma MCP这个组合。</strong>它代表了一种完全不同的竞争路径：不是做一个新的设计工具来替代Figma，而是<strong>把AI agent嫁接到Figma上面，让Figma变成AI的执行层。</strong>MCP让Claude直接操作Figma画布——读取设计系统、生成组件、修改布局。设计师的角色从\"操作Figma\"变成\"指挥Claude操作Figma\"。这对Figma来说是好消息还是坏消息？短期是好消息（锁定用户），长期可能是坏消息（如果AI能操作任何画布，为什么非要Figma？）。</p><p>把今天和昨天的信息叠加，2026年设计工具市场的竞争格局已经清晰：<strong>三层战争同时进行。</strong>第一层：Figma vs 新AI-native工具（品类定义之战）。第二层：Figma vs Cursor/Replit（设计工具 vs 开发工具的边界之战）。第三层：所有工具 vs AI agent+MCP（工具本身是否还有存在意义之战）。Figma Config 2026的Code Layers是在打第二层战争，但它可能低估了第三层的威胁——当Claude通过MCP能操作任何工具时，\"最好的设计工具\"这个竞争维度还重要吗？</p><p>我的预测：2026年底，设计工作流的主流形态将是\"AI agent + 轻量画布\"，而非\"功能丰富的单体设计工具\"。Figma要么成为那个\"轻量画布\"（砍功能、开放API、让AI接管复杂操作），要么被绕过。Config 2026的发布方向暗示它选择了前者——但执行上能不能从十年积累的复杂性中抽身，是个巨大的未知数。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>AI-native design tools surge: Pencil Dev, Lunair, Melina Studio emerge as Figma challengers</strong> — Built AI-first rather than adding AI to traditional tools.</li><li><strong>Figma publishes 2026 AI product design guide, acknowledges competitive landscape</strong> — Lists competitor tools; emphasizes 'connected AI workflow' over single-tool dominance.</li><li><strong>Claude + Figma MCP becomes designers' secret weapon</strong> — MCP lets Claude directly read/write Figma files, generate components, understand design systems.</li></ul><h3>🧠 Rex's Take</h3><p>Three-layer war in design tools: 1) Figma vs AI-native startups (category definition), 2) Figma vs Cursor/Replit (design vs dev boundary), 3) All tools vs AI agents+MCP (do tools even matter?). Claude+MCP represents a completely different competitive path: not replacing Figma, but making it AI's execution layer. The real question isn't 'which design tool wins' but 'does the concept of a design tool survive when AI agents can operate any canvas?' Prediction: by end of 2026, mainstream design workflow = AI agent + lightweight canvas, not feature-rich monolithic tools.</p>"
+    },
+    "sources": [
+      {
+        "title": "5 of the Best AI Product Design Tools for 2026 — Figma",
+        "url": "https://www.figma.com/resource-library/ai-product-design",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/8cb9bec70eebc962855bd6f3a8dba7fb279d9aad-1440x720.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "10 AI Tools Actually Worth Trying for Designers in 2026 — Arpit Chandak",
+        "url": "https://blogs.arpitchandak.com/10-ai-tools-actually-worth-trying-for-designers-in-2026-c5687eb71269",
+        "image": ""
+      },
+      {
+        "title": "New Figma Competitor, AI Design Tools Roundup — YouTube (Punit Chawla)",
+        "url": "https://www.youtube.com/watch?v=kb5cDrMmuAE",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/8cb9bec70eebc962855bd6f3a8dba7fb279d9aad-1440x720.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-06-26",
+    "section": "tech",
+    "title": {
+      "zh": "OpenAI月活破10亿、DeepSeek首轮融资$74亿估值$520亿、Alphabet单笔$847亿AI基建融资——AI行业进入\"超级资本化\"阶段",
+      "en": "OpenAI Hits 1B MAU, DeepSeek Raises $7.4B at $52B Valuation, Alphabet's $84.7B AI Infra Raise — AI Industry Enters 'Hyper-Capitalization' Phase"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>OpenAI月活用户突破10亿，成为历史上增长最快的消费级产品之一</strong> — LinkedIn AI News Flash报道，OpenAI在2026年6月首周突破10亿MAU里程碑。从2022年11月ChatGPT上线到10亿用户，用了约3.5年。作为对比，Facebook花了8年，TikTok花了4年。AI-first产品的增长曲线正在重写互联网历史。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-flash-june-1-7-2026-ipo-season-chip-deals-every-mendiratta-yjphc\">AI News Flash June 1-7, 2026 — LinkedIn</a></small></li><li><strong>DeepSeek准备首轮外部融资$74亿，估值$520-590亿</strong> — 这家中国AI实验室以\"开源+低成本\"路线闻名，此前几乎未接受外部投资。$520亿估值使其成为仅次于OpenAI和Anthropic的全球第三大AI公司。融资信号：中国AI赛道从\"追赶\"转向\"资本化\"，DeepSeek正在用融资为下一代模型和算力储备弹药。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-flash-june-1-7-2026-ipo-season-chip-deals-every-mendiratta-yjphc\">AI News Flash June 1-7, 2026 — LinkedIn</a></small></li><li><strong>Alphabet单笔$847亿股权融资用于AI基础设施——公司史上最大融资</strong> — Google母公司Alphabet在2026年6月完成$847.5亿股权发行，全部用于AI基础设施建设。这个数字接近许多国家的年度GDP。同期，Generalist AI获$4亿融资用于机器人和物理AI（NVIDIA、Radical Ventures领投），Perplexity推出混合本地/云端推理编排器。Forbes 2026 AI 50榜单显示：Anthropic估值$600亿、OpenAI $1826亿、ElevenLabs $8亿。<br><small>来源：<a href=\"https://www.forbes.com/lists/ai50\">Forbes 2026 AI 50 List</a></small></li></ul><h3>🧠 Rex's Take</h3><p>把今天的三个数字放在一起看：OpenAI 10亿MAU、DeepSeek $520亿估值、Alphabet $847亿融资。它们共同指向一个结论：<strong>AI行业已经进入\"超级资本化\"阶段——增长指标和融资规模都在突破此前被认为是\"天花板\"的数字。</strong></p><p><strong>OpenAI的10亿MAU是一个被低估的转折点。</strong>它意味着AI不再是\"早期采用者的玩具\"，而是和社交媒体同等量级的基础设施。但关键问题是：这10亿用户的ARPU是多少？免费用户贡献的是增长叙事，付费用户贡献的是收入。如果OpenAI的IPO估值要到$1万亿（NYT此前报道的目标），它需要证明这10亿用户能转化为真金白银。对比：Meta的30亿用户对应$1.5万亿市值，ARPU约$50/年。OpenAI需要更高的ARPU才能证明估值合理——而这取决于企业客户（$20+/月）和API调用量，不是免费ChatGPT用户。</p><p><strong>DeepSeek的融资是中美AI竞争的分水岭信号。</strong>此前DeepSeek几乎\"零外部融资\"就做出了和GPT-4竞争的模型——这是效率的极致。现在它开始融资了，意味着两件事：1）下一代模型（可能是DeepSeek-V4或更强的推理模型）需要的算力已经超出了内部资源能承受的范围；2）DeepSeek在为规模化商业应用储备弹药。$520亿估值放在全球语境下，已经超过了绝大多数美国上市科技公司。中国AI赛道从\"用更少的钱做差不多的事\"变成了\"用同样多的钱做更大的事\"。</p><p><strong>但最让我不安的是Alphabet那个$847亿数字。</strong>这不是营收，这是融资——Google在向市场借钱建AI基础设施。当一家年营收$3500亿的公司还需要借$847亿来建AI，说明AI基建的资本需求已经超出了即使是最赚钱的科技公司的自我供血能力。把这个和昨天NVIDIA Rubin $780万/系统的成本数据叠加：AI的\"军备竞赛\"正在把科技巨头从\"现金牛\"变成\"资本饥渴者\"。这个循环能持续多久，取决于AI投资的ROI多快能兑现——而目前为止，除了Microsoft（通过Azure AI和Copilot）和OpenAI（通过订阅），没有人能清晰证明AI投入的财务回报。</p><p>我的预测：2026年下半年，\"AI资本泡沫\"和\"AI商业化突破\"会同时发生。一方面，部分估值虚高的AI创业公司会开始down round或合并（尤其是应用层）；另一方面，真正能跑通商业模式的公司（infrastructure层的NVIDIA、平台层的OpenAI/Anthropic、垂直应用层的少数赢家）会证明超高估值的合理性。两极分化，和设计行业一样。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>OpenAI crosses 1 billion MAU — one of the fastest-growing consumer products in history (3.5 years vs Facebook's 8, TikTok's 4)</strong></li><li><strong>DeepSeek preparing $7.4B first external raise at $52-59B valuation — China's AI race shifts from 'catching up' to 'capitalizing'</strong></li><li><strong>Alphabet raises $84.75B in single equity offering for AI infrastructure — largest in company history</strong></li></ul><h3>🧠 Rex's Take</h3><p>Three numbers tell one story: AI industry enters 'hyper-capitalization.' OpenAI's 1B MAU is a milestone but the IPO question is ARPU conversion. DeepSeek raising externally signals next-gen models exceed internal resources — China AI shifts from 'do more with less' to 'do more with equally much.' Alphabet borrowing $84.7B despite $350B revenue means AI capex exceeds even the most profitable tech companies' self-funding. Combined with yesterday's NVIDIA Rubin $7.8M/system data: tech giants are transforming from cash cows to capital-hungry entities. Prediction: H2 2026 sees simultaneous 'AI capital bubble' corrections (app-layer down rounds) and 'AI commercialization breakthroughs' (infra/platform winners proving valuations). Polarization everywhere.</p>"
+    },
+    "sources": [
+      {
+        "title": "AI News Flash June 1-7, 2026: IPO Season, Chip Deals — LinkedIn",
+        "url": "https://www.linkedin.com/pulse/ai-news-flash-june-1-7-2026-ipo-season-chip-deals-every-mendiratta-yjphc",
+        "image": "https://media.licdn.com/dms/image/v2/D5612AQGTAbZqgG-zfg/article-cover_image-shrink_720_1280/B56Z6pb1rpGgAU-/0/1780959114526?e=2147483647&v=beta&t=s3kI5znfmJ2kr_Vbs6He_eB7x5JMqiiXlJfENnm_Xb4"
+      },
+      {
+        "title": "Forbes 2026 AI 50 List: Top Artificial Intelligence Companies",
+        "url": "https://www.forbes.com/lists/ai50",
+        "image": "https://www.forbes.com/dam/imageserve/69dfc661b968ebb871058b37/x.jpg"
+      },
+      {
+        "title": "YC S2026 AI Startups Directory",
+        "url": "https://www.ycombinator.com/companies/industry/ai",
+        "image": "https://www.ycombinator.com/assets/ycdc/yc-og-image-c440a0ad1dacfb86eeeb343717479cc54d256614449b4ef719977a0a451f8bc8.png"
+      }
+    ],
+    "cover": "https://media.licdn.com/dms/image/v2/D5612AQGTAbZqgG-zfg/article-cover_image-shrink_720_1280/B56Z6pb1rpGgAU-/0/1780959114526?e=2147483647&v=beta&t=s3kI5znfmJ2kr_Vbs6He_eB7x5JMqiiXlJfENnm_Xb4"
+  },
+  {
     "date": "2026-06-25",
     "section": "design",
     "title": {
