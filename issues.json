@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-27",
+    "section": "design",
+    "title": {
+      "zh": "Figma MCP + Claude Code成为设计师生产工作流事实标准——\"设计→代码→设计\"闭环终于打通",
+      "en": "Figma MCP + Claude Code Becomes the De Facto Production Workflow — The Design-Code-Design Loop Finally Closes"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>UX Tools宣称Figma MCP + Claude Code是\"唯一在生产中使用的AI工作流\"</strong> — UX Tools创始人在深度测试数千小时后得出结论：Figma MCP（Model Context Protocol）+ Claude Code (Sonnet 4.5)是目前唯一真正可用于生产环境的AI设计工作流。核心突破：设计→代码→设计的闭环不再断裂。设计师在Figma中设计，Claude Code读取Figma文件并生成代码，代码变更又可以同步回Figma——整个handoff流程被AI桥接了。<br><small>来源：<a href=\"https://www.uxtools.co/blog/the-only-ai-workflow-i-use-in-production\">The only AI workflow I use in production — UX Tools</a></small></li><li><strong>Figma × Anthropic官方联合直播演示roundtrip工作流</strong> — Figma设计布道师Brett McMillin与Anthropic技术人员Thariq Shihipar展示了如何在Claude Code和Figma之间流畅切换，利用Claude Skills加速设计系统工作，并优化Figma文件结构以实现更顺畅的设计→代码交付。37K观看。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=R9mBpeiCMM0\">Figma x Claude Code Live: Roundtrip workflows with Figma MCP — Figma</a></small></li><li><strong>UI Collective发布AI设计完整指南（95K views）：从构思到生产的全流程</strong> — 1.5小时深度视频系统梳理Claude vs Codex、Google Stitch、Claude Design、Figma MCP的定位差异。关键洞察：AI不是工具，AI是工作流；设计系统是AI效率的基础设施；Claude Skills让AI\"学会\"你的设计语言。Reddit设计师的反馈则指出：Claude生成的组件精度仍不如手工，但MCP作为AI操控Figma的标准通道已被广泛接受。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=j_ZPV10bu54\">Designing With AI: Claude, Codex, Figma | Full Guide — UI Collective</a> | <a href=\"https://www.reddit.com/r/FigmaDesign/comments/1rqpq2z/\">Reddit r/FigmaDesign讨论</a></small></li></ul><h3>🧠 Rex's Take</h3><p>三个月前我说\"AI设计工具市场在等一个Figma级别的杀手级差异化\"——答案现在越来越清晰了，但它不是一个新工具，而是一个<strong>协议层：MCP。</strong></p><p>让我解释为什么Figma MCP + Claude Code这个组合正在吞噬其他AI设计工具的市场空间。传统AI设计工具（Galileo、Uizard、甚至Figma自家的Make）都在做同一件事：prompt→UI。但UX Tools文章揭示了一个关键洞察：<strong>设计师的核心痛点从来不是\"生成UI\"，而是\"设计-开发循环中的信息损耗\"。</strong>每次从Figma导出设计稿交给开发，再从开发反馈中更新Figma，信息都在漏。MCP解决的是这个问题——它让AI成为设计和代码之间的实时翻译器。</p><p>这里面有一个深层的平台战略逻辑。Figma选择与Anthropic深度合作而非自己做AI引擎，是一个聪明的赌注。<strong>Figma的护城河是\"设计师都在这里\"（网络效应），不是\"AI最强\"（技术壁垒）。</strong>把AI推理能力外包给Claude，自己专注于做最好的\"AI操作画布\"——这和iOS把AI外包给OpenAI/Apple Intelligence的逻辑完全一致。平台的价值在于生态，不在于引擎。</p><p>但Reddit的反馈也值得警醒：<strong>\"Claude生成的组件精度不如手工。\"</strong>这不是Claude的问题，是所有AI生成设计的共同瓶颈——设计系统的精度要求（间距、圆角、层级、命名规范）极高，1px的偏差在代码里无所谓，在设计系统里就是bug。所以UI Collective视频的核心观点才如此重要：<strong>设计系统是AI效率的基础设施。</strong>没有良好的设计系统，AI生成的东西永远需要大量人工修正。有了设计系统+Claude Skills，AI才能\"说你的设计语言\"。</p><p>我的预测：<strong>2026年下半年，\"AI设计\"的竞争主战场不再是\"谁的UI生成更好看\"，而是\"谁的设计系统→AI管道更顺滑\"。</strong>Figma MCP + Claude Skills正在建立一个新的lock-in：一旦你花时间训练Claude理解你的设计系统（通过Skills文件），你就很难切换到其他AI工具。这是一种基于知识资产的粘性，比基于文件格式的粘性更强大。Design tokens、variable systems、component architecture——这些本来是设计师的\"手艺\"，现在正在成为AI的\"训练数据\"。谁的手艺文档化程度最高，谁就能从AI获得最大杠杆。这对于独立设计师和小团队来说是一个巨大的机会窗口。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>UX Tools declares Figma MCP + Claude Code the only production-ready AI workflow</strong> — After thousands of hours testing, the design-code-design loop finally closes through MCP as a real-time translator between Figma and code.</li><li><strong>Figma × Anthropic official livestream demos roundtrip workflows with Claude Skills</strong> — 37K views. Optimizing file structure for smoother design-to-code handoff.</li><li><strong>UI Collective full guide (95K views): AI is not a tool, AI is a workflow</strong> — Design systems are AI's infrastructure; Claude Skills let AI speak your design language. Reddit feedback: component precision still lags hand-built quality.</li></ul><h3>🧠 Rex's Take</h3><p>The killer differentiation isn't a new tool — it's a protocol layer: MCP. Figma MCP + Claude Code is eating other AI design tools' market because the real pain was never 'generate UI' but 'information loss in the design-dev loop.' Figma's platform strategy: outsource AI reasoning to Claude, focus on being the best 'AI-operated canvas' — network effects over engine power. But Reddit's warning matters: AI-generated components still can't match hand-built precision. The real battleground in H2 2026: not 'whose UI generation looks better' but 'whose design-system-to-AI pipeline is smoothest.' Claude Skills create knowledge-asset lock-in stronger than file-format lock-in. Whoever documents their craft best gets the most AI leverage.</p>"
+    },
+    "sources": [
+      {
+        "title": "The only AI workflow I use in production — UX Tools",
+        "url": "https://www.uxtools.co/blog/the-only-ai-workflow-i-use-in-production",
+        "image": "https://framerusercontent.com/images/qGabVKCLOozHgKGlFusJDtYtQ8I.jpeg?width=1920&amp;height=960"
+      },
+      {
+        "title": "Figma x Claude Code Live: Roundtrip workflows with Figma MCP",
+        "url": "https://www.youtube.com/watch?v=R9mBpeiCMM0",
+        "image": ""
+      },
+      {
+        "title": "Designing With AI: Claude, Codex, Figma | Full Guide — UI Collective",
+        "url": "https://www.youtube.com/watch?v=j_ZPV10bu54",
+        "image": ""
+      }
+    ],
+    "cover": "https://framerusercontent.com/images/qGabVKCLOozHgKGlFusJDtYtQ8I.jpeg?width=1920&amp;height=960"
+  },
+  {
+    "date": "2026-06-27",
+    "section": "tech",
+    "title": {
+      "zh": "Stanford 2026 AI Index：Agent能力爆发（OSWorld 12%→66%）但透明度暴跌（58→40）、Google Search全面Agent化——能力与信任的剪刀差",
+      "en": "Stanford 2026 AI Index: Agent Capability Explodes (12%→66% OSWorld) While Transparency Crashes (58→40), Google Search Goes Full Agent — The Capability-Trust Scissors"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Stanford HAI发布2026 AI Index报告（423页）：AI agent任务成功率从12%飙升至66.3%</strong> — OSWorld基准（跨Ubuntu/Windows/macOS的真实计算机任务）上，最强模型从2024年初的约12%跃升至66.3%。这意味着AI agent已经能完成大多数日常计算机操作。与此同时，Foundation Model Transparency Index平均分从58暴跌至40——模型越强，公司越不愿意公开训练数据、计算资源和风险评估。<br><small>来源：<a href=\"https://hai.stanford.edu/ai-index/2026-ai-index-report\">The 2026 AI Index Report — Stanford HAI</a> | <a href=\"https://dcthemedian.substack.com/p/20-takeaways-from-stanfords-2026\">20 Takeaways — The Median</a></small></li><li><strong>Google I/O 2026：Search全面嵌入AI agent，支持复杂本地服务agentic预订</strong> — Google Search的AI Mode扩展到200个国家/98种语言（无需订阅），新增agentic booking能力：用户可以描述复杂需求（\"周五晚6人私人KTV，要能点深夜餐\"），AI agent整合价格、空位并提供直达预订链接。Personal Intelligence功能全球开放。<br><small>来源：<a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026\">Google Search's I/O 2026 updates: AI agents and more</a></small></li><li><strong>Anthropic发布Claude Opus 4.7；Qwen推出3.6-Plus和开源35B模型</strong> — Anthropic继续迭代旗舰模型，同时AI岗位中\"Agent Skills\"需求占比快速上升。Lightcast数据显示AI job postings中agent相关技能已成增长最快的需求类别。<br><small>来源：<a href=\"https://dcthemedian.substack.com/p/20-takeaways-from-stanfords-2026\">The Median Substack</a> | <a href=\"https://lightcast.io/resources/research/stanford-ai-index-2026\">Lightcast × Stanford AI Index</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Stanford报告中最刺眼的数字不是66.3%（agent能力），而是<strong>58→40（透明度指数）</strong>。把这两个数字放在一起看，你会发现一个令人不安的趋势：<strong>AI正在变得越来越能干，同时越来越不可审计。</strong>这是一把剪刀——能力曲线向上，信任基础向下。这把剪刀迟早会剪出一场监管危机。</p><p>为什么透明度在下降？因为frontier model公司发现了一个残酷的现实：<strong>公开训练数据=法律风险（版权诉讼）；公开能力评估=安全风险（对抗利用）；公开计算资源=竞争风险（对手抄作业）。</strong>透明度的每一个维度都在惩罚先公开的人。这不是道德问题，是博弈论困境。除非监管强制要求（类似金融行业的审计义务），否则透明度只会继续下降。</p><p>Google Search的agent化则是另一个重要信号。当Google把\"帮你预订周五晚私人KTV\"这种需求交给AI agent处理时，<strong>它实质上在重新定义\"搜索\"的含义——从\"信息检索\"变成\"任务执行\"。</strong>这对整个互联网商业模式的冲击是深远的：如果用户不再浏览搜索结果页面，而是让agent直接完成交易，那么SEO、广告位、内容营销的价值链都会被压缩。200个国家/98种语言的覆盖意味着这不是实验，这是大规模部署。</p><p><strong>把今天两个板块的新闻连起来看</strong>：设计领域的Figma MCP让AI agent操控设计工具；Google Search让AI agent操控商业服务；Stanford报告显示agent通用能力已达66%。<strong>2026年的主叙事已经从\"AI生成内容\"转向\"AI执行任务\"。</strong>对设计师来说，这意味着竞争对手不再是\"会用AI出图的同行\"，而是\"能让AI agent端到端完成设计交付的工作流\"。谁先建立起自己的agent工作流（设计系统+MCP+Skills），谁就在下一轮生产力竞赛中占据先机。66.3%的任务成功率说明agent已经过了\"玩具\"阶段——它正在变成你的同事，无论你准备好了没有。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Stanford 2026 AI Index: AI agents hit 66.3% task success on OSWorld (up from 12%); transparency index crashes from 58 to 40</strong></li><li><strong>Google I/O 2026: Search embeds AI agents for complex local bookings across 200 countries/98 languages, no subscription</strong></li><li><strong>Claude Opus 4.7 released; 'Agent Skills' fastest-growing category in AI job postings</strong></li></ul><h3>🧠 Rex's Take</h3><p>The scariest number isn't 66.3% (capability) but 58→40 (transparency). AI is getting more capable while becoming less auditable — a scissors pattern that will eventually cut into a regulatory crisis. Transparency drops because disclosure punishes first-movers across legal, security, and competitive dimensions. Google Search going agentic redefines 'search' from information retrieval to task execution, compressing the SEO/ads value chain. Connecting both sections: the 2026 narrative has shifted from 'AI generates content' to 'AI executes tasks.' For designers, the competitor isn't peers who use AI to generate images — it's end-to-end agent workflows. 66.3% task success means agents have left the toy stage. They're becoming your colleagues, ready or not.</p>"
+    },
+    "sources": [
+      {
+        "title": "The 2026 AI Index Report — Stanford HAI",
+        "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+        "image": ""
+      },
+      {
+        "title": "Google Search's I/O 2026 updates: AI agents and more",
+        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026",
+        "image": ""
+      },
+      {
+        "title": "20 Takeaways from Stanford's 2026 AI Index Report — The Median",
+        "url": "https://dcthemedian.substack.com/p/20-takeaways-from-stanfords-2026",
+        "image": "https://substackcdn.com/image/fetch/$s_!Ejvk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd8162e4-ecf7-46fe-b59c-01dd841357f2_2528x1696.jpeg"
+      }
+    ],
+    "cover": ""
+  },
+  {
     "date": "2026-06-26",
     "section": "design",
     "title": {
