@@ -16789,6 +16789,170 @@
       "body": "2026 年过半，AI 产品视觉设计的演进可以用一句话总结：从「展示 AI 的能力」到「展示 AI 的思考」。上半年初我们讨论 AI 品牌设计的两极化（极致品牌 vs 极致隐形），到 Q2 出现了更成熟的第三条路：让 AI 的内部过程成为界面的一部分。Chain-of-thought 可视化、Agent 协作图、置信度色带——这些不是装饰，是功能。这和 LLM 技术本身的演进完全同步：当模型开始「推理」而非只「生成」，界面设计也必须从「展示结果」进化到「展示过程」。另一个半年度趋势：AI-Native 设计系统的兴起意味着设计师的产出物正在改变——不只是组件和样式，还包括组件的「使用说明」和「关系图谱」。这本质上是一种新的设计交付物：不是给人看的 mockup，而是给 AI 读的 blueprint。设计师正在成为 AI 的「建筑师」——不再亲手砌砖，而是画图纸让 AI 去建。这不是降级，是升维。",
       "body_en": "Half of 2026 gone. AI product visual design evolution summarized: from showcasing AI capability to showcasing AI thinking. Early H1 we discussed AI brand design polarization (maximum branding vs maximum invisibility); by Q2 a more mature third path emerges: making AIs internal process part of the interface. Chain-of-thought visualization, agent collaboration graphs, confidence bands — not decoration but function. Perfectly synchronized with LLM technology itself: as models begin reasoning rather than just generating, interface design must evolve from showing results to showing process. Another H1 trend: AI-Native design system rise means designer deliverables are changing — not just components and styles but component usage instructions and relationship graphs. Essentially a new design deliverable: not human-readable mockups but AI-readable blueprints. Designers are becoming AI architects — no longer laying bricks by hand but drawing plans for AI to build. Not a downgrade but a dimension upgrade.",
       "date": "2026-06-26"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Agentic Wealth — AI 财富管理从建议到自主执行的 Q2 跃迁",
+      "body": "2026 年 Q2 结束时，Agentic Finance 已经从概念变成了产品标配。Wealthfront 和 Betterment 的 AI Agent 现在可以自主执行税损收割、自动再平衡、甚至在用户授权范围内做跨账户资金调度。设计上最大的变化：传统的「确认按钮」被「授权边界设置器」替代——用户不再逐笔审批，而是预设规则和阈值，AI 在边界内自主行动。Fintech 界面正在从「操作面板」进化为「治理面板」。",
+      "body_en": "By end of Q2 2026, Agentic Finance went from concept to product standard. Wealthfront and Betterment AI agents now autonomously execute tax-loss harvesting, auto-rebalancing, even cross-account fund allocation within authorized boundaries. Biggest design shift: traditional confirm buttons replaced by authorization boundary configurators — users no longer approve per-transaction but preset rules and thresholds, AI acts autonomously within bounds. Fintech interfaces evolving from operation panels to governance panels.",
+      "tags": [
+        "Agentic Finance",
+        "Autonomous AI",
+        "Governance UI",
+        "Wealth Management"
+      ],
+      "link": "https://www.behance.net/search/projects/agentic%20wealth%20management%20AI",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-06-27"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 实时现金流预测 — 时间轴叙事设计",
+      "body": "新一代 SMB 财务工具把现金流预测从静态报表变成动态时间轴。核心创新：AI 基于历史模式+已知应收应付+季节性因子，生成未来 90 天的概率性现金流「河道图」——中间是最可能路径，两侧渐变色带表示置信区间。最精妙的交互：拖动时间轴上的「假设事件」（如丢失一个大客户），整条河道实时变形。金融规划从「看数字」变成「玩模拟」。",
+      "body_en": "Next-gen SMB finance tools transform cash flow forecasting from static reports to dynamic timelines. Core innovation: AI generates 90-day probabilistic cash flow river charts based on historical patterns + known AR/AP + seasonality. Center shows most likely path, gradient bands show confidence intervals. Cleverest interaction: dragging hypothetical events on the timeline (e.g. losing a major client) causes the entire river to reshape in real-time. Financial planning shifts from reading numbers to playing simulations.",
+      "tags": [
+        "Cash Flow",
+        "SMB Finance",
+        "Simulation UX",
+        "River Chart"
+      ],
+      "link": "https://dribbble.com/search/cash-flow-prediction-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-06-27"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "六月末回看 Fintech AI 设计的半年演进，一条主线已经无可争议：用户角色的三级跳——从「操作者」（Q1 初）到「监督者」（Q1 末）到「治理者」（Q2 末）。操作者按按钮，监督者审批 AI 的建议，治理者设定 AI 自主行动的边界规则。每一次跳跃都意味着界面设计的根本重构：操作面板用按钮和表单，监督面板用审批卡和时间线，治理面板用规则编辑器和边界可视化。2026 下半年的 Fintech 设计竞争将围绕一个核心问题展开：如何让「规则设定」这件极其抽象的事变得像「拖动滑块」一样直觉？现金流模拟的时间轴交互是一个好的方向——把抽象的「如果…会怎样」变成可拖拽的具象操作。谁先解决「治理体验的直觉化」，谁就能赢下高净值用户和 SMB CFO 这两个最值钱的市场。",
+      "body_en": "Looking back at H1 2026 fintech AI design evolution, one throughline is undeniable: the user role triple-jump — from operator (early Q1) to supervisor (late Q1) to governor (late Q2). Operators press buttons, supervisors approve AI suggestions, governors set boundary rules for autonomous AI action. Each jump means fundamental interface redesign: operation panels use buttons and forms, supervision panels use approval cards and timelines, governance panels use rule editors and boundary visualizations. H2 2026 fintech design competition will center on one question: how to make rule-setting — an extremely abstract task — feel as intuitive as dragging a slider? The cash flow simulation timeline interaction points the right direction: turning abstract what-ifs into draggable concrete operations. Whoever solves governance experience intuitivization first wins the two most valuable markets: HNW users and SMB CFOs.",
+      "date": "2026-06-27"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 户外运动风险评估 — 天气×地形×体能的三维决策界面",
+      "body": "面向越野跑和登山的 AI 风险评估产品。核心是一个「三维风险矩阵」：天气变化概率、地形难度、用户当前体能状态交叉计算出「安全窗口」。界面用时间轴+颜色编码展示未来 12 小时的风险波动——绿色窗口意味着三个维度同时安全。最有意思的设计：当 AI 建议取消出行时，不只说「有风险」，而是可视化三个维度中哪个是主要威胁（用大小不同的圆环表示），让用户理解而非盲从。",
+      "body_en": "AI risk assessment product for trail running and mountaineering. Core: a three-dimensional risk matrix — weather change probability × terrain difficulty × user current fitness intersecting to calculate safety windows. Timeline + color coding shows 12-hour risk fluctuation — green windows mean all three dimensions simultaneously safe. Most interesting design: when AI suggests canceling, it doesnt just say risky but visualizes which dimension is the primary threat (different-sized rings), enabling understanding over blind compliance.",
+      "tags": [
+        "Outdoor Sports",
+        "Risk Assessment",
+        "Multi-Dimensional",
+        "Safety UX"
+      ],
+      "link": "https://dribbble.com/search/outdoor-sports-ai-risk",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=1200&q=80",
+      "date": "2026-06-27"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动社交 2.0 — 从匹配到共同进化",
+      "body": "2026 年 Q2 运动社交 App 进入第二阶段：不再只是匹配训练伙伴，而是 AI 为训练小组设计「共同进化路径」。两个跑者被匹配后，AI 根据双方能力差异生成一个让强者不无聊、弱者不掉队的训练计划——比如强者做间歇、弱者做匀速，在同一条路线上。界面设计上最创新的是「双人进度轨道」——两条并行的进度线，交叉点标注着「下次你们可以一起挑战的新目标」。运动社交的价值从「一起练」升级到「一起变强」。",
+      "body_en": "Q2 2026 sports social apps enter phase two: beyond matching training partners to AI designing co-evolution paths for training groups. Two runners matched, AI generates plans where stronger runners arent bored and weaker ones arent left behind — e.g., intervals for the strong, steady pace for the developing, on the same route. Most innovative UI: dual progress tracks — two parallel progress lines with intersection points marking next shared challenge goals. Sports social value upgrades from train together to grow together.",
+      "tags": [
+        "Social Fitness",
+        "Co-Evolution",
+        "AI Matching",
+        "Dual Track UI"
+      ],
+      "link": "https://dribbble.com/search/social-fitness-ai-2026",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/12083587/file/original-4f31bcadd6a85b02e1f61b5b24b90c5a.png?resize=1600x1200",
+      "date": "2026-06-27"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 在 2026 年上半年完成了一个完整的进化弧线：从个人工具（年初的训练优化）→ 保护系统（Q1 的伤病预防）→ 社交平台（Q2 的伙伴匹配）→ 共同成长引擎（Q2 末的共同进化路径）。这四个阶段对应四种截然不同的设计范式。但最有意思的不是这条进化线本身，而是它暴露的一个更深层的产品真相：运动的最大对手不是疲劳，是孤独。所有运动 AI 产品的留存数据都指向同一个结论——有社交关系绑定的用户留存率是纯工具用户的 3-5 倍。户外风险评估产品则揭示了另一个方向：当运动有真实的物理风险时，AI 的角色从「教练」变成「守护者」。这两个方向合在一起看，运动 AI 的终极形态可能是一个「智能运动社区」——既帮你找到同行者，又帮你们一起安全回来。",
+      "body_en": "Sports AI in H1 2026 completed a full evolution arc: personal tool (early year training optimization) → protection system (Q1 injury prevention) → social platform (Q2 partner matching) → co-growth engine (late Q2 co-evolution paths). Four stages, four distinct design paradigms. But the most interesting thing isnt the arc itself — its the deeper product truth it reveals: exercises greatest opponent isnt fatigue, its loneliness. All sports AI retention data points the same way — users with social bonds retain 3-5x vs pure tool users. Outdoor risk assessment reveals another direction: when sports carry real physical risk, AIs role shifts from coach to guardian. Together, sports AIs ultimate form might be an intelligent sports community — helping you find companions AND helping you all return safely.",
+      "date": "2026-06-27"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 摘要分层 — 同一篇文章的三种密度表达",
+      "body": "2026 年 Q2 最成熟的内容设计模式：AI 为每篇长文自动生成三层摘要——一句话核心论点、三段式关键摘要、完整原文。读者在三层之间滑动切换，界面用字号渐变和背景色深浅暗示当前所在的「深度层」。最优雅的细节：从摘要切换到原文时，摘要中的关键句在原文中高亮显示，读者立即知道「摘要对应的是哪些段落」。信息设计的本质不是减少信息，是让读者自主选择接收的密度。",
+      "body_en": "Most mature Q2 2026 content design pattern: AI auto-generates three summary layers for each long-form piece — one-sentence core thesis, three-paragraph key summary, full original. Readers slide between layers; interface uses font size gradients and background shade to signal current depth layer. Most elegant detail: switching from summary to full text highlights summary key sentences in the original, instantly showing readers which paragraphs map to the summary. Information design essence isnt reducing info — its letting readers choose their reception density.",
+      "tags": [
+        "Summary Layers",
+        "Progressive Depth",
+        "Reading UX",
+        "AI Editorial"
+      ],
+      "link": "https://dribbble.com/search/ai-content-summary-layers",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-06-27"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "排版的「呼吸感」回归 — 反信息密度的设计运动",
+      "body": "2026 年 Q2 一个安静但有力的反趋势：越来越多的内容产品开始刻意降低信息密度。Substack、Ghost、甚至 Notion 的最新模板都在加大行间距、放大边距、减少每屏信息量。不是因为技术限制，而是主动选择——当 AI 可以在任何时候给你摘要时，原文的角色从「信息载体」变成了「沉浸体验」。读长文不再是为了获取信息（AI 摘要更快），而是为了思考的节奏和深度。排版的留白不再是「浪费空间」，而是「给思考留空间」。",
+      "body_en": "A quiet but powerful Q2 2026 counter-trend: more content products deliberately reducing information density. Substack, Ghost, even Notions latest templates increasing line spacing, enlarging margins, reducing per-screen info. Not technical limits but active choice — when AI can summarize anything anytime, the original texts role shifts from information carrier to immersive experience. Reading long-form isnt for info extraction anymore (AI summary is faster) but for thinking rhythm and depth. Typographic whitespace is no longer wasting space but leaving space for thought.",
+      "tags": [
+        "Anti-Density",
+        "Whitespace",
+        "Reading Experience",
+        "Slow Content"
+      ],
+      "link": "https://dribbble.com/search/editorial-whitespace-typography-2026",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&q=80",
+      "date": "2026-06-27"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "2026 年上半年 Content Design 最深刻的变化不是技术性的，而是哲学性的：内容的目的正在分裂。AI 摘要处理了「获取信息」的需求，那原文的存在意义是什么？答案正在浮现——原文的价值从「信息密度」转向「思考质量」。这就是为什么排版在回归呼吸感：更大的行距不是浪费，是给读者消化每一句话的时间。三层摘要设计是这个哲学的产品化：信息获取用摘要层（快），深度思考用原文层（慢）。Content Design 正在分化为两个平行学科：一个是「信息设计」（如何最高效地传递事实），另一个是「体验设计」（如何最深入地激发思考）。前者需要密度，后者需要呼吸。好的内容产品两者都提供，让用户自主选择模式。这和运动 AI 的「训练模式/恢复模式」分化何其相似——人类在不同状态下对信息的需求就是不同的。",
+      "body_en": "H1 2026 Content Designs most profound change isnt technical but philosophical: contents purpose is splitting. AI summaries handle information acquisition — so what is the originals reason to exist? The answer emerges: original text value shifts from information density to thinking quality. Thats why typography returns to breathing: larger line height isnt waste, its time for readers to digest each sentence. Three-layer summary design productizes this philosophy: info acquisition via summary layer (fast), deep thinking via original layer (slow). Content Design is bifurcating into two parallel disciplines: information design (maximally efficient fact delivery) and experience design (maximally deep thought provocation). The former needs density, the latter needs breath. Good content products offer both, letting users choose modes. Strikingly similar to sports AIs training/recovery mode split — humans simply need different info densities in different states.",
+      "date": "2026-06-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Chain-of-Thought 可视化 — 让推理过程成为界面",
+      "body": "2026 年 Q2 最重要的 AI 产品设计创新：Chain-of-Thought 的视觉化呈现。不再只给用户最终答案，而是用折叠式的「思考步骤卡片」展示 AI 的推理链。每步卡片有置信度色带（深色=高确信、浅色=推测）、可展开的详细推理、以及用户可以标记「这步不对」的反馈入口。视觉上借鉴了代码调试器的 step-through 界面——AI 的思考过程可以像代码一样被逐步审查。这是 AI 透明度设计的重大突破。",
+      "body_en": "Most important Q2 2026 AI product design innovation: Chain-of-Thought visualization. No longer just showing final answers but presenting reasoning chains through collapsible thinking step cards. Each card has confidence color bands (dark = high confidence, light = speculative), expandable detailed reasoning, and user feedback entry points for marking this step is wrong. Visually borrows from code debugger step-through interfaces — AIs thinking process can be audited step-by-step like code. A major breakthrough in AI transparency design.",
+      "tags": [
+        "Chain-of-Thought",
+        "AI Transparency",
+        "Reasoning UI",
+        "Step-Through"
+      ],
+      "link": "https://dribbble.com/search/ai-reasoning-chain-of-thought-ui",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46352831/file/765076f0eddc850ad448f605d7f93ba0.png?resize=1024x768&vertical=center",
+      "date": "2026-06-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI-Native 设计系统的成熟 — 组件不只给人用，还给 AI 读",
+      "body": "2026 年 Q2 设计工具行业的结构性变化：Figma、Framer、以及新锐工具 Galileo 都在推「AI-Native Design System」——每个组件不只有视觉规范，还有机器可读的使用意图、语义关系、约束条件。这意味着 AI 在生成界面时不再靠猜，而是基于设计系统的显式规则行动。视觉上最直观的变化：组件库多了一个「AI 视图」标签页，展示组件之间的依赖关系图谱和使用场景标注。设计系统从「人的参考手册」进化为「AI 的行为契约」。",
+      "body_en": "Structural Q2 2026 design tool industry shift: Figma, Framer, and newcomer Galileo all pushing AI-Native Design Systems — each component has not only visual specs but machine-readable usage intent, semantic relationships, and constraints. AI generating interfaces now acts on explicit design system rules, not guessing. Most visible change: component libraries gain an AI View tab showing dependency graphs and usage context annotations. Design systems evolve from human reference manuals to AI behavioral contracts.",
+      "tags": [
+        "AI-Native",
+        "Design System",
+        "Component Intent",
+        "Machine-Readable"
+      ],
+      "link": "https://www.behance.net/search/projects/AI%20native%20design%20system",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-06-27"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "2026 年过半，AI 产品的视觉设计可以做一个半年度定论了。上半年最重要的进化不是某个视觉风格的流行或消退，而是一个范式级的转变：AI 界面设计正在从「展示结果」进化到「展示过程」。Chain-of-Thought 可视化是这个转变的标志性产物——当 AI 开始「推理」而非只「生成」时，界面必须让推理过程可见、可审查、可纠错。这和 AI-Native 设计系统的兴起形成呼应：设计系统给 AI 读的「意图层」，本质上是让 AI 的设计决策过程也变得可解释。两个方向指向同一个更大的命题：2026 年下半年，AI 产品设计的核心战场将从「界面美学」彻底转向「认知辅助」——设计师设计的不是让人觉得好看的界面，而是让人更好地理解 AI、监督 AI、与 AI 协作的认知工具。这是设计师角色的一次根本升维：从「视觉艺术家」到「认知架构师」。",
+      "body_en": "Half of 2026 done — time for a definitive H1 assessment of AI product visual design. The most important evolution wasnt any visual style rising or fading but a paradigm-level shift: AI interface design is evolving from showing results to showing process. Chain-of-Thought visualization is this shifts landmark product — when AI reasons rather than just generates, interfaces must make reasoning visible, auditable, correctable. This echoes AI-Native design system rise: the intent layer design systems provide for AI is essentially making AIs design decision process explainable too. Both point to one larger thesis: H2 2026, AI product design core battleground will definitively shift from interface aesthetics to cognitive assistance — designers create not visually pleasing interfaces but cognitive tools for understanding AI, supervising AI, collaborating with AI. A fundamental dimension upgrade for the designer role: from visual artist to cognitive architect.",
+      "date": "2026-06-27"
     }
   ]
 }
