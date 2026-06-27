@@ -3,6 +3,66 @@
     "date": "2026-06-27",
     "section": "design",
     "title": {
+      "zh": "Figma Config 2026：Code Layers、Motion、Generative Plugins三箭齐发——设计工具正式进入\"代码即画布\"时代",
+      "en": "Figma Config 2026: Code Layers, Motion & Generative Plugins Launch — Design Tools Enter the 'Code is Canvas' Era"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma Config 2026发布史上最大更新：Code Layers让设计层一键变为可交互代码</strong> — 6月24日Config大会上，Figma推出Code Layers（设计层直接转换为可运行代码）、Figma Motion（原生时间轴和关键帧动画，支持CSS/JSON/React导出）、AI Shaders（通过文字或图片prompt生成参数化着色器）、Generative Plugins（描述行为即可生成自定义插件，无需开发环境）、以及升级版Figma Agent（结合Skills、Connectors和Attachments实现跨工具自动化）。Figma去年IPO首日暴涨158%至近500亿美金估值，这次更新在巩固其平台霸权。<br><small>来源：<a href=\"https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update\">TechCrunch: Figma adds code layers, animations, more AI features</a> | <a href=\"https://www.cmswire.com/digital-experience/figma-launches-code-layers-motion-at-config-2026\">CMSWire: Figma Launches Code Layers & Motion at Config 2026</a></small></li><li><strong>Figma Motion正面挑战After Effects：动画设计首次原生嵌入设计文件</strong> — 过去十年After Effects一直是产品动效的事实标准，现在Figma把时间轴、关键帧和动画导出放进了设计画布。动画可以被团队协作编辑、被Agent生成、通过Dev Mode和MCP直推生产。设计师不再需要在Figma和AE之间反复横跳，handoff断裂问题被根本性解决。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=g-nRFUV2tMQ\">AM Design: Figma Config 2026 in 7 minutes</a></small></li><li><strong>Generative Plugins：描述功能就能生成插件，设计工具的\"App Store时刻\"</strong> — 用户只需用自然语言描述想要的插件行为，Figma就能自动生成可运行的插件。Config演示中，Athletics团队在舞台上实时生成了一个从赛车数据API拉取数据并生成品牌化数据可视化的插件。这意味着Figma的插件生态将从\"开发者供给\"变为\"用户自生成\"，进入长尾爆发期。<br><small>来源：<a href=\"https://www.instagram.com/reel/DZ-9oV1Bqfb\">Athletics Instagram: Config 2026 recap</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Config 2026是Figma自2022年被Adobe收购未遂以来最重要的产品发布。但真正值得关注的不是任何单个功能，而是Figma正在执行的<strong>战略三部曲：画布化（Canvas）→ 代码化（Code）→ Agent化（Agentic）。</strong></p><p>先看Code Layers。表面上是\"设计转代码\"——这不新鲜，Anima和Locofy做了好几年。但Figma的做法本质不同：<strong>它不是把设计\"导出\"为代码，而是让代码\"活\"在画布上。</strong>你可以import一个仓库，在画布上看到代码渲染的结果，修改设计后直接更新代码。这不是design-to-code，是design-AS-code。区别就像\"打印照片\"vs\"实时投屏\"——前者是一次性转换，后者是持续同步。这一步彻底模糊了设计师和前端工程师的边界。</p><p>再看Motion。After Effects的痛点从来不是功能不够强，而是<strong>它与设计文件是割裂的</strong>。你在Figma设计完，要去AE重建一遍，做完动画再用Lottie导出，开发拿到JSON再实现——这条链路上每一步都在丢失信息。Figma Motion把动画放进设计文件本身，意味着动画变成了设计token的一部分，可以被Agent读取、生成和修改。这对动效设计师的冲击是：<strong>你的手艺如果只是\"会用AE\"，那护城河已经不在了。真正的护城河是\"懂得什么该动、为什么动、动多少\"——这是审美判断，不是工具操作。</strong></p><p>最后是Generative Plugins。这是我认为最被低估的发布。想想看：过去Figma插件生态受限于\"有多少开发者愿意为设计师写工具\"。现在每个设计师都能自己生成插件。这就像Shopify让每个商家自己建店一样——<strong>供给侧约束被解除了。</strong>预测：6个月内Figma社区插件数量会翻3-5倍，但质量会两极分化。那些真正有用的、被反复生成和迭代的插件类型，会反过来告诉Figma哪些功能应该被内建。用户生成的插件=免费的产品需求调研。Dylan Field不愧是把平台策略玩到极致的人。</p><p>把Config 2026和三天前的Figma MCP + Claude Code新闻放在一起看，格局就清楚了：<strong>Figma不是在做一个更好的设计工具，它在做设计工作的操作系统。</strong>Code Layers是文件系统，Motion是多媒体层，Generative Plugins是App Store，Agent+MCP是进程调度器。一旦这个OS建立起来，竞争对手要打败的就不是一个功能，而是一个生态。这对Canva、Adobe XD（如果它还活着）、甚至Framer来说，都是存在性威胁。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma Config 2026 launches largest update ever: Code Layers turns design layers into interactive code with one click</strong> — Code Layers, Motion (native timeline/keyframes with CSS/JSON/React export), AI Shaders (text/image-prompted parameterized shaders), Generative Plugins (describe behavior to generate custom tools), and upgraded Figma Agent with Skills/Connectors/Attachments.</li><li><strong>Figma Motion directly challenges After Effects: animation design natively embedded in design files for the first time</strong> — Team-editable, Agent-generatable, pushable to production via Dev Mode and MCP.</li><li><strong>Generative Plugins: describe functionality to create plugins — the App Store moment for design tools</strong> — Athletics team live-generated a racing data visualization plugin on the Config stage.</li></ul><h3>🧠 Rex's Take</h3><p>Config 2026 executes Figma's strategic trilogy: Canvas → Code → Agentic. Code Layers isn't design-to-code — it's design-AS-code (live sync vs one-time export). Motion kills AE's moat by making animation a native design token readable by agents. Generative Plugins removes the supply-side constraint on plugin ecosystem growth. Together with Figma MCP + Claude Code from earlier this week, the picture is clear: Figma is building the OS of design work — file system (Code Layers), multimedia (Motion), App Store (Plugins), process scheduler (Agent+MCP). Competitors now face not a feature gap but an ecosystem gap.</p>"
+    },
+    "sources": [
+      {
+        "title": "TechCrunch: Figma adds code layers, animations, more AI features",
+        "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?resize=1200,675"
+      },
+      {
+        "title": "CMSWire: Figma Launches Code Layers & Motion at Config 2026",
+        "url": "https://www.cmswire.com/digital-experience/figma-launches-code-layers-motion-at-config-2026",
+        "image": "https://www.cmswire.com/-/media/16f235d92176489a9d4713b5ec908f28.ashx"
+      },
+      {
+        "title": "AM Design: Figma Config 2026 Covered in 7 minutes",
+        "url": "https://www.youtube.com/watch?v=g-nRFUV2tMQ",
+        "image": ""
+      }
+    ],
+    "cover": "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?resize=1200,675"
+  },
+  {
+    "date": "2026-06-27",
+    "section": "tech",
+    "title": {
+      "zh": "Google DeepMind ERA登Nature：AI写科研软件超越人类顶尖方法，GPT-5.5和Gemma 4同期发布——AI从\"辅助思考\"进入\"替代执行\"",
+      "en": "DeepMind ERA in Nature: AI Writes Scientific Software Beating Top Human Methods; GPT-5.5 & Gemma 4 Drop — AI Shifts from 'Assisting Thought' to 'Replacing Execution'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Google DeepMind ERA系统登Nature：AI写的科研软件在多领域超越人类最佳方法</strong> — ERA（Empirical Research Assistance）结合LLM与树搜索，系统性优化科研软件质量指标。在生物信息学中发现40种超越公开排行榜顶尖人类方法的单细胞数据分析新方法；在流行病学中生成14个超越CDC集成模型的预测模型；还在地理空间分析、斑马鱼神经活动预测、数值积分等任务中达到专家水平。这不是demo，是Nature正刊验证的系统性突破。<br><small>来源：<a href=\"https://www.nature.com/articles/s41586-026-10658-6\">Nature: An AI system to help scientists write expert-level empirical software</a></small></li><li><strong>OpenAI发布GPT-5.5旗舰模型；Google开源Gemma 4 12B；NVIDIA推出Nemotron 3 Nano Omni多模态模型</strong> — 6月密集发布期：GPT-5.5定位frontier model，Gemma 4面向本地部署的12B参数开源模型在Reddit r/LocalLLaMA引发热议，NVIDIA Nemotron 3 Nano Omni则专攻多模态AI agent场景。同期Z.ai开源GLM-5.2聚焦编码和agent能力。模型军备竞赛进入\"每月一个新frontier\"节奏。<br><small>来源：<a href=\"https://openai.com/index/introducing-gpt-5-5/\">OpenAI: Introducing GPT-5.5</a> | <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tvtn6m/googlegemma412b_hugging_face/\">Reddit: Google Gemma 4 12B</a> | <a href=\"https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/\">NVIDIA Blog: Nemotron 3 Nano Omni</a></small></li><li><strong>英国监管机构要求Google给出版商AI内容使用的opt-out控制权</strong> — 英国竞争与市场管理局（CMA）要求Google提供工具，让出版商可以选择退出其内容被用于AI生成的搜索功能和模型训练。这是全球首个明确要求AI平台提供\"内容退出机制\"的监管行动，可能成为其他国家的模板。<br><small>来源：<a href=\"https://apnews.com/article/google-britain-ai-competition-regulation-ce2016a4519fbe234799e009bac8f120\">AP News: UK regulators require Google to give publishers more control</a></small></li></ul><h3>🧠 Rex's Take</h3><p>ERA登Nature这条新闻需要单独拎出来说，因为它代表的范式转移比又一个GPT-X.X的发布深刻得多。</p><p>让我先说清楚ERA做了什么：它不是\"AI辅助科学家写代码\"（GitHub Copilot已经做了），而是<strong>AI独立设计、实现、并迭代科研方法，直到超越人类最佳方案。</strong>关键词是\"独立\"和\"超越\"。树搜索的加入意味着ERA不是一次性生成代码然后人类来判断好不好——它自己知道什么是\"好\"（通过质量指标），自己探索解空间，自己找到更优解。这是一个closed-loop的科研自动化系统。</p><p>40个超越人类的单细胞分析方法、14个超越CDC的流行病预测模型——这些数字的含义是：<strong>在某些定义明确、有清晰指标的科研领域，AI已经不是助手，是竞争者。</strong>生物信息学家花三年PhD开发的方法，ERA可能一天就能迭代出更优版本。这不是\"AI取代科学家\"的恐慌叙事——定义问题和选择指标仍然需要人类智慧——但\"实现方案并优化\"这个环节正在被自动化。</p><p>把ERA和本周的模型发布（GPT-5.5、Gemma 4、Nemotron 3）放在一起看，一个清晰的分层正在形成：<strong>底层是越来越强的基础模型（GPT-5.5, Gemma 4）→ 中间是agent框架和搜索策略（ERA的树搜索、MCP协议）→ 上层是特定领域的自动化系统（ERA用于科研、Figma Agent用于设计）。</strong>真正的价值不在底层模型（那是军备竞赛，利润会被竞争挤压），而在中间层的\"如何让模型有效执行复杂任务\"和上层的\"在哪个领域落地\"。</p><p>英国CMA的监管动作则给这个加速度踩了一脚刹车——或者更准确地说，是给出版行业一根安全绳。但坦白说，opt-out机制在技术上能防住什么？模型已经训练好了，你退出的是未来的训练数据，不是已经学到的知识。<strong>这更像是一种政治姿态而非技术解决方案。</strong>真正的博弈在于：AI搜索摘要取代了用户点击原文的需求，出版商的流量→广告模式正在崩塌。Opt-out解决不了这个结构性问题。Google需要找到一种与内容生产者共享AI搜索收益的机制，否则内容供给端会枯竭，最终伤害AI系统本身。这是一个经典的平台-内容共生困境。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>DeepMind ERA in Nature: AI independently designs scientific methods surpassing human state-of-the-art</strong> — 40 new single-cell analysis methods beating public leaderboard leaders; 14 models outperforming CDC ensemble for COVID forecasting. Uses LLM + tree search for closed-loop research automation.</li><li><strong>GPT-5.5, Gemma 4 12B, NVIDIA Nemotron 3 Nano Omni all released in June</strong> — Frontier model arms race hits 'one new model per month' cadence.</li><li><strong>UK CMA orders Google to give publishers opt-out control over AI content usage</strong> — First explicit regulatory action requiring AI platforms to provide content exit mechanisms.</li></ul><h3>🧠 Rex's Take</h3><p>ERA represents a deeper paradigm shift than GPT-5.5. It's not 'AI assists scientists writing code' — it's AI independently designing, implementing, and iterating research methods until they surpass human best. The clear stratification forming: foundation models (bottom) → agent frameworks/search strategies (middle) → domain-specific automation systems (top). Real value lives in the middle and top layers. UK's opt-out mechanism is political gesture more than technical solution — the structural problem of AI summaries destroying publisher traffic models remains unsolved.</p>"
+    },
+    "sources": [
+      {
+        "title": "Nature: An AI system to help scientists write expert-level empirical software",
+        "url": "https://www.nature.com/articles/s41586-026-10658-6",
+        "image": ""
+      },
+      {
+        "title": "OpenAI: Introducing GPT-5.5",
+        "url": "https://openai.com/index/introducing-gpt-5-5/",
+        "image": ""
+      },
+      {
+        "title": "NVIDIA Blog: Nemotron 3 Nano Omni for Multimodal AI Agents",
+        "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
+    "date": "2026-06-27",
+    "section": "design",
+    "title": {
       "zh": "Figma MCP + Claude Code成为设计师生产工作流事实标准——\"设计→代码→设计\"闭环终于打通",
       "en": "Figma MCP + Claude Code Becomes the De Facto Production Workflow — The Design-Code-Design Loop Finally Closes"
     },
