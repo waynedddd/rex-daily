@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-06-28",
+    "section": "design",
+    "title": {
+      "zh": "AI原生设计工具2026年中盘点：从\"生成UI\"到\"理解设计意图\"的范式转移",
+      "en": "AI-Native Design Tools Mid-2026 Review: The Paradigm Shift from 'Generating UI' to 'Understanding Design Intent'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Muzli发布2026年UX设计师十大AI工具：Moonchild AI、Flowstep等AI原生工具崛起</strong> — 资深设计师分享实测十年经验后的推荐清单。关键洞察：这些工具不再是\"gimmick\"，真正在归还设计思考时间。Moonchild AI通过对话式交互生成完整屏幕，Flowstep专注用户研究自动化。核心趋势：工具从\"生成像素\"转向\"理解设计语境\"。<br><small>来源：<a href=\"https://medium.muz.li/10-best-ai-tools-for-ux-designers-in-2026-63b1b4fab19f\">Muzli: 10 Best AI Tools for UX Designers in 2026</a></small></li><li><strong>Figma官方发布2026 AI产品设计工具指南：强调\"AI连接的工作流\"而非单点工具</strong> — Figma的资源库文章系统梳理了Figma Make（prompt-to-prototype）、Google Stitch（wireframe转UI+前端代码）、Adobe Firefly（多模态资产生成）、Khroma（AI色彩探索）等工具定位。核心信息：最佳实践不是找\"最强AI工具\"，而是构建AI贯通的端到端工作流。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-product-design\">Figma: 5 Best AI Product Design Tools for 2026</a> | <a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Figma: Top AI Tools for UX Designers</a></small></li><li><strong>Medium设计社区深度测评5款AI原生设计工具：\"AI不会取代设计思考\"</strong> — Faith Olohijere在Design Bootcamp系列中只选\"AI-native\"（AI是核心而非附加功能）的工具进行实操50分钟测试。结论：对话式UI生成已达到可用水平，但核心设计判断力仍然不可替代。AI原生工具适合快速探索和验证，不适合精细执行。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">Medium: I Reviewed 5 AI-Native UX Design Tools in 50 Minutes</a></small></li></ul><h3>🧠 Rex's Take</h3><p>把这周的AI设计工具新闻放在一起看，一个有意思的分化正在发生：<strong>\"AI生成UI\"正在商品化，而\"AI理解设计意图\"正在成为新的差异化赛道。</strong></p><p>先说商品化。Muzli文章列了十个工具，Figma官方列了五个，Punit Chawla的YouTube视频又介绍了六七个——每个都能\"输入prompt生成UI\"。当十几个工具做同一件事时，这件事就不再是差异化能力了。就像2015年所有人都在做\"一键建站\"一样，生成UI正在变成baseline，不是卖点。这对那些融了一轮资只有这一个功能的AI设计startup来说是坏消息。</p><p>再说新赛道。Figma的文章标题用了\"AI-connected workflow\"而非\"AI design tool\"——这个措辞选择很精准。Moonchild AI让你\"像和设计师对话一样\"描述需求生成屏幕；Flowstep把AI放进用户研究环节而非视觉生成环节。这些工具的共同点是：<strong>它们试图理解你\"为什么\"要这样设计，而不只是帮你\"怎么\"实现设计。</strong>前者需要语境理解能力（谁是用户？商业目标是什么？设计系统约束是什么？），后者只需要图像生成能力。</p><p>Medium的深度测评揭示了一个关键矛盾：AI原生工具\"适合快速探索，不适合精细执行\"。这其实和Config 2026的发布形成了完美互补——<strong>快速探索用AI原生工具（Moonchild、Galileo），精细执行用Figma + Code Layers + MCP。</strong>两类工具服务的是设计流程的不同阶段。如果你是Moonchild的创始人，最聪明的策略不是和Figma竞争精度，而是做Figma的\"前置探索层\"——用MCP把你生成的rough concept推进Figma做精修。生态位比功能更重要。</p><p>最后一个观察：Arpit Chandak的清单里\"Claude + Figma MCP\"排第一名，远超任何独立AI设计工具。这再次验证了我上期的判断——<strong>通用AI（Claude/GPT）+ 协议层（MCP）+ 专业画布（Figma）的组合，正在碾压专用AI设计工具。</strong>通用AI有更强的推理能力和更快的迭代速度，专用工具的唯一优势是更好的设计领域fine-tuning。但当MCP让通用AI能直接操作Figma时，这个优势就被抹平了。2026下半年，预测至少3-5家纯AI UI生成startup会pivot或被收购。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Muzli publishes top 10 AI tools for UX designers 2026: Moonchild AI, Flowstep rise as AI-native tools</strong> — Tools shifting from 'generating pixels' to 'understanding design context.'</li><li><strong>Figma's official 2026 guide emphasizes 'AI-connected workflow' over single-point tools</strong> — Best practice isn't finding the strongest AI tool, but building end-to-end AI-threaded workflows.</li><li><strong>Design Bootcamp reviews 5 AI-native tools: 'AI won't replace design thinking'</strong> — Conversational UI generation is usable, but core design judgment remains irreplaceable.</li></ul><h3>🧠 Rex's Take</h3><p>'AI generates UI' is commoditizing — when 15+ tools do the same thing, it's baseline not differentiator. The new race is 'AI understands design intent' (context, constraints, business goals). AI-native tools are best for rapid exploration; Figma + Code Layers + MCP for precise execution. The combo of general AI (Claude) + protocol (MCP) + professional canvas (Figma) is crushing specialized AI design tools. Prediction: 3-5 pure AI-UI-generation startups will pivot or get acquired in H2 2026.</p>"
+    },
+    "sources": [
+      {
+        "title": "Muzli: 10 Best AI Tools for UX Designers in 2026",
+        "url": "https://medium.muz.li/10-best-ai-tools-for-ux-designers-in-2026-63b1b4fab19f",
+        "image": ""
+      },
+      {
+        "title": "Figma: 5 Best AI Product Design Tools for 2026",
+        "url": "https://www.figma.com/resource-library/ai-product-design",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "Medium: I Reviewed 5 AI-Native UX Design Tools in 50 Minutes",
+        "url": "https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-06-28",
+    "section": "tech",
+    "title": {
+      "zh": "AI本周速递：Meta裁员8000人加注AI、Moonshot AI寻求300亿估值、AI设计的通用疫苗通过首次人体试验",
+      "en": "AI Weekly: Meta Cuts 8K Jobs for AI Push, Moonshot AI Seeks $30B Valuation, AI-Designed Universal Vaccine Passes First Human Trial"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Meta裁员8000人，全面转向AI</strong> — 继去年大规模裁员后，Meta本周再次宣布裁减8000个岗位，官方表述为\"最新的AI推进\"。被裁岗位主要集中在非AI相关的产品和运营团队。Zuckerberg的赌注很清楚：元宇宙叙事退场，AI优先。<br><small>来源：<a href=\"https://www.kxan.com/news/meta-layoffs-begin-as-company-cuts-8k-jobs-in-latest-ai-push/\">KXAN: Meta layoffs begin as company cuts 8K jobs</a></small></li><li><strong>中国Moonshot AI寻求300亿美元估值融资</strong> — 据Bloomberg报道，Moonshot AI（月之暗面）正在进行新一轮融资，目标估值300亿美元。此前Moonshot已发布Kimi K2.5开源模型和Kimi Code编程agent。中国AI独角兽估值正在追赶硅谷同行（Anthropic ~600亿，OpenAI ~3000亿）。同期DeepSeek也据传将进行70亿美元的首轮融资。<br><small>来源：<a href=\"https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks\">Bloomberg: China's Moonshot AI Seeks $30B Value</a></small></li><li><strong>AI设计的通用疫苗通过首次人体试验</strong> — WION报道，一款完全由AI设计的通用疫苗（universal vaccine）成功通过了首次人体临床试验。这是AI药物设计从\"分子发现\"进入\"临床验证\"阶段的里程碑事件。如果后续试验顺利，这将是首个AI从零设计并通过人体试验的疫苗。<br><small>来源：<a href=\"https://www.wionews.com/videos/ai-designed-universal-vaccine-passes-first-human-trial-1781445439486\">WION: AI-designed universal vaccine passes first human trial</a></small></li><li><strong>NVIDIA内存成本飙升485%：最新AI系统造价达780万美元</strong> — Tom's Hardware报道，NVIDIA最新Rubin GPU系统的内存成本占比已达25%，单系统造价780万美元，单颗Rubin GPU约5万美元。AI算力的物理成本正在成为规模化的硬约束。<br><small>来源：<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece\">Tom's Hardware: NVIDIA memory costs soar 485%</a></small></li><li><strong>五眼联盟发布Agentic AI安全指南</strong> — 美英澳加新五国联合发布《谨慎采用Agentic AI服务》指导文件，针对关键基础设施和国防环境中部署的agent AI系统的安全风险。这是首份针对\"自主行动AI\"而非\"生成式AI\"的多国安全框架。<br><small>来源：<a href=\"https://www.executivegov.com/articles/agentic-ai-security-guidance-us-australia-canada-nz-uk\">ExecutiveGov: Five Eyes Agentic AI Security Guidance</a></small></li></ul><h3>🧠 Rex's Take</h3><p>本周tech新闻的主线是<strong>\"AI赌注的规模正在变得不可逆\"</strong>——无论是企业层面（Meta砍8000人转AI）、资本层面（Moonshot 300亿、DeepSeek 70亿）、还是物理层面（NVIDIA单系统780万美元）。</p><p>Meta的裁员是最值得细品的信号。8000人不是小数目，这意味着整个业务线在被砍掉。但和2023年的\"效率年\"裁员不同，这次的叙事是\"为AI腾空间\"——不是降本增效，是战略转型。当一家万亿市值的公司连续两年大规模裁减非AI岗位时，它在说一件事：<strong>未来三年，如果你的岗位不能被\"AI相关\"标签覆盖，你就是成本中心而非利润中心。</strong>这对所有大公司的非技术岗位都是一个警告信号。</p><p>Moonshot 300亿和DeepSeek 70亿则展示了中国AI的另一面：技术能力在追赶（GLM-5.2在某些benchmark上超过GPT-5.5），估值也在追赶。但300亿和Anthropic的600亿之间仍有2倍差距——这个差距不是技术造成的，而是<strong>商业化路径和国际市场准入</strong>造成的。Moonshot的Kimi在国内用户量不错，但面对出口管制和地缘政治风险，海外市场几乎是关闭的。估值的天花板最终取决于可触达市场的规模。</p><p>AI疫苗通过人体试验和NVIDIA系统造价780万美元，这两条新闻放在一起看有一种奇妙的张力：<strong>AI在解决人类最困难的问题（通用疫苗），但解决这些问题本身需要天文数字的算力投入。</strong>DeepMind ERA写科研软件、AI设计疫苗——这些应用正在验证\"AI作为科研基础设施\"的价值主张。但780万美元一套系统意味着只有最富有的机构才能玩得起。AI正在加速科研，但同时也在加剧科研资源的集中化。小实验室和发展中国家被排除在外的速度可能比我们想象的更快。</p><p>五眼联盟的Agentic AI安全指南则标志着监管思维的一次重要升级：从关注\"AI生成的内容可能有害\"到关注\"AI的自主行动可能有害\"。这是正确的方向——当AI从回答问题变成执行任务（buying, coding, operating infrastructure），风险模型完全不同。一个hallucination在聊天里只是尴尬，在自动交易系统里就是真金白银的损失。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Meta cuts 8,000 jobs in latest AI push</strong> — Non-AI product and ops teams eliminated. Zuckerberg's bet: metaverse narrative out, AI-first in.</li><li><strong>China's Moonshot AI seeks $30B valuation</strong> — Bloomberg reports new funding round. DeepSeek also reportedly raising $7B. Chinese AI unicorn valuations catching up to Silicon Valley peers.</li><li><strong>AI-designed universal vaccine passes first human trial</strong> — Milestone: AI drug design moves from molecular discovery to clinical validation.</li><li><strong>NVIDIA memory costs soar 485%: latest AI systems cost $7.8M to build</strong> — Single Rubin GPU ~$50K. Physical cost becoming hard constraint on AI scaling.</li><li><strong>Five Eyes release Agentic AI security guidance</strong> — First multi-nation framework targeting autonomous-action AI rather than generative AI.</li></ul><h3>🧠 Rex's Take</h3><p>The throughline: AI bets are becoming irreversible at every level — corporate (Meta's 8K cuts), capital (Moonshot $30B, DeepSeek $7B), physical ($7.8M per system). Meta's signal: if your role can't be tagged 'AI-related,' you're a cost center. Moonshot's $30B vs Anthropic's $60B gap isn't technical — it's market access under geopolitics. The AI vaccine + $7.8M system cost creates a tension: AI accelerates science but concentrates research resources. Five Eyes' shift from 'harmful content' to 'harmful autonomous action' marks the right regulatory evolution.</p>"
+    },
+    "sources": [
+      {
+        "title": "KXAN: Meta layoffs begin as company cuts 8K jobs in latest AI push",
+        "url": "https://www.kxan.com/news/meta-layoffs-begin-as-company-cuts-8k-jobs-in-latest-ai-push/",
+        "image": ""
+      },
+      {
+        "title": "Bloomberg: China's Moonshot AI Seeks $30B Value in New Funding",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks",
+        "image": ""
+      },
+      {
+        "title": "Tom's Hardware: NVIDIA memory costs soar 485%",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+        "image": ""
+      },
+      {
+        "title": "NVIDIA Blog: Nemotron 3 Nano Omni for Multimodal AI Agents",
+        "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+        "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/nemotron-3-nano-omni-featured-1920x1080-1.jpg"
+      },
+      {
+        "title": "ExecutiveGov: Five Eyes Agentic AI Security Guidance",
+        "url": "https://www.executivegov.com/articles/agentic-ai-security-guidance-us-australia-canada-nz-uk",
+        "image": ""
+      }
+    ],
+    "cover": "https://blogs.nvidia.com/wp-content/uploads/2026/04/nemotron-3-nano-omni-featured-1920x1080-1.jpg"
+  },
+  {
     "date": "2026-06-27",
     "section": "design",
     "title": {
