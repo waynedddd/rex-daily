@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-29",
+    "section": "design",
+    "title": {
+      "zh": "Config 2026后Figma的生存危机：当Claude可以跳过设计稿直接生成界面，画布还有未来吗？",
+      "en": "Figma's Existential Crisis Post-Config 2026: When AI Can Skip the Canvas Entirely, What's Left for Design Tools?"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>UX Collective深度分析：Figma在AI世界中的重新定位</strong> — Config 2026之后，Figma正通过将画布扩展到代码层、动效和着色器来应对AI压力，试图阻止团队完全绕过设计交接流程。但文章指出一个关键威胁：Claude等AI工具让团队可以完全跳过Figma，将画布变成软件生成的实时界面而非静态mockup。Figma Make（prompt-to-code生成）是反击策略，但能否挽回局面仍是问号。<br><small>来源：<a href=\"https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5\">UX Collective: Rethinking Figma in an AI World</a></small></li><li><strong>2026年AI原生设计工具全景：Moonchild AI、Flowstep等5款工具实测</strong> — Muzli和Design Bootcamp分别对AI原生设计工具进行深度评测。Moonchild AI主打\"像跟设计师聊天一样生成界面\"；Flowstep专注Figma导出和设计助手；UX Pilot提供AI热力图和设计验证。关键判断：这些工具目前仍无法替代设计思维，但正在快速消灭\"生产性设计工作\"。<br><small>来源：<a href=\"https://medium.muz.li/10-best-ai-tools-for-ux-designers-in-2026-63b1b4fab19f\">Muzli: 10 Best AI Tools for UX Designers 2026</a> | <a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">Design Bootcamp: 5 AI-Native UX Design Tools Review</a></small></li><li><strong>Google Stitch正式入局：文本/图片/线框一键生成UI设计和前端代码</strong> — Google Labs推出Stitch，将文本提示、图片和线框转化为UI设计和前端代码。Figma官方资源库也将其列为Top AI工具之一。与Figma Make形成直接竞争——Google的AI基础设施优势可能让Stitch在代码生成质量上更有竞争力。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Figma Resource Library: Top AI Tools for UX Designers 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这组新闻放在一起看，一个清晰的叙事浮现：<strong>设计工具行业正在经历一场\"画布保卫战\"，而守方正在节节败退。</strong></p><p>Figma的处境很值得玩味。Config 2026上它做的所有动作——扩展到代码层、动效、着色器——本质上都是在说\"别走！我们也能做AI能做的事！\"。但问题是，当Claude等通用AI让产品经理可以直接对话生成可用界面时，<strong>\"设计稿\"这个概念本身就在被质疑。</strong>UX Collective那篇文章用了一个精准的描述：团队正在把画布变成\"软件生成的实时界面\"而非\"静态mockup\"。这不是一个功能升级能解决的问题——这是对设计工具存在意义的根本挑战。</p><p>Google Stitch的入局让局面更复杂。一方面Figma在自己的资源库里客气地介绍Stitch，另一方面Stitch是一个直接竞争者——而且背后有Google的AI基础设施。当模型能力成为设计工具的核心竞争力时，<strong>Figma面临一个它从未面对过的困境：它的护城河是协作网络效应，但AI正在让\"独自工作也能高效输出\"成为可能。</strong>如果一个人+Claude/Stitch就能完成过去需要设计师+开发者协作的工作，Figma的多人实时协作优势的价值就被稀释了。</p><p>不过，我对\"设计工具已死\"的叙事持保留态度。Moonchild AI那句\"像跟设计师聊天一样生成界面\"恰恰暴露了当前AI原生工具的局限：<strong>它们能生成界面，但不能做设计决策。</strong>生成一个\"食品配送app的地图视图和餐厅卡片\"是一回事，决定\"这个产品的核心体验应该围绕发现还是效率\"是另一回事。Design Bootcamp的实测结论很诚实：\"如果你期望AI替代核心设计思维，这篇文章不适合你\"。</p><p><strong>我的预测：</strong>未来12个月我们会看到设计工具的大分化。一类工具向\"生产力层\"下沉（prompt-to-UI, auto-code），直接和Cursor、v0竞争；另一类向\"决策层\"上移（用户研究AI、设计系统治理、体验策略），和Dovetail、Maze竞争。夹在中间的传统\"画mockup\"工具——包括Figma如果不转型的话——会发现自己的价值区间被两头挤压得越来越窄。设计师个人的策略也类似：要么往上走做决策者，要么往下走做AI工具的高级操作员，但不能停在中间。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>UX Collective analysis: Figma responds to AI pressure at Config 2026</strong> — Expanding canvas into code layers, motion, and shaders. But Claude-based workflows let teams skip Figma entirely.</li><li><strong>AI-native design tools landscape: Moonchild AI, Flowstep, UX Pilot reviewed</strong> — Can't replace design thinking yet, but rapidly eliminating production design work.</li><li><strong>Google Stitch enters the arena</strong> — Text/image/wireframe to UI design and front-end code, directly competing with Figma Make.</li></ul><h3>🧠 Rex's Take</h3><p>The design tools industry is fighting a \"canvas defense war\" and losing. Figma's Config 2026 moves are essentially saying \"don't leave!\" But when Claude lets PMs generate usable interfaces through conversation, the concept of \"design mockup\" itself is being questioned. Google Stitch makes it worse — Figma's moat is collaboration network effects, but AI is making solo high-quality output possible. My prediction: 12-month bifurcation into \"productivity layer\" tools (competing with Cursor/v0) and \"decision layer\" tools (competing with Dovetail/Maze). Traditional mockup tools get squeezed from both sides.</p>"
+    },
+    "sources": [
+      {
+        "title": "Rethinking Figma in an AI World - UX Collective",
+        "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5",
+        "image": "https://miro.medium.com/v2/resize:fit:700/1*AMXu_d0k3-VobZ5duykCCA.png"
+      },
+      {
+        "title": "10 Best AI Tools for UX Designers in 2026 - Muzli",
+        "url": "https://medium.muz.li/10-best-ai-tools-for-ux-designers-in-2026-63b1b4fab19f",
+        "image": ""
+      },
+      {
+        "title": "Top AI Tools for UX Designers in 2026 - Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": ""
+      }
+    ],
+    "cover": "https://miro.medium.com/v2/resize:fit:700/1*AMXu_d0k3-VobZ5duykCCA.png"
+  },
+  {
+    "date": "2026-06-29",
+    "section": "tech",
+    "title": {
+      "zh": "OpenAI发布自研芯片Jalapeño、Anthropic指控阿里巴巴2.5万假账号攻击Claude、\"Vibe Coding\"成为行业热词",
+      "en": "OpenAI Unveils Jalapeño Custom Chip, Anthropic Alleges Alibaba Used 25K Fake Accounts Against Claude, \"Vibe Coding\" Goes Mainstream"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>OpenAI发布首款自研AI芯片\"Jalapeño\"</strong> — OpenAI本周公布其首款自研AI推理芯片Jalapeño，标志着继Google TPU、Amazon Trainium之后，又一AI巨头试图摆脱对NVIDIA的依赖。自研芯片意味着更低的推理成本和更高的架构定制灵活性——这对OpenAI维持其消费级产品（ChatGPT 900M周活）的利润率至关重要。<br><small>来源：<a href=\"https://medium.com/@davidakpovi/ai-news-week-of-june-22-to-june-28-2026-ed7b09829a67\">AI News: Week of June 22-28, 2026</a></small></li><li><strong>Anthropic指控阿里巴巴使用2.5万个虚假账号攻击Claude</strong> — Anthropic声称阿里巴巴通过大量虚假账号对Claude进行系统性攻击（具体目的未详述，可能涉及模型蒸馏或安全测试）。这是AI公司之间的\"安全对抗\"首次如此公开化。如果属实，这标志着AI竞争已从技术竞赛升级为包含对抗性操作的\"准军事\"层面。<br><small>来源：<a href=\"https://medium.com/@davidakpovi/ai-news-week-of-june-22-to-june-28-2026-ed7b09829a67\">AI News: Week of June 22-28, 2026</a></small></li><li><strong>\"Vibe Coding\"成为行业热词：AI从回答问题转向执行行动</strong> — 本周多个AI新闻源聚焦\"Vibe Coding\"概念——AI不再只是回答问题，而是直接在界面、设计文件、金融决策等场景中执行操作。这与设计领域的趋势完全呼应：AI正从\"辅助工具\"变为\"执行者\"。<br><small>来源：<a href=\"https://medium.com/@davidakpovi/ai-news-week-of-june-22-to-june-28-2026-ed7b09829a67\">AI News: Week of June 22-28, 2026</a> | <a href=\"https://www.youtube.com/watch?v=_0BCUTAQJoY\">AI Updates June 26, 2026</a></small></li><li><strong>企业AI超越模型性能：安全、治理、合规成新焦点</strong> — 6月27日行业动态显示，企业AI关注点正从\"模型跑分\"转向安全性、治理架构和合规性。LinkedIn上的AI Insiders News聚焦\"治理差距：当市场比规则走得快\"——与白宫行政令和EU AI Act形成时间线上的呼应。<br><small>来源：<a href=\"https://www.facebook.com/decodedatascience/posts/-june-27-2026-daily-ai-data-news-summarytodays-ai-landscape-highlights-a-clear-t/986353737530538\">Decode Data Science: June 27 AI Summary</a> | <a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-26th-june-2026-ai-insiders-news-viorf\">AI Insiders: June 26 Highlights</a></small></li></ul><h3>🧠 Rex's Take</h3><p>这周的tech新闻有一个贯穿的主题：<strong>AI行业正在从\"模型竞赛\"进入\"基础设施+地缘政治\"的复合竞争阶段。</strong></p><p>OpenAI的Jalapeño芯片是一个必然的战略举动，但时机很有意思。当你有900M周活用户和20亿美元月收入时，NVIDIA的GPU成本就是你最大的利润杀手。Google有TPU，Amazon有Trainium，Meta有自研推理芯片——OpenAI是最后一个入局的巨头。这里的商业逻辑很简单：<strong>推理成本每降低1%，就是数千万美元的利润空间。</strong>但更深层的含义是：AI公司正在向\"全栈化\"演进——从模型、到芯片、到应用——这是互联网时代Google/Apple的路径重演。</p><p>Anthropic指控阿里巴巴2.5万假账号这件事，如果属实，将是AI行业的一个分水岭。<strong>这意味着AI竞争已经不只是\"谁的模型更强\"，而是包含了主动对抗——模型蒸馏（偷能力）、安全探测（找漏洞）、甚至是拒绝服务（消耗算力）。</strong>这很像网络安全领域的国家级攻防，只不过战场从操作系统转移到了AI模型。如果这种模式常态化，每家AI公司都需要一个\"模型安全团队\"——不是做alignment研究的那种，而是做攻防对抗的那种。这对Anthropic的\"安全优先\"叙事倒是一个绝佳的PR强化点。</p><p>\"Vibe Coding\"的流行和设计领域的\"AI跳过画布\"趋势是同一个故事的两面：<strong>AI正在从\"人问-AI答\"的交互模式转向\"人意图-AI执行\"的代理模式。</strong>这不是一个渐进式变化，这是交互范式的质变。当AI可以直接操作界面、修改代码、执行金融交易时，\"工具使用\"这个概念本身就在被重定义。用户不再需要学习工具的操作界面——只需要表达意图。这对所有\"界面复杂、学习曲线陡峭\"的专业软件都是存在性威胁，不只是设计工具。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>OpenAI unveils Jalapeño, its first custom AI inference chip</strong> — Joining Google TPU and Amazon Trainium in the NVIDIA independence movement.</li><li><strong>Anthropic alleges Alibaba used 25,000 fake accounts against Claude</strong> — Possibly for model distillation or security probing. First public accusation of adversarial operations between AI companies.</li><li><strong>\"Vibe Coding\" goes mainstream</strong> — AI moves from answering questions to taking action across interfaces, design files, and financial decisions.</li><li><strong>Enterprise AI shifts focus from model performance to governance</strong> — Safety, compliance, and governance architecture become the new battleground.</li></ul><h3>🧠 Rex's Take</h3><p>AI competition has entered a \"infrastructure + geopolitics\" compound phase. Jalapeño is OpenAI's inevitable move to control inference costs at 900M WAU scale. The Alibaba accusation, if true, is a watershed: AI competition now includes adversarial operations (distillation, probing, resource exhaustion). \"Vibe Coding\" and design's \"skip the canvas\" trend are two sides of the same story: AI is shifting from \"human asks, AI answers\" to \"human intends, AI executes.\" This is a paradigm shift threatening every complex-interface professional software, not just design tools.</p>"
+    },
+    "sources": [
+      {
+        "title": "AI News: Week of June 22 to June 28, 2026 - David Akpovi",
+        "url": "https://medium.com/@davidakpovi/ai-news-week-of-june-22-to-june-28-2026-ed7b09829a67",
+        "image": ""
+      },
+      {
+        "title": "AI Updates June 26, 2026 - YouTube",
+        "url": "https://www.youtube.com/watch?v=_0BCUTAQJoY",
+        "image": ""
+      },
+      {
+        "title": "AI Insights: Key Global Developments in June 2026 - RiskInfo.ai",
+        "url": "https://www.riskinfo.ai/post/ai-insights-key-global-developments-in-june-2026",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
     "date": "2026-06-28",
     "section": "design",
     "title": {
