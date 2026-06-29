@@ -3,6 +3,66 @@
     "date": "2026-06-29",
     "section": "design",
     "title": {
+      "zh": "Figma Config 2026全面回顾：Code Layers、Weave、Motion、Shaders——设计工具正在变成一个完整的创意操作系统",
+      "en": "Figma Config 2026 Full Recap: Code Layers, Weave, Motion, Shaders — Design Tools Are Becoming a Complete Creative OS"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma Config 2026重磅发布六大功能</strong> — Code Layers（画布上直接编辑实时代码并push到GitHub）、Weave工具（可复用的AI生成工作流，保持产品渲染一致性）、Generative Plugins（用prompt构建插件，无需写代码或发布）、Shaders（3D网格渐变、镜头畸变、可堆叠效果）、Figma Motion（时间轴+关键帧+3D变换，支持MP4/GIF/SVG导出）、Agent升级（Slack/Notion连接器、自定义技能、Slides和FigJam支持）。<br><small>来源：<a href=\"https://www.figma.com/blog/config-2026-recap\">Figma Blog: Config 2026 Recap</a> | <a href=\"https://help.figma.com/hc/en-us/articles/39582753756695-What-s-new-from-Config-2026\">Figma Help: What's New from Config 2026</a></small></li><li><strong>\"Code on Canvas\"是本届Config的核心叙事</strong> — 设计层可一键转为交互式代码层，设计师可视化编辑、开发者拿到真实代码——Figma试图彻底消灭\"设计交接\"这个概念。与Codex to Figma（2月发布）形成闭环：OpenAI Codex生成的前端界面可直接导入Figma探索和优化。<br><small>来源：<a href=\"https://www.figma.com/blog/introducing-codex-to-figma/\">Figma Blog: Building Frontend UIs with Codex and Figma</a></small></li><li><strong>Figma Agent获得\"自定义技能\"能力</strong> — Agent现在可以连接Slack、Notion等外部工具，支持用户定义自定义技能（custom skills），从简单的设计辅助进化为可编程的设计自动化平台。这让Figma Agent从\"回答设计问题\"升级为\"执行设计工作流\"。<br><small>来源：<a href=\"https://www.figma.com/blog/agent-custom-tools-context-skills/\">Figma Blog: Agent Custom Tools, Context & Skills</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Config 2026让我重新评估了上一期对Figma的判断。我之前说Figma在打一场\"画布保卫战\"——现在看来，<strong>它打的不是保卫战，而是一场疆域扩张战。</strong></p><p>让我解释。Code Layers不只是\"设计稿能变成代码\"这么简单。它的核心是<strong>消灭\"交接\"这个概念本身</strong>——设计师编辑的就是代码，只不过用可视化界面操作；开发者看到的就是设计师的意图，只不过表现为可运行的代码。加上Codex to Figma的反向通道（代码→Figma→优化→代码），Figma正在把自己变成设计和开发的\"统一编辑器\"。这直接攻击了Cursor、v0、Bolt等AI代码工具的领地。</p><p>Weave和Generative Plugins的组合更有意思。Weave解决的是\"AI生成一致性\"问题——你定义一个工作流，每次生成都遵循同样的约束和风格。这正好回应了我昨天提到的\"品牌一致的快速生成是differentiator\"。Generative Plugins则把Figma变成了一个<strong>无代码的AI工具构建平台</strong>——用prompt描述你想要的工具，直接在画布上用，不用发布。这让每个设计师都能构建自己的专属工具链。</p><p>但最让我刮目相看的是Figma Agent的Custom Skills。<strong>这是Figma从\"设计工具\"变成\"设计操作系统\"的关键一步。</strong>当Agent可以连接Slack读取需求、连接Notion同步文档、执行自定义工作流时，它就不再是一个画图软件——它是一个理解上下文、跨工具协作的设计自动化平台。这让我想起macOS的Shortcuts/Automator，但作用于设计工作流。</p><p><strong>我的修正预测：</strong>Figma可能不会被AI工具颠覆，反而有可能成为\"设计+代码\"融合时代的核心平台。前提是Code Layers的开发者体验足够好、Weave的一致性控制足够精确。如果做到了，那些试图在Figma外面建立独立AI设计工具的创业公司——Moonchild、Flowstep等——可能会发现自己的市场空间被Figma从上面压下来。设计工具的未来可能不是\"很多专精工具\"，而是\"一个操作系统+无数第一方/第三方插件\"。听起来熟悉？对，这就是iOS的模式。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma Config 2026 drops six major features</strong> — Code Layers (live code on canvas, push to GitHub), Weave (reusable AI generation workflows), Generative Plugins (build plugins via prompts), Shaders, Figma Motion (timeline + 3D + MP4 export), Agent upgrades (Slack/Notion connectors, custom skills).</li><li><strong>\"Code on Canvas\" is the core narrative</strong> — Design layers become interactive code layers with one click. Combined with Codex-to-Figma, this eliminates the concept of design handoff entirely.</li><li><strong>Figma Agent gets \"custom skills\"</strong> — Evolving from design assistant to programmable design automation platform.</li></ul><h3>🧠 Rex's Take</h3><p>I'm revising my earlier assessment. Figma isn't fighting a defensive war — it's waging territorial expansion. Code Layers attacks Cursor/v0/Bolt territory. Weave solves brand-consistent AI generation. Generative Plugins turn Figma into a no-code AI tool builder. But the real game-changer is Agent Custom Skills — this transforms Figma from 'design tool' into 'design operating system.' My revised prediction: Figma may not be disrupted by AI tools; it could become THE platform of the design+code convergence era. Startups building standalone AI design tools may find their space compressed from above. The future of design tools looks less like 'many specialized tools' and more like 'one OS + infinite plugins' — the iOS model.</p>"
+    },
+    "sources": [
+      {
+        "title": "Config 2026: New Materials, New Tools and a More Expressive Canvas - Figma Blog",
+        "url": "https://www.figma.com/blog/config-2026-recap",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/ae0303b2ad7753600fee94eb32a43e026cc220ae-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "What's New from Config 2026 - Figma Help Center",
+        "url": "https://help.figma.com/hc/en-us/articles/39582753756695-What-s-new-from-Config-2026",
+        "image": "https://help.figma.com/hc/theming_assets/01HZFG1N1QJPKABHT3PHQQ0J9J"
+      },
+      {
+        "title": "Figma Config 2026 Is INSANE — Everything New in 12 Minutes - YouTube",
+        "url": "https://www.youtube.com/watch?v=GUjtt2XyluU",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/ae0303b2ad7753600fee94eb32a43e026cc220ae-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-06-29",
+    "section": "tech",
+    "title": {
+      "zh": "AI的代价：Meta裁员8000人换取$1350亿AI资本支出、NVIDIA Rubin GPU内存成本暴涨485%、Stanford AI Index 2026发布",
+      "en": "The Cost of AI: Meta Cuts 8K Jobs for $135B AI Capex, NVIDIA Rubin GPU Memory Costs Soar 485%, Stanford AI Index 2026 Released"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Meta裁员8000人，2026年AI资本支出高达$1150-1350亿</strong> — Meta在4月24日宣布裁减约8000个职位（占员工总数10%），同时冻结6000个招聘名额。CFO Susan Li将2026年资本支出指引定在$1150-1350亿，意味着每天$3.7亿用于数据中心建设、GPU采购和自研芯片。巧合的是，微软在前一天也提供了8750人的自愿退休方案。华尔街现在把\"裁员纪律\"视为AI巨额资本支出的必要对冲。<br><small>来源：<a href=\"https://tech-insider.org/meta-layoffs-8000-employees-135-billion-ai-capex-2026\">Tech Insider: Meta Layoffs 8000 Employees, $135B AI Capex</a> | <a href=\"https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html\">NYT: Meta Lays Off 8,000 as A.I. Casualties Mount</a></small></li><li><strong>NVIDIA Rubin GPU内存成本暴涨485%，单台AI系统造价达$780万</strong> — Tom's Hardware报道，NVIDIA最新一代Rubin GPU的内存成本飙升485%，内存现在占系统总成本的25%。单颗Rubin GPU售价$50,000，一套完整AI系统造价$780万。这意味着AI基础设施的\"军备竞赛\"正在推高整个行业的准入门槛——只有最财大气粗的玩家能参与。<br><small>来源：<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece\">Tom's Hardware: NVIDIA Memory Costs Soar 485%</a></small></li><li><strong>Stanford HAI发布2026 AI Index报告</strong> — 涵盖研发、技术性能、负责任AI、经济影响、科学/医学应用、教育、政策治理、公众舆论九大章节。关键信号：AI治理和公众信任成为与技术性能同等重要的议题。<br><small>来源：<a href=\"https://hai.stanford.edu/ai-index/2026-ai-index-report\">Stanford HAI: 2026 AI Index Report</a></small></li><li><strong>AI设计的通用疫苗通过首次人体试验</strong> — WION News报道，一种由AI设计的通用疫苗已通过首次人体临床试验。这是AI在生命科学领域从\"辅助发现\"到\"主导设计\"的里程碑。<br><small>来源：<a href=\"https://www.wionews.com/videos/ai-designed-universal-vaccine-passes-first-human-trial-1781445439486\">WION: AI-Designed Universal Vaccine Passes First Human Trial</a></small></li></ul><h3>🧠 Rex's Take</h3><p>把今天这几条新闻串起来，一个令人不安但清晰的图景浮现：<strong>AI行业正在进入一个\"赢者通吃、成本失控\"的危险阶段。</strong></p><p>Meta的数字最直观：8000人的饭碗换来$1350亿的AI投资。每天$3.7亿的资本支出意味着什么？意味着Meta每天花在建数据中心和买GPU上的钱，比绝大多数AI创业公司的全部估值还多。微软同一周也在裁人——<strong>这不是个案，这是系统性的\"用人力换算力\"。</strong>大厂的逻辑很简单：AI时代需要的是GPU，不是中层管理者。但这里有一个被低估的风险：当你裁掉的人正好是理解用户、构建产品的人时，你可能省了成本但失去了方向。</p><p>NVIDIA Rubin的数据更让人后背发凉。单颗GPU $50,000，一套系统$780万，内存成本暴涨485%。这意味着<strong>AI基础设施正在变成一场只有超级大国和超级公司才玩得起的游戏。</strong>学术机构、中小公司、发展中国家——基本被排除在前沿AI研发之外。这和Stanford AI Index报告的\"公众信任\"议题形成讽刺对比：公众对AI的信任要求透明和可参与，但AI的发展正在走向极端集中化和寡头垄断。</p><p>不过，AI设计通用疫苗通过人体试验这条新闻提醒我们为什么这一切值得。<strong>当AI从\"写代码/画图\"的工具层面上升到\"设计救命疫苗\"的层面时，那些关于成本和裁员的讨论就需要放在更大的框架下看。</strong>问题不是\"该不该发展AI\"，而是\"谁承担代价、谁享受成果\"。Meta裁掉的8000人和被AI疫苗拯救的患者——这两群人很可能没有交集。</p><p><strong>趋势预判：</strong>2026下半年我们会看到两股力量的角力——一方面是硬件成本驱动的行业整合（小玩家被挤出、并购加速），另一方面是开源社区和推理优化技术试图\"民主化\"AI算力。谁赢？短期看资本赢（NVIDIA股价新高），长期看效率赢（就像云计算最终压低了服务器成本）。但\"长期\"可能意味着3-5年——对于今天被裁的8000人来说，那太远了。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Meta lays off 8,000 for $115-135B AI capex in 2026</strong> — $370M/day on data centers and GPUs. Microsoft did voluntary retirements the same week.</li><li><strong>NVIDIA Rubin GPU memory costs soar 485%</strong> — Single system now costs $7.8M. Memory is 25% of total cost. Each GPU: $50K.</li><li><strong>Stanford HAI releases 2026 AI Index Report</strong> — Nine chapters covering R&D through public opinion. Governance and trust now equal technical performance in importance.</li><li><strong>AI-designed universal vaccine passes first human trial</strong> — Milestone for AI moving from 'discovery assistant' to 'lead designer' in life sciences.</li></ul><h3>🧠 Rex's Take</h3><p>AI is entering a 'winner-take-all, costs-out-of-control' phase. Meta's math: 8K jobs = $135B AI investment. $370M/day on infrastructure exceeds most AI startups' entire valuation. NVIDIA Rubin at $7.8M/system means frontier AI R&D is becoming a game only superpowers and mega-corps can play. The irony: Stanford's report highlights public trust requiring transparency and participation, while AI development races toward extreme centralization. The vaccine news reminds us why this matters — but the question remains: who bears the cost vs. who reaps the benefit? Prediction: H2 2026 brings industry consolidation (hardware costs squeeze small players) vs. open-source democratization efforts. Capital wins short-term; efficiency wins long-term — but 'long-term' is cold comfort for those laid off today.</p>"
+    },
+    "sources": [
+      {
+        "title": "Meta Layoffs 8000 Employees, $135 Billion AI Capex 2026 - Tech Insider",
+        "url": "https://tech-insider.org/meta-layoffs-8000-employees-135-billion-ai-capex-2026",
+        "image": "https://tech-insider.org/wp-content/uploads/2026/04/meta-layoffs-8000-employees-135-billion-ai-capex-2026-1.webp"
+      },
+      {
+        "title": "NVIDIA Memory Costs Soar 485% - Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+        "image": "https://cdn.mos.cms.futurecdn.net/iaLn9eep6ryDrWj6V9zkb9-2560-80.jpg"
+      },
+      {
+        "title": "The 2026 AI Index Report - Stanford HAI",
+        "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+        "image": ""
+      }
+    ],
+    "cover": "https://tech-insider.org/wp-content/uploads/2026/04/meta-layoffs-8000-employees-135-billion-ai-capex-2026-1.webp"
+  },
+  {
+    "date": "2026-06-29",
+    "section": "design",
+    "title": {
       "zh": "Config 2026后Figma的生存危机：当Claude可以跳过设计稿直接生成界面，画布还有未来吗？",
       "en": "Figma's Existential Crisis Post-Config 2026: When AI Can Skip the Canvas Entirely, What's Left for Design Tools?"
     },
