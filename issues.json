@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-06-30",
+    "section": "design",
+    "title": {
+      "zh": "2026年AI设计工具大洗牌：Figma Make、Motiff、Google Stitch三足鼎立，\"AI原生\"设计工具正在消灭生产性设计工作",
+      "en": "AI Design Tools Reshuffle in 2026: Figma Make, Motiff, Google Stitch Form a Triad as AI-Native Tools Eliminate Production Design Work"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>2026年AI设计工具全景梳理：三大阵营格局成型</strong> — toools.design、Muzli、UX Planet等多个设计媒体本月密集发布AI设计工具评测，一个清晰的市场格局浮现：<strong>平台派</strong>（Figma Make $16/月，原生集成AI生成+代码导出）、<strong>代码派</strong>（Motiff $20/月，主打生产级React/HTML导出和设计系统治理）、<strong>巨头派</strong>（Google Stitch，免费，Gemini驱动，文本/线框/截图一键转UI+前端代码）。中间层还有UX Pilot（AI热力图验证）、Visily（截图/草图转设计，面向非设计师团队）、Magic Patterns（设计系统生成器）。<br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">toools.design: 9 Best AI Tools for UI/UX Designers 2026</a> | <a href=\"https://medium.muz.li/10-best-ai-tools-for-ux-designers-in-2026-63b1b4fab19f\">Muzli: 10 Best AI Tools for UX Designers 2026</a></small></li><li><strong>\"AI不会替代设计思维，但正在消灭生产性设计工作\"</strong> — UX Planet和Design Bootcamp的深度文章达成共识：2026年能成功的设计师不是做漂亮Figma文件的人，而是理解结构、逻辑和产品策略的人。AI原生工具（Moonchild AI、Flowstep）在生成界面方面已经足够好，但在设计决策、用户洞察和系统级思考方面仍完全依赖人类。<br><small>来源：<a href=\"https://uxplanet.org/ai-tools-designers-should-stick-with-in-2026-49fe5131d345\">UX Planet: AI Tools Designers Should Stick With in 2026</a> | <a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">Design Bootcamp: 5 AI-Native UX Design Tools Review</a></small></li><li><strong>Aliena Cai的Figma Make实战：Double Diamond全流程AI化</strong> — YouTube热门视频（4.3万播放）展示设计师如何在Double Diamond设计流程的每个阶段使用AI——从PRD撰写、主要研究到UI文案、内容替换、多语言翻译、截图转复杂原型。核心观点：AI是加速器而非替代者，\"没有正确答案\"但有更高效的探索方式。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=2u6bH17NIQk\">Aliena Cai: How I Use AI to Design Better in 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>把这个月的AI设计工具评测潮放在一起看，我看到了一个被大多数人忽略的信号：<strong>设计工具市场正在经历\"定价权转移\"——从工具本身转向工具背后的模型能力。</strong></p><p>先看数字：Figma Make $16/月（含在Pro订阅里），Motiff $20/月，Google Stitch免费。当Google用Gemini的推理能力把\"文本/线框转UI+代码\"做成免费服务时，它攻击的不只是Figma——它攻击的是整个\"AI设计工具\"的定价逻辑。如果模型能力是免费的基础设施（Google/Meta开源模型），那设计工具的付费点只剩下两个：<strong>协作网络效应</strong>（Figma的护城河）和<strong>代码输出质量</strong>（Motiff的差异化）。这意味着纯粹的\"prompt-to-UI\"功能正在快速商品化——12个月内它会变成每个工具的标配，就像\"实时协作\"在2020年后变成标配一样。</p><p>更有意思的是UX Planet那篇文章的核心论断：\"2026年成功的设计师不是做漂亮Figma文件的人，而是理解结构和逻辑的人\"。这不是空洞的鸡汤——这是对设计师价值链的精确重定位。当Moonchild AI可以在30秒内生成\"食品配送app的地图视图和餐厅卡片\"时，\"画出这个界面\"的技能价值趋近于零。<strong>但\"决定这个app应该围绕发现体验还是效率体验来构建\"——这个决策AI做不了。</strong>Aliena Cai的视频很好地示范了这个新模式：她不是让AI替代自己，而是用AI把探索空间扩大10倍，然后用人类判断力做选择。</p><p>我的趋势判断：<strong>2026下半年，\"AI设计工具\"这个品类会消失</strong>——不是因为它失败了，而是因为所有设计工具都将内置AI，就像今天没人说\"cloud-based设计工具\"一样。真正的分化会发生在更高一层：谁拥有最好的设计系统治理能力（确保AI生成的东西符合品牌规范）、谁的代码输出能直接进生产环境（而非还需要开发者重写）、谁能连接设计决策和商业指标（把用户研究和A/B测试结果直接反馈到设计生成中）。品牌一致的快速生成——而非单纯的\"好看\"——将成为下一阶段的differentiator。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>2026 AI design tools landscape: three camps emerge</strong> — Platform (Figma Make $16/mo), Code-first (Motiff $20/mo, production React/HTML), Giants (Google Stitch, free, Gemini-powered).</li><li><strong>\"AI won't replace design thinking but is eliminating production design work\"</strong> — UX Planet and Design Bootcamp consensus: successful 2026 designers understand structure and strategy, not just pixels.</li><li><strong>Aliena Cai demonstrates full Double Diamond AI workflow with Figma Make</strong> — 43K views. AI as accelerator, not replacement.</li></ul><h3>🧠 Rex's Take</h3><p>The overlooked signal: pricing power in design tools is shifting from the tool itself to the model capability behind it. When Google Stitch offers free Gemini-powered UI generation, it attacks the entire pricing logic of AI design tools. Pure prompt-to-UI will be commoditized within 12 months. The real differentiation moves to: design system governance (brand-consistent generation), production-ready code output, and connecting design decisions to business metrics. \"AI design tool\" as a category will disappear by year-end — not because it failed, but because every tool will have AI built in. Brand-consistent rapid generation becomes the next differentiator.</p>"
+    },
+    "sources": [
+      {
+        "title": "9 Best AI Tools for UI/UX Designers in 2026 - toools.design",
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bebf9c2f3d062871b3c4_best-ai-tools-ui-ux-designers-2026.webp"
+      },
+      {
+        "title": "AI Tools Designers Should Stick With in 2026 - UX Planet",
+        "url": "https://uxplanet.org/ai-tools-designers-should-stick-with-in-2026-49fe5131d345",
+        "image": ""
+      },
+      {
+        "title": "How I Use AI to Design Better in 2026 - Aliena Cai (YouTube)",
+        "url": "https://www.youtube.com/watch?v=2u6bH17NIQk",
+        "image": "https://i.ytimg.com/vi/2u6bH17NIQk/maxresdefault.jpg"
+      }
+    ],
+    "cover": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bebf9c2f3d062871b3c4_best-ai-tools-ui-ux-designers-2026.webp"
+  },
+  {
+    "date": "2026-06-30",
+    "section": "tech",
+    "title": {
+      "zh": "Apple WWDC 2026重塑Siri、Qualcomm $40亿收购Modular、五眼联盟发布Agentic AI安全指南——AI基础设施争夺战白热化",
+      "en": "Apple Redesigns Siri at WWDC 2026, Qualcomm Acquires Modular for $4B, Five Eyes Issue Agentic AI Security Guidance — AI Infrastructure War Intensifies"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Apple WWDC 2026发布全新AI驱动Siri</strong> — Apple在WWDC 2026上发布了彻底重新设计的Siri，集成下一代Apple Intelligence能力。这是Apple在AI竞争中最大的一次追赶动作——从\"功能有限的语音助手\"重新定位为\"跨设备AI代理\"。考虑到Apple的20亿活跃设备基数，如果Siri真的变强，它将立即成为全球部署量最大的AI代理。<br><small>来源：<a href=\"https://www.apple.com/in/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/\">Apple Newsroom: Next Generation Apple Intelligence & Siri</a></small></li><li><strong>Qualcomm $40亿收购AI创业公司Modular</strong> — Qualcomm宣布以约$40亿收购AI基础设施创业公司Modular（Mojo语言的创造者）。Modular的核心价值是统一的AI推理运行时——让AI模型在不同硬件上高效运行。同时Qualcomm宣布Meta成为其下一代AI数据中心处理器的首个超大规模客户。<strong>移动芯片巨头正在全力转向AI基础设施。</strong><br><small>来源：<a href=\"https://www.linkedin.com/pulse/top-technology-news-stories-june-2026-lionreachmedia-jvsie\">LinkedIn: Top Technology News June 2026</a></small></li><li><strong>五眼联盟（美英澳加新）联合发布Agentic AI安全指南</strong> — 美国、澳大利亚、加拿大、新西兰和英国的网络安全和情报机构联合发布《Careful Adoption of Agentic AI Services》指导文件，针对关键基础设施和国防环境中部署的Agentic AI系统的安全风险。这是首次有五个国家联合对AI代理安全发表正式立场。<br><small>来源：<a href=\"https://www.executivegov.com/articles/agentic-ai-security-guidance-us-australia-canada-nz-uk\">ExecutiveGov: Agentic AI Security Guidance</a></small></li><li><strong>Microsoft Build 2026发布MAI模型家族（推理、编码、图像、语音）</strong> — Microsoft在Build 2026上发布七款MAI系列自研AI模型，覆盖推理、编码、图像生成和语音能力。从依赖OpenAI到自研模型，Microsoft正在构建独立的AI技术栈——这与OpenAI发布Jalapeño芯片的\"去NVIDIA化\"一样，都是AI巨头的\"垂直整合\"趋势。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/top-technology-news-stories-june-2026-lionreachmedia-jvsie\">LinkedIn: Top Technology News June 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>这周tech新闻的关键词只有一个：<strong>\"垂直整合\"。</strong>每一家巨头都在试图拥有AI栈的更多层，而这对整个行业的创新生态意味着什么，值得深思。</p><p>Apple重塑Siri不是技术新闻——是战略信号。Apple有20亿活跃设备，如果新Siri哪怕达到Claude/GPT的70%能力，它就自动成为<strong>地球上触达最广的AI代理</strong>。不需要下载app，不需要付订阅费，开机即用。这对ChatGPT的消费者市场份额是真实威胁。但Apple的挑战一直是AI能力的\"最后一英里\"——它的隐私优先架构限制了云端推理的可能性。如果Apple在设备端推理上取得突破（借助自研芯片），那OpenAI和Google的云端模式可能面临一种它们无法复制的竞争优势：<strong>真正的隐私+真正的智能。</strong></p><p>Qualcomm收购Modular是一步精妙的棋。Modular做的是\"让AI模型在任何硬件上高效运行\"的中间层——这正好是Qualcomm需要的。当NVIDIA GPU $50,000一颗时，能让模型在更便宜的硬件上跑得一样好的技术就是金矿。加上Meta成为Qualcomm AI处理器的首个超大规模客户——<strong>一个反NVIDIA联盟正在隐约成型：Qualcomm的推理硬件 + Modular的统一运行时 + Meta的开源模型生态。</strong>如果这个联盟运转起来，NVIDIA在推理市场（而非训练市场）的垄断可能被撼动。</p><p>五眼联盟的Agentic AI安全指南则是一个很容易被忽略但意义深远的信号。当五个国家的情报和安全机构联合对AI代理发表立场时，意味着<strong>Agentic AI已经从\"研究议题\"变成\"国家安全议题\"</strong>。文件标题里的\"关键基础设施和国防环境\"说明了一切——政府已经在部署AI代理执行关键任务，而安全问题已经不是理论风险。对企业的直接影响：如果你在开发或部署AI Agent，合规要求马上会变得更严格——Five Eyes国家的监管通常是全球标准的先导。</p><p><strong>整体趋势：</strong>2026年中的AI行业，不再是\"谁的模型更聪明\"的竞赛，而是\"谁控制更多的栈\"的战争。Apple控制设备+芯片+OS，Microsoft控制模型+云+应用，Qualcomm+Modular瞄准推理层，五眼联盟想控制规则层。在这个\"垂直整合\"的浪潮中，独立AI创业公司的生存空间正在被系统性压缩——除非你做的事情大公司暂时顾不上（垂直行业应用）或者不想做（开源社区）。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Apple unveils redesigned AI-powered Siri at WWDC 2026</strong> — Next-gen Apple Intelligence. With 2B active devices, immediately becomes world's most widely deployed AI agent if it works.</li><li><strong>Qualcomm acquires Modular for ~$4B</strong> — Unified AI inference runtime + Meta as first hyperscale customer. Anti-NVIDIA alliance forming.</li><li><strong>Five Eyes nations issue joint Agentic AI security guidance</strong> — First joint government stance on AI agent safety in critical infrastructure.</li><li><strong>Microsoft launches MAI model family at Build 2026</strong> — Seven proprietary models (reasoning, coding, image, voice). Building independent AI stack away from OpenAI dependency.</li></ul><h3>🧠 Rex's Take</h3><p>One keyword: vertical integration. Every giant is trying to own more of the AI stack. Apple's new Siri + 2B devices = instant mass-market AI agent threat to ChatGPT. Qualcomm + Modular + Meta open-source = an anti-NVIDIA inference alliance forming. Five Eyes' Agentic AI guidance means AI agents are now a national security issue, not just a research topic. Microsoft's MAI models signal independence from OpenAI. The 2026 AI race isn't about who has the smartest model — it's about who controls the most layers. Independent AI startups' survival space is being systematically compressed unless they're in verticals too small for giants to bother with.</p>"
+    },
+    "sources": [
+      {
+        "title": "Apple Unveils Next Generation of Apple Intelligence, Siri AI and More",
+        "url": "https://www.apple.com/in/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+        "image": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/tile/Apple-WWDC26-Apple-Intelligence-hero.jpg"
+      },
+      {
+        "title": "Top Technology News Stories June 2026 - LinkedIn",
+        "url": "https://www.linkedin.com/pulse/top-technology-news-stories-june-2026-lionreachmedia-jvsie",
+        "image": ""
+      },
+      {
+        "title": "Agentic AI Security Guidance - Five Eyes Nations",
+        "url": "https://www.executivegov.com/articles/agentic-ai-security-guidance-us-australia-canada-nz-uk",
+        "image": ""
+      }
+    ],
+    "cover": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/tile/Apple-WWDC26-Apple-Intelligence-hero.jpg"
+  },
+  {
     "date": "2026-06-29",
     "section": "design",
     "title": {
