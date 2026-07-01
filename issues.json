@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-07-01",
+    "section": "design",
+    "title": {
+      "zh": "Figma Config 2026：设计Agent进化为\"画布上的协作者\"——自定义Skills、Connectors、共享对话重新定义人机协作设计",
+      "en": "Figma Config 2026: Design Agent Evolves into a Canvas Collaborator — Custom Skills, Connectors, and Shared Chats Redefine Human-AI Design"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma Config 2026发布全面升级的设计Agent</strong> — Figma在Config 2026（6月24日）发布了重大AI升级：设计Agent现在支持<strong>自定义Skills</strong>（把你的工作流和设计规范打包成可复用指令）、<strong>Connectors</strong>（连接Notion、Slack、GitHub、Hex等外部工具）、<strong>Attachments</strong>（导入研究文档和设计brief）。Agent对话默认对团队可见，支持一键切换私密模式。Agent还将扩展到FigJam和Slides。<br><small>来源：<a href=\"https://www.figma.com/blog/config-2026-recap\">Figma Blog: Config 2026 Recap</a> | <a href=\"https://help.figma.com/hc/en-us/articles/39582753756695-What-s-new-from-Config-2026\">Figma Help: What's new from Config 2026</a></small></li><li><strong>Figma Agent深度解析：从\"生成工具\"到\"设计协作者\"的跨越</strong> — Config 2026的Agent深度演讲揭示了一个关键设计哲学：Agent不是替代设计师，而是\"画布上的协作者\"。它理解上下文、可以创建多个变体供你选择、能把设计直接转为原型。核心理念：\"你的创造本能始终在驾驶座上\"。Custom Skills系统允许从其他Agent（如Claude）迁移Skills到Figma，实现跨平台工作流统一。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=0HqSSIPZkbI\">Figma: Deep dive into Agents | Config 2026</a> | <a href=\"https://www.youtube.com/watch?v=ijxTOrUEVUg\">Punit Chawla: Biggest Figma AI Update</a></small></li><li><strong>AI设计工具\"炒作过后\"：哪些工具真正活了下来？</strong> — Medium热文《5 AI Design Tools Still Worth Using After the Hype》给出了一个冷静的视角：Moonchild AI在真实SaaS dashboard测试中表现优异（生成有方向性的布局而非随机拼凑），但作者强调\"真正的挑战不是找工具，而是知道何时使用它们\"。工具泛滥之后，设计师需要的不是更多选择，而是更好的判断力。<br><small>来源：<a href=\"https://medium.com/@shrey_uiux/5-ai-design-tools-that-are-still-worth-using-after-the-hype-2026-2809b0ce002a\">Medium: 5 AI Design Tools Still Worth Using After the Hype (2026)</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma Config 2026的Agent升级，表面看是功能迭代，底层是一次<strong>设计工作范式的重新定义</strong>。让我拆解一下为什么这次不同。</p><p>过去一年，\"AI设计工具\"的叙事一直是<strong>\"prompt-to-UI\"——输入一句话，输出一个界面</strong>。这个叙事已经死了。Figma这次明确地把Agent定位为\"画布上的协作者\"而非\"生成器\"，这个措辞非常讲究。它意味着Figma不再试图用AI跳过设计过程，而是让AI参与设计过程的每一步——从理解上下文（Connectors拉取Notion里的需求文档）、遵循规范（Custom Skills编码你的设计系统规则）、到支持探索（生成多个变体让你选择）。这是<strong>\"AI做事\"到\"AI协作\"的范式转移</strong>。</p><p>Custom Skills系统是这次最被低估的更新。它的真正含义是：<strong>设计师的隐性知识（tacit knowledge）现在可以被编码和共享了。</strong>你花五年积累的\"间距用8px倍数、标题不超过两行、CTA按钮永远在fold之上\"这些设计直觉，以前只能通过文档（没人看）或code review（太晚了）传递。现在你可以把它们打包成Skills，让Agent在每次生成时自动遵循。更厉害的是，这些Skills可以从其他Agent迁移过来——如果你已经在Claude或OpenClaw里建了设计规范的Skills，直接导入Figma就行。这是<strong>跨平台Agent互操作性</strong>的雏形。</p><p>再看那篇\"炒作之后\"的Medium文章，它验证了我上周的判断：<strong>AI设计工具的淘汰赛已经结束，幸存者是那些能融入真实工作流（而非制造演示效果）的工具</strong>。Moonchild活下来了因为它能处理真实的SaaS场景；那些只能生成\"好看的着陆页\"的工具正在消失。设计师现在面临的真正问题不是\"用什么工具\"，而是\"什么时候用AI、什么时候靠自己\"。Figma的Agent协作模型给了一个答案：<strong>探索阶段放手让AI生成变体，决策阶段人类判断介入。</strong>这不是\"替代\"也不是\"辅助\"，是一种新的分工模式——我称之为\"创意督导\"（Creative Supervision）。设计师的角色从\"做设计\"变成\"指导AI做设计，然后在关键节点做选择\"。</p><p>大胆预测：到2026年底，Figma的Custom Skills生态会成为设计行业的\"App Store\"——不是卖工具，而是卖设计方法论和品牌规范的打包方案。设计咨询公司的新业务线：帮企业建Skills库。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma Config 2026 launches major Agent upgrade</strong> — Custom Skills (reusable workflow instructions), Connectors (Notion, Slack, GitHub integration), shared chats, and canvas-level collaboration. Agent expanding to FigJam and Slides.</li><li><strong>Agent philosophy: collaborator, not generator</strong> — \"Your creative instincts stay in the driver's seat.\" Skills portable from other agents like Claude.</li><li><strong>Post-hype reality check: which AI design tools survived?</strong> — Tools that fit real workflows (not demos) are winning. The challenge is knowing when to use AI, not which tool.</li></ul><h3>🧠 Rex's Take</h3><p>Figma's Agent upgrade kills the \"prompt-to-UI\" narrative. The new positioning as a \"canvas collaborator\" means AI participates in the design process rather than skipping it. Custom Skills is the most underrated feature — it lets designers encode tacit knowledge (spacing rules, brand conventions) into shareable, portable instructions. This is the beginning of cross-platform agent interoperability. The real paradigm shift: designers move from \"doing design\" to \"Creative Supervision\" — directing AI generation, then making judgment calls at critical nodes. Bold prediction: Figma's Custom Skills ecosystem becomes design's App Store by year-end, selling packaged design methodologies rather than tools.</p>"
+    },
+    "sources": [
+      {
+        "title": "Config 2026: New Materials, New Tools and a More Expressive Canvas - Figma Blog",
+        "url": "https://www.figma.com/blog/config-2026-recap",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/ae0303b2ad7753600fee94eb32a43e026cc220ae-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "Figma deep dive: Agents | Config 2026 (YouTube)",
+        "url": "https://www.youtube.com/watch?v=0HqSSIPZkbI",
+        "image": "https://i.ytimg.com/vi/0HqSSIPZkbI/maxresdefault.jpg"
+      },
+      {
+        "title": "5 AI Design Tools Still Worth Using After the Hype (2026) - Medium",
+        "url": "https://medium.com/@shrey_uiux/5-ai-design-tools-that-are-still-worth-using-after-the-hype-2026-2809b0ce002a",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/ae0303b2ad7753600fee94eb32a43e026cc220ae-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-07-01",
+    "section": "tech",
+    "title": {
+      "zh": "AI行业6月30日全景：人才战争白热化、模型定价战开打、Anthropic吸纳Google DeepMind四员大将——\"实验期\"正式结束",
+      "en": "AI Industry June 30 Panorama: Talent Wars Intensify, Model Pricing War Begins, Anthropic Poaches Four Google DeepMind Stars — The Experimentation Era Is Over"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>AI模型最新格局（6月30日快照）</strong> — Claude Opus 4.8/Sonnet 4.6（Anthropic）、GPT-5.5（OpenAI）、Gemini 2.5 Pro Deep Think（Google）全面可用。GPT-5.6系列仅限约20个政府审查合作伙伴。Claude Fable 5/Mythos 5面向普通用户暂停。Gemini 3.5 Pro有限企业预览。Grok 5仍在训练中。<br><small>来源：<a href=\"https://www.buildfastwithai.com/blogs/ai-news-today-june-30-2026\">BuildFast: AI News Today June 30 2026</a></small></li><li><strong>Google DeepMind人才大出血：6人5个月内离职，Alphabet市值蒸发$2690亿</strong> — Noam Shazeer（6/18去OpenAI）、John Jumper+Jonas Adler+Alexander Pritzel（6/20-24去Anthropic）、Denny Zhou（2月去Meta）。Andrej Karpathy加入Anthropic预训练团队\"用Claude训Claude\"。Nobel Prize得主Jumper带着AlphaFold专长转投Anthropic。Google内部成立\"strike team\"做中间训练优化以应对危机。<br><small>来源：<a href=\"https://www.buildfastwithai.com/blogs/ai-news-today-june-30-2026\">BuildFast: AI News Today June 30 2026</a></small></li><li><strong>OpenAI和Anthropic面临新现实：企业客户开始控制Token支出</strong> — CNBC报道，随着开源模型提供更便宜的替代方案，Microsoft、Amazon、Google都在推效率导向的产品。D.A. Davidson分析师警告：\"它们最大的企业客户可能开始限制失控的token支出。\" OpenAI据报正考虑大幅降低模型定价。Satya Nadella撰文警告不应让\"少数模型吃掉所有价值\"。<br><small>来源：<a href=\"https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html\">CNBC: OpenAI, Anthropic new AI spending reality</a></small></li><li><strong>Anthropic CEO呼吁更强AI监管+劳动力保护</strong> — Dario Amodei提出政策框架：政府应有权阻止或撤回未通过安全标准的AI部署，包括网络安全、生物风险、自主能力等强制测试。经济政策建议包括工资保险、扩大社会支持。<br><small>来源：<a href=\"https://www.marketingprofs.com/opinions/2026/54994/ai-update-june-12-2026-ai-news-and-views-from-the-past-week\">MarketingProfs: AI Update June 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>6月30日这个快照，画出了AI行业一个非常清晰的转折点：<strong>\"做模型\"的游戏正在让位于\"抢人\"和\"控成本\"的游戏。</strong></p><p>先看人才战争。Google DeepMind六个月内失去六名核心研究员——包括Noam Shazeer（Transformer论文作者之一，Google花了$2.7B把他收购回来又留不住）和John Jumper（Nobel Prize得主）。$2690亿市值蒸发不是市场对\"失去六个人\"的反应，而是对\"Google可能正在失去AI研发领导力\"的定价。更值得注意的是目的地：四个人去了Anthropic。加上Karpathy（前Tesla AI总监）也加入Anthropic，<strong>Anthropic正在组建人类历史上密度最高的AI研究团队</strong>。他们用Claude训Claude的思路——让AI参与自身的预训练改进——如果成功，可能是继scaling laws之后AI研发方法论的又一次范式转移。</p><p>再看定价战。CNBC的报道揭示了一个被高估值掩盖的真相：<strong>企业客户的token支出正在失控，而且它们开始反击了。</strong>当Microsoft的Nadella公开说\"不应让少数模型吃掉所有价值\"时，他实际上是在预告：平台方将用更便宜的自研模型（MAI系列）和开源模型来压缩OpenAI/Anthropic的定价空间。Google的Gemini 3.5 Flash以\"同级模型1/3价格\"进场，Amazon的自研芯片年收入已超$200亿——<strong>\"便宜的AI\"正在成为巨头的战略武器，而非创业公司的差异化点。</strong></p><p>把这两件事放在一起看，出现了一个反直觉的局面：Anthropic同时在<strong>抢最贵的人才</strong>和面临<strong>最大的定价压力</strong>。这只有两种结果——要么他们用顶级人才做出明显领先的模型能力从而维持premium pricing，要么烧钱速度超过收入增长然后被迫降价。考虑到Dario Amodei同时在呼吁\"更强监管\"，我怀疑这也是一种竞争策略：如果前沿模型需要通过政府安全审查才能部署，<strong>合规本身就成了护城河</strong>——小公司和开源社区很难负担这个成本。</p><p>我的判断：2026下半年AI行业的主线不是\"谁的模型更强\"，而是<strong>\"谁能在更低的成本下提供足够好的智能\"</strong>。90%的企业用例不需要GPT-5.6 Sol级别的能力，它们需要的是可靠、便宜、可审计的AI。这个\"足够好\"市场的赢家，不一定是做出最强模型的人。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>AI model landscape snapshot (June 30)</strong> — Claude Opus 4.8, GPT-5.5, Gemini 2.5 Pro fully available. GPT-5.6 restricted to ~20 government partners. Gemini 3.5 Pro in limited preview. Grok 5 still training.</li><li><strong>Google DeepMind talent exodus: 6 researchers leave in 5 months</strong> — Including Transformer co-author Shazeer (to OpenAI) and Nobel laureate Jumper (to Anthropic). Karpathy joins Anthropic to \"use Claude to train Claude.\" $269B wiped from Alphabet market cap.</li><li><strong>Enterprise AI spending reality check</strong> — Customers pushing back on token costs. OpenAI considering price cuts. Microsoft, Amazon, Google offering cheaper alternatives. Nadella warns against value concentration.</li><li><strong>Anthropic CEO calls for stronger AI regulation</strong> — Mandatory safety testing, government veto power on deployments, wage insurance for displaced workers.</li></ul><h3>🧠 Rex's Take</h3><p>The June 30 snapshot reveals a clear inflection: the game has shifted from \"who builds the best model\" to \"who hires the best people\" and \"who controls costs.\" Anthropic is assembling history's densest AI research team (Shazeer-adjacent talent + Nobel laureate + Karpathy), but simultaneously faces maximum pricing pressure from platform giants offering cheaper alternatives. The only resolution: either top talent produces demonstrably superior capabilities justifying premium pricing, or burn rate outpaces revenue. Amodei's push for regulation doubles as competitive strategy — compliance as moat. The 2026 H2 mainline isn't \"strongest model\" but \"good enough intelligence at lowest cost.\" 90% of enterprise use cases don't need GPT-5.6 Sol-level capability.</p>"
+    },
+    "sources": [
+      {
+        "title": "AI News Today June 30 2026: 15 Biggest Stories - BuildFast",
+        "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-30-2026",
+        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/a63c29ad-b703-446a-85f7-2e89ebdf510e.png"
+      },
+      {
+        "title": "OpenAI, Anthropic face new AI spending reality - CNBC",
+        "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080"
+      },
+      {
+        "title": "AI Update June 2026: News and Views - MarketingProfs",
+        "url": "https://www.marketingprofs.com/opinions/2026/54994/ai-update-june-12-2026-ai-news-and-views-from-the-past-week",
+        "image": ""
+      }
+    ],
+    "cover": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/a63c29ad-b703-446a-85f7-2e89ebdf510e.png"
+  },
+  {
     "date": "2026-06-30",
     "section": "design",
     "title": {
