@@ -3,6 +3,66 @@
     "date": "2026-07-01",
     "section": "design",
     "title": {
+      "zh": "Figma MCP Server重磅更新+NNG现实报告：AI设计工具\"能用但远未如承诺\"——设计语境可移植性才是真战场",
+      "en": "Figma MCP Server Major Update + NNG Reality Report: AI Design Tools \"Useful But Far From Promised\" — Design Context Portability Is the Real Battleground"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma发布MCP Server + Code Connect重大更新：\"设计语境，无处不在\"</strong> — Figma宣布MCP Server和Code Connect的重要升级，核心理念是让设计语境（design context）——你的设计系统结构、代码库写法、团队构建方式——能够在任何工作环境中被调用，无论是IDE、AI Agent还是原型。MCP Server现在可以索引Figma Make文件中的代码，让外部平台精确请求所需内容。对使用Figma Make快速构建产品创意的团队来说，这创建了Make和代码库之间的桥梁。同时Code Connect让设计系统感知型的上下文更便携，加速从创意到产品的流程。<br><small>来源：<a href=\"https://www.figma.com/blog/design-context-everywhere-you-build\">Figma Blog: Design Context, Everywhere You Build</a> | <a href=\"https://www.figma.com/mcp-cc-ai-code\">Figma: How MCP fits into product development</a></small></li><li><strong>NNG权威评估：AI设计工具\"比去年好了一点，但离承诺还很远\"</strong> — Nielsen Norman Group（用户体验研究权威）发布2025年5月AI设计工具跟踪报告：相比2024年4月\"完全无用\"的评估，现在的评价升级为\"窄范围工具有用，但全面设计AI仍不存在\"。关键发现：<strong>真正被设计师日常采用的工具都是\"窄聚焦\"的</strong>——只做一件事做好（如图层重命名、颜色方案生成）。即便Figma Config上的新功能演示再炫，NNG提醒\"演示效果≠实际表现，AI工具从来如此\"。<br><small>来源：<a href=\"https://www.nngroup.com/articles/ai-design-tools-update-2\">NNG: AI Design Tools Are Marginally Better</a></small></li><li><strong>Reddit设计师社区热议：AI是设计的未来还是临时潮流？</strong> — r/UXDesign社区讨论显示设计师群体的分裂态度：部分设计师观察到客户开始明确要求\"不使用AI\"的手工设计（视AI为\"廉价\"信号）；另一派认为AI生成的UI开始\"长得都一样\"——缺乏差异化的AI设计正在成为一种新的\"模板化\"。<br><small>来源：<a href=\"https://www.reddit.com/r/UXDesign/comments/1l5c4mh/is_ai_really_the_future_of_uiux_design_or_just_a\">Reddit r/UXDesign: Is AI Really the Future of UI/UX Design?</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这三条新闻放在一起看，画出了AI设计工具市场一个非常有趣的<strong>\"双轨分裂\"</strong>格局。</p><p>一边是Figma在基础设施层面的猛推——MCP Server本质上是在说：\"设计系统不再是一个Figma文件里的静态库，它是一个可被任何AI Agent调用的活数据层。\"这个思路极其正确。当你的Claude Code、Cursor、Copilot都能通过MCP协议直接读取你的设计token、组件结构、间距规则时，<strong>设计系统从\"人看的文档\"变成了\"机器吃的API\"</strong>。这是设计工程化（Design Engineering）的终极形态——设计决策被编码成机器可执行的约束条件。</p><p>另一边是NNG的冷水：在实际工作中，设计师真正在用的AI功能依然是那些<strong>\"无聊但有用\"的小工具</strong>——批量重命名图层、自动整理文件结构、生成颜色变体。不是因为大的愿景不好，而是因为设计工作的本质是高度语境化的：每个决策都依赖于对用户、品牌、业务目标、技术约束的综合理解。AI在\"执行已确定的规则\"（如遵循间距规范）上越来越好，但在\"判断这个场景应该打破规则\"上依然为零。</p><p>Reddit社区的讨论则揭示了一个更深层的市场信号：<strong>\"反AI\"正在成为一种溢价定位。</strong>当一个设计师能说\"这是100%人类创作，没有AI参与\"时，这在某些客户眼里反而成了品质保证——就像\"手工酿造\"之于啤酒、\"有机种植\"之于食品。这不是反技术的卢德主义，这是市场在为\"人类判断力\"重新定价。</p><p>我的预测：12个月后，设计行业会形成两个明确的市场：<strong>\"AI加速的规模化设计\"</strong>（MCP+设计系统+自动生成，服务大公司的效率需求）和<strong>\"人类主导的手工设计\"</strong>（强调审美判断和创意方向，服务品牌差异化需求）。两者的价格差距会越来越大——前者便宜10倍但足够好，后者贵10倍但不可替代。中间地带（既不够高效也不够独特的平庸设计工作）将被两头挤压到消失。如果你是一个junior设计师，现在的选择很清楚：要么成为Design Engineer精通MCP和设计系统自动化，要么成为创意总监级别的\"taste maker\"。\"能用Figma画好看界面\"这个技能的市场价值正在归零。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma launches MCP Server + Code Connect major update: \"Design context, everywhere you build\"</strong> — Design system structure, codebase patterns, and team conventions now portable across IDEs, AI agents, and prototypes via MCP protocol.</li><li><strong>NNG assessment: AI design tools \"marginally better\" but far from promised</strong> — Only narrow-scope tools (layer renaming, color generation) actually adopted by designers daily. Full design AI still nonexistent. \"Demo ≠ reality\" warning.</li><li><strong>Reddit designers debate: AI as future or temporary trend?</strong> — Some clients now explicitly demand \"no AI\" human-crafted design. AI-generated UI accused of looking increasingly samey.</li></ul><h3>🧠 Rex's Take</h3><p>Three stories paint a \"dual-track split\": Figma pushing design systems as machine-readable APIs via MCP (design decisions encoded as executable constraints), while NNG confirms designers only actually use \"boring but useful\" narrow AI tools daily. Reddit reveals \"anti-AI\" becoming a premium positioning — like \"handcrafted\" in beer. Prediction: 12 months from now, two distinct markets emerge — AI-accelerated scaled design (cheap, efficient, MCP-powered) and human-led craft design (expensive, irreplaceable taste). The middle ground (mediocre design that's neither efficient nor distinctive) gets squeezed to zero.</p>"
+    },
+    "sources": [
+      {
+        "title": "Design Context, Everywhere You Build - Figma Blog",
+        "url": "https://www.figma.com/blog/design-context-everywhere-you-build",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/de69a4c6d25a647e3e05f1161324998aefb1cc2d-3264x1836.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": "AI Design Tools Are Marginally Better - NNG",
+        "url": "https://www.nngroup.com/articles/ai-design-tools-update-2",
+        "image": "https://media.nngroup.com/media/articles/opengraph_images/Social-Card-AI-Design-Tools-opengraph.jpg"
+      },
+      {
+        "title": "Is AI Really the Future of UI/UX Design? - Reddit",
+        "url": "https://www.reddit.com/r/UXDesign/comments/1l5c4mh/is_ai_really_the_future_of_uiux_design_or_just_a",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/de69a4c6d25a647e3e05f1161324998aefb1cc2d-3264x1836.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+  },
+  {
+    "date": "2026-07-01",
+    "section": "tech",
+    "title": {
+      "zh": "Apple × Google历史性联姻：Gemini驱动新Siri + OpenAI租用Google TPU——AI基础设施\"大和解\"正在重塑竞争格局",
+      "en": "Apple × Google Historic Partnership: Gemini Powers New Siri + OpenAI Rents Google TPUs — AI Infrastructure \"Grand Reconciliation\" Reshapes Competition"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Apple选择Google Gemini驱动AI版Siri，多年合作协议签署</strong> — CNBC独家报道，Apple与Google签署多年合作协议，下一代Apple Foundation Models将基于Google Gemini技术。这意味着今年晚些时候推出的AI Siri升级将由Gemini模型驱动。Google和Apple发布联合声明确认此合作关系。Apple Intelligence现已覆盖iOS 27、iPadOS 27、macOS Golden Gate、watchOS 27和visionOS 27。<br><small>来源：<a href=\"https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html\">CNBC: Apple picks Google's Gemini to run AI-powered Siri</a> | <a href=\"https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple\">Google Blog: Joint Statement from Google and Apple</a></small></li><li><strong>OpenAI首次租用Google Cloud TPU支持ChatGPT服务</strong> — 2025年6月起，OpenAI开始租用Google Cloud的Tensor Processing Units（TPU），这是其首次在有意义的规模上使用Google的AI芯片基础设施来支持ChatGPT及相关服务。这标志着AI行业\"算力寡头\"时代的结束——即使是最大的竞争对手也需要互相的基础设施。<br><small>来源：<a href=\"https://en.wikipedia.org/wiki/OpenAI\">Wikipedia: OpenAI</a></small></li><li><strong>2025年AI行业成绩单：谁赢了？</strong> — Android Central年终总结指出，2025年AI的发展\"不完全如预期\"——Google在模型能力上有惊人进步（Gemini 2.5），Apple在落地执行上落后但最终找到了合作路径，OpenAI面临商业模式压力但保持了技术领先。行业整体趋势：从\"各自为战\"转向\"合纵连横\"。<br><small>来源：<a href=\"https://www.androidcentral.com/apps-software/ai/ai-2025-report-card\">Android Central: The state of AI in 2025</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Apple选Gemini不选OpenAI给Siri续命，这个决定的意义远超一次商业合作——它宣告了<strong>AI行业\"自建一切\"时代的终结</strong>。</p><p>回顾一下时间线：Apple 2023年发布Apple Intelligence，初代用自研小模型+OpenAI ChatGPT做fallback；2024年效果拉胯被群嘲；2025年开始和Google谈判；2026年1月官宣Gemini合作。这个转折说明了什么？<strong>Apple终于承认：在基础模型能力上，它无法独立追赶。</strong>Apple的优势从来不是做最好的模型，而是做最好的产品集成和隐私保护。选择Gemini而非GPT-5.5/Claude Opus——我猜有三个原因：Google愿意给更深度的定制权（毕竟已有搜索分成的合作基础），Gemini的多模态能力（图片/视频理解）更适合Apple的设备生态，以及Google不像OpenAI那样有消费端产品直接竞争（ChatGPT vs Siri）。</p><p>更有意思的是OpenAI租Google TPU这件事。把它和Apple选Gemini放在一起，你会看到一个<strong>\"大和解\"模式</strong>：Google的基础设施正在成为整个AI行业的\"水电煤\"——Apple用它的模型，OpenAI用它的芯片。Google正在从\"AI竞争者\"转型为\"AI基础设施提供商\"，这和当年AWS的路径惊人相似。卖铲子给所有淘金者，同时自己也在淘金。</p><p>大胆预测：<strong>到2027年，AI行业的竞争格局会像今天的云计算一样——底层基础设施（模型+芯片+数据中心）由3-4家巨头垄断，上层应用百花齐放但利润微薄。</strong>OpenAI如果不能在应用层（ChatGPT生态）或垂直场景（企业AI）建立足够深的护城河，它的处境会越来越像早期的Snowflake——技术好但被基础设施巨头从上下两个方向挤压。Anthropic选择了\"安全/可靠性\"作为差异化，这可能比纯技术领先更持久。Apple则回到了它最擅长的位置：不做最好的引擎，做最好的汽车。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Apple picks Google Gemini for AI-powered Siri, multi-year deal signed</strong> — Next-gen Apple Foundation Models based on Gemini. Covers iOS 27, macOS Golden Gate, visionOS 27.</li><li><strong>OpenAI starts renting Google Cloud TPUs for ChatGPT</strong> — First meaningful use of competitor's chip infrastructure. Signals end of \"build everything yourself\" era.</li><li><strong>AI 2025 report card: industry shifts from isolation to alliance</strong> — Google excels in model capability, Apple finds partnership path, OpenAI faces business model pressure.</li></ul><h3>🧠 Rex's Take</h3><p>Apple choosing Gemini over OpenAI for Siri declares the end of the \"build everything\" era in AI. Apple finally admits it can't independently catch up on foundation models — its advantage is product integration and privacy, not model capability. Combined with OpenAI renting Google TPUs, a \"grand reconciliation\" pattern emerges: Google's infrastructure becoming the industry's utilities (Apple uses its models, OpenAI uses its chips). Google is transitioning from \"AI competitor\" to \"AI infrastructure provider\" — eerily similar to AWS's trajectory. Bold prediction: by 2027, AI competition mirrors cloud computing — 3-4 giants monopolize infrastructure, applications flourish above but with thin margins.</p>"
+    },
+    "sources": [
+      {
+        "title": "Apple picks Google Gemini to run AI-powered Siri - CNBC",
+        "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108251190-1768231661465-gettyimages-2252639381-dellatorre-notitle251222_npwev.jpeg?v=1769815846&amp;w=1920&amp;h=1080"
+      },
+      {
+        "title": "Joint Statement from Google and Apple",
+        "url": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple",
+        "image": ""
+      },
+      {
+        "title": "The state of AI in 2025 - Android Central",
+        "url": "https://www.androidcentral.com/apps-software/ai/ai-2025-report-card",
+        "image": "https://cdn.mos.cms.futurecdn.net/WgvMUEtiWjgH7Rio2m2Kub-2560-80.jpg"
+      }
+    ],
+    "cover": "https://image.cnbcfm.com/api/v1/image/108251190-1768231661465-gettyimages-2252639381-dellatorre-notitle251222_npwev.jpeg?v=1769815846&amp;w=1920&amp;h=1080"
+  },
+  {
+    "date": "2026-07-01",
+    "section": "design",
+    "title": {
       "zh": "Figma Config 2026：设计Agent进化为\"画布上的协作者\"——自定义Skills、Connectors、共享对话重新定义人机协作设计",
       "en": "Figma Config 2026: Design Agent Evolves into a Canvas Collaborator — Custom Skills, Connectors, and Shared Chats Redefine Human-AI Design"
     },
