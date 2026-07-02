@@ -17690,6 +17690,238 @@
       "body": "七月 Visual for AI 的三个发现揭示了 AI 产品设计正在进入「成熟期」的标志：从「AI 是什么」的新鲜感设计，进化到「AI 怎么用」的实用性设计。Agent 性格可视化解决的是「多 Agent 时代的辨识度」——当用户同时使用 5-10 个不同 Agent 时，纯文字名称不够用了，需要视觉层面的即时区分。协作光谱解决的是「AI 介入度的可预期性」——用户需要在视觉上感知「AI 在这里只是工具」还是「AI 在这里是合作伙伴」，否则会产生错误期待。Model Card 的成分表隐喻则是最聪明的透明度设计——不是发明新的信息架构，而是借用人人都熟悉的认知框架。三个方向的共同信号：AI 视觉设计的竞争从「谁更酷」转向「谁更清晰」。2026 下半年的 AI 产品视觉设计师，最重要的能力不是视觉创意，而是「认知工程」——帮助人类大脑以最低成本理解一个看不见的智能系统。",
       "body_en": "July's three Visual for AI findings signal AI product design entering 'maturity': from novelty design of 'what is AI' to practical design of 'how to use AI.' Agent personality visualization solves 'recognition in multi-agent era' — when users have 5-10 agents, text names aren't enough, needing instant visual distinction. Collaboration spectrum solves 'predictability of AI involvement' — users need to visually perceive whether 'AI is just a tool here' or 'AI is a partner here,' preventing false expectations. Model Card nutrition label metaphor is the smartest transparency design — not inventing new IA but borrowing universally familiar cognitive frameworks. Common signal: AI visual design competition shifts from 'who's cooler' to 'who's clearer.' H2 2026 AI visual designers' most important skill isn't visual creativity but 'cognitive engineering' — helping human brains understand invisible intelligent systems at minimum cost.",
       "date": "2026-07-01"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Wealth Copilot — 自然语言资产配置",
+      "body": "2026 年中最值得关注的 Fintech 产品形态：用自然语言描述人生目标（「三年内买房」「明年送孩子留学」），AI 自动生成资产配置方案并可视化为时间轴瀑布图。每个目标是一条独立的「资金河流」，河流宽度代表所需金额，颜色渐变代表完成进度。当多个目标的河流交汇时，AI 标注资金冲突并建议优先级调整。",
+      "body_en": "The most notable mid-2026 fintech product form: describe life goals in natural language (\"buy a house in 3 years,\" \"fund study abroad next year\"), AI auto-generates asset allocation visualized as timeline waterfall. Each goal is an independent \"fund river,\" width representing amount needed, color gradient showing completion progress. When rivers converge, AI flags funding conflicts and suggests priority adjustments.",
+      "tags": [
+        "Wealth Planning",
+        "Natural Language",
+        "Goal Viz",
+        "Timeline"
+      ],
+      "link": "https://dribbble.com/search/wealth-planning-ai-2026",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 实时合规审计 — 金融产品的「碳排放标签」时代",
+      "body": "2026 年 Q3 欧盟 AI Act 全面执行后，Fintech 产品被要求像食品标注营养成分一样标注 AI 决策透明度。每笔 AI 辅助的金融交易必须附带「决策溯源卡」——AI 参考了哪些数据、权重如何分配、置信度多少。设计挑战：如何把监管要求变成用户信任的加分项而非体验的减分项。",
+      "body_en": "After EU AI Act full enforcement in Q3 2026, fintech products are required to label AI decision transparency like food nutrition labels. Every AI-assisted financial transaction must include a \"decision provenance card\" — which data AI referenced, how weights were distributed, confidence level. Design challenge: turning regulatory requirements into trust boosters rather than UX friction.",
+      "tags": [
+        "EU AI Act",
+        "Compliance Label",
+        "Decision Provenance",
+        "Trust UX"
+      ],
+      "link": "https://www.behance.net/search/projects/fintech%20compliance%20transparency%20AI",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Split Finance — 共同账户的智能分账设计",
+      "body": "Splitwise 遇见 AI CFO：情侣/室友/合伙人的共同财务管理新形态。AI 自动识别共同开支（房租、水电）和个人开支，用「双色流」可视化两人的资金关系——蓝色是你付的、绿色是对方付的，中间的灰色带是 AI 建议的平衡点。每月自动生成「关系财务健康报告」，措辞极其小心避免引发冲突。",
+      "body_en": "Splitwise meets AI CFO: new shared financial management for couples/roommates/partners. AI auto-identifies shared expenses (rent, utilities) vs personal, visualized as \"dual-color flow\" — blue for your payments, green for theirs, gray band in between as AI-suggested equilibrium. Monthly auto-generated \"relationship financial health report\" with extremely careful wording to avoid triggering conflicts.",
+      "tags": [
+        "Shared Finance",
+        "Relationship UX",
+        "Dual Flow",
+        "Conflict-Aware"
+      ],
+      "link": "https://dribbble.com/search/shared-finance-app-split",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "七月初的 Fintech 设计观察让我看到一个清晰的方向：金融 AI 正在从「个人工具」进化为「关系工具」。上半年所有 Fintech AI 都假设用户是孤立个体——管好自己的钱。但现实中，钱是关系性的：情侣分账、家庭预算、合伙人股权。共同账户的 AI 设计暴露了一个深层挑战：金融数据是中性的，但金融关系是情感化的。当 AI 告诉你「你的伴侣上月消费比你多 40%」，这是信息还是挑衅？最好的关系金融 AI 需要一种全新的设计语言——不是「谁花了多少」的审判式呈现，而是「我们一起实现了什么」的叙事式呈现。同时，合规标签的强制化说明一件事：2026 下半年，「透明度」不再是产品差异化因素，而是准入门槛。当所有人都被迫透明，新的差异化在于「透明的方式」——谁能把合规信息呈现得不像合规信息，而像一种服务。",
+      "body_en": "Early July fintech observation reveals a clear direction: financial AI is evolving from \"personal tool\" to \"relationship tool.\" H1 fintech AI assumed isolated individual users — manage your own money. But reality: money is relational — couples splitting, family budgets, partner equity. Shared account AI design exposes a deep challenge: financial data is neutral, but financial relationships are emotional. When AI says \"your partner spent 40% more than you last month\" — is that information or provocation? Relationship financial AI needs entirely new design language — not judgmental \"who spent how much\" but narrative \"what we achieved together.\" Meanwhile, mandatory compliance labels confirm: H2 2026, transparency isn't differentiation but table stakes. When everyone's forced transparent, new differentiation lies in HOW you're transparent — who can make compliance info feel like service, not obligation.",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 热适应训练 — 夏季运动的环境智能设计",
+      "body": "针对夏季训练的 AI 热适应 App。结合实时气温、湿度、体感温度和用户心率数据，AI 动态调整训练强度和补水提醒。界面用「热力渐变」覆盖整个屏幕背景——凉爽时蓝灰色调，炎热时琥珀色渐浓，危险时红色脉动。最聪明的设计：补水提醒不是弹窗打断，而是屏幕边缘的「蒸发线」——一条动态线条随时间消退，暗示体内水分的流失。",
+      "body_en": "AI heat adaptation app for summer training. Combines real-time temperature, humidity, heat index with user heart rate data, dynamically adjusting intensity and hydration reminders. Interface uses \"heat gradient\" covering the entire background — cool blue-gray when comfortable, amber intensifying with heat, red pulsing at danger levels. Smartest design: hydration reminders aren't popup interruptions but edge \"evaporation lines\" — dynamic lines fading over time, symbolizing body water loss.",
+      "tags": [
+        "Heat Training",
+        "Environmental AI",
+        "Ambient Color",
+        "Hydration UX"
+      ],
+      "link": "https://dribbble.com/search/heat-training-fitness-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=1200&q=80",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 多人竞赛 — 虚拟对战的实时数据可视化",
+      "body": "Zwift + Peloton 之后的下一代虚拟竞赛界面：AI 驱动的多人实时运动对战。不只是看到彼此的虚拟形象，而是实时数据的「透视」——你能看到对手的心率区间（他快到极限了吗？）、配速趋势（他在加速还是在保持？）。界面用半透明的数据层叠加在赛道视图上，信息密度极高但通过分层和焦点模糊保持可读性。",
+      "body_en": "Next-gen virtual racing interface after Zwift + Peloton: AI-powered multiplayer real-time sports competition. Beyond seeing virtual avatars — real-time data \"X-ray\" showing opponents' heart rate zones (are they near their limit?), pace trends (accelerating or maintaining?). Semi-transparent data layers overlaid on track view, extremely high information density kept readable through layering and focus blur.",
+      "tags": [
+        "Virtual Racing",
+        "Multiplayer",
+        "Data X-Ray",
+        "Competitive UX"
+      ],
+      "link": "https://dribbble.com/search/virtual-racing-fitness-data",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=1200&q=80",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动处方 — 医疗级运动推荐的产品化",
+      "body": "2026 年 Q3 运动科技与医疗健康的交汇点：AI 运动处方。不再是泛泛的「每周运动 150 分钟」，而是根据用户的体检报告、慢性病风险因子、药物相互作用生成精确的运动处方——「你的血压偏高，建议每天 30 分钟中等强度有氧，避免举重时憋气」。设计上走医疗 App 的严肃路线，但用运动 App 的活力色彩点缀，在「可信」和「不无聊」之间找平衡。",
+      "body_en": "Q3 2026 intersection of sports tech and healthcare: AI exercise prescriptions. No longer generic \"150 minutes weekly\" but precise prescriptions based on health checkups, chronic disease risk factors, drug interactions — \"your blood pressure is elevated, recommend 30 min moderate aerobic daily, avoid breath-holding during lifts.\" Design follows medical app seriousness but accented with fitness app vitality colors, balancing between \"credible\" and \"not boring.\"",
+      "tags": [
+        "Exercise Prescription",
+        "Medical AI",
+        "Health Integration",
+        "Precision Fitness"
+      ],
+      "link": "https://www.behance.net/search/projects/exercise-prescription-AI-health",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=80",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "七月的运动 AI 设计有一个很明确的季节性特征：夏季训练问题成为产品差异化的战场。热适应 AI 不是噱头——每年夏天都有跑者因为忽视环境因素而热衰竭。这是运动 AI 从「锦上添花」走向「必要安全」的又一例证。「蒸发线」这种设计比弹窗提醒聪明 100 倍——因为它不打断运动心流，而是持续存在于视野边缘，像一个安静的守护者。另一个观察：虚拟竞赛的「数据透视」正在模糊运动和电竞的边界——当你能实时看到对手的生理数据时，竞赛策略从「凭感觉」变成了「读数据」。这对产品设计的启示是：竞技运动的 AI 不应该只优化你的表现，还应该帮你「读」对手。最后，运动处方的医疗化趋势预示着运动 App 的下一个大整合：健身 + 医疗。设计师需要同时掌握「让人兴奋」和「让人安心」两种视觉语言。",
+      "body_en": "July sports AI design has a clear seasonal character: summer training challenges become the differentiation battlefield. Heat adaptation AI isn't gimmicky — runners suffer heat stroke every summer from ignoring environmental factors. Another case of sports AI moving from \"nice to have\" to \"essential safety.\" The \"evaporation line\" design is 100x smarter than popup reminders — it doesn't break exercise flow, persisting at the visual edge like a quiet guardian. Another observation: virtual racing's \"data X-ray\" is blurring sports and esports boundaries — when you can read opponents' physiological data in real-time, race strategy shifts from \"feel\" to \"data reading.\" Design implication: competitive sports AI shouldn't just optimize your performance but help you \"read\" opponents. Finally, exercise prescription's medicalization signals the next big integration: fitness + healthcare. Designers need to master both \"exciting\" and \"reassuring\" visual languages simultaneously.",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 上下文摘要 — 「你走神了」阅读恢复设计",
+      "body": "2026 年中最令人兴奋的 Content Design 实验：AI 追踪阅读注意力模式，当检测到用户可能走神后回来时（长时间无滚动后突然快速滚动），自动在当前位置生成一个微型「你之前读到哪了」摘要卡——三句话概括上文核心论点+一个「从这里继续」按钮。阅读恢复的设计成本降为零。视觉上用极淡的渐变卡片，3 秒后自动消失，完全不侵入阅读流。",
+      "body_en": "Most exciting mid-2026 Content Design experiment: AI tracks reading attention patterns. When detecting potential zone-out-then-return behavior (long pause then sudden fast scrolling), auto-generates a micro \"where you left off\" summary card — three sentences recapping core arguments + a \"continue from here\" button. Reading recovery cost drops to zero. Visually: ultra-faint gradient card, auto-fades after 3 seconds, zero reading flow intrusion.",
+      "tags": [
+        "Reading Recovery",
+        "Attention AI",
+        "Context Resume",
+        "Micro Summary"
+      ],
+      "link": "https://dribbble.com/search/reading-app-ai-context",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&q=80",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「温度排版」— 内容情感基调的视觉化编码",
+      "body": "2026 年 Q3 正在成形的 Content Design 新概念：排版参数随内容情感基调动态变化。严肃分析类文章：字间距收紧、行高降低、冷色调辅助线；轻松随笔类：字间距放宽、行高增大、暖色调点缀；紧急新闻：字重加粗、对比度提高、红色标注。不是作者手动设置，而是 AI 根据文本语义自动应用「情感排版参数」。排版不再中性——它有温度。",
+      "body_en": "Emerging Q3 2026 Content Design concept: typography parameters dynamically shift with content emotional tone. Serious analysis: tighter letter-spacing, reduced line-height, cool-toned guide lines; casual essays: wider spacing, increased line-height, warm accents; breaking news: heavier weight, higher contrast, red markers. Not author-set but AI auto-applied \"emotional typography parameters\" based on text semantics. Typography is no longer neutral — it has temperature.",
+      "tags": [
+        "Emotional Typography",
+        "Semantic Layout",
+        "Dynamic Parameters",
+        "Tone-Aware"
+      ],
+      "link": "https://www.behance.net/search/projects/emotional-typography-AI-content",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?w=1200&q=80",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 内容老化指标 — 文章保鲜度的可视化设计",
+      "body": "解决内容消费者最大的信任问题之一：这篇文章的信息还准确吗？AI 为每篇文章计算「内容新鲜度」——基于引用数据的时效性、观点是否被后续研究推翻、链接是否仍然有效。界面用类似电池图标的「鲜度指示器」——满格绿色=信息高度时效、半格黄色=部分信息过时、空格红色=核心论点已过时。点击展开具体哪些段落的信息需要更新。",
+      "body_en": "Solving one of content consumers' biggest trust issues: is this article's information still accurate? AI calculates \"content freshness\" — based on cited data timeliness, whether conclusions have been overturned by later research, whether links are still valid. Interface uses battery-style \"freshness indicator\" — full green = highly current, half yellow = partially outdated, empty red = core arguments outdated. Click to expand which specific paragraphs need updating.",
+      "tags": [
+        "Content Freshness",
+        "Trust Signal",
+        "Aging Indicator",
+        "Editorial AI"
+      ],
+      "link": "https://dribbble.com/search/content-freshness-indicator",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=1200&q=80",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "七月 Content Design 方向出现了三个信号，共同指向一个被我称为「认知基础设施」的方向。阅读恢复摘要解决的是注意力碎片化时代的核心痛点——人类的注意力不是连续的，但过去所有阅读体验都假设它是连续的。当 AI 终于承认「读者会走神」这个基本事实并为此设计，内容体验才真正以人为本。温度排版则把排版从「中性容器」变成了「情绪通道」——同样的文字，严肃的排版和轻松的排版给人的信任度和理解速度完全不同。这不是新发现（纸媒早就知道），但 AI 让它可以自动化、规模化。内容老化指标可能是三个中最革命性的——它第一次把「时间」纳入内容设计的维度。过去内容发布后就是静态的；现在内容有了「保质期」，排版系统需要反映这个保质期。Content Design 的终极形态越来越清晰了：不是设计「一篇文章长什么样」，而是设计「一篇文章在不同时间、不同读者、不同情绪下的所有可能形态的生成规则」。",
+      "body_en": "July Content Design shows three signals pointing toward what I call \"cognitive infrastructure.\" Reading recovery solves the attention fragmentation era's core pain — human attention isn't continuous, but all reading experiences assumed it was. When AI finally acknowledges \"readers zone out\" and designs for it, content experience becomes truly human-centered. Temperature typography transforms typography from \"neutral container\" to \"emotional channel\" — same text with serious vs casual typography yields different trust and comprehension speeds. Not new (print knew this), but AI makes it automatable at scale. Content freshness may be the most revolutionary — it first introduces \"time\" as a content design dimension. Content used to be static post-publication; now it has an \"expiry date\" and typography must reflect it. Content Design's ultimate form is increasingly clear: not designing \"how an article looks\" but designing \"generation rules for all possible forms across different times, readers, and emotional states.\"",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Agent 身份系统 — 多 Agent 时代的视觉辨识设计",
+      "body": "当用户同时使用 5-10 个 AI Agent 时，「它们长什么样」成了迫切的设计问题。2026 年中最前沿的解决方案：生成式 Agent 身份系统——每个 Agent 根据其功能和性格自动生成独特的视觉标识。不是简单的头像或图标，而是一套「行为形态」：金融 Agent 的交互元素偏方正克制，创意 Agent 偏圆润流动，分析 Agent 偏几何精密。Agent 的「视觉性格」和它的行为方式一致。",
+      "body_en": "When users interact with 5-10 AI Agents simultaneously, \"what they look like\" becomes urgent. Mid-2026's most cutting-edge solution: generative Agent identity systems — each Agent auto-generates unique visual identity based on function and personality. Not simple avatars or icons but a \"behavioral morphology\" system: financial Agent's interaction elements are angular and restrained, creative Agent's are rounded and flowing, analytical Agent's are geometric and precise. Agent's visual personality matches its behavioral style.",
+      "tags": [
+        "Agent Identity",
+        "Generative System",
+        "Multi-Agent",
+        "Visual Personality"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-identity-system",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「协作光谱」设计 — 从工具到伙伴的可视化",
+      "body": "2026 年 Q3 AI 产品界面的新设计维度：「协作光谱」可视化。不是所有 AI 功能都是同一种「AI 程度」——有些是纯工具（拼写检查），有些是建议者（写作助手），有些是协作者（共同创作）。最好的产品开始用视觉梯度表达这个光谱：工具型功能用最低调的灰色指示器，建议型用中等强度的紫色脉动，协作型用最强的虹彩边框。用户一眼知道「这里 AI 参与了多少」。",
+      "body_en": "New Q3 2026 AI product interface design dimension: \"collaboration spectrum\" visualization. Not all AI features are the same \"AI degree\" — some are pure tools (spell check), some are advisors (writing assistant), some are collaborators (co-creation). Best products now use visual gradients for this spectrum: tool features with lowest-key gray indicators, advisory with medium purple pulse, collaborative with strongest iridescent borders. Users instantly perceive \"how much AI is involved here.\"",
+      "tags": [
+        "Collaboration Spectrum",
+        "AI Degree",
+        "Visual Gradient",
+        "Participation Viz"
+      ],
+      "link": "https://dribbble.com/search/ai-collaboration-spectrum-design",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Model Card 2.0 — AI 模型的「营养成分表」设计",
+      "body": "AI 模型的标准化信息披露设计迎来了视觉革命。不再是 GitHub README 里的技术表格，而是借鉴食品营养标签的可视化设计：训练数据构成用饼图、偏差风险用色条、适用场景用适配度星级。最精妙的设计决策：把技术指标翻译成人话——不说「recall 0.94」，而说「94 次中能找到 94 个正确答案，偶尔漏掉 6 个」。",
+      "body_en": "Standardized AI model information disclosure gets a visual revolution. No longer GitHub README tech tables but food nutrition label-inspired visualization: training data composition as pie charts, bias risk as color bars, use cases as fitness star ratings. Finest design decision: translating technical metrics to human language — not \"recall 0.94\" but \"finds 94 correct answers out of 100, occasionally misses 6.\"",
+      "tags": [
+        "Model Card",
+        "Nutrition Label",
+        "AI Transparency",
+        "Human Translation"
+      ],
+      "link": "https://www.behance.net/search/projects/ai-model-card-transparency-design",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&q=80",
+      "date": "2026-07-02"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "把七月初 Visual for AI 的观察往回拉一步看全局：AI 产品视觉设计在经过 Q1 的「品牌探索期」和 Q2 的「功能语言期」后，Q3 正式进入「标准化期」。Model Card 营养标签是最强的信号——当信息披露的格式开始标准化，就像 Web 1.0 时代 HTML 语义化一样，意味着这个领域从实验走向了基础设施。Agent 身份系统的兴起也暗示一个更大的趋势：AI 不再是单体产品，而是生态。设计师要解决的不是「一个 AI 长什么样」，而是「一群 AI 如何在视觉上共存」——这和城市规划师的思维比平面设计师更接近。协作光谱则让我想到一个有趣的类比：它本质上是 AI 版的「权限系统可视化」。当用户知道每个功能背后 AI 参与了多少、决定了多少，他们就能做出更聪明的判断——何时全信 AI、何时要自己复查。2026 下半年的预言：AI 产品视觉设计的「设计系统」会像 Material Design 一样开源——不是某个公司的品牌，而是行业的公共语言。",
+      "body_en": "Stepping back from early July Visual for AI observations for a full picture: AI product visual design, after Q1's \"brand exploration\" and Q2's \"functional language\" phases, formally enters the \"standardization\" phase in Q3. Model Card nutrition labels are the strongest signal — when information disclosure formats start standardizing, like HTML semantics in Web 1.0, it means the field is moving from experimentation to infrastructure. Agent identity systems hint at a bigger trend: AI is no longer monolithic products but ecosystems. Designers solve not \"what one AI looks like\" but \"how multiple AIs visually coexist\" — closer to urban planning than graphic design thinking. Collaboration spectrum suggests an interesting analogy: it's essentially the AI version of \"permission system visualization.\" When users know how much AI participates in each function, they make smarter decisions — when to fully trust AI, when to double-check. H2 2026 prediction: AI product visual design \"design systems\" will be open-sourced like Material Design — not one company's brand but the industry's public language.",
+      "date": "2026-07-02"
     }
   ]
 }
