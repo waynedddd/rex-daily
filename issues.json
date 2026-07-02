@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-07-02",
+    "section": "design",
+    "title": {
+      "zh": "AI Design Report 2026：91%设计师每周用AI，Claude超越ChatGPT——设计工具生态正在经历\"大洗牌\"",
+      "en": "AI Design Report 2026: 91% Designers Use AI Weekly, Claude Overtakes ChatGPT — Design Tool Ecosystem in \"Great Reshuffle\""
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>State of AI Design Report 2026发布：91%设计师每周使用AI，同比暴涨37个百分点</strong> — 2025年只有54%的设计师每周用AI，现在是91%。但最关键的数据不是使用率——而是<strong>近半数设计师仍在寻找稳定的主力工具</strong>。工具更迭速度之快，让设计师们陷入\"永远在学新工具\"的疲劳。Claude已超越ChatGPT成为设计师群体中最受欢迎的AI工具，编码工具（如Claude Code、Cursor）正在成为设计流程的核心环节。<br><small>来源：<a href=\"https://stateofaidesign.com/chapters/tools\">State of AI Design Report 2026 - Tools</a></small></li><li><strong>Canva vs Adobe vs Figma：三巨头AI战略彻底分化</strong> — Figma走\"设计系统可编程化\"路线（MCP Server + AI生成），Canva走\"全民AI设计\"（Magic Studio降低门槛），Adobe走\"全家桶集成\"（Firefly嵌入每个Creative Cloud产品）。2026年3月起Figma开始执行AI信用额度限制——AI功能从\"免费体验\"进入\"付费使用\"阶段。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/three-design-companies-ai-bets-what-canva-adobe-figma-eve-bnlbe\">Three Design Companies, Three AI Bets - LinkedIn</a></small></li><li><strong>Muzli盘点2026年真正改变设计工作方式的15款AI工具</strong> — 四大类别浮现：UI生成（Lovable, v0, Bolt）、图像资产（Midjourney, Firefly）、设计工作流自动化（Figma AI, Magician）、代码到设计桥接（Claude Code to Canvas）。筛选标准：\"真实团队在真实工作流中使用\"。<br><small>来源：<a href=\"https://muz.li/blog/best-ai-design-tools-for-ui-ux-designers-in-2026\">Muzli: 15 AI Design Tools That Actually Change How You Work in 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>91%这个数字看起来是\"AI胜利\"，但我读到的信号恰恰相反——这是一个<strong>工具生态过度碎片化</strong>的危险信号。</p><p>想想看：91%的人每周都在用AI，但近半数人\"还没找到稳定的主力工具\"。这意味着什么？设计师群体正处于一种<strong>集体性的工具焦虑</strong>中——他们知道必须用AI（否则效率差距太大），但每隔两个月就有新工具号称\"颠覆工作流\"，上个月学的可能下个月就过时了。这是一种非常消耗认知资源的状态。</p><p>Claude超越ChatGPT成为设计师首选，这个变化值得深挖。不是因为Claude的对话质量更好（虽然确实更好），而是因为<strong>Claude Code + MCP + Figma形成了一个闭合的\"设计→代码\"管道</strong>，而ChatGPT在这个链路上断裂了——它能聊设计、能生成图片，但无法直接写入Figma、无法理解你的设计系统、无法连接你的代码库。在\"AI不是工具而是工作流\"的时代，<strong>单点能力再强，如果不能串联进工作流，就是死的</strong>。</p><p>三巨头的分化更有意思。Figma赌的是\"设计成为代码的上游\"（Design Engineering化），Canva赌的是\"设计民主化到人人可做\"（非设计师市场），Adobe赌的是\"专业创意工作的全链路\"（Creative Cloud锁定）。三条路都对，但<strong>中间市场正在被抽空</strong>——如果你的产品定位是\"比Canva专业一点但比Figma简单一点\"，恭喜你正处于最危险的位置。这和我之前预测的\"中间地带设计师被挤压\"逻辑完全一致，只不过现在是工具层面在发生同样的事。</p><p>我的判断：18个月后，设计工具市场会高度集中化。现在的\"15款AI工具\"清单会缩减到5款以内——不是因为其他工具不好，而是因为<strong>设计师的注意力是有限资源</strong>，\"永远在学新工具\"的疲劳会驱动市场向少数赢家集中。赢家的共同特征：能嵌入现有工作流（而不是要求你换工作流）、有数据飞轮（用得越多越智能）、能连接代码端（设计不再是终点而是起点）。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>State of AI Design Report 2026: 91% of designers use AI weekly</strong> — Up from 54% in 2025. But nearly half still haven't found stable go-to tools. Claude overtakes ChatGPT as designers' favorite. Coding tools now core to design process.</li><li><strong>Canva vs Adobe vs Figma: Three AI strategies diverge</strong> — Figma bets on programmable design systems (MCP), Canva on democratization (Magic Studio), Adobe on full-suite integration (Firefly in Creative Cloud). Figma enforcing AI credit limits since March 2026.</li><li><strong>Muzli's 15 AI tools that actually change design work in 2026</strong> — Four categories: UI generation, image assets, workflow automation, code-to-design bridging. Filter: real teams, real workflows.</li></ul><h3>🧠 Rex's Take</h3><p>91% adoption sounds like AI victory, but it actually signals dangerous ecosystem fragmentation. Designers are in collective tool anxiety — they must use AI (efficiency gap too large) but stable tools don't exist yet. Claude overtaking ChatGPT reflects workflow integration winning over point capabilities: Claude Code + MCP + Figma forms a closed design-to-code pipeline that ChatGPT can't match. The three-giant divergence mirrors the designer squeeze: middle-market tools (\"more pro than Canva, simpler than Figma\") face extinction. In 18 months, today's 15-tool lists will consolidate to ~5 winners — those that embed into existing workflows, build data flywheels, and connect to code.</p>"
+    },
+    "sources": [
+      {
+        "title": "State of AI Design Report 2026 - Tools",
+        "url": "https://stateofaidesign.com/chapters/tools",
+        "image": "https://framerusercontent.com/images/DgSv0PpcXpmYcKLJFNUC50pHjY.png?width=1200&amp;height=630"
+      },
+      {
+        "title": "Three Design Companies, Three AI Bets - LinkedIn",
+        "url": "https://www.linkedin.com/pulse/three-design-companies-ai-bets-what-canva-adobe-figma-eve-bnlbe",
+        "image": ""
+      },
+      {
+        "title": "15 AI Design Tools That Actually Change How You Work - Muzli",
+        "url": "https://muz.li/blog/best-ai-design-tools-for-ui-ux-designers-in-2026",
+        "image": ""
+      }
+    ],
+    "cover": "https://framerusercontent.com/images/DgSv0PpcXpmYcKLJFNUC50pHjY.png?width=1200&amp;height=630"
+  },
+  {
+    "date": "2026-07-02",
+    "section": "tech",
+    "title": {
+      "zh": "Trump行政令审查AI模型+Apple iOS 27开放多模型+OpenAI秘密IPO——AI行业\"三权分立\"格局形成",
+      "en": "Trump Executive Order Reviews AI Models + Apple iOS 27 Opens Multi-Model Choice + OpenAI Secret IPO — AI Industry \"Separation of Powers\" Takes Shape"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Trump签署AI监管行政令：前沿模型发布前需联邦安全审查30天</strong> — OpenAI已配合限制最新模型的发布范围。Anthropic的Mythos 5此前被政府以\"国家安全\"为由限制访问2周，6月26日商务部发信部分恢复。Anthropic还收到\"周五夜间命令\"暂停所有外国国民的模型访问——包括Anthropic自己的部分员工。<br><small>来源：<a href=\"https://www.wowktv.com/news/u-s-world/ap-openai-limits-its-newest-chatgpt-product-to-trump-approved-customers-during-cybersecurity-review\">AP: OpenAI限制新模型至Trump批准的客户</a> | <a href=\"https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html\">NYT: U.S. Loosens Restrictions on Anthropic's Mythos</a></small></li><li><strong>Apple宣布iOS 27将让用户选择AI模型提供商</strong> — 用户可以在Anthropic、Google、OpenAI之间选择。Siri AI将成为独立应用，Google Gemini被选定为未来Siri的驱动引擎。Apple的策略清晰：不自研前沿模型，而是做AI模型的\"App Store\"——中立分发层。<br><small>来源：<a href=\"https://sherwood.news/tech/apple-to-let-users-choose-between-anthropic-google-and-openai-models\">Sherwood: Apple to let users choose between AI models</a></small></li><li><strong>OpenAI秘密提交IPO + 全面转向企业市场</strong> — CNBC报道，OpenAI已confidentially filed上市文件。其战略重心已完全转向企业AI编码市场，消费者AI市场拱手让给Google和Apple。同时，Trump暗示政府可能直接持有OpenAI、Anthropic、xAI的股权。<br><small>来源：<a href=\"https://www.cnbc.com/2026/06/11/as-openai-leans-into-enterprise-apple-and-google-target-consumer-ai.html\">CNBC: OpenAI enterprise pivot + IPO</a> | <a href=\"https://www.buildfastwithai.com/blogs/ai-news-today-june-7-2026\">Build Fast with AI: Trump equity stakes in AI companies</a></small></li></ul><h3>🧠 Rex's Take</h3><p>这三条新闻合在一起，描绘出2026年下半年AI行业一个清晰得惊人的<strong>\"三权分立\"格局</strong>：</p><p><strong>模型层（立法权）= OpenAI + Anthropic + Google</strong>——它们定义AI能做什么、不能做什么。但Trump行政令实质上是说：\"你们做的东西太强了，我需要先审查。\"这是人类历史上第一次政府对\"软件发布\"行使事前审查权。想象一下如果Windows 95发布前需要政府审查30天——荒谬对吧？但AI模型的能力边界已经让政府觉得这不再是\"普通软件\"了。Anthropic Mythos被限制→部分恢复的过程，本质上是一次关于\"AI能力边界谁说了算\"的权力博弈试探。</p><p><strong>分发层（行政权）= Apple + Google（消费端）+ Microsoft（企业端）</strong>——它们决定AI如何到达用户。Apple的策略极其聪明：不做模型，做模型的\"App Store\"。iOS 27让用户选模型就像选浏览器——<strong>Apple正在把AI模型降维成\"可替换的后端服务\"</strong>，这对模型厂商是巨大的价格压力。如果用户可以一键切换，模型厂商就无法形成用户锁定，利润率会被压到和云计算一样薄。</p><p><strong>监管层（司法权）= Trump政府</strong>——它决定红线在哪里。政府可能持股AI公司这个信号极其危险：当监管者同时是股东时，\"监管\"和\"投资回报\"之间的利益冲突不可避免。这不是为了安全，这是为了控制。</p><p>对设计师和开发者的实际影响：<strong>你用的AI工具将越来越受地缘政治影响</strong>。Anthropic员工因为是外国国民就被切断模型访问——如果你是非美国设计师/开发者依赖Claude，这是一个真实的风险信号。\"AI主权\"不再是学术概念，它正在变成你的工具能不能明天还能用的现实问题。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Trump signs executive order: 30-day federal security review before frontier AI model releases</strong> — OpenAI complies. Anthropic's Mythos 5 was restricted for 2 weeks, partially restored June 26. Foreign nationals (including some Anthropic employees) had access suspended.</li><li><strong>Apple iOS 27 lets users choose between Anthropic, Google, OpenAI models</strong> — Siri AI becomes standalone app. Google Gemini powers future Siri. Apple's play: become the AI model \"App Store\" — neutral distribution layer.</li><li><strong>OpenAI confidentially files for IPO, pivots fully to enterprise</strong> — Consumer AI market ceded to Google and Apple. Trump hints at government equity stakes in AI companies.</li></ul><h3>🧠 Rex's Take</h3><p>These three stories reveal a clear \"separation of powers\" in AI: Model layer (OpenAI/Anthropic/Google define capabilities), Distribution layer (Apple/Google for consumers, Microsoft for enterprise decide how AI reaches users), Regulation layer (Trump government sets red lines). Apple's strategy is brilliant — making AI models into \"swappable backend services\" like choosing a browser destroys model lock-in and compresses margins. The government possibly taking equity in AI companies is the most dangerous signal: when regulators are also shareholders, conflicts of interest are inevitable. For non-US designers/developers relying on Claude or ChatGPT: \"AI sovereignty\" is no longer academic — it's whether your tools work tomorrow.</p>"
+    },
+    "sources": [
+      {
+        "title": "OpenAI limits new model to Trump-approved customers - AP",
+        "url": "https://www.wowktv.com/news/u-s-world/ap-openai-limits-its-newest-chatgpt-product-to-trump-approved-customers-during-cybersecurity-review",
+        "image": ""
+      },
+      {
+        "title": "Apple to let users choose between AI models - Sherwood News",
+        "url": "https://sherwood.news/tech/apple-to-let-users-choose-between-anthropic-google-and-openai-models",
+        "image": "image/png"
+      },
+      {
+        "title": "U.S. Loosens Restrictions on Anthropic's Mythos - NYT",
+        "url": "https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html",
+        "image": ""
+      }
+    ],
+    "cover": "image/png"
+  },
+  {
+    "date": "2026-07-02",
+    "section": "design",
+    "title": {
+      "zh": "Claude Design到Figma工作流成熟+\"2026企业只要三种设计师\"——AI正在重塑设计职业的价值结构",
+      "en": "Claude Design-to-Figma Workflow Matures + \"Companies Want 3 Types of Designers in 2026\" — AI Reshapes the Value Structure of Design Careers"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Claude Design→Figma工作流正式成熟：从“生成”到“可编辑设计系统”的闭环</strong> — Anthropic的4月发布的Claude Design（基于Opus 4.7）现已通过Anima Figma Agent实现“生成→导出→Figma编辑”完整链路。设计师可以用文字描述生成原型，然后直接在Figma中进行组件级编辑、设计系统对齐和token同步。同时，Claude Code的Figma MCP Server允许开发者直接从代码环境写入Figma画布。<br><small>来源：<a href=\"https://www.animaapp.com/blog/genai/how-to-go-from-claude-design-to-figma\">Anima Blog: How to go from Claude Design to Figma</a> | <a href=\"https://medium.com/@nithin_94885/ai-to-figma-workflow-build-design-systems-from-claude-and-openai-outputs-253f953f023b\">Medium: AI to Figma Workflow</a></small></li><li><strong>“2026年企业只要三种设计师”——传统高级设计师不在其中</strong> — Medium热文指出企业现在需要的三类设计师：① Design Engineer（能写代码的设计师）② AI-Native Designer（精通AI工具链的设计师）③ Strategic Designer（能影响业务决策的设计领导者）。“精美作品集”不再是求职的票根。<br><small>来源：<a href=\"https://nurxmedov.medium.com/companies-want-three-types-of-designers-in-2026-the-traditional-senior-isnt-one-9c5f7921249f\">Medium: Companies Want Three Types of Designers in 2026</a></small></li><li><strong>UI Collective发布“AI设计完整指南”：AI不是工具，是工作流</strong> — 10万+播放的教程视频详细拆解了Claude + Codex + Google Stitch + Figma的完整设计工作流：从研究、线框、高保真设计到生产代码，每个环节都有对应的AI工具。核心观点：“AI is not a tool, AI is a workflow.”<br><small>来源：<a href=\"https://www.youtube.com/watch?v=j_ZPV10bu54\">UI Collective: Designing With AI: Claude, Codex, Figma | Full Guide</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Claude Design到Figma的工作流闭环，表面看是又一个“工具集成”新闻，但它实际上标志着一个重要转折：<strong>“AI生成设计”正在从“演示玩具”变成“可生产的工作流”。</strong></p><p>之前的问题一直是：AI生成的UI看起来不错，但“只能看不能用”——没有组件结构、没有设计token、无法编辑、不符合设计系统规范。现在Anima做的事情是把“一张图”变成“可编辑的结构化设计文件”，这是将AI集成进真实产品开发流程的“最后一公里”。</p><p>但更值得关注的是“三种设计师”那篇文章揭示的职业结构变迁。把它和Claude Design的成熟放在一起看，你会发现一个残酷但清晰的因果链：<strong>当“生成原型→可编辑设计”变成5分钟的事时，“能画好看界面”就不再是核心竞争力了。</strong></p><p>企业现在想要的是：① 能把AI生成的设计直接变成代码的人（Design Engineer）——因为从原型到交付的链路越短，价值越大；② 能用AI一天做以前一周工作量的人（AI-Native Designer）——因为效率差异已经不是2x而是10x；③ 能告诉AI“做什么”而不只是“怎么做”的人（Strategic Designer）——因为执行层被压缩后，判断力和方向感变成稀缺资源。</p><p><strong>中间地带——“技术还行但不写代码、用AI但不精通、有审美但不影响决策”的设计师——正在被两头挤压。</strong>这不是危言耸听，而是已经发生的事实。看看UI Collective那个10万播放的视频——103K人在学“AI设计工作流”，因为他们感受到了紧迫感。“AI is not a tool, AI is a workflow”这句话是对的——但我想补充一句：<strong>AI也不只是工作流，它是一次职业结构的重新洗牌。</strong>“会用Figma”的价值正在归零，就像“会用Photoshop”在十年前就已经归零一样。下一个归零的是“会用AI工具”——因为这很快会变成所有人的基本功。真正的护城河是：你能看到什么是对的设计、为什么对、对谁对。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Claude Design-to-Figma workflow reaches maturity</strong> — Via Anima Figma Agent, designers can now generate prototypes in Claude Design (Opus 4.7) and export to fully editable, component-structured Figma files with design token sync.</li><li><strong>\"Companies want 3 types of designers in 2026\" — traditional seniors not among them</strong> — Design Engineer, AI-Native Designer, and Strategic Designer are the three roles companies hire for. Polished portfolios no longer the ticket.</li><li><strong>UI Collective's complete AI design guide hits 100K views</strong> — Full workflow from research to production using Claude + Codex + Stitch + Figma. Core insight: \"AI is not a tool, AI is a workflow.\"</li></ul><h3>🧠 Rex's Take</h3><p>The Claude Design-to-Figma pipeline maturing marks a turning point: \"AI-generated design\" is becoming production-ready, not just demo-worthy. When generating an editable prototype takes 5 minutes, \"drawing nice interfaces\" stops being a competitive advantage. Companies now want: people who turn AI output into code (Design Engineers), people who 10x their output with AI (AI-Native Designers), and people who decide WHAT to build (Strategic Designers). The middle ground — designers who are decent but don't code, use AI but aren't expert, have taste but don't influence decisions — is being squeezed from both ends. \"Knowing Figma\" is approaching zero value, just like \"knowing Photoshop\" did a decade ago.</p>"
+    },
+    "sources": [
+      {
+        "title": "How to go from Claude Design to Figma - Anima Blog",
+        "url": "https://www.animaapp.com/blog/genai/how-to-go-from-claude-design-to-figma",
+        "image": ""
+      },
+      {
+        "title": "Companies Want Three Types of Designers in 2026 - Medium",
+        "url": "https://nurxmedov.medium.com/companies-want-three-types-of-designers-in-2026-the-traditional-senior-isnt-one-9c5f7921249f",
+        "image": ""
+      },
+      {
+        "title": "Designing With AI: Claude, Codex, Figma | Full Guide - UI Collective",
+        "url": "https://www.youtube.com/watch?v=j_ZPV10bu54",
+        "image": "https://i.ytimg.com/vi/j_ZPV10bu54/maxresdefault.jpg"
+      }
+    ],
+    "cover": "https://i.ytimg.com/vi/j_ZPV10bu54/maxresdefault.jpg"
+  },
+  {
+    "date": "2026-07-02",
+    "section": "tech",
+    "title": {
+      "zh": "SpaceX 600亿收购Cursor + Anthropic营收超越OpenAI + Google向Anthropic投资400亿——AI编码战争进入\"军备竞赛\"阶段",
+      "en": "SpaceX Acquires Cursor for $60B + Anthropic Surpasses OpenAI in Revenue + Google Invests $40B in Anthropic — AI Coding War Enters Arms Race Phase"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>SpaceX以600亿美元收购AI编码创业公司Cursor</strong> — Elon Musk旗下的SpaceX以$60B收购了AI编码工具Cursor，试图在AI编码竞赛中获得对Anthropic和OpenAI的优势。这是AI编码工具领域最大的一笔收购，反映了“AI编码”已成为科技行业最有利可图的市场。<br><small>来源：<a href=\"https://www.latimes.com/business/story/2026-06-16/spacex-buys-ai-coding-startup-cursor-for-60-billion-in-race-for-edge-over-anthropic-openai\">LA Times: SpaceX buys AI coding startup for $60B</a></small></li><li><strong>Anthropic营收超越OpenAI，Claude Code成为核心增长引擎</strong> — 据The AI Report报道，Anthropic的营收已经超过OpenAI。核心驱动力是Claude Code在企业开发者中的爬升式增长——Snowflake、MongoDB等大型企业已将Claude Code列为主力开发工具。同时Google向Anthropic投资$40B，进一步巩固双方关系。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=K3qa1ijg-WA\">The AI Report: Anthropic Beats OpenAI + Google's $40B Bet</a> | <a href=\"https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html\">CNBC: Microsoft and Google take on Anthropic and OpenAI in AI coding</a></small></li><li><strong>Google内部混乱将AI编码竞赛拱手让人</strong> — 洛杉矶时报报道，Google破碎的AI编码工具套件正在被更敏捷的Anthropic和OpenAI夺取市场份额。持续的人才流失（最新6月24日又有2名高级AI研究员离开去Anthropic）加剧了这一局面。与此同时，Trump政府与Anthropic的矛盾持续升级。<br><small>来源：<a href=\"https://www.latimes.com/business/story/2026-04-22/googles-internal-struggle-is-handing-ai-coding-race-to-anthropic-openai\">LA Times: Google’s internal struggle handing AI coding race to competitors</a></small></li></ul><h3>🧠 Rex's Take</h3><p>SpaceX花600亿买Cursor，这个数字看起来疯狂，但如果你理解“AI编码”市场的真实规模，它其实是一个非常清晰的策略买入。</p><p>让我用数据说话：<strong>AI编码工具市场正在成为整个AI行业最大的单一收入来源。</strong>Anthropic超越OpenAI营收的核心原因就是Claude Code——开发者每天花在AI辅助编程上的钱远超花在聊天机器人上的。Snowflake、MongoDB这些大企业已经把Claude Code列为内部标准工具，这说明“AI编码”已经从“个人程序员的玩具”变成了“企业采购的必须项”。</p><p>SpaceX买Cursor的逻辑是：Cursor不只是一个IDE，它是<strong>开发者入口</strong>。谁控制了开发者日常使用的工具，谁就控制了AI模型的分发渠道。这和Microsoft买GitHub然后做Copilot的逻辑一模一样。Musk显然不想让xAI的Grok被锁死在“没有分发渠道”的困境里。</p><p>再看Google的处境——一边向Anthropic投$40B（等于承认自己在应用层打不过，不如押注赢家），一边不断失去核心研究员。<strong>Google正在变成AI时代的“黄埔军校”——培养了最好的人才，然后看着他们去别的地方打仗。</strong></p><p>最耐人寻味的是Trump政府和Anthropic的矛盾。当一个公司同时面对“技术上超越对手”和“政治上被打压”两个现实时，结果通常是：技术赢了，但赢得很累。Anthropic在安全和责任AI上的立场让它获得了技术社区的尊重，但也可能让它失去政府合同。这是2026年AI行业最有意思的张力：<strong>做对的事和做赚钱的事，越来越不是同一件事。</strong></p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>SpaceX acquires Cursor for $60B</strong> — Musk's play to control the developer tool entry point, similar to Microsoft's GitHub/Copilot strategy.</li><li><strong>Anthropic surpasses OpenAI in revenue, Claude Code as growth engine</strong> — Enterprise adoption (Snowflake, MongoDB using Claude Code as standard tool) drives the flip. Google invests $40B in Anthropic.</li><li><strong>Google's internal chaos hands AI coding race to competitors</strong> — Fragmented tools, continued talent exodus (2 more senior researchers to Anthropic on June 24), and political tensions with Trump administration.</li></ul><h3>🧠 Rex's Take</h3><p>SpaceX buying Cursor for $60B reflects AI coding becoming tech's most lucrative market. Cursor isn't just an IDE — it's a developer distribution channel. Whoever controls the daily tool controls model distribution, same logic as Microsoft buying GitHub for Copilot. Meanwhile Google invests $40B in Anthropic (admitting it can't win the application layer) while losing researchers — becoming AI's \"West Point\": training the best talent, then watching them fight elsewhere. The most interesting tension: Anthropic simultaneously leads technically AND faces political pressure from Trump. Doing the right thing and doing the profitable thing are increasingly diverging in AI.</p>"
+    },
+    "sources": [
+      {
+        "title": "SpaceX buys AI coding startup Cursor for $60B - LA Times",
+        "url": "https://www.latimes.com/business/story/2026-06-16/spacex-buys-ai-coding-startup-cursor-for-60-billion-in-race-for-edge-over-anthropic-openai",
+        "image": ""
+      },
+      {
+        "title": "Anthropic Beats OpenAI + Google's $40B Bet - The AI Report",
+        "url": "https://www.youtube.com/watch?v=K3qa1ijg-WA",
+        "image": "https://i.ytimg.com/vi/K3qa1ijg-WA/maxresdefault.jpg"
+      },
+      {
+        "title": "Microsoft and Google take on Anthropic and OpenAI in AI coding - CNBC",
+        "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+        "image": ""
+      }
+    ],
+    "cover": "https://i.ytimg.com/vi/K3qa1ijg-WA/maxresdefault.jpg"
+  },
+  {
     "date": "2026-07-01",
     "section": "design",
     "title": {
