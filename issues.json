@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-07-03",
+    "section": "design",
+    "title": {
+      "zh": "NN/g更新评测：AI设计工具\"进步有限\"，窄范围工具胜出——设计AI的真相是\"做好一件事\"而非\"替代设计师\"",
+      "en": "NN/g Update: AI Design Tools 'Marginally Better', Narrow-Scope Tools Win — The Truth About Design AI Is 'Do One Thing Well' Not 'Replace Designers'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Nielsen Norman Group 2025年5月评测更新：AI设计工具\"进步有限\"，窄范围工具是唯一被真正采用的</strong> — NN/g作为UX研究领域最权威的机构，在Figma Config同周发布了冷静到近乎残酷的评测：尽管AI设计工具在过去一年有所进步，但\"我们离被承诺的AI设计工具、以及设计师被AI取代还差得远\"。被设计师真正采用的工具都是\"窄范围\"的——专注于完成一项具体任务（如图层重命名、背景移除、配色建议），而非所谓的\"端到端AI设计\"。即使Figma Config上演示的新AI功能效果惊人，\"AI工具的演示效果从来不能保证实际表现\"。<br><small>来源：<a href=\"https://www.nngroup.com/articles/ai-design-tools-update-2\">NN/g: AI Design Tools Are Marginally Better</a></small></li><li><strong>6款AI UI工具60分钟横评：Figma Make、UX Pilot、Uizard、Readdy AI、Motiff、Visily</strong> — Future UX的实测对比揭示了当前AI UI工具的真实水平：Figma Make的prompt-to-UI能力领先但仍需大量手动调整；Motiff的\"Magic Box\"功能在AI辅助布局上表现突出；没有一款工具能真正生成\"可直接交付\"的设计。结论：\"AI生成的是起点，不是终点。\"<br><small>来源：<a href=\"https://medium.com/future-ux/i-reviewed-6-ai-powered-ui-tools-in-60-minutes-c304bff79181\">Future UX: I reviewed 6 AI-powered UI tools in 60 minutes</a></small></li><li><strong>Figma发布2026年AI设计工具清单：Google Stitch入局，Figma Make + AI编辑成为核心叙事</strong> — Figma官方推荐的11款AI设计工具中，Google Stitch（Labs新工具）首次出现——可将文字/图片/线框转为UI设计和前端代码。Figma自己的定位越来越清晰：Make生成基础→AI编辑精炼→团队协作打磨。85%的设计师和开发者认为学习AI对未来成功至关重要。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-design-tools\">Figma: 11 of the Best AI Design Tools for 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>NN/g的这篇评测是今天最值得读的内容，因为它说了一个行业不愿意承认的事实：<strong>\"端到端AI设计\"仍然是一个营销概念，不是一个工程现实。</strong></p><p>让我拆解一下为什么\"窄范围工具胜出\"这个结论如此重要。在设计工作中，真正耗时的不是\"从零生成一个界面\"——这其实是整个流程中最不值钱的环节。真正耗时的是：理解业务约束→定义信息架构→处理边缘情况→适配设计系统→与工程对齐→响应式适配→无障碍适配→迭代修改。AI在第一步（生成）上确实很强，但在后续7个步骤上几乎无能为力。这就是为什么\"能做好一件事\"的窄工具（比如自动重命名图层、智能间距调整）反而被真正采用——因为它们解决的是设计师工作中真正重复且乏味的\"微操\"，而不是试图替代需要深度上下文理解的\"判断\"。</p><p>Future UX的60分钟横评进一步证实了这一点：6款号称\"AI设计\"的工具，没有一款能生成可直接交付的结果。Figma Make最好，但\"仍需大量手动调整\"。这不是工具不好——这是<strong>设计本身的复杂度被低估了</strong>。一个真正可交付的设计需要考虑数百个微决策（哪里留白、什么时候用分割线、文字层级如何传达信息优先级），这些决策高度依赖语境，而AI目前还没有足够的上下文窗口和推理能力来处理。</p><p>但Google Stitch的出现是一个有意思的信号。Google现在直接入局\"线框→UI→代码\"的链路，这意味着Figma的竞争不只来自Adobe和Canva——<strong>Google正在尝试跳过\"设计工具\"直接从意图到代码</strong>。如果Stitch成熟了，对Figma的威胁不是替代它作为\"设计工具\"，而是让某些场景根本不需要设计工具。这和我昨天说的\"中间市场被抽空\"是同一个逻辑：高端依然需要Figma，低端被Canva/AI覆盖，中间——\"我只需要一个还行的界面\"——可能直接被Stitch这类工具吃掉。</p><p>我的预测：12个月后，AI设计工具会分化成两个清晰的阵营：① \"微操增强\"（嵌入Figma/Sketch的插件，做好一件事）② \"意图到代码\"（跳过设计工具直接生成），中间的\"AI生成完整UI\"会逐渐消亡——因为它既没有①的精确度，也没有②的端到端效率。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>NN/g May 2025 update: AI design tools 'marginally better', narrow-scope tools are the only ones truly adopted</strong> — Despite progress, 'we're nowhere near the AI design tools promised, nor designers being replaced.' Only narrow-focus tools (layer renaming, background removal) see real adoption.</li><li><strong>60-minute review of 6 AI UI tools</strong> — Figma Make leads but needs heavy manual adjustment. Motiff's Magic Box excels at AI-assisted layout. None generate 'ship-ready' designs.</li><li><strong>Figma's 2026 AI tool list: Google Stitch enters the scene</strong> — Converts text/images/wireframes to UI + frontend code. 85% of designers/devs say learning AI is essential for future success.</li></ul><h3>🧠 Rex's Take</h3><p>NN/g's review says what the industry won't: 'end-to-end AI design' is still marketing, not engineering reality. Narrow tools win because real design work is the 7 steps AFTER generation (business constraints, edge cases, design system alignment, responsive adaptation). Google Stitch entering 'wireframe→UI→code' threatens Figma not by replacing it as a design tool, but by making certain scenarios skip design tools entirely. My prediction: in 12 months, AI design tools will split into 'micro-enhancement plugins' and 'intent-to-code generators', with 'AI generates full UI' dying in the middle.</p>"
+    },
+    "sources": [
+      {
+        "title": "AI Design Tools Are Marginally Better: Status Update - NN/g",
+        "url": "https://www.nngroup.com/articles/ai-design-tools-update-2",
+        "image": "https://media.nngroup.com/media/articles/opengraph_images/Social-Card-AI-Design-Tools-opengraph.jpg"
+      },
+      {
+        "title": "I reviewed 6 AI-powered UI tools in 60 minutes - Future UX",
+        "url": "https://medium.com/future-ux/i-reviewed-6-ai-powered-ui-tools-in-60-minutes-c304bff79181",
+        "image": "https://miro.medium.com/v2/resize:fit:700/1*QotD02mqWEDtIGEffkodrg.jpeg"
+      },
+      {
+        "title": "11 of the Best AI Design Tools for 2026 - Figma",
+        "url": "https://www.figma.com/resource-library/ai-design-tools",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/69d0a8e52134d8214a81cab2f3985cc06d162115-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      }
+    ],
+    "cover": "https://media.nngroup.com/media/articles/opengraph_images/Social-Card-AI-Design-Tools-opengraph.jpg"
+  },
+  {
+    "date": "2026-07-03",
+    "section": "tech",
+    "title": {
+      "zh": "Apple考虑用Anthropic或OpenAI替代自研Siri模型+DeepMind机器人50次演示学会新任务——\"AI能力民主化\"与\"AI控制集中化\"同时加速",
+      "en": "Apple Considers Anthropic/OpenAI to Replace In-House Siri + DeepMind Robots Learn Tasks from 50 Demos — 'AI Capability Democratization' and 'AI Control Centralization' Accelerating Simultaneously"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Apple正考虑用Anthropic Claude或OpenAI ChatGPT驱动新版Siri——放弃自研模型的\"里程碑式逆转\"</strong> — 据LA Times/Bloomberg报道（7月1日），Apple已要求Anthropic和OpenAI在Apple云基础设施上训练定制版模型进行测试。此举意味着Apple承认其自研Apple Foundation Models在生成式AI竞争中落后。Apple原计划2026年发布基于自研模型的新Siri，现在这个计划可能被第三方模型取代。这是Apple史上罕见的\"核心产品外包AI能力\"决策。<br><small>来源：<a href=\"https://www.latimes.com/business/story/2025-07-01/apple-weighs-using-anthropic-or-openai-to-power-siri-in-major-reversal\">LA Times: Apple weighs using Anthropic or OpenAI to power Siri</a></small></li><li><strong>DeepMind Gemini Robotics：机器人只需50-100次演示就能学会新任务，无需云端</strong> — Google DeepMind的最新突破让机器人具备了\"少样本学习+边缘执行\"能力，精细运动控制不再依赖云计算。这标志着AI从\"纯数字\"向\"物理世界\"的跨越进入实用阶段。工程和DevOps领域已开始探索将这种能力集成到自动化流程中。<br><small>来源：<a href=\"https://medium.com/@rana.ash1997/from-hype-to-reality-5-ai-breakthroughs-of-july-2025-transforming-engineering-devops-bacb49e15fc4\">Medium: 5 AI Breakthroughs of July 2025</a></small></li><li><strong>Google 2025年度研究突破回顾：Gemini 3、Gemma 3推动推理能力飞跃</strong> — Google官方年度总结显示，2025年是其AI研究\"质变\"的一年：Gemini 3在复杂推理任务上的表现首次系统性超越人类专家基准；Gemma 3（开源）让中小企业也能部署高质量推理模型。AI硬件（TPU v6）和内存带宽的进步让推理成本下降了60%。<br><small>来源：<a href=\"https://blog.google/innovation-and-ai/products/2025-research-breakthroughs\">Google Blog: 2025 Research Breakthroughs</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这三条新闻放在一起，揭示了一个令人不安的悖论：<strong>AI能力正在前所未有地\"民主化\"（人人可用），而AI控制权正在前所未有地\"集中化\"（少数公司决定一切）。</strong></p><p>先看Apple的决策。这不只是\"Siri变好了\"的故事——这是<strong>全球市值最高的科技公司承认自己在最重要的技术赛道上输了</strong>。Apple花了数十亿美元和数年时间研发Apple Foundation Models，结果发现追不上Anthropic和OpenAI的迭代速度。这证实了一个判断：<strong>前沿AI模型的研发已经成为少数3-4家公司的\"寡头竞赛\"</strong>，连Apple这种级别的公司都无法独立参与。当Apple变成AI模型的\"分发商\"而非\"生产商\"时，整个产业的权力结构已经发生了根本性重组。</p><p>再看DeepMind的机器人。50次演示就能学会新任务、无需云端——这听起来是技术进步，但想想它的含义：<strong>物理世界的自动化门槛正在以指数级下降</strong>。以前你需要几千小时的训练数据和持续的云连接才能让机器人做新事情；现在50次演示、本地运行。这对制造业、物流、服务业的冲击将在2-3年内显现。而\"边缘执行\"意味着这些机器人可以在没有网络的环境中工作——工厂、仓库、甚至家庭。</p><p>Google的Gemini 3\"系统性超越人类专家基准\"和推理成本下降60%是最容易被忽略但最重要的消息。<strong>当\"超人类推理\"的成本降到普通企业可承受时</strong>，之前因为\"太贵\"而只有大公司能做的AI应用会在12个月内普及到中小企业。Gemma 3开源意味着你不需要向Google付费就能获得接近前沿的能力——这是\"民主化\"的部分。</p><p>但悖论在这里：能力在民主化，控制在集中化。你可以用Gemma 3，但训练它的数据、决定它能力边界的是Google。Apple用Claude/ChatGPT驱动Siri，但20亿iPhone用户的AI体验被Anthropic/OpenAI两家公司的模型决策所左右。<strong>\"所有人都能用AI\"和\"少数人决定AI能做什么\"正在同时发生。</strong>这不是阴谋论——这是当前技术经济结构的必然结果。对设计师和开发者的启示：学会用AI，但永远保持对\"谁控制AI\"的警觉。你的工具链的上游，是别人的战略决策。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Apple considers Anthropic Claude or OpenAI ChatGPT to power new Siri</strong> — Abandoning in-house models in a landmark reversal. Asked both companies to train custom models on Apple cloud for testing.</li><li><strong>DeepMind Gemini Robotics: robots learn new tasks from 50-100 demos, no cloud needed</strong> — Fine motor control on-device marks AI's practical leap into the physical world.</li><li><strong>Google 2025 recap: Gemini 3 systematically surpasses human expert benchmarks</strong> — Reasoning costs down 60%. Gemma 3 (open source) brings near-frontier reasoning to SMEs.</li></ul><h3>🧠 Rex's Take</h3><p>These three stories reveal an unsettling paradox: AI capability is democratizing (everyone can use it) while AI control is centralizing (few companies decide everything). Apple — the world's most valuable company — admitting it lost the frontier model race proves only 3-4 companies can compete. DeepMind's 50-demo robots mean physical automation barriers are dropping exponentially. Gemini 3 + 60% cost reduction means 'superhuman reasoning' becomes affordable for SMEs within 12 months. The paradox: capability democratizes, control centralizes. Everyone can use AI, but few decide what AI can do. Your tool chain's upstream is someone else's strategic decision.</p>"
+    },
+    "sources": [
+      {
+        "title": "Apple weighs using Anthropic or OpenAI to power Siri - LA Times",
+        "url": "https://www.latimes.com/business/story/2025-07-01/apple-weighs-using-anthropic-or-openai-to-power-siri-in-major-reversal",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/6ba4f06/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F51%2F9a%2F81ef959be838cbb2dac2611b0173%2F1x-1.jpg"
+      },
+      {
+        "title": "From Hype to Reality: 5 AI Breakthroughs of July 2025 - Medium",
+        "url": "https://medium.com/@rana.ash1997/from-hype-to-reality-5-ai-breakthroughs-of-july-2025-transforming-engineering-devops-bacb49e15fc4",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*bzc2HBESn_pGDxkjXI2WMQ.png"
+      },
+      {
+        "title": "Google 2025 Research Breakthroughs",
+        "url": "https://blog.google/innovation-and-ai/products/2025-research-breakthroughs",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/end-of-year-blog_keyword_social_share_light_1.width-1300.png"
+      }
+    ],
+    "cover": "https://ca-times.brightspotcdn.com/dims4/default/6ba4f06/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F51%2F9a%2F81ef959be838cbb2dac2611b0173%2F1x-1.jpg"
+  },
+  {
     "date": "2026-07-02",
     "section": "design",
     "title": {
