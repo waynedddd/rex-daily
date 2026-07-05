@@ -18086,6 +18086,238 @@
       "body": "七月初 Visual for AI 的两个观察放在一起，让我看到了 AI 产品视觉设计进入「成熟期」的标志：一方面是透明度基础设施的标准化（行为审计面板不再是差异化功能，而是行业标配），另一方面是情感微交互的精细化（动效节奏不再是装饰，而是语义通信系统）。这两个方向一个是「理性层」一个是「感性层」，合在一起才是完整的 AI 产品体验。理性层让用户信任（我知道 AI 做了什么），感性层让用户舒适（AI 的存在感不让我焦虑）。上半年我提出的「五层信任架构」可以在这里收束：最顶层不是某个具体的设计模式，而是一种「存在感设计」——AI 产品的呼吸节奏、反应速度、沉默时长，这些时间维度的设计比任何静态视觉都更影响用户对 AI 的「人格感知」。动效不是视觉设计的附属品，它是 AI 产品的「体温」。",
       "body_en": "Two early July Visual for AI observations together reveal signs of AI product visual design entering \"maturity\": one side is transparency infrastructure standardization (behavior audit panels becoming industry standard, not differentiator); the other is emotional micro-interaction refinement (motion rhythm as semantic communication, not decoration). One is the \"rational layer,\" the other the \"emotional layer\" — together they form complete AI product experience. Rational layer builds trust (I know what AI did), emotional layer builds comfort (AI's presence doesn't make me anxious). The five-layer trust architecture I proposed in H1 converges here: the top layer isn't a specific design pattern but \"presence design\" — AI product's breathing rhythm, response speed, silence duration. These temporal dimensions of design affect user's AI \"personality perception\" more than any static visual. Motion isn't visual design's accessory — it's AI product's \"body temperature.\"",
       "date": "2026-07-03"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Payroll Intelligence — 薪酬数据的空间可视化",
+      "body": "Gusto 2026 更新的 AI 薪酬分析面板。不是传统的薪资表格，而是「薪酬地图」——把团队薪资、市场分位数、公平性指标放在同一个可交互的散点空间里。每个点是一个员工，X 轴是经验年限，Y 轴是薪资水平，颜色编码性别/种族，AI 自动标注偏离市场中位数的异常点。把 DEI 合规从 PPT 口号变成了可操作的数据产品。",
+      "body_en": "Gusto 2026 AI payroll analytics update. Not a traditional salary table but a \"compensation map\" — team salaries, market percentiles, and equity metrics in one interactive scatter space. Each dot is an employee: X-axis = years of experience, Y-axis = compensation, color-coded by gender/ethnicity. AI auto-flags outliers from market median. Turns DEI compliance from slide deck rhetoric into actionable data product.",
+      "tags": [
+        "Payroll AI",
+        "DEI Analytics",
+        "Scatter Plot",
+        "HR Tech"
+      ],
+      "link": "https://dribbble.com/search/payroll-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "Micro-Investing AI — 零钱投资的情感化设计",
+      "body": "2026 年 Q3 微投资 App 的设计竞争进入新阶段。Acorns、Stash、Plum 都在用 AI 做「情绪化储蓄」——检测到用户发工资、收到红包、甚至心情好的时候，自动建议微额投资。界面设计的关键词是「轻量感」：不用金融图表吓人，用生长动画暗示复利——硬币变种子变树苗变大树。把投资从「严肃决策」变成「愉悦习惯」。",
+      "body_en": "Q3 2026 micro-investing app design competition enters a new phase. Acorns, Stash, Plum all using AI for \"emotional savings\" — detecting payday, red packets, even good moods to auto-suggest micro-investments. Design keyword: lightness. No scary financial charts; growth animations hint at compounding — coins become seeds become saplings become trees. Transforms investing from serious decision to joyful habit.",
+      "tags": [
+        "Micro-Investing",
+        "Emotional Design",
+        "Growth Animation",
+        "Habit"
+      ],
+      "link": "https://dribbble.com/search/micro-investing-app-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Cross-Border Payment — 汇率预测界面",
+      "body": "Wise 竞品的 AI 跨境支付界面，亮点是「汇率时机建议」。AI 分析历史汇率波动+宏观事件，给出「现在换」vs「等 3 天可能更好」的概率化建议。界面用潮汐动画表达汇率的涨跌节奏——不是冰冷的折线图，而是有呼吸感的流体可视化。用户在「理性数据」和「直觉判断」之间找到了平衡点。",
+      "body_en": "Wise competitor AI cross-border payment interface. Highlight: exchange rate timing suggestions. AI analyzes historical rate fluctuations + macro events, providing probabilistic advice on \"convert now\" vs \"wait 3 days might be better.\" Interface uses tidal animations for rate movement — not cold line charts but breathing fluid visualization. Users find balance between rational data and intuitive judgment.",
+      "tags": [
+        "Cross-Border",
+        "FX Prediction",
+        "Fluid Viz",
+        "Timing UX"
+      ],
+      "link": "https://dribbble.com/search/cross-border-payment-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/44773662/file/7951b885e51c8352e9ea081d4cd80cf4.jpeg?resize=752x&vertical=center",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "七月观察：金融 AI 设计正在发生一次「人性化降维」。过去半年我追踪的所有方向——信任 UX、合规可视化、Agentic Finance——现在收束到一个更朴素的问题：怎么让人觉得钱是活的？Acorns 的种子-树动画、Wise 的潮汐汇率、Gusto 的薪酬地图，都在用有机的隐喻替代金融的机械感。这不是装饰，是认知策略——人类对生长和流动的直觉理解远超对百分比和坐标系的理解。最好的金融 AI 设计正在悄悄变成「自然叙事设计」：钱像水一样流动、像树一样生长、像潮汐一样涨落。数字是精确的，但精确不等于可理解。",
+      "body_en": "July observation: financial AI design is undergoing a humanization compression. All directions tracked in the past six months — trust UX, compliance viz, agentic finance — now converge on a simpler question: how to make people feel money is alive? Acorns seed-tree animations, Wise tidal exchange rates, Gusto compensation maps — all replacing financial mechanical feel with organic metaphors. Not decoration but cognitive strategy: human intuition for growth and flow far exceeds understanding of percentages and coordinates. Best financial AI design is quietly becoming natural narrative design: money flows like water, grows like trees, ebbs like tides. Numbers are precise, but precision ≠ comprehension.",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 游泳分析 — 水下动作捕捉可视化",
+      "body": "2026 年 Q3 出现的 AI 游泳分析产品，用水下摄像头+骨骼追踪重建泳姿。界面设计的突破点：「水感可视化」——不是干巴巴的关节角度数据，而是用流线动画展示水流如何经过身体，哪里有阻力、哪里有推力。色彩系统从深蓝(高效)到红(高阻力)，让抽象的流体力学变成直觉可感的视觉体验。适合教练做技术指导。",
+      "body_en": "Q3 2026 AI swimming analysis product using underwater cameras + skeleton tracking for stroke reconstruction. Interface breakthrough: water feel visualization — not dry joint angle data but streamline animations showing how water flows around the body, where drag occurs, where propulsion happens. Color system from deep blue (efficient) to red (high drag), making abstract hydrodynamics intuitively perceivable. Perfect for coaches doing technique guidance.",
+      "tags": [
+        "Swimming",
+        "Motion Capture",
+        "Fluid Dynamics",
+        "Coach Tools"
+      ],
+      "link": "https://dribbble.com/search/swimming-ai-analysis",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=1200&q=80",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI × 户外运动安全 — 环境风险实时评估",
+      "body": "2026 夏季户外运动 App 的新趋势：AI 环境风险评估。综合天气、地形、紫外线、空气质量、用户体能状态生成实时安全评分。设计上用「安全穹顶」隐喻——一个半透明的保护罩包裹着路线图，颜色从绿到红表达风险等级。最聪明的交互：滑动时间轴可以预览未来 6 小时的风险变化，帮助用户选择最安全的出发时间。",
+      "body_en": "Summer 2026 outdoor sports app trend: AI environmental risk assessment. Combining weather, terrain, UV, air quality, and user fitness state for real-time safety scores. Design uses a safety dome metaphor — a semi-transparent protective shell around the route map, color-coded green to red for risk levels. Smartest interaction: sliding a timeline previews risk changes over next 6 hours, helping users choose safest departure time.",
+      "tags": [
+        "Outdoor Safety",
+        "Environmental AI",
+        "Risk Dome",
+        "Real-time"
+      ],
+      "link": "https://dribbble.com/search/outdoor-safety-app-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=1200&q=80",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 瑜伽教练 — 呼吸节奏同步界面",
+      "body": "Calm 系的 AI 瑜伽产品设计。核心创新不在动作纠正，而在「呼吸同步」——屏幕上一个缓慢膨胀/收缩的圆形跟随呼吸节奏脉动，AI 根据用户的实时心率调整建议的呼吸频率。整个 UI 在训练过程中只剩这一个动态元素——极致的减法设计。色彩从深靛蓝渐变到暖紫，光线极柔。这是反数据密度的设计典范。",
+      "body_en": "Calm-style AI yoga product design. Core innovation isn't pose correction but breath synchronization — a slowly expanding/contracting circle pulses with breathing rhythm, AI adjusts suggested breath rate based on real-time heart rate. Entire UI during practice reduces to this single dynamic element — extreme subtraction design. Color graduates from deep indigo to warm purple, ultrasoft lighting. The anti-data-density design paradigm.",
+      "tags": [
+        "Yoga",
+        "Breath Sync",
+        "Minimal UI",
+        "Calm Design"
+      ],
+      "link": "https://dribbble.com/search/yoga-app-breathing-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&q=80",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "运动 AI 在 2026 年夏天出现了一个有趣的极化：一端是「数据最大化」产品（游泳骨骼追踪、环境风险评估），另一端是「数据最小化」产品（瑜伽呼吸同步、冥想引导）。两端都对，因为它们服务的是完全不同的用户心智状态。高强度运动时人想要信息（告诉我该怎么做），恢复/冥想时人想要安静（别打扰我）。但更深层的观察是：数据最小化的设计往往更难做。把复杂的 AI 能力压缩成一个呼吸圆，比展示一整屏数据图表需要更强的设计判断力。减法的每一刀都是一个产品决策：你选择不展示什么，等于在说你信任用户不需要看到它。这是设计自信的最高体现。",
+      "body_en": "Sports AI in summer 2026 shows an interesting polarization: one end is data-maximization products (swimming skeleton tracking, environmental risk assessment), the other is data-minimization products (yoga breath sync, meditation guidance). Both correct because they serve entirely different mental states. High-intensity exercise: users want information. Recovery/meditation: users want silence. Deeper observation: data-minimal design is often harder. Compressing complex AI into a single breathing circle requires more design judgment than displaying a full screen of charts. Every subtraction cut is a product decision: choosing what NOT to show means trusting users don't need to see it. The highest expression of design confidence.",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 摘要卡片系统 — 长文的「电梯演讲」层",
+      "body": "一个新的内容设计模式正在扩散：文章顶部的 AI 摘要卡片不再是简单的 TL;DR，而是一套分层信息架构——1 句话结论 → 3 个要点 → 扩展阅读入口。Vercel 的博客和 Linear 的 changelog 已经采用。设计上用半透明毛玻璃卡片浮在文章开头，视觉上暗示「这是导航层，不是内容本身」。排版克制：摘要字号比正文小一号，颜色降低 20% 饱和度。",
+      "body_en": "A new content design pattern spreading: article-top AI summary cards are no longer simple TL;DR but a layered info architecture — 1-sentence conclusion → 3 key points → expand-to-read entry. Vercel blog and Linear changelog adopted. Design: semi-transparent frosted card floating at article start, visually implying \"this is navigation layer, not content itself.\" Restrained typography: summary type one size smaller than body, color at 20% less saturation.",
+      "tags": [
+        "Summary Card",
+        "Layered Reading",
+        "Frosted Glass",
+        "Navigation"
+      ],
+      "link": "https://dribbble.com/search/ai-summary-card-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46334296/file/84d1ed2927fe621b7d8446de9b6af56b.jpg?resize=1600x1200&vertical=center",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "Dark Mode Typography — 深色环境的字体渲染优化",
+      "body": "2026 年深色模式 typography 的新共识：浅色文字在深色背景上会「视觉膨胀」——同样的 16px Regular 在暗色模式下看起来比亮色模式粗半个字重。最佳实践正在形成：暗色模式自动降一档字重（Regular→Light）、字间距微增 0.02em、正文颜色不用纯白而用 rgba(255,255,255,0.87)。这个 Dribbble 项目系统对比了 6 种字体在明暗模式下的渲染差异。",
+      "body_en": "New 2026 consensus on dark mode typography: light text on dark backgrounds creates visual bloating — same 16px Regular appears half a weight heavier in dark mode. Best practices forming: auto-reduce one weight level in dark mode (Regular→Light), letter-spacing +0.02em, body text uses rgba(255,255,255,0.87) instead of pure white. This Dribbble project systematically compares 6 fonts rendering differences across light/dark modes.",
+      "tags": [
+        "Dark Mode",
+        "Font Rendering",
+        "Weight Optimization",
+        "Typography"
+      ],
+      "link": "https://dribbble.com/search/dark-mode-typography-system",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43574996/file/still-6f2195b47f626192918540485276674c.png?resize=1600x1200",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "交互式长文 — 文章作为微应用",
+      "body": "2026 年内容设计的一个结构性变化：优质长文不再是静态文本，而是嵌入了交互组件的「微应用」。Pudding.cool 和 The Markup 引领的数据新闻风格正在渗透到技术博客和产品文档——文章中嵌入可调参数的实时图表、可拖动的 before/after 比较、甚至小型计算器。设计挑战：如何让交互组件融入阅读流而非打断它。最佳实践是「邀请式交互」——组件默认显示静态截图，用户有兴趣时再激活交互。",
+      "body_en": "A structural shift in 2026 content design: quality long-form is no longer static text but micro-apps with embedded interactive components. Data journalism style led by Pudding.cool and The Markup is infiltrating tech blogs and product docs — articles embed real-time charts with adjustable parameters, draggable before/after comparisons, even mini calculators. Design challenge: making interactive components blend into reading flow, not interrupt it. Best practice: invitation-based interaction — components default to static screenshots, users activate interaction when interested.",
+      "tags": [
+        "Interactive Content",
+        "Micro-App",
+        "Data Journalism",
+        "Embedded"
+      ],
+      "link": "https://dribbble.com/search/interactive-article-design",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "内容设计在 2026 年 Q3 的三个信号汇成了一个清晰的方向：文章正在从「被阅读的文本」进化为「被使用的界面」。AI 摘要卡片是导航层、交互组件是操作层、深色模式排版优化是感知层——三层叠加，一篇文章就是一个产品。这对内容设计师意味着什么？你不再只是「排版师」或「信息架构师」，你是「阅读体验产品经理」。你要决定用户在哪一层停留、什么时候深入、什么时候跳出。这和游戏设计的关卡节奏控制异曲同工。另一个微妙的观察：深色模式 typography 的「字重减磅」共识说明一件事——设计系统的颗粒度正在下探到子像素级别。过去我们设计的最小单位是组件，现在是字形的光学修正。这是成熟度的标志。",
+      "body_en": "Three Q3 2026 content design signals converge into a clear direction: articles are evolving from text to be read into interfaces to be used. AI summary cards = navigation layer, interactive components = action layer, dark mode typography = perception layer. Three layers stacked: one article becomes a product. What this means for content designers: you're no longer just a typographer or IA, you're a reading experience product manager. You decide which layer users stay at, when to go deeper, when to exit. Similar to game design pacing. Subtle observation: dark mode font weight reduction consensus shows one thing — design system granularity is reaching sub-pixel level. We used to design at component level; now at glyph optical correction level. A sign of maturity.",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI Code Editor — 代码与对话的空间融合",
+      "body": "Cursor 2.0 和 Windsurf 引领的新范式：代码编辑器不再是左代码右聊天的简单分栏，而是「代码即对话、对话即代码」的空间融合。AI 的建议不在侧边面板里，而是直接作为 inline ghost text 出现在光标位置——带有呼吸动效的半透明代码块，确认后原地固化。最精妙的视觉处理：AI 生成的代码用微妙的渐变底色标识（比周围代码亮 5%），3 秒后渐变消退，代码「融入」环境。存在感从强到弱的时间曲线，暗合人类注意力的消退节奏。",
+      "body_en": "New paradigm led by Cursor 2.0 and Windsurf: code editors no longer simple left-code/right-chat split but spatial fusion of code-as-conversation. AI suggestions appear as inline ghost text at cursor position — semi-transparent code blocks with breathing animation, solidifying in-place on confirmation. Most exquisite visual: AI-generated code has subtle gradient background (5% brighter than surroundings), fading over 3 seconds as code merges into environment. Presence-to-absence time curve matches human attention decay rhythm.",
+      "tags": [
+        "Code Editor",
+        "Inline AI",
+        "Ghost Text",
+        "Spatial Fusion"
+      ],
+      "link": "https://dribbble.com/search/ai-code-editor-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/46352831/file/765076f0eddc850ad448f605d7f93ba0.png?resize=1024x768&vertical=center",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「共识层」设计 — 多 Agent 协作的视觉语言",
+      "body": "随着 Multi-Agent 系统成为产品标配，一个新的视觉设计子领域正在诞生：「Agent 共识可视化」。当 3 个 AI Agent 对同一问题给出不同建议时，界面如何呈现分歧和共识？新的设计模式：维恩图式的重叠区域表示共识，非重叠区域表示分歧，面积大小编码置信度。Anthropic 和 OpenAI 的企业产品都在探索这种「分歧可视化」——因为在高风险决策中，看到 AI 之间的「争论」反而增加了用户信任。",
+      "body_en": "As Multi-Agent systems become product standard, a new visual design sub-field is born: Agent consensus visualization. When 3 AI agents give different recommendations for the same question, how does the interface present disagreement and consensus? New pattern: Venn diagram overlap = consensus, non-overlap = disagreement, area size encodes confidence. Anthropic and OpenAI enterprise products both exploring this disagreement visualization — because in high-stakes decisions, seeing AI agents argue actually increases user trust.",
+      "tags": [
+        "Multi-Agent",
+        "Consensus Viz",
+        "Venn Diagram",
+        "Trust Pattern"
+      ],
+      "link": "https://dribbble.com/search/multi-agent-ai-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 产品空状态设计 — 第一次打开时的品牌仪式",
+      "body": "2026 年 AI 产品的一个被低估的设计机会：空状态。当用户第一次打开一个 AI 工具、对话区还是空白时——这 5 秒是品牌印象的黄金时间。最好的设计不是放一句「试试问我任何问题」，而是用一个微妙的生成式动画：粒子从屏幕边缘汇聚到中心，形成品牌图形，然后「裂变」成输入框光标。从空到有的过程本身就是对 AI「创造力」的视觉隐喻。Perplexity 和 Claude 的空状态是目前做得最好的两极——Perplexity 是高信息密度的推荐入口，Claude 是近乎禅意的空白。",
+      "body_en": "An underrated 2026 AI product design opportunity: empty states. When users first open an AI tool with blank conversation area — those 5 seconds are golden brand impression time. Best design isn't a \"try asking me anything\" prompt but a subtle generative animation: particles converge from screen edges to center, form brand shape, then fission into input cursor. The creation-from-nothing process is itself a visual metaphor for AI creativity. Perplexity and Claude have the best empty states as two extremes — Perplexity is high-density recommendation entry, Claude is near-zen blankness.",
+      "tags": [
+        "Empty State",
+        "First Impression",
+        "Generative Animation",
+        "Brand Moment"
+      ],
+      "link": "https://dribbble.com/search/ai-empty-state-onboarding",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/45492203/file/e3b92ed0bc3e5d552d9771b571d3720c.png?resize=2048x1536&vertical=center",
+      "date": "2026-07-05"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "七月初的 Visual for AI 观察，三个方向指向同一个底层命题：AI 产品的视觉设计正在从「界面设计」进化为「时间设计」。代码编辑器中 AI 建议的 3 秒渐退曲线、空状态的粒子汇聚动画、多 Agent 共识的动态权重变化——它们的共同特征是：设计不是静态截图，而是随时间展开的叙事。这对设计师的能力模型提出了根本性挑战：你不只需要会 layout，还需要会 choreography（编舞）。每一个视觉元素都有出场时机、存在时长、和退场方式。做得好的 AI 产品界面像一部精心编排的舞蹈——用户感知到的是流畅和自然，看不到的是每一帧背后的节奏计算。另外，「AI 分歧可视化」可能是今年下半年最值得关注的设计子领域——它本质上是在设计「不确定性的社会证明」：三个 AI 都说对的时候你更信，两个说对一个说不对的时候你至少知道要谨慎。这比单一 AI 的置信度百分比直觉得多。",
+      "body_en": "Early July Visual for AI observation — three directions point to one underlying thesis: AI product visual design is evolving from interface design to time design. Code editor AI suggestions 3-second fade curve, empty state particle convergence animation, multi-agent consensus dynamic weight shifts — common trait: design isn't static screenshots but narratives unfolding over time. A fundamental capability challenge: you need not just layout skills but choreography skills. Every visual element has entrance timing, duration, and exit method. Well-designed AI product interfaces resemble carefully choreographed dance — users perceive fluidity and naturalness, unseen is per-frame rhythm calculation. Also: AI disagreement visualization may be H2 2026's most noteworthy design sub-field — essentially designing social proof of uncertainty: when three AIs agree you trust more, when two say yes and one says no you know to be careful. Far more intuitive than a single AI's confidence percentage.",
+      "date": "2026-07-05"
     }
   ]
 }
