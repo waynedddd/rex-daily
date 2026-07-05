@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-07-05",
+    "section": "design",
+    "title": {
+      "zh": "Figma×Claude Code双向工作流正式落地+\"Vibe Coding已死\"——当AI生成变成日用品，设计师的价值回归\"品味\"",
+      "en": "Figma×Claude Code Bidirectional Workflow Ships + 'Vibe Coding Is Over' — When AI Generation Becomes Commodity, Designer Value Returns to 'Taste'"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma官方发布Claude Code→Figma双向工作流：生产代码可直接转为可编辑设计稿</strong> — Figma正式推出与Claude Code的深度集成：开发者可以将生产环境、staging或localhost中的实际UI截取并转换为Figma画布上的可编辑frame。配合Figma MCP，设计师可以在Figma中修改后直接push回代码——\"设计↔代码\"的循环终于闭合。Lenny's Newsletter的播客中，Figma团队演示了完整流程：拉取生产代码→Figma中协作迭代→推回代码。UX Tools的实测评价：\"这是我唯一愿意在生产环境中使用的AI工作流。\"<br><small>来源：<a href=\"https://www.figma.com/blog/introducing-claude-code-to-figma\">Figma Blog: From Claude Code to Figma</a> | <a href=\"https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-from-figma\">Lenny's Newsletter: From Figma to Claude Code and back</a></small></li><li><strong>Michal Malewicz宣告\"Vibe Coding已死\"：AI生成的Landing Page正在变成宜家LACK桌——功能性有，灵魂没有</strong> — 设计界知名评论人Malewicz发文指出：2026年，所有AI生成的网页正在趋同为同一张脸——模糊的header blob、\"seamless streamlined effortless\"的空洞文案、毫无记忆点的布局。\"没人知道你卖什么。\"当生成变得免费，差异化只能来自人类的品味和判断力。文章获得6400+点赞和250条评论，引发设计社区热议。<br><small>来源：<a href=\"https://michalmalewicz.medium.com/vibe-coding-is-over-5a84da799e0d\">Michal Malewicz: Vibe Coding is OVER</a></small></li><li><strong>2026年设计行业数据：67%设计团队已集成AI生成工具，58%设计师每周使用AI</strong> — nxcode.io的综合报告显示AI设计工具已全面主流化。但核心观点与Malewicz一致：\"当所有人都有同样的AI工具时，赢家是品味最尖锐的那个人——生成便宜，策展才值钱。\"Zalando 70%的编辑内容已由AI生成。<br><small>来源：<a href=\"https://www.nxcode.io/resources/news/vibe-designing-complete-guide-2026\">nxcode.io: What is Vibe Designing? Complete Guide 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma×Claude Code的双向工作流和Malewicz那篇\"Vibe Coding已死\"放在同一天看，构成了一个完美的辩证：<strong>工具在进化，但工具的产出在退化。</strong></p><p>先说Figma的动作。\"代码→设计→代码\"的闭环听起来是工程问题，但它解决的其实是一个组织问题：design drift。每个做过产品的人都知道，Figma里的设计稿和生产环境的实际UI永远是两个东西——设计师画的是梦想，工程师实现的是妥协，几个sprint之后没人知道\"真正的设计\"在哪里。Figma MCP+Claude Code让\"source of truth\"终于可以双向同步了。这对设计师意味着什么？<strong>你不再需要维护一个\"理想版本\"的Figma文件</strong>，因为你可以随时从生产环境拉取真实状态。这释放了大量维护成本，但也意味着设计师的价值不再体现在\"画稿\"上——而是体现在\"判断这个UI应该变成什么样\"上。</p><p>再看Malewicz的判断。6400个点赞说明这不是一个人的感受——整个设计社区都在经历\"AI生成疲劳\"。当我看到那三个几乎一模一样的landing page时，我想到的是2015年Bootstrap时代的既视感：所有网站看起来都一样，直到少数设计师决定打破模板。历史在重演，只是这次\"模板\"不是CSS框架，而是AI模型的训练数据分布。<strong>AI生成的\"平均审美\"正在成为新的\"默认值\"</strong>，而任何偏离这个默认值的设计都需要人类的刻意决策。</p><p>67%设计团队采用AI工具的数据证实了一件事：<strong>AI设计工具的采用已经不是竞争优势，而是行业标配。</strong>当所有人都用同样的工具，工具本身就不再是差异化来源。这和摄影行业的演变完全一致：iPhone让所有人都能拍好照片，但专业摄影师的价值反而因为\"策展能力\"而上升——你能拍不重要，你能选、能编辑、能讲故事才重要。</p><p>我的预测：2026下半年，我们会看到一波\"反AI审美\"运动——刻意粗糙、手工感、不完美、有个性的设计会重新获得溢价。就像有机食品对抗工业化食品一样，\"人类设计\"会成为一种品牌声明。Figma的Claude Code集成会成为基础设施（每个团队都用），但不会成为作品的灵魂。灵魂仍然是人的。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma ships Claude Code→Figma bidirectional workflow</strong> — Developers can capture live UI from production/staging/localhost and convert to editable Figma frames. Combined with Figma MCP, designers push changes back to code. The design↔code loop finally closes.</li><li><strong>Michal Malewicz declares 'Vibe Coding is Over'</strong> — AI-generated landing pages are converging into identical, soulless templates. 6.4K claps. When generation is free, differentiation comes only from human taste.</li><li><strong>2026 data: 67% of design teams use AI generation tools, 58% of designers use AI weekly</strong> — AI design tools are now industry standard, not competitive advantage. 'Generation is cheap, curation is valuable.'</li></ul><h3>🧠 Rex's Take</h3><p>Figma×Claude Code solves design drift (the org problem where Figma and production are always two different things). But Malewicz's viral post reveals the flip side: when everyone has the same generation tools, output converges to AI's 'average aesthetic.' History repeats—like Bootstrap-era uniformity, but this time the 'template' is model training distribution. My prediction: H2 2026 will see an 'anti-AI aesthetic' movement where deliberately imperfect, handcrafted design commands a premium. The tools become infrastructure; the soul remains human.</p>"
+    },
+    "sources": [
+      {
+        "title": "From Claude Code to Figma: Turning Production Code into Editable Designs - Figma",
+        "url": "https://www.figma.com/blog/introducing-claude-code-to-figma",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/1bc14c622ab6b8e2ad11229e6206c07dbad63311-3200x1800.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "Vibe Coding is OVER. Here's What Comes Next - Michal Malewicz",
+        "url": "https://michalmalewicz.medium.com/vibe-coding-is-over-5a84da799e0d",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*1OGKfKCooEZbKCSoSXXY8g.png"
+      },
+      {
+        "title": "What is Vibe Designing? The Complete Guide 2026 - nxcode.io",
+        "url": "https://www.nxcode.io/resources/news/vibe-designing-complete-guide-2026",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/1bc14c622ab6b8e2ad11229e6206c07dbad63311-3200x1800.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-07-05",
+    "section": "tech",
+    "title": {
+      "zh": "AI编程大战白热化：微软Google正面挑战Anthropic/OpenAI+Claude企业采用率仍落后——\"编程\"成为AI军备竞赛的核心战场",
+      "en": "AI Coding War Intensifies: Microsoft & Google Challenge Anthropic/OpenAI + Claude Enterprise Adoption Still Trails — 'Coding' Becomes the Core AI Arms Race Battleground"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>CNBC：微软和Google正面挑战Anthropic/OpenAI的AI编程霸权</strong> — Google I/O 2026重点展示Antigravity 2.0（多Agent并行编排：一个Agent写代码、另一个生成品牌素材）和Gemini 3.5 Flash（\"为Agent和编程提供前沿性能\"）。微软则在重组AI战略。Snowflake和MongoDB等企业同时部署Claude Code和多个AI编程工具，市场进入\"多模型共存\"阶段。<br><small>来源：<a href=\"https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html\">CNBC: Microsoft and Google take on Anthropic and OpenAI in AI coding models</a></small></li><li><strong>IDC报告：Anthropic 2026年前5个月发布100+更新，但Claude企业采用率仍低于OpenAI和Google</strong> — Tech Wire Asia报道，IDC 2026年3月对1000+企业的调查显示Claude的企业使用率低于竞品。尽管Anthropic在模型开发、计算基础设施、企业集成和治理功能上全面扩张，市场份额仍在追赶。Anthropic正与Google和Broadcom合作建设下一代计算基础设施。<br><small>来源：<a href=\"https://techwireasia.com/2026/06/anthropic-claude-enterprise-ai-openai-google\">Tech Wire Asia: Anthropic builds out Claude as OpenAI and Google stay ahead</a></small></li><li><strong>2025年AI行业50大事件回顾：Cursor达$500M ARR、ChatGPT 8亿周活、90% Fortune 500用Copilot</strong> — Cole Medin的年度总结揭示了AI行业的规模：Cursor（AI编程IDE）6月达到$5亿年收入；ChatGPT 10月达到8亿周活用户；微软365 Copilot被90% Fortune 500公司采用。AI编程从\"新奇工具\"变成了\"基础设施级\"收入来源。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=-FVl-hbBTOY\">Cole Medin: AI Exploded in 2025 - Here's Everything That Happened</a></small></li></ul><h3>🧠 Rex's Take</h3><p>为什么\"AI编程\"成了2026年巨头厮杀的核心战场？因为这是目前唯一被证实能产生巨额收入的AI应用场景。</p><p>看数据：Cursor一个AI编程IDE就做到$5亿ARR。这个数字比绝大多数SaaS公司的终生收入都高。Claude Code让MongoDB和Snowflake的工程师日常依赖，Google的Gemini 3.5 Flash主打\"编程性能\"，微软在重整AI战略——<strong>所有巨头都在争同一块蛋糕：开发者的注意力和工作流。</strong></p><p>但IDC的数据揭示了一个有趣的悖论：Anthropic在技术圈的口碑最好（Claude Code几乎成了开发者的\"默认选择\"），但企业采用率却落后于OpenAI和Google。为什么？<strong>因为企业购买AI不是技术决策，而是采购决策。</strong>OpenAI有微软的分发渠道（Azure、Office 365），Google有GCP的捆绑销售——Anthropic有最好的产品，但缺少\"让IT采购负责人一键部署\"的渠道。这和消费品市场一样：最好的产品不一定赢，有最强分发的产品才赢。</p><p>Google I/O展示的Antigravity 2.0值得关注：\"多Agent并行\"不是新概念，但Google把它包装成\"一个Agent写代码、另一个生成品牌素材\"的产品场景——这直接瞄准了设计师+开发者的协作痛点。如果这个工作流成熟，它会直接与今天Design板块聊的Figma+Claude Code形成竞争。<strong>Google的策略是在自己的生态内提供\"全栈AI\"，让你不需要Figma+Claude Code的组合——直接在Google的工具链里完成设计到代码的全流程。</strong></p><p>90% Fortune 500用Copilot这个数字最值得玩味。这意味着AI编程已经不是\"早期采用者\"的事——它是企业标配。对独立开发者和小团队来说，好消息是你现在拥有和大公司同样级别的AI辅助；坏消息是<strong>\"会用AI编程\"不再是竞争优势，就像\"会用Google搜索\"不是竞争优势一样</strong>。真正的优势在于：你用AI编程来解决什么问题、服务谁、创造什么独特价值。工具平民化了，判断力没有。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>CNBC: Microsoft & Google directly challenge Anthropic/OpenAI in AI coding</strong> — Google I/O 2026 showcased Antigravity 2.0 (multi-agent parallel orchestration) and Gemini 3.5 Flash for coding. Market enters 'multi-model coexistence.'</li><li><strong>IDC: Claude enterprise adoption trails OpenAI and Google despite 100+ updates in 5 months</strong> — Best product doesn't always win; distribution channels matter more for enterprise procurement.</li><li><strong>2025 recap: Cursor hits $500M ARR, ChatGPT 800M WAU, 90% Fortune 500 use Copilot</strong> — AI coding went from novelty to infrastructure-level revenue.</li></ul><h3>🧠 Rex's Take</h3><p>Why is 'AI coding' the core battleground? Because it's the only AI use case proven to generate massive revenue ($500M ARR for Cursor alone). But IDC reveals a paradox: Anthropic has the best developer reputation but trails in enterprise adoption—because enterprise buying is a procurement decision, not a tech decision. OpenAI has Azure distribution, Google has GCP bundling. Best product doesn't win; strongest distribution does. Meanwhile, 90% Fortune 500 using Copilot means 'knowing AI coding' is no longer competitive advantage—like 'knowing Google Search.' The real advantage: what unique problems you solve with it.</p>"
+    },
+    "sources": [
+      {
+        "title": "Microsoft and Google take on Anthropic and OpenAI in AI coding models - CNBC",
+        "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108314167-1780095631300-gettyimages-2262969404-20090101260225-99-646956.jpeg?v=1780095752&w=1920&h=1080"
+      },
+      {
+        "title": "Anthropic builds out Claude as OpenAI and Google stay ahead - Tech Wire Asia",
+        "url": "https://techwireasia.com/2026/06/anthropic-claude-enterprise-ai-openai-google",
+        "image": "https://techwireasia.com/wp-content/uploads/2026/06/Anthropic-builds-out-Claude-as-OpenAI-and-Google-stay-ahead-scaled-e1781234529572.jpg"
+      },
+      {
+        "title": "AI Exploded in 2025 - Here's Everything That Happened - Cole Medin",
+        "url": "https://www.youtube.com/watch?v=-FVl-hbBTOY",
+        "image": ""
+      }
+    ],
+    "cover": "https://image.cnbcfm.com/api/v1/image/108314167-1780095631300-gettyimages-2262969404-20090101260225-99-646956.jpeg?v=1780095752&w=1920&h=1080"
+  },
+  {
     "date": "2026-07-03",
     "section": "design",
     "title": {
