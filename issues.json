@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-07-06",
+    "section": "design",
+    "title": {
+      "zh": "\"反Vibe设计\"运动兴起：设计师集体反抗AI生成的平庸——当50个作品集长得一模一样，\"品味叛逆\"成为新溢价",
+      "en": "The 'Anti-Vibe Design' Movement Rises: Designers Rebel Against AI-Generated Mediocrity — When 50 Portfolios Look Identical, 'Taste Rebellion' Becomes the New Premium"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>\"Anti-Vibe Coding\"运动在设计社区爆发：设计师集体反抗AI生成的\"产品slop\"</strong> — Medium上一篇引发广泛讨论的文章记录了这场设计师主导的反抗运动：作者vibe-coded了自己的作品集，然后发现它和其他50个作品集长得一模一样——同样的\"clean, modern\"审美，同样的AI生成startup模板。这不是反AI，而是反\"AI生成的同质化\"。运动的核心主张：当生成变得无限且免费时，\"好设计\"的定义需要被重写——它不再是\"看起来对\"，而是\"有理由地与众不同\"。<br><small>来源：<a href=\"https://medium.com/@Rythmuxdesigner/the-anti-vibe-coding-movement-why-designers-are-rejecting-ai-generated-mediocrity-in-2026-b241ce60a369\">Medium: The Anti-Vibe Coding Movement 2026</a></small></li><li><strong>Muzli深度分析\"Vibe Design\"现象：AI 30秒生成UI，设计师的角色从\"画图\"变为\"质控\"</strong> — Muzli（设计灵感平台）发布长文分析2026年的核心矛盾：机器30秒就能画出看起来正确的UI，但\"看起来正确\"和\"因正确的原因而有效\"之间有巨大鸿沟。文章详细拆解了Google Stitch（从Galileo AI收购整合）、Claude Code + Figma MCP、Lovable等工具的实际能力边界。结论：\"Vibe design\"作为一种实践——即没有设计背景的人用AI工具做UI——正在重新定义\"设计师\"这个词的含义。<br><small>来源：<a href=\"https://muz.li/blog/vibe-design-in-2026-what-ai-generated-ui-means-for-your-work\">Muzli: Vibe Design in 2026</a></small></li><li><strong>Designlab 2026 Vibe Coding指南揭示设计师的两条路径：\"Chat-and-Canvas\"(Lovable/Bolt) vs \"AI Code Editor\"(Cursor/Copilot)</strong> — 非开发者在2026年有两条合法的\"vibe coding\"路径：①描述→生成完整应用（Lovable、Bolt、Figma Make），完全不看代码；②AI辅助写代码（Cursor、Claude Code）。前者降低了建造门槛，后者提升了设计师的工程能力。Lovable的增长率+1200%证明市场选择了第一条路径。<br><small>来源：<a href=\"https://designlab.com/blog/best-vibe-coding-tools\">Designlab: Best Vibe Coding Tools in 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>\"Anti-Vibe Coding\"运动的出现，我觉得是2026设计行业最健康的信号之一。让我解释为什么。</p><p>每一次工具民主化都会经历同样的三部曲：① 早期采用者用新工具做出惊艳的东西 → ② 所有人涌入，产出趋同 → ③ 反抗运动出现，重新定义\"好\"的标准。桌面出版经历过这个（90年代的Comic Sans泛滥→排版复兴），数码摄影经历过这个（Instagram滤镜统治→胶片回潮），现在AI设计正在经历第③阶段。<strong>这不是对AI的否定，而是对\"不加思考地使用AI\"的否定。</strong></p><p>Muzli那篇文章点出了真正的核心问题：<strong>\"看起来对\"≠\"因正确的原因有效\"</strong>。AI生成的UI在视觉层面可以做到完美——间距精确、配色和谐、组件规范。但它无法回答：\"为什么这个按钮在这里而不是那里？\" \"为什么这段文案用这个语气？\" \"这个交互模式适合这个用户群体的心智模型吗？\"这些问题的答案来自对用户的理解，来自对业务的理解，来自设计师作为\"人\"的判断力——而不是来自训练数据的统计分布。</p><p>Lovable +1200%的增长率告诉我们一个市场事实：<strong>大多数人不需要\"好设计\"，他们需要\"够用的设计\"</strong>。这对设计师来说不是威胁，而是解放。当\"及格\"的UI可以被机器批量生成时，设计师终于可以停止做\"帮你把按钮对齐\"的活，转向真正需要判断力的工作：系统思维、用户研究、品牌策略、体验架构。</p><p>我的预测：Anti-Vibe Design运动会在6个月内从一种态度变成一种商业策略。品牌会开始主动标注\"Human-designed\"作为溢价标签——就像有机食品标注\"Non-GMO\"一样。具有辨识度的、有性格的、甚至故意\"不完美\"的设计会成为高端品牌的信号。AI生成的设计会成为\"快时尚\"——量大、便宜、短命；人类设计会成为\"手工craft\"——稀缺、昂贵、有灵魂。这个分化已经开始了。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>'Anti-Vibe Coding' movement erupts: designers rebel against AI-generated 'product slop'</strong> — A designer vibe-coded their portfolio, then found it identical to 50 others. This movement redefines 'good design' as 'intentionally different,' not just 'looks right.'</li><li><strong>Muzli analysis: AI generates UI in 30 seconds, designer role shifts from 'drawing' to 'quality control'</strong> — The gap between 'looks correct' and 'works for the right reasons' is where human designers still reign. Details on Google Stitch, Claude+Figma MCP, Lovable capabilities.</li><li><strong>Designlab: Two paths for designers in 2026 — Chat-and-Canvas (Lovable/Bolt) vs AI Code Editor (Cursor)</strong> — Lovable's +1200% growth proves the market chose the no-code path.</li></ul><h3>🧠 Rex's Take</h3><p>The Anti-Vibe Design movement follows the classic democratization trilogy: early adopters wow → mass adoption homogenizes → rebellion redefines 'good.' This happened with desktop publishing (Comic Sans plague → typography renaissance) and digital photography (Instagram filter era → film revival). The real insight from Muzli: 'looks right' ≠ 'works for the right reasons.' AI can't answer WHY a button is here—that requires human understanding. Lovable's +1200% growth means most people just need 'good enough' UI—freeing designers to focus on judgment-heavy work. Prediction: 'Human-designed' will become a premium brand label within 6 months, like 'Non-GMO' for food.</p>"
+    },
+    "sources": [
+      {
+        "title": "The 'Anti-Vibe Coding' Movement: Why Designers Are Rejecting AI-Generated Mediocrity - Medium",
+        "url": "https://medium.com/@Rythmuxdesigner/the-anti-vibe-coding-movement-why-designers-are-rejecting-ai-generated-mediocrity-in-2026-b241ce60a369",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*S-BM8niLu_CqVARDPGc3wQ.jpeg"
+      },
+      {
+        "title": "Vibe Design in 2026: What AI-Generated UI Means for Your Work - Muzli",
+        "url": "https://muz.li/blog/vibe-design-in-2026-what-ai-generated-ui-means-for-your-work",
+        "image": ""
+      },
+      {
+        "title": "Best Vibe Coding Tools in 2026: A Non-Developer's Guide - Designlab",
+        "url": "https://designlab.com/blog/best-vibe-coding-tools",
+        "image": "https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/6a05088223b764eb0e0306c8_A_modern_editorial_illustration_showing_a_left-to-rig.webp"
+      }
+    ],
+    "cover": "https://miro.medium.com/v2/resize:fit:1200/1*S-BM8niLu_CqVARDPGc3wQ.jpeg"
+  },
+  {
+    "date": "2026-07-06",
+    "section": "tech",
+    "title": {
+      "zh": "微软$25亿Frontier Company+Anthropic Claude Science双重落地——AI巨头从\"卖模型\"转向\"卖实施\"，\"AI咨询\"成为下一个千亿赛道",
+      "en": "Microsoft's $2.5B Frontier Company + Anthropic Claude Science Launch — AI Giants Pivot from 'Selling Models' to 'Selling Implementation', 'AI Consulting' Becomes the Next $100B Market"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>微软投入$25亿成立Frontier Company：6000名工程师\"嵌入\"客户企业做AI实施</strong> — 7月2日，微软宣布成立Microsoft Frontier Company，投入25亿美元和6000名行业+工程专家，直接派驻客户现场共同设计、部署和运营AI系统。Satya Nadella在LinkedIn发文：目标是帮助企业\"将知识、工作流和专业技能转化为持续改进的AI系统\"。GeekWire评论：这超越了传统的\"前置部署工程\"(FDE)，将成为\"业内最大、最强的结果导向工程组织\"。核心洞察：企业AI的瓶颈不是模型能力，而是实施能力。<br><small>来源：<a href=\"https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html\">CNBC: Microsoft commits $2.5B, 6,000 employees to AI implementation unit</a></small></li><li><strong>Anthropic发布Claude Science：整合60+科学数据库的AI药物发现平台，$26完成一个领域的文献图谱</strong> — 6月30日，Anthropic在旧金山\"The Briefing: AI for Science\"活动上发布Claude Science。Forbes记者实测：用$26（约30分钟的Opus 4.8调用）分析了490篇论文，发现该领域的工作词汇量是正式本体论的4倍，864/915个关系在官方方案中缺失。Anthropic明确表示：这不是新模型，而是现有Claude的\"工作台\"——集成60+科学数据库和专业技能。Northeastern大学研究人员：\"迫不及待要试用，特别是质谱数据分析。\"<br><small>来源：<a href=\"https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html\">CNBC: Anthropic launches Claude Science</a> | <a href=\"https://www.forbes.com/sites/johndrake/2026/06/30/anthropics-new-ai-workbench-mapped-my-field-for-26-now-imagine-it-aimed-at-the-rest-of-science\">Forbes: Mapped My Field For $26</a></small></li><li><strong>Fortune分析：微软的真正赌注不是模型，而是成为\"企业AI的瑞士军刀\"</strong> — Fortune深度报道指出Frontier Company的战略意图：当模型层日益商品化时，微软押注\"实施层\"——帮企业把AI从POC推进到production。这是对整个行业的信号：<strong>AI的价值正在从\"能力\"转移到\"落地\"</strong>，谁能解决\"最后一公里\"问题，谁就赢得企业市场。<br><small>来源：<a href=\"https://fortune.com/2026/07/03/microsoft-big-bet-swiss-army-knife-enterprise-ai-frontier\">Fortune: Microsoft's next big bet isn't on a model</a></small></li></ul><h3>🧠 Rex's Take</h3><p>微软这个动作是2026年AI产业最具战略意义的事件之一——但不是因为$25亿本身，而是因为它标志着一个时代转换：<strong>AI产业的重心正在从\"模型竞赛\"转向\"实施竞赛\"。</strong></p><p>让我解释为什么这很重要。过去3年，AI行业的叙事是\"谁的模型最强\"——GPT-4 vs Claude 3 vs Gemini，benchmark分数的军备竞赛。但2026年的现实是：模型层正在快速商品化（Gemma 3开源、DeepSeek免费、Claude/GPT能力差距越来越小），而企业真正的痛点是\"我有了Claude/GPT的API key，然后呢？\"。McKinsey 2025年的数据说65%的企业AI项目停留在POC阶段，只有不到10%进入大规模生产。微软看到了这个gap，然后直接投入6000人去填它。</p><p>Anthropic的Claude Science则从另一个角度验证了同一个趋势：<strong>\"工作台\"(workbench)比\"新模型\"更有价值</strong>。Anthropic明确说了——Claude Science用的是同一个Opus 4.8，没有新模型、没有特殊权限。它的价值在于集成60+数据库、封装科学工作流、降低使用门槛。$26映射一个学术领域——这个定价本身就是一个声明：AI的边际成本已经低到可以忽略，真正的成本在于\"知道该问什么问题\"和\"如何解读结果\"。</p><p>把这两件事放在一起看：微软和Anthropic都在做同一件事——<strong>把AI从\"技术能力\"包装成\"可交付的商业结果\"</strong>。微软用6000人的咨询+工程团队，Anthropic用垂直领域的工作台。两种路径，同一个方向。这意味着\"AI咨询/实施\"——而非AI模型本身——将成为未来3年最大的增长赛道。我预测到2027年底，Frontier Company这类\"AI实施业务\"的总市场规模会超过AI模型API收入本身。因为模型在降价，但\"让AI真正工作\"的人力成本不会降——反而会因为需求爆发而上升。对设计师来说，这意味着：\"懂AI\"不够，\"能用AI解决特定领域问题并交付可衡量结果\"才是溢价能力。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Microsoft invests $2.5B in Frontier Company: 6,000 engineers embedded in customer enterprises</strong> — Forward-deployed engineering at unprecedented scale. Nadella: 'Turn knowledge and workflows into continuously improving AI systems.' The bottleneck isn't model capability—it's implementation capability.</li><li><strong>Anthropic launches Claude Science: 60+ scientific databases, mapped an entire field for $26</strong> — Not a new model, but a 'workbench' wrapping existing Opus 4.8 with domain-specific integrations. Forbes test: 490 papers analyzed, found 864/915 relationships missing from official ontologies.</li><li><strong>Fortune: Microsoft bets on being 'enterprise AI Swiss army knife' as model layer commoditizes</strong> — When models become commodities, whoever solves the 'last mile' wins the enterprise market.</li></ul><h3>🧠 Rex's Take</h3><p>This marks the era shift from 'model race' to 'implementation race.' Models are commoditizing fast (Gemma 3 open-source, DeepSeek free, Claude/GPT converging). The real enterprise pain: 'I have an API key, now what?' McKinsey says 65% of AI projects stall at POC. Microsoft sees this gap and throws 6,000 people at it. Claude Science validates the same thesis from another angle: same Opus 4.8, no new model—value is in the workbench (60+ databases, domain workflows). $26 to map a field is a pricing statement: AI marginal cost is negligible; knowing what to ask costs everything. Prediction: by 2027, 'AI implementation services' revenue will exceed AI model API revenue. Models get cheaper; making AI actually work doesn't.</p>"
+    },
+    "sources": [
+      {
+        "title": "Microsoft Launches $2.5B Frontier Company to Embed AI Engineers Inside Customers - CNBC",
+        "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108260991-1770153509459-gettyimages-633008456-MICROSOFT_ALTHOFF.jpeg?v=1775174929&amp;w=1920&amp;h=1080"
+      },
+      {
+        "title": "Anthropic launches AI drug discovery program, Claude Science - CNBC",
+        "url": "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108323235-1781707962297-gettyimages-2282033342-090a1082_o4bhzzd7.jpeg?v=1781727317&amp;w=1920&amp;h=1080"
+      },
+      {
+        "title": "Anthropic's New AI Workbench Mapped My Field For $26 - Forbes",
+        "url": "https://www.forbes.com/sites/johndrake/2026/06/30/anthropics-new-ai-workbench-mapped-my-field-for-26-now-imagine-it-aimed-at-the-rest-of-science",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a443d9ebda2b2eab2c2c4a1/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds"
+      }
+    ],
+    "cover": "https://image.cnbcfm.com/api/v1/image/108260991-1770153509459-gettyimages-633008456-MICROSOFT_ALTHOFF.jpeg?v=1775174929&amp;w=1920&amp;h=1080"
+  },
+  {
     "date": "2026-07-05",
     "section": "design",
     "title": {
