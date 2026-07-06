@@ -3,6 +3,76 @@
     "date": "2026-07-06",
     "section": "design",
     "title": {
+      "zh": "AI原生设计工具2026中盘：9款工具横评揭示行业共识——AI压缩执行不替代判断，$16-20/月的\"日用品化\"时代到来",
+      "en": "AI-Native Design Tools Mid-2026: 9-Tool Benchmark Reveals Industry Consensus — AI Compresses Execution, Not Judgment, as Tools Hit $16-20/mo Commodity Pricing"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma官方2026 AI工具指南：Figma Make定位\"prompt-to-code\"，设计师产出终点从设计稿推向可运行代码</strong> — Figma正式将AI代码生成能力作为设计工具核心卖点。Figma Make整合AI、设计、开发于一体，团队可以从想法到生产无需切换应用。这不是\"给Figma加个AI功能\"，而是重新定义设计师的交付物。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Figma: Top AI Tools for UX Designers 2026</a></small></li><li><strong>Toools.design深度横评9款AI UI/UX设计工具：Flowstep和UX Pilot领跑\"提示词生成完整用户旅程\"赛道</strong> — 价格带集中在$16-20/月（Figma Make $16, Banani $20, Magic Patterns ~$20, Motiff $20）。所有工具都提供代码导出（React/Tailwind/HTML），设计系统集成成为标配。AI设计工具正式进入\"日用品化\"阶段。<br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">Toools.design: 9 Best AI Tools for UI/UX Designers 2026</a></small></li><li><strong>Medium实测：5款AI原生设计工具的关键结论——\"AI原生\"与\"传统+AI\"正式分野</strong> — 作者只评测\"AI是产品核心而非附加功能\"的工具。结论明确：如果你期望AI替代核心设计思维，方向错了。AI原生工具的价值在于让设计师从提示词直接生成设计，但判断力和问题定义仍然不可替代。<br><small>来源：<a href=\"https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8\">Medium: 5 AI-Native UX Design Tools (2026)</a></small></li><li><strong>Designlab推出AI Prototyping Camp和Vibe Coding Camp：设计教育正式将AI工具纳入核心课程</strong> — 这家知名UX教育机构推出4天密集训练营，教设计师用AI设计、构建、交付产品。Vibe Coding Camp则教设计师用Cursor和Vercel等AI工具构建真实应用。信号：\"会用AI工具\"正在从加分项变成设计师基本功。<br><small>来源：<a href=\"https://designlab.com/blog/ai-in-ux-product-design-trends-2026\">Designlab: State of AI in UX & Product Design 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>这周我花时间看完了所有主流AI设计工具横评，一个清晰的图景浮现出来：<strong>2026年中，AI设计工具的\"定义之战\"已经结束。</strong></p><p>结论是什么？三个字：<strong>压缩执行。</strong>不是替代设计师，不是\"AI做设计\"，而是把已知方案的实现时间从小时级压缩到分钟级。所有认真的从业者——从Figma官方到Medium上的独立评测者——都在反复强调同一句话：\"AI不替代设计思维。\"这不是客套话，这是市场验证后的共识。</p><p>但让我兴奋的不是这个共识本身，而是它的<strong>经济学含义</strong>。当9款工具都在$16-20/月的价格带厮杀、都提供React/Tailwind代码导出、都支持设计系统集成时，<strong>工具层正在商品化</strong>。这意味着什么？设计师的竞争力不再来自\"我会用哪个工具\"（所有工具都在趋同），而是来自\"我能定义什么问题\"和\"我的审美判断力有多强\"。</p><p>Designlab推出Vibe Coding Camp是另一个重要信号：设计教育机构正在培养\"能独立交付产品的设计师\"。注意，不是\"能和开发协作的设计师\"，而是\"能独立交付的设计师\"。这两个定位之间有巨大的鸿沟。前者是优化协作流程，后者是消灭协作需求。</p><p>我的预测：到2026年底，能独立用AI工具从0到1交付一个完整产品的设计师，薪资溢价会达到30-50%。不是因为工具难学（$20/月谁都买得起），而是因为\"知道该做什么产品\"的判断力稀缺。工具民主化了，但品味没有。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma's official 2026 AI tools guide positions Figma Make as \"prompt-to-code\" — redefining designer deliverables</strong></li><li><strong>Toools.design benchmarks 9 AI UI/UX tools: $16-20/mo commodity pricing, React/Tailwind export standard</strong></li><li><strong>Medium review: AI-native vs AI-added tools formally diverge; consensus: AI compresses execution, not judgment</strong></li><li><strong>Designlab launches AI Prototyping Camp + Vibe Coding Camp: design education formally adopts AI tooling</strong></li></ul><h3>🧠 Rex's Take</h3><p>The \"definition war\" for AI design tools is over in mid-2026. Consensus: compress execution, don't replace thinking. The economic implication? With 9 tools fighting at $16-20/mo with identical feature sets, the tool layer is commoditizing. Designer competitiveness shifts from \"which tool\" to \"what problem\" and \"how strong is your taste.\" Designlab's Vibe Coding Camp signals a new target: designers who can ship independently, not just collaborate better. Prediction: by end of 2026, designers who can ship 0-to-1 products with AI tools will command 30-50% salary premiums—not because tools are hard, but because knowing what to build is scarce.</p>"
+    },
+    "sources": [
+      {
+        "title": "Top AI Tools for UX Designers in 2026 - Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": "9 Best AI Tools for UI/UX Designers in 2026 - Toools.design",
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bebf9c2f3d062871b3c4_best-ai-tools-ui-ux-designers-2026.webp"
+      },
+      {
+        "title": "5 AI-Native UX Design Tools Review (2026) - Medium",
+        "url": "https://medium.com/design-bootcamp/i-recently-reviewed-5-ai-native-ux-design-tools-in-50-minutes-2026-80f403db65f8",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*I2SmwRriBqqRQQZzrFjukQ.png"
+      },
+      {
+        "title": "The State of AI in UX & Product Design 2026 - Designlab",
+        "url": "https://designlab.com/blog/ai-in-ux-product-design-trends-2026",
+        "image": "https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/6a33147ace1b29848f6fcdfe_State%20of%20AI%20in%20UX%20%26%20Product%20Design_%202026.png"
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/3759579b2338ef96d586780800a7ed2ad6bbe28f-1440x720.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+  },
+  {
+    "date": "2026-07-06",
+    "section": "tech",
+    "title": {
+      "zh": "Together AI估值破$80亿、微软砸$25亿成立\"模型选择\"公司——当企业开始反抗\"token税\"，开源AI的商业闭环终于成立",
+      "en": "Together AI Hits $8B, Microsoft Spends $2.5B on Model Selection Company — As Enterprises Rebel Against \"Token Tax,\" Open-Source AI's Business Model Finally Clicks"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>NYT独家：Together AI新融资估值超$80亿，\"反token-maxxing\"运动正在企业界蔓延</strong> — 纽约时报Dealbook 7月1日报道：两个趋势正在交汇重塑AI产业——企业开始抵制闭源API的高昂成本（\"token-maxxing\"），同时中国开源模型证明了接近前沿的能力可以免费获取。Together AI创始人Vipul Ved Prakash将此视为\"机会窗口\"：企业正在寻找降本增效的开源替代方案，而Together AI提供的正是运行开源模型的基础设施。<br><small>来源：<a href=\"https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html\">NYT Dealbook: Together AI Funding</a></small></li><li><strong>微软成立Frontier Company，投入$25亿帮企业选择最优AI模型</strong> — 7月2日，微软宣布成立独立子公司Frontier Company，定位\"帮企业在众多AI模型中选择最佳方案并最大化ROI\"。这是微软对\"模型爆炸时代\"的战略回应：当市场上有GPT、Claude、GLM、Mistral等数十个前沿模型时，企业最大的痛点不再是\"有没有好模型\"，而是\"该用哪个\"。<br><small>来源：<a href=\"https://techstartups.com/2026/07/02/microsoft-launches-frontier-company-with-2-5b-to-help-enterprises-choose-the-best-ai-models-and-maximize-roi/\">TechStartups: Microsoft Frontier Company</a></small></li><li><strong>CRN盘点2026上半年最热AI创业公司：科技巨头高管集体\"下海\"</strong> — Anthropic、Mistral AI、Together AI、Cognition领跑AI创业赛道。最引人注目的是：前AWS CEO Adam Selipsky创立Helix Digital，Jeff Bezos创立Prometheus。当这些\"见过全貌\"的人选择创业而非留在大公司，说明他们判断AI的真正价值还没有被大公司充分捕获。<br><small>来源：<a href=\"https://www.crn.com/news/ai/2026/the-10-hottest-ai-startups-of-2026-so-far\">CRN: 10 Hottest AI Startups 2026</a></small></li><li><strong>Anthropic推出Claude Science药物发现计划：AI从通用对话走向垂直行业</strong> — CNBC报道Anthropic正式进入生命科学领域。AI大模型公司的下一个增长故事不再是\"更大的模型\"，而是\"更深的行业应用\"。<br><small>来源：<a href=\"https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html\">CNBC: Anthropic Claude Science</a></small></li></ul><h3>🧠 Rex's Take</h3><p>本周最重要的信号不是任何单条新闻，而是三条新闻放在一起形成的<strong>闭环叙事</strong>：Together AI估值$80亿（开源基础设施有钱赚）+ 微软成立Frontier Company（模型选择是企业级痛点）+ 科技巨头高管集体创业（大公司无法捕获全部价值）。</p><p>让我把这个逻辑链展开：</p><p><strong>第一幕：企业的\"token觉醒\"。</strong>过去两年，企业疯狂调用OpenAI和Anthropic的API，月账单从几千美元涨到几十万美元。NYT用了一个精准的词——\"token-maxxing\"。现在CFO们开始问：我们真的需要Opus 4.8来回答客服问题吗？GLM-5.2免费，效果差不了多少。这不是技术决策，这是财务纪律的回归。</p><p><strong>第二幕：微软的\"中间商\"押注。</strong>微软成立Frontier Company的逻辑极其聪明：当模型层商品化时，价值会向两端迁移——要么你做最好的模型（Anthropic/OpenAI），要么你做\"帮别人选模型\"的中间层。微软选了后者。这和AWS的逻辑一模一样：不自己生产内容，而是成为内容流通的基础设施。$25亿的投入说明微软认为这是一个巨大市场。</p><p><strong>第三幕：人才信号。</strong>Adam Selipsky（掌管过AWS数百亿营收）和Jeff Bezos（需要介绍吗？）选择创业而非留在大公司。这些人见过AI产业的全貌，他们的判断是：<strong>最大的价值创造还没有发生，而且不会发生在现有大公司内部。</strong>这是比任何市场分析都更有说服力的信号。</p><p>结合上周GLM-5.2的故事，我看到一个清晰趋势：<strong>2026下半年的AI产业关键词是\"去中心化\"</strong>——模型开源化、供应商多元化、应用垂直化。赢家不是\"最强模型\"的拥有者，而是能在这个去中心化生态中创造连接和效率的人。Together AI、Frontier Company、甚至Anthropic的Claude Science，本质上都在做同一件事：在模型商品化的世界里寻找新的价值锚点。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>NYT: Together AI raises at $8B+ as \"anti-token-maxxing\" movement spreads</strong> — Enterprises rebelling against closed-source API costs + Chinese open-source models proving near-frontier capability = Together AI's infrastructure moment.</li><li><strong>Microsoft launches Frontier Company with $2.5B to help enterprises choose AI models</strong> — When model explosion creates \"choice paralysis,\" Microsoft bets on the middleware layer.</li><li><strong>CRN: Tech giants' ex-CEOs go startup — Selipsky (Helix Digital), Bezos (Prometheus)</strong> — When people who've \"seen everything\" choose startups, they're betting the biggest value creation hasn't happened yet.</li><li><strong>Anthropic launches Claude Science for drug discovery</strong> — AI companies' next growth story: deeper verticals, not bigger models.</li></ul><h3>🧠 Rex's Take</h3><p>Three stories form a closed loop: Together AI $8B (open-source infra is profitable) + Microsoft Frontier Company (model selection is enterprise pain) + tech giants going startup (big cos can't capture all value). The narrative: enterprises are experiencing \"token awakening\" — CFOs asking if they need Opus 4.8 for customer service when GLM-5.2 is free. Microsoft's bet is classic middleware: when the model layer commoditizes, value migrates to selection/orchestration. The talent signal (Selipsky, Bezos choosing startups) says: the biggest value creation hasn't happened yet, and won't happen inside incumbents. 2026 H2 keyword: decentralization — open models, multi-vendor, vertical apps. Winners aren't model owners but ecosystem connectors.</p>"
+    },
+    "sources": [
+      {
+        "title": "As Companies Race for Cheaper A.I. Options, This Start-Up Pitches Open Source - NYT",
+        "url": "https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html",
+        "image": ""
+      },
+      {
+        "title": "Microsoft Launches Frontier Company with $2.5B - TechStartups",
+        "url": "https://techstartups.com/2026/07/02/microsoft-launches-frontier-company-with-2-5b-to-help-enterprises-choose-the-best-ai-models-and-maximize-roi/",
+        "image": "https://techstartups.com/wp-content/uploads/2025/03/Microsoft-CEO.jpg"
+      },
+      {
+        "title": "The 10 Hottest AI Startups of 2026 (So Far) - CRN",
+        "url": "https://www.crn.com/news/ai/2026/the-10-hottest-ai-startups-of-2026-so-far",
+        "image": "https://www.crn.com/news/ai/2026/media_1e829096f1fc0e1bab6974d1ed40482bd5cab0c63.jpg?width=1200&#x26;format=pjpg&#x26;optimize=medium"
+      },
+      {
+        "title": "Anthropic Launches AI Drug Discovery Program Claude Science - CNBC",
+        "url": "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html",
+        "image": ""
+      }
+    ],
+    "cover": "https://techstartups.com/wp-content/uploads/2025/03/Microsoft-CEO.jpg"
+  },
+  {
+    "date": "2026-07-06",
+    "section": "design",
+    "title": {
       "zh": "AI设计工具生态成熟分化：Figma Make主攻原型，Lovable称霸全栈——\"Design-to-Code\"不再是口号，而是两条截然不同的产品路径",
       "en": "AI Design Tool Ecosystem Matures: Figma Make Owns Prototyping, Lovable Dominates Full-Stack — Design-to-Code Splits Into Two Distinct Product Paths"
     },
