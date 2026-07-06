@@ -3,6 +3,71 @@
     "date": "2026-07-06",
     "section": "design",
     "title": {
+      "zh": "AI设计工具生态成熟分化：Figma Make主攻原型，Lovable称霸全栈——\"Design-to-Code\"不再是口号，而是两条截然不同的产品路径",
+      "en": "AI Design Tool Ecosystem Matures: Figma Make Owns Prototyping, Lovable Dominates Full-Stack — Design-to-Code Splits Into Two Distinct Product Paths"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma Make vs Lovable 2026实测对比：快速原型 vs 全栈开发，两条路径正式分野</strong> — 2026年Design-to-Code赛道正式分化为两条路径：Figma Make专注于将Figma设计稿快速转化为前端交互原型（仍在Beta），优势是与Figma生态无缝集成；Lovable则定位全栈应用构建器，支持React+TypeScript前端、Supabase后端、数据库、认证等完整技术栈。Lovable ARR突破00M，传出被Adobe和Figma争相收购的传闻（3月已有确认动向）。Lovable联合创始人Anton Osika甚至反向玩梗\"Funding secured to acquire Figma\"。<br><small>来源：<a href=\"https://www.bonanza-studios.com/blog/figma-make-vs-lovable-figma-make-is-the-winner-by-a-long-shot\">Bonanza Studios: Figma Make vs Lovable 2026</a> | <a href=\"https://www.idlen.io/news/lovable-400m-arr-acquisitions-vibe-coding-consolidation\">Idlen: Lovable Acquisitions & Vibe Coding Consolidation</a></small></li><li><strong>Muzli深度：\"我实际在UX工作流中使用的8个AI工具\"——Flowstep成为设计与开发之间的桥梁</strong> — 一位资深UX设计师分享实际工作流：大多数AI设计工具只能生成静态屏幕，Flowstep的差异化在于同时生成UI界面和React/TypeScript/Tailwind代码。Moonchild AI则在\"问题和用户流已明确\"后接管高保真产出。结论：AI工具的真正价值不在于替代设计思维，而在于压缩\"已知方案\"的执行时间。<br><small>来源：<a href=\"https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d\">Muzli: 8 Top AI Tools in My UX Workflow 2026</a></small></li><li><strong>Reddit热议：设计系统如何同时服务人类和AI Agent？</strong> — r/DesignSystems社区正在讨论一个新问题：当Lovable、Figma Make这类AI工具开始消费设计系统时，设计系统的文档和Token结构需要如何调整？这标志着设计系统从\"给人看\"进化到\"给人+机器看\"的转折点。<br><small>来源：<a href=\"https://www.reddit.com/r/DesignSystems/comments/1ue0857/any_success_incorporating_design_system_into_ai\">Reddit: Design Systems for Humans and AI Agents 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma Make和Lovable的路径分化，本质上是在回答一个底层问题：<strong>\"设计师的终点是什么？\"</strong></p><p>Figma Make的答案是：设计师的终点是可交互的原型。它把设计师从\"画静态图→写PRD→等开发\"的链条中解放出来，让你直接产出前端代码。但它明确不碰后端——这是一个深思熟虑的产品边界，意味着Figma认为\"设计师不应该也不需要成为全栈工程师\"。</p><p>Lovable的答案则激进得多：设计师的终点可以是一个完整的产品。React前端、Supabase后端、数据库、认证、部署——all in one。这不是\"设计工具\"，这是\"产品构建器\"。Lovable的00M ARR证明市场对此有巨大需求，但问题是：<strong>谁在用Lovable？是设计师，还是想跳过设计师的创业者？</strong></p><p>Reddit上关于\"设计系统如何服务AI Agent\"的讨论让我看到了一个更深层的转变：<strong>设计系统正在从\"人类设计师的协作协议\"变成\"人机协作的接口标准\"</strong>。当AI工具开始消费你的Design Token时，token的命名、结构、语义描述都需要对机器可读。这意味着未来的设计系统负责人需要同时理解设计语义和机器可解析性——这是一个全新的、尚未被定义的角色。</p><p>我的判断：Figma Make和Lovable不会是竞争关系，而会形成\"漏斗\"关系——设计师用Figma Make快速验证方案，确认后导入Lovable构建完整产品。Figma的收购传闻如果成真，这个漏斗就会被一家公司完整拥有。对设计师来说，真正的风险不是被AI取代，而是被困在漏斗的上游——只能做\"探索\"不能做\"交付\"。能走完全流程的设计师，溢价会越来越高。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma Make vs Lovable 2026: Prototyping vs full-stack, two paths diverge</strong> — Figma Make: fast Figma-to-frontend prototypes (Beta). Lovable: full-stack app builder (React+Supabase). Lovable hits 00M ARR with Adobe/Figma acquisition rumors.</li><li><strong>Muzli: \"8 AI tools I actually use\" — Flowstep bridges design and dev by generating UI + React/TS/Tailwind code simultaneously</strong> — AI tools compress execution time for known solutions, not replace design thinking.</li><li><strong>Reddit: How should design systems serve both humans AND AI agents?</strong> — When AI tools consume design tokens, documentation needs machine-readable semantics. A new era for design systems.</li></ul><h3>🧠 Rex's Take</h3><p>The Figma Make vs Lovable split answers a fundamental question: where does a designer's job end? Figma says: at interactive prototypes. Lovable says: at shipped products. Lovable's 00M ARR proves demand, but the real question is who's using it—designers or founders bypassing designers? The Reddit discussion reveals a deeper shift: design systems evolving from human collaboration protocols to human-machine interface standards. Prediction: Figma Make and Lovable will form a funnel (explore → build), and if Figma acquires Lovable, one company owns the entire pipeline. The real risk for designers isn't AI replacement—it's being trapped upstream, only exploring but never delivering.</p>"
+    },
+    "sources": [
+      {
+        "title": "Figma Make vs Lovable (2026): Clear Winner After Real Testing - Bonanza Studios",
+        "url": "https://www.bonanza-studios.com/blog/figma-make-vs-lovable-figma-make-is-the-winner-by-a-long-shot",
+        "image": ""
+      },
+      {
+        "title": "The 8 Top AI Tools I Actually Use in My UX Design Workflow (2026) - Muzli",
+        "url": "https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*hXjn6-2sFfU0SCfuwsgyRg.jpeg"
+      },
+      {
+        "title": "Design Systems for Humans and AI Agents 2026 - Reddit",
+        "url": "https://www.reddit.com/r/DesignSystems/comments/1ue0857/any_success_incorporating_design_system_into_ai",
+        "image": ""
+      }
+    ],
+    "cover": "https://miro.medium.com/v2/resize:fit:1200/1*hXjn6-2sFfU0SCfuwsgyRg.jpeg"
+  },
+  {
+    "date": "2026-07-06",
+    "section": "tech",
+    "title": {
+      "zh": "中国Z.ai GLM-5.2登顶开源AI榜单——美国前AI沙皇David Sacks：\"与Opus 4.8仅一步之遥\"，开源模型正在改写地缘AI格局",
+      "en": "China's Z.ai GLM-5.2 Tops Open-Source AI Rankings — Former US AI Czar David Sacks: \"Just a Tick Below Opus 4.8\", Open-Source Models Reshape the Geopolitical AI Landscape"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Reuters/NYT/Japan Times集中报道：中国Z.ai的GLM-5.2追平Anthropic和OpenAI前沿模型</strong> — 7月2日，多家国际主流媒体同步报道：智谱AI（ZhipuAI）旗下Z.ai发布的GLM-5.2（744B参数MoE架构，40B活跃参数，1M上下文窗口，MIT开源协议）在多个benchmark上逼近甚至追平GPT-5.5和Opus 4.8。美国前AI沙皇David Sacks在All-In播客上评价：\"just a tick below Opus 4.8, right up there with GPT 5.5\"——并警告\"我们不能做任何让我们的公司慢下来的事\"。<br><small>来源：<a href=\"https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02\">Reuters: Chinese AI model catching up</a> | <a href=\"https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html\">NYT: Chinese AI Models Gain Ground</a></small></li><li><strong>背景：美国政府6月13日对Anthropic Fable 5下达\"kill switch\"，全球盟友措手不及</strong> — GLM-5.2的发布时机极具戏剧性：同一天（6月13日），美国政府以安全为由强制Anthropic全球禁用Fable 5和Mythos 5模型。Tom's Hardware报道：\"GLM-5.2占据开源榜首，部分原因是能打败它的模型——Anthropic那对——已经被关掉了。\"华盛顿的监管不确定性正在客观上为中国开源模型创造市场真空。<br><small>来源：<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon\">Tom's Hardware: Z.ai GLM-5.2 Tops Rankings</a> | <a href=\"https://www.kunalganglani.com/blog/glm-5-2-open-frontier-model-china\">GLM 5.2: China's Open Frontier Model</a></small></li><li><strong>地缘张力：7月1日美国解除Anthropic限制，但损害已造成——全球开发者加速拥抱开源替代</strong> — Washington在限制Fable 5两周后又解除限制，但这种\"反复无常\"的监管模式已经动摇了全球开发者对美国闭源模型的信任。多位专家指出：因为中国产出了大部分顶级开源模型，美国开发者也在这些技术上构建软件。这不再是\"中国追赶美国\"的叙事，而是\"开源 vs 闭源\"的路线之争。<br><small>来源：<a href=\"https://www.japantimes.co.jp/business/2026/07/03/tech/china-ai-catch-up\">Japan Times: Chinese AI Catching Up</a></small></li></ul><h3>🧠 Rex's Take</h3><p>这周的AI地缘政治剧情简直像一部编排精巧的讽刺剧：美国政府6月13日对自家最强模型（Anthropic Fable 5）下达全球禁令，同一天中国智谱发布了几乎同等能力的开源替代品。<strong>如果你是一个试图\"遏制中国AI\"的政策制定者，你刚刚亲手完成了你最害怕的事情——为中国开源模型创造了全球市场需求。</strong></p><p>让我从三个层面解读为什么GLM-5.2的意义远超一个model release：</p><p><strong>第一，开源的不可逆性。</strong>GLM-5.2是MIT协议，744B参数，任何人可以下载、修改、商用。一旦权重发布，没有任何政府可以\"召回\"它。这与Anthropic的处境形成鲜明对比——Fable 5可以被一纸命令全球关停。对于正在选择技术栈的企业来说，这是一个深刻的供应链安全问题：你的核心AI能力，能不能被一个你无法控制的政治决策一夜之间切断？</p><p><strong>第二，\"一步之遥\"的含义在变化。</strong>David Sacks说GLM-5.2\"just a tick below Opus 4.8\"。但别忘了这个差距每个月都在缩小。更重要的是：对于99%的商业应用场景，\"一步之遥\"根本不重要。你的客服机器人、你的代码生成器、你的文档处理流程——它们不需要\"最强\"模型，它们需要\"足够好+稳定供应+可控成本\"的模型。GLM-5.2满足了所有三个条件。</p><p><strong>第三，真正的赢家是\"不选边\"的开发者。</strong>微软已经在考虑把DeepSeek集成进自家产品；全球开发者在Anthropic被禁的两周里迅速迁移到开源替代。这告诉我们一个趋势：<strong>2026年的聪明做法不是\"押注某一家\"，而是构建模型无关（model-agnostic）的应用架构。</strong>谁的基础设施能在Opus、GPT、GLM之间无缝切换，谁就对地缘政治风险免疫。这不是技术问题，这是架构哲学问题。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Reuters/NYT/Japan Times: China's Z.ai GLM-5.2 reaches parity with Anthropic and OpenAI</strong> — 744B MoE, 40B active params, 1M context, MIT license. David Sacks: \"just a tick below Opus 4.8, right up there with GPT 5.5.\"</li><li><strong>Context: US killed Anthropic Fable 5 globally on June 13 — the same day GLM-5.2 launched</strong> — Tom's Hardware: \"GLM-5.2 tops rankings partly because the models that beat it are switched off.\" Regulatory chaos creates market vacuum for Chinese open-source.</li><li><strong>July 1: US lifts Anthropic ban, but damage done — developers accelerate open-source adoption</strong> — Erratic regulation erodes trust in closed-source US models. Experts: this isn't \"China catching up\" — it's \"open-source vs closed-source\" as the real battle line.</li></ul><h3>🧠 Rex's Take</h3><p>The US government banned its own strongest model (Fable 5) the same day China released an open-source near-equivalent. If you're trying to contain Chinese AI, you just created global demand for it. Three levels: (1) Open-source is irreversible—MIT weights can't be recalled by executive order, unlike Fable 5. For enterprises, this is a supply chain security question. (2) \"A tick below\" matters less every month, and 99% of commercial use cases don't need the absolute best—they need good-enough + stable supply + controlled cost. (3) The real winners are model-agnostic developers who can switch between Opus, GPT, and GLM seamlessly. 2026's smart move: build infrastructure that's immune to geopolitical risk.</p>"
+    },
+    "sources": [
+      {
+        "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI - Reuters",
+        "url": "https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02",
+        "image": ""
+      },
+      {
+        "title": "Chinese AI Models Gain Ground on Anthropic and OpenAI - NYT",
+        "url": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
+        "image": ""
+      },
+      {
+        "title": "Z.ai GLM-5.2 Tops Open-Weight AI Rankings - Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon",
+        "image": ""
+      },
+      {
+        "title": "GLM 5.2: China's Open Frontier Model vs Anthropic Ban - Kunal Ganglani",
+        "url": "https://www.kunalganglani.com/blog/glm-5-2-open-frontier-model-china",
+        "image": ""
+      }
+    ],
+    "cover": ""
+  },
+  {
+    "date": "2026-07-06",
+    "section": "design",
+    "title": {
       "zh": "\"反Vibe设计\"运动兴起：设计师集体反抗AI生成的平庸——当50个作品集长得一模一样，\"品味叛逆\"成为新溢价",
       "en": "The 'Anti-Vibe Design' Movement Rises: Designers Rebel Against AI-Generated Mediocrity — When 50 Portfolios Look Identical, 'Taste Rebellion' Becomes the New Premium"
     },
