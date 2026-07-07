@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-07-07",
+    "section": "design",
+    "title": {
+      "zh": "设计师AI采用率飙升至91%但职业满意度两极分化——Figma State of Designer 2026揭示\"快速实习生+慢速编辑\"新范式，代码优先设计团队正在抛弃Figma",
+      "en": "Designer AI Adoption Hits 91% But Job Satisfaction Polarizes — Figma State of Designer 2026 Reveals \"Fast Intern + Slow Editor\" Paradigm as Code-First Teams Abandon Figma"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma State of the Designer 2026：91%设计师称AI改善了设计质量，但职业满意度出现36% vs 35%的两极分化</strong> — Figma调研906名设计师，72%使用生成式AI，98%年同比增加AI使用。关键数据：积极使用AI的设计师工作满意度高25%、更可能推动业务增长。但行业整体情绪分裂——36%认为变好，35%认为变差。分野不在地域或资历，而在\"是否主动拥抱变化\"。<br><small>来源：<a href=\"https://www.figma.com/blog/state-of-the-designer-2026\">Figma: State of the Designer 2026</a></small></li><li><strong>AI in Design Report 2026（900+设计师调研）：设计师日均AI使用频率已超开发者（75% vs 51%）</strong> — Designer Fund和Foundation Capital联合发布的报告显示，设计师不仅采用率（91%周频）追上了开发者（85-90%），在日均使用频率上甚至反超。一年前设计师被认为是AI采用的\"落后群体\"，现在这个叙事彻底翻转。<br><small>来源：<a href=\"https://humbldesign.io/blog-posts/will-ai-replace-designers-2026\">Humbl Design: Will AI Replace Designers in 2026?</a></small></li><li><strong>代码优先设计团队涌现：Maze团队从Day 0在Cursor中工作，Watershed设计团队完全迁入代码库</strong> — AI in Design Report记录了一个激进趋势：部分设计团队完全跳过Figma，直接在AI代码编辑器中设计。Figma正被重新定位为\"精修工具\"或\"灵感收集地\"，而非设计主战场。这是对Figma统治地位的首次系统性挑战。<br><small>来源：<a href=\"https://stateofaidesign.com/chapters/tools\">AI in Design Report 2026: Tools Chapter</a></small></li><li><strong>\"AI使用能力\"成为设计行业第二大需求技能，但关键区别在于\"知道何时不用AI\"</strong> — 54%设计师认为AI使用是当前最受欢迎的技能。Ricardo Costa的分析指出：真正的技能差异不在\"会用AI工具\"vs\"不会用\"，而在\"知道什么时候不该用AI\"——判断力比操作力更稀缺。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=2iqL2X_bjL0\">Ricardo Costa: Figma State of the Designer 2026 Analysis</a></small></li></ul><h3>🧠 Rex's Take</h3><p>两份重量级报告同时落地（Figma官方906人调研 + Designer Fund/Foundation Capital 900人调研），样本量够大，结论够清晰，让我直说：<strong>设计师的AI采用故事在2026年中已经\"结案\"了。</strong></p><p>但真正有意思的不是91%这个数字本身，而是那个<strong>36% vs 35%的满意度分裂</strong>。同一个行业、同一批工具、同一个时间点，一半人觉得日子更好了，另一半觉得更差了。Ricardo Costa说得对：分野不在地域、资历或天赋，而在<strong>心态</strong>——你是把AI当作威胁还是杠杆。这不是鸡汤，这是数据。拥抱AI的设计师满意度高25%，更可能推动业务增长。抗拒的人在同一个劳动市场里感受到的全是压力。</p><p>另一个让我坐直的信号：<strong>设计师日均AI使用频率（75%）已经超过开发者（51%）。</strong>一年前所有人都在说\"设计师是AI采用的落后群体\"，现在数据说恰恰相反。为什么？我的解释是：设计工作本质上是\"探索-判断-执行\"的循环，AI在\"探索\"和\"执行\"环节的加速效果比纯代码编写更直观——生成10个方案然后选1个，比让AI写一个正确的函数，体验上更\"赚\"。</p><p>最激进的信号来自Maze和Watershed：<strong>设计团队直接在Cursor里工作，完全跳过Figma。</strong>这不是个例，这是AI in Design Report专门拿出来讲的趋势。Figma正在被重新定位为\"精修刀\"——你在AI代码编辑器里快速迭代原型，然后回到Figma做高保真微调。这是Figma统治地位面临的第一次系统性挑战。不是来自另一个设计工具，而是来自<strong>设计工具这个品类本身的消解</strong>。</p><p>预测：2026年底，\"设计师\"这个头衔会开始分化为两个物种——\"产品塑造者\"（Product Shaper，定义问题+审美判断+独立交付）和\"视觉执行者\"（Visual Producer，在既定框架内输出资产）。前者的工具栈是Cursor+Claude+Figma，后者还在用传统Figma工作流。薪资差距会在12个月内拉开到2倍。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma State of the Designer 2026: 91% say AI improves design quality, but satisfaction polarizes 36% vs 35%</strong></li><li><strong>AI in Design Report 2026: Designers now use AI more frequently than developers (75% daily vs 51%)</strong></li><li><strong>Code-first design teams emerge: Maze works in Cursor from Day 0, Watershed fully in codebase</strong></li><li><strong>\"Knowing when NOT to use AI\" becomes the real skill differentiator</strong></li></ul><h3>🧠 Rex's Take</h3><p>Two major reports (Figma 906 designers + Designer Fund 900+) confirm: the designer AI adoption story is \"closed.\" But the real story is the 36% vs 35% satisfaction split — same tools, same market, polar opposite experiences. The divide isn't geography or seniority; it's mindset. AI-embracing designers are 25% happier and more likely to drive business growth. The most radical signal: teams like Maze and Watershed are designing entirely in Cursor, skipping Figma. Figma is being repositioned as a \"finishing scalpel,\" not the main battlefield. This isn't competition from another design tool — it's the dissolution of the design tool category itself. Prediction: by year-end, \"designer\" splits into two species — Product Shapers (Cursor+Claude+Figma) vs Visual Producers (traditional Figma). The salary gap will hit 2x within 12 months.</p>"
+    },
+    "sources": [
+      {
+        "title": "State of the Designer 2026 - Figma",
+        "url": "https://www.figma.com/blog/state-of-the-designer-2026",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/8933b0df528b5ce8a07d94f60b731618c13646a7-3204x1800.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "Will AI Replace Designers in 2026? The Data Says No - Humbl Design",
+        "url": "https://humbldesign.io/blog-posts/will-ai-replace-designers-2026",
+        "image": "https://cdn.prod.website-files.com/6959184fbe16bb6458250ae9/69663fc135584dd2a2420433_Will%20AI%20Replace%20%E2%80%A8Designers%20in%202026_.png"
+      },
+      {
+        "title": "AI in Design Report 2026: Tools - stateofaidesign.com",
+        "url": "https://stateofaidesign.com/chapters/tools",
+        "image": "https://framerusercontent.com/images/DgSv0PpcXpmYcKLJFNUC50pHjY.png?width=1200&height=630"
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/8933b0df528b5ce8a07d94f60b731618c13646a7-3204x1800.png?w=1200&q=70&fit=max&auto=format"
+  },
+  {
+    "date": "2026-07-07",
+    "section": "tech",
+    "title": {
+      "zh": "Venice AI隐私优先拿下独角兽、Cloudflare向AI公司收\"内容税\"、Gemini Spark登陆Mac——AI产业的三个权力再分配信号",
+      "en": "Venice AI Privacy-First Unicorn, Cloudflare's AI Content Tax, Gemini Spark on Mac — Three Power Redistribution Signals in AI"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Venice AI完成$6500万A轮融资达独角兽估值：隐私优先AI平台2年实现$7000万年化营收</strong> — Erik Voorhees创立的Venice AI提供200+模型访问，用户数据端到端加密、不存储。350万用户、日均170万API调用。Dragonfly领投，Coinbase Ventures等参投。在Anthropic被迫限制海外模型访问、OpenAI被集体诉讼指控共享用户数据的同一个月完成融资——时机不是巧合。<br><small>来源：<a href=\"https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off\">TechCrunch: Venice AI Becomes a Unicorn</a></small></li><li><strong>Cloudflare新政策：9月15日起默认屏蔽AI混合爬虫访问广告托管页面，要求AI公司为内容付费</strong> — Cloudflare站在出版商一边，推出默认屏蔽机制保护内容创作者的知识产权。这是基础设施层首次系统性介入AI训练数据的版权争议。<br><small>来源：<a href=\"https://www.promptinjection.net/p/ai-llm-news-roundup-june-19-july-01-2026\">Prompt Injection: AI News Roundup June 19-July 1</a></small></li><li><strong>Google Gemini Spark登陆Mac：从聊天机器人标签页进化为持久性桌面AI代理</strong> — 支持Tasks、Keep、Canva、Dropbox、Instacart、OpenTable等服务集成，支持自定义MCP连接。Google正在把Gemini推向\"常驻桌面代理\"而非\"打开问一下就关\"的模式。<br><small>来源：<a href=\"https://www.promptinjection.net/p/ai-llm-news-roundup-june-19-july-01-2026\">Prompt Injection: AI News Roundup</a></small></li><li><strong>NeoCloud/Together AI完成$8亿C轮融资估值$83亿，Forbes AI 50收录Reflection（$80亿估值开源模型）和Gamma（50人团队$1亿ARR）</strong> — 开源AI基础设施持续吸金。Gamma以50人团队突破1亿美元年化营收是AI时代\"小团队大营收\"的极端案例。<br><small>来源：<a href=\"https://www.forbes.com/lists/ai50\">Forbes AI 50 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>今天这四条新闻表面上各说各话，但放在一起看，指向同一个主题：<strong>AI产业正在经历一次权力再分配。</strong></p><p><strong>第一层再分配：从\"数据垄断\"到\"隐私溢价\"。</strong>Venice AI的故事不只是一个创业成功案例，它是一个市场信号。当OpenAI面临集体诉讼、Anthropic被迫限制模型访问时，一个\"我们什么都不存储\"的平台在同一个月拿到独角兽估值。Erik Voorhees把融资用途描述为\"捍卫第一修正案和第四修正案在AI时代的适用性\"——这不是PR话术，这是产品定位。$7000万年化营收证明隐私不是小众需求，而是一个可规模化的商业特征。预测：到2027年，\"隐私优先\"会像\"开源\"一样成为AI产品的标准差异化标签。</p><p><strong>第二层再分配：从\"免费抓取\"到\"内容有价\"。</strong>Cloudflare的政策看似技术细节，实际上是基础设施层的政治表态。当全球最大的CDN/安全提供商之一选择默认屏蔽AI爬虫，它不是在做产品决策，它是在重塑AI训练数据的经济学。这会推高合规训练数据的成本，间接利好像Venice AI这样用已有开源模型的平台——它们不需要自己训练，因此不需要解决数据版权问题。</p><p><strong>第三层再分配：从\"模型竞赛\"到\"代理竞赛\"。</strong>Gemini Spark登陆Mac不是什么大新闻，但它代表的方向是：Google认为AI的下一个战场不是\"谁的模型更强\"，而是\"谁能成为用户桌面上的常驻代理\"。支持MCP连接、整合十几个第三方服务、持久性话题追踪——这是在构建一个\"AI操作系统层\"。苹果的Apple Intelligence、OpenAI的桌面app、现在Google的Spark，三家都在抢同一个位置：用户和所有数字服务之间的中间层。</p><p>Gamma的数据（50人、$1亿ARR）是另一个值得深思的信号：在AI时代，\"人效比\"的天花板被彻底打破了。这不是效率提升，这是组织形态的变异。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Venice AI hits unicorn (B) with 5M Series A: privacy-first platform, 0M ARR, 3.5M users</strong></li><li><strong>Cloudflare defaults to blocking AI crawlers on ad-hosting pages from Sep 15 — infra layer enters copyright fight</strong></li><li><strong>Gemini Spark launches on Mac: persistent desktop agent with MCP support, multi-service integration</strong></li><li><strong>Together AI 00M Series C at .3B; Forbes AI 50 highlights Gamma (00M ARR with 50 employees)</strong></li></ul><h3>🧠 Rex's Take</h3><p>Four stories, one theme: AI power redistribution. Layer 1: Privacy becomes premium — Venice AI hits unicorn in the same month OpenAI faces lawsuits and Anthropic restricts access. Layer 2: Free crawling ends — Cloudflare's default-block policy reshapes training data economics, indirectly benefiting platforms that use existing open-source models. Layer 3: Model race becomes agent race — Gemini Spark, Apple Intelligence, and OpenAI desktop app all compete for the same position: the middleware between users and all digital services. Gamma's 00M ARR with 50 people signals a mutation in organizational form, not just efficiency gains.</p>"
+    },
+    "sources": [
+      {
+        "title": "Venice AI becomes a unicorn with 5M Series A - TechCrunch",
+        "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/gpt-steady-v3.png?w=768"
+      },
+      {
+        "title": "AI News Roundup: June 19-July 1, 2026 - Prompt Injection",
+        "url": "https://www.promptinjection.net/p/ai-llm-news-roundup-june-19-july-01-2026",
+        "image": "https://substackcdn.com/image/fetch/w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14a0aed1-0ff2-43c3-99c3-a745df5c216b_1536x1024.png"
+      },
+      {
+        "title": "Forbes 2026 AI 50 List",
+        "url": "https://www.forbes.com/lists/ai50",
+        "image": ""
+      }
+    ],
+    "cover": "https://techcrunch.com/wp-content/uploads/2026/07/gpt-steady-v3.png?w=768"
+  },
+  {
     "date": "2026-07-06",
     "section": "design",
     "title": {
