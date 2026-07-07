@@ -3,6 +3,76 @@
     "date": "2026-07-07",
     "section": "design",
     "title": {
+      "zh": "\"UX设计师→UX工程师\"转型加速：Figma Make、Flowstep、Moonchild三足鼎立，AI原生设计工具正在消灭\"只画图不写码\"的设计师",
+      "en": "UX Designer → UX Engineer Shift Accelerates: Figma Make, Flowstep, and Moonchild Create a New Triad as AI-Native Tools Eliminate Design-Only Workflows"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>\"从UX设计师到UX工程师\"——2026年设计师生存法则发生根本转变</strong> — UX Planet的深度分析指出：2026年真正成功的设计师不再是\"画漂亮Figma文件\"的人，而是理解结构、逻辑、系统、交互和实现的人。设计师正在从\"mockup制造者\"进化为\"能独立交付产品的工程师\"。<br><small>来源：<a href=\"https://uxplanet.org/ai-tools-designers-should-stick-with-in-2026-49fe5131d345\">UX Planet: AI Tools Designers Should Stick With in 2026</a></small></li><li><strong>Figma Make确立AI设计主战场地位：prompt-to-code + 设计系统集成 + 实时协作</strong> — Figma官方将Make定位为\"把AI、设计、开发工具合为一体\"的平台。设计师用自然语言描述界面，Make生成完整UI并附带React/TypeScript代码。Aliena Cai的教程展示了如何在Double Diamond流程的每个阶段使用AI——从研究到交付。<br><small>来源：<a href=\"https://www.figma.com/resource-library/ai-tools-for-ux-designers\">Figma: Top AI Tools for UX Designers in 2026</a></small></li><li><strong>Flowstep：填补\"设计到开发\"最后一公里的AI原生工具</strong> — 不同于只生成静态画面的工具，Flowstep同时产出UI界面和React/TypeScript/Tailwind代码。定价$15/月，支持无限画布和Figma直接粘贴（无需插件）。在实际产品团队中快速获得采用。<br><small>来源：<a href=\"https://flowstep.ai/blog/ai-design-assistant\">Flowstep: 8 Best AI Design Assistant Tools in 2026</a></small></li><li><strong>Google Stitch免费入场：Gemini驱动的AI UI生成器直接挑战Figma</strong> — Google推出免费AI设计工具Stitch，支持文字描述生成完整UI、生成3个设计变体、导出到Figma。虽然目前精细度不如Figma Make，但\"免费+Gemini加持\"的组合对独立设计师极具吸引力。<br><small>来源：<a href=\"https://safiullahkorai.substack.com/p/stitch-vs-figma-is-ai-replacing-uiux\">Stitch vs Figma: Is AI Replacing UI/UX Designers in 2026?</a></small></li><li><strong>Moonchild AI：从产品简报直接生成多屏设计流程</strong> — 定位为\"问题和流程已经清晰后\"的最佳搭档，Moonchild能从产品需求文档直接输出有意图感的UI流程和多屏设计，而非随机mockup。<br><small>来源：<a href=\"https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d\">Medium: The 8 Top AI Tools I Actually Use in My UX Design Workflow</a></small></li></ul><h3>🧠 Rex's Take</h3><p>上周我们聊了设计师AI采用率飙升到91%和代码优先团队的涌现。这周的信号更具体了：<strong>AI设计工具的三国杀格局已经清晰。</strong></p><p><strong>第一阵营：Figma Make（平台派）。</strong>Figma的策略很聪明——不是做一个独立的AI工具，而是把AI能力嵌入已有的协作平台。prompt-to-code不是噱头，它本质上是在说：\"你不需要离开Figma去写代码，也不需要离开Figma去用AI。\"这是典型的平台锁定策略，但对用户来说确实降低了认知成本。问题是：当所有人都用同一个工具生成同一种风格的UI时，\"设计差异化\"从何而来？</p><p><strong>第二阵营：Flowstep/Moonchild（垂直派）。</strong>这些工具的存在证明了一件事：Figma Make还不够好。Flowstep补的是\"设计到代码的最后一公里\"，Moonchild补的是\"从需求到设计的第一公里\"。它们能活下来，恰恰说明AI设计工具链还没被任何一家垄断。但我的判断是：12个月内，这两家要么被Figma收购，要么被Figma的功能更新挤死。垂直工具在平台战争中的命运从来不好。</p><p><strong>第三阵营：Google Stitch（搅局派）。</strong>免费 + Gemini驱动 + 直接导出到Figma。Google不是要赢设计工具市场，它是要让设计工具市场变得不值得赢。当生成UI变成免费商品时，设计师的价值必须在更高的层面重新定义——是洞察力、是系统思维、是对\"什么不该做\"的判断力。</p><p>Lisa Demchenko在UX Planet那篇文章里说的那句话是今天最重要的一句话：<strong>\"2026年真正成功的设计师不是画漂亮Figma文件的人，而是理解结构、逻辑、系统和实现的人。\"</strong>这不是预测，这是已经发生的现实。\"UX Designer\"到\"UX Engineer\"的角色迁移不是可选项，而是生存条件。不会写代码的设计师在2027年的求职市场上会非常痛苦。</p><p>我上周预测的\"Product Shaper vs Visual Producer\"分化正在加速验证。Figma Make + Flowstep + Cursor的组合栈正在成为前者的标配。后者还在纠结\"要不要学AI工具\"——这个问题本身就是答案。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>\"UX Designer to UX Engineer\" — the fundamental shift in designer survival in 2026</strong></li><li><strong>Figma Make establishes dominance: prompt-to-code + design system integration + real-time collaboration</strong></li><li><strong>Flowstep fills the design-to-development last mile with AI-native code generation</strong></li><li><strong>Google Stitch enters free: Gemini-powered UI generator challenges Figma directly</strong></li><li><strong>Moonchild AI: from product briefs to multi-screen design flows</strong></li></ul><h3>🧠 Rex's Take</h3><p>The AI design tool landscape has crystallized into three camps: Figma Make (platform play — embed AI into existing collaboration), Flowstep/Moonchild (vertical specialists filling gaps Figma hasn't closed), and Google Stitch (disruptor making UI generation a free commodity). The key insight: when generating UI becomes free, designer value must be redefined at a higher level — systems thinking, judgment about what NOT to build, and independent delivery capability. The \"UX Designer → UX Engineer\" migration isn't optional; it's survival. Designers who can't code will face a brutal 2027 job market. My prediction from last week — Product Shapers vs Visual Producers — is accelerating. The tool stack for the former (Figma Make + Flowstep + Cursor) is now standard. The latter are still debating whether to learn AI tools — which is itself the answer.</p>"
+    },
+    "sources": [
+      {
+        "title": "AI Tools Designers Should Stick With in 2026 - UX Planet",
+        "url": "https://uxplanet.org/ai-tools-designers-should-stick-with-in-2026-49fe5131d345",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*TCNjou0uuxWanyNqAkjjvQ.png"
+      },
+      {
+        "title": "8 Best AI Design Assistant Tools in 2026 - Flowstep",
+        "url": "https://flowstep.ai/blog/ai-design-assistant",
+        "image": "https://flowstep.ai/blog/content/images/2026/04/Best-AI-Design-Assistants.png"
+      },
+      {
+        "title": "Top AI Tools for UX Designers in 2026 - Figma",
+        "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/8933b0df528b5ce8a07d94f60b731618c13646a7-3204x1800.png?w=1200&q=70&fit=max&auto=format"
+      },
+      {
+        "title": "Stitch vs Figma: Is AI Replacing UI/UX Designers in 2026?",
+        "url": "https://safiullahkorai.substack.com/p/stitch-vs-figma-is-ai-replacing-uiux",
+        "image": ""
+      }
+    ],
+    "cover": "https://miro.medium.com/v2/resize:fit:1200/1*TCNjou0uuxWanyNqAkjjvQ.png"
+  },
+  {
+    "date": "2026-07-07",
+    "section": "tech",
+    "title": {
+      "zh": "AI产业三线战争白热化：Microsoft砸$25亿成立AI咨询公司、Meta\"西瓜\"模型对标GPT-5.5、OpenAI IPO可能推迟至2027",
+      "en": "AI Industry's Three-Front War Intensifies: Microsoft's $2.5B AI Consulting Spin-off, Meta's 'Watermelon' Matches GPT-5.5, OpenAI May Delay IPO to 2027"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Microsoft成立$25亿新公司帮企业选择和落地AI技术（7月2日）</strong> — 微软不再只卖AI工具，而是直接成立咨询公司帮客户\"选择正确的AI技术并产生投资回报\"。这是对企业AI落地困境的直接回应——大多数公司买了AI工具但不知道怎么用。$25亿的投入规模表明微软认为\"AI实施服务\"本身就是一个巨大市场。<br><small>来源：<a href=\"https://www.reuters.com/business/retail-consumer/microsoft-launches-firm-help-companies-adopt-ai-with-25-billion-2026-07-02\">Reuters: Microsoft launches firm to help companies adopt AI</a></small></li><li><strong>Meta\"西瓜\"模型在关键基准测试上追平OpenAI GPT-5.5</strong> — Meta超级智能负责人确认：尚未发布的\"Watermelon\"模型已匹配GPT-5.5性能。这意味着开源阵营（Meta一贯开源其模型）与闭源阵营（OpenAI）的性能差距正在快速缩小。<br><small>来源：<a href=\"https://www.instagram.com/p/DafV29_msuX\">Meta Watermelon Model Report</a></small></li><li><strong>OpenAI考虑将IPO推迟至2027以争取$1万亿估值</strong> — Bloomberg和Yahoo Finance报道，OpenAI正在权衡是否推迟上市。原因：当前估值可能无法达到$1万亿目标。微软作为最大受益者，其股票已因OpenAI IPO预期而上涨。<br><small>来源：<a href=\"https://finance.yahoo.com/markets/stocks/articles/chatgpt-maker-openai-headed-1-221000694.html\">Yahoo Finance: OpenAI Headed for $1 Trillion IPO</a></small></li><li><strong>Apple与Google深度绑定：Siri AI重建基于Gemini，同时开放多模型选择</strong> — Apple在WWDC 2026推出\"Siri AI\"独立应用，底层使用Google Gemini 1.2万亿参数定制模型（年费约$10亿），但同时开放Extensions让用户选择ChatGPT或Claude。这是Apple的\"对冲策略\"——用Google的模型做底座，但不被任何一家锁定。<br><small>来源：<a href=\"https://www.cnbc.com/2026/06/11/as-openai-leans-into-enterprise-apple-and-google-target-consumer-ai.html\">CNBC: Apple and Google Target Consumer AI</a></small></li><li><strong>AI产业路线分化：OpenAI转向企业、Google/Apple抢消费者</strong> — CNBC分析指出本周最清晰的战略分化：OpenAI靠企业编码助手冲刺IPO，而Google和Apple全力投入消费级AI代理。三巨头不再正面竞争，而是各自圈地。<br><small>来源：<a href=\"https://www.cnbc.com/2026/06/11/as-openai-leans-into-enterprise-apple-and-google-target-consumer-ai.html\">CNBC: As OpenAI Leans Into Enterprise</a></small></li></ul><h3>🧠 Rex's Take</h3><p>本周AI产业的关键词是<strong>\"分化\"</strong>——不是技术分化，是战略分化。让我把这些散落的新闻串成一条线：</p><p><strong>微软的$25亿AI咨询公司是今年最被低估的一步棋。</strong>表面上这是\"帮企业落地AI\"，实际上是微软在做一件Google和Meta都不屑做的事——<strong>承认AI落地很难，然后把\"帮你落地\"本身做成生意。</strong>这暴露了行业一个肮脏的秘密：绝大多数企业买了Copilot/Gemini/Claude的API，但ROI为负。McKinsey今年的报告说65%的企业AI项目没有超过POC阶段。微软不是做慈善，它是看到了一个$250亿+的服务市场——\"卖铲子的人开始教你怎么挖金子\"。这对Accenture、Deloitte这些传统咨询公司是直接宣战。</p><p><strong>Meta的\"西瓜\"追平GPT-5.5，OpenAI的$1万亿IPO梦开始动摇。</strong>这两条放在一起看特别有意思。OpenAI想延迟IPO到2027是因为估值不够高，但Meta在免费开源的模型上追平了它的性能——这意味着OpenAI的\"技术护城河\"叙事在投资人面前越来越难讲。当你最强的模型被一个开源竞品匹配，而你的商业模式依赖闭源溢价时，估值$1万亿的逻辑是什么？这是OpenAI面临的存在性问题。Sam Altman要么找到\"模型之外\"的价值（比如企业服务、代理平台），要么接受OpenAI可能永远无法兑现这个估值。</p><p><strong>Apple的\"多模型对冲\"策略是最聪明的一手。</strong>用Gemini做底座（省了自研大模型的天价成本），但开放ChatGPT和Claude作为选项——这让Apple成为唯一一个不被AI模型供应商锁定的科技巨头。Google付出$10亿/年的代价让Gemini成为Siri默认引擎，但Apple随时可以切换。这是苹果最擅长的事：让别人内卷，自己收租。</p><p><strong>最深层的叙事：AI产业正在从\"模型性能竞赛\"转向\"商业模式竞赛\"。</strong>OpenAI卖企业订阅，Google卖广告+消费代理，Apple卖硬件+平台税，Meta靠开源维持开发者生态然后卖广告，微软卖实施服务。模型已经commodity化了，差异化在模型之外。2026下半年最重要的问题不再是\"谁的模型最强\"，而是\"谁能把AI变成可持续的商业模式\"。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Microsoft launches $2.5B AI consulting company to help enterprises adopt AI (July 2)</strong></li><li><strong>Meta's 'Watermelon' model matches GPT-5.5 on key benchmarks</strong></li><li><strong>OpenAI considers delaying IPO to 2027 to reach $1T valuation</strong></li><li><strong>Apple rebuilds Siri AI on Gemini foundation while opening multi-model choice</strong></li><li><strong>Strategic divergence: OpenAI goes enterprise, Google/Apple chase consumers</strong></li></ul><h3>🧠 Rex's Take</h3><p>This week's keyword: strategic divergence. Microsoft's $2.5B AI consulting spin-off is the most underrated move — it admits that AI adoption is hard and turns 'helping you adopt' into a business itself. This is a direct declaration of war on Accenture and Deloitte. Meta's Watermelon matching GPT-5.5 while OpenAI delays its IPO creates an existential question: when your best model is matched by a free open-source competitor, what justifies a $1T valuation? Apple's multi-model hedge (Gemini as default, ChatGPT/Claude as options) is the smartest play — letting others compete while collecting rent. The deepest narrative: AI is shifting from a 'model performance race' to a 'business model race.' Models are commoditizing; differentiation lives elsewhere.</p>"
+    },
+    "sources": [
+      {
+        "title": "Microsoft launches firm to help companies adopt AI - Reuters",
+        "url": "https://www.reuters.com/business/retail-consumer/microsoft-launches-firm-help-companies-adopt-ai-with-25-billion-2026-07-02",
+        "image": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FMSFT-LOGO.jpg?auth=abc&width=1200&quality=80"
+      },
+      {
+        "title": "As OpenAI Leans Into Enterprise, Apple and Google Target Consumer AI - CNBC",
+        "url": "https://www.cnbc.com/2026/06/11/as-openai-leans-into-enterprise-apple-and-google-target-consumer-ai.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108309221-1779211863168-gettyimages-2276578172-2026_may_19_googleio_0280.jpeg?v=1779211898&w=1920&h=1080"
+      },
+      {
+        "title": "OpenAI Headed for $1 Trillion IPO - Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-maker-openai-headed-1-221000694.html",
+        "image": ""
+      },
+      {
+        "title": "Meta Watermelon Model Matches GPT-5.5",
+        "url": "https://www.instagram.com/p/DafV29_msuX",
+        "image": ""
+      }
+    ],
+    "cover": "https://image.cnbcfm.com/api/v1/image/108309221-1779211863168-gettyimages-2276578172-2026_may_19_googleio_0280.jpeg?v=1779211898&w=1920&h=1080"
+  },
+  {
+    "date": "2026-07-07",
+    "section": "design",
+    "title": {
       "zh": "设计师AI采用率飙升至91%但职业满意度两极分化——Figma State of Designer 2026揭示\"快速实习生+慢速编辑\"新范式，代码优先设计团队正在抛弃Figma",
       "en": "Designer AI Adoption Hits 91% But Job Satisfaction Polarizes — Figma State of Designer 2026 Reveals \"Fast Intern + Slow Editor\" Paradigm as Code-First Teams Abandon Figma"
     },
