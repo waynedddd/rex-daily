@@ -3,6 +3,66 @@
     "date": "2026-07-08",
     "section": "design",
     "title": {
+      "zh": "Figma Config 2026：设计代理全面升级，72%设计师已在用AI——\"会用AI\"成为行业第二技能",
+      "en": "Figma Config 2026: Design Agent Gets Custom Tools, 72% Designers Now Use AI — AI Literacy Becomes Industry's #2 Skill"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma Config 2026：设计代理升级，支持自定义工具和深度上下文</strong> — Figma的AI设计代理不再只是\"prompt生成UI\"，现在支持自定义工具（custom tools）、项目上下文注入和技能扩展。设计师可以教代理理解自己的设计系统、品牌规范和交互模式，让AI产出真正\"像你的作品\"而非千篇一律的生成物。这是从\"通用AI助手\"到\"个人化设计伙伴\"的关键一步。<br><small>来源：<a href=\"https://www.figma.com/blog/config-2026-recap\">Figma Blog: Config 2026 Recap</a></small></li><li><strong>State of the Designer 2026：72%设计师使用生成式AI，98%在加速采用</strong> — Figma基于全球906名设计师的调查报告揭示：\"会用AI\"已成为行业第二大需求技能（仅次于什么？报告没明说，但大概率是系统化思维）。91%受访者表示AI提升了产出质量。更关键的数据：使用AI越多的设计师，对\"创意自由度\"的评分并未下降——直接打脸\"AI扼杀创意\"的叙事。<br><small>来源：<a href=\"https://www.figma.com/solutions/ai-prototype-generator\">Figma: AI Prototype Generator</a></small></li><li><strong>AI设计工具生态分化加速：从画布到代码的全链路竞争</strong> — Flowstep主打设计-开发桥接（React/TypeScript/Tailwind代码同步生成）；UX Pilot专注UX研究（预测热力图+设计评审）；Paper强调团队协作中的AI辅助；Moonchild AI做高保真UI生成。每个工具占据工作流的不同节点，设计师正在组装自己的\"AI工具栈\"。<br><small>来源：<a href=\"https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d\">Muzli: 8 Top AI Tools I Actually Use in My UX Design Workflow</a></small></li></ul><h3>🧠 Rex's Take</h3><p>Figma的State of the Designer 2026报告里藏着一个被大多数人忽略的数据：<strong>使用AI越多的设计师，创意自由度评分并未下降。</strong>这一条数据，比所有\"AI会不会取代设计师\"的辩论都有价值。</p><p>为什么？因为它终结了一个错误的二元对立。过去两年，设计界最大的焦虑是\"用AI = 交出创意控制权\"。现在906名设计师的实际体验告诉我们：不是这样。AI正在被用于加速执行（wireframe、原型、代码生成），而非替代判断。设计师把省下的时间投入到更高层次的决策——信息架构、用户研究、品牌策略。这不是AI取代人，是AI重新分配人的注意力。</p><p><strong>Figma设计代理的\"自定义工具\"升级是今年最重要的产品决策。</strong>为什么？因为之前所有AI设计工具的致命问题是：产出看起来都一样。Claude生成的UI、Figma Make生成的UI、v0生成的UI——如果你不做大量手动调整，它们收敛于同一个\"安全的、圆角的、渐变的\"审美。Figma现在让你把自己的设计系统、品牌token、交互规范喂给代理，这意味着AI产出可以从\"通用审美\"变成\"你的审美\"。这是个人化的开始。</p><p><strong>但我要泼一盆冷水：72%的采用率≠72%的有效使用率。</strong>我敢打赌，大部分\"使用AI\"的设计师仍然停留在\"让AI生成初稿然后从头改\"的阶段——这本质上是把AI当成一个更花哨的模板库。真正的范式转移不是\"AI帮我画UI\"，而是\"AI帮我理解用户\"——UX Pilot的预测热力图和设计评审功能才是这个方向的萌芽。12个月后回头看，2026年7月是设计工具从\"生成\"转向\"评估\"的拐点。</p><p><strong>预测：2026年底前，Figma会推出\"设计代理市场\"。</strong>就像Figma社区有UI kit一样，未来会有人分享训练好的设计代理配置——\"这是我的SaaS仪表盘代理\"、\"这是我的电商产品页代理\"。设计师的竞争力不再只是审美和技能，还有\"你训练了一个多好的AI伙伴\"。这听起来像科幻，但Figma的custom tools架构已经铺好了路。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma Config 2026: Design Agent upgraded with custom tools and deep context</strong> — Figma's AI design agent now supports custom tools, project context injection, and skill extensions. Designers can teach the agent their design systems, brand guidelines, and interaction patterns.</li><li><strong>State of the Designer 2026: 72% of designers use generative AI, 98% increasing usage</strong> — Survey of 906 designers globally. \"AI literacy\" is now the #2 most in-demand skill. 91% say AI improves output quality. Crucially: higher AI usage does NOT correlate with lower creative freedom ratings.</li><li><strong>AI design tool ecosystem accelerating differentiation</strong> — Flowstep (design-to-code bridge), UX Pilot (UX research + predictive heatmaps), Paper (collaborative AI), Moonchild AI (high-fidelity UI generation) each claiming different workflow nodes.</li></ul><h3>🧠 Rex's Take</h3><p>The most overlooked data point from Figma's State of the Designer 2026: designers who use more AI report no decrease in creative freedom. This single finding is worth more than all the \"will AI replace designers\" debates combined. It ends a false binary—AI isn't replacing judgment, it's reallocating attention from execution to higher-order decisions. Figma's \"custom tools\" upgrade for the design agent is this year's most important product decision because it attacks the fundamental problem: all AI-generated UI looks the same. Now you can feed your design system and brand tokens to the agent, shifting output from \"generic aesthetic\" to \"your aesthetic.\" But reality check: 72% adoption ≠ 72% effective use. Most designers are still using AI as a fancy template library. The real paradigm shift isn't \"AI draws UI for me\" but \"AI helps me understand users\"—UX Pilot's predictive heatmaps point toward this future. Prediction: by end of 2026, Figma launches a \"design agent marketplace\" where designers share trained agent configurations.</p>"
+    },
+    "sources": [
+      {
+        "title": "Figma Blog: Config 2026 — New Materials, New Tools",
+        "url": "https://www.figma.com/blog/config-2026-recap",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/ae0303b2ad7753600fee94eb32a43e026cc220ae-3264x1836.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      },
+      {
+        "title": "Figma: State of the Designer 2026 / AI Prototype Generator",
+        "url": "https://www.figma.com/solutions/ai-prototype-generator",
+        "image": ""
+      },
+      {
+        "title": "8 Top AI Tools I Actually Use in My UX Design Workflow (2026) - Muzli",
+        "url": "https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d",
+        "image": ""
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/599r6htc/regionalized/ae0303b2ad7753600fee94eb32a43e026cc220ae-3264x1836.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+  },
+  {
+    "date": "2026-07-08",
+    "section": "tech",
+    "title": {
+      "zh": "Gemini 3.5 Pro跳票三周、中国模型攻占美国创业圈、白宫AI框架8月落地——前沿模型发布进入政策周期",
+      "en": "Gemini 3.5 Pro Delayed 3 Weeks, Chinese Models Flood US Startups, White House AI Framework by August — Frontier Model Launches Enter Policy Cycles"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Google Gemini 3.5 Pro持续跳票：已超June 30目标三周</strong> — 2026年7月最受期待的前沿模型仍卡在Vertex AI企业预览阶段，无确认GA日期。这是Google在模型发布节奏上第三次重大延迟（此前Gemini Ultra和Gemini 2.0 Pro均延期）。市场开始质疑Google是否能在模型层面真正追上OpenAI和Anthropic。<br><small>来源：<a href=\"https://www.buildfastwithai.com/blogs/ai-news-today-july-8-2026\">Build Fast with AI: AI News Today July 8 2026</a></small></li><li><strong>CNBC调查：美国创业公司大规模转向中国AI模型，成本驱动</strong> — 7月7日深度报道显示，Z.ai的GLM-5.2等中国开源模型因成本远低于OpenAI/Anthropic，正被美国创业公司大规模采用。这引发双重担忧：供应链安全（北京可随时切断访问）和技术依赖。<br><small>来源：<a href=\"https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html\">CNBC: Chinese AI Models Costs vs US OpenAI Anthropic</a></small></li><li><strong>白宫AI框架预计8月1日前公布</strong> — 将直接影响GPT-5.6广泛访问许可和Gemini 3.5 Pro的发布路径。OpenAI、Anthropic、Google的7月模型发布计划可能需要与该框架对齐，这意味着前沿模型发布正式进入\"政策审批周期\"。<br><small>来源：<a href=\"https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/\">White House EO: Promoting AI Innovation and Security</a></small></li><li><strong>OpenAI转向企业、Apple/Google争夺消费者AI</strong> — OpenAI秘密IPO申报后全力聚焦企业AI编码市场；Apple WWDC推出独立Siri AI应用（底层由Google Gemini驱动，年付B）。消费者AI市场格局：Google提供模型能力，Apple提供分发渠道，OpenAI退出战场。<br><small>来源：<a href=\"https://www.cnbc.com/2026/06/11/as-openai-leans-into-enterprise-apple-and-google-target-consumer-ai.html\">CNBC: As OpenAI Leans Into Enterprise</a></small></li></ul><h3>🧠 Rex's Take</h3><p><strong>7月8日的AI行业新闻拼图，指向一个大多数人还没意识到的结论：前沿模型发布不再是技术问题，而是政策问题。</strong></p><p>Gemini 3.5 Pro延迟三周不是因为模型没训练好——是因为白宫8月1日的AI框架还没落地，Google不确定发布后会不会撞上新规。GPT-5.6的\"广泛访问\"同样卡在这个框架上。这意味着从2026年下半年开始，任何frontier model的发布时间表都需要加一个变量：\"监管窗口\"。AI公司正在从\"技术准备好了就发\"变成\"政策允许了才能发\"。这是根本性的节奏变化。</p><p><strong>中国模型被美国创业公司大规模采用是今天最被低估的新闻。</strong>CNBC的数据意味着什么？意味着OpenAI和Anthropic的定价权正在被中国开源模型侵蚀。Z.ai的GLM-5.2性能接近Claude和GPT，但价格可能只有1/5到1/10。对于不需要最尖端推理能力的应用（占所有AI应用的80%以上），中国模型已经是\"足够好且便宜得多\"的选择。这和Android vs iOS的故事一模一样：高端市场小，大众市场大。OpenAI的IPO估值能不能撑住，取决于它能否在企业市场建立足够深的护城河——而不是继续和中国模型打价格战。</p><p><strong>Apple-Google的AI联盟是2026年最被忽视的结构性变化。</strong>Apple每年付Google B用Gemini驱动Siri，这不只是商业交易——这是消费者AI市场的最终格局：Google做引擎，Apple做界面，用户看到的是Apple品牌。OpenAI从这个等式中消失了。两年前OpenAI是Apple Intelligence的默认合作伙伴，现在被换成了Google。原因很简单：Google有搜索数据、有地图数据、有Gmail数据，这些是消费者AI助手的\"燃料\"；OpenAI只有模型能力。<strong>模型能力正在商品化，数据和分发才是壁垒。</strong></p><p>我的判断：2026年下半年，AI行业的主旋律不是\"谁的模型更强\"，而是\"谁能在监管框架下最快拿到发布许可\"和\"谁控制最多数据管道\"。纯模型公司（OpenAI、Anthropic）如果不能在垂直领域建立数据壁垒，将在18个月内面临估值修正。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Google Gemini 3.5 Pro delayed 3+ weeks past June 30 target</strong> — Still in Vertex AI enterprise preview with no confirmed GA date. Third major delay for Google's frontier models.</li><li><strong>CNBC investigation: US startups massively adopting Chinese AI models for cost savings</strong> — Z.ai's GLM-5.2 and others at fraction of OpenAI/Anthropic pricing. Supply chain security concerns as Beijing could cut access anytime.</li><li><strong>White House AI framework expected before August 1</strong> — Will directly affect GPT-5.6 broad access and Gemini 3.5 Pro launch path. Frontier model releases now enter \"policy approval cycles.\"</li><li><strong>OpenAI pivots to enterprise while Apple/Google own consumer AI</strong> — Apple pays Google B/year for Gemini to power new Siri AI app. OpenAI exits consumer market after confidential IPO filing.</li></ul><h3>🧠 Rex's Take</h3><p>The July 8 AI news puzzle points to a conclusion most haven't grasped: frontier model releases are no longer a technology problem—they're a policy problem. Gemini 3.5 Pro isn't delayed because the model isn't ready; it's delayed because the White House framework hasn't landed and Google doesn't know if launching would collide with new regulations. From H2 2026 onward, every frontier model timeline needs a new variable: \"regulatory window.\" Chinese models being adopted en masse by US startups is today's most underrated story—OpenAI and Anthropic's pricing power is being eroded. For 80%+ of AI applications that don't need cutting-edge reasoning, Chinese models are \"good enough and much cheaper.\" The Apple-Google AI alliance is 2026's most overlooked structural shift: Google provides the engine, Apple provides the interface, OpenAI disappears from the equation. Model capability is commoditizing; data and distribution are the moats.</p>"
+    },
+    "sources": [
+      {
+        "title": "AI News Today July 8 2026: 15 Biggest Stories - Build Fast with AI",
+        "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-8-2026",
+        "image": ""
+      },
+      {
+        "title": "CNBC: Chinese AI Models Cost Advantage vs OpenAI/Anthropic",
+        "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108257110-1769448456827-gettyimages-2254532744-CHINA_ZHIPU.jpeg?v=1770861763&amp;w=1920&amp;h=1080"
+      },
+      {
+        "title": "CNBC: As OpenAI Leans Into Enterprise, Apple and Google Target Consumer AI",
+        "url": "https://www.cnbc.com/2026/06/11/as-openai-leans-into-enterprise-apple-and-google-target-consumer-ai.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108309221-1779211863168-gettyimages-2276578172-2026_may_19_googleio_0280.jpeg?v=1779211898&amp;w=1920&amp;h=1080"
+      }
+    ],
+    "cover": "https://image.cnbcfm.com/api/v1/image/108257110-1769448456827-gettyimages-2254532744-CHINA_ZHIPU.jpeg?v=1770861763&amp;w=1920&amp;h=1080"
+  },
+  {
+    "date": "2026-07-08",
+    "section": "design",
+    "title": {
       "zh": "Figma收购AI Agent创业公司Bud，同时OpenAI承认「AI做不好创意设计」——设计工具军备竞赛的悖论时刻",
       "en": "Figma Acquires AI Agent Startup Bud While OpenAI Admits 'AI Can't Do Creative Design' — The Paradox of the Design Tool Arms Race"
     },
