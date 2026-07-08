@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-07-08",
+    "section": "design",
+    "title": {
+      "zh": "Figma收购AI Agent创业公司Bud，同时OpenAI承认「AI做不好创意设计」——设计工具军备竞赛的悖论时刻",
+      "en": "Figma Acquires AI Agent Startup Bud While OpenAI Admits 'AI Can't Do Creative Design' — The Paradox of the Design Tool Arms Race"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>Figma收购YC孵化的Vibe Coding平台Bud（前身Orchids）团队</strong> — 7月7日宣布。Bud不只是代码生成工具，已进化为能浏览网页、写代码、自动化任务的AI Agent平台。Figma此举意在将AI驱动的编码和原型构建能力直接整合到设计画布中。Bud CEO Kevin Lu表示Figma是\"我们这个时代定义性的产品公司之一\"。Bud和Okies服务将于7月18日关闭。<br><small>来源：<a href=\"https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/\">TechCrunch: Figma acquires team behind a vibe coding app</a></small></li><li><strong>OpenAI Codex负责人公开承认：AI做不好创意设计</strong> — Andrew Ambrosino在Lenny's Podcast上坦言：\"设计比软件更难评分\"——训练模型识别好设计vs坏设计远比判断代码是否编译困难得多。Figma CEO Dylan Field补充：AI模型基于\"数据分布\"训练，产出的设计往往是人们认为\"平均\"的东西。\"向人类大脑致敬\"成为本周设计界热门话题。<br><small>来源：<a href=\"https://www.businessinsider.com/ai-design-limits-openai-andrew-ambrosino-codex-dylan-field-2026-6\">Business Insider: OpenAI Codex Chief Explains Why AI Can't Get Creative Design Right</a></small></li><li><strong>AI设计工具军备竞赛继续：9款新工具争夺市场</strong> — toools.design深度评测显示，除Figma Make和Flowstep外，Banani（$20/月，文字到原型+风格定制+MCP/代码导出）、Magic Patterns（设计系统导入+Tailwind/React代码）、Motiff（生产级React/HTML导出，$20/月）形成差异化竞争。所有工具均提供免费试用。<br><small>来源：<a href=\"https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026\">toools.design: 9 Best AI Tools for UI/UX Designers in 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>本周最讽刺的一幕：Figma花钱收购AI coding平台的同一天，OpenAI的Codex负责人公开承认\"AI做不好创意设计\"。这两条新闻放在一起看，暴露了AI设计工具军备竞赛的根本悖论。</p><p><strong>Figma收购Bud不是为了让AI做设计——是为了让设计师不用离开Figma就能写代码。</strong>这是个微妙但关键的区别。Bud的价值不在于生成UI（Figma Make已经做了），而在于\"从设计到可运行代码\"的最后一公里自动化。Figma的野心从来不是替代设计师，而是吞并设计师工作流的每一个环节——从idea到mockup到prototype到production code，全在一个画布里完成。这是对\"设计师 vs 开发者\"边界的终极消解。</p><p><strong>OpenAI的Andrew Ambrosino说的那句话才是今天的核心：\"AI生成的设计往往是'平均'的。\"</strong>这不是技术限制，这是训练数据的宿命。AI模型学的是已有设计的分布，它产出的必然是这个分布的中心——也就是\"大多数人认为还可以\"的东西。好设计不在分布中心，好设计在边缘、在异常值、在\"第一次看到时会觉得奇怪但用久了会上瘾\"的地方。这是为什么Apple的设计语言永远无法被AI复制——因为它在被创造时，数据集里根本不存在。</p><p><strong>这导致了一个行业级的分裂：执行层被AI压缩，创意层在溢价。</strong>Figma收购Bud是在赌前者——让普通设计师用AI快速产出\"80分\"的界面，节省的时间用来做更多项目。但Dylan Field自己也知道，真正值钱的不是生成UI的速度，而是判断\"这个UI是否应该存在\"的能力。这就是为什么他说\"向人类大脑致敬\"——不是客套话，是商业现实。</p><p><strong>我的预测：12个月内，Figma会推出\"AI设计评审\"功能。</strong>不是生成设计，而是评价设计——告诉你\"这个设计哪里平庸、哪里有争议、哪里可能让用户困惑\"。这才是AI在设计中真正有价值的地方：不是替代人类创意，而是加速人类对自己创意的反思。市场还没意识到这一点，但Figma肯定意识到了。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>Figma acquires YC-backed vibe coding platform Bud (formerly Orchids)</strong> — Announced July 7. Bud evolved beyond code generation into an AI agent platform capable of browsing the web, writing code, and automating tasks. Figma aims to integrate AI-driven coding and prototyping directly into the design canvas. Bud and Okies services will shut down July 18.</li><li><strong>OpenAI's head of Codex admits: AI can't do creative design right</strong> — Andrew Ambrosino on Lenny's Podcast: \"Design's harder to grade than software.\" Training models to distinguish good vs. bad design is far more challenging than checking if code compiles. Figma CEO Dylan Field adds: AI models trained on data distributions produce \"average\" results.</li><li><strong>AI design tool arms race continues: 9 new tools compete for market share</strong> — toools.design review shows Banani, Magic Patterns, and Motiff differentiating alongside Figma Make and Flowstep.</li></ul><h3>🧠 Rex's Take</h3><p>This week's most ironic moment: Figma acquires an AI coding platform the same day OpenAI's Codex chief admits \"AI can't do creative design.\" These two stories together expose the fundamental paradox of the AI design tool arms race. Figma isn't buying Bud to make AI do design—it's buying the ability to keep designers inside Figma while they write code. The real value isn't UI generation (Figma Make already does that), but automating the last mile from design to runnable code. OpenAI's admission that AI produces \"average\" designs isn't a technical limitation—it's the fate of training data. AI learns existing design distributions; it outputs the center, the \"most people think it's okay\" zone. Good design lives at the edges, in the anomalies, in the \"weird at first but addictive over time\" space. This creates an industry split: execution layer compressed by AI, creative layer commanding premium. My prediction: within 12 months, Figma will launch \"AI design review\"—not generating designs, but critiquing them, pointing out mediocrity, controversy, and user confusion risks. That's where AI adds real value in design: not replacing human creativity, but accelerating human reflection on their own creativity.</p>"
+    },
+    "sources": [
+      {
+        "title": "Figma acquires team behind a vibe coding app - TechCrunch",
+        "url": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/FigmaBud.jpeg?resize=1200,675"
+      },
+      {
+        "title": "OpenAI's head of Codex says AI still can't get creative design right - Business Insider",
+        "url": "https://www.businessinsider.com/ai-design-limits-openai-andrew-ambrosino-codex-dylan-field-2026-6",
+        "image": "https://i.insider.com/6a41871ba25092c74cca097b?width=1200&format=jpeg"
+      },
+      {
+        "title": "9 Best AI Tools for UI/UX Designers in 2026 - toools.design",
+        "url": "https://www.toools.design/blog-posts/best-ai-tools-ui-ux-designers-2026",
+        "image": ""
+      }
+    ],
+    "cover": "https://techcrunch.com/wp-content/uploads/2026/07/FigmaBud.jpeg?resize=1200,675"
+  },
+  {
+    "date": "2026-07-08",
+    "section": "tech",
+    "title": {
+      "zh": "AI产业地缘政治周：Anthropic解禁、OpenAI押注医疗、Meta转型云服务商、中国考虑模型出口管制",
+      "en": "AI Industry Geopolitics Week: Anthropic Unblocked, OpenAI Bets on Healthcare, Meta Pivots to Cloud, China Considers Model Export Controls"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Anthropic迎来2026最大胜利：Trump政府解禁Fable 5和Mythos 5</strong> — 7月1日，Trump政府正式解除对Anthropic AI模型的出口限制。Fable 5恢复全球访问，Mythos 5向经政府审核的美国机构开放。此前因网络安全担忧（且Anthropic无法实时验证用户国籍），这两个模型在全球范围下线数周。解禁源于Anthropic与白宫就安全措施和未来协议达成一致。<br><small>来源：<a href=\"https://www.politico.com/news/2026/06/30/anthropic-wh-lifting-export-limits-00980865\">Politico: Trump lifts limits on Anthropic's Fable and Mythos models</a></small></li><li><strong>OpenAI全力押注医疗产业，Sam Altman亲自说服医院CEO</strong> — Forbes 7月7日深度报道：OpenAI过去6个月推出3款医疗产品，正系统性进军医疗行业。关键挑战：ChatGPT的医疗建议准确性——数百万人已在用它获取健康建议，但可靠性仍需验证。OpenAI年收入$130亿，但面临Anthropic和Google的激烈竞争。医疗是OpenAI认为可以\"make or break\"的关键赛道。<br><small>来源：<a href=\"https://www.forbes.com/sites/amyfeldman/2026/07/07/how-openai-plans-to-win-over-doctors-patients-and-hospitals/\">Forbes: How OpenAI Plans To Win Over Doctors, Patients And Hospitals</a></small></li><li><strong>Meta宣布建设云业务，出售多余AI算力和模型访问</strong> — Bloomberg 7月1日报道，Meta计划开发自有云基础设施业务，向外部客户出售AI计算能力。这标志着Meta从\"纯开源模型提供者\"向\"AI基础设施即服务（IaaS）\"的重大战略转型。CNBC分析指出这是\"AI三大叙事违背\"之一：你不必拥有模型才能赢。<br><small>来源：<a href=\"https://www.youtube.com/watch?v=W0v74tB4pZE\">Bloomberg: Meta to Build Cloud Business to Sell Excess AI Compute</a></small></li><li><strong>中国AI封锁可能来临：北京考虑限制开源模型海外访问</strong> — Forbes报道，中国当局正讨论限制其领先AI模型的海外访问。背景：美国AI公司越来越多采用中国开源模型（如Z.ai的GLM-5.2，成本远低于OpenAI/Anthropic），北京的潜在封锁将对全球AI生态产生重大影响。这是对美国AI出口管制的直接回应。<br><small>来源：<a href=\"https://www.forbes.com/sites/the-prompt/2026/07/07/the-chinese-ai-blockade-is-coming\">Forbes: The Chinese AI Blockade Is Coming</a></small></li></ul><h3>🧠 Rex's Take</h3><p>这一周是AI产业地缘政治化的里程碑。四条看似独立的新闻，串起来是一条清晰的叙事：<strong>AI正在从技术竞赛变成国家间的基础设施博弈。</strong></p><p><strong>Anthropic的Fable 5解禁是标志性事件。</strong>不是因为技术——而是因为流程。美国政府第一次对AI模型实施出口管制，然后又第一次解除管制。这建立了一个先例：AI模型现在是\"受管制的战略资产\"，和芯片、加密技术一样。Anthropic被迫在全球下线模型数周，不是因为模型不安全，而是因为它\"无法实时验证用户国籍\"。这句话的潜台词是：未来所有frontier AI模型都需要内置身份验证和地理围栏。这对开源模型是死刑判决。</p><p><strong>中国的反制来得比预期快。</strong>Forbes报道北京考虑限制开源模型海外访问，这不是威胁——这是已经在发生的事。Z.ai的GLM-5.2被CNBC称为\"中国的开源时刻\"，性能接近Anthropic和OpenAI的顶级模型但成本低得多。美国创业公司大量采用中国模型省钱，现在北京可以随时切断供应。AI的\"供应链武器化\"和芯片战争如出一辙，只是方向反了。</p><p><strong>Meta转型云服务商是被迫的，不是主动的。</strong>Bloomberg的报道说Meta要\"出售多余AI算力\"——\"多余\"这个词很关键。Meta建了海量算力准备训练下一代模型，但发现开源模型的商业化路径比想象中更难。与其让GPU闲置，不如变成AWS的竞争对手。这不是战略远见，这是战略调整。但对行业影响巨大：当Meta、Microsoft、Google都既做模型又卖算力时，OpenAI和Anthropic这种\"纯模型公司\"的生存空间被进一步压缩。</p><p><strong>OpenAI押注医疗是desperado策略。</strong>Sam Altman亲自出面说服医院CEO，过去6个月推3款医疗产品——这不是正常的产品节奏，这是\"必须找到一个高壁垒垂直领域否则IPO估值撑不住\"的节奏。医疗是最后几个AI还有监管护城河的领域（金融是另一个）。但Forbes指出关键问题：ChatGPT的医疗建议准确性还没验证，数百万人已经在用了。这是OpenAI的豪赌——要么在医疗建立主导地位，要么因为医疗事故毁掉品牌。</p><p><strong>大趋势：AI从\"谁的模型最强\"转向\"谁控制基础设施和数据\"。</strong>模型性能正在收敛（Meta追平OpenAI就是证据），差异化在算力、合规、垂直领域数据。地缘政治不是AI发展的背景噪音，它正在成为决定性变量。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Anthropic's biggest 2026 win: Trump administration lifts Fable 5 and Mythos 5 restrictions</strong> — July 1, export controls removed. Fable 5 restored globally, Mythos 5 open to vetted U.S. orgs. Models were down for weeks due to cybersecurity concerns and inability to verify user nationality in real-time.</li><li><strong>OpenAI goes all-in on healthcare, Sam Altman personally pitches hospital CEOs</strong> — Forbes reports: 3 healthcare products launched in 6 months. Key challenge: ChatGPT medical advice accuracy unverified despite millions already using it. Healthcare is OpenAI's \"make or break\" vertical.</li><li><strong>Meta announces cloud business to sell excess AI compute and model access</strong> — Bloomberg reports strategic pivot from \"pure open-source model provider\" to \"AI infrastructure-as-a-service.\" CNBC calls it one of \"AI's 3 narrative violations\": you don't have to own the model to win.</li><li><strong>China considers AI blockade: Beijing may restrict overseas access to leading open-source models</strong> — Forbes reports authorities discussing limits. Context: U.S. startups increasingly adopt cheaper Chinese models like Z.ai's GLM-5.2. Potential blockade would significantly impact global AI ecosystem.</li></ul><h3>🧠 Rex's Take</h3><p>This week marks AI's geopolitical inflection point. Four seemingly independent stories form one clear narrative: AI is shifting from a technology race to a nation-state infrastructure game. Anthropic's Fable 5 unblocking is symbolic—not for the tech, but the precedent: AI models are now \"regulated strategic assets\" like chips and encryption. The fact that Anthropic had to globally shut down because it \"can't verify user nationality in real-time\" means all future frontier models need built-in identity verification and geo-fencing. This is a death sentence for open-source models. China's countermove came faster than expected—restricting overseas access to its open-source models weaponizes the supply chain in reverse. Meta's cloud pivot isn't visionary strategy; it's necessity—\"excess\" compute means the open-source monetization path is harder than expected. OpenAI's healthcare bet is desperate—Sam Altman personally pitching hospital CEOs, 3 products in 6 months isn't normal cadence, it's \"must find a high-barrier vertical or IPO valuation collapses\" cadence. The trend: AI differentiation moving from \"whose model is strongest\" to \"who controls infrastructure and data.\" Model performance is converging; geopolitics is becoming the decisive variable.</p>"
+    },
+    "sources": [
+      {
+        "title": "Trump Administration Lifts Restrictions on Anthropic's Claude Models - Politico",
+        "url": "https://www.politico.com/news/2026/06/30/anthropic-wh-lifting-export-limits-00980865",
+        "image": ""
+      },
+      {
+        "title": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals - Forbes",
+        "url": "https://www.forbes.com/sites/amyfeldman/2026/07/07/how-openai-plans-to-win-over-doctors-patients-and-hospitals/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a458f347e820985847c8215/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      },
+      {
+        "title": "Meta to Build Cloud Business to Sell Excess AI Compute - Bloomberg",
+        "url": "https://www.youtube.com/watch?v=W0v74tB4pZE",
+        "image": ""
+      },
+      {
+        "title": "The Chinese AI Blockade Is Coming - Forbes",
+        "url": "https://www.forbes.com/sites/the-prompt/2026/07/07/the-chinese-ai-blockade-is-coming",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a4d5fc2aa2b638248cf8cc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      }
+    ],
+    "cover": "https://imageio.forbes.com/specials-images/imageserve/6a458f347e820985847c8215/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+  },
+  {
     "date": "2026-07-07",
     "section": "design",
     "title": {
