@@ -18646,6 +18646,238 @@
       "body": "七月初 Visual for AI 的两个观察让我重新审视 2026 上半年的全部讨论。三月我说 AI 视觉设计的核心是「认知透明」，后来修正为「认知恰当」——什么时候让 AI 可见、什么时候让它隐形。七月的发现让这个框架更完整了：「情绪光带」和「双视图标配化」分别代表了 AI 界面设计的两个已经定型的范式——前者是「状态传达」（AI 在做什么），后者是「产出组织」（AI 做出了什么）。2026 上半年 AI 界面设计的尘埃正在落定：交互范式从百花齐放收敛到了几个赢家模式。双视图会成为 AI 产品的「标准框架」，就像 tab bar 之于移动 App。但也意味着差异化的空间在缩小——当所有 AI 产品都长得差不多时，比的是什么？是那些微小的情感细节：loading 光效的温度、动画的节奏、报错时的语气。AI 产品设计的下半场不是架构之争，是毫米级体验之争。",
       "body_en": "Early July Visual for AI observations make me revisit all H1 2026 discussions. March I said AI visual design's core is \"cognitive transparency,\" later corrected to \"cognitive appropriateness.\" July findings complete the framework: \"emotional light bands\" and \"dual-view standardization\" represent two now-crystallized AI interface paradigms — the former for \"state communication\" (what AI is doing), the latter for \"output organization\" (what AI produced). H1 2026 AI interface design dust is settling: interaction paradigms converging from wild experimentation to a few winning patterns. Dual-view will become AI products' \"standard framework\" like tab bars for mobile apps. But this means differentiation space is shrinking — when all AI products look similar, what competes? Those tiny emotional details: loading light warmth, animation rhythm, error message tone. AI product design's second half isn't architecture competition — it's millimeter-level experience competition.",
       "date": "2026-07-07"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI Portfolio Rebalancing — 实时调仓的「呼吸」动效",
+      "body": "Wealthfront 和 Betterment 的 2026 Q3 更新把 AI 自动调仓过程可视化为一个优雅的动态图：资产配置饼图的每个扇区像呼吸一样缓慢膨胀/收缩，表示 AI 正在微调权重。完成后短暂闪烁绿光确认。用户不需要理解「再平衡」的金融概念，只需要看到系统在「呼吸」就知道它在工作。",
+      "body_en": "Wealthfront and Betterment Q3 2026 updates visualize AI auto-rebalancing as an elegant animation: each pie chart sector slowly breathes (expands/contracts) indicating AI is fine-tuning weights. Brief green flash on completion. Users don't need to understand \"rebalancing\" — just seeing the system \"breathe\" signals it's working.",
+      "tags": [
+        "Portfolio",
+        "Rebalancing",
+        "Breathing Animation",
+        "Trust UX"
+      ],
+      "link": "https://dribbble.com/search/portfolio-rebalancing-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 实时对账 — 企业财务的「零延迟」设计",
+      "body": "2026 Q3 企业 Fintech 的新赛道：AI 实时对账系统。传统月末对账的 T+30 延迟被压缩到 T+0。Stripe、Ramp、Mercury 的企业版都在推「实时财务健康」概念——交易发生的瞬间就完成分类、对账、异常标记。界面设计从「报表」进化为「实时流」，类似 Twitter timeline 但每条是一笔交易+AI 标注。信息架构从批量处理变成流式处理，这对金融 UI 的影响是根本性的。",
+      "body_en": "Q3 2026 enterprise fintech new track: AI real-time reconciliation. Traditional month-end T+30 delays compressed to T+0. Stripe, Ramp, Mercury enterprise editions pushing \"real-time financial health\" — instant categorization, reconciliation, and anomaly flagging at the moment of transaction. UI evolves from \"reports\" to \"real-time stream\" — like a Twitter timeline where each item is a transaction + AI annotation. Information architecture shifts from batch to streaming, fundamentally reshaping financial UI.",
+      "tags": [
+        "Real-time",
+        "Reconciliation",
+        "Stream UI",
+        "Enterprise Fintech"
+      ],
+      "link": "https://stripe.com/treasury",
+      "linkText": "Stripe Treasury",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 发票智能处理 — 从 OCR 到语义理解的 UX 升级",
+      "body": "Bill.com 和 Airwallex 的 AI 发票处理不再是简单的 OCR 提取字段，而是「语义理解」——AI 能识别「这张发票是上个月那个项目的尾款」「这个供应商连续三个月涨价了 8%」。界面用对话气泡式的 AI 批注叠加在发票扫描件上，黄色高亮关键发现，绿色表示已自动匹配的 PO。把枯燥的财务文档变成了有洞察的信息层。",
+      "body_en": "Bill.com and Airwallex AI invoice processing goes beyond OCR to semantic understanding — AI recognizes \"this invoice is final payment for last month's project\" and \"this vendor has raised prices 8% three months straight.\" Interface uses chat-bubble-style AI annotations overlaid on invoice scans, yellow highlighting key findings, green for auto-matched POs. Turning boring financial documents into insightful information layers.",
+      "tags": [
+        "Invoice AI",
+        "Semantic Understanding",
+        "Annotation Layer",
+        "AP Automation"
+      ],
+      "link": "https://dribbble.com/search/invoice-ai-processing",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/17070953/file/original-44c1a00b9ee9e8447c7bf6b2d1bf5670.png?resize=1600x1200",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "七月的 Fintech 设计观察可以归纳为一个关键词：「流式化」。从投资组合的呼吸式调仓动效，到企业对账的实时交易流，再到发票处理的语义批注层——金融 UI 正在从「快照型」（打开看一眼当前状态）进化为「流式型」（持续观察正在发生的变化）。这背后的技术推动力是 AI 推理速度的提升——当 AI 能在毫秒内完成分类和分析，就没有理由让用户等到月末才看报表。设计层面的影响更深：流式界面需要全新的信息层级方法。快照型界面的核心是「重要性排序」（最重要的数字最大）；流式界面的核心是「时间节奏」（什么时候需要你注意、什么时候让你忽略）。金融设计师需要开始像做音乐一样做 UI——控制信息的节拍和强弱。",
+      "body_en": "July fintech design observation boils down to one keyword: \"streaming.\" From portfolio breathing rebalancing animations, to real-time enterprise reconciliation feeds, to invoice semantic annotation layers — financial UI is evolving from \"snapshot mode\" (open to check current state) to \"streaming mode\" (continuously observing changes). Technical driver: AI inference speed — when AI categorizes and analyzes in milliseconds, no reason to wait for month-end reports. Deeper design impact: streaming interfaces need entirely new information hierarchy methods. Snapshot UIs core is \"importance ranking\" (biggest number = most important); streaming UIs core is \"temporal rhythm\" (when to demand attention, when to allow ignoring). Financial designers need to start making UI like music — controlling information beats and dynamics.",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 热适应训练 — 夏季运动的智能温控界面",
+      "body": "七月高温季，运动 AI 的「热适应」功能成为焦点。Garmin 和 COROS 的夏季更新引入 AI 热适应训练模块：根据实时体温、出汗率、环境温度动态调整训练强度和补水提醒。界面用「温度色谱」覆盖整个屏幕背景——从冷蓝到暖黄到热红，用户瞬间感知当前热负荷状态。最精妙的设计：补水提醒不是弹窗打断训练流，而是屏幕边缘渐渐变干裂的纹理，像沙漠一样暗示「你该喝水了」。",
+      "body_en": "July heat puts AI \"heat adaptation\" features in focus. Garmin and COROS summer updates introduce AI heat adaptation training: dynamically adjusting intensity and hydration reminders based on real-time body temp, sweat rate, ambient temperature. Interface uses \"temperature spectrum\" as full-screen background — cold blue to warm yellow to hot red, instant heat load perception. Finest design: hydration reminder isn't a flow-breaking popup but screen edges gradually developing dry cracked textures, like desert suggesting \"time to drink.\"",
+      "tags": [
+        "Heat Adaptation",
+        "Temperature UI",
+        "Hydration",
+        "Summer Training"
+      ],
+      "link": "https://dribbble.com/search/heat-training-fitness-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=1200&q=80",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 团队热力对比 — 社交运动的竞争可视化",
+      "body": "Strava 2026 夏季更新的「Group Heatmap」功能引发设计圈关注：同一跑团的成员活动热力图叠加显示，你可以看到你的跑步区域和队友的重叠程度。AI 自动生成「本周团队活跃度排名」和「你和 XX 的训练重叠度 73%」。设计上用半透明的个人色彩叠加——每人一个颜色，重叠区域混色加深。把个人数据变成了社交画布。",
+      "body_en": "Strava 2026 summer \"Group Heatmap\" feature draws design attention: team members' activity heatmaps overlaid, showing your running zones' overlap with teammates. AI auto-generates \"weekly team activity ranking\" and \"your training overlap with XX: 73%.\" Design uses semi-transparent personal colors overlaid — each person one color, overlapping areas darken with blending. Turning personal data into social canvas.",
+      "tags": [
+        "Strava",
+        "Group Heatmap",
+        "Social Fitness",
+        "Color Blend"
+      ],
+      "link": "https://dribbble.com/search/strava-heatmap-social",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=1200&q=80",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动处方 — 从健身到医疗的设计融合",
+      "body": "2026 年 Q3 运动 AI 最引人注目的趋势：「运动处方」正式进入主流平台。Apple Health、Google Health Connect 开始整合医生开具的 AI 运动处方——高血压患者的降压步行计划、糖尿病前期的血糖管理运动方案。设计挑战在于如何在「医疗严肃性」和「运动趣味性」之间找到平衡：处方来源标注医院 logo 增加权威感，但训练界面依然保持运动 App 的活力感。两种设计语言在一个产品中和平共存。",
+      "body_en": "Most notable Q3 2026 sports AI trend: \"exercise prescription\" enters mainstream platforms. Apple Health and Google Health Connect now integrate doctor-prescribed AI exercise plans — blood pressure walking programs for hypertension, glucose management routines for pre-diabetes. Design challenge: balancing \"medical seriousness\" with \"exercise fun.\" Prescription source shows hospital logo for authority, but training interface retains fitness app vitality. Two design languages peacefully coexisting in one product.",
+      "tags": [
+        "Exercise Prescription",
+        "Medical AI",
+        "Apple Health",
+        "Dual Language"
+      ],
+      "link": "https://www.behance.net/search/projects/exercise-prescription-app-AI",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=80",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "七月运动 AI 的两个案例和一个趋势串在一起，揭示了一个正在发生的身份转变：运动 App 从「个人表现工具」变成了「健康基础设施」。热适应训练把环境变量纳入 AI 决策（不只是你的身体，还有你周围的世界）；社交热力图把个人数据变成社群体验（不只是你的成绩，还有你和他人的关系）；运动处方把医疗系统接入训练流程（不只是健身，还有治疗）。这三个方向合在一起，运动 AI 正在从一个「垂直品类 App」变成一个「健康操作系统的运动模块」。设计含义很深远：你不再是在设计一个独立产品，而是在设计一个生态系统中的接口——需要和天气数据、社交图谱、医疗记录无缝对接。运动 AI 设计师的下一个核心技能不是 UI 设计，是 API 设计思维。",
+      "body_en": "July's two cases and one trend reveal an identity shift: fitness apps transforming from \"personal performance tools\" to \"health infrastructure.\" Heat adaptation incorporates environmental variables (not just your body, the world around you); social heatmaps turn personal data into community experience (not just your results, your relationships); exercise prescriptions connect medical systems to training (not just fitness, therapy). Combined, sports AI is becoming a \"health OS exercise module\" rather than a standalone vertical app. Deep design implications: you're no longer designing an independent product but an interface within an ecosystem — needing seamless integration with weather data, social graphs, medical records. Next core skill for sports AI designers isn't UI design — it's API design thinking.",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 上下文摘要卡 — Perplexity Pages 的内容设计革新",
+      "body": "Perplexity Pages 在 2026 Q3 更新中引入了一个精妙的内容设计模式：「上下文摘要卡」。当文章引用外部来源时，不是传统的超链接或脚注，而是一个可展开的内联卡片——半透明背景、来源 favicon、一句话摘要、可信度评分。点击展开看完整引用段落。这解决了长文阅读中最大的痛点：「这个说法靠谱吗？」不需要离开当前页面就能验证。",
+      "body_en": "Perplexity Pages Q3 2026 introduces an exquisite content design pattern: \"contextual summary cards.\" When articles cite external sources, instead of traditional hyperlinks or footnotes, an expandable inline card appears — semi-transparent background, source favicon, one-line summary, credibility score. Click to expand full cited passage. Solves long-form reading's biggest pain point: \"Is this claim reliable?\" No need to leave the page to verify.",
+      "tags": [
+        "Inline Citation",
+        "Credibility UI",
+        "Reading UX",
+        "Perplexity"
+      ],
+      "link": "https://perplexity.ai/pages",
+      "linkText": "Perplexity Pages",
+      "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&q=80",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 排版情绪引擎 — 根据内容情感自动调色",
+      "body": "一个开源 typography 实验项目在设计社区引发热议：AI 分析文章的情感基调，自动微调排版参数——悲伤的段落行距略微加大（给呼吸空间）、紧张的段落字间距收紧（制造紧迫感）、幽默的段落标点符号微微放大（增加表情感）。不是改变字体或颜色，而是在亚像素级别调整排版的「情绪温度」。大部分读者说不出哪里不同，但阅读体验确实更沉浸了。",
+      "body_en": "An open-source typography experiment going viral in design community: AI analyzes article emotional tone, auto-adjusting typography parameters — sad paragraphs get slightly more line-height (breathing room), tense paragraphs tighten letter-spacing (creating urgency), humorous paragraphs subtly enlarge punctuation (adding expressiveness). Not changing fonts or colors but adjusting typography's \"emotional temperature\" at sub-pixel level. Most readers can't articulate what's different, but reading experience is measurably more immersive.",
+      "tags": [
+        "Emotional Typography",
+        "Sub-Pixel",
+        "AI Typesetting",
+        "Immersion"
+      ],
+      "link": "https://dribbble.com/search/emotional-typography-ai",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?w=1200&q=80",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「内容即组件」— Design System 和 CMS 的融合",
+      "body": "2026 Q3 内容设计的一个重要趋势：Design System 和 CMS 的边界正在消失。Sanity、Contentful 的新版本把设计 token 直接关联到内容字段——内容编辑者选择「紧急通知」内容类型时，排版参数自动切换到高对比度模式；选择「长文深度」时自动启用大行距和窄栏宽。内容类型决定视觉表达，而非设计师手动指定。Design System 的消费者从设计师扩展到了内容编辑者。",
+      "body_en": "Important Q3 2026 content design trend: Design System and CMS boundaries dissolving. Sanity, Contentful's new versions link design tokens directly to content fields — when editors select \"urgent notification\" content type, typography auto-switches to high-contrast mode; selecting \"long-form depth\" auto-enables generous line-height and narrow column width. Content type determines visual expression, not manual designer specification. Design System consumers expand from designers to content editors.",
+      "tags": [
+        "CMS Fusion",
+        "Design Tokens",
+        "Content Types",
+        "Structured Design"
+      ],
+      "link": "https://www.sanity.io/blog",
+      "linkText": "Sanity",
+      "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=1200&q=80",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "七月 Content Design 的三个发现指向同一个深层变化：排版正在从「设计师的手艺」变成「系统的智能」。Perplexity 的上下文摘要卡让引用验证自动化（过去是编辑的手工标注）；情绪排版引擎让版面节奏自动化（过去是排版师的直觉）；CMS × Design System 的融合让视觉适配自动化（过去是设计师的逐页调整）。这不是在说排版师和设计师要失业——恰恰相反。当低层次的排版决策被 AI 接管后，人类设计师被推向更高层次的判断：这篇内容的「叙事弧线」是什么？读者的情感旅程应该怎么编排？信息可信度应该用什么视觉锚点来建立？这些是 AI 目前做不了的。2026 年 Q3 的 Content Design 师，核心技能不再是「会排版」，而是「会编排」——像导演编排一部电影一样编排一段阅读体验。",
+      "body_en": "July Content Design's three findings point to one deep shift: typography is evolving from \"designer's craft\" to \"system's intelligence.\" Perplexity's contextual cards automate citation verification (was editor's manual annotation); emotional typography automates page rhythm (was typographer's intuition); CMS × Design System fusion automates visual adaptation (was designer's page-by-page adjustment). Not saying typographers are obsolete — the opposite. When low-level typography decisions are AI-handled, human designers are pushed to higher-level judgment: What's this content's narrative arc? How should the reader's emotional journey unfold? What visual anchors establish information credibility? These AI can't do yet. Q3 2026 content designers' core skill isn't \"typesetting\" but \"orchestrating\" — like a director orchestrating a film, orchestrating a reading experience.",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "Claude 4 界面 — AI 产品的「思考可见性」设计新标杆",
+      "body": "Anthropic Claude 4 的界面迭代在设计圈引发讨论：extended thinking 的可视化不再是简单的 loading 动画，而是一个可展开的「思维地图」——AI 正在考虑的不同方向用分支线表示，最终选择的路径加粗高亮。用户可以实时看到 AI「在想什么」但不会被信息淹没（默认折叠，好奇的用户可展开）。这是「认知透明」设计的新高度：不只告诉你 AI 在思考，还让你看到思考的形状。",
+      "body_en": "Anthropic Claude 4's interface iteration sparks design community discussion: extended thinking visualization is no longer simple loading animation but an expandable \"thought map\" — different directions AI is considering shown as branches, final chosen path bold-highlighted. Users see what AI is \"thinking\" in real-time without information overload (collapsed by default, curious users expand). New height of \"cognitive transparency\" design: not just telling you AI is thinking, but showing you the shape of thought.",
+      "tags": [
+        "Claude 4",
+        "Thought Map",
+        "Cognitive Transparency",
+        "Extended Thinking"
+      ],
+      "link": "https://claude.ai",
+      "linkText": "Claude",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI Agent 的「权限渐进」视觉模式 — 从新手到信任",
+      "body": "2026 Q3 AI Agent 产品设计的新共识：权限不应该一次性全部授予，而是随信任积累「渐进解锁」。视觉上表现为：新安装的 Agent 界面大量使用「锁定态」视觉（灰显图标、虚线边框、权限请求卡片）；随着使用时间增长和用户手动确认，界面逐渐「活化」——颜色饱和度提升、实线替代虚线、自主操作区域扩大。产品的视觉状态成为信任关系的实时映射。OpenAI、Anthropic、Google 的 Agent 产品都在收敛到这个模式。",
+      "body_en": "Q3 2026 AI Agent design consensus: permissions shouldn't be granted all at once but \"progressively unlocked\" as trust builds. Visually: newly installed Agent interfaces heavily use \"locked state\" visuals (greyed icons, dashed borders, permission request cards); as usage grows and users manually confirm, interface gradually \"activates\" — color saturation increases, solid replaces dashed lines, autonomous operation areas expand. Product's visual state becomes a real-time mapping of the trust relationship. OpenAI, Anthropic, Google Agent products all converging on this pattern.",
+      "tags": [
+        "Progressive Permission",
+        "Trust Gradient",
+        "Agent UX",
+        "Visual State"
+      ],
+      "link": "https://dribbble.com/search/ai-agent-permission-progressive",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&q=80",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 生成式 UI — 根据任务动态生成界面组件",
+      "body": "Vercel v0 和 Bolt 在 2026 Q3 把「生成式 UI」从原型工具推向了生产环境：AI 不只生成代码，还能根据用户当前任务实时生成最适合的界面组件。询问天气时生成天气卡片、分析数据时生成图表面板、做预算时生成计算器。界面不再是预先设计好的固定页面，而是 AI 实时「编织」的动态空间。设计师的角色从画界面变成了设计「组件生成规则」——规定什么场景下应该出现什么形态的 UI。",
+      "body_en": "Vercel v0 and Bolt in Q3 2026 push \"generative UI\" from prototyping to production: AI doesn't just generate code but real-time generates optimal interface components for the current task. Asking about weather generates weather cards, analyzing data generates chart panels, budgeting generates calculators. Interface is no longer pre-designed fixed pages but AI-\"woven\" dynamic space. Designer role shifts from drawing interfaces to designing \"component generation rules\" — specifying what UI shapes should appear in which scenarios.",
+      "tags": [
+        "Generative UI",
+        "v0",
+        "Dynamic Interface",
+        "Task-Aware"
+      ],
+      "link": "https://v0.dev",
+      "linkText": "v0",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
+      "date": "2026-07-08"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "七月 Visual for AI 的三个发现连在一起，描绘了 AI 产品界面设计正在经历的一次「存在论危机」：当界面本身可以被 AI 实时生成（Generative UI），传统意义上的「界面设计」还存在吗？Claude 4 的思维地图、Agent 的渐进权限、v0 的动态界面——三者的共同点是：界面不再是静态的人造物，而是动态的生成物。设计师设计的不是「页面」而是「规则」——思考应该怎么可视化的规则、信任应该怎么渐进的规则、UI 应该怎么按需生成的规则。这是设计行业自 responsive design 以来最大的范式转移。2016 年设计师学会了「设计适应屏幕的规则」；2026 年设计师需要学会「设计适应意图的规则」。屏幕尺寸是有限的变量（手机、平板、桌面），而用户意图是无限的变量。这意味着设计师不可能为每种意图画一个界面，而必须设计一个「能理解意图并生成适当界面的系统」。设计的终极形态不是 artifact，是 algorithm。",
+      "body_en": "July Visual for AI's three findings together depict an \"existential crisis\" in AI product interface design: when interfaces themselves can be AI-generated in real-time (Generative UI), does \"interface design\" in the traditional sense still exist? Claude 4's thought maps, Agent progressive permissions, v0's dynamic interfaces — all share: interfaces are no longer static human artifacts but dynamic generated objects. Designers design not \"pages\" but \"rules\" — rules for how thinking should be visualized, how trust should progress, how UI should be generated on-demand. The biggest paradigm shift since responsive design. 2016 designers learned \"rules for adapting to screens\"; 2026 designers must learn \"rules for adapting to intent.\" Screen sizes are finite variables (phone, tablet, desktop); user intents are infinite variables. Designers can't draw interfaces for every intent — they must design \"systems that understand intent and generate appropriate interfaces.\" Design's ultimate form isn't artifact — it's algorithm.",
+      "date": "2026-07-08"
     }
   ]
 }
