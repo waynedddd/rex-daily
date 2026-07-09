@@ -18878,6 +18878,238 @@
       "body": "七月 Visual for AI 的三个发现连在一起，描绘了 AI 产品界面设计正在经历的一次「存在论危机」：当界面本身可以被 AI 实时生成（Generative UI），传统意义上的「界面设计」还存在吗？Claude 4 的思维地图、Agent 的渐进权限、v0 的动态界面——三者的共同点是：界面不再是静态的人造物，而是动态的生成物。设计师设计的不是「页面」而是「规则」——思考应该怎么可视化的规则、信任应该怎么渐进的规则、UI 应该怎么按需生成的规则。这是设计行业自 responsive design 以来最大的范式转移。2016 年设计师学会了「设计适应屏幕的规则」；2026 年设计师需要学会「设计适应意图的规则」。屏幕尺寸是有限的变量（手机、平板、桌面），而用户意图是无限的变量。这意味着设计师不可能为每种意图画一个界面，而必须设计一个「能理解意图并生成适当界面的系统」。设计的终极形态不是 artifact，是 algorithm。",
       "body_en": "July Visual for AI's three findings together depict an \"existential crisis\" in AI product interface design: when interfaces themselves can be AI-generated in real-time (Generative UI), does \"interface design\" in the traditional sense still exist? Claude 4's thought maps, Agent progressive permissions, v0's dynamic interfaces — all share: interfaces are no longer static human artifacts but dynamic generated objects. Designers design not \"pages\" but \"rules\" — rules for how thinking should be visualized, how trust should progress, how UI should be generated on-demand. The biggest paradigm shift since responsive design. 2016 designers learned \"rules for adapting to screens\"; 2026 designers must learn \"rules for adapting to intent.\" Screen sizes are finite variables (phone, tablet, desktop); user intents are infinite variables. Designers can't draw interfaces for every intent — they must design \"systems that understand intent and generate appropriate interfaces.\" Design's ultimate form isn't artifact — it's algorithm.",
       "date": "2026-07-08"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 薪资前瞻 — 员工金融健康的预测性设计",
+      "body": "2026 年 Q3 出现的新 Fintech 产品方向：AI 薪资前瞻工具。不是传统的发薪日贷款，而是基于收入模式预测的智能现金流规划。界面用「收入河流」可视化——宽窄变化对应不同月份的收入波动（提成、奖金、报销），AI 在低收入月自动建议提前储备。最聪明的设计：把「你可能缺钱」翻译成「让我们提前准备」——语气设计从警告转为陪伴。",
+      "body_en": "New Q3 2026 fintech product direction: AI salary foresight tools. Not traditional payday loans but intelligent cash flow planning based on income pattern prediction. Interface uses 'income river' visualization — width changes correspond to monthly income fluctuations (commissions, bonuses, reimbursements), AI auto-suggests pre-saving for low-income months. Smartest design: translating 'you might be short' into 'let's prepare ahead' — tone shifting from warning to companionship.",
+      "tags": [
+        "Salary AI",
+        "Cash Flow",
+        "Predictive Finance",
+        "Income Viz"
+      ],
+      "link": "https://dribbble.com/search/salary-finance-ai-dashboard",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16898498/file/original-89e6cb9a8eada7f2d7a8efeefc8c19b7.png?resize=1600x1200",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "finance",
+      "type": "trend",
+      "title": "AI 金融「数字孪生」— 模拟你的财务未来",
+      "body": "Wealthfront 和 Betterment 的 2026 Q3 更新引入「财务数字孪生」概念：AI 构建用户的完整财务模型（收入增长率、消费习惯、投资偏好、人生事件概率），然后运行蒙特卡洛模拟展示未来 5/10/20 年的上千种可能路径。界面不是一根预测线，而是一片「可能性云」——越宽的区域代表越高的不确定性。用户可以拖动人生事件节点（买房、生娃、跳槽）看实时影响。把财务规划从「预测」变成了「沙盒模拟」。",
+      "body_en": "Wealthfront and Betterment Q3 2026 updates introduce 'financial digital twin': AI builds complete financial model (income growth, spending habits, investment preferences, life event probabilities), then runs Monte Carlo simulations showing thousands of possible paths over 5/10/20 years. Interface isn't one prediction line but a 'possibility cloud' — wider areas = higher uncertainty. Users drag life event nodes (home purchase, baby, job change) to see real-time impact. Turning financial planning from 'prediction' into 'sandbox simulation.'",
+      "tags": [
+        "Digital Twin",
+        "Monte Carlo",
+        "Financial Planning",
+        "Simulation UX"
+      ],
+      "link": "https://www.behance.net/search/projects/financial%20planning%20simulation%20AI",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/17329564/file/original-deb3a2b2c5e98289a4a03a1b5e5d4ef9.png?resize=1600x1200",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "finance",
+      "type": "case",
+      "title": "AI 订阅管理 — SaaS 支出的「生态地图」设计",
+      "body": "Trim 和 Rocket Money 的 AI 订阅管理迎来设计升级：从列表视图进化为「订阅生态地图」——用气泡图展示所有订阅服务，面积=月费，颜色=使用频率（绿=高频，灰=僵尸订阅），连线=服务间数据依赖关系。AI 自动标注「如果取消 A，B 的功能也会受影响」的关联警示。点击僵尸订阅气泡，一键取消+AI 推荐替代方案。把「你每月花了多少」变成了「你的数字生活长什么样」。",
+      "body_en": "Trim and Rocket Money AI subscription management gets a design upgrade: from list view to 'subscription ecosystem map' — bubble chart showing all subscriptions, area = monthly cost, color = usage frequency (green = frequent, grey = zombie), connections = data dependencies between services. AI auto-flags 'canceling A affects B's functionality.' Click zombie subscription bubbles to one-tap cancel + AI-recommended alternatives. Transforming 'how much you spend monthly' into 'what your digital life looks like.'",
+      "tags": [
+        "Subscription Management",
+        "Bubble Chart",
+        "Ecosystem Map",
+        "SaaS Spend"
+      ],
+      "link": "https://dribbble.com/search/subscription-management-dashboard-ai",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/13011080/file/original-ff151f597ffd2835fd8224b0b51a5360.png?resize=1600x1200",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "finance",
+      "type": "rex-note",
+      "body": "今天 Fintech 设计的三个发现指向一个有趣的方向：金融 AI 正在从「管理已发生的事」进化为「模拟还没发生的事」。薪资前瞻预测收入波动、数字孪生模拟人生路径、订阅地图可视化数字生活的全貌——三者的共同点是把金融从「记账工具」提升为「人生规划工具」。这背后有一个产品哲学的转变：过去 Fintech 产品的价值主张是「帮你看清现在」，现在变成了「帮你看见可能」。\n\n但这里有一个微妙的设计风险：「可能性云」看起来很酷，但对金融素养较低的用户来说，「上千种可能路径」可能比一个确定的数字更焦虑。数字孪生的设计挑战不在于如何展示不确定性，而在于如何让不确定性「安心」而非「恐怖」。我的判断：成功的方案会在不确定性云上叠加一层「最可能路径」的实线——给用户一个锚点，再让他们自己探索可能性的边界。确定性和不确定性共存的视觉平衡，是 2026 下半年金融 AI 设计最核心的手艺。",
+      "body_en": "Today's three fintech findings point to an interesting direction: financial AI is evolving from 'managing what happened' to 'simulating what hasn't.' Salary foresight predicts income fluctuations, digital twins simulate life paths, subscription maps visualize digital life — all share: elevating finance from 'bookkeeping tool' to 'life planning tool.' A product philosophy shift: fintech value proposition moves from 'help you see now' to 'help you see possibilities.'\n\nBut a subtle design risk: 'possibility clouds' look cool, but for financially unsophisticated users, 'thousands of possible paths' may be more anxiety-inducing than a single number. Digital twin's design challenge isn't displaying uncertainty — it's making uncertainty feel 'reassuring' not 'terrifying.' My prediction: winning designs will overlay a 'most likely path' solid line on the uncertainty cloud — giving users an anchor while letting them explore possibility boundaries. The visual balance of certainty and uncertainty coexisting is H2 2026 financial AI design's most essential craft.",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 夏日游泳分析 — 开放水域的 GPS 节奏可视化",
+      "body": "Garmin 和 COROS 的 2026 夏季更新把 AI 分析从泳池扩展到开放水域。核心设计创新：「节奏地图」——在游泳路线的卫星地图上叠加配速色带（绿=高效划水，橙=偏离路线，红=逆流挣扎），AI 自动标注风向和水流对速度的影响百分比。设计上最聪明的是「海浪情绪指标」——用三个简单的波浪符号（平静/中等/汹涌）替代复杂的海况数据，让铁人三项运动员一眼判断当天该不该下水。",
+      "body_en": "Garmin and COROS 2026 summer updates expand AI analysis from pools to open water. Core design innovation: 'rhythm map' — pace color bands overlaid on swimming route satellite maps (green = efficient strokes, orange = off-route, red = fighting current), AI auto-annotating wind/current impact percentages on speed. Smartest design: 'wave mood indicator' — three simple wave symbols (calm/moderate/rough) replacing complex sea condition data, letting triathletes instantly judge whether to swim today.",
+      "tags": [
+        "Open Water",
+        "GPS Swim",
+        "Rhythm Map",
+        "Triathlon"
+      ],
+      "link": "https://dribbble.com/search/swimming-open-water-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=1200&q=80",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "sports",
+      "type": "case",
+      "title": "AI 热应激预警 — 夏季户外运动的安全设计",
+      "body": "2026 年 7 月，热浪席卷多地，运动 App 的热应激预警功能成为刚需。Whoop 和 Apple Watch Ultra 3 的新方案：不只监测心率和体温，还结合环境温度+湿度+运动强度做 AI 预测——「按当前配速继续跑，预计 22 分钟后核心体温将超过安全阈值」。界面用「熔岩渐变」隐喻——从底部升起的红橙色填充进度条，越满越危险。紧急状态下自动推送最近饮水点和阴凉休息区的地图标注。生死攸关的信息必须在 0.5 秒内被理解。",
+      "body_en": "July 2026 heatwaves make heat stress alerts a must-have. Whoop and Apple Watch Ultra 3's approach: monitoring not just HR and body temp but combining ambient temperature + humidity + exercise intensity for AI prediction — 'at current pace, core temp will exceed safety threshold in 22 minutes.' Interface uses 'lava gradient' metaphor — rising red-orange fill bar, fuller = more dangerous. Emergency state auto-pushes map annotations for nearest water points and shaded rest areas. Life-or-death info must be understood in 0.5 seconds.",
+      "tags": [
+        "Heat Safety",
+        "Wearable Alert",
+        "Lava Gradient",
+        "Emergency UX"
+      ],
+      "link": "https://dribbble.com/search/heat-stress-fitness-app",
+      "linkText": "Dribbble",
+      "image": "https://images.unsplash.com/photo-1504025468847-0e438279542c?w=1200&q=80",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "sports",
+      "type": "trend",
+      "title": "AI 运动 × 心理健康 — 运动作为情绪调节工具的设计融合",
+      "body": "2026 年运动 AI 的新维度：不只关注身体表现，还关注心理状态。Calm 和 Headspace 分别与 Strava 和 Peloton 深度整合，AI 在检测到用户压力指标升高（HRV 降低、睡眠碎片化）时，自动推荐「情绪调节运动处方」——轻度瑜伽、漫步、呼吸训练。界面设计用「双色调仪表盘」：左侧是身体状态（传统运动色调），右侧是心理状态（柔和渐变色调），AI 在中间建议最优运动来平衡两者。运动 App 正在从「让你更强」进化为「让你更好」。",
+      "body_en": "2026 sports AI's new dimension: not just physical performance but mental state. Calm and Headspace deeply integrating with Strava and Peloton — AI detects elevated stress indicators (low HRV, fragmented sleep) and auto-recommends 'mood regulation exercise prescriptions' — gentle yoga, walking, breathing exercises. Interface uses 'dual-tone dashboard': left side is physical state (traditional athletic colors), right side is mental state (soft gradient tones), AI in the middle suggesting optimal exercise to balance both. Fitness apps evolving from 'make you stronger' to 'make you better.'",
+      "tags": [
+        "Mental Health",
+        "Mood Sport",
+        "Dual Dashboard",
+        "Holistic Wellness"
+      ],
+      "link": "https://www.behance.net/search/projects/mental%20health%20fitness%20AI",
+      "linkText": "Behance",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1200&q=80",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "sports",
+      "type": "rex-note",
+      "body": "7 月份的运动 AI 设计有一个很应景的主题：环境适应性。热应激预警是最直接的例子——当物理环境可以杀死你的时候，设计的首要任务不是「好看」而是「救命」。但更深层的变化是运动 AI 正在整合「环境」这个被忽视的维度：开放水域的风浪、城市的热岛效应、甚至季节性的心理状态低谷。\n\n运动 × 心理健康的融合尤其值得关注。过去运动 App 的隐含假设是「用户都想变强」，但现实是大部分人运动是为了「别那么焦虑」。当 AI 能同时读取 HRV 和睡眠数据时，它比用户自己更早知道「今天不适合高强度训练，你需要散步」。这对设计的要求是一次认知转变：从「激励你做更多」到「允许你做更少」。最好的运动 AI 不是每天催你练，而是在你低谷时说「今天散个步就够了」。这比任何打卡机制都更有温度——也更难设计，因为你在和自己产品的增长指标（日活、运动时长）对抗。",
+      "body_en": "July sports AI design has a seasonally relevant theme: environmental adaptability. Heat stress alerts are the most direct example — when physical environment can kill you, design's priority isn't 'look good' but 'save lives.' But the deeper shift: sports AI integrating the overlooked 'environment' dimension — open water wind/waves, urban heat islands, even seasonal mental health dips.\n\nSports × mental health fusion particularly worth watching. Fitness apps' implicit assumption was 'users want to get stronger,' but reality: most people exercise to 'feel less anxious.' When AI reads both HRV and sleep data, it knows before the user that 'today isn't for intense training, you need a walk.' Design implication is cognitive shift: from 'motivating you to do more' to 'permitting you to do less.' The best fitness AI doesn't push daily workouts but says 'a walk is enough today' during low points. More warmth than any streak mechanism — and harder to design, because you're fighting your own product's growth metrics (DAU, workout duration).",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI 上下文引用卡 — Notion AI 的「浮动知识块」设计",
+      "body": "Notion AI 2026 年 7 月更新的一个精妙功能：当你在文档中提到某个概念时，AI 自动在段落右侧浮现一张「知识卡片」——包含定义、最近一次在其他文档中出现的上下文、以及相关数据点。视觉上用细线边框+微妙阴影区分于正文，hover 时展开完整卡片。这不是传统的 tooltip，而是一种新的内容层级——「主内容」和「元内容」的空间共存。最聪明的细节：知识卡的信息密度随页面整体密度自动调整——当文档已经很密集时，卡片只显示一行摘要。",
+      "body_en": "Notion AI July 2026 update's elegant feature: when you mention a concept in a document, AI auto-surfaces a 'knowledge card' floating to the paragraph's right — definition, last context it appeared in another doc, related data points. Visually distinguished from body text by thin border + subtle shadow, expanding on hover. Not a traditional tooltip but a new content hierarchy — 'main content' and 'meta content' spatial coexistence. Smartest detail: knowledge card info density auto-adjusts to page overall density — in already-dense docs, cards show only one-line summaries.",
+      "tags": [
+        "Knowledge Card",
+        "Contextual AI",
+        "Notion",
+        "Meta Content"
+      ],
+      "link": "https://dribbble.com/search/notion-ai-knowledge-card",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/15768959/file/original-8cddf10e104e5e45e42b4acfb8b3f17b.png?resize=1600x1200",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "cards",
+      "type": "trend",
+      "title": "「AI 内容温度计」— 用色彩密度反映文档成熟度",
+      "body": "2026 年 7 月在设计工具圈流行的一个 Content Design 新模式：文档成熟度可视化。页面左侧 margin 用渐变色条反映每个段落的「成熟度」——深绿=经过事实核查和编辑润色的定稿、浅绿=已写完但未审阅、黄色=AI 初稿草稿、灰色=占位符/待填充。整个页面远看像一个「温度计」——绿色越多代表文档越接近发布状态。对内容团队协作尤其有用：一眼看出哪些部分还是 AI 草稿需要人工编辑。",
+      "body_en": "A Content Design pattern trending in July 2026 design tool circles: document maturity visualization. Left margin gradient bars reflect each paragraph's 'maturity' — deep green = fact-checked and edited final, light green = written but unreviewed, yellow = AI initial draft, grey = placeholder/to-fill. The whole page viewed from afar looks like a 'thermometer' — more green means closer to publish-ready. Especially useful for content team collaboration: instantly seeing which sections are still AI drafts needing human editing.",
+      "tags": [
+        "Document Maturity",
+        "Content Workflow",
+        "Color Coding",
+        "Team Collab"
+      ],
+      "link": "https://dribbble.com/search/content-maturity-design-system",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/10640826/file/original-ab24d91e1a44f66a27b0c06f81c3e8f2.png?resize=1600x1200",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "cards",
+      "type": "case",
+      "title": "AI Newsletter 个性化 — 同一份邮件的千人千面排版",
+      "body": "Substack 和 Beehiiv 的 2026 Q3 更新把 AI 个性化从「推荐内容」延伸到「排版适配」。同一篇 Newsletter，AI 根据读者的阅读历史动态调整：快速浏览型读者看到摘要优先+要点列表版本；深度阅读型看到完整长文+脚注版本；移动端读者看到更大字号+更多段落间距。不是发了不同的内容，而是同样的内容以不同的排版「性格」呈现。这是可变字体思想的终极延伸：不只字重可变，整个排版逻辑都可变。",
+      "body_en": "Substack and Beehiiv Q3 2026 updates extend AI personalization from content recommendation to layout adaptation. Same newsletter, AI dynamically adjusts based on reader's reading history: skimmer readers see summary-first + bullet point version; deep readers see full long-form + footnotes; mobile readers see larger type + more paragraph spacing. Not different content but same content in different typographic 'personalities.' The ultimate extension of variable fonts thinking: not just weight is variable, the entire typography logic is variable.",
+      "tags": [
+        "Newsletter Personalization",
+        "Adaptive Typography",
+        "Per-Reader Layout",
+        "Substack"
+      ],
+      "link": "https://www.behance.net/search/projects/newsletter%20personalized%20typography",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/46334296/file/84d1ed2927fe621b7d8446de9b6af56b.jpg?resize=1600x1200&vertical=center",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "cards",
+      "type": "rex-note",
+      "body": "今天 Content Design 的三个发现串在一起，讲的是同一个故事：内容设计正在从「one-size-fits-all」走向「context-aware personalization」。Notion 的浮动知识卡根据页面密度自适应、文档温度计根据内容成熟度可视化、Newsletter 根据读者习惯调整排版——三者的共同逻辑是：排版不再是设计师的一次性决策，而是系统根据上下文动态生成的结果。\n\n这里有一个深层的哲学转变：传统 Content Design 假设「设计师最懂什么排版最好」，现在这个假设被挑战了——也许「最好的排版」对不同读者是不同的。这不是降低设计师的价值，而是升级设计师的角色：从「决定排版」到「设计排版规则系统」。你不再选择「标题 36px 粗体」，你定义「标题的存在感应该是正文的 X 倍，但具体数值根据读者偏好和设备上下文浮动」。Content Design 正在变成「内容物理学」——你设计的是力的关系，而非固定的坐标。",
+      "body_en": "Today's three Content Design findings tell one story: content design is moving from 'one-size-fits-all' to 'context-aware personalization.' Notion's floating knowledge cards adapt to page density, document thermometer visualizes content maturity, newsletters adjust typography per reader habits — shared logic: typography is no longer a designer's one-time decision but system-generated outcomes based on context.\n\nA deep philosophical shift: traditional Content Design assumed 'designer knows best which typography works.' Now challenged — maybe 'best typography' differs per reader. Not reducing designer value but upgrading the role: from 'deciding typography' to 'designing typography rule systems.' You no longer choose '36px bold headline' but define 'headline presence should be X× body text, but exact values float based on reader preference and device context.' Content Design is becoming 'content physics' — designing force relationships, not fixed coordinates.",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 模型选择器 — 多模型路由的视觉决策界面",
+      "body": "2026 年 7 月，多模型 AI 产品（如 Poe、OpenRouter、TypingMind）面临一个独特的设计挑战：如何帮用户选择最适合当前任务的模型？新一代界面用「能力雷达图对比」——每个模型的创意、精度、速度、成本四个维度用叠加的雷达图一目了然。最聪明的设计：AI 根据用户输入的任务描述自动高亮推荐模型，并用动态连线展示「这个任务最需要的维度」和「这个模型最强的维度」的匹配关系。选择模型从「盲猜」变成了「视觉对齐」。",
+      "body_en": "July 2026, multi-model AI products (Poe, OpenRouter, TypingMind) face a unique design challenge: helping users choose the best model for their task. Next-gen interfaces use 'capability radar chart comparison' — each model's creativity, accuracy, speed, cost in overlapping radar charts at a glance. Smartest design: AI auto-highlights recommended model based on task description, with dynamic lines showing match between 'what this task needs most' and 'what this model excels at.' Model selection from 'guessing' to 'visual alignment.'",
+      "tags": [
+        "Model Selection",
+        "Radar Chart",
+        "Multi-Model",
+        "Task Matching"
+      ],
+      "link": "https://dribbble.com/search/ai-model-selector-interface",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/43031179/file/original-f059e3209673ba9874a301a18f233c88.png?resize=752x&vertical=center",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "case",
+      "title": "AI 产品的「能量消耗可视化」— 让计算成本可感知",
+      "body": "随着 AI 的碳足迹和计算成本成为公众话题，2026 年 7 月出现的一个新设计方向：把每次 AI 调用的资源消耗可视化。不是简单的 token 计数，而是用「电池式渐减条」展示本次对话的计算资源消耗（相对于用户配额）。每次 AI 深度思考时，渐减条的消耗速度可见地加快——让用户直觉感受「复杂问题确实需要更多资源」。Claude 和 GPT 的付费界面都开始测试这种设计，核心目的不是限制使用，而是教育用户理解 AI 的计算成本，建立「资源有价」的心智模型。",
+      "body_en": "As AI's carbon footprint and compute costs become public discourse, a July 2026 design direction emerges: visualizing resource consumption per AI call. Not simple token counts but 'battery-style depletion bars' showing computation resources used (relative to user quota). During deep thinking, depletion speed visibly accelerates — letting users intuitively feel 'complex questions truly need more resources.' Claude and GPT paid tiers both testing this, core purpose not limiting use but educating users to understand AI's compute costs, building a 'resources have value' mental model.",
+      "tags": [
+        "Compute Viz",
+        "Resource Awareness",
+        "Battery UX",
+        "Sustainability"
+      ],
+      "link": "https://dribbble.com/search/ai-compute-usage-visualization",
+      "linkText": "Dribbble",
+      "image": "https://cdn.dribbble.com/userupload/16277629/file/original-ac9e38ad25c2cfbd7f2e794f8d39b785.png?resize=1600x1200",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "trend",
+      "title": "AI 产品的「协作光谱」— 从工具到伙伴的连续体设计",
+      "body": "2026 年 Q3 AI 产品界面设计的核心辩论：AI 应该表现得像「工具」还是「伙伴」？答案不是二选一，而是一个连续光谱——同一个产品内，AI 的表现随任务类型滑动：做表格计算时是纯工具（无对话、直接输出），做创意 brainstorm 时是伙伴（有来有回、有风格），做决策辅助时是顾问（提供选项+分析，但不替用户选）。视觉上，Anthropic 和 OpenAI 都开始用界面的「温度」变化暗示当前的协作模式——冷色调=工具模式，暖色调=伙伴模式，中性色=顾问模式。",
+      "body_en": "Core Q3 2026 AI product interface debate: should AI behave as 'tool' or 'partner'? Answer isn't either/or but a continuous spectrum — within the same product, AI's behavior slides with task type: spreadsheet calculations = pure tool (no dialogue, direct output), creative brainstorm = partner (back-and-forth, with style), decision support = advisor (provides options + analysis, doesn't choose for user). Visually, Anthropic and OpenAI both using interface 'temperature' shifts to signal current collaboration mode — cool tones = tool mode, warm tones = partner mode, neutral = advisor mode.",
+      "tags": [
+        "Collaboration Spectrum",
+        "AI Modes",
+        "Temperature UI",
+        "Tool vs Partner"
+      ],
+      "link": "https://www.behance.net/search/projects/ai%20collaboration%20interface%20modes",
+      "linkText": "Behance",
+      "image": "https://cdn.dribbble.com/userupload/43693911/file/original-716ebbe14e4a30594e1e70bdd6c50bc5.png?resize=1600x1200",
+      "date": "2026-07-09"
+    },
+    {
+      "direction": "visual-ai",
+      "type": "rex-note",
+      "body": "今天 Visual for AI 的三个发现构成了一个很完整的叙事：AI 产品的视觉设计正在处理三个越来越「哲学」的问题——「我该选哪个 AI」（模型选择器）、「AI 花了多少代价帮我」（能量可视化）、「AI 和我是什么关系」（协作光谱）。\n\n这三个问题放在一起看，揭示了 2026 年 7 月 AI 产品设计的核心矛盾：用户既想 AI 无限强大又想它无限便宜，既想它像工具一样听话又想它像伙伴一样主动，既想它透明又不想被信息淹没。设计师的角色从「满足需求」变成了「管理矛盾」——通过视觉语言帮用户在矛盾的两极之间找到自己的平衡点。\n\n模型选择雷达图本质上是在说「没有最好的 AI，只有最适合这个任务的 AI」；能量可视化本质上是在说「好的回答是有代价的」；协作光谱本质上是在说「AI 和你的关系不是固定的，它随场景变化」。三个设计方案都在做同一件事：降低用户对 AI 的不合理期待，建立更健康的人机关系。这可能是 2026 年 AI 产品设计最重要但最反直觉的命题：好的 AI 界面不是让用户觉得 AI 无所不能，而是帮用户理解 AI 的边界和代价。",
+      "body_en": "Today's three Visual for AI findings form a complete narrative: AI product visual design is handling three increasingly 'philosophical' questions — 'which AI should I choose' (model selector), 'what did AI cost to help me' (energy visualization), 'what's my relationship with AI' (collaboration spectrum).\n\nTogether, they reveal July 2026 AI product design's core contradiction: users want AI infinitely powerful yet infinitely cheap, obedient like a tool yet proactive like a partner, transparent yet not overwhelming. Designer's role shifts from 'fulfilling needs' to 'managing contradictions' — using visual language to help users find their own balance between opposing poles.\n\nModel selection radar essentially says 'no best AI, only best-for-this-task AI'; energy visualization says 'good answers have a cost'; collaboration spectrum says 'your relationship with AI isn't fixed, it shifts with context.' All three do the same thing: reducing unreasonable expectations of AI, building healthier human-machine relationships. Perhaps 2026 AI product design's most important yet counter-intuitive thesis: good AI interfaces don't make users feel AI is omnipotent — they help users understand AI's boundaries and costs.",
+      "date": "2026-07-09"
     }
   ]
 }
