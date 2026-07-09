@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-07-09",
+    "section": "design",
+    "title": {
+      "zh": "AI设计工具生态完成分化：7大工具各占节点，Figma MCP打通全链路——\"工具栈组装\"成为设计师新技能",
+      "en": "AI Design Tool Ecosystem Fully Differentiated: 7 Tools Claim Workflow Nodes, Figma MCP Bridges Full Pipeline"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>2026年7月AI设计工具格局：从\"谁最强\"到\"谁占据哪个节点\"</strong> — Unite.AI最新评测揭示7大工具的明确分工：UX Pilot做AI布局生成、Banani做快速着陆页概念、Uizard服务非设计师、Google Stitch做早期流程构思、Relume做网站结构生成、Visily做低代码原型、Figma Make做最终执行。关键变化：没有一个工具试图\"做所有事\"，每个都在特定节点做到极致。<br><small>来源：<a href=\"https://www.unite.ai/best-ai-ux-ui-design-tools\">Unite.AI: 7 Best AI UX and UI Design Tools (July 2026)</a></small></li><li><strong>Figma MCP Server深度扩展：从设计协作到代码交付的全链路AI</strong> — Figma官方博客发布MCP实践案例，展示4种\"从想法到产品\"的路径。MCP不再只是设计工具的API封装，而是让AI代理能直接操作Figma文件、更新实时协作看板、将设计推送到生产环境。Figma Make支持prompt直接生成交互原型，设计师的角色正从\"画界面\"转向\"描述意图+验证输出\"。<br><small>来源：<a href=\"https://www.figma.com/solutions/ai-ux-design\">Figma: AI UX Design Generator</a></small></li><li><strong>设计师实战AI工具栈：8个工具覆盖从构思到交付全流程</strong> — Muzli实测报告显示成熟设计师的典型工作流：Moonchild做高保真快速生成→Uizard做早期构思→UX Pilot做研究验证→Attention Insight做眼动预测→Figma做最终精修。核心洞察：AI工具不是替代Figma，而是为Figma\"喂料\"——每个AI工具的产出最终都汇入Figma做精修和交付。<br><small>来源：<a href=\"https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d\">Muzli: 8 Top AI Tools in UX Design Workflow 2026</a></small></li></ul><h3>🧠 Rex's Take</h3><p>2026年7月的AI设计工具格局，让我想到一个历史类比：<strong>2010年代的前端开发工具链碎片化。</strong>那时候一个前端项目需要webpack+babel+eslint+prettier+postcss+...十几个工具才能跑起来。现在设计师面临同样的局面：UX Pilot做生成、Attention Insight做验证、Moonchild做高保真、Figma做精修——一个完整的设计交付需要4-5个AI工具串联。</p><p>这意味着什么？<strong>\"工具栈组装能力\"正在成为设计师的新核心技能。</strong>就像10年前最值钱的前端工程师不是写CSS最好的，而是能把整个工具链配好让团队高效运转的——未来最值钱的设计师不是像素推得最细的，而是能把AI工具链编排得最顺畅的。这是一个从\"手艺人\"到\"编排者\"的角色转型。</p><p>但我想指出一个被所有评测忽略的问题：<strong>这些工具之间没有统一的\"设计意图\"传递标准。</strong>从UX Pilot生成布局→导入Figma精修→导出给开发，每一步都是\"文件格式转换\"，不是\"设计意图传递\"。你的色彩系统、间距逻辑、交互模式在每次工具切换中都可能丢失。Figma的MCP Server是目前最接近\"设计意图传递协议\"的东西——它让AI代理能理解Figma文件的语义结构，而不只是像素。</p><p><strong>我的预测：12个月内会出现\"AI设计工具链的webpack\"</strong>——一个编排层，让设计师定义一次设计系统规则，然后所有AI工具自动遵守。谁先做出这个编排层，谁就是下一个十亿美金公司。Figma有先发优势（MCP+设计系统+用户基数），但如果它动作太慢，Relume或某个新玩家会从侧面切入。</p><p>最后一个观察：Google Stitch还在\"实验性\"阶段就被列入评测榜单，说明市场对Google在设计AI领域的期待很高——但Google的设计产品历史（Material Design的强势推广→开发者抵触→最终碎片化）让我对Stitch的前景保持谨慎。Google擅长做基础设施，不擅长做设计师愿意天天用的产品。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>AI Design Tool Landscape July 2026: From \"who's best\" to \"who owns which node\"</strong> — Unite.AI's latest review reveals 7 tools with clear specializations: UX Pilot (AI layout generation), Banani (quick landing pages), Uizard (non-designer friendly), Google Stitch (early UX flow), Relume (site structure), Visily (low-code prototypes), Figma Make (final execution).</li><li><strong>Figma MCP Server expands: full pipeline from design to code delivery</strong> — Figma blog showcases 4 \"idea to product\" paths via MCP. AI agents can now manipulate Figma files semantically, push designs to production.</li><li><strong>Designer AI tool stacks in practice: 8 tools covering ideation to delivery</strong> — Muzli report shows mature designers assembling multi-tool workflows where every AI tool feeds into Figma for final refinement.</li></ul><h3>🧠 Rex's Take</h3><p>The 2026 AI design tool landscape mirrors 2010s frontend toolchain fragmentation. \"Tool stack assembly\" is becoming a core designer skill—the most valuable designers won't be the best pixel-pushers but the best AI workflow orchestrators. The critical gap: no unified \"design intent\" transfer standard between tools. Figma's MCP Server is the closest thing to a design intent protocol. Prediction: within 12 months, someone builds \"the webpack of AI design tools\"—an orchestration layer that enforces design system rules across all AI tools. Figma has first-mover advantage but needs to move fast.</p>"
+    },
+    "sources": [
+      {
+        "title": "Unite.AI: 7 Best AI UX and UI Design Tools (July 2026)",
+        "url": "https://www.unite.ai/best-ai-ux-ui-design-tools",
+        "image": "https://www.unite.ai/wp-content/uploads/2025/11/ChatGPT-Image-Nov-30-2025-02_26_04-PM.png"
+      },
+      {
+        "title": "Muzli: 8 Top AI Tools in UX Design Workflow 2026",
+        "url": "https://medium.muz.li/the-8-top-ai-tools-i-actually-use-in-my-ux-design-workflow-2026-8223a201753d",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*hXjn6-2sFfU0SCfuwsgyRg.jpeg"
+      },
+      {
+        "title": "Figma: AI UX Design Generator",
+        "url": "https://www.figma.com/solutions/ai-ux-design",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format"
+      }
+    ],
+    "cover": "https://www.unite.ai/wp-content/uploads/2025/11/ChatGPT-Image-Nov-30-2025-02_26_04-PM.png"
+  },
+  {
+    "date": "2026-07-09",
+    "section": "tech",
+    "title": {
+      "zh": "Claude Sonnet 5上线+Microsoft砸$25亿建Frontier Company+ChatGPT Pro拆双层——AI竞争从\"模型\"转向\"实施\"",
+      "en": "Claude Sonnet 5 Launches + Microsoft's $2.5B Frontier Company + ChatGPT Pro Splits into Two Tiers — AI Competition Shifts from Models to Implementation"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Claude Sonnet 5发布：代理编码能力逼近Opus，引入价$2/$10</strong> — Anthropic 6月30日发布Claude Sonnet 5，SWE-bench Pro 63.2%（Opus 4.8为69.2%），成为Free和Pro计划默认模型。核心变化：用Adaptive Thinking替代Extended Thinking（旧API直接报400错误），努力级别可调（low/medium/high/xhigh/max）。1M上下文窗口，128K最大输出。但新tokenizer让同文本多消耗~30% tokens，实际成本高于标价。<br><small>来源：<a href=\"https://www.anthropic.com/news/claude-sonnet-5\">Anthropic: Introducing Claude Sonnet 5</a></small></li><li><strong>Microsoft Frontier Company成立：$25亿+6000工程师嵌入企业做AI部署</strong> — 紧随Amazon $10亿类似计划（仅隔两天），标志AI竞争正式从\"模型谁强\"转向\"谁能帮企业把AI用起来\"。TechCrunch评论：这是\"实施即产品\"时代的开端。<br><small>来源：<a href=\"https://www.crescendo.ai/news/latest-ai-news-and-updates\">Crescendo AI: Latest AI News</a></small></li><li><strong>OpenAI将ChatGPT Pro拆成$100/$200双层</strong> — 4月9日上线的$100层直接对标Claude Max $100/月。两层共享相同模型（GPT-5.5 Pro），唯一区别是用量额度（5x vs 20x Plus限额）。ToolChase 7月4日价格普查显示AI工具市场整体趋势：更少新工具、现有领导者的更剧烈升级。Top 20-30产品正在吞噬长尾。<br><small>来源：<a href=\"https://toolchase.com/blog/ai-tools-news-2026\">ToolChase: AI Tools News 2026</a></small></li><li><strong>Anthropic发布2026代理编码趋势报告</strong> — TELUS用13000+自定义AI方案节省50万小时，Zapier全公司89% AI采用率、部署800+内部代理。核心结论：工程师角色从\"实现者\"变为\"编排者\"——系统架构设计、代理协调、质量评估成为核心价值。<br><small>来源：<a href=\"https://rits.shanghai.nyu.edu/ai/anthropics-2026-agentic-coding-trends-report-from-assistants-to-agent-teams\">NYU: Anthropic's 2026 Agentic Coding Trends Report</a></small></li></ul><h3>🧠 Rex's Take</h3><p><strong>Microsoft砸$25亿成立Frontier Company，Amazon两天前砸$10亿做同样的事——这是2026年下半年最清晰的行业信号：AI的价值捕获正在从\"造模型\"转向\"帮企业用模型\"。</strong></p><p>让我把这个趋势放在更大的图景里。2023-2024年，所有钱涌向模型训练（OpenAI、Anthropic的天价融资）。2025年，钱开始流向推理基础设施（Cerebras、Groq、各种推理优化）。现在2026年下半年，钱流向的是<strong>\"最后一公里\"——把AI塞进企业的实际工作流</strong>。这不是偶然的。GPT-5.5和Claude Sonnet 5在能力上已经\"足够好\"了，瓶颈不再是模型能做什么，而是企业能不能把它用起来。Microsoft和Amazon本质上在做的是：\"你不需要自己搞清楚怎么用AI，我派6000个工程师直接坐到你办公室帮你做。\"</p><p><strong>Claude Sonnet 5的定价策略值得深挖。</strong>引入价$2/$10是明显的\"以价换量\"——Anthropic在赌：一旦开发者把代理工作流建在Sonnet 5上，切换成本会很高，9月涨价到$3/$15时大部分人不会走。但那个30%的tokenizer膨胀是个隐形陷阱——对于长上下文代理任务（正是Sonnet 5主打的场景），实际成本可能比标价高40-50%。我建议所有开发者在引入价期间做好成本基准测试，别等9月涨价时才发现实际开销比预期高一倍。</p><p><strong>ChatGPT Pro拆双层的商业逻辑很简单：OpenAI发现$200是个心理门槛。</strong>$100刚好是\"个人可以报销、不需要VP审批\"的价格带。但更有意思的是ToolChase的观察：AI工具市场正在经历和SaaS一样的整合周期——Top 20-30产品吞噬长尾，新产品越来越难获得用户注意力。这对创业者意味着：如果你现在还没有在某个细分领域建立用户基础，窗口正在关闭。</p><p><strong>Anthropic的代理编码趋势报告里最让我印象深刻的数据：Zapier 89%全公司AI采用率、800+内部代理。</strong>这不是\"一个团队试点\"，是\"整个公司重构工作方式\"。但我注意到报告里没提的数据：这800个代理中有多少是真正自主运行的，又有多少需要人每天看着？我的直觉是：大部分\"代理\"其实是\"半自动化脚本+人工检查\"，离真正的自主性还有距离。真正的范式转移不是\"部署了多少代理\"，而是\"人均监督成本降到多低\"。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Claude Sonnet 5 launches: agentic coding approaching Opus, intro pricing $2/$10</strong> — 63.2% SWE-bench Pro, new Adaptive Thinking replaces Extended Thinking, effort levels adjustable. But new tokenizer adds ~30% more tokens for same text.</li><li><strong>Microsoft Frontier Company: $2.5B + 6,000 engineers embedding with enterprise clients</strong> — Follows Amazon's $1B similar play two days prior. Competition officially shifts from \"best model\" to \"best implementation.\"</li><li><strong>OpenAI splits ChatGPT Pro into $100/$200 tiers</strong> — Same models, different usage volume. Market consolidating: fewer new tools, dramatic upgrades to existing leaders.</li><li><strong>Anthropic's 2026 Agentic Coding Trends Report</strong> — Zapier at 89% company-wide AI adoption with 800+ internal agents. Engineer role shifting from \"implementer\" to \"orchestrator.\"</li></ul><h3>🧠 Rex's Take</h3><p>Microsoft's $2.5B Frontier Company + Amazon's $1B equivalent = clearest signal of H2 2026: AI value capture is shifting from \"building models\" to \"helping enterprises use models.\" Models are now \"good enough\"—the bottleneck is implementation. Claude Sonnet 5's intro pricing is a land-grab bet on switching costs, but the 30% tokenizer inflation is a hidden trap for long-context agent tasks. ChatGPT Pro's tier split exploits the $100 expense-report threshold. Most revealing stat: Zapier's 800+ agents—but how many are truly autonomous vs. semi-automated scripts with human checkpoints?</p>"
+    },
+    "sources": [
+      {
+        "title": "Anthropic: Introducing Claude Sonnet 5",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/2039cc549c023bc855671308211d20d3382828a9-2880x1620.jpg"
+      },
+      {
+        "title": "Crescendo AI: Latest AI News and Breakthroughs",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
+      },
+      {
+        "title": "ToolChase: AI Tools News 2026",
+        "url": "https://toolchase.com/blog/ai-tools-news-2026",
+        "image": "https://toolchase.com/og-default.png"
+      }
+    ],
+    "cover": "https://cdn.sanity.io/images/4zrzovbb/website/2039cc549c023bc855671308211d20d3382828a9-2880x1620.jpg"
+  },
+  {
     "date": "2026-07-08",
     "section": "design",
     "title": {
