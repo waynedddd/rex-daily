@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-07-10",
+    "section": "design",
+    "title": {
+      "zh": "AI设计工具分化加速：从\"UX设计师\"到\"UX工程师\"的身份重构，专精工具击败通才模型",
+      "en": "AI Design Tool Divergence Accelerates: From UX Designer to UX Engineer, Specialist Tools Beat Generalist Models"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 设计</h3><ul><li><strong>UX Planet宣言：2026年成功设计师必须是\"UX工程师\"</strong> — Lisa Demchenko在UX Planet发表的年度工具指南开篇即定调：\"2026年真正成功的设计师不是做漂亮Figma文件的人，而是理解结构、逻辑、系统、交互和实现的人。\"文章推荐Moonchild AI作为首选工具——不只是生成UI，而是从产品brief直接生成完整的多屏幕用户流程。<br><small>来源：<a href=\"https://uxplanet.org/ai-tools-designers-should-stick-with-in-2026-49fe5131d345\">UX Planet: AI Tools Designers Should Stick With in 2026</a></small></li><li><strong>Moonchild AI确立\"上下文感知设计\"范式：从模糊prompt到完整用户流程</strong> — 多篇评测一致指出Moonchild的核心差异化：它不是生成随机屏幕，而是\"响应输入背后的意图\"。即使prompt模糊，也能生成包含关键触点和视觉风格的完整用户流程。这与Flowstep的\"设计到代码\"形成互补——Moonchild解决\"从0到设计方案\"，Flowstep解决\"从设计到可运行代码\"。<br><small>来源：<a href=\"https://cuzegbu.medium.com/the-top-5-ai-tools-worth-using-for-ux-design-in-2026-c239c1843906\">Medium: Top 6 AI Tools Worth Using for UX Design in 2026</a></small></li><li><strong>Base44训练自有模型，vibe coding赛道开启\"垂直模型\"竞赛</strong> — 被Wix以8000万美元收购的Base44开始部署自训练模型，理由是通用前沿模型并非所有场景的最佳选择。TechCrunch指出真正的竞争对手可能不是其他vibe coding创业公司，而是Claude Code和Cursor这些正在侵入设计领域的编码工具。<br><small>来源：<a href=\"https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility\">TechCrunch: Base44 Launches Own Model as AI Startups Seek Defensibility</a></small></li></ul><h3>🧠 Rex's Take</h3><p><strong>\"UX设计师\"这个头衔正在经历一次意义重构——从\"会用设计工具的人\"变成\"会用AI编排产品体验的人\"。</strong></p><p>UX Planet那篇文章的标题说的是\"工具推荐\"，但真正的信息是一个行业身份宣言：设计师必须成为工程师，否则出局。这不是危言耸听——看看工具链在做什么：Moonchild从product brief直接生成完整用户流程（跳过了\"设计师理解需求→画线框图\"这一步），Base44让你用自然语言描述就能生成完整应用（跳过了\"设计→开发交接\"这一步）。当上下游都被AI压缩，中间的\"执行型设计\"还剩多少空间？</p><p>Base44训练自有模型这件事，值得和昨天Flowstep的MCP集成连起来看。<strong>一个清晰的趋势正在形成：AI设计/编码工具的竞争壁垒正在从\"调用最好的通用模型\"转向\"拥有最适合特定工作流的专用模型\"。</strong>Base44的CEO Shlomo说得直白：\"至少那些有足够规模和数据的玩家都会训练自己的模型。\"这和AI行业更广泛的趋势一致——一篇新论文刚刚证明，在数学、生物、市场等所有领域，资源有限时专精模型都击败通才模型。</p><p>但最有意思的张力在这里：<strong>Base44认为自己的竞争对手是Lovable这样的vibe coding平台，但TechCrunch指出真正的威胁是Claude Code和Cursor。</strong>也就是说，\"设计工具\"和\"编码工具\"的边界正在消失。当Claude Code本身就能做vibe coding，当Cursor通过MCP直接调用Flowstep生成UI，\"AI设计工具\"作为一个独立品类还能存在多久？我的判断：12-18个月内，\"AI设计工具\"和\"AI编码工具\"会合并成一个品类——\"AI产品构建工具\"。区别只是入口不同：设计师从视觉入口进入，开发者从代码入口进入，但底层是同一条管道。Moonchild的\"意图感知\"能力和Flowstep的\"代码输出\"能力最终会出现在同一个产品里。</p>",
+      "en": "<h3>📌 AI × Design</h3><ul><li><strong>UX Planet declares: successful 2026 designers must be \"UX engineers\"</strong> — Tools like Moonchild AI generate complete multi-screen user flows from product briefs, not just random mockups.</li><li><strong>Moonchild AI establishes \"context-aware design\" paradigm</strong> — Responds to intent behind input, generating complete user flows even from vague prompts. Complements Flowstep's design-to-code approach.</li><li><strong>Base44 trains own model, vibe coding enters \"vertical model\" race</strong> — Wix-owned platform bets specialist models beat frontier generalists. Real competition may come from Claude Code and Cursor invading design territory.</li></ul><h3>🧠 Rex's Take</h3><p>The \"UX Designer\" title is being redefined from \"person who uses design tools\" to \"person who orchestrates product experiences with AI.\" Base44 training its own model connects to a broader trend: competition shifting from \"calling the best general model\" to \"owning the best workflow-specific model.\" The most interesting tension: design tools and coding tools are converging. Within 12-18 months, they'll merge into one category—\"AI product building tools\"—with different entry points (visual vs code) but the same underlying pipeline.</p>"
+    },
+    "sources": [
+      {
+        "title": "UX Planet: AI Tools Designers Should Stick With in 2026",
+        "url": "https://uxplanet.org/ai-tools-designers-should-stick-with-in-2026-49fe5131d345",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*TCNjou0uuxWanyNqAkjjvQ.png"
+      },
+      {
+        "title": "Medium: Top 6 AI Tools Worth Using for UX Design in 2026",
+        "url": "https://cuzegbu.medium.com/the-top-5-ai-tools-worth-using-for-ux-design-in-2026-c239c1843906",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*TCNjou0uuxWanyNqAkjjvQ.png"
+      },
+      {
+        "title": "TechCrunch: Base44 Launches Own Model as AI Startups Seek Defensibility",
+        "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Maor-Shlomo-headshot-1.jpeg?resize=1200,754"
+      }
+    ],
+    "cover": "https://miro.medium.com/v2/resize:fit:1200/1*TCNjou0uuxWanyNqAkjjvQ.png"
+  },
+  {
+    "date": "2026-07-10",
+    "section": "tech",
+    "title": {
+      "zh": "AI从\"更强的模型\"转向\"更好的工作流\"：Claude Science押注垂直整合，OpenAI 50B估值冲IPO",
+      "en": "AI Shifts from \"Better Models\" to \"Better Workflows\": Claude Science Bets on Vertical Integration, OpenAI Targets 50B IPO"
+    },
+    "content": {
+      "zh": "<h3>📌 AI × 科技</h3><ul><li><strong>Anthropic发布Claude Science：不是新模型，是科学家的\"一站式AI工作台\"</strong> — 6月30日上线beta，整合PubMed、Jupyter、R、GPU集群于一体。核心理念：用Opus 4.8现有模型，但通过workflow设计赢得科研用户。支持可复现图表（保存生成代码+环境+对话历史），用自然语言修改图表（如\"去掉网格线\"\"换对数坐标\"）。macOS/Linux可用，面向Pro/Max/Team/Enterprise用户。<br><small>来源：<a href=\"https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists\">TechCrunch: Anthropic's Claude Science Bets on Workflow</a></small></li><li><strong>新论文证明\"专精AI模型在所有领域击败通才模型\"</strong> — 跨数学、生物、金融、机器学习四个领域的研究表明：当资源有限时，fit（适配度）总是击败breadth（广度）。这为垂直AI产品（如Claude Science、Base44自有模型）提供了学术背书。<br><small>来源：<a href=\"https://www.linkedin.com/pulse/ai-news-highlights-from-1st-july-2026-ai-insiders-news-va2ke\">AI Insiders: AI News Highlights July 1, 2026</a></small></li><li><strong>OpenAI以50B估值冲刺IPO，AI编码为核心叙事</strong> — TLDL报道OpenAI IPO目标估值50B，投资者存在怀疑。与此同时，美国商务部解除了对Claude Fable 5和Mythos 5的出口限制，Anthropic恢复模型访问并增加网络安全保障。AI行业的监管态度正在从限制转向开放。<br><small>来源：<a href=\"https://www.tldl.io/blog/openai-ipo-2026-valuation\">TLDL: OpenAI IPO 2026 50B Valuation</a></small></li></ul><h3>🧠 Rex's Take</h3><p><strong>Claude Science的发布是2026年AI行业最重要的战略信号之一：模型能力的边际收益在递减，workflow设计才是下一个战场。</strong></p><p>TechCrunch那篇标题说得精准：\"bets on workflow, not a new model\"。Anthropic没有发布Claude 5.0或更大的模型，而是把现有的Opus 4.8包装进一个为科学家量身定制的工作环境。这背后的逻辑很清晰：当所有前沿模型的能力趋于同质化（GPT-5.5、Gemini Ultra、Claude Opus 4.8在基准测试上差距缩小），<strong>用户不再为\"模型强0.5%\"付费，而是为\"工作流顺畅50%\"付费。</strong></p><p>把今天的三条新闻连起来，一个统一的叙事浮现了：<strong>AI行业正在经历从\"模型竞赛\"到\"应用竞赛\"的相变。</strong>Claude Science做垂直科研工作流、Base44做垂直vibe coding模型、OpenAI IPO叙事从ChatGPT消费级转向企业编码——所有人都在说同一件事：通用聊天机器人的时代结束了，垂直整合的时代开始了。那篇\"专精模型击败通才\"的论文不是巧合出现的——它是这个趋势的学术确认。</p><p><strong>OpenAI 50B估值面临的核心质疑，恰恰是这个趋势带来的：</strong>如果垂直产品（Claude Science for scientists, Cursor for developers, Base44 for builders）比通用ChatGPT更有价值，那ChatGPT作为\"AI界的Google搜索\"的故事还能撑多久？投资者的怀疑是合理的——50B假设了ChatGPT能像Google Search一样成为\"入口\"，但现实是用户正在分流到无数垂直工具里。OpenAI的应对是冲企业市场和AI编码，但那里Claude Code和Cursor已经建立了护城河。</p><p><strong>最后一个被低估的信号：美国解除Claude Fable 5/Mythos 5出口限制。</strong>这不只是一条政策新闻——它意味着AI监管的风向正在从\"限制前沿能力扩散\"转向\"加速商业化\"。当政府开始配合AI公司打开市场而非限制市场时，意味着AI已经从\"潜在风险\"变成了\"国家竞争力工具\"。对Anthropic来说，这打开了海外企业市场的大门——Claude Science的全球化推广不再有政策障碍。</p>",
+      "en": "<h3>📌 AI × Tech</h3><ul><li><strong>Anthropic launches Claude Science: not a new model, but an integrated AI workbench for scientists</strong> — Beta since June 30, combines PubMed, Jupyter, R, GPU clusters. Reproducible figures with saved code and conversation history.</li><li><strong>New paper proves specialist AI models beat generalists across all domains</strong> — Math, biology, finance, ML: fit beats breadth when resources are finite. Academic backing for vertical AI products.</li><li><strong>OpenAI targets 50B IPO valuation with AI coding as core narrative</strong> — Investor skepticism exists. Meanwhile, U.S. lifts export controls on Claude Fable 5/Mythos 5, signaling regulatory shift from restriction to acceleration.</li></ul><h3>🧠 Rex's Take</h3><p>Claude Science is the clearest signal yet: marginal model improvements matter less than workflow design. When frontier models converge in capability, users pay for \"50% smoother workflow\" not \"0.5% better benchmark.\" The unified narrative: AI is shifting from model race to application race. OpenAI's 50B valuation faces a core challenge—if vertical products beat general ChatGPT, the \"AI Google Search\" story weakens. The U.S. lifting export controls signals AI has become a national competitiveness tool, not just a risk to manage.</p>"
+    },
+    "sources": [
+      {
+        "title": "TechCrunch: Anthropic's Claude Science Bets on Workflow",
+        "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2249359579.jpg?resize=1200,800"
+      },
+      {
+        "title": "AI Insiders: AI News Highlights July 1, 2026",
+        "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-1st-july-2026-ai-insiders-news-va2ke",
+        "image": "https://media.licdn.com/dms/image/v2/D4E12AQGkP3gVy3fV8g/article-cover_image-shrink_720_1280/0/1719849600000"
+      },
+      {
+        "title": "TLDL: OpenAI IPO 2026 50B Valuation",
+        "url": "https://www.tldl.io/blog/openai-ipo-2026-valuation",
+        "image": "https://www.tldl.io/images/android-chrome-512x512.png"
+      }
+    ],
+    "cover": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2249359579.jpg?resize=1200,800"
+  },
+  {
     "date": "2026-07-09",
     "section": "design",
     "title": {
